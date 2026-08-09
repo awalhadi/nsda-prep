@@ -19,10 +19,32 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
+const ANCHOR_LAST_RE = /^(all|none)\s+of\s+(the\s+above|these|them|above)$/i;
+const REFERENTIAL_RE = /^both\s+[a-z0-9]+\s+(?:and|&)\s+[a-z0-9]+$/i;
+
+function isAnchorLast(opt: string): boolean {
+  return ANCHOR_LAST_RE.test(opt.trim());
+}
+
+function isReferential(opt: string): boolean {
+  return REFERENTIAL_RE.test(opt.trim());
+}
+
 function shuffleOptions(q: MCQQuestion): MCQQuestion {
+  if (q.options.some(isReferential)) return q;
+
   const correctText = q.options[q.answerIndex];
-  const shuffled = shuffle(q.options);
-  return { ...q, options: shuffled, answerIndex: shuffled.indexOf(correctText) };
+  const anchorIdx = q.options.findIndex(isAnchorLast);
+
+  if (anchorIdx === -1) {
+    const shuffled = shuffle(q.options);
+    return { ...q, options: shuffled, answerIndex: shuffled.indexOf(correctText) };
+  }
+
+  const rest = q.options.filter((_, i) => i !== anchorIdx);
+  const shuffledRest = shuffle(rest);
+  const finalOptions = [...shuffledRest, q.options[anchorIdx]];
+  return { ...q, options: finalOptions, answerIndex: finalOptions.indexOf(correctText) };
 }
 
 type Phase = "active" | "results";
