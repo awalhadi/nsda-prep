@@ -19,6 +19,12 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
+function shuffleOptions(q: MCQQuestion): MCQQuestion {
+  const correctText = q.options[q.answerIndex];
+  const shuffled = shuffle(q.options);
+  return { ...q, options: shuffled, answerIndex: shuffled.indexOf(correctText) };
+}
+
 type Phase = "active" | "results";
 
 interface Props {
@@ -31,7 +37,10 @@ interface Props {
 }
 
 export default function QuizClient({ moduleId, moduleTitle, allQuestions, count, timed, secondsPerQuestion = 30 }: Props) {
-  const questions = useMemo(() => shuffle(allQuestions).slice(0, count), [allQuestions, count]);
+  const questions = useMemo(
+    () => shuffle(allQuestions).slice(0, count).map(shuffleOptions),
+    [allQuestions, count]
+  );
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [locked, setLocked] = useState(false);
