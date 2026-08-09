@@ -1,282 +1,2242 @@
 [
-{
-"id": "b4-184",
-"type": "mcq",
-"question": "What class makes a button large?",
-"options": [
-"btn-lg",
-"btn-large",
-"btn-big",
-"btn-size-lg"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-185",
-"type": "mcq",
-"question": "Which class makes a button small?",
-"options": [
-"btn-sm",
-"btn-small",
-"btn-xs",
-"btn-size-sm"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-186",
-"type": "mcq",
-"question": "How do you create a modal in Bootstrap?",
-"options": [
-"<div class=\"modal\">",
-"<div class=\"popup\">",
-"<div class=\"dialog\">",
-"<div class=\"window\">"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-187",
-"type": "mcq",
-"question": "How do you trigger a modal using a button?",
-"options": [
-"data-toggle=\"modal\" data-target=\"#id\"",
-"modal-show=\"#id\"",
-"show-modal=\"#id\"",
-"toggle-modal=\"#id\""
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-188",
-"type": "mcq",
-"question": "Which class adds a tooltip?",
-"options": [
-"data-toggle=\"tooltip\"",
-"tooltip",
-"title-tooltip",
-"tooltip-show"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-189",
-"type": "mcq",
-"question": "How do you make a progress bar?",
-"options": [
-"<div class=\"progress\"><div class=\"progress-bar\"></div></div>",
-"<div class=\"bar progress\"></div>",
-"<progress class=\"progress\"></progress>",
-"<div class=\"progressbar\"></div>"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-190",
-"type": "mcq",
-"question": "How do you make a responsive embed (video)?",
-"options": [
-"embed-responsive embed-responsive-16by9",
-"responsive-video",
-"video-embed",
-"embed-video"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-191",
-"type": "mcq",
-"question": "How do you make a badge with pill style?",
-"options": [
-"badge rounded-pill",
-"badge-pill",
-"badge-pill-style",
-"badge-rounded"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-192",
-"type": "mcq",
-"question": "How do you make a nav link active?",
-"options": [
-"class=\"nav-link active\"",
-"class=\"nav-link current\"",
-"class=\"nav-link selected\"",
-"class=\"nav-item active\""
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-193",
-"type": "mcq",
-"question": "How do you create a Bootstrap carousel?",
-"options": [
-"<div class=\"carousel slide\">",
-"<div class=\"slider\">",
-"<div class=\"carousel-container\">",
-"<div class=\"image-slider\">"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-194",
-"type": "mcq",
-"question": "How do you add indicators in a carousel?",
-"options": [
-"<ol class=\"carousel-indicators\">",
-"<ul class=\"carousel-indicators\">",
-"<div class=\"carousel-dots\">",
-"<ol class=\"carousel-dots\">"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-195",
-"type": "mcq",
-"question": "How do you add controls (prev/next) in carousel?",
-"options": [
-"<a class=\"carousel-control-prev\">",
-"<a class=\"carousel-prev\">",
-"<a class=\"prev-slide\">",
-"<a class=\"carousel-arrow-prev\">"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-196",
-"type": "mcq",
-"question": "Which class makes a navbar dark?",
-"options": [
-"navbar-dark",
-"navbar-black",
-"navbar-dark-theme",
-"navbar-night"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-197",
-"type": "mcq",
-"question": "Which class makes a navbar light?",
-"options": [
-"navbar-light",
-"navbar-white",
-"navbar-bright",
-"navbar-light-theme"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-198",
-"type": "mcq",
-"question": "How do you make a card image at the top?",
-"options": [
-"<img class=\"card-img-top\">",
-"<img class=\"card-top\">",
-"<img class=\"card-image-top\">",
-"<img class=\"top-card-img\">"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-199",
-"type": "mcq",
-"question": "How do you add a card footer?",
-"options": [
-"<div class=\"card-footer\">",
-"<div class=\"footer-card\">",
-"<footer class=\"card\">",
-"<div class=\"card-bottom\">"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-200",
-"type": "mcq",
-"question": "How do you create a list group?",
-"options": [
-"<ul class=\"list-group\">",
-"<ul class=\"group-list\">",
-"<ul class=\"list-items\">",
-"<ul class=\"list\">"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-201",
-"type": "mcq",
-"question": "How do you add an active item in list group?",
-"options": [
-"class=\"list-group-item active\"",
-"class=\"list-group-item current\"",
-"class=\"list-group-item selected\"",
-"class=\"list-group-item highlight\""
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-202",
-"type": "mcq",
-"question": "How do you create an input group?",
-"options": [
-"<div class=\"input-group\">",
-"<div class=\"form-group\">",
-"<div class=\"form-input\">",
-"<div class=\"input-wrapper\">"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-},
-{
-"id": "b4-203",
-"type": "mcq",
-"question": "How do you add a prepend text or button in input group?",
-"options": [
-"<span class=\"input-group-text\">",
-"<span class=\"input-prepend\">",
-"<div class=\"prepend-text\">",
-"<div class=\"input-text\">"
-],
-"answerIndex": 0,
-"topic": "Bootstrap",
-"source": "MCQ Question Paper"
-}
+  {
+    "id": "b4-184",
+    "type": "mcq",
+    "question": "What class makes a button large?",
+    "options": [
+      "btn-lg",
+      "btn-large",
+      "btn-big",
+      "btn-size-lg"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-185",
+    "type": "mcq",
+    "question": "Which class makes a button small?",
+    "options": [
+      "btn-sm",
+      "btn-small",
+      "btn-xs",
+      "btn-size-sm"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-186",
+    "type": "mcq",
+    "question": "How do you create a modal in Bootstrap?",
+    "options": [
+      "<div class=\"modal\">",
+      "<div class=\"popup\">",
+      "<div class=\"dialog\">",
+      "<div class=\"window\">"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-187",
+    "type": "mcq",
+    "question": "How do you trigger a modal using a button?",
+    "options": [
+      "data-toggle=\"modal\" data-target=\"#id\"",
+      "modal-show=\"#id\"",
+      "show-modal=\"#id\"",
+      "toggle-modal=\"#id\""
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-188",
+    "type": "mcq",
+    "question": "Which class adds a tooltip?",
+    "options": [
+      "data-toggle=\"tooltip\"",
+      "tooltip",
+      "title-tooltip",
+      "tooltip-show"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-189",
+    "type": "mcq",
+    "question": "How do you make a progress bar?",
+    "options": [
+      "<div class=\"progress\"><div class=\"progress-bar\"></div></div>",
+      "<div class=\"bar progress\"></div>",
+      "<progress class=\"progress\"></progress>",
+      "<div class=\"progressbar\"></div>"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-190",
+    "type": "mcq",
+    "question": "How do you make a responsive embed (video)?",
+    "options": [
+      "embed-responsive embed-responsive-16by9",
+      "responsive-video",
+      "video-embed",
+      "embed-video"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-191",
+    "type": "mcq",
+    "question": "How do you make a badge with pill style?",
+    "options": [
+      "badge rounded-pill",
+      "badge-pill",
+      "badge-pill-style",
+      "badge-rounded"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-192",
+    "type": "mcq",
+    "question": "How do you make a nav link active?",
+    "options": [
+      "class=\"nav-link active\"",
+      "class=\"nav-link current\"",
+      "class=\"nav-link selected\"",
+      "class=\"nav-item active\""
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-193",
+    "type": "mcq",
+    "question": "How do you create a Bootstrap carousel?",
+    "options": [
+      "<div class=\"carousel slide\">",
+      "<div class=\"slider\">",
+      "<div class=\"carousel-container\">",
+      "<div class=\"image-slider\">"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-194",
+    "type": "mcq",
+    "question": "How do you add indicators in a carousel?",
+    "options": [
+      "<ol class=\"carousel-indicators\">",
+      "<ul class=\"carousel-indicators\">",
+      "<div class=\"carousel-dots\">",
+      "<ol class=\"carousel-dots\">"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-195",
+    "type": "mcq",
+    "question": "How do you add controls (prev/next) in carousel?",
+    "options": [
+      "<a class=\"carousel-control-prev\">",
+      "<a class=\"carousel-prev\">",
+      "<a class=\"prev-slide\">",
+      "<a class=\"carousel-arrow-prev\">"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-196",
+    "type": "mcq",
+    "question": "Which class makes a navbar dark?",
+    "options": [
+      "navbar-dark",
+      "navbar-black",
+      "navbar-dark-theme",
+      "navbar-night"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-197",
+    "type": "mcq",
+    "question": "Which class makes a navbar light?",
+    "options": [
+      "navbar-light",
+      "navbar-white",
+      "navbar-bright",
+      "navbar-light-theme"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-198",
+    "type": "mcq",
+    "question": "How do you make a card image at the top?",
+    "options": [
+      "<img class=\"card-img-top\">",
+      "<img class=\"card-top\">",
+      "<img class=\"card-image-top\">",
+      "<img class=\"top-card-img\">"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-199",
+    "type": "mcq",
+    "question": "How do you add a card footer?",
+    "options": [
+      "<div class=\"card-footer\">",
+      "<div class=\"footer-card\">",
+      "<footer class=\"card\">",
+      "<div class=\"card-bottom\">"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-200",
+    "type": "mcq",
+    "question": "How do you create a list group?",
+    "options": [
+      "<ul class=\"list-group\">",
+      "<ul class=\"group-list\">",
+      "<ul class=\"list-items\">",
+      "<ul class=\"list\">"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-201",
+    "type": "mcq",
+    "question": "How do you add an active item in list group?",
+    "options": [
+      "class=\"list-group-item active\"",
+      "class=\"list-group-item current\"",
+      "class=\"list-group-item selected\"",
+      "class=\"list-group-item highlight\""
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-202",
+    "type": "mcq",
+    "question": "How do you create an input group?",
+    "options": [
+      "<div class=\"input-group\">",
+      "<div class=\"form-group\">",
+      "<div class=\"form-input\">",
+      "<div class=\"input-wrapper\">"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "b4-203",
+    "type": "mcq",
+    "question": "How do you add a prepend text or button in input group?",
+    "options": [
+      "<span class=\"input-group-text\">",
+      "<span class=\"input-prepend\">",
+      "<div class=\"prepend-text\">",
+      "<div class=\"input-text\">"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "MCQ Question Paper"
+  },
+  {
+    "id": "bs-001",
+    "type": "mcq",
+    "question": "What is the correct class for a Bootstrap container that is fixed-width?",
+    "options": [
+      "container",
+      "container-fluid",
+      "container-fixed",
+      "container-width"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-002",
+    "type": "mcq",
+    "question": "Which class makes a container full-width (100%)?",
+    "options": [
+      "container-fluid",
+      "container-full",
+      "container-100",
+      "container-wide"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-003",
+    "type": "mcq",
+    "question": "How many columns does the Bootstrap grid system have by default?",
+    "options": [
+      "12",
+      "10",
+      "16",
+      "24"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-004",
+    "type": "mcq",
+    "question": "Which class is used to create a row in Bootstrap grid?",
+    "options": [
+      "row",
+      "grid-row",
+      "col-row",
+      "container-row"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-005",
+    "type": "mcq",
+    "question": "What does the class 'col-md-6' mean?",
+    "options": [
+      "6 columns on medium screens and up",
+      "6 columns only on medium screens",
+      "6 rows on medium screens",
+      "Half width on all screens"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-006",
+    "type": "mcq",
+    "question": "Which breakpoint corresponds to 'sm' in Bootstrap?",
+    "options": [
+      ">= 576px",
+      ">= 768px",
+      ">= 992px",
+      ">= 1200px"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-007",
+    "type": "mcq",
+    "question": "Which breakpoint corresponds to 'md' in Bootstrap?",
+    "options": [
+      ">= 768px",
+      ">= 576px",
+      ">= 992px",
+      ">= 1200px"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-008",
+    "type": "mcq",
+    "question": "Which breakpoint corresponds to 'lg' in Bootstrap?",
+    "options": [
+      ">= 992px",
+      ">= 768px",
+      ">= 1200px",
+      ">= 1400px"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-009",
+    "type": "mcq",
+    "question": "Which breakpoint corresponds to 'xl' in Bootstrap?",
+    "options": [
+      ">= 1200px",
+      ">= 992px",
+      ">= 1400px",
+      ">= 1600px"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-010",
+    "type": "mcq",
+    "question": "Which class makes a column take full width on all screen sizes?",
+    "options": [
+      "col-12",
+      "col-full",
+      "col-100",
+      "col"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-011",
+    "type": "mcq",
+    "question": "How do you create equal-width columns?",
+    "options": [
+      "Use only 'col' class",
+      "Use col-equal",
+      "Use col-auto",
+      "Use col-same"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-012",
+    "type": "mcq",
+    "question": "Which class is used for auto-width column based on content?",
+    "options": [
+      "col-auto",
+      "col-fit",
+      "col-content",
+      "col-size-auto"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-013",
+    "type": "mcq",
+    "question": "How do you offset a column by 2 in Bootstrap?",
+    "options": [
+      "offset-2 or offset-md-2",
+      "col-offset-2",
+      "margin-left-2",
+      "push-2"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-014",
+    "type": "mcq",
+    "question": "Which class creates a primary button?",
+    "options": [
+      "btn btn-primary",
+      "btn btn-main",
+      "btn btn-blue",
+      "btn-primary"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-015",
+    "type": "mcq",
+    "question": "Which class creates a success (green) button?",
+    "options": [
+      "btn btn-success",
+      "btn btn-green",
+      "btn btn-ok",
+      "btn-success"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-016",
+    "type": "mcq",
+    "question": "Which class creates a danger (red) button?",
+    "options": [
+      "btn btn-danger",
+      "btn btn-red",
+      "btn btn-error",
+      "btn-danger"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-017",
+    "type": "mcq",
+    "question": "Which class creates a warning (yellow/orange) button?",
+    "options": [
+      "btn btn-warning",
+      "btn btn-yellow",
+      "btn btn-alert",
+      "btn-warning"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-018",
+    "type": "mcq",
+    "question": "Which class creates an info (light blue) button?",
+    "options": [
+      "btn btn-info",
+      "btn btn-blue-light",
+      "btn btn-information",
+      "btn-info"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-019",
+    "type": "mcq",
+    "question": "Which class creates a light button?",
+    "options": [
+      "btn btn-light",
+      "btn btn-white",
+      "btn btn-pale",
+      "btn-light"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-020",
+    "type": "mcq",
+    "question": "Which class creates a dark button?",
+    "options": [
+      "btn btn-dark",
+      "btn btn-black",
+      "btn btn-night",
+      "btn-dark"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-021",
+    "type": "mcq",
+    "question": "Which class creates an outline primary button?",
+    "options": [
+      "btn btn-outline-primary",
+      "btn btn-primary-outline",
+      "btn outline-primary",
+      "btn-outline"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-022",
+    "type": "mcq",
+    "question": "Which class makes a button take full width?",
+    "options": [
+      "btn-block (BS4) or w-100 (BS5)",
+      "btn-full",
+      "btn-100",
+      "btn-wide"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-023",
+    "type": "mcq",
+    "question": "Which class is used for a button group?",
+    "options": [
+      "btn-group",
+      "button-group",
+      "group-btn",
+      "btn-set"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-024",
+    "type": "mcq",
+    "question": "How do you create a vertical button group?",
+    "options": [
+      "btn-group-vertical",
+      "btn-group-v",
+      "vertical-btn-group",
+      "btn-vertical"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-025",
+    "type": "mcq",
+    "question": "Which class is required for form controls in Bootstrap?",
+    "options": [
+      "form-control",
+      "form-input",
+      "input-control",
+      "form-field"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-026",
+    "type": "mcq",
+    "question": "Which class is used for form labels?",
+    "options": [
+      "form-label",
+      "label-form",
+      "form-title",
+      "control-label"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-027",
+    "type": "mcq",
+    "question": "Which class makes a form control large?",
+    "options": [
+      "form-control-lg",
+      "form-lg",
+      "input-lg",
+      "form-control-large"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-028",
+    "type": "mcq",
+    "question": "Which class makes a form control small?",
+    "options": [
+      "form-control-sm",
+      "form-sm",
+      "input-sm",
+      "form-control-small"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-029",
+    "type": "mcq",
+    "question": "Which class is used for checkboxes and radios in Bootstrap 5?",
+    "options": [
+      "form-check",
+      "form-checkbox",
+      "custom-control",
+      "form-radio"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-030",
+    "type": "mcq",
+    "question": "Which class is used for select dropdowns?",
+    "options": [
+      "form-select",
+      "form-control",
+      "form-dropdown",
+      "select-control"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-031",
+    "type": "mcq",
+    "question": "Which class creates a floating label form?",
+    "options": [
+      "form-floating",
+      "floating-label",
+      "form-float",
+      "label-float"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-032",
+    "type": "mcq",
+    "question": "Which class is used for validation success state?",
+    "options": [
+      "is-valid",
+      "valid",
+      "form-valid",
+      "success"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-033",
+    "type": "mcq",
+    "question": "Which class is used for validation error state?",
+    "options": [
+      "is-invalid",
+      "invalid",
+      "form-invalid",
+      "error"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-034",
+    "type": "mcq",
+    "question": "Which class shows valid feedback message?",
+    "options": [
+      "valid-feedback",
+      "feedback-valid",
+      "form-valid-msg",
+      "success-feedback"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-035",
+    "type": "mcq",
+    "question": "Which class shows invalid feedback message?",
+    "options": [
+      "invalid-feedback",
+      "feedback-invalid",
+      "form-error-msg",
+      "error-feedback"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-036",
+    "type": "mcq",
+    "question": "What is the basic structure of a Bootstrap navbar?",
+    "options": [
+      "<nav class=\"navbar\">",
+      "<div class=\"navbar\">",
+      "<header class=\"navbar\">",
+      "<ul class=\"navbar\">"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-037",
+    "type": "mcq",
+    "question": "Which class expands the navbar on large screens?",
+    "options": [
+      "navbar-expand-lg",
+      "navbar-lg",
+      "navbar-expand",
+      "navbar-full"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-038",
+    "type": "mcq",
+    "question": "Which class is used for the navbar brand/logo?",
+    "options": [
+      "navbar-brand",
+      "nav-brand",
+      "brand",
+      "logo-nav"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-039",
+    "type": "mcq",
+    "question": "Which class is used for the navbar toggler button?",
+    "options": [
+      "navbar-toggler",
+      "nav-toggle",
+      "menu-toggler",
+      "navbar-button"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-040",
+    "type": "mcq",
+    "question": "Which class holds the collapsible menu items?",
+    "options": [
+      "collapse navbar-collapse",
+      "navbar-menu",
+      "nav-collapse",
+      "menu-collapse"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-041",
+    "type": "mcq",
+    "question": "Which class is used for navigation links inside navbar?",
+    "options": [
+      "nav-link",
+      "navbar-link",
+      "menu-link",
+      "nav-item-link"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-042",
+    "type": "mcq",
+    "question": "Which class is used for each item in navbar nav?",
+    "options": [
+      "nav-item",
+      "navbar-item",
+      "menu-item",
+      "nav-li"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-043",
+    "type": "mcq",
+    "question": "How do you create a dropdown in Bootstrap?",
+    "options": [
+      "<div class=\"dropdown\">",
+      "<div class=\"drop-menu\">",
+      "<div class=\"select-menu\">",
+      "<div class=\"dropdown-list\">"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-044",
+    "type": "mcq",
+    "question": "Which class is used for the dropdown toggle button?",
+    "options": [
+      "dropdown-toggle",
+      "drop-toggle",
+      "toggle-dropdown",
+      "btn-dropdown"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-045",
+    "type": "mcq",
+    "question": "Which class is used for the dropdown menu?",
+    "options": [
+      "dropdown-menu",
+      "drop-menu",
+      "menu-dropdown",
+      "dropdown-list"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-046",
+    "type": "mcq",
+    "question": "Which class is used for items inside dropdown menu?",
+    "options": [
+      "dropdown-item",
+      "drop-item",
+      "menu-item",
+      "dropdown-link"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-047",
+    "type": "mcq",
+    "question": "How do you create a card in Bootstrap?",
+    "options": [
+      "<div class=\"card\">",
+      "<div class=\"box\">",
+      "<div class=\"panel\">",
+      "<div class=\"card-box\">"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-048",
+    "type": "mcq",
+    "question": "Which class holds the main content of a card?",
+    "options": [
+      "card-body",
+      "card-content",
+      "card-main",
+      "card-text-area"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-049",
+    "type": "mcq",
+    "question": "Which class is used for card title?",
+    "options": [
+      "card-title",
+      "card-heading",
+      "card-header-title",
+      "title-card"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-050",
+    "type": "mcq",
+    "question": "Which class is used for card text?",
+    "options": [
+      "card-text",
+      "card-paragraph",
+      "card-body-text",
+      "text-card"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-051",
+    "type": "mcq",
+    "question": "Which class is used for card header?",
+    "options": [
+      "card-header",
+      "card-top",
+      "card-heading",
+      "header-card"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-052",
+    "type": "mcq",
+    "question": "How do you create a group of cards?",
+    "options": [
+      "card-group",
+      "cards",
+      "card-set",
+      "group-card"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-053",
+    "type": "mcq",
+    "question": "How do you create a card deck (equal height) in older Bootstrap?",
+    "options": [
+      "card-deck",
+      "card-group",
+      "card-equal",
+      "deck-card"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-054",
+    "type": "mcq",
+    "question": "Which class creates an alert?",
+    "options": [
+      "alert",
+      "notification",
+      "message",
+      "notice"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-055",
+    "type": "mcq",
+    "question": "Which class creates a primary alert?",
+    "options": [
+      "alert alert-primary",
+      "alert-primary",
+      "alert blue",
+      "primary-alert"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-056",
+    "type": "mcq",
+    "question": "Which class creates a success alert?",
+    "options": [
+      "alert alert-success",
+      "alert-success",
+      "alert green",
+      "success-alert"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-057",
+    "type": "mcq",
+    "question": "Which class creates a danger alert?",
+    "options": [
+      "alert alert-danger",
+      "alert-danger",
+      "alert red",
+      "danger-alert"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-058",
+    "type": "mcq",
+    "question": "Which class makes an alert dismissible?",
+    "options": [
+      "alert-dismissible",
+      "alert-close",
+      "dismiss-alert",
+      "alert-hide"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-059",
+    "type": "mcq",
+    "question": "Which class is used for the close button in alerts?",
+    "options": [
+      "btn-close",
+      "close",
+      "alert-close",
+      "dismiss"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-060",
+    "type": "mcq",
+    "question": "Which class creates a badge?",
+    "options": [
+      "badge",
+      "label",
+      "tag",
+      "chip"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-061",
+    "type": "mcq",
+    "question": "Which class creates a primary badge?",
+    "options": [
+      "badge bg-primary",
+      "badge-primary",
+      "badge blue",
+      "primary-badge"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-062",
+    "type": "mcq",
+    "question": "How do you make a rounded (pill) badge in Bootstrap 5?",
+    "options": [
+      "badge rounded-pill",
+      "badge-pill",
+      "badge-round",
+      "rounded-badge"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-063",
+    "type": "mcq",
+    "question": "Which class is used for the progress bar container?",
+    "options": [
+      "progress",
+      "progress-bar-container",
+      "bar-wrapper",
+      "progress-wrapper"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-064",
+    "type": "mcq",
+    "question": "Which class is used for the actual progress bar?",
+    "options": [
+      "progress-bar",
+      "bar",
+      "progress-fill",
+      "progress-value"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-065",
+    "type": "mcq",
+    "question": "Which class makes a progress bar striped?",
+    "options": [
+      "progress-bar-striped",
+      "striped",
+      "progress-stripe",
+      "bar-striped"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-066",
+    "type": "mcq",
+    "question": "Which class makes a progress bar animated?",
+    "options": [
+      "progress-bar-animated",
+      "animated",
+      "progress-animate",
+      "bar-animated"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-067",
+    "type": "mcq",
+    "question": "Which class creates a table with Bootstrap styling?",
+    "options": [
+      "table",
+      "bs-table",
+      "table-bootstrap",
+      "styled-table"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-068",
+    "type": "mcq",
+    "question": "Which class makes a table striped?",
+    "options": [
+      "table-striped",
+      "striped-table",
+      "table-stripe",
+      "table-alternate"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-069",
+    "type": "mcq",
+    "question": "Which class makes a table bordered?",
+    "options": [
+      "table-bordered",
+      "bordered-table",
+      "table-border",
+      "table-lines"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-070",
+    "type": "mcq",
+    "question": "Which class makes a table hoverable?",
+    "options": [
+      "table-hover",
+      "hover-table",
+      "table-hoverable",
+      "table-onhover"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-071",
+    "type": "mcq",
+    "question": "Which class makes a table small?",
+    "options": [
+      "table-sm",
+      "table-small",
+      "table-xs",
+      "small-table"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-072",
+    "type": "mcq",
+    "question": "Which class makes a table responsive (scrollable on small screens)?",
+    "options": [
+      "table-responsive",
+      "responsive-table",
+      "table-scroll",
+      "table-mobile"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-073",
+    "type": "mcq",
+    "question": "Which class creates a modal dialog?",
+    "options": [
+      "modal-dialog",
+      "modal-box",
+      "dialog",
+      "modal-window"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-074",
+    "type": "mcq",
+    "question": "Which class holds the content of a modal?",
+    "options": [
+      "modal-content",
+      "modal-body-wrapper",
+      "modal-inner",
+      "content-modal"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-075",
+    "type": "mcq",
+    "question": "Which class is used for modal header?",
+    "options": [
+      "modal-header",
+      "modal-top",
+      "modal-title-area",
+      "header-modal"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-076",
+    "type": "mcq",
+    "question": "Which class is used for modal body?",
+    "options": [
+      "modal-body",
+      "modal-content-body",
+      "modal-main",
+      "body-modal"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-077",
+    "type": "mcq",
+    "question": "Which class is used for modal footer?",
+    "options": [
+      "modal-footer",
+      "modal-bottom",
+      "modal-actions",
+      "footer-modal"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-078",
+    "type": "mcq",
+    "question": "Which class makes a modal large?",
+    "options": [
+      "modal-lg",
+      "modal-large",
+      "modal-xl",
+      "modal-big"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-079",
+    "type": "mcq",
+    "question": "Which class makes a modal small?",
+    "options": [
+      "modal-sm",
+      "modal-small",
+      "modal-xs",
+      "modal-mini"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-080",
+    "type": "mcq",
+    "question": "Which class creates a centered modal?",
+    "options": [
+      "modal-dialog-centered",
+      "modal-center",
+      "centered-modal",
+      "modal-middle"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-081",
+    "type": "mcq",
+    "question": "In Bootstrap 5, what is the correct attribute to open a modal?",
+    "options": [
+      "data-bs-toggle=\"modal\" data-bs-target=\"#id\"",
+      "data-toggle=\"modal\" data-target=\"#id\"",
+      "data-modal=\"#id\"",
+      "bs-toggle=\"modal\""
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-082",
+    "type": "mcq",
+    "question": "Which class creates a carousel item?",
+    "options": [
+      "carousel-item",
+      "carousel-slide",
+      "slide-item",
+      "carousel-content"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-083",
+    "type": "mcq",
+    "question": "Which class makes a carousel item active?",
+    "options": [
+      "carousel-item active",
+      "carousel-item current",
+      "carousel-item show",
+      "active-slide"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-084",
+    "type": "mcq",
+    "question": "Which class is used for carousel next control?",
+    "options": [
+      "carousel-control-next",
+      "carousel-next",
+      "next-control",
+      "carousel-arrow-next"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-085",
+    "type": "mcq",
+    "question": "Which class is used for carousel caption?",
+    "options": [
+      "carousel-caption",
+      "carousel-text",
+      "caption",
+      "slide-caption"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-086",
+    "type": "mcq",
+    "question": "How do you create an accordion in Bootstrap 5?",
+    "options": [
+      "<div class=\"accordion\">",
+      "<div class=\"collapse-group\">",
+      "<div class=\"panel-group\">",
+      "<div class=\"accordion-group\">"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-087",
+    "type": "mcq",
+    "question": "Which class is used for each accordion item?",
+    "options": [
+      "accordion-item",
+      "accordion-panel",
+      "collapse-item",
+      "accordion-section"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-088",
+    "type": "mcq",
+    "question": "Which class is used for accordion header?",
+    "options": [
+      "accordion-header",
+      "accordion-title",
+      "accordion-heading",
+      "header-accordion"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-089",
+    "type": "mcq",
+    "question": "Which class is used for accordion button?",
+    "options": [
+      "accordion-button",
+      "accordion-toggle",
+      "btn-accordion",
+      "accordion-link"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-090",
+    "type": "mcq",
+    "question": "Which class is used for the collapsible content in accordion?",
+    "options": [
+      "accordion-collapse collapse",
+      "accordion-body",
+      "collapse-content",
+      "accordion-panel"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-091",
+    "type": "mcq",
+    "question": "Which class is used for accordion body content?",
+    "options": [
+      "accordion-body",
+      "accordion-content",
+      "accordion-text",
+      "body-accordion"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-092",
+    "type": "mcq",
+    "question": "How do you create tabs in Bootstrap?",
+    "options": [
+      "nav nav-tabs",
+      "tabs",
+      "nav-tab",
+      "tab-menu"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-093",
+    "type": "mcq",
+    "question": "How do you create pills navigation?",
+    "options": [
+      "nav nav-pills",
+      "pills",
+      "nav-pill",
+      "pill-menu"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-094",
+    "type": "mcq",
+    "question": "Which class is used for tab content container?",
+    "options": [
+      "tab-content",
+      "tabs-content",
+      "content-tab",
+      "tab-pane-container"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-095",
+    "type": "mcq",
+    "question": "Which class is used for each tab pane?",
+    "options": [
+      "tab-pane",
+      "tab-content-item",
+      "pane",
+      "tab-section"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-096",
+    "type": "mcq",
+    "question": "Which class makes a tab pane active and visible?",
+    "options": [
+      "tab-pane fade show active",
+      "tab-pane active",
+      "tab-pane show",
+      "active-tab"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-097",
+    "type": "mcq",
+    "question": "Which utility class adds margin?",
+    "options": [
+      "m-*",
+      "margin-*",
+      "mg-*",
+      "space-*"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-098",
+    "type": "mcq",
+    "question": "Which utility class adds padding?",
+    "options": [
+      "p-*",
+      "padding-*",
+      "pd-*",
+      "space-p-*"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-099",
+    "type": "mcq",
+    "question": "What does 'mt-3' mean?",
+    "options": [
+      "margin-top with size 3",
+      "margin-total 3",
+      "margin-text 3",
+      "margin-type 3"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-100",
+    "type": "mcq",
+    "question": "What does 'px-4' mean?",
+    "options": [
+      "padding left and right with size 4",
+      "padding x-axis 4",
+      "padding extra 4",
+      "padding horizontal 4"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-101",
+    "type": "mcq",
+    "question": "Which class centers text?",
+    "options": [
+      "text-center",
+      "center-text",
+      "text-middle",
+      "align-center"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-102",
+    "type": "mcq",
+    "question": "Which class makes text bold?",
+    "options": [
+      "fw-bold",
+      "font-bold",
+      "text-bold",
+      "bold"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-103",
+    "type": "mcq",
+    "question": "Which class makes text italic?",
+    "options": [
+      "fst-italic",
+      "font-italic",
+      "text-italic",
+      "italic"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-104",
+    "type": "mcq",
+    "question": "Which class changes text color to primary?",
+    "options": [
+      "text-primary",
+      "color-primary",
+      "text-blue",
+      "primary-text"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-105",
+    "type": "mcq",
+    "question": "Which class sets background color to primary?",
+    "options": [
+      "bg-primary",
+      "background-primary",
+      "bg-blue",
+      "primary-bg"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-106",
+    "type": "mcq",
+    "question": "Which class makes an element display as flex?",
+    "options": [
+      "d-flex",
+      "display-flex",
+      "flex",
+      "flex-display"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-107",
+    "type": "mcq",
+    "question": "Which class makes an element hidden?",
+    "options": [
+      "d-none",
+      "hidden",
+      "display-none",
+      "invisible"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-108",
+    "type": "mcq",
+    "question": "Which class shows an element only on medium screens and up?",
+    "options": [
+      "d-none d-md-block",
+      "d-md-show",
+      "show-md",
+      "d-md-visible"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-109",
+    "type": "mcq",
+    "question": "Which class justifies flex items to the center?",
+    "options": [
+      "justify-content-center",
+      "flex-center",
+      "justify-center",
+      "content-center"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-110",
+    "type": "mcq",
+    "question": "Which class aligns flex items to the center vertically?",
+    "options": [
+      "align-items-center",
+      "flex-align-center",
+      "align-center",
+      "items-center"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-111",
+    "type": "mcq",
+    "question": "Which class makes an image responsive?",
+    "options": [
+      "img-fluid",
+      "img-responsive",
+      "responsive-img",
+      "img-full"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-112",
+    "type": "mcq",
+    "question": "Which class makes an image circular?",
+    "options": [
+      "rounded-circle",
+      "img-circle",
+      "circle",
+      "rounded-full"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-113",
+    "type": "mcq",
+    "question": "Which class adds rounded corners to an image?",
+    "options": [
+      "rounded",
+      "img-rounded",
+      "round",
+      "border-radius"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-114",
+    "type": "mcq",
+    "question": "Which class creates a thumbnail image?",
+    "options": [
+      "img-thumbnail",
+      "thumbnail",
+      "img-thumb",
+      "image-thumbnail"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-115",
+    "type": "mcq",
+    "question": "Which class is used for a spinner (loading indicator)?",
+    "options": [
+      "spinner-border",
+      "loader",
+      "spinner",
+      "loading"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-116",
+    "type": "mcq",
+    "question": "Which class creates a growing spinner?",
+    "options": [
+      "spinner-grow",
+      "spinner-expand",
+      "grow-spinner",
+      "spinner-pulse"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-117",
+    "type": "mcq",
+    "question": "Which class creates a toast notification?",
+    "options": [
+      "toast",
+      "notification",
+      "alert-toast",
+      "snackbar"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-118",
+    "type": "mcq",
+    "question": "Which class creates an offcanvas (side panel)?",
+    "options": [
+      "offcanvas",
+      "sidebar",
+      "side-panel",
+      "drawer"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-119",
+    "type": "mcq",
+    "question": "Which class is used for a close button in Bootstrap 5?",
+    "options": [
+      "btn-close",
+      "close",
+      "btn-dismiss",
+      "close-btn"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-120",
+    "type": "mcq",
+    "question": "Which class creates a breadcrumb navigation?",
+    "options": [
+      "breadcrumb",
+      "breadcrumbs",
+      "nav-breadcrumb",
+      "path"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-121",
+    "type": "mcq",
+    "question": "Which class is used for each breadcrumb item?",
+    "options": [
+      "breadcrumb-item",
+      "bread-item",
+      "crumb",
+      "path-item"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-122",
+    "type": "mcq",
+    "question": "Which class creates a pagination?",
+    "options": [
+      "pagination",
+      "pager",
+      "page-nav",
+      "pages"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-123",
+    "type": "mcq",
+    "question": "Which class is used for pagination items?",
+    "options": [
+      "page-item",
+      "pagination-item",
+      "page",
+      "pager-item"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-124",
+    "type": "mcq",
+    "question": "Which class is used for pagination links?",
+    "options": [
+      "page-link",
+      "pagination-link",
+      "page-a",
+      "pager-link"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-125",
+    "type": "mcq",
+    "question": "Which class creates a figure with caption?",
+    "options": [
+      "figure",
+      "img-figure",
+      "caption-figure",
+      "figure-img"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-126",
+    "type": "mcq",
+    "question": "Which class is used for figure caption?",
+    "options": [
+      "figure-caption",
+      "caption",
+      "figcaption",
+      "img-caption"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-127",
+    "type": "mcq",
+    "question": "In Bootstrap 5, data attributes use which prefix?",
+    "options": [
+      "data-bs-",
+      "data-",
+      "bs-data-",
+      "bootstrap-"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-128",
+    "type": "mcq",
+    "question": "Which class creates a list group with flush style (no borders)?",
+    "options": [
+      "list-group list-group-flush",
+      "list-group-flush",
+      "list-flush",
+      "flush-list"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-129",
+    "type": "mcq",
+    "question": "Which class creates a horizontal list group?",
+    "options": [
+      "list-group list-group-horizontal",
+      "list-group-horizontal",
+      "horizontal-list",
+      "list-h"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-130",
+    "type": "mcq",
+    "question": "Which class is used for input group append/prepend in Bootstrap 5?",
+    "options": [
+      "input-group-text",
+      "input-group-addon",
+      "input-addon",
+      "group-text"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-131",
+    "type": "mcq",
+    "question": "How do you make a button disabled?",
+    "options": [
+      "disabled attribute or class=\"disabled\"",
+      "btn-disabled",
+      "disable",
+      "btn-off"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-132",
+    "type": "mcq",
+    "question": "Which class creates a tooltip trigger?",
+    "options": [
+      "data-bs-toggle=\"tooltip\"",
+      "tooltip",
+      "data-toggle=\"tooltip\"",
+      "title-tooltip"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-133",
+    "type": "mcq",
+    "question": "Which class creates a popover trigger?",
+    "options": [
+      "data-bs-toggle=\"popover\"",
+      "popover",
+      "data-toggle=\"popover\"",
+      "pop-over"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-134",
+    "type": "mcq",
+    "question": "Which class is used for a vertical rule (divider)?",
+    "options": [
+      "vr",
+      "vertical-rule",
+      "divider-v",
+      "v-line"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-135",
+    "type": "mcq",
+    "question": "Which class creates a ratio (responsive aspect ratio) container?",
+    "options": [
+      "ratio",
+      "embed-responsive",
+      "aspect-ratio",
+      "ratio-box"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-136",
+    "type": "mcq",
+    "question": "Which class creates a 16:9 ratio?",
+    "options": [
+      "ratio ratio-16x9",
+      "ratio-16by9",
+      "embed-responsive-16by9",
+      "aspect-16-9"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-137",
+    "type": "mcq",
+    "question": "Which class is used to clear floats?",
+    "options": [
+      "clearfix",
+      "clear",
+      "float-clear",
+      "cf"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-138",
+    "type": "mcq",
+    "question": "Which class floats an element to the left?",
+    "options": [
+      "float-start (BS5) or float-left (BS4)",
+      "float-left",
+      "pull-left",
+      "left"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-139",
+    "type": "mcq",
+    "question": "Which class floats an element to the right?",
+    "options": [
+      "float-end (BS5) or float-right (BS4)",
+      "float-right",
+      "pull-right",
+      "right"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  },
+  {
+    "id": "bs-140",
+    "type": "mcq",
+    "question": "Which class is used for screen-reader only text?",
+    "options": [
+      "visually-hidden",
+      "sr-only",
+      "screen-reader",
+      "hidden-text"
+    ],
+    "answerIndex": 0,
+    "topic": "Bootstrap",
+    "source": "Enriched"
+  }
 ]
