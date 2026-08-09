@@ -5,8 +5,8 @@ import Link from "next/link";
 import TopNav from "@/components/TopNav";
 import ProgressRing from "@/components/ProgressRing";
 import { getModuleMeta } from "@/data/loader";
-import { moduleStats } from "@/lib/storage";
-import { Play, Layers, Clock, ArrowLeft, TrendingUp, History } from "lucide-react";
+import { moduleStats, getSettings } from "@/lib/storage";
+import { Play, Layers, Clock, ArrowLeft, TrendingUp, History, Timer as TimerIcon } from "lucide-react";
 import { notFound } from "next/navigation";
 
 export default function ModuleDetailPage({
@@ -19,10 +19,15 @@ export default function ModuleDetailPage({
   const [stats, setStats] = useState<ReturnType<typeof moduleStats> | null>(null);
   const [count, setCount] = useState(15);
   const [timed, setTimed] = useState(true);
+  const [secondsPerQ, setSecondsPerQ] = useState(30);
 
   useEffect(() => {
+    const settings = getSettings();
     // eslint-disable-next-line react-hooks/set-state-in-effect -- one-time localStorage hydration on mount
     setStats(moduleStats(id));
+    setCount(settings.defaultCount);
+    setTimed(settings.defaultTimed);
+    setSecondsPerQ(settings.secondsPerQuestion);
   }, [id]);
 
   if (!mod) return notFound();
@@ -87,7 +92,7 @@ export default function ModuleDetailPage({
                     timed ? "bg-amber text-[#1a1200] border-amber font-semibold" : "border-border-subtle bg-surface-2 text-text-muted hover:border-amber/50"
                   }`}
                 >
-                  <Clock size={13} /> Timed (30s/Q)
+                  <Clock size={13} /> Timed ({secondsPerQ}s/Q)
                 </button>
                 <button
                   onClick={() => setTimed(false)}
@@ -99,8 +104,30 @@ export default function ModuleDetailPage({
                 </button>
               </div>
             </div>
+            {timed && (
+              <div>
+                <p className="text-xs text-text-faint mb-2 font-mono-tag flex items-center gap-1.5">
+                  <TimerIcon size={13} /> seconds per question
+                </p>
+                <div className="flex flex-wrap gap-2">
+                  {[15, 30, 45, 60, 90].map((s) => (
+                    <button
+                      key={s}
+                      onClick={() => setSecondsPerQ(s)}
+                      className={`px-3 py-1.5 rounded-lg text-sm font-mono-tag border transition-colors ${
+                        secondsPerQ === s
+                          ? "bg-teal text-[#052924] border-teal font-semibold"
+                          : "border-border-subtle bg-surface-2 text-text-muted hover:border-teal/50"
+                      }`}
+                    >
+                      {s}s
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
             <Link
-              href={`/quiz/${mod.id}?count=${count}&timed=${timed ? 1 : 0}`}
+              href={`/quiz/${mod.id}?count=${count}&timed=${timed ? 1 : 0}&spq=${secondsPerQ}`}
               className="inline-flex items-center gap-2 rounded-lg bg-teal text-[#052924] font-semibold text-sm px-5 py-2.5 hover:brightness-110 transition"
             >
               <Play size={14} fill="currentColor" /> Start quiz

@@ -27,12 +27,25 @@ export interface FlashProgress {
   learning: string[]; // question ids still learning
 }
 
+export interface UserSettings {
+  defaultTimed: boolean;
+  secondsPerQuestion: number;
+  defaultCount: number;
+}
+
+export const DEFAULT_SETTINGS: UserSettings = {
+  defaultTimed: true,
+  secondsPerQuestion: 30,
+  defaultCount: 15,
+};
+
 export interface StoreShape {
   attempts: AttemptRecord[];
   mistakes: Record<string, MistakeEntry>;
   flash: Record<string, FlashProgress>; // per moduleId
   streak: { lastDate: string | null; current: number; longest: number };
   xp: number;
+  settings: UserSettings;
 }
 
 const KEY = "wdp3_store_v1";
@@ -44,6 +57,7 @@ function emptyStore(): StoreShape {
     flash: {},
     streak: { lastDate: null, current: 0, longest: 0 },
     xp: 0,
+    settings: { ...DEFAULT_SETTINGS },
   };
 }
 
@@ -116,6 +130,16 @@ export function clearMistake(questionId: string) {
     store.mistakes = next;
     saveStore(store);
   }
+}
+
+export function getSettings(): UserSettings {
+  return loadStore().settings;
+}
+
+export function saveSettings(settings: Partial<UserSettings>) {
+  const store = loadStore();
+  store.settings = { ...store.settings, ...settings };
+  saveStore(store);
 }
 
 export function getFlashProgress(moduleId: string): FlashProgress {
