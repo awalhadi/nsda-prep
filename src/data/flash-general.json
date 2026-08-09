@@ -1,0 +1,754 @@
+[
+{
+"id": "f3-21",
+"type": "card",
+"question": "Describe two specific actions you can take to create a warm and welcoming non-verbal environment for a negotiation.",
+"answer": "Keep the space fresh, bright, and well-lit, and use positive, open facial expressions and body language to help create a warm, welcoming non-verbal environment.",
+"topic": "Practical / Short Answer",
+"source": "Scanned Practice Sheet"
+},
+{
+"id": "f3-22",
+"type": "card",
+"question": "Which workplace emergency is most likely caused by faulty wiring?",
+"answer": "Faulty wiring can cause a fire or an electric shock, so cables and sockets should be checked regularly.",
+"topic": "Practical / Short Answer",
+"source": "Scanned Practice Sheet"
+},
+{
+"id": "f3-23",
+"type": "card",
+"question": "Which principle is applied when a website adapts to mobile screens?",
+"answer": "Mobile-first responsive design — the site is built so it displays correctly and is easy to use on mobile devices as well as larger screens.",
+"topic": "Practical / Short Answer",
+"source": "Scanned Practice Sheet"
+},
+{
+"id": "f3-24",
+"type": "card",
+"question": "What should a call-to-action (CTA) button clearly show?",
+"answer": "The button's color should stand out and its text should be short and clearly readable so users immediately understand what action it performs.",
+"topic": "Practical / Short Answer",
+"source": "Scanned Practice Sheet"
+},
+{
+"id": "f3-25",
+"type": "card",
+"question": "What is the purpose of the poster attribute in a <video> tag, and when is its content displayed?",
+"answer": "The poster attribute sets an image to show as a placeholder before the video starts playing (until the user presses play or the video begins).",
+"topic": "Practical / Short Answer",
+"source": "Scanned Practice Sheet"
+},
+{
+"id": "f3-26",
+"type": "card",
+"question": "Why is alt text essential for images on websites?",
+"answer": "Alt text lets screen readers and search engines understand what an image shows, improving accessibility and SEO.",
+"topic": "Practical / Short Answer",
+"source": "Scanned Practice Sheet"
+},
+{
+"id": "f3-27",
+"type": "card",
+"question": "Add a border only on top of a div.",
+"answer": "div { border-top: 2px solid black; }",
+"topic": "Practical / Short Answer",
+"source": "Scanned Practice Sheet"
+},
+{
+"id": "f3-28",
+"type": "card",
+"question": "What does CSS stand for?",
+"answer": "Cascading Style Sheets.",
+"topic": "Practical / Short Answer",
+"source": "Scanned Practice Sheet"
+},
+{
+"id": "f3-29",
+"type": "card",
+"question": "Explain why image optimization is crucial for web design.",
+"answer": "Optimized images have smaller file sizes, so pages load faster while the images stay clear and easy to view on the site.",
+"topic": "Practical / Short Answer",
+"source": "Scanned Practice Sheet"
+},
+{
+"id": "f3-30",
+"type": "card",
+"question": "When should you use a for loop?",
+"answer": "Use a for loop when you need to repeat the same block of code a known number of times.",
+"topic": "Practical / Short Answer",
+"source": "Scanned Practice Sheet"
+},
+{
+"id": "f5a-16",
+"type": "card",
+"question": "What are the three main components involved in a Client-Server setup?",
+"answer": "The three main components in a Client-Server setup are: Client, Server, and Network.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-17",
+"type": "card",
+"question": "What is the significance of adhering to web standards in achieving cross browser compatibility?",
+"answer": "Adhering to web standards ensures that websites function consistently across different browsers and devices.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-18",
+"type": "card",
+"question": "How does an FTP client work?",
+"answer": "An FTP client connects to a server using the FTP protocol to upload, download, and manage files.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-19",
+"type": "card",
+"question": "How can you create a responsive navigation bar using Bootstrap?",
+"answer": "Use Bootstrap's navbar component with classes like navbar, navbar-expand, and navbar-collapse for responsiveness.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-20",
+"type": "card",
+"question": "How can you create a carousel of images using Bootstrap?",
+"answer": "Use Bootstrap's carousel component with carousel, carousel-inner, carousel-item, and data-bs-ride attributes.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-21",
+"type": "card",
+"question": "What role does a database play in a CMS?",
+"answer": "A database stores and retrieves content and settings for a CMS, such as posts, users, and pages.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-22",
+"type": "card",
+"question": "How can Bootstrap be integrated into a project?",
+"answer": "Bootstrap can be integrated by linking its CDN in HTML or by downloading and importing its CSS and JS files.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-23",
+"type": "card",
+"question": "What are three common features of a CMS?",
+"answer": "Three common CMS features are content editing, user management, and theme/plugin support.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-24",
+"type": "card",
+"question": "What is AJAX in jQuery?",
+"answer": "AJAX in jQuery allows asynchronous data loading from a server without refreshing the page.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-25",
+"type": "card",
+"question": "How does jQuery simplify DOM manipulation?",
+"answer": "jQuery simplifies DOM manipulation using concise syntax like $(selector).action() for selecting and modifying elements.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-26",
+"type": "card",
+"question": "How does a CMS enable collaboration among multiple users?",
+"answer": "A CMS enables collaboration by allowing multiple users with different roles to create, edit, and manage content.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-27",
+"type": "card",
+"question": "What is a function in Excel? Write an example.",
+"answer": "A function in Excel performs a calculation. Example: =SUM(A1:A5) adds the values in cells A1 to A5.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-28",
+"type": "card",
+"question": "What is the purpose of slide transitions in PowerPoint?",
+"answer": "Slide transitions enhance presentations by adding visual effects when moving between slides.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-29",
+"type": "card",
+"question": "How can you add animations to objects in PowerPoint?",
+"answer": "Select the object, go to the Animations tab, and choose an animation effect from the gallery.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-30",
+"type": "card",
+"question": "How can you spell check a document in Microsoft Word?",
+"answer": "Go to Review > Spelling & Grammar to check and correct spelling in Word.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-31",
+"type": "card",
+"question": "What are the fundamental steps of image processing?",
+"answer": "1. Image Acquisition 2. Image Enhancement 3. Image Restoration 4. Color Image Processing 5. Wavelets and Multi-Resolution Processing 6. Compression 7. Morphological Processing 8. Segmentation 9. Representation and Description 10. Object Recognition 11. Knowledge Base.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-32",
+"type": "card",
+"question": "Differentiate between WordPress.com and WordPress.org.",
+"answer": "WordPress.com is a hosted platform with limited customization, ideal for beginners. WordPress.org requires self-hosting, gives full control, and is better for businesses and full customization.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-33",
+"type": "card",
+"question": "Why do we use Jumbotron in Bootstrap?",
+"answer": "Jumbotrons are large, responsive containers used to capture attention, showcase important content, and provide a call to action.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-34",
+"type": "card",
+"question": "What is a Bootstrap Grid System?",
+"answer": "Bootstrap's 12-column grid system used to create responsive layouts for web pages that work across screen sizes.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-35",
+"type": "card",
+"question": "What are contextual classes of a table in Bootstrap?",
+"answer": "Bootstrap offers contextual classes applied to tables to visually indicate the state or condition of a table or its rows/cells, helping users identify important information.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-36",
+"type": "card",
+"question": "What is the purpose of the nth-child() pseudo-class in CSS3?",
+"answer": "The nth-child() pseudo-class selects an element based on its index among its parent's children, determined by an integer, keyword, or expression.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-37",
+"type": "card",
+"question": "What is a pseudo-element selector?",
+"answer": "A CSS pseudo-element is used to style a specific part of an element, e.g. the first letter or first line of an element.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-38",
+"type": "card",
+"question": "How do you use a class selector?",
+"answer": "A class selector selects all elements with a particular class attribute using a period (.) followed by the class name.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-39",
+"type": "card",
+"question": "What is the default positioning scheme in CSS3?",
+"answer": "Static is the default position for HTML elements.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-40",
+"type": "card",
+"question": "Which property is used to add shadows to text in CSS3?",
+"answer": "The text-shadow property adds a shadow to text; multiple parameters can be specified, separated by spaces.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-41",
+"type": "card",
+"question": "What is an HTML Element?",
+"answer": "HTML elements are the building blocks of HTML documents, representing parts of a page such as text, images, links, headings, and paragraphs. Each is defined by a start tag, content, and an end tag.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-42",
+"type": "card",
+"question": "What is an IDE?",
+"answer": "An Integrated Development Environment is a software application that helps programmers develop software code efficiently.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-43",
+"type": "card",
+"question": "What is a rowspan in HTML?",
+"answer": "The rowspan attribute specifies the number of rows a table cell should span.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-44",
+"type": "card",
+"question": "What are the basic SVG tags?",
+"answer": "Inside <svg> you can use <circle> for circles, <rect> for rectangles, <line> for straight lines, <path> for complex shapes/paths, and <text> for text.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-45",
+"type": "card",
+"question": "What syntax is used to include a video on a webpage with the HTML video element?",
+"answer": "<video controls><source src=\"movie.mp4\" type=\"video/mp4\" /></video>",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-46",
+"type": "card",
+"question": "What are plugins in HTML?",
+"answer": "HTML plugins are pieces of code inserted into HTML files to add features or effects, such as sliders, animations, charts, calendars, and pop-ups.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-47",
+"type": "card",
+"question": "How do you handle conditional statements in JavaScript? Explain if, else, and switch.",
+"answer": "'if' executes a block if a condition is true; 'else' executes a block if that condition is false; 'switch' evaluates an expression and executes the block for the matching case.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-48",
+"type": "card",
+"question": "How do you select and manipulate HTML elements using JavaScript?",
+"answer": "Elements can be selected with getElementById(), getElementsByClassName(), or querySelector(), and manipulated via properties like innerHTML and style.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-49",
+"type": "card",
+"question": "How do you handle user input validation in JavaScript?",
+"answer": "Validation involves checking user-provided data against expected criteria to ensure it meets the required format, length, or range.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5a-50",
+"type": "card",
+"question": "What are the benefits of using a headless CMS with a static website?",
+"answer": "Benefits include separating content management from presentation, enabling content reuse across channels, and providing a user-friendly interface for non-technical users to manage content.",
+"topic": "General Web & Office Tools",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-60",
+"type": "card",
+"question": "Is it possible to SEO a WordPress website to show it on Google's first page?",
+"answer": "Yes — by using SEO plugins, quality content, targeted keywords, and fast-loading design.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-61",
+"type": "card",
+"question": "What is the difference between a post and a page in WordPress?",
+"answer": "A post is time-based content used for blogs; a page is static content like 'About' or 'Contact'.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-62",
+"type": "card",
+"question": "What is a container in Bootstrap and what is it used for?",
+"answer": "A container centers and pads content in the layout using .container or .container-fluid.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-63",
+"type": "card",
+"question": "What is the Bootstrap Grid System and what is it used for?",
+"answer": "It's a 12-column layout system using .container, .row, and .col to build responsive designs.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-64",
+"type": "card",
+"question": "Which class is used to display informational messages in Bootstrap?",
+"answer": ".alert-info, .text-info, or .bg-info — these indicate informational content, typically with a light blue color.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-65",
+"type": "card",
+"question": "What are the CSS methods (ways to add CSS)?",
+"answer": "Inline CSS, Internal CSS, and External CSS.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-66",
+"type": "card",
+"question": "What is a media query in CSS?",
+"answer": "A media query applies styles based on screen size or device type for responsive design, e.g. @media (max-width:600px){ body{ font-size:14px; } }",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-67",
+"type": "card",
+"question": "What are pseudo-classes in CSS?",
+"answer": "A keyword added to a selector to define a special state, e.g. :hover, :focus.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-68",
+"type": "card",
+"question": "How do you write a pseudo-element?",
+"answer": "Use two colons, e.g. p::first-letter",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-69",
+"type": "card",
+"question": "What is semantic HTML, and why is it important?",
+"answer": "Semantic HTML uses meaningful tags like <header>, <article>, <section>, and <footer> to describe content's purpose, improving accessibility, SEO, and code readability.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-70",
+"type": "card",
+"question": "What does the 'alt' attribute in the <img> tag do, and why is it important?",
+"answer": "It provides alternative text for images, improving accessibility and SEO.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-71",
+"type": "card",
+"question": "What is a definition list in HTML?",
+"answer": "A list that defines terms using <dl>, <dt> (term), and <dd> (definition).",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-72",
+"type": "card",
+"question": "What are the key components that make up the infrastructure of the Internet?",
+"answer": "Servers, clients, routers, IP addresses, DNS, and protocols like HTTP/HTTPS.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-73",
+"type": "card",
+"question": "What are variables in JavaScript and how do you declare them?",
+"answer": "Variables store data. Declare them using var, let, or const.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-74",
+"type": "card",
+"question": "What are arrays and objects in JavaScript? How do you access their elements/properties?",
+"answer": "Array: an ordered list of items, accessed by index, e.g. arr[0]. Object: key-value pairs, accessed by key, e.g. obj.name.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-75",
+"type": "card",
+"question": "What is the Document Object Model (DOM) in JavaScript?",
+"answer": "A tree-like structure representing the HTML page, allowing scripts to dynamically manipulate elements.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-76",
+"type": "card",
+"question": "How do you handle errors in JavaScript?",
+"answer": "Use try...catch blocks to catch and manage errors.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-77",
+"type": "card",
+"question": "What are Bootstrap JavaScript components?",
+"answer": "Interactive features like modals, dropdowns, tooltips, and carousels powered by Bootstrap's JS.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5b-78",
+"type": "card",
+"question": "What are the key components of Bootstrap?",
+"answer": "Grid system, utilities, layout, content (typography/images), components (buttons, modals), and JavaScript plugins.",
+"topic": "CMS, Bootstrap & JS Concepts",
+"source": "Written Web Design L-3"
+},
+{
+"id": "f5c-31",
+"type": "card",
+"question": "How many types of layout are available in Bootstrap?",
+"answer": "Two major layouts: Fluid Layout, which spans 100% of the screen width, and Fixed Layout, used for a standard screen width (e.g. 940px). Both can support responsive design.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-32",
+"type": "card",
+"question": "Write down the boilerplate of HTML.",
+"answer": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset=\"UTF-8\"/>\n<title>Document Title</title>\n</head>\n<body>\n</body>\n</html>",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-33",
+"type": "card",
+"question": "Why do we use the CSS box-sizing property?",
+"answer": "box-sizing lets you control whether border and padding are included in an element's set height and width, instead of adding to it.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-34",
+"type": "card",
+"question": "What is the difference between margin and padding?",
+"answer": "Margin creates space outside an element's border; padding creates space inside the border, around the content. Margin can be set to auto and can take negative values; padding cannot.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-35",
+"type": "card",
+"question": "What is JSON? Give an example.",
+"answer": "JSON is a lightweight, language-independent, standard data-interchange format for storing simple data structures and objects. Example: var student = {name: \"Rubel\", city: \"Dhaka\"}",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-36",
+"type": "card",
+"question": "What are the timing methods in JavaScript, and why do we use them?",
+"answer": "setInterval and setTimeout are the two timing methods, used to run tasks after a delay. setInterval repeats a task at a given time interval; setTimeout runs a task once after a given delay.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-37",
+"type": "card",
+"question": "What is the difference between DOM and BOM?",
+"answer": "DOM (Document Object Model) is a programming interface for HTML/XML documents. BOM (Browser Object Model) lets scripts interact with the browser window itself — its properties and methods can be accessed directly or via the window object.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-38",
+"type": "card",
+"question": "What is the difference between an HTML tag, element, and attribute?",
+"answer": "A tag is the syntax used to mark up content. An element is the tag(s) plus its content (opening tag, content, closing tag). An attribute provides extra information about a tag.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-39",
+"type": "card",
+"question": "Describe the different types of HTML elements.",
+"answer": "There are two types: block-level elements, which take up the full width available, and inline elements, which take up only the space their content needs.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-40",
+"type": "card",
+"question": "What is a function in JavaScript? Give an example.",
+"answer": "A function is a reusable block of code that performs a specific task and only runs when it is called. Example: function hello(){ document.write(\"Hello World.\"); }",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-41",
+"type": "card",
+"question": "What are arrays in JavaScript? Give an example.",
+"answer": "An array is a special variable that can store multiple values, even of different types. Example: var data = [10, 20, \"Hello World.\", 20.34, true, false];",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-42",
+"type": "card",
+"question": "Create a JSON array containing four students' name, email, mobile, and address.",
+"answer": "var students = [ {name: \"Arif\", email: \"arif@gmail.com\", mobile: \"01313363836\", address: \"Dhaka\"}, { ... }, { ... }, { ... } ];",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-43",
+"type": "card",
+"question": "Describe the different types of repetition (loop) statements in JavaScript.",
+"answer": "JavaScript has for, while, do-while, forEach, and for-in loops. for and while check the condition before running; do-while checks the condition after running once; forEach and for-in are used to iterate over arrays/objects.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-44",
+"type": "card",
+"question": "Describe the different conditional statement syntaxes in JavaScript.",
+"answer": "JavaScript has if, if-else, if-else-if, and switch. if runs if the condition is true; if-else provides an alternative when false; if-else-if handles multiple conditions; switch matches a value against defined cases and runs until a break.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-45",
+"type": "card",
+"question": "Create a registration form using only HTML with name, email, mobile, and address.",
+"answer": "<form>\n<div><label>User Name</label><input type=\"text\" name=\"name\"/></div>\n<div><label>Email</label><input type=\"email\" name=\"email\"/></div>\n<div><label>Mobile</label><input type=\"number\" name=\"mobile\"/></div>\n<div><label>Address</label><textarea name=\"address\"></textarea></div>\n</form>",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-46",
+"type": "card",
+"question": "What is the difference between innerText and innerHTML in JavaScript?",
+"answer": "innerText gets/sets only the visible text content of an element (respects CSS like display:none). innerHTML gets/sets the HTML markup inside an element, including tags, and renders any nested elements.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-47",
+"type": "card",
+"question": "How does an interactive website differ from static and dynamic websites?",
+"answer": "A static website has fixed content that only changes with manual edits (e.g. simple portfolios). A dynamic website uses server-side scripting to fetch content from a database, allowing updates without changing code (e.g. blogs, news sites). An interactive website goes further, using client-side JavaScript for real-time engagement like forms, chatbots, and dynamic navigation (e.g. social apps).",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-48",
+"type": "card",
+"question": "Which code editor do you prefer for web design and development projects, and why?",
+"answer": "VS Code is a popular choice — it's fast, highly customizable, and has strong HTML/CSS/JS extensions, built-in Git integration, autocompletion, and Live Server for real-time previews.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-49",
+"type": "card",
+"question": "Can you explain the basic purpose of FTP software in web development?",
+"answer": "FTP software is used to upload, download, and manage files on a web server, transferring website files (HTML, CSS, images) from a local computer to the server so the site becomes accessible online, and to update or maintain it.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-50",
+"type": "card",
+"question": "How do you create an HTML login form with a submit button?",
+"answer": "<form action=\"login.php\" method=\"post\">\n<label for=\"username\">Username:</label>\n<input type=\"text\" id=\"username\" name=\"username\" required>\n<label for=\"password\">Password:</label>\n<input type=\"password\" id=\"password\" name=\"password\" required>\n<button type=\"submit\">Login</button>\n</form>",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-51",
+"type": "card",
+"question": "When should you consider using an SVG image?",
+"answer": "Use SVG when you need scalable, high-quality graphics that are lightweight, editable with CSS/JavaScript, and accessible/SEO-friendly — ideal for logos, icons, and simple illustrations.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-52",
+"type": "card",
+"question": "What is an ID selector in CSS?",
+"answer": "An ID selector styles a specific element using a unique identifier, written with # followed by the element's id, e.g. #header { color: blue; font-size: 20px; }",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-53",
+"type": "card",
+"question": "How do you apply multiple CSS classes to a single HTML element?",
+"answer": "List the class names separated by spaces in the class attribute, e.g. <div class=\"class1 class2 class3\">Content</div>",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-54",
+"type": "card",
+"question": "How do you create functions in JavaScript?",
+"answer": "Function declaration: function greet(name){ return \"Hello, \" + name; } Arrow function: const greet = (name) => { return \"Hello, \" + name; }",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-55",
+"type": "card",
+"question": "How do you create an ordered list in HTML?",
+"answer": "Use the <ol> tag with each item wrapped in <li>: <ol><li>First item</li><li>Second item</li></ol>",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-56",
+"type": "card",
+"question": "What are arrays and objects in JavaScript?",
+"answer": "Arrays store multiple values in one ordered variable and can hold any data type. Objects store data as key-value pairs, where each key maps to a value of any type.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-57",
+"type": "card",
+"question": "How do you access array elements and object properties?",
+"answer": "Array elements are accessed by index, e.g. fruits[0]. Object properties are accessed with dot or bracket notation, e.g. person.name or person[\"age\"].",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-58",
+"type": "card",
+"question": "Can you explain the difference between for, while, and do-while loops?",
+"answer": "for loop is used when the number of iterations is known in advance. while loop runs as long as its condition is true, checked before each iteration. do-while loop runs at least once, checking its condition after each iteration.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-59",
+"type": "card",
+"question": "How do you handle conditional statements in JavaScript?",
+"answer": "Use if to check a condition, else for the alternative, and else if for multiple conditions; switch checks a value against different cases.",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+},
+{
+"id": "f5c-60",
+"type": "card",
+"question": "What is the Document Object Model (DOM) in JavaScript?",
+"answer": "The DOM is a programming interface for web documents, representing the page as a tree structure of nodes for elements, attributes, and text. JavaScript can use it to change a page's content, structure, and style dynamically, e.g. document.getElementById(\"myDiv\").innerHTML = \"New content!\";",
+"topic": "JS, CSS & Practical Coding",
+"source": "Web Design Level 3"
+}
+]

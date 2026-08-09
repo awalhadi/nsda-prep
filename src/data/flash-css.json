@@ -1,0 +1,242 @@
+[
+{
+"id": "f1c-31",
+"type": "card",
+"question": "What does CSS stand for?",
+"answer": "Cascading Style Sheets.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-32",
+"type": "card",
+"question": "How do you link an external CSS file?",
+"answer": "<link rel=\"stylesheet\" href=\"styles.css\">",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-33",
+"type": "card",
+"question": "What is the syntax for a CSS rule?",
+"answer": "selector { property: value; }",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-34",
+"type": "card",
+"question": "What is the difference between id and class selectors?",
+"answer": "#id is unique; .class can be used multiple times.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-35",
+"type": "card",
+"question": "Which property changes text color?",
+"answer": "color.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-36",
+"type": "card",
+"question": "How do you make text bold in CSS?",
+"answer": "font-weight: bold;",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-37",
+"type": "card",
+"question": "What does margin: 0 auto; do?",
+"answer": "Centers a block element horizontally.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-38",
+"type": "card",
+"question": "What is the box model in CSS?",
+"answer": "Content → Padding → Border → Margin.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-39",
+"type": "card",
+"question": "Fill in: To make a background image not repeat, use background-repeat: ______;",
+"answer": "no-repeat",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-40",
+"type": "card",
+"question": "Which property controls the space inside an element?",
+"answer": "padding.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-41",
+"type": "card",
+"question": "What is the difference between display: block and display: inline?",
+"answer": "Block takes full width and starts on a new line; inline flows with text.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-42",
+"type": "card",
+"question": "How do you create a responsive image in CSS?",
+"answer": "max-width: 100%; height: auto;",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-43",
+"type": "card",
+"question": "What does position: relative do?",
+"answer": "Positions the element relative to its normal position.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-44",
+"type": "card",
+"question": "Name a CSS pseudo-class for hover effect.",
+"answer": ":hover",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-45",
+"type": "card",
+"question": "What property is used for a flexbox container?",
+"answer": "display: flex;",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-46",
+"type": "card",
+"question": "How do you apply styles only for screens smaller than 768px?",
+"answer": "Use a media query: @media (max-width: 767px) { ... }",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-47",
+"type": "card",
+"question": "What is the purpose of z-index?",
+"answer": "Controls the stacking order of overlapping elements.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-48",
+"type": "card",
+"question": "Fill in: text-align: ______; centers text.",
+"answer": "center",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-49",
+"type": "card",
+"question": "Which property changes the font family?",
+"answer": "font-family.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-50",
+"type": "card",
+"question": "What does border-radius do?",
+"answer": "Rounds the corners of an element.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-51",
+"type": "card",
+"question": "How do you hide an element but keep its space?",
+"answer": "visibility: hidden;",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-52",
+"type": "card",
+"question": "What is the difference between em and rem units?",
+"answer": "em is relative to the parent's font-size; rem is relative to the root (html).",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-53",
+"type": "card",
+"question": "Which CSS property controls opacity?",
+"answer": "opacity (0 to 1).",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-54",
+"type": "card",
+"question": "What does float: left; do?",
+"answer": "Makes an element float to the left (used in older layouts).",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-55",
+"type": "card",
+"question": "How do you make a list display horizontally?",
+"answer": "display: inline-block; or use flex/grid on the parent.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-56",
+"type": "card",
+"question": "What is a CSS selector for all elements?",
+"answer": "Universal selector *",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-57",
+"type": "card",
+"question": "Fill in: To remove the default underline from links, use text-decoration: ______;",
+"answer": "none",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-58",
+"type": "card",
+"question": "What property is used for background color?",
+"answer": "background-color.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-59",
+"type": "card",
+"question": "Name one CSS3 animation property.",
+"answer": "@keyframes, animation-name, animation-duration.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1c-60",
+"type": "card",
+"question": "What does flex-wrap: wrap; allow?",
+"answer": "Items wrap to new lines if needed in a flex container.",
+"topic": "CSS",
+"source": "120 Short Q&A"
+}
+]

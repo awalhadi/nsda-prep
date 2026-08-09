@@ -1,0 +1,242 @@
+[
+{
+"id": "f1h-1",
+"type": "card",
+"question": "What does HTML stand for?",
+"answer": "HyperText Markup Language.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-2",
+"type": "card",
+"question": "What is the basic structure of an HTML document?",
+"answer": "<!DOCTYPE html> <html> <head> <title></title> </head> <body> </body> </html>",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-3",
+"type": "card",
+"question": "Which tag is used to create a hyperlink?",
+"answer": "<a> (anchor tag).",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-4",
+"type": "card",
+"question": "What is the purpose of the alt attribute in the <img> tag?",
+"answer": "It provides alternative text for the image (accessibility & when the image fails to load).",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-5",
+"type": "card",
+"question": "How do you create an ordered list in HTML?",
+"answer": "Use <ol> with <li> elements.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-6",
+"type": "card",
+"question": "What is the difference between <div> and <span>?",
+"answer": "<div> is a block-level element; <span> is inline.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-7",
+"type": "card",
+"question": "Which HTML tag is used for the largest heading?",
+"answer": "<h1>.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-8",
+"type": "card",
+"question": "What does the <br> tag do?",
+"answer": "It inserts a single line break.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-9",
+"type": "card",
+"question": "How do you create a table in HTML?",
+"answer": "Use <table>, <tr>, <th>, and <td> tags.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-10",
+"type": "card",
+"question": "What is the purpose of the <form> tag?",
+"answer": "It creates a section for user input elements.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-11",
+"type": "card",
+"question": "Name two common input types in HTML forms.",
+"answer": "text, password, email, number, checkbox, radio, submit.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-12",
+"type": "card",
+"question": "What attribute is used to specify the URL of an image?",
+"answer": "src.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-13",
+"type": "card",
+"question": "What is semantic HTML? Give an example.",
+"answer": "Using meaningful tags like <header>, <nav>, <section>, <article>, <footer> instead of generic <div>.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-14",
+"type": "card",
+"question": "How do you add a comment in HTML?",
+"answer": "<!-- This is a comment -->",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-15",
+"type": "card",
+"question": "What does the required attribute do in a form input?",
+"answer": "It makes the field mandatory before form submission.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-16",
+"type": "card",
+"question": "Which tag is used to define the title of a webpage?",
+"answer": "<title> (inside <head>).",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-17",
+"type": "card",
+"question": "What is the purpose of the target=\"_blank\" attribute?",
+"answer": "It opens the linked document in a new tab/window.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-18",
+"type": "card",
+"question": "How do you embed a video in HTML5?",
+"answer": "Use the <video> tag with <source>.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-19",
+"type": "card",
+"question": "What is the difference between <strong> and <b>?",
+"answer": "<strong> has semantic importance (bold + emphasis); <b> is purely presentational.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-20",
+"type": "card",
+"question": "Fill in the blank: The root element of an HTML page is _______.",
+"answer": "<html>",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-21",
+"type": "card",
+"question": "What does the <meta> tag provide?",
+"answer": "Metadata about the HTML document (e.g., charset, viewport).",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-22",
+"type": "card",
+"question": "Which tag is used for italic text?",
+"answer": "<em> (semantic) or <i>.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-23",
+"type": "card",
+"question": "How do you create a dropdown list in a form?",
+"answer": "Use <select> with <option> tags.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-24",
+"type": "card",
+"question": "What is the purpose of the id attribute?",
+"answer": "It provides a unique identifier for an element (used in CSS/JS).",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-25",
+"type": "card",
+"question": "What is the purpose of the class attribute?",
+"answer": "It groups elements for styling or scripting.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-26",
+"type": "card",
+"question": "Fill in: HTML5 introduced new elements like ______ and ______.",
+"answer": "<header>, <footer>, <nav>, <section>, <article> (any two).",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-27",
+"type": "card",
+"question": "What tag is used to define a paragraph?",
+"answer": "<p>",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-28",
+"type": "card",
+"question": "How do you link an external CSS file?",
+"answer": "<link rel=\"stylesheet\" href=\"style.css\">",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-29",
+"type": "card",
+"question": "What is the default display behavior of <img>?",
+"answer": "Inline.",
+"topic": "HTML",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1h-30",
+"type": "card",
+"question": "Name one HTML5 form validation attribute.",
+"answer": "pattern, min, max, required, type=\"email\".",
+"topic": "HTML",
+"source": "120 Short Q&A"
+}
+]

@@ -1,0 +1,758 @@
+[
+{
+"id": "w5a-1",
+"type": "mcq",
+"question": "What does CSS stand for in web design?",
+"options": [
+"Computer Style Sheets",
+"Creative Style Solutions",
+"Cascading Style Sheets",
+"Centralized Style System"
+],
+"answerIndex": 2,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-2",
+"type": "mcq",
+"question": "Which of the following HTML tags is used to create a hyperlink?",
+"options": [
+"<link>",
+"<a>",
+"<url>",
+"<href>"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-3",
+"type": "mcq",
+"question": "Which programming language is primarily used for client-side scripting in web development?",
+"options": [
+"Java",
+"Python",
+"JavaScript",
+"Ruby"
+],
+"answerIndex": 2,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-4",
+"type": "mcq",
+"question": "Which of the following is NOT a commonly used web design file format for images?",
+"options": [
+".jpg",
+".mp3",
+".png",
+".gif"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-5",
+"type": "mcq",
+"question": "What is the purpose of the “alt” attribute in HTML image tags?",
+"options": [
+"It specifies the alignment of the image.",
+"It defines the size of the image",
+"It provides alternative text for the images for accessibility.",
+"It controls the animation of the image"
+],
+"answerIndex": 2,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-6",
+"type": "mcq",
+"question": "How can you include CSS in an HTML document?",
+"options": [
+"Using the <style> tag within the <head> section",
+"Using the <link> tag with a “stylesheet” relationship in the <head> section",
+"Using the style attribute in HTML elements",
+"All of the above"
+],
+"answerIndex": 3,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-7",
+"type": "mcq",
+"question": "Which CSS property is used to control the spacing between lines of text?",
+"options": [
+"text-spacing",
+"line-spacing",
+"letter-spacing",
+"line-height"
+],
+"answerIndex": 3,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-8",
+"type": "mcq",
+"question": "What does the “float” property in CSS do?",
+"options": [
+"It controls the alignment of text within an element.",
+"It removes an element from the normal flow of the document and positions it to the left or right of its containing element.",
+"It makes an element visible or hidden.",
+"It rotates an element clockwise or counterclockwise."
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-9",
+"type": "mcq",
+"question": "What does the “z-index” property in CSS control?",
+"options": [
+"It controls the size of an element.",
+"It controls the position of an element in the stacking order.",
+"It controls the opacity of an element.",
+"It controls the rotation of an element."
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-10",
+"type": "mcq",
+"question": "Which HTML tag is used to define a table row?",
+"options": [
+"<tr>",
+"<td>",
+"<th>",
+"<table>"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-11",
+"type": "mcq",
+"question": "Which keyword is used to declare a variable in JavaScript?",
+"options": [
+"var",
+"varable",
+"v",
+"let"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-12",
+"type": "mcq",
+"question": "Which operator is used for strict equality comparison in JavaScript?",
+"options": [
+"==",
+"!=",
+"===",
+"!=="
+],
+"answerIndex": 2,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-13",
+"type": "mcq",
+"question": "Which function is used to output data to the console in JavaScript?",
+"options": [
+"print()",
+"log()",
+"display()",
+"console.log()"
+],
+"answerIndex": 3,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-14",
+"type": "mcq",
+"question": "Which built-in method is used to convert a string to an integer in JavaScript?",
+"options": [
+"parseInt()",
+"toInteger()",
+"convertToInt()",
+"stringToInt()"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5a-15",
+"type": "mcq",
+"question": "What does the method querySelector() do in JavaScript?",
+"options": [
+"It selects multiple elements based on a class name.",
+"It selects the first element based on a CSS selector.",
+"It selects an element based on its ID",
+"It selects all elements of a specific tag name."
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5b-51",
+"type": "mcq",
+"question": "Which tag is used to create a dropdown list in a form?",
+"options": [
+"<input>",
+"<select>",
+"<option>",
+"<list>"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5b-52",
+"type": "mcq",
+"question": "Which of the following is an example of an HTML entity?",
+"options": [
+"&copy;",
+"<p>",
+"#header",
+"color:red;"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5b-53",
+"type": "mcq",
+"question": "Which preprocessor allows nesting and variables in CSS?",
+"options": [
+"SASS",
+"Bootstrap",
+"Tailwind CSS",
+"jQuery"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5b-54",
+"type": "mcq",
+"question": "What is the main difference between JPEG and PNG formats?",
+"options": [
+"JPEG supports transparency, while PNG does not.",
+"PNG supports transparency, while JPEG does not.",
+"JPEG is a lossless format, while PNG is lossy.",
+"PNG is always smaller in file size than JPEG."
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5b-55",
+"type": "mcq",
+"question": "What is the benefit of using smart objects when designing UI?",
+"options": [
+"They automatically write JavaScript code for the UI.",
+"They convert raster images into pure vector graphics.",
+"They allow reusable, editable components.",
+"They reduce the file size of all design assets automatically."
+],
+"answerIndex": 2,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5b-56",
+"type": "mcq",
+"question": "Which method is used to select an element by ID in the DOM?",
+"options": [
+"document.querySelectorAll()",
+"document.getElementById()",
+"document.getElementsByClassName()",
+"document.getElementsByTagName()"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5b-57",
+"type": "mcq",
+"question": "How do you define a JavaScript function?",
+"options": [
+"function myFunction() { // code }",
+"def myFunction() { // code }",
+"create function myFunction { // code }",
+"function: myFunction() => { // code }"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5b-58",
+"type": "mcq",
+"question": "Which function checks if a value is a number in JavaScript?",
+"options": [
+"isNumber()",
+"Number()",
+"isNaN()",
+"typeof()"
+],
+"answerIndex": 2,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5b-59",
+"type": "mcq",
+"question": "What is debugging in JavaScript?",
+"options": [
+"The process of writing JavaScript code for a web page.",
+"The process of finding and fixing errors or bugs in JavaScript code.",
+"The process of compiling JavaScript into machine language.",
+"The process of styling a web page using JavaScript."
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Written Web Design L-3"
+},
+{
+"id": "w5c-1",
+"type": "mcq",
+"question": "How do you ensure accessibility compliance when integrating JavaScript libraries into web applications?",
+"options": [
+"By ignoring accessibility guidelines",
+"By following web accessibility standards, using ARIA roles, and testing with screen readers and other assistive technologies",
+"By using only plain HTML",
+"By minimizing the use of JavaScript"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-2",
+"type": "mcq",
+"question": "Which image format supports transparency and is commonly used for web graphics and images with transparent backgrounds?",
+"options": [
+"PSD",
+"PNG",
+"JPG",
+"GIF"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-3",
+"type": "mcq",
+"question": "What is the function of the HTML style attribute?",
+"options": [
+"It is used to add style to an HTML element",
+"It is used to uniquely identify some specific styles of some element",
+"Both a & b",
+"None of the above"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-4",
+"type": "mcq",
+"question": "What tag is used to render an image on a webpage?",
+"options": [
+"img",
+"src",
+"image",
+"none of them"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-5",
+"type": "mcq",
+"question": "The most basic part of any HTML page is?",
+"options": [
+"ASCII Text",
+"Binary Text",
+"Text",
+"None of the above"
+],
+"answerIndex": 2,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-6",
+"type": "mcq",
+"question": "How many characters can be written in 1KB?",
+"options": [
+"1048",
+"1024",
+"2048",
+"None of them"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-7",
+"type": "mcq",
+"question": "Explain the difference between the == and === operators in JavaScript.",
+"options": [
+"== compares values; === compares values and types",
+"=== compares values and types; == compares only values",
+"== compares objects; === compares arrays",
+"== compares strings; === compares numbers"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-8",
+"type": "mcq",
+"question": "What are logical operators?",
+"options": [
+"+, -, *, /",
+"&&, ||, !",
+"=, !=, ==, !==",
+"if, else, switch"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-9",
+"type": "mcq",
+"question": "How do you use the break statement in loops and switches in JavaScript?",
+"options": [
+"To pause execution",
+"To terminate a loop or switch",
+"To skip an iteration",
+"To end execution"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-10",
+"type": "mcq",
+"question": "How do you display output in JavaScript?",
+"options": [
+"Using print()",
+"Using alert()",
+"Using console.log()",
+"Using document.write()"
+],
+"answerIndex": 2,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-11",
+"type": "mcq",
+"question": "What are single-line and multi-line comments in JavaScript? How do you comment out code?",
+"options": [
+"// for single-line, /* */ for multi-line",
+"<!-- --> for single-line, <!-- --> for multi-line",
+"# for single line, \"\"\" \"\"\" for multi-line",
+"// for single line, // for multi line"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-12",
+"type": "mcq",
+"question": "Select the basic data types in JavaScript.",
+"options": [
+"Number, String, Boolean, Object, Array",
+"Number, String, Boolean, Undefined, Null, Object",
+"Integer, Float, String, Boolean, Object",
+"Char, Float, String, Boolean, Array"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-13",
+"type": "mcq",
+"question": "How do you check the data type of a variable in JavaScript?",
+"options": [
+"typeof variable",
+"instanceof variable",
+"variable.type",
+"checkType(variable)"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-14",
+"type": "mcq",
+"question": "What are arithmetic operators in JavaScript? Provide examples.",
+"options": [
+"+, -, *, /",
+"+, -, *, /, &&",
+"++, --, +=, -=",
+"==, ===, !=, !=="
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-15",
+"type": "mcq",
+"question": "Which keyword is used to declare a variable in JavaScript?",
+"options": [
+"var",
+"variable",
+"v",
+"let"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-16",
+"type": "mcq",
+"question": "Which operator is used for strict equality comparison in JavaScript?",
+"options": [
+"==",
+"!=",
+"===",
+"!=="
+],
+"answerIndex": 2,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-17",
+"type": "mcq",
+"question": "Which function is used to output data to the console in JavaScript?",
+"options": [
+"print()",
+"log()",
+"display()",
+"console.log()"
+],
+"answerIndex": 3,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-18",
+"type": "mcq",
+"question": "Which built-in method is used to convert a string to an integer in JavaScript?",
+"options": [
+"parseInt()",
+"toInteger()",
+"convertToInt()",
+"stringToInt()"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-19",
+"type": "mcq",
+"question": "What is the purpose of Tailwind CSS and how does it differ from other CSS frameworks like Bootstrap?",
+"options": [
+"Tailwind CSS is a JavaScript framework",
+"Tailwind CSS is a utility-first CSS framework that provides low-level utility classes, while Bootstrap provides pre-designed components",
+"Tailwind CSS is used for server-side scripting",
+"Tailwind CSS is a database management tool"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-20",
+"type": "mcq",
+"question": "What is the basic difference between JavaScript and Java?",
+"options": [
+"Functions are considered as fields",
+"Functions are values, and there is no hard distinction between methods and fields",
+"Variables are specific",
+"There is no difference"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-21",
+"type": "mcq",
+"question": "Which statement is used to execute a block of code multiple times in JavaScript?",
+"options": [
+"for",
+"if",
+"return",
+"break"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-22",
+"type": "mcq",
+"question": "Why are event handlers needed in JS?",
+"options": [
+"Allows JavaScript code to alter the behavior of windows and respond to user actions",
+"Adds inner HTML page to the code",
+"Change the server location",
+"Performs handling of exceptions and occurrences"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-23",
+"type": "mcq",
+"question": "What is the purpose of JavaScript in web development?",
+"options": [
+"To structure a web page",
+"To style a web page",
+"To add interactivity and dynamic content to web pages",
+"To store data on the server"
+],
+"answerIndex": 2,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-24",
+"type": "mcq",
+"question": "In JavaScript, which of the following is a valid variable name?",
+"options": [
+"2names",
+"$name",
+"-name",
+"@name"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-25",
+"type": "mcq",
+"question": "Which of the following classes is used to create a responsive navigation bar in Bootstrap?",
+"options": [
+"navbar-fixed",
+"navbar-expand",
+"navbar-light",
+"navbar-collapse"
+],
+"answerIndex": 1,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-26",
+"type": "mcq",
+"question": "What is the purpose of the card class in Bootstrap?",
+"options": [
+"To create interactive buttons.",
+"To apply borders to an element.",
+"To create a flexible content container with optional headers and footers.",
+"To align text within a grid."
+],
+"answerIndex": 2,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-27",
+"type": "mcq",
+"question": "How can we write comments in CSS?",
+"options": [
+"/* comment */",
+"// comment",
+"# comment",
+"All of these"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-28",
+"type": "mcq",
+"question": "Which CSS property is used to control the transparency of an element?",
+"options": [
+"Opacity",
+"Visibility",
+"filter",
+"None of them"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-29",
+"type": "mcq",
+"question": "Which of the following CSS properties is used for controlling the layout?",
+"options": [
+"display",
+"color",
+"text",
+"None of them"
+],
+"answerIndex": 0,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+},
+{
+"id": "w5c-30",
+"type": "mcq",
+"question": "Which of the following components of the CSS box model are transparent?",
+"options": [
+"padding",
+"margin",
+"both a & b",
+"content"
+],
+"answerIndex": 2,
+"topic": "Written Exam MCQ",
+"source": "Web Design Level 3"
+}
+]

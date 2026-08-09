@@ -1,0 +1,202 @@
+[
+{
+"id": "f1b-101",
+"type": "card",
+"question": "What is Bootstrap?",
+"answer": "A popular open-source CSS framework for building responsive, mobile-first websites.",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-102",
+"type": "card",
+"question": "Which class creates a responsive container in Bootstrap?",
+"answer": ".container (or .container-fluid for full width).",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-103",
+"type": "card",
+"question": "What is the Bootstrap grid system based on?",
+"answer": "A 12-column flexible grid using rows and columns.",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-104",
+"type": "card",
+"question": "Which class makes an image responsive?",
+"answer": ".img-fluid",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-105",
+"type": "card",
+"question": "How do you create a button with primary color?",
+"answer": "<button class=\"btn btn-primary\">",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-106",
+"type": "card",
+"question": "What class is used for a navigation bar?",
+"answer": ".navbar",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-107",
+"type": "card",
+"question": "Fill in: To create a row in the Bootstrap grid, use class _______.",
+"answer": "row",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-108",
+"type": "card",
+"question": "What does .col-md-6 mean?",
+"answer": "Takes 6 out of 12 columns on medium screens and above.",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-109",
+"type": "card",
+"question": "Which class adds spacing (margin) in Bootstrap?",
+"answer": "Utility classes like m-3, mt-4, mx-auto.",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-110",
+"type": "card",
+"question": "What is a Bootstrap card?",
+"answer": "A flexible content container with header, body, and footer (class .card).",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-111",
+"type": "card",
+"question": "How do you make a modal in Bootstrap?",
+"answer": "Use .modal, .modal-dialog, and trigger with data attributes or JS.",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-112",
+"type": "card",
+"question": "What class creates a dropdown menu?",
+"answer": ".dropdown",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-113",
+"type": "card",
+"question": "Which version of Bootstrap removed the jQuery dependency?",
+"answer": "Bootstrap 5.",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-114",
+"type": "card",
+"question": "What does the .d-flex class do?",
+"answer": "Applies display: flex;",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-115",
+"type": "card",
+"question": "Fill in: For a full-width responsive container, use _______.",
+"answer": ".container-fluid",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-116",
+"type": "card",
+"question": "How do you create a responsive navbar that collapses on mobile?",
+"answer": "Use .navbar-expand-md + .navbar-toggler.",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-117",
+"type": "card",
+"question": "What class aligns items to the center in flex?",
+"answer": ".align-items-center",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-118",
+"type": "card",
+"question": "Name one Bootstrap utility for text color.",
+"answer": ".text-primary, .text-success, .text-danger.",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-119",
+"type": "card",
+"question": "What does the .shadow class add?",
+"answer": "A box shadow effect.",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-120",
+"type": "card",
+"question": "How do you create a responsive table in Bootstrap?",
+"answer": "Wrap the table in <div class=\"table-responsive\">.",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-121",
+"type": "card",
+"question": "What is the purpose of Bootstrap's breakpoints?",
+"answer": "Define screen sizes for responsive behavior (xs, sm, md, lg, xl, xxl).",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-122",
+"type": "card",
+"question": "Which class creates a carousel/slider?",
+"answer": ".carousel",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-123",
+"type": "card",
+"question": "Fill in: Buttons in Bootstrap use the base class _______.",
+"answer": "btn",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-124",
+"type": "card",
+"question": "What does .offset-md-2 do?",
+"answer": "Offsets a column by 2 columns on medium screens.",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1b-125",
+"type": "card",
+"question": "How do you include Bootstrap CSS?",
+"answer": "Via CDN link or downloaded files.",
+"topic": "Bootstrap",
+"source": "120 Short Q&A"
+}
+]

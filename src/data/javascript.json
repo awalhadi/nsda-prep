@@ -1,0 +1,730 @@
+[
+{
+"id": "j4-229",
+"type": "mcq",
+"question": "How many primitive data types are there in JavaScript?",
+"options": [
+"4",
+"5",
+"7",
+"8"
+],
+"answerIndex": 2,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-230",
+"type": "mcq",
+"question": "Which of the following is NOT a primitive data type in JavaScript?",
+"options": [
+"String",
+"Boolean",
+"Object",
+"Number"
+],
+"answerIndex": 2,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-231",
+"type": "mcq",
+"question": "What is the default value of an uninitialized variable in JavaScript?",
+"options": [
+"null",
+"0",
+"undefined",
+"False"
+],
+"answerIndex": 2,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-232",
+"type": "mcq",
+"question": "What does typeof null return in JavaScript?",
+"options": [
+"null",
+"object",
+"undefined",
+"number"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-233",
+"type": "mcq",
+"question": "Which data type can store very large integers beyond the safe limit?",
+"options": [
+"Number",
+"Float",
+"BigInt",
+"Double"
+],
+"answerIndex": 2,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-234",
+"type": "mcq",
+"question": "Which of the following is a non-primitive data type in JavaScript?",
+"options": [
+"Array",
+"Number",
+"Boolean",
+"String"
+],
+"answerIndex": 0,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-235",
+"type": "mcq",
+"question": "Which data type is used to represent true/false values?",
+"options": [
+"String",
+"Boolean",
+"Number",
+"Null"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-236",
+"type": "mcq",
+"question": "Which of the following represents a collection of key–value pairs?",
+"options": [
+"Array",
+"Object",
+"Function",
+"String"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-237",
+"type": "mcq",
+"question": "Which keyword is function-scoped in JavaScript?",
+"options": [
+"var",
+"let",
+"const",
+"all of the above"
+],
+"answerIndex": 0,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-238",
+"type": "mcq",
+"question": "Which keywords were introduced in ES6 for variable declaration?",
+"options": [
+"var",
+"let and const",
+"const only",
+"var and const"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-239",
+"type": "mcq",
+"question": "What is the scope of a let variable?",
+"options": [
+"Global",
+"Function",
+"None",
+"Block"
+],
+"answerIndex": 3,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-240",
+"type": "mcq",
+"question": "Which of the following is an invalid variable name in JavaScript?",
+"options": [
+"_count",
+"$price",
+"2ndValue",
+"userName"
+],
+"answerIndex": 2,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-241",
+"type": "mcq",
+"question": "What is the default value of an uninitialized variable?",
+"options": [
+"0",
+"null",
+"undefined",
+"False"
+],
+"answerIndex": 2,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-242",
+"type": "mcq",
+"question": "Why is let preferred over var?",
+"options": [
+"It has block scope",
+"It avoids redeclaration",
+"It reduces hoisting issues",
+"All of the above"
+],
+"answerIndex": 3,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-243",
+"type": "mcq",
+"question": "What is NOT a correct syntax for declaring variables?",
+"options": [
+"let x;",
+"lets x;",
+"var x;",
+"const x;"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-244",
+"type": "mcq",
+"question": "Which operator is used to assign a value to a variable?",
+"options": [
+"=",
+"==",
+"===",
+"!="
+],
+"answerIndex": 0,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-245",
+"type": "mcq",
+"question": "What is the difference between == and === in JavaScript?",
+"options": [
+"Both check only value",
+"== checks value, === checks value and type",
+"== checks type, === checks only value",
+"Both check value and type"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-246",
+"type": "mcq",
+"question": "Which operator returns the remainder of a division?",
+"options": [
+"/",
+"//",
+"%",
+"+"
+],
+"answerIndex": 2,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-247",
+"type": "mcq",
+"question": "What is the result of 5 + \"5\" in JavaScript?",
+"options": [
+"10",
+"55",
+"NaN",
+"Error"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-248",
+"type": "mcq",
+"question": "Which operator is used for logical AND?",
+"options": [
+"&",
+"&&",
+"||",
+"!"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-249",
+"type": "mcq",
+"question": "Which operator increases the value of a variable by 1 after its use?",
+"options": [
+"++x",
+"x++",
+"--x",
+"x--"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-250",
+"type": "mcq",
+"question": "What is the ternary operator in JavaScript?",
+"options": [
+"if-else",
+"? :",
+"? ?",
+"switch"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-251",
+"type": "mcq",
+"question": "What does the ! operator do?",
+"options": [
+"Multiplies a value",
+"Negates a Boolean value",
+"Divides a value",
+"Returns true always"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-252",
+"type": "mcq",
+"question": "Which of the following is NOT an arithmetic operator in JavaScript?",
+"options": [
+"*",
+"+",
+"-",
+"&&"
+],
+"answerIndex": 3,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-253",
+"type": "mcq",
+"question": "Which of the following is not a linear data structure in JavaScript?",
+"options": [
+"Array",
+"Linked List",
+"Stack",
+"Graph"
+],
+"answerIndex": 3,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-254",
+"type": "mcq",
+"question": "In JavaScript, which data structure is best suited for Last-In-First-Out (LIFO) operations?",
+"options": [
+"Queue",
+"Stack",
+"Array",
+"Linked List"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-255",
+"type": "mcq",
+"question": "Which method can be used to add an element at the end of a JavaScript array?",
+"options": [
+"push()",
+"pop()",
+"unshift()",
+"shift()"
+],
+"answerIndex": 0,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-256",
+"type": "mcq",
+"question": "Which method removes the first element from a JavaScript array?",
+"options": [
+"pop()",
+"shift()",
+"slice()",
+"splice()"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-257",
+"type": "mcq",
+"question": "Which of the following can be used to implement a queue in JavaScript?",
+"options": [
+"Array (using push and shift)",
+"Array (using push and pop)",
+"Map",
+"Object only"
+],
+"answerIndex": 0,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-258",
+"type": "mcq",
+"question": "Which keyword is used to check a condition in JavaScript?",
+"options": [
+"for",
+"if",
+"switch",
+"while"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-259",
+"type": "mcq",
+"question": "What will be the output? let x = 10; if (x > 5) { console.log(\"Yes\"); } else { console.log(\"No\"); }",
+"options": [
+"No",
+"Yes",
+"Error",
+"Undefined"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-260",
+"type": "mcq",
+"question": "Which block executes if all if and else if conditions are false?",
+"options": [
+"if",
+"else if",
+"switch",
+"else"
+],
+"answerIndex": 3,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-261",
+"type": "mcq",
+"question": "What is the purpose of the switch statement?",
+"options": [
+"To loop through arrays",
+"To handle multiple conditions based on a single expression",
+"To declare variables",
+"To define functions"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-262",
+"type": "mcq",
+"question": "Can you nest if statements inside another if in JavaScript?",
+"options": [
+"yes",
+"no",
+"only in ES6",
+"Only with else"
+],
+"answerIndex": 0,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-263",
+"type": "mcq",
+"question": "Which of the following is correct syntax for else if?",
+"options": [
+"else if (condition) { ... }",
+"elseif (condition) { ... }",
+"else(condition) { ... }",
+"if else (condition) { ... }"
+],
+"answerIndex": 0,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-264",
+"type": "mcq",
+"question": "Which of the following will correctly check if a variable x is between 10 and 20?",
+"options": [
+"if (10 < x < 20)",
+"if (x > 10 && x < 20)",
+"if (x > 10 || x < 20)",
+"if (x => 10 && x <= 20)"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-265",
+"type": "mcq",
+"question": "Which keyword is mandatory in a switch statement to avoid executing subsequent cases unintentionally?",
+"options": [
+"break",
+"continue",
+"return",
+"exit"
+],
+"answerIndex": 0,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-266",
+"type": "mcq",
+"question": "Can else be used without if?",
+"options": [
+"yes",
+"No",
+"Only with switch",
+"Only in ES6"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-267",
+"type": "mcq",
+"question": "Which loop checks the condition before executing the loop body?",
+"options": [
+"do...while",
+"while",
+"for",
+"Both b and c"
+],
+"answerIndex": 3,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-268",
+"type": "mcq",
+"question": "Which loop executes the body at least once, even if the condition is false?",
+"options": [
+"for",
+"while",
+"do...while",
+"for...in"
+],
+"answerIndex": 2,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-269",
+"type": "mcq",
+"question": "What does the continue statement do in a loop?",
+"options": [
+"Exits the loop",
+"Skips the current iteration and continues to the next",
+"Stops the program",
+"Restarts the loop from the beginning"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-270",
+"type": "mcq",
+"question": "Which loop iterates over the properties (keys) of an object?",
+"options": [
+"for...in",
+"for...of",
+"for",
+"while"
+],
+"answerIndex": 0,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-271",
+"type": "mcq",
+"question": "What happens if a loop condition is never false?",
+"options": [
+"The loop will execute only once.",
+"The loop will run indefinitely, creating an infinite loop.",
+"The loop will execute, but with no output.",
+"The loop will result in a compilation error."
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-272",
+"type": "mcq",
+"question": "Which of the following is a correct for loop syntax?",
+"options": [
+"for (i = 0; i < 5; i++) { ... }",
+"for i = 0 to 5 { ... }",
+"for (i < 5; i++) { ... }",
+"for i in 5 { ... }"
+],
+"answerIndex": 0,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-273",
+"type": "mcq",
+"question": "What is the result of true && false?",
+"options": [
+"True",
+"False",
+"null",
+"undefined"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-274",
+"type": "mcq",
+"question": "What does !true evaluate to?",
+"options": [
+"True",
+"0 (false)",
+"undefined",
+"1"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-275",
+"type": "mcq",
+"question": "Which operator is used for logical AND?",
+"options": [
+"&&",
+"||",
+"$$",
+"None of the above"
+],
+"answerIndex": 0,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-276",
+"type": "mcq",
+"question": "What is the result of !(false)?",
+"options": [
+"Both C and D",
+"null",
+"True",
+"False"
+],
+"answerIndex": 2,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-277",
+"type": "mcq",
+"question": "What does document.createElement(\"p\") do?",
+"options": [
+"Selects an existing <p> element",
+"Creates a new <p> element",
+"Deletes a <p> element",
+"None of the above"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-278",
+"type": "mcq",
+"question": "Which property is used to change the text inside an element?",
+"options": [
+"innerHTML",
+"textContent",
+"Both a and b",
+"value"
+],
+"answerIndex": 2,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-279",
+"type": "mcq",
+"question": "The DOM represents a web page as:",
+"options": [
+"A list of objects",
+"A tree structure",
+"An array",
+"A string"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+},
+{
+"id": "j4-280",
+"type": "mcq",
+"question": "Which method is used to select an element by its ID in JavaScript?",
+"options": [
+"getElementByClassName",
+"getElementById",
+"querySelectorAll",
+"getElementsByTagName"
+],
+"answerIndex": 1,
+"topic": "JavaScript",
+"source": "MCQ Question Paper"
+}
+]

@@ -1,0 +1,1262 @@
+[
+{
+"id": "h2-1",
+"type": "mcq",
+"question": "What does HTML stand for?",
+"options": [
+"Hyperlinks and Text Markup Language",
+"Home Tool Markup Language",
+"Hyper Text Markup Language",
+"Hyper Tool Multi Language"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-2",
+"type": "mcq",
+"question": "Which version introduced new semantic elements like <article> and <section>?",
+"options": [
+"HTML 4.01",
+"XHTML",
+"HTML5",
+"HTML 3.2"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-3",
+"type": "mcq",
+"question": "Which tag is used to define the structure of an HTML document?",
+"options": [
+"<body>",
+"<head>",
+"<html>",
+"<title>"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-4",
+"type": "mcq",
+"question": "Which new element is used for navigation links in HTML5?",
+"options": [
+"<navigate>",
+"<nav>",
+"<menu>",
+"<links>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-5",
+"type": "mcq",
+"question": "Which element represents independent content in HTML5?",
+"options": [
+"<section>",
+"<div>",
+"<article>",
+"<aside>"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-6",
+"type": "mcq",
+"question": "Which tag is used to embed audio files in HTML5?",
+"options": [
+"<media>",
+"<music>",
+"<sound>",
+"<audio>"
+],
+"answerIndex": 3,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-7",
+"type": "mcq",
+"question": "Which tag is used to embed video content?",
+"options": [
+"<movie>",
+"<video>",
+"<media>",
+"<film>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-8",
+"type": "mcq",
+"question": "Which attribute is used in <video> to start automatically?",
+"options": [
+"autoplay",
+"autostart",
+"start",
+"play"
+],
+"answerIndex": 0,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-9",
+"type": "mcq",
+"question": "Which HTML5 element is used for drawing graphics via JavaScript?",
+"options": [
+"<svg>",
+"<canvas>",
+"<graphic>",
+"<draw>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-10",
+"type": "mcq",
+"question": "Which input type is used for email validation?",
+"options": [
+"text",
+"mail",
+"email",
+"validate"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-11",
+"type": "mcq",
+"question": "Which input type is used for selecting a date?",
+"options": [
+"calendar",
+"date",
+"datetime",
+"time"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-12",
+"type": "mcq",
+"question": "Which attribute makes a field mandatory?",
+"options": [
+"validate",
+"required",
+"mandatory",
+"mustfill"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-13",
+"type": "mcq",
+"question": "Which element is used for sidebar content?",
+"options": [
+"<aside>",
+"<sidebar>",
+"<section>",
+"<div>"
+],
+"answerIndex": 0,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-14",
+"type": "mcq",
+"question": "Which tag defines the footer of a document?",
+"options": [
+"<bottom>",
+"<end>",
+"<footer>",
+"<foot>"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-15",
+"type": "mcq",
+"question": "Which tag defines the header of a section?",
+"options": [
+"<head>",
+"<top>",
+"<header>",
+"<heading>"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-16",
+"type": "mcq",
+"question": "Which element is used to group form controls?",
+"options": [
+"<group>",
+"<fieldset>",
+"<formgroup>",
+"<control>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-17",
+"type": "mcq",
+"question": "Which tag defines a caption for <fieldset>?",
+"options": [
+"<caption>",
+"<title>",
+"<legend>",
+"<label>"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-18",
+"type": "mcq",
+"question": "Which attribute specifies a unique identifier?",
+"options": [
+"class",
+"id",
+"name",
+"unique"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-19",
+"type": "mcq",
+"question": "Which element defines highlighted text?",
+"options": [
+"<strong>",
+"<em>",
+"<mark>",
+"<highlight>"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-20",
+"type": "mcq",
+"question": "Which tag represents progress of a task?",
+"options": [
+"<progress>",
+"<meter>",
+"<status>",
+"<range>"
+],
+"answerIndex": 0,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-21",
+"type": "mcq",
+"question": "Which element measures scalar value within a range?",
+"options": [
+"<progress>",
+"<range>",
+"<meter>",
+"<value>"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-22",
+"type": "mcq",
+"question": "Which attribute provides a hint inside input field?",
+"options": [
+"hint",
+"placeholder",
+"label",
+"info"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-23",
+"type": "mcq",
+"question": "Which attribute allows multiple file selection?",
+"options": [
+"multifile",
+"multiple",
+"files",
+"selectmany"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-24",
+"type": "mcq",
+"question": "Which element defines important text?",
+"options": [
+"<em>",
+"<important>",
+"<strong>",
+"<bold>"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-25",
+"type": "mcq",
+"question": "Which tag defines a hyperlink?",
+"options": [
+"<link>",
+"<a>",
+"<href>",
+"<hyper>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-26",
+"type": "mcq",
+"question": "Which attribute is used in <a> to specify destination?",
+"options": [
+"src",
+"link",
+"href",
+"url"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-27",
+"type": "mcq",
+"question": "Which tag inserts a line break?",
+"options": [
+"<break>",
+"<br>",
+"<lb>",
+"<newline>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-28",
+"type": "mcq",
+"question": "Which tag creates an ordered list?",
+"options": [
+"<ul>",
+"<ol>",
+"<li>",
+"<list>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-29",
+"type": "mcq",
+"question": "Which tag creates an unordered list?",
+"options": [
+"<ul>",
+"<ol>",
+"<li>",
+"<list>"
+],
+"answerIndex": 0,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-30",
+"type": "mcq",
+"question": "Which tag defines list item?",
+"options": [
+"<item>",
+"<listitem>",
+"<li>",
+"<l>"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-31",
+"type": "mcq",
+"question": "Which attribute specifies image path?",
+"options": [
+"href",
+"src",
+"link",
+"path"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-32",
+"type": "mcq",
+"question": "Which tag inserts an image?",
+"options": [
+"<image>",
+"<img>",
+"<pic>",
+"<photo>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-33",
+"type": "mcq",
+"question": "Which tag defines a table row?",
+"options": [
+"<td>",
+"<tr>",
+"<th>",
+"<row>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-34",
+"type": "mcq",
+"question": "Which tag defines table header cell?",
+"options": [
+"<th>",
+"<td>",
+"<tr>",
+"<thead>"
+],
+"answerIndex": 0,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-35",
+"type": "mcq",
+"question": "Which tag defines table data cell?",
+"options": [
+"<data>",
+"<td>",
+"<cell>",
+"<tr>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-36",
+"type": "mcq",
+"question": "Which attribute opens link in new tab?",
+"options": [
+"new",
+"target=\"_blank\"",
+"open",
+"tab"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-37",
+"type": "mcq",
+"question": "Which element defines document title?",
+"options": [
+"<meta>",
+"<title>",
+"<head>",
+"<header>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-38",
+"type": "mcq",
+"question": "Which tag is used to add metadata?",
+"options": [
+"<data>",
+"<meta>",
+"<info>",
+"<head>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-39",
+"type": "mcq",
+"question": "Which attribute defines inline CSS?",
+"options": [
+"css",
+"style",
+"class",
+"font"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-40",
+"type": "mcq",
+"question": "Which attribute is used to define CSS class?",
+"options": [
+"style",
+"id",
+"class",
+"css"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-41",
+"type": "mcq",
+"question": "Which tag embeds external JavaScript?",
+"options": [
+"<javascript>",
+"<script>",
+"<js>",
+"<code>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-42",
+"type": "mcq",
+"question": "Which attribute is used with <script> to link external JS?",
+"options": [
+"href",
+"src",
+"link",
+"file"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-43",
+"type": "mcq",
+"question": "Which HTML5 API stores data locally?",
+"options": [
+"LocalStorage",
+"SessionStorage",
+"Web Storage",
+"All of the above"
+],
+"answerIndex": 3,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-44",
+"type": "mcq",
+"question": "Which element defines figure caption?",
+"options": [
+"<caption>",
+"<figcaption>",
+"<figuretext>",
+"<fig>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-45",
+"type": "mcq",
+"question": "Which element groups media content?",
+"options": [
+"<media>",
+"<group>",
+"<figure>",
+"<container>"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-46",
+"type": "mcq",
+"question": "Which input type is used for numeric input?",
+"options": [
+"number",
+"numeric",
+"digit",
+"range"
+],
+"answerIndex": 0,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-47",
+"type": "mcq",
+"question": "Which attribute restricts maximum value?",
+"options": [
+"high",
+"max",
+"limit",
+"maximum"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-48",
+"type": "mcq",
+"question": "Which tag defines a dropdown list?",
+"options": [
+"<input>",
+"<list>",
+"<select>",
+"<dropdown>"
+],
+"answerIndex": 2,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-49",
+"type": "mcq",
+"question": "Which tag defines option in dropdown?",
+"options": [
+"<choice>",
+"<option>",
+"<item>",
+"<selectitem>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h2-50",
+"type": "mcq",
+"question": "Which declaration defines HTML5 document type?",
+"options": [
+"<!DOCTYPE HTML5>",
+"<!DOCTYPE html>",
+"<!HTML5>",
+"<!DOCTYPE html5>"
+],
+"answerIndex": 1,
+"topic": "HTML5",
+"source": "HTML5 MCQ Set"
+},
+{
+"id": "h4-92",
+"type": "mcq",
+"question": "Which of the following is the correct structure of an HTML document according to W3C standards?",
+"options": [
+"<html> <head> <body> </head> </html>",
+"<html> <head> <body> </html> </head>",
+"<html> <head> </head> <body> </body> </html>",
+"<html> <head> </body> </html> <body>"
+],
+"answerIndex": 2,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-93",
+"type": "mcq",
+"question": "What does the <meta charset=\"UTF-8\"> tag specify in an HTML document?",
+"options": [
+"It defines the page's title.",
+"It defines the document's character encoding.",
+"It specifies the viewport settings.",
+"It links the document to an external stylesheet."
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-94",
+"type": "mcq",
+"question": "Which of the following tags is optional in a basic HTML document but improves accessibility and clarity?",
+"options": [
+"<footer>",
+"<header>",
+"<nav>",
+"<section>"
+],
+"answerIndex": 2,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-95",
+"type": "mcq",
+"question": "In W3C standards, what does the <head> section of an HTML document typically contain?",
+"options": [
+"Content to be displayed on the web page.",
+"Links to external resources like stylesheets, scripts, and metadata.",
+"Only images and videos.",
+"The main content of the webpage."
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-96",
+"type": "mcq",
+"question": "Which HTML tag is used to define the beginning of a section of content?",
+"options": [
+"<section>",
+"<header>",
+"<footer>",
+"<article>"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-97",
+"type": "mcq",
+"question": "Where should root file tags like title, meta, charset, and viewport be placed?",
+"options": [
+"Inside the <body> tag",
+"Inside the <head> tag",
+"At the end of the page",
+"Inside a <footer>"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-98",
+"type": "mcq",
+"question": "Which meta tag is ignored by modern search engines?",
+"options": [
+"<meta name=\"description\">",
+"<meta name=\"viewport\">",
+"<meta name=\"keywords\">",
+"<meta charset=\"UTF-8\">"
+],
+"answerIndex": 2,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-99",
+"type": "mcq",
+"question": "Which attribute specifies the language of the HTML document?",
+"options": [
+"charset",
+"lang",
+"name",
+"http-equiv"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-100",
+"type": "mcq",
+"question": "Which of the following tags is used to make text bold in HTML?",
+"options": [
+"<strong>",
+"<em>",
+"<u>",
+"<i>"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-101",
+"type": "mcq",
+"question": "What does the <em> tag do in HTML?",
+"options": [
+"Makes text bold",
+"Adds emphasis (typically displayed as italicized text)",
+"Adds a link",
+"Adds a paragraph"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-102",
+"type": "mcq",
+"question": "When starting a new web project, what's generally the first file you'd create in the root of your project folder?",
+"options": [
+"style.css",
+"main.js",
+"index.html",
+"images"
+],
+"answerIndex": 2,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-103",
+"type": "mcq",
+"question": "Which of the following is not a good practice for naming files and folders in a web project?",
+"options": [
+"Using all lowercase letters.",
+"Using hyphens (-) instead of spaces.",
+"Using descriptive names.",
+"Using special characters like *, #, or @."
+],
+"answerIndex": 3,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-104",
+"type": "mcq",
+"question": "How do you add a hyperlink to another webpage in HTML?",
+"options": [
+"<link href=\"page.html\">",
+"<a href=\"page.html\">Link</a>",
+"<url href=\"page.html\">Link</url>",
+"<anchor href=\"page.html\">Link</anchor>"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-105",
+"type": "mcq",
+"question": "What is the purpose of the alt attribute in an image tag?",
+"options": [
+"To provide the image source",
+"To provide alternative text for the image",
+"To style the image",
+"To create a caption"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-106",
+"type": "mcq",
+"question": "Which of the following attributes is used in an anchor tag (<a>) to specify the target of the link?",
+"options": [
+"target=\"_blank\"",
+"href=\"blank\"",
+"link=\"target\"",
+"destination=\"_blank\""
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-107",
+"type": "mcq",
+"question": "How do you include an external CSS file in your HTML document?",
+"options": [
+"<style src=\"styles.css\">",
+"<link href=\"styles.css\" rel=\"stylesheet\">",
+"<css src=\"styles.css\">",
+"<stylesheet href=\"styles.css\">"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-108",
+"type": "mcq",
+"question": "Which of the following is a block-level element in HTML?",
+"options": [
+"<span>",
+"<div>",
+"<a>",
+"<p>"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-109",
+"type": "mcq",
+"question": "The <iframe> tag is used to:",
+"options": [
+"Embed videos",
+"Embed other web pages or documents",
+"Create a table",
+"Add an image"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-110",
+"type": "mcq",
+"question": "Which of the following is the correct syntax for embedding a video in HTML5?",
+"options": [
+"<video src=\"video.mp4\">",
+"<video file=\"video.mp4\">",
+"<video controls src=\"video.mp4\">",
+"<media src=\"video.mp4\">"
+],
+"answerIndex": 2,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-111",
+"type": "mcq",
+"question": "Which of the following tags is used to define a table header?",
+"options": [
+"<th>",
+"<td>",
+"<tr>",
+"<table>"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-112",
+"type": "mcq",
+"question": "How do you define a form submission button in HTML?",
+"options": [
+"<submit>",
+"<input type=\"submit\">",
+"<button type=\"submit\">",
+"<form type=\"submit\">"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-113",
+"type": "mcq",
+"question": "Which of the following is the correct way to create a form element?",
+"options": [
+"<form>",
+"<form method=\"POST\">",
+"<input>",
+"<button>"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-114",
+"type": "mcq",
+"question": "Why is the alt attribute important for images in HTML?",
+"options": [
+"It provides a text description for the image",
+"It changes the image size",
+"It sets the image's background color",
+"It animates the image"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-115",
+"type": "mcq",
+"question": "Why is HTML validation important?",
+"options": [
+"It ensures that the webpage loads faster",
+"It helps ensure that the page follows proper syntax and web standards",
+"It makes the webpage look visually appealing",
+"It improves page load time"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-116",
+"type": "mcq",
+"question": "Which of the following tools can be used to validate HTML code?",
+"options": [
+"W3C Markup Validation Service",
+"HTML5 Validator",
+"CSS3 Validation Tool",
+"All of the above"
+],
+"answerIndex": 3,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-117",
+"type": "mcq",
+"question": "What is the purpose of using semantic HTML elements in web development?",
+"options": [
+"To improve page styling",
+"To ensure the page's structure is meaningful and understandable by screen readers",
+"To hide unnecessary content from screen readers",
+"To add more text content to the page"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-118",
+"type": "mcq",
+"question": "Which of the following is a semantic HTML element?",
+"options": [
+"<div>",
+"<span>",
+"<header>",
+"<section>"
+],
+"answerIndex": 2,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-119",
+"type": "mcq",
+"question": "What is the correct way to include an external JavaScript file within an HTML document?",
+"options": [
+"<script href=\"script.js\"></script>",
+"<script src=\"script.js\"></script>",
+"<script url=\"script.js\"></script>",
+"<script link=\"script.js\"></script>"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-120",
+"type": "mcq",
+"question": "What is the correct way to make a hyperlink open in a new tab or window?",
+"options": [
+"<a href=\"example.com\" target=\"_blank\">",
+"<a href=\"example.com\" target=\"new\">",
+"<a href=\"example.com\" target=\"window\">",
+"<a href=\"example.com\" open=\"new\">"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-121",
+"type": "mcq",
+"question": "What does the <mark> tag do in HTML5?",
+"options": [
+"Highlights text",
+"Adds a background color",
+"Strikes through text",
+"Makes text bold"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-122",
+"type": "mcq",
+"question": "Which tag is used in HTML5 to define a clickable button?",
+"options": [
+"<button>",
+"<input>",
+"<link>",
+"<div>"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-123",
+"type": "mcq",
+"question": "Which tag is used in HTML5 to include metadata for specifying the character set for the document?",
+"options": [
+"<meta charset=\"UTF-8\">",
+"<meta name=\"charset\" content=\"UTF-8\">",
+"<meta http-equiv=\"charset\" content=\"UTF-8\">",
+"<meta charset=\"ISO-8859-1\">"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-124",
+"type": "mcq",
+"question": "Which HTML tag is used to represent an inline block of code, such as a programming language code?",
+"options": [
+"<code>",
+"<pre>",
+"<script>",
+"<style>"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-125",
+"type": "mcq",
+"question": "How do you create an anchor link that points to another part of the same page?",
+"options": [
+"<a href=\"#section1\">Link to Section 1</a>",
+"<a href=\"section1\">Link to Section 1</a>",
+"<a name=\"section1\">Link to Section 1</a>",
+"<a href=\"section1.html\">Link to Section 1</a>"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-126",
+"type": "mcq",
+"question": "What is the correct HTML5 element for embedding an external SVG image?",
+"options": [
+"<svg>",
+"<img>",
+"<embed>",
+"<object>"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-127",
+"type": "mcq",
+"question": "What is the primary function of HTML in web development?",
+"options": [
+"To create a webpage's layout and structure",
+"To add interactivity to webpages",
+"To style and animate web elements",
+"To store and retrieve data from a server"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-128",
+"type": "mcq",
+"question": "Which of the following is the correct file extension for an HTML document?",
+"options": [
+".html",
+".htm",
+".ht",
+"Both A and B"
+],
+"answerIndex": 3,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-129",
+"type": "mcq",
+"question": "Which tag is used to define the root of an HTML document?",
+"options": [
+"<html>",
+"<Doctype html>",
+"<body>",
+"<root>"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-130",
+"type": "mcq",
+"question": "Which of the following is the correct syntax for adding a comment in HTML?",
+"options": [
+"// This is a comment",
+"<!-- This is a comment -->",
+"<!-- This is a comment ->",
+"<-- This is a comment --!>"
+],
+"answerIndex": 1,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+},
+{
+"id": "h4-131",
+"type": "mcq",
+"question": "Which tag is used to create a paragraph in HTML?",
+"options": [
+"<p>",
+"<text>",
+"<paragraph>",
+"<para>"
+],
+"answerIndex": 0,
+"topic": "HTML",
+"source": "MCQ Question Paper"
+}
+]

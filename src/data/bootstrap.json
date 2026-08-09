@@ -1,0 +1,282 @@
+[
+{
+"id": "b4-184",
+"type": "mcq",
+"question": "What class makes a button large?",
+"options": [
+"btn-lg",
+"btn-large",
+"btn-big",
+"btn-size-lg"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-185",
+"type": "mcq",
+"question": "Which class makes a button small?",
+"options": [
+"btn-sm",
+"btn-small",
+"btn-xs",
+"btn-size-sm"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-186",
+"type": "mcq",
+"question": "How do you create a modal in Bootstrap?",
+"options": [
+"<div class=\"modal\">",
+"<div class=\"popup\">",
+"<div class=\"dialog\">",
+"<div class=\"window\">"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-187",
+"type": "mcq",
+"question": "How do you trigger a modal using a button?",
+"options": [
+"data-toggle=\"modal\" data-target=\"#id\"",
+"modal-show=\"#id\"",
+"show-modal=\"#id\"",
+"toggle-modal=\"#id\""
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-188",
+"type": "mcq",
+"question": "Which class adds a tooltip?",
+"options": [
+"data-toggle=\"tooltip\"",
+"tooltip",
+"title-tooltip",
+"tooltip-show"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-189",
+"type": "mcq",
+"question": "How do you make a progress bar?",
+"options": [
+"<div class=\"progress\"><div class=\"progress-bar\"></div></div>",
+"<div class=\"bar progress\"></div>",
+"<progress class=\"progress\"></progress>",
+"<div class=\"progressbar\"></div>"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-190",
+"type": "mcq",
+"question": "How do you make a responsive embed (video)?",
+"options": [
+"embed-responsive embed-responsive-16by9",
+"responsive-video",
+"video-embed",
+"embed-video"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-191",
+"type": "mcq",
+"question": "How do you make a badge with pill style?",
+"options": [
+"badge rounded-pill",
+"badge-pill",
+"badge-pill-style",
+"badge-rounded"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-192",
+"type": "mcq",
+"question": "How do you make a nav link active?",
+"options": [
+"class=\"nav-link active\"",
+"class=\"nav-link current\"",
+"class=\"nav-link selected\"",
+"class=\"nav-item active\""
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-193",
+"type": "mcq",
+"question": "How do you create a Bootstrap carousel?",
+"options": [
+"<div class=\"carousel slide\">",
+"<div class=\"slider\">",
+"<div class=\"carousel-container\">",
+"<div class=\"image-slider\">"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-194",
+"type": "mcq",
+"question": "How do you add indicators in a carousel?",
+"options": [
+"<ol class=\"carousel-indicators\">",
+"<ul class=\"carousel-indicators\">",
+"<div class=\"carousel-dots\">",
+"<ol class=\"carousel-dots\">"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-195",
+"type": "mcq",
+"question": "How do you add controls (prev/next) in carousel?",
+"options": [
+"<a class=\"carousel-control-prev\">",
+"<a class=\"carousel-prev\">",
+"<a class=\"prev-slide\">",
+"<a class=\"carousel-arrow-prev\">"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-196",
+"type": "mcq",
+"question": "Which class makes a navbar dark?",
+"options": [
+"navbar-dark",
+"navbar-black",
+"navbar-dark-theme",
+"navbar-night"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-197",
+"type": "mcq",
+"question": "Which class makes a navbar light?",
+"options": [
+"navbar-light",
+"navbar-white",
+"navbar-bright",
+"navbar-light-theme"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-198",
+"type": "mcq",
+"question": "How do you make a card image at the top?",
+"options": [
+"<img class=\"card-img-top\">",
+"<img class=\"card-top\">",
+"<img class=\"card-image-top\">",
+"<img class=\"top-card-img\">"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-199",
+"type": "mcq",
+"question": "How do you add a card footer?",
+"options": [
+"<div class=\"card-footer\">",
+"<div class=\"footer-card\">",
+"<footer class=\"card\">",
+"<div class=\"card-bottom\">"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-200",
+"type": "mcq",
+"question": "How do you create a list group?",
+"options": [
+"<ul class=\"list-group\">",
+"<ul class=\"group-list\">",
+"<ul class=\"list-items\">",
+"<ul class=\"list\">"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-201",
+"type": "mcq",
+"question": "How do you add an active item in list group?",
+"options": [
+"class=\"list-group-item active\"",
+"class=\"list-group-item current\"",
+"class=\"list-group-item selected\"",
+"class=\"list-group-item highlight\""
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-202",
+"type": "mcq",
+"question": "How do you create an input group?",
+"options": [
+"<div class=\"input-group\">",
+"<div class=\"form-group\">",
+"<div class=\"form-input\">",
+"<div class=\"input-wrapper\">"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+},
+{
+"id": "b4-203",
+"type": "mcq",
+"question": "How do you add a prepend text or button in input group?",
+"options": [
+"<span class=\"input-group-text\">",
+"<span class=\"input-prepend\">",
+"<div class=\"prepend-text\">",
+"<div class=\"input-text\">"
+],
+"answerIndex": 0,
+"topic": "Bootstrap",
+"source": "MCQ Question Paper"
+}
+]

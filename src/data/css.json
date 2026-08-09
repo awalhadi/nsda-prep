@@ -1,0 +1,730 @@
+[
+{
+"id": "c4-132",
+"type": "mcq",
+"question": "What does CSS stand for?",
+"options": [
+"Computer Style Sheets",
+"Cascading Style Sheets",
+"Creative Style Sheets",
+"Colorful Style Sheets"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-133",
+"type": "mcq",
+"question": "Which CSS rule has the highest priority?",
+"options": [
+"External CSS",
+"Inline CSS",
+"Internal CSS",
+"Browser default"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-134",
+"type": "mcq",
+"question": "How do you include CSS in HTML?",
+"options": [
+"<css>",
+"<link>",
+"<script>",
+"<style>"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-135",
+"type": "mcq",
+"question": "What is the universal selector in CSS?",
+"options": [
+"#",
+"*",
+".",
+"@"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-136",
+"type": "mcq",
+"question": "How do you select elements by class?",
+"options": [
+"#classname",
+".classname",
+"classname",
+"*classname"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-137",
+"type": "mcq",
+"question": "How do you select elements by ID?",
+"options": [
+".idname",
+"#idname",
+"idname",
+"*idname"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-138",
+"type": "mcq",
+"question": "How do you select all <p> inside a <div>?",
+"options": [
+"div > p",
+"div + p",
+"div p",
+"p div"
+],
+"answerIndex": 2,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-139",
+"type": "mcq",
+"question": "Which property sets spacing inside an element?",
+"options": [
+"margin",
+"border",
+"padding",
+"spacing"
+],
+"answerIndex": 2,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-140",
+"type": "mcq",
+"question": "Which property sets spacing outside an element?",
+"options": [
+"padding",
+"margin",
+"border",
+"space"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-141",
+"type": "mcq",
+"question": "How do you make borders rounded?",
+"options": [
+"border: round;",
+"border-radius",
+"border-style: round;",
+"border-shape"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-142",
+"type": "mcq",
+"question": "How do you change text color?",
+"options": [
+"color",
+"font-color",
+"text-color",
+"background-color"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-143",
+"type": "mcq",
+"question": "How do you change font size?",
+"options": [
+"text-size",
+"font-size",
+"size",
+"font-style"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-144",
+"type": "mcq",
+"question": "How do you make text bold?",
+"options": [
+"font-weight: bold;",
+"font-style: bold;",
+"text-weight: bold;",
+"text-style: bold;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-145",
+"type": "mcq",
+"question": "How do you underline text?",
+"options": [
+"text-decoration: underline;",
+"border-bottom",
+"text-style: underline;",
+"font-decoration: underline;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-146",
+"type": "mcq",
+"question": "How do you set a background color?",
+"options": [
+"color",
+"background-color",
+"bg-color",
+"background"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-147",
+"type": "mcq",
+"question": "How do you set a background image?",
+"options": [
+"background-image: url('img.jpg');",
+"img-background: url();",
+"background: img();",
+"bg-image: url();"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-148",
+"type": "mcq",
+"question": "How do you make a background cover entire element?",
+"options": [
+"background-size: cover;",
+"cover: true;",
+"background-fit: cover;",
+"size: cover;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-149",
+"type": "mcq",
+"question": "How do you prevent a background from repeating?",
+"options": [
+"background-repeat: no-repeat;",
+"repeat: none;",
+"background-no-repeat",
+"no-repeat: true;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-150",
+"type": "mcq",
+"question": "How do you center a background image?",
+"options": [
+"background-position: center;",
+"background-align: center;",
+"center-image: true;",
+"image-position: center;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-151",
+"type": "mcq",
+"question": "Which CSS property makes a div a flex container?",
+"options": [
+"display: block;",
+"display: flex;",
+"display: inline;",
+"display: grid;"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-152",
+"type": "mcq",
+"question": "How do you align flex items vertically?",
+"options": [
+"justify-content",
+"align-items",
+"align-content",
+"vertical-align"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-153",
+"type": "mcq",
+"question": "How do you align flex items horizontally?",
+"options": [
+"align-items",
+"justify-content",
+"flex-align",
+"flex-direction"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-154",
+"type": "mcq",
+"question": "How do you make flex items wrap?",
+"options": [
+"flex-wrap: wrap;",
+"flex-flow: wrap;",
+"wrap: true;",
+"flex-wrap: true;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-155",
+"type": "mcq",
+"question": "How do you make a flex item grow?",
+"options": [
+"flex-grow: 1;",
+"flex: 1;",
+"grow: 1;",
+"flex-size: 1;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-156",
+"type": "mcq",
+"question": "Which CSS property makes an element hidden but keeps its space?",
+"options": [
+"display: none;",
+"visibility: hidden;",
+"opacity: 0;",
+"hidden: true;"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-157",
+"type": "mcq",
+"question": "Which CSS property removes element completely?",
+"options": [
+"display: none;",
+"visibility: hidden;",
+"opacity: 0;",
+"hidden: true;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-158",
+"type": "mcq",
+"question": "How do you make text uppercase?",
+"options": [
+"text-transform: uppercase;",
+"font-variant: uppercase;",
+"text-style: uppercase;",
+"font-transform: uppercase;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-159",
+"type": "mcq",
+"question": "Which property changes the element's opacity?",
+"options": [
+"opacity",
+"visibility",
+"display",
+"filter"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-160",
+"type": "mcq",
+"question": "How do you apply a box shadow?",
+"options": [
+"shadow: 2px 2px 5px;",
+"box-shadow: 2px 2px 5px;",
+"border-shadow",
+"text-shadow"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-161",
+"type": "mcq",
+"question": "How do you make an element fixed on screen?",
+"options": [
+"position: fixed;",
+"position: absolute;",
+"position: relative;",
+"position: sticky;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-162",
+"type": "mcq",
+"question": "How do you make a div full width including padding?",
+"options": [
+"box-sizing: border-box;",
+"width: 100%;",
+"full-width: true;",
+"display: block;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-163",
+"type": "mcq",
+"question": "How do you create a circle div?",
+"options": [
+"border-radius: 50%;",
+"circle: true;",
+"border-radius: 100%;",
+"shape: circle;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-164",
+"type": "mcq",
+"question": "How do you fade in a div?",
+"options": [
+"opacity: 1;",
+"animation: fadeIn 2s;",
+"visibility: visible;",
+"display: block;"
+],
+"answerIndex": 1,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-165",
+"type": "mcq",
+"question": "How do you animate keyframes?",
+"options": [
+"@keyframes name { }",
+"animation-name: keyframes;",
+"keyframes: name {}",
+"animate: keyframes;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-166",
+"type": "mcq",
+"question": "How do you apply animation to an element?",
+"options": [
+"animation: name 2s;",
+"animate: name;",
+"animation-name: name;",
+"keyframe: name;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-167",
+"type": "mcq",
+"question": "How do you add a smooth transition?",
+"options": [
+"transition: all 0.3s ease;",
+"transition: smooth;",
+"animate: 0.3s;",
+"transition: ease;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-168",
+"type": "mcq",
+"question": "How do you make text ellipsis when too long?",
+"options": [
+"text-overflow: ellipsis;",
+"overflow: hidden;",
+"white-space: nowrap;",
+"All of the above"
+],
+"answerIndex": 3,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-169",
+"type": "mcq",
+"question": "How do you create a 3-column grid in CSS?",
+"options": [
+"display: grid; grid-template-columns: 1fr 1fr 1fr;",
+"display: flex; flex: 3;",
+"columns: 3;",
+"grid: 3;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-170",
+"type": "mcq",
+"question": "How do you make a grid item span 2 columns?",
+"options": [
+"grid-column: span 2;",
+"grid-column: 2;",
+"span-columns: 2;",
+"column-span: 2;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-171",
+"type": "mcq",
+"question": "How do you highlight the first letter of a paragraph?",
+"options": [
+"p::first-letter { }",
+"p:first-letter { }",
+"p:first { }",
+"p::letter { }"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-172",
+"type": "mcq",
+"question": "How do you add a gradient background?",
+"options": [
+"background: linear-gradient(red, yellow);",
+"background: gradient(red, yellow);",
+"background-color: gradient;",
+"bg-gradient: true;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-173",
+"type": "mcq",
+"question": "How do you make a responsive image?",
+"options": [
+"img { max-width: 100%; height: auto; }",
+"img { width: 100px; }",
+"img { responsive: true; }",
+"img { scale: auto; }"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-174",
+"type": "mcq",
+"question": "How do you center text inside a div?",
+"options": [
+"text-align: center;",
+"align-items: center;",
+"justify-content: center;",
+"display: flex;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-175",
+"type": "mcq",
+"question": "How do you vertically center text inside a div?",
+"options": [
+"display: flex; align-items: center;",
+"vertical-align: middle;",
+"justify-content: center;",
+"text-align: center;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-176",
+"type": "mcq",
+"question": "How do you add spacing between flex items?",
+"options": [
+"gap: 10px;",
+"margin: 10px;",
+"padding: 10px;",
+"space: 10px;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-177",
+"type": "mcq",
+"question": "How do you make a div semi-transparent?",
+"options": [
+"opacity: 0.5;",
+"visibility: hidden;",
+"display: none;",
+"transparent: true;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-178",
+"type": "mcq",
+"question": "How do you add text shadow?",
+"options": [
+"text-shadow: 2px 2px 5px gray;",
+"shadow: 2px 2px;",
+"text-shadow: gray;",
+"font-shadow: 2px 2px;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-179",
+"type": "mcq",
+"question": "How do you hide an element only on small screens?",
+"options": [
+"d-none d-sm-block",
+"hidden-xs",
+"display: none;",
+"visibility: hidden;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-180",
+"type": "mcq",
+"question": "How do you fix an element at bottom while scrolling?",
+"options": [
+"position: fixed; bottom: 0;",
+"position: absolute; bottom: 0;",
+"position: relative; bottom: 0;",
+"position: sticky; bottom: 0;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-181",
+"type": "mcq",
+"question": "How do you add a smooth transform on hover?",
+"options": [
+"transition: transform 0.5s;",
+"transition: all 0.5s;",
+"transition: smooth;",
+"animate: transform 0.5s;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-182",
+"type": "mcq",
+"question": "How do you make a div full viewport height?",
+"options": [
+"height: 100vh;",
+"height: 100%;",
+"height: auto;",
+"height: full;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+},
+{
+"id": "c4-183",
+"type": "mcq",
+"question": "How do you make text uppercase and bold?",
+"options": [
+"text-transform: uppercase; font-weight: bold;",
+"font-style: bold; text-transform: uppercase;",
+"text-uppercase: true; font-bold: true;",
+"text-style: uppercase; font-weight: 700;"
+],
+"answerIndex": 0,
+"topic": "CSS",
+"source": "MCQ Question Paper"
+}
+]

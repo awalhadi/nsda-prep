@@ -1,0 +1,122 @@
+[
+{
+"id": "f1q-86",
+"type": "card",
+"question": "What is jQuery?",
+"answer": "A fast, small, and feature-rich JavaScript library that simplifies HTML document traversal, event handling, and animation.",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-87",
+"type": "card",
+"question": "How do you include jQuery in a webpage?",
+"answer": "Via CDN: <script src=\"https://code.jquery.com/jquery-3.x.x.min.js\"></script>",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-88",
+"type": "card",
+"question": "What is the purpose of $(document).ready()?",
+"answer": "Ensures code runs only after the DOM is fully loaded.",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-89",
+"type": "card",
+"question": "How do you select an element with ID using jQuery?",
+"answer": "$('#id')",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-90",
+"type": "card",
+"question": "What does $('.class') do?",
+"answer": "Selects all elements with that class.",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-91",
+"type": "card",
+"question": "What is the jQuery equivalent of addEventListener('click')?",
+"answer": ".click() or .on('click', function(){})",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-92",
+"type": "card",
+"question": "How do you hide an element with jQuery?",
+"answer": "$('#id').hide();",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-93",
+"type": "card",
+"question": "What does .fadeOut() do?",
+"answer": "Fades out the selected element (with animation).",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-94",
+"type": "card",
+"question": "Fill in: The jQuery selector function is written as ______ (selector).",
+"answer": "$()",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-95",
+"type": "card",
+"question": "How do you change CSS with jQuery?",
+"answer": "$('#id').css('color', 'red');",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-96",
+"type": "card",
+"question": "What does .html() do?",
+"answer": "Gets or sets the HTML content of an element.",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-97",
+"type": "card",
+"question": "What is the purpose of jQuery's chaining?",
+"answer": "Allows multiple methods to be called on the same selection in one line.",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-98",
+"type": "card",
+"question": "How do you animate an element?",
+"answer": ".animate({property: value}, duration);",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-99",
+"type": "card",
+"question": "What does .toggle() do?",
+"answer": "Shows or hides the matched elements.",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1q-100",
+"type": "card",
+"question": "Fill in: jQuery uses ______ to select elements (same as CSS).",
+"answer": "CSS selectors.",
+"topic": "jQuery",
+"source": "120 Short Q&A"
+}
+]

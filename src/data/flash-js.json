@@ -1,0 +1,202 @@
+[
+{
+"id": "f1j-61",
+"type": "card",
+"question": "What is JavaScript?",
+"answer": "A client-side scripting language used to make web pages interactive.",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-62",
+"type": "card",
+"question": "How do you add JavaScript to an HTML page?",
+"answer": "Inside <script> tags or via an external file with src.",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-63",
+"type": "card",
+"question": "What is the purpose of a variable in JavaScript?",
+"answer": "To store data values.",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-64",
+"type": "card",
+"question": "How do you declare a variable?",
+"answer": "let x; or const y = 10; or var z;",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-65",
+"type": "card",
+"question": "What is the difference between let and const?",
+"answer": "let can be reassigned; const cannot.",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-66",
+"type": "card",
+"question": "How do you write a conditional statement?",
+"answer": "if (condition) { ... } else { ... }",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-67",
+"type": "card",
+"question": "What does console.log() do?",
+"answer": "Prints output to the browser console.",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-68",
+"type": "card",
+"question": "How do you create a function in JavaScript?",
+"answer": "function myFunc() { } or an arrow function () => { }",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-69",
+"type": "card",
+"question": "What is an array in JavaScript?",
+"answer": "An ordered collection of values, e.g. let arr = [1, 2, 3];",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-70",
+"type": "card",
+"question": "How do you access the first element of an array?",
+"answer": "array[0]",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-71",
+"type": "card",
+"question": "What is the DOM?",
+"answer": "Document Object Model — a programming interface for HTML elements.",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-72",
+"type": "card",
+"question": "How do you select an element by ID in JS?",
+"answer": "document.getElementById('id')",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-73",
+"type": "card",
+"question": "What does addEventListener do?",
+"answer": "Attaches an event handler to an element (e.g. click).",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-74",
+"type": "card",
+"question": "Fill in: To change the text of an element, use element.______ = \"new text\";",
+"answer": "innerHTML or textContent",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-75",
+"type": "card",
+"question": "What is the purpose of a loop?",
+"answer": "To repeat a block of code (for, while, forEach).",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-76",
+"type": "card",
+"question": "What does == vs === mean?",
+"answer": "== checks value (loose); === checks value and type (strict).",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-77",
+"type": "card",
+"question": "How do you get the current date in JS?",
+"answer": "new Date()",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-78",
+"type": "card",
+"question": "What is an object in JavaScript?",
+"answer": "A collection of key-value pairs, e.g. {name: \"John\", age: 25}",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-79",
+"type": "card",
+"question": "How do you show an alert box?",
+"answer": "alert(\"Message\");",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-80",
+"type": "card",
+"question": "What does prompt() do?",
+"answer": "Displays a dialog box to get user input.",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-81",
+"type": "card",
+"question": "Fill in: JavaScript code is written inside ______ tags.",
+"answer": "<script>",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-82",
+"type": "card",
+"question": "What is the BOM?",
+"answer": "Browser Object Model (window, document, location, etc.).",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-83",
+"type": "card",
+"question": "How do you prevent default form submission?",
+"answer": "event.preventDefault();",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-84",
+"type": "card",
+"question": "Name one string method.",
+"answer": "toUpperCase(), length, split(), includes().",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+},
+{
+"id": "f1j-85",
+"type": "card",
+"question": "What does parseInt() do?",
+"answer": "Converts a string to an integer.",
+"topic": "JavaScript",
+"source": "120 Short Q&A"
+}
+]
