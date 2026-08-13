@@ -3,13 +3,13 @@
 import Link from "next/link";
 import {
   Code2, Palette, Braces, LayoutGrid, PenTool, Wrench, Droplet,
-  ClipboardCheck, FileText, Layers, ArrowUpRight,
+  ClipboardCheck, FileText, Layers, ArrowUpRight, Lightbulb,
 } from "lucide-react";
 import type { ModuleMeta } from "@/data/types";
 
 const ICONS: Record<string, React.ElementType> = {
   Code2, Palette, Braces, LayoutGrid, PenTool, Wrench, Droplet,
-  ClipboardCheck, FileText, Layers,
+  ClipboardCheck, FileText, Layers, Lightbulb,
 };
 
 export default function ModuleCard({

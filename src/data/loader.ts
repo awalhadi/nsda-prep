@@ -16,6 +16,8 @@ import flashJs from "./flash-js.json";
 import flashJquery from "./flash-jquery.json";
 import flashBootstrap from "./flash-bootstrap.json";
 import flashGeneral from "./flash-general.json";
+import newSuggestionMcq from "./new-suggestion-mcq.json";
+import newSuggestionWritten from "./new-suggestion-written.json";
 
 const MODULE_DATA: Record<string, (MCQQuestion | CardQuestion)[]> = {
   html: html as MCQQuestion[],
@@ -33,6 +35,8 @@ const MODULE_DATA: Record<string, (MCQQuestion | CardQuestion)[]> = {
   "flash-jquery": flashJquery as CardQuestion[],
   "flash-bootstrap": flashBootstrap as CardQuestion[],
   "flash-general": flashGeneral as CardQuestion[],
+  "new-suggestion-mcq": newSuggestionMcq as MCQQuestion[],
+  "new-suggestion-written": newSuggestionWritten as CardQuestion[],
 };
 
 export const MODULES: ModuleMeta[] = manifest as ModuleMeta[];

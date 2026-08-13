@@ -1,0 +1,558 @@
+[
+  {
+    "id": "ns-mcq-1",
+    "type": "mcq",
+    "question": "How do you ensure accessibility compliance when integrating JavaScript libraries into web applications?",
+    "options": [
+      "By ignoring accessibility guidelines",
+      "By following web accessibility standards, using ARIA roles, and testing with screen readers and other assistive technologies",
+      "By using only plain HTML",
+      "By minimizing the use of JavaScript"
+    ],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-2",
+    "type": "mcq",
+    "question": "Which image format supports transparency and is commonly used for web graphics and images with transparent backgrounds?",
+    "options": ["PSD", "PNG", "JPG", "GIF"],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-3",
+    "type": "mcq",
+    "question": "What is the function of the HTML style attribute?",
+    "options": [
+      "It is used to add style to an HTML element",
+      "It is used to uniquely identify some specific styles of some element",
+      "Both a & b",
+      "None of the above"
+    ],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-4",
+    "type": "mcq",
+    "question": "What tag is used to render an image on a webpage?",
+    "options": ["img", "src", "image", "none of them"],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-5",
+    "type": "mcq",
+    "question": "The most basic part of any HTML page is?",
+    "options": ["ASCII Text", "Binary Text", "Text", "None of the above"],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-6",
+    "type": "mcq",
+    "question": "How many characters can be written in 1KB?",
+    "options": ["1048", "1024", "2048", "None of them"],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-7",
+    "type": "mcq",
+    "question": "Explain the difference between the == and === operators in JavaScript.",
+    "options": [
+      "== compares values; === compares values and types",
+      "== compares values and types; === compares only values",
+      "== compares objects; === compares arrays",
+      "== compares strings; === compares numbers"
+    ],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-8",
+    "type": "mcq",
+    "question": "What are logical operators?",
+    "options": ["+, -, *, /", "&&, ||, !", "=, !=, ==, !==", "if, else, switch"],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-9",
+    "type": "mcq",
+    "question": "How do you use the break statement in loops and switches in JavaScript?",
+    "options": [
+      "To pause execution",
+      "To terminate a loop or switch",
+      "To skip an iteration",
+      "To execution"
+    ],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-10",
+    "type": "mcq",
+    "question": "How do you display output in JavaScript?",
+    "options": [
+      "Using print()",
+      "Using alert()",
+      "Using console.log()",
+      "Using document.write()"
+    ],
+    "answerIndex": 2,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-11",
+    "type": "mcq",
+    "question": "What are single-line and multi-line comments in JavaScript? How do you comment out code?",
+    "options": [
+      "// for single-line, /* */ for multi-line",
+      "<!-- --> for single-line, <!-- --> for multi-line",
+      "# for single line, \"\"\" \"\"\" for multi-line",
+      "// for single line, // for multi line"
+    ],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-12",
+    "type": "mcq",
+    "question": "Select the basic data types in JavaScript.",
+    "options": [
+      "Number, String, Boolean, Object, Array",
+      "Number, String, Boolean, Undefined, Null, Object",
+      "Integer, Float, String, Boolean, Object",
+      "Char, Float, String, Boolean, Array"
+    ],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-13",
+    "type": "mcq",
+    "question": "How do you check the data type of a variable in JavaScript?",
+    "options": ["typeof variable", "instanceof variable", "variable.type", "checkType(variable)"],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-14",
+    "type": "mcq",
+    "question": "What are arithmetic operators in JavaScript? Provide examples.",
+    "options": ["+, -, *, /", "+, -, *, /, &&", "++, --, +=, -=", "==, ===, !=, !=="],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-15",
+    "type": "mcq",
+    "question": "Which keyword is used to declare a variable in JavaScript?",
+    "options": ["var", "variable", "v", "let"],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-16",
+    "type": "mcq",
+    "question": "Which operator is used for strict equality comparison in JavaScript?",
+    "options": ["==", "!=", "===", "!=="],
+    "answerIndex": 2,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-17",
+    "type": "mcq",
+    "question": "Which function is used to output data to the console in JavaScript?",
+    "options": ["print()", "log()", "display()", "console.log()"],
+    "answerIndex": 3,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-18",
+    "type": "mcq",
+    "question": "Which built-in method is used to convert a string to an integer in JavaScript?",
+    "options": ["parseInt()", "toInteger()", "convertToInt()", "stringToInt()"],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-19",
+    "type": "mcq",
+    "question": "What is the purpose of Tailwind CSS and how does it differ from other CSS frameworks like Bootstrap?",
+    "options": [
+      "Tailwind CSS is a JavaScript framework",
+      "Tailwind CSS is a utility-first CSS framework that provides low-level utility classes, while Bootstrap provides pre-designed components",
+      "Tailwind CSS is used for server-side scripting",
+      "Tailwind CSS is a database management tool"
+    ],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-20",
+    "type": "mcq",
+    "question": "What is the basic difference between JavaScript and Java?",
+    "options": [
+      "Functions are considered as fields",
+      "Functions are values, and there is no hard distinction between methods and fields",
+      "Variables are specific",
+      "There is no difference"
+    ],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-21",
+    "type": "mcq",
+    "question": "Which statement is used to execute a block of code multiple times in JavaScript?",
+    "options": ["for", "if", "return", "break"],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-22",
+    "type": "mcq",
+    "question": "Why are event handlers needed in JavaScript?",
+    "options": [
+      "Allows JavaScript code to alter the behavior of windows",
+      "Adds inner HTML page to the code",
+      "Change the server location",
+      "Performs handling of exceptions and occurrences"
+    ],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-23",
+    "type": "mcq",
+    "question": "What is the purpose of JavaScript in web development?",
+    "options": [
+      "To structure a web page",
+      "To style web page",
+      "To add interactivity and dynamic content to web pages",
+      "To store data on the server"
+    ],
+    "answerIndex": 2,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-24",
+    "type": "mcq",
+    "question": "In JavaScript, which of the following is a valid variable name?",
+    "options": ["2names", "$name", "-name", "@name"],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-25",
+    "type": "mcq",
+    "question": "Which of the following classes is used to create a responsive navigation bar in Bootstrap?",
+    "options": ["navbar-fixed", "navbar-expand", "navbar-light", "navbar-collapse"],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-26",
+    "type": "mcq",
+    "question": "What is the purpose of the card class in Bootstrap?",
+    "options": [
+      "To create interactive buttons",
+      "To apply borders to an element",
+      "To create a flexible content container with optional headers and footers",
+      "To align text within a grid"
+    ],
+    "answerIndex": 2,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-27",
+    "type": "mcq",
+    "question": "How can we write comments in CSS?",
+    "options": ["/* */", "//", "#", "All of this"],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-28",
+    "type": "mcq",
+    "question": "Which CSS property is used to control the transparency of an element?",
+    "options": ["Opacity", "Visibility", "filter", "None of them"],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-29",
+    "type": "mcq",
+    "question": "Which of the following CSS properties is used for controlling the layout?",
+    "options": ["display", "color", "text", "None of them"],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-30",
+    "type": "mcq",
+    "question": "Which of the following components of the CSS box model are transparent?",
+    "options": ["padding", "margin", "both a & b", "content"],
+    "answerIndex": 2,
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-mcq-31",
+    "type": "mcq",
+    "question": "Which of these is NOT a primary color in RGB?",
+    "options": ["Red", "Blue", "Yellow", "Green"],
+    "answerIndex": 2,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-32",
+    "type": "mcq",
+    "question": "Which tool is used to remove a background in Photoshop?",
+    "options": ["Clone Stamp", "Magic Wand", "Dodge Tool", "Healing Brush"],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-33",
+    "type": "mcq",
+    "question": "What is the function of the Pen Tool in Adobe Illustrator?",
+    "options": [
+      "To paint freehand",
+      "To create precise vector paths and shapes",
+      "To erase elements",
+      "To adjust brightness"
+    ],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-34",
+    "type": "mcq",
+    "question": "What is Axios and what is its main purpose?",
+    "options": [
+      "A CSS framework",
+      "A promise-based HTTP client for making HTTP requests",
+      "A JavaScript library for DOM manipulation",
+      "A database management tool"
+    ],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-35",
+    "type": "mcq",
+    "question": "How can you troubleshoot and debug issues related to JavaScript libraries in a web application?",
+    "options": [
+      "By using print statements",
+      "By using developer tools, console logs, and debugging tools like breakpoints and stack traces",
+      "By restarting the browser",
+      "By reinstalling the libraries"
+    ],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-36",
+    "type": "mcq",
+    "question": "Which software is best for creating documents?",
+    "options": ["Microsoft Word", "Adobe Photoshop", "VLC Media Player", "Google Chrome"],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-37",
+    "type": "mcq",
+    "question": "What is the primary use of Microsoft Excel?",
+    "options": ["Editing videos", "Creating spreadsheets", "Browsing the internet", "Playing games"],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-38",
+    "type": "mcq",
+    "question": "What is the purpose of the 'Track Changes' feature in Microsoft Word?",
+    "options": [
+      "To count words",
+      "To edit images",
+      "To review and manage document edits",
+      "To change font size"
+    ],
+    "answerIndex": 2,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-39",
+    "type": "mcq",
+    "question": "Why is active listening important in workplace interaction?",
+    "options": [
+      "It helps in avoiding work",
+      "It ensures clear understanding and better collaboration",
+      "It makes communication difficult",
+      "It reduces teamwork"
+    ],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-40",
+    "type": "mcq",
+    "question": "How do you perform basic input validation in JavaScript?",
+    "options": [
+      "Using if-else statements",
+      "Using switch statements",
+      "Using try-catch blocks",
+      "Using alert() and prompt()"
+    ],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-41",
+    "type": "mcq",
+    "question": "How do you concatenate strings in JavaScript?",
+    "options": ["Using + operator", "Using * operator", "Using & operator", "Using - operator"],
+    "answerIndex": 0,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-42",
+    "type": "mcq",
+    "question": "Which tool in MS Word is used to create a list?",
+    "options": ["Bold", "Bullet points", "Text Alignment", "Font Size"],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-43",
+    "type": "mcq",
+    "question": "Which of these is NOT part of workplace safety?",
+    "options": [
+      "Following safety protocols",
+      "Using PPE",
+      "Ignoring minor hazards",
+      "Reporting unsafe conditions"
+    ],
+    "answerIndex": 2,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-44",
+    "type": "mcq",
+    "question": "What is the most effective way to communicate in a professional setting?",
+    "options": [
+      "Using informal language",
+      "Being clear and concise",
+      "Using slang and abbreviations",
+      "Avoiding eye contact"
+    ],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-45",
+    "type": "mcq",
+    "question": "What is Bootstrap and what role does it play in web design?",
+    "options": [
+      "A JavaScript framework",
+      "A CSS framework for building responsive and mobile-first websites",
+      "A database management system",
+      "A server-side scripting language"
+    ],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-mcq-46",
+    "type": "mcq",
+    "question": "Which image format is best suited for photographs and images with gradients due to its ability to handle millions of colors and efficient compression?",
+    "options": ["PNG", "GIF", "JPG/JPEG", "PSD"],
+    "answerIndex": 2,
+    "topic": "New Suggestion",
+    "source": "webddf-written-set2.pdf"
+  },
+  {
+    "id": "ns-mcq-47",
+    "type": "mcq",
+    "question": "What file extension is commonly associated with Photoshop plug-in files?",
+    "options": [".exe", ".dll", ".8bf", ".psd"],
+    "answerIndex": 2,
+    "topic": "New Suggestion",
+    "source": "webddf-written-set2.pdf"
+  },
+  {
+    "id": "ns-mcq-48",
+    "type": "mcq",
+    "question": "What is the function of a layer mask?",
+    "options": [
+      "To change the color of a layer",
+      "To hide or reveal parts of a layer",
+      "To increase the layer's opacity",
+      "To duplicate a layer"
+    ],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "webddf-written-set2.pdf"
+  },
+  {
+    "id": "ns-mcq-49",
+    "type": "mcq",
+    "question": "What is a Smart Object?",
+    "options": [
+      "A rasterized layer",
+      "A layer that can be edited non-destructively",
+      "A text layer",
+      "A layer without transparency"
+    ],
+    "answerIndex": 1,
+    "topic": "New Suggestion",
+    "source": "webddf-written-set2.pdf"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ns-w-1",
+    "type": "card",
+    "question": "How many types of layout are available in Bootstrap?",
+    "answer": "There are two major layouts for Bootstrap: Fluid Layout, which is 100% wide and covers the full screen width, and Fixed Layout, which is used only for a standard screen (940px). Both can be used for creating a responsive design.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-2",
+    "type": "card",
+    "question": "Write down the boilerplate of HTML.",
+    "answer": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset=\"UTF-8\"/>\n<title>Document Title</title>\n</head>\n<body>\n</body>\n</html>",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-3",
+    "type": "card",
+    "question": "Why do we use the CSS box-sizing property?",
+    "answer": "The box-sizing property removes the border and padding from the height and width calculation in CSS, so an element's total size stays predictable.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-4",
+    "type": "card",
+    "question": "What is the difference between margin and padding?",
+    "answer": "Margin creates space around an element (outside its border), while padding creates space inside the border, around the content. Margin can be set to auto and can be negative, but padding cannot be auto or negative.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-5",
+    "type": "card",
+    "question": "What is JSON? Give an example.",
+    "answer": "JSON (JavaScript Object Notation) is a standard, lightweight, language-independent data interchange format used to store simple data structures and objects. Example: var student = {name: \"Rubel\", city: \"Dhaka\"};",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-6",
+    "type": "card",
+    "question": "What are the timing methods in JavaScript and why do we use them?",
+    "answer": "JavaScript has two timing methods: setInterval and setTimeout. setInterval executes a task repeatedly within a given time period, while setTimeout executes a task once after a given delay.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-7",
+    "type": "card",
+    "question": "What is the difference between DOM and BOM?",
+    "answer": "DOM (Document Object Model) is a programming interface for HTML and XML documents. BOM (Browser Object Model) allows users to interact with the browser itself — its initial object is `window`, and you can call the window's functions directly or via the window reference.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-8",
+    "type": "card",
+    "question": "What is the difference between HTML tag, element, and attribute?",
+    "answer": "A tag is the syntax used to mark up and print data. An element is made up of a starting tag, an ending tag, and the content between them. An attribute provides additional information about a tag.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-9",
+    "type": "card",
+    "question": "Describe the different types of HTML elements.",
+    "answer": "There are two types of HTML elements: Block-level elements, which take up the whole width available, and Inline elements, which only take up as much width as their content needs.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-10",
+    "type": "card",
+    "question": "What is a function in JavaScript? Give an example.",
+    "answer": "A function is a reusable block of code that performs a particular job; it only runs when it is called. Example:\nfunction hello() {\n  document.write(\"Hello World.\");\n}",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-11",
+    "type": "card",
+    "question": "What are arrays in JavaScript? Give an example.",
+    "answer": "An array is a special variable that can store multiple values, of any data type, in a single variable. Example: var data = [10, 20, \"Hello World.\", 20.34, true, false];",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-12",
+    "type": "card",
+    "question": "Create a JSON array containing four students' name, email, mobile, and address.",
+    "answer": "var students = [\n  {name: \"Arif\", email: \"arif@gmail.com\", mobile: \"01313363836\", address: \"Dhaka\"},\n  {name: \"Arif\", email: \"arif@gmail.com\", mobile: \"01313363836\", address: \"Dhaka\"},\n  {name: \"Arif\", email: \"arif@gmail.com\", mobile: \"01313363836\", address: \"Dhaka\"},\n  {name: \"Arif\", email: \"arif@gmail.com\", mobile: \"01313363836\", address: \"Dhaka\"}\n];",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-13",
+    "type": "card",
+    "question": "Describe the different types of repeated (loop) statements in JavaScript.",
+    "answer": "JavaScript has for, while, do-while, forEach, and for-in statements. for and while check the condition before running; do-while runs once and then checks the condition; forEach and for-in are used to iterate over arrays and objects.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-14",
+    "type": "card",
+    "question": "Describe the different conditional statement syntaxes in JavaScript.",
+    "answer": "There are four: if (runs when the condition is true), if-else (runs one branch or the other), if-else-if (handles multiple conditions), and switch (matches a value against several cases, stopping at the matching case's break).",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-15",
+    "type": "card",
+    "question": "Create a registration form using only HTML, containing user name, email, mobile, and address.",
+    "answer": "<form>\n  <div><label>User Name</label><input type=\"text\" name=\"name\"/></div>\n  <div><label>Email</label><input type=\"email\" name=\"email\"/></div>\n  <div><label>Mobile</label><input type=\"number\" name=\"mobile\"/></div>\n  <div><label>Address</label><textarea name=\"address\"></textarea></div>\n</form>",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-16",
+    "type": "card",
+    "question": "What is the difference between innerText and innerHTML in JavaScript?",
+    "answer": "innerText gets or sets only the visible text content of an element (respecting CSS like display:none). innerHTML gets or sets the HTML markup inside an element, including tags, and parses it as HTML.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-17",
+    "type": "card",
+    "question": "How does an interactive website differ from a static and a dynamic website?",
+    "answer": "A static website has fixed content that doesn't change without manual edits (e.g. a simple portfolio). A dynamic website uses server-side scripting to fetch data from a database, so content updates without changing code (e.g. blogs). An interactive website goes further, using client-side JavaScript for real-time interactions, animations, and user-driven experiences (e.g. social media apps).",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-18",
+    "type": "card",
+    "question": "Which code editor do you prefer for web design and development projects, and why?",
+    "answer": "Visual Studio Code (VS Code) — it's fast, highly customizable, has great HTML/CSS/JavaScript extensions, built-in Git integration, smart autocompletion, and a Live Server for real-time previews.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-19",
+    "type": "card",
+    "question": "Can you explain the basic purpose of FTP software in web development?",
+    "answer": "FTP (File Transfer Protocol) software is used to upload, download, and manage files on a web server — transferring website files like HTML, CSS, and images from a local computer to the server so the site becomes accessible online, and for later updates.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-20",
+    "type": "card",
+    "question": "How do you create an HTML login form with a submit button?",
+    "answer": "<form action=\"login.php\" method=\"post\">\n  <label for=\"username\">Username:</label>\n  <input type=\"text\" id=\"username\" name=\"username\" required><br><br>\n  <label for=\"password\">Password:</label>\n  <input type=\"password\" id=\"password\" name=\"password\" required><br><br>\n  <button type=\"submit\">Login</button>\n</form>",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-21",
+    "type": "card",
+    "question": "When should you consider using an SVG image?",
+    "answer": "Use SVG when you need scalable, high-quality graphics that are lightweight, editable with CSS/JavaScript, and accessible for SEO — ideal for logos, icons, and simple illustrations.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-22",
+    "type": "card",
+    "question": "What is an ID selector in CSS?",
+    "answer": "An ID selector styles a specific element with a unique identifier, defined with a # followed by the element's ID. Example:\n#header {\n  color: blue;\n  font-size: 20px;\n}",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-23",
+    "type": "card",
+    "question": "How do you apply multiple CSS classes to a single HTML element?",
+    "answer": "List the class names separated by spaces inside the class attribute:\n<div class=\"class1 class2 class3\">Content here</div>",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-24",
+    "type": "card",
+    "question": "How do you create functions in JavaScript?",
+    "answer": "Function declaration:\nfunction greet(name) { return \"Hello, \" + name; }\n\nArrow function:\nconst greet = (name) => { return \"Hello, \" + name; }",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-25",
+    "type": "card",
+    "question": "How do you create an ordered list in HTML?",
+    "answer": "Use the <ol> tag, with each item wrapped in an <li> tag:\n<ol>\n  <li>First item</li>\n  <li>Second item</li>\n  <li>Third item</li>\n</ol>",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-26",
+    "type": "card",
+    "question": "What are arrays and objects in JavaScript?",
+    "answer": "Arrays store multiple values in a single ordered variable and can hold any data type. Objects are collections of key-value pairs, where each key is a string (or symbol) and the value can be any data type.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-27",
+    "type": "card",
+    "question": "How do you access arrays and objects and their elements/properties?",
+    "answer": "Array elements are accessed with an index, e.g. fruits[0]. Object properties are accessed with dot or bracket notation, e.g. person.name or person[\"age\"].",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-28",
+    "type": "card",
+    "question": "Can you explain the difference between for loop, while loop, and do-while loop?",
+    "answer": "A for loop is used when the number of iterations is known in advance. A while loop runs as long as its condition is true, checked before each iteration. A do-while loop runs at least once, with the condition checked after each iteration.",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-29",
+    "type": "card",
+    "question": "How do you handle conditional statements in JavaScript?",
+    "answer": "Use if to check a condition, else for the alternative, and else if for additional conditions; use switch to check a value against multiple cases. Example:\nif (x > 10) { console.log(\"x > 10\"); }\nelse if (x === 10) { console.log(\"x = 10\"); }\nelse { console.log(\"x < 10\"); }",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-30",
+    "type": "card",
+    "question": "What is the Document Object Model (DOM) in JavaScript?",
+    "answer": "The DOM is a programming interface for web documents. It represents the page as a tree structure where each element, attribute, and text is a node. JavaScript can manipulate the DOM to dynamically change a page's content, structure, and style — e.g. document.getElementById(\"myDiv\").innerHTML = \"New content!\";",
+    "topic": "New Suggestion",
+    "source": "wddf-written-suggestions1.pdf"
+  },
+  {
+    "id": "ns-w-31",
+    "type": "card",
+    "question": "What are arrays and objects in JavaScript?",
+    "answer": "Arrays are ordered collections of values, e.g. numbers = [1, 2, 3];. Objects are collections of key-value pairs, e.g. person = {name: 'John', age: 30};.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-32",
+    "type": "card",
+    "question": "What is the purpose of loops in JavaScript?",
+    "answer": "Loops are used to repeatedly execute a block of code as long as a specified condition is true.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-33",
+    "type": "card",
+    "question": "How do you create functions in JavaScript? Give an example.",
+    "answer": "function greet() {\n  console.log('Hello');\n}",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-34",
+    "type": "card",
+    "question": "How do you handle conditional statements in JavaScript?",
+    "answer": "Using if, else, and switch statements.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-35",
+    "type": "card",
+    "question": "Explain the concept of 'strict mode' in JavaScript.",
+    "answer": "Strict mode makes it easier to write \"secure\" JavaScript by catching common mistakes and unsafe actions, such as assigning to undeclared variables.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-36",
+    "type": "card",
+    "question": "What is the concept of event bubbling and event capturing in JavaScript?",
+    "answer": "Event bubbling handles events after they happen at the target, propagating upward through ancestor elements. Event capturing is useful for intercepting events before they reach the target, propagating downward from ancestors.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-37",
+    "type": "card",
+    "question": "What is the Document Object Model (DOM) in JavaScript?",
+    "answer": "The DOM is a programming interface for HTML and XML documents. It represents the page as a tree structure where each node is an object.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-38",
+    "type": "card",
+    "question": "How does a static website differ from a dynamic website?",
+    "answer": "A static website has fixed content, while a dynamic website has interactive, database-driven content that can change without editing the code.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-39",
+    "type": "card",
+    "question": "What are some popular frameworks and platforms used for developing dynamic websites?",
+    "answer": "PHP uses Laravel, Python uses Django, JavaScript uses Node.js, Java uses Spring, and .NET uses ASP.NET.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-40",
+    "type": "card",
+    "question": "What role do search engines play in indexing and retrieving information from the Internet?",
+    "answer": "Search engines crawl websites, index their content in a database, and retrieve the most relevant information when users perform a search, making it easier to find information on the Internet.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-41",
+    "type": "card",
+    "question": "What are the main features and functionalities of an interactive website?",
+    "answer": "User input forms, real-time feedback and updates, interactive maps, animations and transitions, and social media integration.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-42",
+    "type": "card",
+    "question": "What are some key features to look for in a code editor for web design and development tasks?",
+    "answer": "Integrated version control (Git), debugging tools, extension/plugin support, multi-language support, and a customizable UI/UX.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-43",
+    "type": "card",
+    "question": "How do you ensure your designs are compatible with both desktop and mobile browsers?",
+    "answer": "Implement responsive design techniques, use CSS media queries to adapt styles for different screen sizes, test on real devices and emulators, and optimize performance for slower mobile connections.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-44",
+    "type": "card",
+    "question": "What is PHPMyAdmin, and how is it used in web development?",
+    "answer": "PHPMyAdmin is a web-based tool for managing MySQL databases. It provides a graphical interface to perform database operations like creating, modifying, and deleting databases, tables, and records.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  },
+  {
+    "id": "ns-w-45",
+    "type": "card",
+    "question": "What are RESTful APIs?",
+    "answer": "RESTful APIs are web services that follow REST principles and use HTTP methods such as GET, POST, PUT, and DELETE to allow applications to communicate and exchange data over the internet.",
+    "topic": "New Suggestion",
+    "source": "wddf formative assessmen_2.pdf"
+  }
+]

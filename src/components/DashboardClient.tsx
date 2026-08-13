@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { Flame, Zap, Target, AlertTriangle, ArrowRight, Play } from "lucide-react";
+import { Flame, Zap, Target, AlertTriangle, ArrowRight, Play, Lightbulb } from "lucide-react";
 import ProgressRing from "@/components/ProgressRing";
 import ModuleCard from "@/components/ModuleCard";
 import { MODULES } from "@/data/loader";
@@ -38,8 +38,9 @@ export default function DashboardClient() {
     .sort((a, b) => (modAcc[a.id] as number) - (modAcc[b.id] as number))
     .slice(0, 3);
 
-  const mcqModules = MODULES.filter((m) => m.kind === "mcq");
-  const flashModules = MODULES.filter((m) => m.kind === "flashcards");
+  const suggestionModules = MODULES.filter((m) => m.id.startsWith("new-suggestion-"));
+  const mcqModules = MODULES.filter((m) => m.kind === "mcq" && !m.id.startsWith("new-suggestion-"));
+  const flashModules = MODULES.filter((m) => m.kind === "flashcards" && !m.id.startsWith("new-suggestion-"));
 
   return (
     <div className="mx-auto max-w-6xl px-4 sm:px-6 py-8 space-y-8">
@@ -115,15 +116,39 @@ export default function DashboardClient() {
           ))}
         </div>
       </section>
+
+      {/* New Suggestion */}
+      {suggestionModules.length > 0 && (
+        <section>
+          <SectionHeading
+            title="New Suggestion"
+            subtitle="Latest suggestion sheets, turned into practice"
+            icon={Lightbulb}
+          />
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {suggestionModules.map((m) => (
+              <ModuleCard key={m.id} mod={m} accuracy={modAcc[m.id]} />
+            ))}
+          </div>
+        </section>
+      )}
     </div>
   );
 }
 
-function SectionHeading({ title, subtitle }: { title: string; subtitle: string }) {
+function SectionHeading({
+  title,
+  subtitle,
+  icon: Icon = Target,
+}: {
+  title: string;
+  subtitle: string;
+  icon?: React.ElementType;
+}) {
   return (
     <div className="flex items-baseline justify-between mb-3">
       <h2 className="font-display font-semibold text-lg flex items-center gap-2">
-        <Target size={16} className="text-teal" /> {title}
+        <Icon size={16} className="text-teal" /> {title}
       </h2>
       <span className="text-xs text-text-faint font-mono-tag">{subtitle}</span>
     </div>
