@@ -19,6 +19,34 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
+const ANCHOR_LAST_RE = /^(all|none)\s+of\s+(the\s+above|these|them|above)$/i;
+const REFERENTIAL_RE = /^both\s+[a-z0-9]+\s+(?:and|&)\s+[a-z0-9]+$/i;
+
+function isAnchorLast(opt: string): boolean {
+  return ANCHOR_LAST_RE.test(opt.trim());
+}
+
+function isReferential(opt: string): boolean {
+  return REFERENTIAL_RE.test(opt.trim());
+}
+
+function shuffleOptions(q: MCQQuestion): MCQQuestion {
+  if (q.options.some(isReferential)) return q;
+
+  const correctText = q.options[q.answerIndex];
+  const anchorIdx = q.options.findIndex(isAnchorLast);
+
+  if (anchorIdx === -1) {
+    const shuffled = shuffle(q.options);
+    return { ...q, options: shuffled, answerIndex: shuffled.indexOf(correctText) };
+  }
+
+  const rest = q.options.filter((_, i) => i !== anchorIdx);
+  const shuffledRest = shuffle(rest);
+  const finalOptions = [...shuffledRest, q.options[anchorIdx]];
+  return { ...q, options: finalOptions, answerIndex: finalOptions.indexOf(correctText) };
+}
+
 type Phase = "active" | "results";
 
 interface Props {
@@ -27,18 +55,20 @@ interface Props {
   allQuestions: MCQQuestion[];
   count: number;
   timed: boolean;
+  secondsPerQuestion?: number;
 }
 
-const TIME_PER_Q = 30;
-
-export default function QuizClient({ moduleId, moduleTitle, allQuestions, count, timed }: Props) {
-  const questions = useMemo(() => shuffle(allQuestions).slice(0, count), [allQuestions, count]);
+export default function QuizClient({ moduleId, moduleTitle, allQuestions, count, timed, secondsPerQuestion = 30 }: Props) {
+  const questions = useMemo(
+    () => shuffle(allQuestions).slice(0, count).map(shuffleOptions),
+    [allQuestions, count]
+  );
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [locked, setLocked] = useState(false);
   const [answers, setAnswers] = useState<Record<string, { chosen: number | null; correct: boolean }>>({});
   const [phase, setPhase] = useState<Phase>("active");
-  const [timeLeft, setTimeLeft] = useState(TIME_PER_Q);
+  const [timeLeft, setTimeLeft] = useState(secondsPerQuestion);
   const [startedAt] = useState(() => Date.now());
   const [savedOnce, setSavedOnce] = useState(false);
   const [finalDurationSec, setFinalDurationSec] = useState(0);
@@ -56,9 +86,9 @@ export default function QuizClient({ moduleId, moduleTitle, allQuestions, count,
       setIdx((v) => v + 1);
       setSelected(null);
       setLocked(false);
-      setTimeLeft(TIME_PER_Q);
+      setTimeLeft(secondsPerQuestion);
     }
-  }, [idx, total, startedAt]);
+  }, [idx, total, startedAt, secondsPerQuestion]);
 
   const commitAnswer = useCallback(
     (choice: number | null) => {
@@ -154,9 +184,15 @@ export default function QuizClient({ moduleId, moduleTitle, allQuestions, count,
               <Link href={`/module/${moduleId}`} className="rounded-lg border border-border-subtle bg-surface-2 text-sm px-4 py-2 hover:border-teal/60 transition inline-flex items-center gap-1.5">
                 <ArrowLeft size={14} /> Module
               </Link>
+              <Link
+                href={`/quiz/${moduleId}?count=${total}&timed=${timed ? 1 : 0}&spq=${secondsPerQuestion}&r=${startedAt}`}
+                className="rounded-lg border border-border-subtle bg-surface-2 text-sm px-4 py-2 hover:border-teal/60 transition inline-flex items-center gap-1.5"
+              >
+                <RotateCcw size={14} /> Retake exam
+              </Link>
               {wrongQuestions.length > 0 && (
                 <Link
-                  href={`/quiz/${moduleId}?count=${wrongQuestions.length}&timed=0&retry=1`}
+                  href={`/quiz/${moduleId}?count=${wrongQuestions.length}&timed=0&retry=1&r=${startedAt}`}
                   className="rounded-lg bg-amber text-[#1a1200] font-semibold text-sm px-4 py-2 hover:brightness-110 transition inline-flex items-center gap-1.5"
                 >
                   <RotateCcw size={14} /> Retry mistakes ({wrongQuestions.length})

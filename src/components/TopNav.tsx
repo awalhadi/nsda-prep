@@ -2,12 +2,13 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Terminal, LayoutDashboard, BookOpen, RotateCcw } from "lucide-react";
+import { Terminal, LayoutDashboard, BookOpen, RotateCcw, Settings } from "lucide-react";
 
 const links = [
   { href: "/", label: "dashboard", icon: LayoutDashboard },
   { href: "/modules", label: "modules", icon: BookOpen },
   { href: "/review", label: "review", icon: RotateCcw },
+  { href: "/settings", label: "settings", icon: Settings },
 ];
 
 export default function TopNav() {
