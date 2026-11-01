@@ -20,6 +20,14 @@
 # production
 /build
 
+# source PDFs stay local; generated plan reports are committed
+/docs/*
+!/docs/plan/
+
+# content pipeline caches
+/content/cbta/.cache/
+/scripts/cblm/.venv/
+
 # misc
 .DS_Store
 *.pem
