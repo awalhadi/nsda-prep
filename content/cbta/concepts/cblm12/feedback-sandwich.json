@@ -1,0 +1,259 @@
+{
+  "id": "feedback-sandwich",
+  "canonical_title": "Feedback and the Feedback Sandwich",
+  "aliases": [
+    "The feedback sandwich",
+    "Kiss - Kick - Kiss",
+    "Providing feedback"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [
+    "cblm12-p23-b9f53934",
+    "cblm12-p23-3032a4be",
+    "cblm12-p23-a85f2d02",
+    "cblm12-p23-bdab02b5",
+    "cblm12-p23-90692113"
+  ],
+  "questions": [
+    "cblm12-sc1-q15",
+    "paper-final-formative-01-q15"
+  ],
+  "one_line_answer": {
+    "text": "The feedback sandwich is Kiss, Kick, Kiss: positive point, area to improve, encouraging statement.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "paper-final-formative-01",
+        "page": 2,
+        "quote": "Kiss - Kick - Kiss: a positive point, an area to improve, then an encouraging statement"
+      },
+      {
+        "src": "cblm12",
+        "page": 23,
+        "quote": "The feedback sandwich",
+        "passageId": "cblm12-p23-3032a4be"
+      }
+    ]
+  },
+  "keywords": [
+    { "en": "Feedback", "bn": "কাজ কেমন হলো তা জানানো" },
+    { "en": "Feedback sandwich", "bn": "ভালো কথা, উন্নতির জায়গা, তারপর আবার উৎসাহ" },
+    { "en": "Kiss", "bn": "ভালো কথা বা উৎসাহ দেওয়া" },
+    { "en": "Kick", "bn": "কোথায় উন্নতি দরকার তা বলা" },
+    { "en": "Self assessment", "bn": "নিজের কাজ নিজেই যাচাই করা" }
+  ],
+  "bangla_explanation": [
+    "Feedback দেওয়ার সহজ নিয়ম হলো feedback sandwich: Kiss, Kick, Kiss।",
+    "প্রথমে ভালো দিকটা বলুন, তাহলে candidate মন খারাপ করে না, মন দিয়ে শোনে।",
+    "মাঝে বলুন কোথায় improve করতে হবে আর কীভাবে করবে।",
+    "শেষে উৎসাহ দিন, যাতে সে আবার চেষ্টা করে। ভুল নয়, corrective actions-এ জোর দিন।"
+  ],
+  "example": {
+    "en": "A garments trainee sews a shirt. First say: your stitches are straight. Then: fix the collar like this. End: you are doing well.",
+    "bn": "গার্মেন্টস ট্রেইনিকে আগে প্রশংসা, তারপর কলার ঠিক করার পরামর্শ, শেষে উৎসাহ।"
+  },
+  "mnemonic": {
+    "text": "Kiss - Kick - Kiss: soft, firm, soft, like bread around the filling",
+    "explain_bn": "স্যান্ডউইচের দুই পাশে নরম রুটি (ভালো কথা), মাঝে আসল কথা (উন্নতির জায়গা)।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Kiss: tell the learner about something positive you have noticed.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 23,
+            "quote": "Kiss Tell the learner about something positive you have noticed",
+            "passageId": "cblm12-p23-a85f2d02"
+          }
+        ]
+      },
+      {
+        "text": "Kick: advise the learner of an area that could be improved, and how.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 23,
+            "quote": "Kick Advise the learner of an area that could be improved and how they can do this",
+            "passageId": "cblm12-p23-bdab02b5"
+          }
+        ]
+      },
+      {
+        "text": "Kiss: finish with an encouraging statement.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 23,
+            "quote": "Kiss Finish with an encouraging statement",
+            "passageId": "cblm12-p23-90692113"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Before the sandwich, start by asking the candidate to judge how well they performed.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 40,
+          "quote": "Start by asking the candidate to judge how well he/she performed."
+        },
+        {
+          "src": "cblm12",
+          "page": 23,
+          "quote": "Always ask the trainee how they felt about the assessment before offering your feedback."
+        },
+        {
+          "src": "cblm12",
+          "page": 23,
+          "quote": "The feedback sandwich"
+        }
+      ]
+    },
+    {
+      "text": "Feedback is not a one way process.",
+      "fidelity": "verbatim",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 23,
+          "quote": "Feedback is not a one way process.",
+          "passageId": "cblm12-p23-b9f53934"
+        }
+      ]
+    },
+    {
+      "text": "Focus on corrective actions not mistakes.",
+      "fidelity": "verbatim",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 23,
+          "quote": "Focus on corrective actions not mistakes."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "How would you provide feedback to a candidate?",
+      "modelAnswer": "I will use the feedback sandwich:\n1. Start by asking the candidate to judge how well he/she performed.\n2. Kiss: tell the learner something positive I have noticed.\n3. Kick: advise the learner of an area that could be improved, and how.\n4. Kiss: finish with an encouraging statement.",
+      "keyPoints": [
+        {
+          "text": "Participants gain the most valuable information by reflecting on their performance.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 23,
+              "quote": "Participants gain the most valuable information about their performance by reflecting on it themselves.",
+              "passageId": "cblm12-p23-b9f53934"
+            }
+          ]
+        },
+        {
+          "text": "Feedback should focus on how a learner can improve.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 23,
+              "quote": "Feedback from a facilitator should focus on how a learner can improve."
+            }
+          ]
+        },
+        {
+          "text": "Self assessment helps the trainee take more responsibility for their learning.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 23,
+              "quote": "Self assessment can be used to encourage the trainee to take more responsibility for their own learning."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "In the feedback sandwich, what is the 'Kick'?",
+      "options": [
+        "Tell the learner something positive",
+        "Advise an area to improve and how",
+        "Finish with an encouraging statement",
+        "Give the final assessment decision"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 23,
+        "quote": "Kick Advise the learner of an area that could be improved and how they can do this"
+      }
+    },
+    "matching": {
+      "prompt": "Match each part with what you do.",
+      "pairs": [
+        {
+          "left": "First Kiss",
+          "right": "Something positive you have noticed",
+          "cite": {
+            "src": "cblm12",
+            "page": 23,
+            "quote": "Kiss Tell the learner about something positive you have noticed"
+          }
+        },
+        {
+          "left": "Kick",
+          "right": "An area that could be improved, and how",
+          "cite": {
+            "src": "cblm12",
+            "page": 23,
+            "quote": "Kick Advise the learner of an area that could be improved and how they can do this"
+          }
+        },
+        {
+          "left": "Last Kiss",
+          "right": "An encouraging statement",
+          "cite": {
+            "src": "cblm12",
+            "page": 23,
+            "quote": "Kiss Finish with an encouraging statement"
+          }
+        },
+        {
+          "left": "Self assessment",
+          "right": "The trainee takes more responsibility for learning",
+          "cite": {
+            "src": "cblm12",
+            "page": 23,
+            "quote": "Self assessment can be used to encourage the trainee to take more responsibility for their own learning."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What is the feedback sandwich?",
+      "answer": {
+        "text": "It is Kiss, Kick, Kiss. A positive point, an area to improve, then an encouraging statement.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "paper-final-formative-01",
+            "page": 2,
+            "quote": "Kiss - Kick - Kiss: a positive point, an area to improve, then an encouraging statement"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

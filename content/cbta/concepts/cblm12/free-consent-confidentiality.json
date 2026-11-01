@@ -1,0 +1,272 @@
+{
+  "id": "free-consent-confidentiality",
+  "canonical_title": "Free Consent and Confidentiality",
+  "aliases": [
+    "Free consent",
+    "Confidentiality in assessment",
+    "Informed consent"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [
+    "cblm12-p8-6b645450",
+    "cblm12-p9-020c4877"
+  ],
+  "questions": [
+    "paper-short-questions-q61"
+  ],
+  "one_line_answer": {
+    "text": "Free consent: candidates are informed, given details and not pressured to undertake assessment.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 8,
+        "quote": "Free consent means that the people you assess should;",
+        "passageId": "cblm12-p8-6b645450"
+      },
+      {
+        "src": "cblm12",
+        "page": 8,
+        "quote": "be informed if an assessment is planned"
+      },
+      {
+        "src": "cblm12",
+        "page": 8,
+        "quote": "be given details of the assessment and"
+      },
+      {
+        "src": "cblm12",
+        "page": 8,
+        "quote": "not be pressured to undertake the assessment"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Free consent",
+      "bn": "নিজের ইচ্ছায়, চাপ ছাড়া রাজি হওয়া"
+    },
+    {
+      "en": "Confidentiality",
+      "bn": "গোপনীয়তা"
+    },
+    {
+      "en": "Pressure",
+      "bn": "চাপ দেওয়া, জোর করা"
+    },
+    {
+      "en": "Authorized personnel",
+      "bn": "যাদের দেখার অনুমতি আছে, শুধু সেই লোকজন"
+    },
+    {
+      "en": "Secure",
+      "bn": "নিরাপদে রাখা"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment-এর আগে candidate-এর free consent লাগবে, মানে সে নিজের ইচ্ছায় রাজি হবে।",
+    "তাকে আগে জানাতে হবে, details দিতে হবে, আর কোনো pressure দেওয়া যাবে না।",
+    "Confidentiality মানে candidate-এর assessment information শুধু authorized personnel দেখবে, আর তা secure থাকবে।",
+    "Assessor-এর সিদ্ধান্ত candidate-এর ওপর বড় প্রভাব ফেলে, তাই এই দুটো দায়িত্ব খুব জরুরি।"
+  ],
+  "example": {
+    "en": "At a hospital training centre, the assessor tells nurses about the test early. She explains the details. Nobody is forced to sit it. Results stay locked in the office.",
+    "bn": "আগে জানানো, details দেওয়া, জোর না করা = free consent; ফলাফল তালাবন্ধ রাখা = confidentiality।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Be informed if an assessment is planned",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 8,
+            "quote": "be informed if an assessment is planned"
+          }
+        ]
+      },
+      {
+        "text": "Be given details of the assessment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 8,
+            "quote": "be given details of the assessment and"
+          }
+        ]
+      },
+      {
+        "text": "Not be pressured to undertake the assessment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 8,
+            "quote": "not be pressured to undertake the assessment"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Free consent and confidentiality are different. Confidentiality is about information access.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 8,
+          "quote": "You have a responsibility to ensure free consent and confidentiality."
+        },
+        {
+          "src": "cblm12",
+          "page": 9,
+          "quote": "Confidentiality means that information about candidate's assessment should be;"
+        }
+      ]
+    },
+    {
+      "text": "Assessment information goes only to authorized personnel, not to everyone.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 9,
+          "quote": "Confidentiality means that information about candidate's assessment should be;"
+        },
+        {
+          "src": "cblm12",
+          "page": 9,
+          "quote": "made available only to authorized personnel and"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is free consent in assessment?",
+      "modelAnswer": "Free consent means the candidate agrees to the assessment freely. The people you assess should:\n1. Be informed if an assessment is planned\n2. Be given details of the assessment\n3. Not be pressured to undertake the assessment",
+      "keyPoints": [
+        {
+          "text": "The assessor has a responsibility to ensure free consent and confidentiality.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 8,
+              "quote": "As an assessor, the judgments you make about the assessees will affect them"
+            },
+            {
+              "src": "cblm12",
+              "page": 8,
+              "quote": "You have a responsibility to ensure free consent and confidentiality."
+            }
+          ]
+        },
+        {
+          "text": "The candidate gives voluntary consent after understanding the assessment purpose and procedures.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "paper-short-questions",
+              "page": 8,
+              "quote": "The candidate gives voluntary consent after understanding the"
+            },
+            {
+              "src": "paper-short-questions",
+              "page": 8,
+              "quote": "assessment context, purpose, procedures and legal/ethical responsibilities."
+            }
+          ]
+        },
+        {
+          "text": "Confidentiality: information is shown only to authorized personnel and kept secure.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 9,
+              "quote": "Confidentiality means that information about candidate's assessment should be;",
+              "passageId": "cblm12-p9-020c4877"
+            },
+            {
+              "src": "cblm12",
+              "page": 9,
+              "quote": "made available only to authorized personnel and o kept secure"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which one is part of confidentiality?",
+      "options": [
+        "Not pressured to undertake the assessment",
+        "Informed if an assessment is planned",
+        "Kept secure and available only to authorized personnel",
+        "Given details of the assessment"
+      ],
+      "answerIndex": 2,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 9,
+        "quote": "made available only to authorized personnel and o kept secure"
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "Free consent",
+          "right": "Not pressured to undertake the assessment",
+          "cite": {
+            "src": "cblm12",
+            "page": 8,
+            "quote": "not be pressured to undertake the assessment"
+          }
+        },
+        {
+          "left": "Confidentiality",
+          "right": "Information made available only to authorized personnel",
+          "cite": {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "made available only to authorized personnel and"
+          }
+        },
+        {
+          "left": "Assessor's responsibility",
+          "right": "Ensure free consent and confidentiality",
+          "cite": {
+            "src": "cblm12",
+            "page": 8,
+            "quote": "You have a responsibility to ensure free consent and confidentiality."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What does confidentiality mean in assessment?",
+      "answer": {
+        "text": "Assessment information is available only to authorized personnel. It is kept secure.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "Confidentiality means that information about candidate's assessment should be;"
+          },
+          {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "made available only to authorized personnel and o kept secure"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

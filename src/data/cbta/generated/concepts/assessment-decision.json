@@ -1,0 +1,493 @@
+{
+  "aliases": [
+    "Making Assessment Decision",
+    "Judgement of competence",
+    "Making overall judgement"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 12,
+      "pages": [
+        {
+          "pdf": 21,
+          "printed": 21
+        },
+        {
+          "pdf": 22,
+          "printed": 22
+        },
+        {
+          "pdf": 39,
+          "printed": 39
+        }
+      ],
+      "src": "cblm12"
+    }
+  ],
+  "banglaExplanation": [
+    "Evidence জোগাড়ের পর assessor ঠিক করেন candidate Competent নাকি Not Yet Competent।",
+    "এজন্য evidence-কে performance criteria, dimensions of competency আর rules of evidence-এর সাথে মেলাতে হয়।",
+    "সিদ্ধান্তের কারণ পরিষ্কার রাখুন, কারণ এগুলোই পরে feedback-এর ভিত্তি।",
+    "সিদ্ধান্ত নিতে না পারলে candidate-কে additional evidence দিতে বলুন।"
+  ],
+  "breakdown": {
+    "exam": 4,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 12,
+  "errata": [],
+  "example": {
+    "bn": "IT ট্রেইনির নেটওয়ার্ক কাজ performance criteria-র সাথে মিলিয়ে assessor সিদ্ধান্ত নেন।",
+    "en": "An IT trainee builds a network. The assessor checks it against the performance criteria. All criteria are met, so the trainee is Competent."
+  },
+  "highlighted": true,
+  "id": "assessment-decision",
+  "importance": {
+    "bn": "Short Questions (answer guide) (Short 55), Short Questions (answer guide) (Short 79) আর CBLM 12 Self Check 1 (Q11): 3 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in Short Questions (answer guide) (Short 55), Short Questions (answer guide) (Short 79) and CBLM 12 Self Check 1 (Q11). Highlighted in CBLM 12. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "বিচার করে সিদ্ধান্ত নেওয়া",
+      "en": "Judgement"
+    },
+    {
+      "bn": "দক্ষ, standard পূরণ করেছে",
+      "en": "Competent"
+    },
+    {
+      "bn": "এখনো দক্ষ হয়নি",
+      "en": "Not Yet Competent"
+    },
+    {
+      "bn": "কাজ কতটা ভালো হতে হবে তার মাপকাঠি",
+      "en": "Performance criteria"
+    },
+    {
+      "bn": "দক্ষতার চারটি দিক",
+      "en": "Dimensions of competency"
+    },
+    {
+      "bn": "বাড়তি প্রমাণ",
+      "en": "Additional evidence"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Requirements of the unit of competency",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Does the evidence match the requirements of the elements and performance criteria?",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Requirements of the unit of competency: evidence matches the elements and performance criteria."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "passageId": "cblm12-p21-5d00f2c6",
+            "printedPage": 21,
+            "quote": "Dimensions of competency",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Task skills, Task management skills, Contingency management skills and Job/role environment skills",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Dimensions of competency: task skills, task management, contingency management and job/role environment skills."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Rules of evidence Does the evidence conform to the rules of evidence?",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Rules of evidence: the evidence conforms to the rules of evidence."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Validation of evidence Does one piece of evidence support other pieces of evidence",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Validation of evidence: one piece of evidence supports other pieces of evidence."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 21,
+        "passageId": "cblm12-p21-f6fe0186",
+        "printedPage": 21,
+        "quote": "After gathering the evidence, you need to make a judgment of competence.",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 21,
+        "printedPage": 21,
+        "quote": "you have to evaluate the evidence against a number of factors such as",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 21,
+        "printedPage": 21,
+        "quote": "At some stage you as an assessor will need to make an overall judgement of competence.",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "After gathering evidence, the assessor makes a judgment of competence against a number of factors."
+  },
+  "openChecks": 1,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Does the evidence match the requirements of the elements and performance criteria?",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Requirements of the unit of competency",
+          "right": "Does the evidence match the performance criteria?"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Dimensions of competency Does the evidence show that the candidate is able to meet the four dimensions of",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Dimensions of competency",
+          "right": "Does the candidate meet the four dimensions?"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Rules of evidence Does the evidence conform to the rules of evidence?",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Rules of evidence",
+          "right": "Does the evidence conform to the rules?"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Validation of evidence Does one piece of evidence support other pieces of evidence",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Validation of evidence",
+          "right": "Does one piece support other pieces?"
+        }
+      ],
+      "prompt": "Match each decision factor with its question."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 12,
+        "match": "exact",
+        "page": 22,
+        "printedPage": 22,
+        "quote": "you should ask the candidate to submit additional evidence.",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Mark the candidate Not Yet Competent",
+        "Ask the candidate to submit additional evidence",
+        "Mark the candidate Competent",
+        "Stop the assessment and leave"
+      ],
+      "prompt": "You cannot make a decision about competency. What should you do?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "the process of comparing sufficient evidence of a candidate's achievement with the required performance criteria",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Judgement compares sufficient evidence with the required performance criteria."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "be clear about the reasons you have for reaching your decision.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "These reasons will form the basis of your feedback to the candidates.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Be clear about the reasons for your decision. They form the basis of your feedback."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "a degree of informed subjective judgement on your part will be involved.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A degree of informed subjective judgement will be involved."
+        }
+      ],
+      "modelAnswer": "After gathering the evidence, I make a judgment of competence. I evaluate the evidence against these factors:\n1. Requirements of the unit of competency\n2. Dimensions of competency\n3. Rules of evidence\n4. Validation of evidence\nIf the evidence matches these criteria, the candidate is Competent. Otherwise, Not Yet Competent.",
+      "prompt": "How would you determine the candidate is competent or not yet competent?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "Comparing the evidence against the criteria for assessment and",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "Making the decision as to whether the necessary competence has been achieved.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "First, compare the evidence against the criteria. Then decide if the necessary competence has been achieved."
+      },
+      "prompt": "What are the two stages of making a judgement?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Does the evidence address the critical aspects of the competence, the underpinning\nknowledge, and skill requirements of the units of competency?\nDimensions of competency\nDoes the evidence show that the candidate is able to meet the four dimensions of\ncompetency- Task skills, Task management skills, Contingency management skills and\nJob/role environment skills?\nRules of evidence\nDoes the evidence conform to the rules of evidence?\nValidation of evidence\nDoes one piece of evidence support other pieces of evidence and help to build a\n\"picture' of competent performance?\nIf the evidence matches with above criteria, the candidate will be Competent.\nOtherwise, Not Yet Competent.",
+      "flags": [
+        "restated-question-differs"
+      ],
+      "id": "cblm12-sc1-q11",
+      "kind": "selfcheck",
+      "label": "CBLM 12 Self Check 1 (Q11)",
+      "page": 35,
+      "printedPage": 35,
+      "question": "How would you determine the candidate is competent or not yet competent?",
+      "src": "cblm12",
+      "type": "short"
+    },
+    {
+      "answer": "Compare the candidate's evidence with the relevant performance\ncriteria and standards, taking competency dimensions and the rules of evidence\ninto account.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q55",
+      "kind": "paper",
+      "label": "Short Questions (answer guide) (Short 55)",
+      "page": 7,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "How should an assessor decide whether a candidate is competent?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": "Compare evidence with the performance criteria; check the rules\nof evidence and competency dimensions; then document the judgment.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q79",
+      "kind": "paper",
+      "label": "Short Questions (answer guide) (Short 79)",
+      "page": 10,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What are the steps for deciding Competent or Not Yet Competent?",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 8,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Making an Assessment Decision",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 22,
+          "passageId": "cblm12-p22-25250e46",
+          "printedPage": 22,
+          "quote": "This definition identifies two stages of the assessment process",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        },
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 22,
+          "passageId": "cblm12-p22-1ed8625b",
+          "printedPage": 22,
+          "quote": "Comparing the evidence against the criteria for assessment and",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        },
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 22,
+          "printedPage": 22,
+          "quote": "Making the decision as to whether the necessary competence has been achieved.",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Judgement has two stages. Compare the evidence against the criteria, then decide if competence is achieved."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 22,
+          "printedPage": 22,
+          "quote": "If you cannot make a decision about competency, you should ask the candidate to submit additional evidence.",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "If you cannot make a decision, ask the candidate to submit additional evidence."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 39,
+          "printedPage": 39,
+          "quote": "If the evidence matches with above criteria, the candidate will be Competent.",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        },
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 39,
+          "printedPage": 39,
+          "quote": "Otherwise, Not Yet Competent.",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "If the evidence matches the criteria, the candidate is Competent. Otherwise, Not Yet Competent."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

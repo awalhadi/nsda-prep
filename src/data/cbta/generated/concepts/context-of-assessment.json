@@ -1,0 +1,348 @@
+{
+  "aliases": [
+    "Assessment context",
+    "Assessment setting"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 12,
+      "pages": [
+        {
+          "pdf": 9,
+          "printed": 9
+        }
+      ],
+      "src": "cblm12"
+    }
+  ],
+  "banglaExplanation": [
+    "Context মানে assessment কোথায় আর কোন পরিবেশে হচ্ছে, সেই setting।",
+    "এর মধ্যে physical environment আর social environment দুটোই পড়ে।",
+    "Units of competency-র সাথে candidate-এর real work-এর সম্পর্ক, আর time period-ও context-এর অংশ।",
+    "আগে থেকে এগুলো ঠিক করে রাখলে assessment ঠিকমতো, expected ভাবে হয়।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 12,
+  "errata": [],
+  "example": {
+    "bn": "গ্যারেজের যন্ত্র ও জায়গা = physical, সহকর্মীরা = social, এক দিন = time period।",
+    "en": "A motor mechanic is assessed in a real garage workshop. The tools and space are the physical environment. The co-workers are the social environment. The test lasts one day."
+  },
+  "highlighted": true,
+  "id": "context-of-assessment",
+  "importance": {
+    "bn": "CBLM 12-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 12."
+  },
+  "keywords": [
+    {
+      "bn": "প্রেক্ষাপট, কোন অবস্থায় কাজটা হচ্ছে",
+      "en": "Context"
+    },
+    {
+      "bn": "জায়গা ও পরিবেশ",
+      "en": "Setting"
+    },
+    {
+      "bn": "জায়গা, যন্ত্রপাতি, আলো-বাতাস ইত্যাদি বাস্তব পরিবেশ",
+      "en": "Physical environment"
+    },
+    {
+      "bn": "মানুষজন ও তাদের সম্পর্কের পরিবেশ",
+      "en": "Social environment"
+    },
+    {
+      "bn": "candidate-এর আসল কর্মক্ষেত্রের কাজ",
+      "en": "Real work"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 9,
+            "passageId": "cblm12-p9-f8697ca8",
+            "printedPage": 9,
+            "quote": "environment in which assessment will be carried out o physical environment o social environment",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Environment in which assessment will be carried out: physical environment and social environment"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "relationship between units of competency and candidate's real work",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Relationship between units of competency and candidate's real work"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "time period over which assessment takes place",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Time period over which assessment takes place"
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 9,
+        "passageId": "cblm12-p9-0ec03e10",
+        "printedPage": 9,
+        "quote": "The context of assessment is the environment or setting in which the assessment activity takes place.",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "The context of assessment is the environment or setting of the assessment activity."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "environment in which assessment will be carried out o physical environment o social environment",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Environment",
+          "right": "Physical and social"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "relationship between units of competency and candidate's real work",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Relationship",
+          "right": "Units of competency and candidate's real work"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "time period over which assessment takes place",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Time period",
+          "right": "Over which assessment takes place"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "The context of assessment is the environment or setting in which the assessment activity takes place.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Setting",
+          "right": "Where the assessment activity takes place"
+        }
+      ],
+      "prompt": "Match each part of the context with what it means."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 12,
+        "match": "exact",
+        "page": 9,
+        "printedPage": 9,
+        "quote": "time period over which assessment takes place",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Constructive feedback to the candidate",
+        "Time period over which assessment takes place",
+        "Self assessment instruments",
+        "Assessment decision"
+      ],
+      "prompt": "Which one is part of the context of assessment?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "A combination of circumstances may be prepared and established prior to the assessment as this will ensure that the assessment process will take place as expected.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Circumstances are prepared prior to assessment so it takes place as expected."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 9,
+              "passageId": "cblm12-p9-1407c2b7",
+              "printedPage": 9,
+              "quote": "Some people you may need to contact include:",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "the person/s who trained your candidates;",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "the training supervisor/coordinator of the organization",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Contact the person who trained your candidates and the training supervisor/coordinator."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "people responsible for managing the resources you require to conduct the assessment",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "office staff at the assessment venue/center.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Also contact people managing the resources and office staff at the venue."
+        }
+      ],
+      "modelAnswer": "The context of assessment is the environment or setting where the assessment activity takes place. It may include:\n1. The environment where assessment is carried out (physical and social)\n2. The relationship between units of competency and the candidate's real work\n3. The time period over which assessment takes place",
+      "prompt": "What is the context of assessment? What may it include?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "environment in which assessment will be carried out o physical environment o social environment",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Physical environment and social environment."
+      },
+      "prompt": "Which two kinds of environment does the context include?"
+    }
+  },
+  "realQuestions": [],
+  "score": 3,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Context of Assessment",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 9,
+          "printedPage": 9,
+          "quote": "environment in which assessment will be carried out o physical environment o social environment",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Environment has two parts: physical environment and social environment."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 9,
+          "printedPage": 9,
+          "quote": "It is not necessary to notify everyone who has some interest in the assessment.",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "It is not necessary to notify everyone who has some interest."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

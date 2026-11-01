@@ -1,0 +1,251 @@
+{
+  "id": "self-assessment-instruments",
+  "canonical_title": "Self-Assessment Instruments",
+  "aliases": [
+    "Administrate self assessment instruments",
+    "Self assessment instrument"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [
+    "cblm12-p16-14daa8d3",
+    "cblm12-p16-8989f7bc"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "A self assessment instrument helps candidates check their readiness for formal assessment.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 16,
+        "quote": "To check their readiness for formal assessment you need to",
+        "passageId": "cblm12-p16-14daa8d3"
+      },
+      {
+        "src": "cblm12",
+        "page": 16,
+        "quote": "organise and conduct a self assessment for the candidates."
+      },
+      {
+        "src": "cblm12",
+        "page": 16,
+        "quote": "you need to administrate self assessment instruments."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Self assessment",
+      "bn": "নিজের দক্ষতা নিজে যাচাই করা"
+    },
+    {
+      "en": "Readiness",
+      "bn": "প্রস্তুত থাকা"
+    },
+    {
+      "en": "Instrument",
+      "bn": "যাচাইয়ের ফর্ম বা উপকরণ"
+    },
+    {
+      "en": "Performance criteria",
+      "bn": "কাজ ঠিকভাবে হলো কিনা বোঝার মানদণ্ড"
+    },
+    {
+      "en": "Active role",
+      "bn": "নিজে সক্রিয়ভাবে অংশ নেওয়া"
+    }
+  ],
+  "bangla_explanation": [
+    "Formal assessment-এর আগে candidate সত্যিই ready কিনা, সেটা দেখতে self assessment করানো হয়।",
+    "Candidate প্রতিটি performance criteria পড়ে Yes বা No দেয়।",
+    "শেষে সে লিখে সই করে যে সে formal assessment-এর জন্য ready।",
+    "এতে learner নিজের learning-এ active role নেয়, শুধু assessor-এর উপর নির্ভর করে না।"
+  ],
+  "example": {
+    "en": "A welding trainee reads each performance criterion and ticks Yes or No. Then he signs the form.",
+    "bn": "ওয়েল্ডিং trainee প্রতিটি criteria-র পাশে Yes বা No টিক দিয়ে শেষে সই করে।"
+  },
+  "traps": [
+    {
+      "text": "Self assessment checks readiness. It is not the formal assessment itself.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 16,
+          "quote": "To check their readiness for formal assessment you need to"
+        },
+        {
+          "src": "cblm12",
+          "page": 16,
+          "quote": "organise and conduct a self assessment for the candidates."
+        }
+      ]
+    },
+    {
+      "text": "In self assessment, the learner plays an active role in his or her own learning.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 16,
+          "quote": "In self or collaborative assessment the learner or candidate plays an active"
+        },
+        {
+          "src": "cblm12",
+          "page": 16,
+          "quote": "role in his or her own learning."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Why does an assessor administrate a self assessment instrument?",
+      "modelAnswer": "Self assessment checks the candidate's readiness for formal assessment.\n1. The assessor's role is to ensure candidates are ready for assessment.\n2. The candidate answers Yes or No for each performance criterion.\n3. The candidate signs: \"I now feel ready to undertake my formal competency assessment.\"\n4. The learner plays an active role, with the right balance between assessor and learner.",
+      "keyPoints": [
+        {
+          "text": "The assessor's role is to ensure that candidates are ready for assessment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 16,
+              "quote": "As an assessor, your role is to ensure that candidates are ready for"
+            }
+          ]
+        },
+        {
+          "text": "There must be the right balance between assessor and learner.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 16,
+              "quote": "right balance between assessor and learner in the assessment."
+            }
+          ]
+        },
+        {
+          "text": "For each performance criterion, the self assessment instrument asks Yes or No.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 16,
+              "quote": "Example of a self assessment instrument",
+              "passageId": "cblm12-p16-8989f7bc"
+            },
+            {
+              "src": "cblm12",
+              "page": 16,
+              "quote": "Can you... Performance Criteria Yes No"
+            }
+          ]
+        },
+        {
+          "text": "The candidate signs that they feel ready for formal competency assessment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 16,
+              "quote": "I now feel ready to undertake my formal competency assessment."
+            },
+            {
+              "src": "cblm12",
+              "page": 16,
+              "quote": "Signature of the candidate"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "What is the main purpose of a self assessment instrument?",
+      "options": [
+        "To record the final assessment decision",
+        "To check the candidate's readiness for formal assessment",
+        "To replace the formal competency assessment",
+        "To stop an unsafe assessment"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 16,
+        "quote": "To check their readiness for formal assessment you need to"
+      }
+    },
+    "matching": {
+      "prompt": "Match each item with what the CBLM says about it.",
+      "pairs": [
+        {
+          "left": "Assessor's role",
+          "right": "Ensure candidates are ready",
+          "cite": {
+            "src": "cblm12",
+            "page": 16,
+            "quote": "As an assessor, your role is to ensure that candidates are ready for"
+          }
+        },
+        {
+          "left": "Self assessment",
+          "right": "Checks readiness for formal assessment",
+          "cite": {
+            "src": "cblm12",
+            "page": 16,
+            "quote": "To check their readiness for formal assessment you need to organise and conduct a self assessment"
+          }
+        },
+        {
+          "left": "Learner",
+          "right": "Plays an active role",
+          "cite": {
+            "src": "cblm12",
+            "page": 16,
+            "quote": "the learner or candidate plays an active"
+          }
+        },
+        {
+          "left": "Balance",
+          "right": "Between assessor and learner",
+          "cite": {
+            "src": "cblm12",
+            "page": 16,
+            "quote": "right balance between assessor and learner in the assessment."
+          }
+        },
+        {
+          "left": "Final line",
+          "right": "I now feel ready to undertake my formal competency assessment",
+          "cite": {
+            "src": "cblm12",
+            "page": 16,
+            "quote": "I now feel ready to undertake my formal competency assessment."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What does the candidate sign at the end of the self assessment instrument?",
+      "answer": {
+        "text": "The candidate signs: I now feel ready to undertake my formal competency assessment.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 16,
+            "quote": "I now feel ready to undertake my formal competency assessment."
+          },
+          {
+            "src": "cblm12",
+            "page": 16,
+            "quote": "Signature of the candidate"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

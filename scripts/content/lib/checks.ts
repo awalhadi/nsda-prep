@@ -125,8 +125,10 @@ export function checkConcept(c: ConceptT, ev: Evidence): { issues: Issue[]; cite
   // 4. List count equals the count the source declares.
   if (c.list_answer) {
     const n = c.list_answer.items.length;
+    // Only the definition's quotes can declare the list size; item quotes mention other counts
+    // ("the four dimensions of competency" inside a rules-of-evidence item).
     const declared = c.list_answer.declaredCount?.n ??
-      detectDeclaredCount([c.one_line_answer, ...c.list_answer.items].flatMap((cl) => cl.cites.map((x) => x.quote)).join(" "));
+      detectDeclaredCount(c.one_line_answer.cites.map((x) => x.quote).join(" "));
     if (c.list_answer.declaredCount) {
       const found = detectDeclaredCount(c.list_answer.declaredCount.cite.quote);
       if (found !== null && found !== c.list_answer.declaredCount.n)
@@ -164,6 +166,7 @@ export function checkConcept(c: ConceptT, ev: Evidence): { issues: Issue[]; cite
     { path: "one_line_answer", text: c.one_line_answer.text, verbatim: c.one_line_answer.fidelity === "verbatim" },
     { path: "example.en", text: c.example.en, verbatim: false },
     ...c.traps.map((t, i) => ({ path: `traps[${i}]`, text: t.text, verbatim: t.fidelity === "verbatim" })),
+    ...(c.list_answer?.items ?? []).map((t, i) => ({ path: `list_answer.items[${i}]`, text: t.text, verbatim: t.fidelity === "verbatim" })),
     ...c.practice.short.keyPoints.map((k, i) => ({ path: `practice.short.keyPoints[${i}]`, text: k.text, verbatim: k.fidelity === "verbatim" })),
     { path: "practice.viva.answer", text: c.practice.viva.answer.text, verbatim: c.practice.viva.answer.fidelity === "verbatim" },
   ];

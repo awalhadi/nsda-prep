@@ -1,0 +1,568 @@
+{
+  "aliases": [
+    "Assessor errors",
+    "Common assessor errors"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 12,
+      "pages": [
+        {
+          "pdf": 18,
+          "printed": 18
+        },
+        {
+          "pdf": 19,
+          "printed": 19
+        }
+      ],
+      "src": "cblm12"
+    }
+  ],
+  "banglaExplanation": [
+    "Assessor-ও মানুষ, তাই judgement দিতে গিয়ে কিছু সাধারণ ভুল করেন।",
+    "Halo effect: পছন্দের বা সুনামের কারণে ভালো judgement; উল্টোটা Horn effect।",
+    "Marking down the middle মানে rating scales-এ সবাইকে মাঝামাঝি নম্বর দেওয়া।",
+    "এই ভুলগুলো জানলে assessor biased না হয়ে সঠিক সিদ্ধান্ত দিতে পারেন।"
+  ],
+  "breakdown": {
+    "exam": 6,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 12,
+  "errata": [],
+  "example": {
+    "bn": "Driving test-এ নিজের গ্রামের ছেলে বলে ভালো নম্বর দেওয়া হলো halo effect।",
+    "en": "A trainee at a driving test is from the assessor's village. The assessor passes him without careful checking. That is the halo effect."
+  },
+  "highlighted": true,
+  "id": "assessor-errors",
+  "importance": {
+    "bn": "Final Formative 01 (MCQ 9), Short Questions (answer guide) (Short 59), Short Questions (answer guide) (Short 65) আর CBLM 12 Self Check 1 (Q8): 4 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Final Formative 01 (MCQ 9), Short Questions (answer guide) (Short 59), Short Questions (answer guide) (Short 65) and CBLM 12 Self Check 1 (Q8). Highlighted in CBLM 12. Comes as MCQ and short question."
+  },
+  "keywords": [
+    {
+      "bn": "ভালো লাগা বা সুনামের কারণে বেশি নম্বর দেওয়া",
+      "en": "Halo effect"
+    },
+    {
+      "bn": "halo effect-এর উল্টো: খারাপ ধারণা থেকে কম নম্বর দেওয়া",
+      "en": "Horn effect"
+    },
+    {
+      "bn": "দুই দিকের কোনোটাই না বেছে মাঝামাঝি থাকা",
+      "en": "Sitting on the fence"
+    },
+    {
+      "bn": "নকল বা প্রতারণা দেখেও না দেখার ভান করা",
+      "en": "Overlooking cheating"
+    },
+    {
+      "bn": "পক্ষপাতদুষ্ট",
+      "en": "Biased"
+    }
+  ],
+  "likelyTypes": [
+    "mcq",
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Making positive judgements about a trainee based on reputation or your personal",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 18,
+            "passageId": "cblm12-p18-72ab8108",
+            "printedPage": 18,
+            "quote": "The opposite of this referred to as the Horn effect.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The halo effect: positive judgements based on reputation or personal preference. The opposite is the Horn effect."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Failing to record Due to inadequate planning for, or underestimation of, recording requirements",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Failing to record: due to inadequate planning for, or underestimation of, recording requirements."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Failing to observe missing critical points or cues due to inexperience, or lack of preparation.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Failing to observe: missing critical points or cues due to inexperience or lack of preparation."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 19,
+            "passageId": "cblm12-p19-547d1254",
+            "printedPage": 19,
+            "quote": "Marking down the middle 'Sitting on the fence', especially common with rating scales.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Marking down the middle: 'sitting on the fence', especially common with rating scales."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 19,
+            "passageId": "cblm12-p19-2bf47445",
+            "printedPage": 19,
+            "quote": "Overlooking cheating Being unwilling to confront cheating issues, or bending to outside pressures.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Overlooking cheating: being unwilling to confront cheating issues, or bending to outside pressures."
+      }
+    ]
+  },
+  "mnemonic": {
+    "explain_bn": "পাঁচটি ভুলের মূল শব্দ মনে রাখুন: Halo, Record, Observe, Middle, Cheating।",
+    "text": "H-R-O-M-C: Halo, Record, Observe, Middle, Cheating"
+  },
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 18,
+        "passageId": "cblm12-p18-9574678c",
+        "printedPage": 18,
+        "quote": "Errors commonly made by assessors The halo effect",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 19,
+        "printedPage": 19,
+        "quote": "Failing to record",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 19,
+        "printedPage": 19,
+        "quote": "Failing to observe",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 19,
+        "printedPage": 19,
+        "quote": "Marking down the middle",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 19,
+        "printedPage": 19,
+        "quote": "Overlooking cheating",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Assessor errors: halo effect, failing to record or observe, marking down the middle, overlooking cheating."
+  },
+  "openChecks": 2,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "The halo effect Making positive judgements about a trainee based on reputation",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Halo effect",
+          "right": "Positive judgements based on reputation"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "The opposite of this referred to as the Horn effect.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Horn effect",
+          "right": "The opposite of the halo effect"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Failing to record Due to inadequate planning for, or underestimation of, recording requirements",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Failing to record",
+          "right": "Inadequate planning for recording"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Failing to observe missing critical points or cues",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Failing to observe",
+          "right": "Missing critical points or cues"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Marking down the middle 'Sitting on the fence'",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Marking down the middle",
+          "right": "Sitting on the fence"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Overlooking cheating Being unwilling to confront cheating issues, or bending to outside pressures.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Overlooking cheating",
+          "right": "Bending to outside pressures"
+        }
+      ],
+      "prompt": "Match each assessor error with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 12,
+        "match": "exact",
+        "page": 19,
+        "printedPage": 19,
+        "quote": "Marking down the middle 'Sitting on the fence', especially common with rating scales.",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      "answerIndex": 2,
+      "options": [
+        "Halo effect",
+        "Overlooking cheating",
+        "Marking down the middle",
+        "Failing to record"
+      ],
+      "prompt": "An assessor sits on the fence and gives middle ratings on a rating scale. This error is called:"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Failing to observe",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "requirements especially when assessing large numbers of trainees.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Failing to observe happens especially when assessing large numbers of trainees."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "The halo effect",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "for example, similar dress, speech or background.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Halo effect examples: similar dress, speech or background."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "assess in ways that disadvantage some groups, for example, women",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessors might assess in ways that disadvantage some groups, for example women."
+        }
+      ],
+      "modelAnswer": "Errors commonly made by assessors are:\n1. Halo effect: positive judgement based on reputation or personal preference. The opposite is the Horn effect.\n2. Failing to record: poor planning for recording requirements.\n3. Failing to observe: missing critical points or cues.\n4. Marking down the middle: sitting on the fence with rating scales.\n5. Overlooking cheating: unwilling to confront cheating.",
+      "prompt": "What are the errors commonly made by the assessors?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Making positive judgements about a trainee based on reputation or your personal",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "preference, for example, similar dress, speech or background.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Making positive judgements about a trainee based on reputation or personal preference."
+      },
+      "prompt": "What is the halo effect?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "The halo effect\nMaking positive judgements about a trainee based on reputation or your personal\npreference, for example, similar dress, speech or background. The opposite of\nthis referred to as the Horn effect.\nFailing to record\nDue to inadequate planning for, or underestimation of, recording\nFailing to observe\nMissing critical points or cues due to inexperience, or lack of preparation.\nrequirements especially when assessing large numbers of trainees.\nMarking down the middle\n'Sitting on the fence', especially common with rating scales.\nOverlooking cheating\nBeing unwilling to confront cheating issues, or bending to outside pressures.",
+      "flags": [],
+      "id": "cblm12-sc1-q8",
+      "kind": "selfcheck",
+      "label": "CBLM 12 Self Check 1 (Q8)",
+      "page": 35,
+      "printedPage": 35,
+      "question": "What are the errors commonly made by the assessors?",
+      "src": "cblm12",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-final-formative-01-q9",
+      "kind": "paper",
+      "label": "Final Formative 01 (MCQ 9)",
+      "options": [
+        "Horn effect",
+        "Halo effect",
+        "Marking down the middle",
+        "Failing to observe"
+      ],
+      "page": 2,
+      "paperClass": "formative",
+      "printedPage": null,
+      "question": "An assessor makes a positive judgement about a trainee because of his reputation or because they have similar dress, speech or background. This error is called:",
+      "src": "paper-final-formative-01",
+      "type": "mcq"
+    },
+    {
+      "answer": "Failing to notice an important point or cue because of insufficient\nexperience or preparation, especially when assessing many trainees.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q59",
+      "kind": "paper",
+      "label": "Short Questions (answer guide) (Short 59)",
+      "page": 8,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What does \"failing to observe\" mean as an assessor error?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": "Examples include failing to observe, halo effect, horn effect,\nfailing to record, and overlooking cheating.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q65",
+      "kind": "paper",
+      "label": "Short Questions (answer guide) (Short 65)",
+      "page": 8,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What are four common errors made by assessors?",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 10,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Errors Commonly Made by Assessors",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 18,
+          "quote": "The halo effect Making positive judgements about a trainee",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        },
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 18,
+          "quote": "The opposite of this referred to as the Horn effect.",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The halo effect is a positive judgement. The Horn effect is its opposite."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "Marking down the middle 'Sitting on the fence'",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Marking down the middle means sitting on the fence."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "be biased when assessing",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        },
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "display favouritism",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        },
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "be prejudiced",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Assessors might also be biased, display favouritism or be prejudiced."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

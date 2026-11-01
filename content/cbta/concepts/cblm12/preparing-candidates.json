@@ -1,0 +1,325 @@
+{
+  "id": "preparing-candidates",
+  "canonical_title": "Preparing Candidates and a Supportive Environment",
+  "aliases": [
+    "Preparing candidates for an assessment event",
+    "Supportive environment for assessment"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [
+    "cblm12-p10-98df3831",
+    "cblm12-p10-ed05a1d1",
+    "cblm12-p10-9b3aa270",
+    "cblm12-p10-193b3437",
+    "cblm12-p10-a306fb64"
+  ],
+  "questions": [
+    "paper-short-questions-q83"
+  ],
+  "one_line_answer": {
+    "text": "Before assessment, the assessor prepares candidates and provides a supportive environment.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 10,
+        "quote": "Preparing Candidates for an Assessment Event",
+        "passageId": "cblm12-p10-98df3831"
+      },
+      {
+        "src": "cblm12",
+        "page": 10,
+        "quote": "the assessor must provide a supportive environment before commencing the assessment"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Supportive environment",
+      "bn": "সহায়ক, ভয়হীন পরিবেশ"
+    },
+    {
+      "en": "Rapport",
+      "bn": "আন্তরিক সম্পর্ক, বিশ্বাসের সম্পর্ক"
+    },
+    {
+      "en": "Apprehensive",
+      "bn": "ভয় বা দুশ্চিন্তায় থাকা"
+    },
+    {
+      "en": "Allowable adjustments",
+      "bn": "নিয়মের মধ্যে যে পরিবর্তন করা যায়"
+    },
+    {
+      "en": "Settle in",
+      "bn": "বসে স্থির হওয়া, স্বস্তি পাওয়া"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment শুরুর আগে candidate-কে বুঝিয়ে দিতে হবে কী হবে, কেন হবে, কোন evidence লাগবে।",
+    "Candidate relaxed থাকলে আর বেশি apprehensive না হলে নিজের কাজ ভালোভাবে দেখাতে পারে।",
+    "তাই শুভেচ্ছা জানিয়ে rapport তৈরি করুন, আর settle in হওয়ার সময় দিন।",
+    "শেষে candidate-কে questions করার সুযোগ দিন।"
+  ],
+  "example": {
+    "en": "At a driving test centre, the assessor greets each candidate. She explains the test and the evidence needed. She lets them sit and relax for five minutes. Then she asks, \"Any questions?\"",
+    "bn": "ড্রাইভিং টেস্টের আগে: শুভেচ্ছা, ব্যাখ্যা, একটু বিশ্রাম, তারপর প্রশ্নের সুযোগ।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Making sure that the environment is suitable for assessment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "making sure that the environment is suitable for assessment",
+            "passageId": "cblm12-p10-a306fb64"
+          }
+        ]
+      },
+      {
+        "text": "Ensuring that the candidates are relaxed and not too apprehensive",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "ensuring that the candidates are relaxed and not too apprehensive"
+          }
+        ]
+      },
+      {
+        "text": "Greeting, welcoming and establishing rapport with the candidate",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "greeting, welcoming and establishing rapport with the candidate"
+          }
+        ]
+      },
+      {
+        "text": "Allowing the candidates time to settle in and feel comfortable",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "allowing the candidates time to settle in and feel comfortable"
+          }
+        ]
+      },
+      {
+        "text": "Inviting the candidate to ask questions",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "inviting the candidate to ask questions"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Provide a supportive environment regardless of the assessment context.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 10,
+          "quote": "Regardless of the assessment context, the assessor must provide a supportive"
+        },
+        {
+          "src": "cblm12",
+          "page": 10,
+          "quote": "environment before commencing the assessment by:"
+        }
+      ]
+    },
+    {
+      "text": "Create the supportive environment before commencing the assessment, not after.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 10,
+          "quote": "the assessor must provide a supportive environment before commencing the assessment"
+        }
+      ]
+    },
+    {
+      "text": "Assess candidate needs and establish any allowable adjustments while preparing.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 10,
+          "quote": "Preparing Candidates for an Assessment Event"
+        },
+        {
+          "src": "cblm12",
+          "page": 10,
+          "quote": "assess the needs of the candidate and establish any allowable adjustments in the assessment procedure"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What must the assessor be able to do when preparing candidates for an assessment event?",
+      "modelAnswer": "When preparing candidates, the assessor must be able to:\n1. Explain the context and purpose of the assessment and the assessment process\n2. Explain the Unit(s) of Competency and the evidence to be collected\n3. Outline the procedure and preparation, and answer questions\n4. Assess the candidate's needs and establish allowable adjustments\n5. Seek feedback on the candidate's understanding",
+      "keyPoints": [
+        {
+          "text": "Explain the context and purpose of the assessment and the assessment process.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 10,
+              "quote": "explain the context and purpose of the assessment and the assessment process"
+            }
+          ]
+        },
+        {
+          "text": "Explain the Unit(s) of Competency to be assessed and the evidence to be collected.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 10,
+              "quote": "explain the Unit(s) of Competency to be assessed and the evidence to be collected",
+              "passageId": "cblm12-p10-ed05a1d1"
+            }
+          ]
+        },
+        {
+          "text": "Outline the assessment procedure and preparation, and answer any questions.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 10,
+              "quote": "outline the assessment procedure, the preparation which the candidate should undertake and answer any questions"
+            }
+          ]
+        },
+        {
+          "text": "Assess the needs of the candidate and establish any allowable adjustments.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 10,
+              "quote": "assess the needs of the candidate and establish any allowable adjustments in the assessment procedure"
+            }
+          ]
+        },
+        {
+          "text": "Seek feedback on the candidate's understanding of standards, evidence and process.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 10,
+              "quote": "seek feedback regarding the candidate's understanding of the competency standards, evidence requirements and assessment process"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which one helps create a supportive environment before assessment?",
+      "options": [
+        "Recording and reporting assessment outcomes",
+        "Making the assessment decision",
+        "Inviting the candidate to ask questions",
+        "Reviewing the assessment process"
+      ],
+      "answerIndex": 2,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 10,
+        "quote": "inviting the candidate to ask questions"
+      }
+    },
+    "matching": {
+      "prompt": "Match each action with what the assessor does it to.",
+      "pairs": [
+        {
+          "left": "Explain",
+          "right": "The context and purpose of the assessment",
+          "cite": {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "explain the context and purpose of the assessment and the assessment"
+          }
+        },
+        {
+          "left": "Outline",
+          "right": "The assessment procedure",
+          "cite": {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "outline the assessment procedure, the preparation which the candidate should"
+          }
+        },
+        {
+          "left": "Assess",
+          "right": "The needs of the candidate",
+          "cite": {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "assess the needs of the candidate and establish any allowable adjustments",
+            "passageId": "cblm12-p10-9b3aa270"
+          }
+        },
+        {
+          "left": "Establish",
+          "right": "Any allowable adjustments",
+          "cite": {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "establish any allowable adjustments in the assessment procedure",
+            "passageId": "cblm12-p10-193b3437"
+          }
+        },
+        {
+          "left": "Seek feedback",
+          "right": "On the candidate's understanding",
+          "cite": {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "seek feedback regarding the candidate's understanding of the competency"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why should you give candidates time to settle in?",
+      "answer": {
+        "text": "So they feel comfortable, relaxed and not too apprehensive.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "allowing the candidates time to settle in and feel comfortable"
+          },
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "ensuring that the candidates are relaxed and not too apprehensive"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

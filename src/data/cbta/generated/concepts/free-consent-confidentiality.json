@@ -1,0 +1,409 @@
+{
+  "aliases": [
+    "Free consent",
+    "Confidentiality in assessment",
+    "Informed consent"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 12,
+      "pages": [
+        {
+          "pdf": 8,
+          "printed": 8
+        },
+        {
+          "pdf": 9,
+          "printed": 9
+        }
+      ],
+      "src": "cblm12"
+    }
+  ],
+  "banglaExplanation": [
+    "Assessment-এর আগে candidate-এর free consent লাগবে, মানে সে নিজের ইচ্ছায় রাজি হবে।",
+    "তাকে আগে জানাতে হবে, details দিতে হবে, আর কোনো pressure দেওয়া যাবে না।",
+    "Confidentiality মানে candidate-এর assessment information শুধু authorized personnel দেখবে, আর তা secure থাকবে।",
+    "Assessor-এর সিদ্ধান্ত candidate-এর ওপর বড় প্রভাব ফেলে, তাই এই দুটো দায়িত্ব খুব জরুরি।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 12,
+  "errata": [],
+  "example": {
+    "bn": "আগে জানানো, details দেওয়া, জোর না করা = free consent; ফলাফল তালাবন্ধ রাখা = confidentiality।",
+    "en": "At a hospital training centre, the assessor tells nurses about the test early. She explains the details. Nobody is forced to sit it. Results stay locked in the office."
+  },
+  "highlighted": true,
+  "id": "free-consent-confidentiality",
+  "importance": {
+    "bn": "Short Questions (answer guide) (Short 61)-এ এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in Short Questions (answer guide) (Short 61). Highlighted in CBLM 12. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "নিজের ইচ্ছায়, চাপ ছাড়া রাজি হওয়া",
+      "en": "Free consent"
+    },
+    {
+      "bn": "গোপনীয়তা",
+      "en": "Confidentiality"
+    },
+    {
+      "bn": "চাপ দেওয়া, জোর করা",
+      "en": "Pressure"
+    },
+    {
+      "bn": "যাদের দেখার অনুমতি আছে, শুধু সেই লোকজন",
+      "en": "Authorized personnel"
+    },
+    {
+      "bn": "নিরাপদে রাখা",
+      "en": "Secure"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "be informed if an assessment is planned",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Be informed if an assessment is planned"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "be given details of the assessment and",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Be given details of the assessment"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "not be pressured to undertake the assessment",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Not be pressured to undertake the assessment"
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 8,
+        "passageId": "cblm12-p8-6b645450",
+        "printedPage": 8,
+        "quote": "Free consent means that the people you assess should;",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 8,
+        "printedPage": 8,
+        "quote": "be informed if an assessment is planned",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 8,
+        "printedPage": 8,
+        "quote": "be given details of the assessment and",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 8,
+        "printedPage": 8,
+        "quote": "not be pressured to undertake the assessment",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Free consent: candidates are informed, given details and not pressured to undertake assessment."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "not be pressured to undertake the assessment",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Free consent",
+          "right": "Not pressured to undertake the assessment"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "made available only to authorized personnel and",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Confidentiality",
+          "right": "Information made available only to authorized personnel"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "You have a responsibility to ensure free consent and confidentiality.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Assessor's responsibility",
+          "right": "Ensure free consent and confidentiality"
+        }
+      ],
+      "prompt": "Match each term with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 12,
+        "match": "exact",
+        "page": 9,
+        "printedPage": 9,
+        "quote": "made available only to authorized personnel and o kept secure",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      "answerIndex": 2,
+      "options": [
+        "Not pressured to undertake the assessment",
+        "Informed if an assessment is planned",
+        "Kept secure and available only to authorized personnel",
+        "Given details of the assessment"
+      ],
+      "prompt": "Which one is part of confidentiality?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "As an assessor, the judgments you make about the assessees will affect them",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "You have a responsibility to ensure free consent and confidentiality.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The assessor has a responsibility to ensure free consent and confidentiality."
+        },
+        {
+          "cites": [
+            {
+              "match": "exact",
+              "page": 8,
+              "printedPage": null,
+              "quote": "The candidate gives voluntary consent after understanding the",
+              "sourceTitle": "Short Questions (answer guide)",
+              "src": "paper-short-questions"
+            },
+            {
+              "match": "exact",
+              "page": 8,
+              "printedPage": null,
+              "quote": "assessment context, purpose, procedures and legal/ethical responsibilities.",
+              "sourceTitle": "Short Questions (answer guide)",
+              "src": "paper-short-questions"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The candidate gives voluntary consent after understanding the assessment purpose and procedures."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 9,
+              "passageId": "cblm12-p9-020c4877",
+              "printedPage": 9,
+              "quote": "Confidentiality means that information about candidate's assessment should be;",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "made available only to authorized personnel and o kept secure",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Confidentiality: information is shown only to authorized personnel and kept secure."
+        }
+      ],
+      "modelAnswer": "Free consent means the candidate agrees to the assessment freely. The people you assess should:\n1. Be informed if an assessment is planned\n2. Be given details of the assessment\n3. Not be pressured to undertake the assessment",
+      "prompt": "What is free consent in assessment?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "Confidentiality means that information about candidate's assessment should be;",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "made available only to authorized personnel and o kept secure",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment information is available only to authorized personnel. It is kept secure."
+      },
+      "prompt": "What does confidentiality mean in assessment?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "The candidate gives voluntary consent after understanding the\nassessment context, purpose, procedures and legal/ethical responsibilities. They\nmust not be pressured to participate.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q61",
+      "kind": "paper",
+      "label": "Short Questions (answer guide) (Short 61)",
+      "page": 8,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is free consent in assessment?",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 6,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Free Consent and Confidentiality",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 8,
+          "printedPage": 8,
+          "quote": "You have a responsibility to ensure free consent and confidentiality.",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        },
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 9,
+          "printedPage": 9,
+          "quote": "Confidentiality means that information about candidate's assessment should be;",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Free consent and confidentiality are different. Confidentiality is about information access."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 9,
+          "printedPage": 9,
+          "quote": "Confidentiality means that information about candidate's assessment should be;",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        },
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 9,
+          "printedPage": 9,
+          "quote": "made available only to authorized personnel and",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Assessment information goes only to authorized personnel, not to everyone."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

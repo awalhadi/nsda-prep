@@ -1,0 +1,330 @@
+{
+  "id": "stopping-an-assessment",
+  "canonical_title": "When to Stop an Assessment",
+  "aliases": [
+    "Causes to stop an assessment",
+    "Stopping an assessment"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [
+    "cblm12-p15-b9315db9"
+  ],
+  "questions": [
+    "cblm12-sc1-q5",
+    "paper-final-formative-01-q24"
+  ],
+  "one_line_answer": {
+    "text": "The assessment should be stopped when safety, equipment, the trainee or production is in danger.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 15,
+        "quote": "The assessment should be stopped when",
+        "passageId": "cblm12-p15-b9315db9"
+      },
+      {
+        "src": "cblm12",
+        "page": 15,
+        "quote": "there is any breach of safety"
+      },
+      {
+        "src": "cblm12",
+        "page": 15,
+        "quote": "equipment breaks down"
+      },
+      {
+        "src": "cblm12",
+        "page": 15,
+        "quote": "the trainee becomes stressed or requests that the assessment be stopped"
+      },
+      {
+        "src": "cblm12",
+        "page": 15,
+        "quote": "the assessment is having an effect on production"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Breach of safety",
+      "bn": "নিরাপত্তার নিয়ম ভাঙা"
+    },
+    {
+      "en": "Equipment breaks down",
+      "bn": "যন্ত্রপাতি নষ্ট হয়ে যাওয়া"
+    },
+    {
+      "en": "Stressed",
+      "bn": "মানসিক চাপে থাকা"
+    },
+    {
+      "en": "Non competence",
+      "bn": "দক্ষতা নেই, এমন স্পষ্ট প্রমাণ"
+    },
+    {
+      "en": "Production",
+      "bn": "কর্মক্ষেত্রের উৎপাদন কাজ"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment সবসময় শেষ পর্যন্ত চালাতে হবে, এমন নয়।",
+    "Safety-র ঝুঁকি, equipment নষ্ট, বা trainee চাপে পড়লে assessment থামাতে হয়।",
+    "Trainee নিজে থামাতে বললেও assessment থামাতে হবে।",
+    "Workplace-এ assessment করলে production-এর ক্ষতি হলে থামাতে হয়।"
+  ],
+  "example": {
+    "en": "In a garments factory test, the sewing machine breaks down. The assessor stops the assessment.",
+    "bn": "গার্মেন্টসে টেস্টের সময় সেলাই মেশিন নষ্ট হলো, তাই assessor assessment থামিয়ে দিলেন।"
+  },
+  "mnemonic": {
+    "text": "S-E-T-C-D-P: Safety, Equipment, Trainee, Competence, Damage, Production",
+    "explain_bn": "ছয়টি কারণের প্রথম অক্ষর মনে রাখুন: Safety, Equipment, Trainee, Competence, Damage, Production।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "There is any breach of safety.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "there is any breach of safety"
+          }
+        ]
+      },
+      {
+        "text": "Equipment breaks down.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "equipment breaks down"
+          }
+        ]
+      },
+      {
+        "text": "The trainee becomes stressed or requests that the assessment be stopped.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "the trainee becomes stressed or requests that the assessment be stopped"
+          }
+        ]
+      },
+      {
+        "text": "There is clear evidence of non competence.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "there is clear evidence of non competence"
+          }
+        ]
+      },
+      {
+        "text": "There is a chance of damage to property or equipment.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "there is a chance of damage to property or equipment"
+          }
+        ]
+      },
+      {
+        "text": "The assessment is having an effect on production (when conducted in a workplace).",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "the assessment is having an effect on production (when conducted in a workplace)."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "The trainee may request that the assessment be stopped.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 15,
+          "quote": "the trainee becomes stressed or requests that the assessment be stopped"
+        }
+      ]
+    },
+    {
+      "text": "An effect on production matters when the assessment is conducted in a workplace.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 15,
+          "quote": "the assessment is having an effect on production (when conducted in a workplace)."
+        }
+      ]
+    },
+    {
+      "text": "Stop for a chance of damage to property or equipment.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 15,
+          "quote": "there is a chance of damage to property or equipment"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "List four causes that can stop an assessment.",
+      "modelAnswer": "The assessment should be stopped when (any four):\n1. There is any breach of safety.\n2. Equipment breaks down.\n3. The trainee becomes stressed or requests that the assessment be stopped.\n4. There is clear evidence of non competence.\n5. There is a chance of damage to property or equipment.\n6. The assessment is having an effect on production (in a workplace).",
+      "keyPoints": [
+        {
+          "text": "The assessment should be stopped when there is any breach of safety.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 15,
+              "quote": "The assessment should be stopped when"
+            },
+            {
+              "src": "cblm12",
+              "page": 15,
+              "quote": "there is any breach of safety"
+            }
+          ]
+        },
+        {
+          "text": "Stop when there is clear evidence of non competence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 15,
+              "quote": "there is clear evidence of non competence"
+            }
+          ]
+        },
+        {
+          "text": "Write any four of the following responses.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 37,
+              "quote": "Any four of the following responses the assessment should be stopped"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which of these is a reason to stop an assessment?",
+      "options": [
+        "The candidate signs the self assessment form",
+        "Equipment breaks down",
+        "The assessor asks a follow-up question",
+        "The candidate uses a rating scale"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 15,
+        "quote": "equipment breaks down"
+      }
+    },
+    "matching": {
+      "prompt": "Match each area with the reason to stop the assessment.",
+      "pairs": [
+        {
+          "left": "Safety",
+          "right": "Any breach of safety",
+          "cite": {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "there is any breach of safety"
+          }
+        },
+        {
+          "left": "Equipment",
+          "right": "Breaks down",
+          "cite": {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "equipment breaks down"
+          }
+        },
+        {
+          "left": "Trainee",
+          "right": "Becomes stressed",
+          "cite": {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "the trainee becomes stressed or requests that the assessment be stopped"
+          }
+        },
+        {
+          "left": "Competence",
+          "right": "Clear evidence of non competence",
+          "cite": {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "there is clear evidence of non competence"
+          }
+        },
+        {
+          "left": "Property",
+          "right": "Chance of damage",
+          "cite": {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "there is a chance of damage to property or equipment"
+          }
+        },
+        {
+          "left": "Workplace",
+          "right": "Effect on production",
+          "cite": {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "the assessment is having an effect on production (when conducted in a workplace)."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Name two safety reasons to stop an assessment.",
+      "answer": {
+        "text": "Any breach of safety. A chance of damage to property or equipment.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "there is any breach of safety"
+          },
+          {
+            "src": "cblm12",
+            "page": 15,
+            "quote": "there is a chance of damage to property or equipment"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

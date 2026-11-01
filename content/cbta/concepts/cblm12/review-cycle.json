@@ -1,0 +1,313 @@
+{
+  "id": "review-cycle",
+  "canonical_title": "Reviewing the Assessment Process",
+  "aliases": [
+    "The Review Cycle",
+    "Stages of a review cycle",
+    "Reviewing Assessment Process"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [
+    "cblm12-p30-c2966de0",
+    "cblm12-p30-6b0f4d99",
+    "cblm12-p31-8df1bd59",
+    "cblm12-p31-169030c5",
+    "cblm12-p32-278e89d8",
+    "cblm12-p32-b19dc177",
+    "cblm12-p33-db667d12",
+    "cblm12-p33-8e6b8a73"
+  ],
+  "questions": [
+    "cblm12-sc1-q18"
+  ],
+  "one_line_answer": {
+    "text": "The review cycle is a series of steps that will help you review assessment.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 31,
+        "quote": "This module takes you through a series of steps called The Review Cycle that will help you review assessment.",
+        "passageId": "cblm12-p31-8df1bd59"
+      }
+    ]
+  },
+  "keywords": [
+    { "en": "Review", "bn": "পিছনে ফিরে যাচাই করা" },
+    { "en": "Reviewer", "bn": "যিনি review করেন" },
+    { "en": "Stakeholders", "bn": "যাদের এই কাজে স্বার্থ আছে" },
+    { "en": "Recommendations", "bn": "উন্নতির জন্য পরামর্শ" },
+    { "en": "Reflection", "bn": "নিজের কাজ নিয়ে ভেবে দেখা" }
+  ],
+  "bangla_explanation": [
+    "Assessment শেষ হলেই কাজ শেষ না, পুরো process review করতে হয়।",
+    "Review cycle-এর পাঁচটা ধাপ: Prepare, Plan, Conduct, Record আর Evaluate।",
+    "এতে বোঝা যায় কী ঠিক হলো আর কী ভুল হলো, তাই পরেরবার আরও ভালো করা যায়।",
+    "নিজের reflection-ই review-এর সবচেয়ে ভালো উৎস।"
+  ],
+  "example": {
+    "en": "After a welding assessment, the assessor plans a review. He checks the assessor decisions and appeals procedures. Then he writes recommendations.",
+    "bn": "ওয়েল্ডিং assessment-এর পর কী ভালো হলো, কী ভুল হলো দেখে report লেখা।"
+  },
+  "mnemonic": {
+    "text": "Please Plan Carefully, Report, Evaluate → P-P-C-R-E",
+    "explain_bn": "প্রতিটি অক্ষর একটি ধাপ: Prepare, Plan, Conduct, Record and report, Evaluate।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Prepare for the review",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 31,
+            "quote": "1. Prepare for the review",
+            "passageId": "cblm12-p31-169030c5"
+          }
+        ]
+      },
+      {
+        "text": "Plan the review",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "2. Plan the review",
+            "passageId": "cblm12-p32-278e89d8"
+          }
+        ]
+      },
+      {
+        "text": "Conduct the review",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "3. Conduct the review",
+            "passageId": "cblm12-p32-b19dc177"
+          }
+        ]
+      },
+      {
+        "text": "Record and report results",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 33,
+            "quote": "4. Record and report results",
+            "passageId": "cblm12-p33-db667d12"
+          }
+        ]
+      },
+      {
+        "text": "Evaluate the review process",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 33,
+            "quote": "5. Evaluate the review process",
+            "passageId": "cblm12-p33-8e6b8a73"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Reviewing the assessment event is an important role of the assessor.",
+      "fidelity": "verbatim",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 30,
+          "quote": "Reviewing the assessment event is an important role of the assessor.",
+          "passageId": "cblm12-p30-c2966de0"
+        }
+      ]
+    },
+    {
+      "text": "Evaluation also means looking back on your own performance to see how to improve.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 33,
+          "quote": "The second stage of the evaluation process involves looking back on your own performance to see how it could be improved."
+        }
+      ]
+    },
+    {
+      "text": "The best source of information for review should come from your own reflection.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 33,
+          "quote": "The best source of information for review or evaluation should come from your own reflections."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Outline the stages of a review cycle.",
+      "modelAnswer": "The review cycle helps you review assessment. Its stages are:\n1. Prepare for the review\n2. Plan the review\n3. Conduct the review\n4. Record and report results\n5. Evaluate the review process",
+      "keyPoints": [
+        {
+          "text": "Plan: ask about the purpose and scope, stakeholders, criteria and evidence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 32,
+              "quote": "2. Plan the review"
+            },
+            {
+              "src": "cblm12",
+              "page": 32,
+              "quote": "What is the purpose and scope of the review?"
+            },
+            {
+              "src": "cblm12",
+              "page": 32,
+              "quote": "Who are the relevant stakeholders for the review?"
+            },
+            {
+              "src": "cblm12",
+              "page": 32,
+              "quote": "What criteria will form the basis of the review?"
+            },
+            {
+              "src": "cblm12",
+              "page": 32,
+              "quote": "What evidence am I going to collect?"
+            }
+          ]
+        },
+        {
+          "text": "Conduct: assessor selection, assessor decisions, procedures, record keeping, reporting and appeals.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 32,
+              "quote": "3. Conduct the review Issues and strategies for conducting the review:"
+            },
+            {
+              "src": "cblm12",
+              "page": 32,
+              "quote": "Assessor selection Assessor decisions Assessment procedures Record keeping procedures Reporting mechanisms Appeals procedures"
+            }
+          ]
+        },
+        {
+          "text": "The report includes issues arising from the review and recommendations to the organisation.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 33,
+              "quote": "The issues arising from the review Recommendations to the organisation"
+            },
+            {
+              "src": "cblm12",
+              "page": 33,
+              "quote": "When writing your report you should use the following headings"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is the last stage of the review cycle?",
+      "options": [
+        "Evaluate the review process",
+        "Conduct the review",
+        "Record and report results",
+        "Plan the review"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 33,
+        "quote": "5. Evaluate the review process"
+      }
+    },
+    "matching": {
+      "prompt": "Match each stage with what you do.",
+      "pairs": [
+        {
+          "left": "Prepare for the review",
+          "right": "Share what went right and what went wrong",
+          "cite": {
+            "src": "cblm12",
+            "page": 31,
+            "quote": "Reviewing to share what went right and what went wrong."
+          }
+        },
+        {
+          "left": "Plan the review",
+          "right": "Ask about the purpose and scope",
+          "cite": {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "What is the purpose and scope of the review?"
+          }
+        },
+        {
+          "left": "Conduct the review",
+          "right": "Check assessor selection and decisions",
+          "cite": {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "3. Conduct the review Issues and strategies for conducting the review: Assessor selection Assessor decisions"
+          }
+        },
+        {
+          "left": "Record and report results",
+          "right": "Write the report under set headings",
+          "cite": {
+            "src": "cblm12",
+            "page": 33,
+            "quote": "4. Record and report results When writing your report you should use the following headings"
+          }
+        },
+        {
+          "left": "Evaluate the review process",
+          "right": "Check whether the review achieved its purpose",
+          "cite": {
+            "src": "cblm12",
+            "page": 33,
+            "quote": "whether the review achieved its purpose/s"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why should an assessor review the assessment process?",
+      "answer": {
+        "text": "To meet the needs of the people and the institutions. And to keep improving assessment practices.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 30,
+            "quote": "You should ensure that the needs of the people involved, as well as the needs of the institutions, are met and that you are continually improving your assessment practices."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "list_answer",
+      "note": "The review-cycle diagram (p.31, 'given below:') is an image and is not in the extracted text. The Self Check answer key for cblm12-sc1-q18 (PDF p.41) is only the heading 'Stages of a review cycle' with no list. Stage names come from the numbered headings on p.31-33 (1. Prepare, 2. Plan, 3. Conduct, 4. Record and report results, 5. Evaluate). Please confirm against the diagram."
+    }
+  ]
+}

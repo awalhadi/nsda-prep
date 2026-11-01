@@ -1,0 +1,250 @@
+{
+  "id": "context-of-assessment",
+  "canonical_title": "Context of Assessment",
+  "aliases": [
+    "Assessment context",
+    "Assessment setting"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [
+    "cblm12-p9-0ec03e10",
+    "cblm12-p9-f8697ca8",
+    "cblm12-p9-1407c2b7"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "The context of assessment is the environment or setting of the assessment activity.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 9,
+        "quote": "The context of assessment is the environment or setting in which the assessment activity takes place.",
+        "passageId": "cblm12-p9-0ec03e10"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Context",
+      "bn": "প্রেক্ষাপট, কোন অবস্থায় কাজটা হচ্ছে"
+    },
+    {
+      "en": "Setting",
+      "bn": "জায়গা ও পরিবেশ"
+    },
+    {
+      "en": "Physical environment",
+      "bn": "জায়গা, যন্ত্রপাতি, আলো-বাতাস ইত্যাদি বাস্তব পরিবেশ"
+    },
+    {
+      "en": "Social environment",
+      "bn": "মানুষজন ও তাদের সম্পর্কের পরিবেশ"
+    },
+    {
+      "en": "Real work",
+      "bn": "candidate-এর আসল কর্মক্ষেত্রের কাজ"
+    }
+  ],
+  "bangla_explanation": [
+    "Context মানে assessment কোথায় আর কোন পরিবেশে হচ্ছে, সেই setting।",
+    "এর মধ্যে physical environment আর social environment দুটোই পড়ে।",
+    "Units of competency-র সাথে candidate-এর real work-এর সম্পর্ক, আর time period-ও context-এর অংশ।",
+    "আগে থেকে এগুলো ঠিক করে রাখলে assessment ঠিকমতো, expected ভাবে হয়।"
+  ],
+  "example": {
+    "en": "A motor mechanic is assessed in a real garage workshop. The tools and space are the physical environment. The co-workers are the social environment. The test lasts one day.",
+    "bn": "গ্যারেজের যন্ত্র ও জায়গা = physical, সহকর্মীরা = social, এক দিন = time period।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Environment in which assessment will be carried out: physical environment and social environment",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "environment in which assessment will be carried out o physical environment o social environment",
+            "passageId": "cblm12-p9-f8697ca8"
+          }
+        ]
+      },
+      {
+        "text": "Relationship between units of competency and candidate's real work",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "relationship between units of competency and candidate's real work"
+          }
+        ]
+      },
+      {
+        "text": "Time period over which assessment takes place",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "time period over which assessment takes place"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Environment has two parts: physical environment and social environment.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 9,
+          "quote": "environment in which assessment will be carried out o physical environment o social environment"
+        }
+      ]
+    },
+    {
+      "text": "It is not necessary to notify everyone who has some interest.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 9,
+          "quote": "It is not necessary to notify everyone who has some interest in the assessment."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is the context of assessment? What may it include?",
+      "modelAnswer": "The context of assessment is the environment or setting where the assessment activity takes place. It may include:\n1. The environment where assessment is carried out (physical and social)\n2. The relationship between units of competency and the candidate's real work\n3. The time period over which assessment takes place",
+      "keyPoints": [
+        {
+          "text": "Circumstances are prepared prior to assessment so it takes place as expected.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 9,
+              "quote": "A combination of circumstances may be prepared and established prior to the assessment as this will ensure that the assessment process will take place as expected."
+            }
+          ]
+        },
+        {
+          "text": "Contact the person who trained your candidates and the training supervisor/coordinator.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 9,
+              "quote": "Some people you may need to contact include:",
+              "passageId": "cblm12-p9-1407c2b7"
+            },
+            {
+              "src": "cblm12",
+              "page": 9,
+              "quote": "the person/s who trained your candidates;"
+            },
+            {
+              "src": "cblm12",
+              "page": 9,
+              "quote": "the training supervisor/coordinator of the organization"
+            }
+          ]
+        },
+        {
+          "text": "Also contact people managing the resources and office staff at the venue.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 9,
+              "quote": "people responsible for managing the resources you require to conduct the assessment"
+            },
+            {
+              "src": "cblm12",
+              "page": 9,
+              "quote": "office staff at the assessment venue/center."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which one is part of the context of assessment?",
+      "options": [
+        "Constructive feedback to the candidate",
+        "Time period over which assessment takes place",
+        "Self assessment instruments",
+        "Assessment decision"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 9,
+        "quote": "time period over which assessment takes place"
+      }
+    },
+    "matching": {
+      "prompt": "Match each part of the context with what it means.",
+      "pairs": [
+        {
+          "left": "Environment",
+          "right": "Physical and social",
+          "cite": {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "environment in which assessment will be carried out o physical environment o social environment"
+          }
+        },
+        {
+          "left": "Relationship",
+          "right": "Units of competency and candidate's real work",
+          "cite": {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "relationship between units of competency and candidate's real work"
+          }
+        },
+        {
+          "left": "Time period",
+          "right": "Over which assessment takes place",
+          "cite": {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "time period over which assessment takes place"
+          }
+        },
+        {
+          "left": "Setting",
+          "right": "Where the assessment activity takes place",
+          "cite": {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "The context of assessment is the environment or setting in which the assessment activity takes place."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Which two kinds of environment does the context include?",
+      "answer": {
+        "text": "Physical environment and social environment.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "environment in which assessment will be carried out o physical environment o social environment"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

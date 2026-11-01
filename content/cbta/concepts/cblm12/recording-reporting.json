@@ -1,0 +1,341 @@
+{
+  "id": "recording-reporting",
+  "canonical_title": "Recording and Reporting Assessment Results",
+  "aliases": [
+    "Assessment recording and reporting",
+    "Role of the assessor in recording and reporting assessment outcomes",
+    "Assessment record"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [
+    "cblm12-p26-9d1d4937",
+    "cblm12-p26-b6764660",
+    "cblm12-p27-f0a4acfc",
+    "cblm12-p27-60ab3237"
+  ],
+  "questions": [
+    "cblm12-sc1-q12",
+    "cblm12-sc1-q13",
+    "cblm12-sc1-q14",
+    "paper-final-formative-01-q25",
+    "paper-short-questions-q73",
+    "paper-short-questions-q74"
+  ],
+  "one_line_answer": {
+    "text": "Assessment recording is the process of documenting assessment results.",
+    "fidelity": "verbatim",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 26,
+        "quote": "Assessment recording is the process of documenting assessment results.",
+        "passageId": "cblm12-p26-9d1d4937"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Recording",
+      "bn": "assessment results লিখে রাখা"
+    },
+    {
+      "en": "Reporting",
+      "bn": "ফলাফল সঠিক লোককে জানানো"
+    },
+    {
+      "en": "Assessment record",
+      "bn": "assessment-এর লিখিত দলিল"
+    },
+    {
+      "en": "Approved recording format",
+      "bn": "অনুমোদিত ফরম্যাট বা ফর্ম"
+    },
+    {
+      "en": "Confidential",
+      "bn": "গোপন, সবাই দেখতে পারবে না"
+    }
+  ],
+  "bangla_explanation": [
+    "Recording মানে assessment results লিখে রাখা। Reporting মানে সঠিক লোককে outcome জানানো।",
+    "Record থাকলে assessment decision transparent আর fair থাকে, পরে প্রমাণ দেখানো যায়।",
+    "Assessor approved format-এ results লেখেন, candidate-এর সাথে আলোচনা করেন, নিজে সই করেন।",
+    "Assessment record confidential রাখতে হয়, সবাই দেখতে পারবে না।"
+  ],
+  "example": {
+    "en": "A nursing candidate finishes her assessment. The assessor records the results in the approved format. Then he signs the record.",
+    "bn": "হাসপাতালের ট্রেনিং সেন্টারে assessor অনুমোদিত ফর্মে ফলাফল লিখে সই করেন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Reviews assessment decision against evidence plan and evidence gathering tools.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 27,
+            "quote": "Reviews assessment decision against evidence plan and evidence gathering tools.",
+            "passageId": "cblm12-p27-60ab3237"
+          }
+        ]
+      },
+      {
+        "text": "Records assessment results using the approved recording format.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 27,
+            "quote": "Records assessment results using the approved recording format."
+          }
+        ]
+      },
+      {
+        "text": "Checks the results have been recorded correctly.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 27,
+            "quote": "Checks the results have been recorded correctly."
+          }
+        ]
+      },
+      {
+        "text": "Discusses assessment record with the candidate.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 27,
+            "quote": "Discusses assessment record with the candidate."
+          }
+        ]
+      },
+      {
+        "text": "Submits assessment record to person responsible for keeping the documents.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 27,
+            "quote": "Submits assessment record to person responsible for keeping the documents"
+          }
+        ]
+      },
+      {
+        "text": "Signs assessment record.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 27,
+            "quote": "Signs assessment record."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Recording is documenting results. Reporting is conveying the outcome to appropriate personnel.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 26,
+          "quote": "Assessment recording is the process of documenting assessment results."
+        },
+        {
+          "src": "cblm12",
+          "page": 26,
+          "quote": "Assessment reporting involves conveying information on the assessment outcome to appropriate personnel"
+        }
+      ]
+    },
+    {
+      "text": "Reporting goes to school administrators, assessment centre managers and employers.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 26,
+          "quote": "to appropriate personnel such as school administrators, assessment centre managers and employers."
+        }
+      ]
+    },
+    {
+      "text": "Restrict access to each candidate's assessment record. Keep it confidential.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 27,
+          "quote": "Assessors should not overlook the importance of restricting access to the assessment record about each candidate."
+        },
+        {
+          "src": "cblm12",
+          "page": 27,
+          "quote": "procedures on keeping the assessment record confidential."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What information should a good assessment record include?",
+      "modelAnswer": "A good assessment record should include:\n1. Qualification applied for\n2. Unit of competency\n3. Assessor's name\n4. Date of assessment\n5. Summary of evidence\n6. Summary of evidence gathering tools\n7. Assessment decisions\n8. Signature of assessor",
+      "keyPoints": [
+        {
+          "text": "A good record has qualification applied for, unit of competency, assessor's name, date of assessment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 26,
+              "quote": "Qualification applied for, Unit of competency Assessor's name Date of Assessment.",
+              "passageId": "cblm12-p26-b6764660"
+            }
+          ]
+        },
+        {
+          "text": "It also has summary of evidence, evidence gathering tools, decisions and assessor's signature.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 26,
+              "quote": "Summary of evidence Summary of Evidence Gathering tools. Assessment Decisions Signature of Assessor."
+            }
+          ]
+        },
+        {
+          "text": "Records keep decision-making transparent and fair.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 26,
+              "quote": "Records must be kept for clear documentation to assist assessors to maintain transparent and fair decision-making processes."
+            }
+          ]
+        },
+        {
+          "text": "Recording must be planned and integrated with the assessment process.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 26,
+              "quote": "Recording must be planned and integrated with the assessment process."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Who should keep the assessment record after the assessor signs it?",
+      "options": [
+        "The candidate",
+        "The person responsible for keeping the documents",
+        "The employer",
+        "Any other trainee"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 27,
+        "quote": "Submits assessment record to person responsible for keeping the documents"
+      }
+    },
+    "matching": {
+      "prompt": "Match each purpose of recording and reporting with its use.",
+      "pairs": [
+        {
+          "left": "Proof of the candidate's competence",
+          "right": "Evidence in training, future assessment or job promotion",
+          "cite": {
+            "src": "cblm12",
+            "page": 26,
+            "quote": "Provide proof of the candidate's competence that can be used as evidence in training, future assessment or job promotion."
+          }
+        },
+        {
+          "left": "Supporting documents",
+          "right": "Issuance of the certificate of competence",
+          "cite": {
+            "src": "cblm12",
+            "page": 26,
+            "quote": "Provide supporting documents for the issuance of the certificate of competence"
+          }
+        },
+        {
+          "left": "Basis for credit transfer",
+          "right": "Recognition of prior learning",
+          "cite": {
+            "src": "cblm12",
+            "page": 26,
+            "quote": "Serve as basis for credit transfer arrangements or recognition of prior learning"
+          }
+        },
+        {
+          "left": "Basis",
+          "right": "For feedback",
+          "cite": {
+            "src": "cblm12",
+            "page": 26,
+            "quote": "Provide a basis for feedback"
+          }
+        },
+        {
+          "left": "Information",
+          "right": "Further enhancement of the assessment process",
+          "cite": {
+            "src": "cblm12",
+            "page": 26,
+            "quote": "Provide information for further enhancement of the assessment process"
+          }
+        },
+        {
+          "left": "Proof of the activity",
+          "right": "The assessment actually took place",
+          "cite": {
+            "src": "cblm12",
+            "page": 26,
+            "quote": "Provide proof that the assessment activity actually took place."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What are the qualities of an effective recording and reporting system?",
+      "answer": {
+        "text": "Ease of use, minimal cost, ease of retrieval and relevance of information. Also data security, compliance by all users, document control and review process.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 26,
+            "quote": "Ease of use Minimal cost of operation and maintenance Ease of retrieval of information. Relevance of assessment information held in the records."
+          },
+          {
+            "src": "cblm12",
+            "page": 26,
+            "quote": "Data security. Compliance with the system by all users. Control of documentation and documented procedures Review process."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "practice.matching",
+      "note": "On p.26 the 'Importance' list has 4 bullets but 6 statements: 'Serve as basis for credit transfer...' and 'Provide proof that the assessment activity actually took place' run on without their own bullets. Card treats them as 6 separate points, as the Self Check answer key (cblm12-sc1-q12, PDF p.39) also reads. Please confirm the count."
+    },
+    {
+      "path": "questions",
+      "note": "paper-short-questions-q73 answer guide (keep observation checklists, oral question sheets, written tests, registration and self-assessment forms, result sheets securely) is not in the CBLM 12 pages in this pack. The card only covers it through the assessor's role (submit record to the person responsible) and keeping records confidential. A human may want a separate source."
+    }
+  ]
+}

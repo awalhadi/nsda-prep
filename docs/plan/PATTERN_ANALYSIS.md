@@ -48,9 +48,85 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 
 | # | Concept | CBLM | Stars | Score | Highlight | Repeat | Exam | Why important |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Hierarchy of Controls | 3 | ★★★ | 8 | 3 | 1 | 4 | Asked in Final Formative 01 (MCQ 3) and CBLM 3 Self Check 1 (Q4). Highlighted in CBLM 3. Comes as MCQ and short question. |
+| 1 | Recording and Reporting Assessment Results | 12 | ★★★ | 14 | 3 | 1 | 10 | Asked in Final Formative 01 (Short 25), Short Questions (answer guide) (Short 73), Short Questions (answer guide) (Short 74), CBLM 12 Self Check 1 (Q12), CBLM 12 Self Check 1 (Q13) and CBLM 12 Self Check 1 (Q14). Highlighted in CBLM 12. Comes as short question. |
+| 2 | Reasonable Adjustment | 12 | ★★★ | 13 | 3 | 1 | 9 | Asked in Final Formative 01 (Short 22), CBT&A L4 Written Test — Inclusivity & Maintenance (Short 3), Short Questions (answer guide) (Short 6), Short Questions (answer guide) (Short 8) and CBLM 12 Self Check 1 (Q3). Highlighted in CBLM 12. Comes as short question. |
+| 3 | Adjustment Strategies for Candidate Groups | 12 | ★★★ | 11 | 3 | 1 | 7 | Asked in Short Questions (answer guide) (Short 7), Short Questions (answer guide) (Short 9), CBT&A L4 Written Test — Inclusivity & Maintenance (Short 4) and CBLM 12 Self Check 1 (Q4). Highlighted in CBLM 12. Comes as short question. |
+| 4 | Errors Commonly Made by Assessors | 12 | ★★★ | 10 | 3 | 1 | 6 | Asked in Final Formative 01 (MCQ 9), Short Questions (answer guide) (Short 59), Short Questions (answer guide) (Short 65) and CBLM 12 Self Check 1 (Q8). Highlighted in CBLM 12. Comes as MCQ and short question. |
+| 5 | Effective Ways of Giving Feedback | 12 | ★★★ | 10 | 3 | 1 | 6 | Asked in Short Questions (answer guide) (Short 35), Short Questions (answer guide) (Short 36), Short Questions (answer guide) (Short 37), Final Formative 01 (MCQ 10) and CBLM 12 Self Check 1 (Q16). Highlighted in CBLM 12. Comes as MCQ and short question. |
+| 6 | Rules of Evidence | 12 | ★★★ | 10 | 3 | 1 | 6 | Asked in Short Questions (answer guide) (Short 45), Short Questions (answer guide) (Short 48), CBLM 12 Self Check 1 (Q9) and CBLM 12 Self Check 1 (Q10). Highlighted in CBLM 12. Comes as short question. |
+| 7 | Making an Assessment Decision | 12 | ★★☆ | 8 | 3 | 1 | 4 | Asked in Short Questions (answer guide) (Short 55), Short Questions (answer guide) (Short 79) and CBLM 12 Self Check 1 (Q11). Highlighted in CBLM 12. Comes as short question. |
+| 8 | Methods and Tools for Gathering Evidence | 12 | ★★☆ | 8 | 3 | 1 | 4 | Asked in Final Formative 01 (MCQ 8) and CBLM 12 Self Check 1 (Q7). Highlighted in CBLM 12. Comes as MCQ and short question. |
+| 9 | Hierarchy of Controls | 3 | ★★☆ | 8 | 3 | 1 | 4 | Asked in Final Formative 01 (MCQ 3) and CBLM 3 Self Check 1 (Q4). Highlighted in CBLM 3. Comes as MCQ and short question. |
+| 10 | Feedback and the Feedback Sandwich | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Final Formative 01 (Matching 15) and CBLM 12 Self Check 1 (Q15). Highlighted in CBLM 12. Comes as matching and short question. |
+| 11 | Forms of Evidence: Direct and Indirect | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Short Questions (answer guide) (Short 67), Short Questions (answer guide) (Short 80) and CBLM 12 Self Check 1 (Q6). Highlighted in CBLM 12. Comes as short question. |
+| 12 | Informing Candidates Before Assessment | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Short Questions (answer guide) (Short 60) and CBLM 12 Self Check 1 (Q2). Highlighted in CBLM 12. Comes as short question. |
+| 13 | When to Stop an Assessment | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Final Formative 01 (Short 24) and CBLM 12 Self Check 1 (Q5). Highlighted in CBLM 12. Comes as short question. |
+| 14 | Stages of Competency Assessment | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q1). Highlighted in CBLM 12. Comes as short question. |
+| 15 | Free Consent and Confidentiality | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (answer guide) (Short 61). Highlighted in CBLM 12. Comes as short question. |
+| 16 | Legal and Ethical Responsibilities in Assessment | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (answer guide) (Short 62) and Short Questions (answer guide) (Short 77). Highlighted in CBLM 12. Comes as short question. |
+| 17 | Reviewing the Assessment Process | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q18). Highlighted in CBLM 12. Comes as short question. |
+| 18 | Benefits of Feedback on Assessment | 12 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q17). Highlighted in CBLM 12. Comes as short question. |
+| 19 | Preparing Candidates and a Supportive Environment | 12 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (answer guide) (Short 83). Highlighted in CBLM 12. Comes as short question. |
+| 20 | Role of an Assessor of Competency | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
+| 21 | Context of Assessment | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
+| 22 | Self-Assessment Instruments | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
 
 ## Common traps (from authored cards)
 
+- **Recording and Reporting Assessment Results**: Recording is documenting results. Reporting is conveying the outcome to appropriate personnel.
+- **Recording and Reporting Assessment Results**: Reporting goes to school administrators, assessment centre managers and employers.
+- **Recording and Reporting Assessment Results**: Restrict access to each candidate's assessment record. Keep it confidential.
+- **Reasonable Adjustment**: Only the structure of the assessment is altered, not the outcomes.
+- **Reasonable Adjustment**: An adjustment is reasonable if it puts no unjustifiable hardship on the assessment center.
+- **Adjustment Strategies for Candidate Groups**: Do not use methods that need more literacy than the job role requires.
+- **Adjustment Strategies for Candidate Groups**: Time must meet enterprise requirements and also take account of the candidate's needs.
+- **Adjustment Strategies for Candidate Groups**: For gender, check whether child care issues impact on the timing of assessments.
+- **Errors Commonly Made by Assessors**: The halo effect is a positive judgement. The Horn effect is its opposite.
+- **Errors Commonly Made by Assessors**: Marking down the middle means sitting on the fence.
+- **Errors Commonly Made by Assessors**: Assessors might also be biased, display favouritism or be prejudiced.
+- **Effective Ways of Giving Feedback**: Aim for at least five positives for every negative, not one for one.
+- **Effective Ways of Giving Feedback**: Saying "nice job" isn't good enough. Praise should be as specific as possible.
+- **Effective Ways of Giving Feedback**: Feedback approaches: face to face, written comments, telephone, fax or email, or a combination.
+- **Rules of Evidence**: Six rules: validity, currency, sufficiency, authenticity, consistency, recency. The checklist shows only Valid, Sufficient, Current, Authentic.
+- **Rules of Evidence**: Page 21 gives Valid, Authentic, Reliable, Sufficient, Current and consistency of achievement. It has Reliable, not Recent.
+- **Rules of Evidence**: Do not mix Valid and Sufficient. Sufficient covers all the elements. Valid is relevant to the performance criteria.
+- **Making an Assessment Decision**: Judgement has two stages. Compare the evidence against the criteria, then decide if competence is achieved.
+- **Making an Assessment Decision**: If you cannot make a decision, ask the candidate to submit additional evidence.
+- **Making an Assessment Decision**: If the evidence matches the criteria, the candidate is Competent. Otherwise, Not Yet Competent.
+- **Methods and Tools for Gathering Evidence**: Demonstration is a method of gathering evidence and also a tool.
+- **Methods and Tools for Gathering Evidence**: Portfolio is also an evidence gathering tool.
+- **Methods and Tools for Gathering Evidence**: Avoid leading questions. They may make the assessment invalid.
 - **Hierarchy of Controls**: Personal protective equipment is always the control of last resort.
 - **Hierarchy of Controls**: From bottom to top: PPE, Admin, Engineering, Isolation, Substitution, Elimination.
+- **Feedback and the Feedback Sandwich**: Before the sandwich, start by asking the candidate to judge how well they performed.
+- **Feedback and the Feedback Sandwich**: Feedback is not a one way process.
+- **Feedback and the Feedback Sandwich**: Focus on corrective actions not mistakes.
+- **Forms of Evidence: Direct and Indirect**: Oral questioning is direct evidence, not indirect evidence.
+- **Forms of Evidence: Direct and Indirect**: A written test of underpinning knowledge is indirect evidence.
+- **Forms of Evidence: Direct and Indirect**: Demonstration is direct evidence. Assessment of a finished product is indirect evidence.
+- **Informing Candidates Before Assessment**: The information may be presented either oral or written form.
+- **Informing Candidates Before Assessment**: The answer key also lists the purpose and the assessment conditions.
+- **When to Stop an Assessment**: The trainee may request that the assessment be stopped.
+- **When to Stop an Assessment**: An effect on production matters when the assessment is conducted in a workplace.
+- **When to Stop an Assessment**: Stop for a chance of damage to property or equipment.
+- **Stages of Competency Assessment**: Make the assessment decision first, then provide feedback.
+- **Stages of Competency Assessment**: Record and report outcomes before you review the assessment process.
+- **Free Consent and Confidentiality**: Free consent and confidentiality are different. Confidentiality is about information access.
+- **Free Consent and Confidentiality**: Assessment information goes only to authorized personnel, not to everyone.
+- **Legal and Ethical Responsibilities in Assessment**: Confidentiality is the responsibility of both the assessor and the candidate.
+- **Legal and Ethical Responsibilities in Assessment**: Consent comes after the candidate has understood the purpose and procedures.
+- **Legal and Ethical Responsibilities in Assessment**: The assessment must not hinder the systems of the workplace.
+- **Reviewing the Assessment Process**: Reviewing the assessment event is an important role of the assessor.
+- **Reviewing the Assessment Process**: Evaluation also means looking back on your own performance to see how to improve.
+- **Reviewing the Assessment Process**: The best source of information for review should come from your own reflection.
+- **Benefits of Feedback on Assessment**: Benefits are for both sides. Feedback also reviews the assessor's own performance.
+- **Benefits of Feedback on Assessment**: Feedback also encourages a candidate who has not achieved the required competence.
+- **Preparing Candidates and a Supportive Environment**: Provide a supportive environment regardless of the assessment context.
+- **Preparing Candidates and a Supportive Environment**: Create the supportive environment before commencing the assessment, not after.
+- **Preparing Candidates and a Supportive Environment**: Assess candidate needs and establish any allowable adjustments while preparing.
+- **Role of an Assessor of Competency**: The judgment is either competent or not yet competent.
+- **Role of an Assessor of Competency**: Judgment must be impartial. Feedback must be constructive.
+- **Context of Assessment**: Environment has two parts: physical environment and social environment.
+- **Context of Assessment**: It is not necessary to notify everyone who has some interest.
+- **Self-Assessment Instruments**: Self assessment checks readiness. It is not the formal assessment itself.
+- **Self-Assessment Instruments**: In self assessment, the learner plays an active role in his or her own learning.

@@ -1,0 +1,301 @@
+{
+  "id": "assessment-decision",
+  "canonical_title": "Making an Assessment Decision",
+  "aliases": [
+    "Making Assessment Decision",
+    "Judgement of competence",
+    "Making overall judgement"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [
+    "cblm12-p21-a093a39d",
+    "cblm12-p21-f6fe0186",
+    "cblm12-p21-5d00f2c6",
+    "cblm12-p22-25250e46",
+    "cblm12-p22-1ed8625b"
+  ],
+  "questions": [
+    "cblm12-sc1-q11",
+    "paper-short-questions-q55",
+    "paper-short-questions-q79"
+  ],
+  "one_line_answer": {
+    "text": "After gathering evidence, the assessor makes a judgment of competence against a number of factors.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 21,
+        "quote": "After gathering the evidence, you need to make a judgment of competence.",
+        "passageId": "cblm12-p21-f6fe0186"
+      },
+      {
+        "src": "cblm12",
+        "page": 21,
+        "quote": "you have to evaluate the evidence against a number of factors such as"
+      },
+      {
+        "src": "cblm12",
+        "page": 21,
+        "quote": "At some stage you as an assessor will need to make an overall judgement of competence."
+      }
+    ]
+  },
+  "keywords": [
+    { "en": "Judgement", "bn": "বিচার করে সিদ্ধান্ত নেওয়া" },
+    { "en": "Competent", "bn": "দক্ষ, standard পূরণ করেছে" },
+    { "en": "Not Yet Competent", "bn": "এখনো দক্ষ হয়নি" },
+    { "en": "Performance criteria", "bn": "কাজ কতটা ভালো হতে হবে তার মাপকাঠি" },
+    { "en": "Dimensions of competency", "bn": "দক্ষতার চারটি দিক" },
+    { "en": "Additional evidence", "bn": "বাড়তি প্রমাণ" }
+  ],
+  "bangla_explanation": [
+    "Evidence জোগাড়ের পর assessor ঠিক করেন candidate Competent নাকি Not Yet Competent।",
+    "এজন্য evidence-কে performance criteria, dimensions of competency আর rules of evidence-এর সাথে মেলাতে হয়।",
+    "সিদ্ধান্তের কারণ পরিষ্কার রাখুন, কারণ এগুলোই পরে feedback-এর ভিত্তি।",
+    "সিদ্ধান্ত নিতে না পারলে candidate-কে additional evidence দিতে বলুন।"
+  ],
+  "example": {
+    "en": "An IT trainee builds a network. The assessor checks it against the performance criteria. All criteria are met, so the trainee is Competent.",
+    "bn": "IT ট্রেইনির নেটওয়ার্ক কাজ performance criteria-র সাথে মিলিয়ে assessor সিদ্ধান্ত নেন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Requirements of the unit of competency: evidence matches the elements and performance criteria.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 21,
+            "quote": "Requirements of the unit of competency"
+          },
+          {
+            "src": "cblm12",
+            "page": 21,
+            "quote": "Does the evidence match the requirements of the elements and performance criteria?"
+          }
+        ]
+      },
+      {
+        "text": "Dimensions of competency: task skills, task management, contingency management and job/role environment skills.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 21,
+            "quote": "Dimensions of competency",
+            "passageId": "cblm12-p21-5d00f2c6"
+          },
+          {
+            "src": "cblm12",
+            "page": 21,
+            "quote": "Task skills, Task management skills, Contingency management skills and Job/role environment skills"
+          }
+        ]
+      },
+      {
+        "text": "Rules of evidence: the evidence conforms to the rules of evidence.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 21,
+            "quote": "Rules of evidence Does the evidence conform to the rules of evidence?"
+          }
+        ]
+      },
+      {
+        "text": "Validation of evidence: one piece of evidence supports other pieces of evidence.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 21,
+            "quote": "Validation of evidence Does one piece of evidence support other pieces of evidence"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Judgement has two stages. Compare the evidence against the criteria, then decide if competence is achieved.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 22,
+          "quote": "This definition identifies two stages of the assessment process",
+          "passageId": "cblm12-p22-25250e46"
+        },
+        {
+          "src": "cblm12",
+          "page": 22,
+          "quote": "Comparing the evidence against the criteria for assessment and",
+          "passageId": "cblm12-p22-1ed8625b"
+        },
+        {
+          "src": "cblm12",
+          "page": 22,
+          "quote": "Making the decision as to whether the necessary competence has been achieved."
+        }
+      ]
+    },
+    {
+      "text": "If you cannot make a decision, ask the candidate to submit additional evidence.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 22,
+          "quote": "If you cannot make a decision about competency, you should ask the candidate to submit additional evidence."
+        }
+      ]
+    },
+    {
+      "text": "If the evidence matches the criteria, the candidate is Competent. Otherwise, Not Yet Competent.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 39,
+          "quote": "If the evidence matches with above criteria, the candidate will be Competent."
+        },
+        {
+          "src": "cblm12",
+          "page": 39,
+          "quote": "Otherwise, Not Yet Competent."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "How would you determine the candidate is competent or not yet competent?",
+      "modelAnswer": "After gathering the evidence, I make a judgment of competence. I evaluate the evidence against these factors:\n1. Requirements of the unit of competency\n2. Dimensions of competency\n3. Rules of evidence\n4. Validation of evidence\nIf the evidence matches these criteria, the candidate is Competent. Otherwise, Not Yet Competent.",
+      "keyPoints": [
+        {
+          "text": "Judgement compares sufficient evidence with the required performance criteria.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 22,
+              "quote": "the process of comparing sufficient evidence of a candidate's achievement with the required performance criteria"
+            }
+          ]
+        },
+        {
+          "text": "Be clear about the reasons for your decision. They form the basis of your feedback.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 22,
+              "quote": "be clear about the reasons you have for reaching your decision."
+            },
+            {
+              "src": "cblm12",
+              "page": 22,
+              "quote": "These reasons will form the basis of your feedback to the candidates."
+            }
+          ]
+        },
+        {
+          "text": "A degree of informed subjective judgement will be involved.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 22,
+              "quote": "a degree of informed subjective judgement on your part will be involved."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "You cannot make a decision about competency. What should you do?",
+      "options": [
+        "Mark the candidate Not Yet Competent",
+        "Ask the candidate to submit additional evidence",
+        "Mark the candidate Competent",
+        "Stop the assessment and leave"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 22,
+        "quote": "you should ask the candidate to submit additional evidence."
+      }
+    },
+    "matching": {
+      "prompt": "Match each decision factor with its question.",
+      "pairs": [
+        {
+          "left": "Requirements of the unit of competency",
+          "right": "Does the evidence match the performance criteria?",
+          "cite": {
+            "src": "cblm12",
+            "page": 21,
+            "quote": "Does the evidence match the requirements of the elements and performance criteria?"
+          }
+        },
+        {
+          "left": "Dimensions of competency",
+          "right": "Does the candidate meet the four dimensions?",
+          "cite": {
+            "src": "cblm12",
+            "page": 21,
+            "quote": "Dimensions of competency Does the evidence show that the candidate is able to meet the four dimensions of"
+          }
+        },
+        {
+          "left": "Rules of evidence",
+          "right": "Does the evidence conform to the rules?",
+          "cite": {
+            "src": "cblm12",
+            "page": 21,
+            "quote": "Rules of evidence Does the evidence conform to the rules of evidence?"
+          }
+        },
+        {
+          "left": "Validation of evidence",
+          "right": "Does one piece support other pieces?",
+          "cite": {
+            "src": "cblm12",
+            "page": 21,
+            "quote": "Validation of evidence Does one piece of evidence support other pieces of evidence"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What are the two stages of making a judgement?",
+      "answer": {
+        "text": "First, compare the evidence against the criteria. Then decide if the necessary competence has been achieved.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 22,
+            "quote": "Comparing the evidence against the criteria for assessment and"
+          },
+          {
+            "src": "cblm12",
+            "page": 22,
+            "quote": "Making the decision as to whether the necessary competence has been achieved."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "list_answer",
+      "note": "CBLM p.21 says 'a number of factors such as' and gives no count. Card lists the four factors in the Self Check answer key (cblm12-sc1-q11, PDF p.39): requirements of the unit, dimensions of competency, rules of evidence, validation of evidence. On p.21 'Validation of evidence' comes after the evidence checklist, and 'Making overall judgement' follows it; card treats the latter as the next step, not a factor. Please confirm."
+    }
+  ]
+}

@@ -13,7 +13,7 @@
     "content:derive": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/derive.ts",
     "content:packs": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/packs.ts",
     "content:build": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/build.ts",
-    "content:check": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/build.ts --check",
+    "content:check": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/build.ts --check --strict=cblm12",
     "content:approve": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/approve.ts",
     "content:proof": "bash scripts/cblm/run.sh render_proof.py",
     "content:all": "npm run content:extract && npm run content:derive && npm run content:proof && npm run content:build",

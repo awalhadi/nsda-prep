@@ -1,0 +1,352 @@
+{
+  "id": "informing-candidates",
+  "canonical_title": "Informing Candidates Before Assessment",
+  "aliases": [
+    "Informing candidates",
+    "What candidates need to know before assessment"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [
+    "cblm12-p10-2f9f705a",
+    "cblm12-p10-5547f631",
+    "cblm12-p10-9eb73cb8"
+  ],
+  "questions": [
+    "cblm12-sc1-q2",
+    "paper-short-questions-q60"
+  ],
+  "one_line_answer": {
+    "text": "The key to a successful assessment process involves informing the candidate.",
+    "fidelity": "verbatim",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 10,
+        "quote": "The key to a successful assessment process involves informing the candidate.",
+        "passageId": "cblm12-p10-2f9f705a"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Register",
+      "bn": "নাম নথিভুক্ত করা"
+    },
+    {
+      "en": "Unit of competency",
+      "bn": "যে দক্ষতার অংশটি যাচাই করা হবে"
+    },
+    {
+      "en": "Evidence gathering",
+      "bn": "প্রমাণ সংগ্রহ করা"
+    },
+    {
+      "en": "Assessment conditions",
+      "bn": "কোন অবস্থায় ও কোন নিয়মে assessment হবে"
+    },
+    {
+      "en": "Oral or written",
+      "bn": "মুখে বলে অথবা লিখে"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment সফল করার মূল চাবি হলো candidate-কে আগে থেকে clear information দেওয়া।",
+    "কীভাবে register করবে, কোন unit of competency, কী evidence আনতে হবে, তা জানাতে হবে।",
+    "Assessor-এর role, কত time পাবে আর কখন begin করবে, সেটাও বলতে হবে।",
+    "এই information মুখে (oral) বা লিখে (written) দেওয়া যায়।"
+  ],
+  "example": {
+    "en": "An IT training centre gives each candidate a notice before the test. It shows how to register and which unit is assessed. It lists the evidence, time allowed and start time.",
+    "bn": "IT সেন্টারের notice-এ register, unit, evidence, সময় আর শুরুর সময় লেখা থাকে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "How to register for an assessment event",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "how to register for an assessment event",
+            "passageId": "cblm12-p10-9eb73cb8"
+          }
+        ]
+      },
+      {
+        "text": "The unit of competency to be assessed",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "the unit of competency to be assessed."
+          }
+        ]
+      },
+      {
+        "text": "The evidence he/she is required to present",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "the evidence he/she is required to present"
+          }
+        ]
+      },
+      {
+        "text": "The evidence gathering process",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "the evidence gathering process."
+          }
+        ]
+      },
+      {
+        "text": "The role of the Assessor",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "the role of the Assessor."
+          }
+        ]
+      },
+      {
+        "text": "The time allowed for the assessment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "the time allowed for the assessment."
+          }
+        ]
+      },
+      {
+        "text": "When they can begin the assessment task",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "When they can begin the assessment task."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "The information may be presented either oral or written form.",
+      "fidelity": "verbatim",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 10,
+          "quote": "The information may be presented either oral or written form."
+        }
+      ]
+    },
+    {
+      "text": "The answer key also lists the purpose and the assessment conditions.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 36,
+          "quote": "Answer Key No: 1 Prepare Assessment Environment"
+        },
+        {
+          "src": "cblm12",
+          "page": 36,
+          "quote": "the purpose of assessment"
+        },
+        {
+          "src": "cblm12",
+          "page": 36,
+          "quote": "assessment conditions"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What does the candidate need to know before the assessment?",
+      "modelAnswer": "Informing the candidate is the key to a successful assessment. Before the assessment event, candidates need to know:\n1. The purpose of assessment\n2. The unit of competency being assessed\n3. Evidence requirements\n4. Evidence gathering method\n5. Assessment conditions\n6. Role of the assessor",
+      "keyPoints": [
+        {
+          "text": "Candidates need to know the purpose of assessment and the unit of competency.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 36,
+              "quote": "Before the assessment event, candidates need to know:"
+            },
+            {
+              "src": "cblm12",
+              "page": 36,
+              "quote": "the purpose of assessment"
+            },
+            {
+              "src": "cblm12",
+              "page": 36,
+              "quote": "unit of competency that is being assessed"
+            }
+          ]
+        },
+        {
+          "text": "They need the evidence requirements and the evidence gathering method.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 36,
+              "quote": "Before the assessment event, candidates need to know:"
+            },
+            {
+              "src": "cblm12",
+              "page": 36,
+              "quote": "evidence requirements"
+            },
+            {
+              "src": "cblm12",
+              "page": 36,
+              "quote": "evidence gathering method."
+            }
+          ]
+        },
+        {
+          "text": "They need the assessment conditions and the role of the assessor.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 36,
+              "quote": "Before the assessment event, candidates need to know:"
+            },
+            {
+              "src": "cblm12",
+              "page": 36,
+              "quote": "assessment conditions"
+            },
+            {
+              "src": "cblm12",
+              "page": 36,
+              "quote": "role of the assessor"
+            }
+          ]
+        },
+        {
+          "text": "Also give clear information on the time allowed and when to begin.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 10,
+              "quote": "candidate should be provided with the clear information about:",
+              "passageId": "cblm12-p10-5547f631"
+            },
+            {
+              "src": "cblm12",
+              "page": 10,
+              "quote": "the time allowed for the assessment."
+            },
+            {
+              "src": "cblm12",
+              "page": 10,
+              "quote": "When they can begin the assessment task."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which information should the candidate get before assessment?",
+      "options": [
+        "Office staff at the assessment venue",
+        "The time allowed for the assessment",
+        "Adaptive technology or special equipment",
+        "Recording of results"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 10,
+        "quote": "the time allowed for the assessment."
+      }
+    },
+    "matching": {
+      "prompt": "Match each word with the information the candidate gets.",
+      "pairs": [
+        {
+          "left": "Register",
+          "right": "How to register for an assessment event",
+          "cite": {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "how to register for an assessment event"
+          }
+        },
+        {
+          "left": "Time",
+          "right": "The time allowed for the assessment",
+          "cite": {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "the time allowed for the assessment."
+          }
+        },
+        {
+          "left": "Begin",
+          "right": "When they can begin the assessment task",
+          "cite": {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "When they can begin the assessment task."
+          }
+        },
+        {
+          "left": "Form",
+          "right": "Oral or written",
+          "cite": {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "The information may be presented either oral or written form."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "In what form can you give candidates this information?",
+      "answer": {
+        "text": "The information may be presented either oral or written form.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 10,
+            "quote": "The information may be presented either oral or written form."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "list_answer",
+      "note": "Two different lists in CBLM 12. The information sheet (p.10) lists 7 items: register, unit, evidence to present, evidence gathering process, assessor's role, time allowed, when to begin. Its 8th bullet ('may be presented either oral or written form') is a note, so the card lists 7. The answer key for cblm12-sc1-q2 (p.36) lists 6 items: purpose, unit, evidence requirements, evidence gathering method, assessment conditions, role of assessor. paper-short-questions-q60 matches the answer key."
+    },
+    {
+      "path": "practice.short",
+      "note": "The model answer follows the answer key (p.36) because cblm12-sc1-q2 and paper-short-questions-q60 both expect that list; list_answer follows the information sheet. Decide which list learners should write in the exam, or whether to teach both."
+    }
+  ]
+}

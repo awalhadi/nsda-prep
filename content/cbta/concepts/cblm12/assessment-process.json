@@ -1,0 +1,297 @@
+{
+  "id": "assessment-process",
+  "canonical_title": "Stages of Competency Assessment",
+  "aliases": [
+    "Process of organizing and conducting competency based assessment",
+    "Assessment process"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [
+    "cblm12-p7-e74dcc59",
+    "cblm12-p7-a02b857f",
+    "cblm12-p7-16a9efea",
+    "cblm12-p35-d9fce172"
+  ],
+  "questions": [
+    "cblm12-sc1-q1"
+  ],
+  "one_line_answer": {
+    "text": "Organizing and conducting competency based assessment is a series of steps to confirm competency.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 7,
+        "quote": "Organizing and conducting competency based assessment consists of following",
+        "passageId": "cblm12-p7-a02b857f"
+      },
+      {
+        "src": "cblm12",
+        "page": 7,
+        "quote": "series of steps that Trainees/Candidates and Assessors undergo in order to confirm competency."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Stage",
+      "bn": "ধাপ"
+    },
+    {
+      "en": "Evidence",
+      "bn": "প্রমাণ, যা দেখে দক্ষতা বিচার করা হয়"
+    },
+    {
+      "en": "Assessment decision",
+      "bn": "competent কিনা, সেই সিদ্ধান্ত"
+    },
+    {
+      "en": "Feedback",
+      "bn": "ফলাফল নিয়ে candidate-কে মতামত দেওয়া"
+    },
+    {
+      "en": "Review",
+      "bn": "পরে আবার যাচাই করে দেখা"
+    },
+    {
+      "en": "BTEB",
+      "bn": "বাংলাদেশ কারিগরি শিক্ষা বোর্ড (Bangladesh Technical Education Board)"
+    }
+  ],
+  "bangla_explanation": [
+    "Competency assessment একবারে হয় না, এটা কয়েকটা stage-এর একটা series।",
+    "শুরুতে candidate-কে prepare করতে হয়, আর শেষে পুরো process review করতে হয়।",
+    "মনে রাখবেন: আগে assessment decision, তারপর feedback।",
+    "একটা stage বাদ গেলে outcomes ঠিকমতো record ও report করা যায় না।"
+  ],
+  "example": {
+    "en": "At a garments training centre, the assessor first prepares the sewing candidates. Then she watches them sew and collects evidence. She makes a decision and gives feedback. She records the outcomes, then reviews the process.",
+    "bn": "গার্মেন্টস সেন্টারে: প্রস্তুতি → evidence → decision → feedback → record → review।"
+  },
+  "mnemonic": {
+    "text": "P-C-M-P-R-R: Prepare, Collect, Make decision, Provide feedback, Record, Review",
+    "explain_bn": "প্রতিটি অক্ষর একটি stage-এর প্রথম শব্দ, উপর থেকে নিচে ক্রমে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Prepare candidates and administrate self assessment instruments",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Prepare candidates and administrate self assessment instruments"
+          }
+        ]
+      },
+      {
+        "text": "Collect evidence/conduct assessment event using assessment tool/instruments",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Collect evidence/conduct assessment event using assessment tool/instruments"
+          }
+        ]
+      },
+      {
+        "text": "Make assessment decision",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Make assessment decision Provide feedback to candidate"
+          }
+        ]
+      },
+      {
+        "text": "Provide feedback to candidate",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Make assessment decision Provide feedback to candidate"
+          }
+        ]
+      },
+      {
+        "text": "Record and report assessment outcomes to BTEB",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Record and report assessment outcomes to BTEB",
+            "passageId": "cblm12-p7-16a9efea"
+          }
+        ]
+      },
+      {
+        "text": "Review assessment process",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Review assessment process"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Make the assessment decision first, then provide feedback.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 36,
+          "quote": "Make assessment decision Provide feedback to candidate"
+        }
+      ]
+    },
+    {
+      "text": "Record and report outcomes before you review the assessment process.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 36,
+          "quote": "Record and report assessment outcomes to BTEB Review assessment process"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Outline the stages of competency assessment.",
+      "modelAnswer": "Competency assessment is a series of steps to confirm competency. The stages are:\n1. Prepare candidates and administrate self assessment instruments\n2. Collect evidence / conduct the assessment event using assessment tools\n3. Make assessment decision\n4. Provide feedback to candidate\n5. Record and report assessment outcomes to BTEB\n6. Review assessment process",
+      "keyPoints": [
+        {
+          "text": "Candidates and assessors undergo these steps to confirm competency.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 7,
+              "quote": "series of steps that Trainees/Candidates and Assessors undergo in order to confirm competency."
+            }
+          ]
+        },
+        {
+          "text": "Candidates are assessed according to established guidelines.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 7,
+              "quote": "Candidates are assessed according to established guidelines."
+            }
+          ]
+        },
+        {
+          "text": "All trainees should be provided with an assessment guidelines document.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 7,
+              "quote": "All trainees undertaking assessment should be provided with an assessment guidelines document"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which stage comes right after 'Make assessment decision'?",
+      "options": [
+        "Review assessment process",
+        "Provide feedback to candidate",
+        "Collect evidence",
+        "Prepare candidates"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 36,
+        "quote": "Make assessment decision Provide feedback to candidate"
+      }
+    },
+    "matching": {
+      "prompt": "Match each stage number with the stage.",
+      "pairs": [
+        {
+          "left": "Stage 1",
+          "right": "Prepare candidates and administrate self assessment instruments",
+          "cite": {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Prepare candidates and administrate self assessment instruments"
+          }
+        },
+        {
+          "left": "Stage 2",
+          "right": "Collect evidence using assessment tools",
+          "cite": {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Collect evidence/conduct assessment event using assessment tool/instruments"
+          }
+        },
+        {
+          "left": "Stage 3",
+          "right": "Make assessment decision",
+          "cite": {
+            "src": "cblm12",
+            "page": 36,
+            "quote": "Make assessment decision Provide feedback to candidate"
+          }
+        },
+        {
+          "left": "Stage 5",
+          "right": "Record and report assessment outcomes",
+          "cite": {
+            "src": "cblm12",
+            "page": 36,
+            "quote": "Record and report assessment outcomes to BTEB"
+          }
+        },
+        {
+          "left": "Stage 6",
+          "right": "Review assessment process",
+          "cite": {
+            "src": "cblm12",
+            "page": 36,
+            "quote": "outcomes to BTEB Review assessment process"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What is the first stage of competency assessment?",
+      "answer": {
+        "text": "First, prepare candidates and administrate self assessment instruments.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Prepare candidates and administrate self assessment instruments"
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "list_answer.items[4]",
+      "note": "The p.7 diagram text says outcomes go 'to BTEB', but an 'NSDA' label sits next to it (and the passage highlights 'BTEB'). The answer key (p.36) says BTEB only. Confirm whether learners should write BTEB or NSDA."
+    }
+  ]
+}

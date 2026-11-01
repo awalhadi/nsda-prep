@@ -29,7 +29,8 @@ for (const c of map.concepts ?? []) {
   for (const id of c.covers) {
     const p = ev.passages.get(id);
     if (!p) { out.push(`- MISSING passage ${id}`); continue; }
-    pages.add(`${p.src}:${p.page}`);
+    // Neighbouring pages too: lists often run over a page break.
+    for (const pg of [p.page - 1, p.page, p.page + 1]) if (pageText(ev, p.src, pg) !== null) pages.add(`${p.src}:${pg}`);
     out.push(`- \`${id}\` · ${p.src} PDF p.${p.page} (printed ${p.printedPage ?? "?"}) · heading "${p.heading}"${p.flags.length ? ` · flags: ${p.flags.join(", ")}` : ""}`);
     if (p.leadIn) out.push(`  - lead-in: ${p.leadIn}`);
     out.push(`  - text: ${p.text}`);

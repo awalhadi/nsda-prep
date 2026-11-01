@@ -1,0 +1,361 @@
+{
+  "id": "assessor-errors",
+  "canonical_title": "Errors Commonly Made by Assessors",
+  "aliases": [
+    "Assessor errors",
+    "Common assessor errors"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [
+    "cblm12-p18-9574678c",
+    "cblm12-p18-72ab8108",
+    "cblm12-p19-547d1254",
+    "cblm12-p19-2bf47445"
+  ],
+  "questions": [
+    "cblm12-sc1-q8",
+    "paper-final-formative-01-q9",
+    "paper-short-questions-q59",
+    "paper-short-questions-q65"
+  ],
+  "one_line_answer": {
+    "text": "Assessor errors: halo effect, failing to record or observe, marking down the middle, overlooking cheating.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 18,
+        "quote": "Errors commonly made by assessors The halo effect",
+        "passageId": "cblm12-p18-9574678c"
+      },
+      {
+        "src": "cblm12",
+        "page": 19,
+        "quote": "Failing to record"
+      },
+      {
+        "src": "cblm12",
+        "page": 19,
+        "quote": "Failing to observe"
+      },
+      {
+        "src": "cblm12",
+        "page": 19,
+        "quote": "Marking down the middle"
+      },
+      {
+        "src": "cblm12",
+        "page": 19,
+        "quote": "Overlooking cheating"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Halo effect",
+      "bn": "ভালো লাগা বা সুনামের কারণে বেশি নম্বর দেওয়া"
+    },
+    {
+      "en": "Horn effect",
+      "bn": "halo effect-এর উল্টো: খারাপ ধারণা থেকে কম নম্বর দেওয়া"
+    },
+    {
+      "en": "Sitting on the fence",
+      "bn": "দুই দিকের কোনোটাই না বেছে মাঝামাঝি থাকা"
+    },
+    {
+      "en": "Overlooking cheating",
+      "bn": "নকল বা প্রতারণা দেখেও না দেখার ভান করা"
+    },
+    {
+      "en": "Biased",
+      "bn": "পক্ষপাতদুষ্ট"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessor-ও মানুষ, তাই judgement দিতে গিয়ে কিছু সাধারণ ভুল করেন।",
+    "Halo effect: পছন্দের বা সুনামের কারণে ভালো judgement; উল্টোটা Horn effect।",
+    "Marking down the middle মানে rating scales-এ সবাইকে মাঝামাঝি নম্বর দেওয়া।",
+    "এই ভুলগুলো জানলে assessor biased না হয়ে সঠিক সিদ্ধান্ত দিতে পারেন।"
+  ],
+  "example": {
+    "en": "A trainee at a driving test is from the assessor's village. The assessor passes him without careful checking. That is the halo effect.",
+    "bn": "Driving test-এ নিজের গ্রামের ছেলে বলে ভালো নম্বর দেওয়া হলো halo effect।"
+  },
+  "mnemonic": {
+    "text": "H-R-O-M-C: Halo, Record, Observe, Middle, Cheating",
+    "explain_bn": "পাঁচটি ভুলের মূল শব্দ মনে রাখুন: Halo, Record, Observe, Middle, Cheating।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "The halo effect: positive judgements based on reputation or personal preference. The opposite is the Horn effect.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 18,
+            "quote": "Making positive judgements about a trainee based on reputation or your personal"
+          },
+          {
+            "src": "cblm12",
+            "page": 18,
+            "quote": "The opposite of this referred to as the Horn effect.",
+            "passageId": "cblm12-p18-72ab8108"
+          }
+        ]
+      },
+      {
+        "text": "Failing to record: due to inadequate planning for, or underestimation of, recording requirements.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 19,
+            "quote": "Failing to record Due to inadequate planning for, or underestimation of, recording requirements"
+          }
+        ]
+      },
+      {
+        "text": "Failing to observe: missing critical points or cues due to inexperience or lack of preparation.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 19,
+            "quote": "Failing to observe missing critical points or cues due to inexperience, or lack of preparation."
+          }
+        ]
+      },
+      {
+        "text": "Marking down the middle: 'sitting on the fence', especially common with rating scales.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 19,
+            "quote": "Marking down the middle 'Sitting on the fence', especially common with rating scales.",
+            "passageId": "cblm12-p19-547d1254"
+          }
+        ]
+      },
+      {
+        "text": "Overlooking cheating: being unwilling to confront cheating issues, or bending to outside pressures.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 19,
+            "quote": "Overlooking cheating Being unwilling to confront cheating issues, or bending to outside pressures.",
+            "passageId": "cblm12-p19-2bf47445"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "The halo effect is a positive judgement. The Horn effect is its opposite.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 18,
+          "quote": "The halo effect Making positive judgements about a trainee"
+        },
+        {
+          "src": "cblm12",
+          "page": 18,
+          "quote": "The opposite of this referred to as the Horn effect."
+        }
+      ]
+    },
+    {
+      "text": "Marking down the middle means sitting on the fence.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 19,
+          "quote": "Marking down the middle 'Sitting on the fence'"
+        }
+      ]
+    },
+    {
+      "text": "Assessors might also be biased, display favouritism or be prejudiced.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 19,
+          "quote": "be biased when assessing"
+        },
+        {
+          "src": "cblm12",
+          "page": 19,
+          "quote": "display favouritism"
+        },
+        {
+          "src": "cblm12",
+          "page": 19,
+          "quote": "be prejudiced"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the errors commonly made by the assessors?",
+      "modelAnswer": "Errors commonly made by assessors are:\n1. Halo effect: positive judgement based on reputation or personal preference. The opposite is the Horn effect.\n2. Failing to record: poor planning for recording requirements.\n3. Failing to observe: missing critical points or cues.\n4. Marking down the middle: sitting on the fence with rating scales.\n5. Overlooking cheating: unwilling to confront cheating.",
+      "keyPoints": [
+        {
+          "text": "Failing to observe happens especially when assessing large numbers of trainees.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 19,
+              "quote": "Failing to observe"
+            },
+            {
+              "src": "cblm12",
+              "page": 19,
+              "quote": "requirements especially when assessing large numbers of trainees."
+            }
+          ]
+        },
+        {
+          "text": "Halo effect examples: similar dress, speech or background.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "The halo effect"
+            },
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "for example, similar dress, speech or background."
+            }
+          ]
+        },
+        {
+          "text": "Assessors might assess in ways that disadvantage some groups, for example women.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 19,
+              "quote": "assess in ways that disadvantage some groups, for example, women"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "An assessor sits on the fence and gives middle ratings on a rating scale. This error is called:",
+      "options": [
+        "Halo effect",
+        "Overlooking cheating",
+        "Marking down the middle",
+        "Failing to record"
+      ],
+      "answerIndex": 2,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 19,
+        "quote": "Marking down the middle 'Sitting on the fence', especially common with rating scales."
+      }
+    },
+    "matching": {
+      "prompt": "Match each assessor error with its meaning.",
+      "pairs": [
+        {
+          "left": "Halo effect",
+          "right": "Positive judgements based on reputation",
+          "cite": {
+            "src": "cblm12",
+            "page": 18,
+            "quote": "The halo effect Making positive judgements about a trainee based on reputation"
+          }
+        },
+        {
+          "left": "Horn effect",
+          "right": "The opposite of the halo effect",
+          "cite": {
+            "src": "cblm12",
+            "page": 18,
+            "quote": "The opposite of this referred to as the Horn effect."
+          }
+        },
+        {
+          "left": "Failing to record",
+          "right": "Inadequate planning for recording",
+          "cite": {
+            "src": "cblm12",
+            "page": 19,
+            "quote": "Failing to record Due to inadequate planning for, or underestimation of, recording requirements"
+          }
+        },
+        {
+          "left": "Failing to observe",
+          "right": "Missing critical points or cues",
+          "cite": {
+            "src": "cblm12",
+            "page": 19,
+            "quote": "Failing to observe missing critical points or cues"
+          }
+        },
+        {
+          "left": "Marking down the middle",
+          "right": "Sitting on the fence",
+          "cite": {
+            "src": "cblm12",
+            "page": 19,
+            "quote": "Marking down the middle 'Sitting on the fence'"
+          }
+        },
+        {
+          "left": "Overlooking cheating",
+          "right": "Bending to outside pressures",
+          "cite": {
+            "src": "cblm12",
+            "page": 19,
+            "quote": "Overlooking cheating Being unwilling to confront cheating issues, or bending to outside pressures."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What is the halo effect?",
+      "answer": {
+        "text": "Making positive judgements about a trainee based on reputation or personal preference.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 18,
+            "quote": "Making positive judgements about a trainee based on reputation or your personal"
+          },
+          {
+            "src": "cblm12",
+            "page": 18,
+            "quote": "preference, for example, similar dress, speech or background."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "practice.short.keyPoints[0]",
+      "note": "On p.19 (and answer key p.38) 'Failing to observe' has a stray second line: 'requirements especially when assessing large numbers of trainees.' The word 'requirements' seems to belong to 'Failing to record ... recording requirements'. Card attaches 'especially when assessing large numbers of trainees' to Failing to observe, as paper-short-questions-q59 does. Please confirm."
+    },
+    {
+      "path": "list_answer",
+      "note": "CBLM 12 names 5 errors and mentions the Horn effect only as the opposite of the halo effect. paper-short-questions-q65 lists the Horn effect as a separate error. Card keeps the CBLM's 5 items with Horn inside item 1."
+    }
+  ]
+}
