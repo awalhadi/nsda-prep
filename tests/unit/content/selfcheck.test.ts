@@ -51,6 +51,12 @@ describe("definitionMismatch", () => {
     expect(definitionMismatch("What is workplace hazard?", "A hazard is anything that can cause harm.")).toBe(false);
     expect(definitionMismatch("What is maintenance?", "Maintenance is performing routine actions.")).toBe(false);
   });
+  it("accepts plural answers to singular questions", () => {
+    expect(definitionMismatch("What is reasonable adjustment in CBT&A?", "Reasonable adjustments are designed to ascertain that all people are treated equally")).toBe(false);
+  });
+  it("ignores long 'what are the …' questions", () => {
+    expect(definitionMismatch("What are the benefits of providing feedback on assessment performance?", "Feedback is beneficial both to the assessor and the candidate")).toBe(false);
+  });
   it("ignores non-definition questions", () => {
     expect(definitionMismatch("List 4 hazards.", "Physical, chemical …")).toBe(false);
   });

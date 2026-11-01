@@ -11,6 +11,7 @@
     "test": "vitest run",
     "content:extract": "bash scripts/cblm/run.sh extract_raw.py && bash scripts/cblm/run.sh selftest.py",
     "content:derive": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/derive.ts",
+    "content:packs": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/packs.ts",
     "content:build": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/build.ts",
     "content:check": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/build.ts --check",
     "content:approve": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/approve.ts",

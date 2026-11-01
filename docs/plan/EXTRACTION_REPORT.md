@@ -8,7 +8,7 @@
 - Highlight annotations: **1409**; underline annotations: **27**. Each one is inside a merged passage or listed as an empty marking; derive stops with an error if any is unaccounted for.
 - Merged passages: **909**; markings over no text: **0**; very short passages: **1**.
 - Teacher notes (FreeText/Ink/Caret): **14**; strikeouts/redactions (ignored, listed): **6**.
-- Self Check ↔ Answer Key pairs: **125**, of which **10** are flagged for review.
+- Self Check ↔ Answer Key pairs: **125**, of which **8** are flagged for review.
 - Paper questions: **220** across 7 papers.
 
 ## CBLMs
@@ -25,7 +25,7 @@
 | 9 | 71 | 180 | 0 | 128 | 0 | 0 | 1 | 0 | 12 (0) | 31 |
 | 10 | 84 | 127 | 6 | 99 | 0 | 0 | 1 | 1 | 16 (1) | — |
 | 11 | 80 | 234 | 2 | 149 | 0 | 0 | 3 | 0 | 14 (1) | — |
-| 12 | 50 | 166 | 1 | 87 | 0 | 0 | 6 | 0 | 18 (4) | 10 |
+| 12 | 50 | 166 | 1 | 87 | 0 | 0 | 6 | 0 | 18 (2) | 10 |
 
 **Pages to check** are pages with a marking over no extractable text, a very short passage, or very little text. Open the PDF page and compare it with the proof image in `content/cbta/.cache/proof/`.
 
@@ -72,10 +72,8 @@ No paper contains viva questions, so viva practice will be derived from short qu
 | cblm05-sc2-q5 | no-answer-key-entry | How do you develop a Professional Development Plan? | — | 33 / — |
 | cblm10-sc2-q5 | restated-question-differs | How do you select appropriate technique for delivery? | • What do you want the activity to achieve? / • What can you do well? / • Can your learners u… | 62 / 63 |
 | cblm11-sc4-q2 | restated-question-differs | Give an example of a contingency question | (equipment broke down or something malfunctioned) | 71 / 72 |
-| cblm12-sc1-q3 | suspect-definition-mismatch | What is reasonable adjustment in CBT&A? | Reasonable adjustments are designed to ascertain that all people are treated equally / in t… | 35 / 36 |
 | cblm12-sc1-q9 | restated-question-differs | How would you determine if the evidence collected is valid? | • / relevant to the elements and performance criteria in the standard? / • / consistent with th… | 35 / 38 |
 | cblm12-sc1-q11 | restated-question-differs | How would you determine the candidate is competent or not yet competent? | Does the evidence address the critical aspects of the competence, the underpinning / knowle… | 35 / 39 |
-| cblm12-sc1-q17 | suspect-definition-mismatch | What are the benefits of providing feedback on assessment performance? | Feedback is beneficial both to the assessor and the candidate to provide for the / followin… | 35 / 41 |
 
 `suspect-definition-mismatch` means the answer defines a different term from the one asked, as in the known OSH error where "What is workplace hazard?" is answered with the definition of a *workplace*. `restated-question-differs` means the question as restated in the answer key doesn't match the Self Check question, so the pairing needs a manual look.
 

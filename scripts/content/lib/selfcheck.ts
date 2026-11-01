@@ -84,14 +84,20 @@ export function splitAnswer(text: string): { restated: string; answer: string } 
 export function definitionMismatch(question: string, answer: string): boolean {
   const q = /^\s*what\s+(?:is|are|do\s+you\s+mean\s+by)\s+(?:an?\s+|the\s+)?(.+?)\s*\?/i.exec(question);
   if (!q) return false;
-  const subject = tokens(q[1]);
-  const head = subject[subject.length - 1];
-  if (!head) return false;
-  const opening = tokens(answer).slice(0, 10);
+  // Drop qualifiers: "reasonable adjustment in CBT&A" → "reasonable adjustment".
+  const subject = tokens(q[1].split(/\s+(?:in|for|within|under|during)\s+/i)[0]);
+  // Only short "What is X?" subjects are definitions; "What are the benefits of …" is not.
+  if (!subject.length || subject.length > 4) return false;
+  const head = singular(subject[subject.length - 1]);
   const defines = /^\s*(?:an?\s+|the\s+)?([\w\s'-]{2,40}?)\s+(?:is|are|means|refers)\b/i.exec(answer);
   if (!defines) return false;
-  const defined = tokens(defines[1]);
-  return !defined.includes(head) && !opening.slice(0, 3).includes(head);
+  const defined = tokens(defines[1]).map(singular);
+  const opening = tokens(answer).slice(0, 3).map(singular);
+  return !defined.includes(head) && !opening.includes(head);
+}
+
+function singular(t: string): string {
+  return t.length > 3 ? t.replace(/s$/, "") : t;
 }
 
 export function pairSelfChecks(seg: Segmented, sourceId: string): SelfCheckPair[] {
