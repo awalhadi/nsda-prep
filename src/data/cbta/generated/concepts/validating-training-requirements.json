@@ -1,0 +1,500 @@
+{
+  "aliases": [
+    "Validating learner training requirements",
+    "Who validates training requirements"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 8,
+      "pages": [
+        {
+          "pdf": 10,
+          "printed": 10
+        },
+        {
+          "pdf": 11,
+          "printed": 11
+        }
+      ],
+      "src": "cblm08"
+    },
+    {
+      "cblm": 9,
+      "pages": [
+        {
+          "pdf": 21,
+          "printed": 21
+        }
+      ],
+      "src": "cblm09"
+    }
+  ],
+  "banglaExplanation": [
+    "Learner-এর কী training লাগবে, সেটা শুধু প্রশিক্ষক একা ঠিক করলে ভুল হতে পারে।",
+    "তাই experts, employers, assessors-দের সাথে মিলিয়ে training requirements যাচাই করতে হয়।",
+    "এতে training বাস্তব কাজের সাথে মিলে যায়।",
+    "পরীক্ষায় তালিকা চাইলে আটটা persons/officers-এর নাম লিখুন।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 3,
+    "repeat": 2
+  },
+  "cblmPrimary": 8,
+  "errata": [],
+  "example": {
+    "bn": "IT training centre তার course-এর চাহিদা employers আর BTEB assessors-দের সাথে মিলিয়ে নেয়।",
+    "en": "An IT training centre checks its course needs with local employers and BTEB registered assessors."
+  },
+  "highlighted": true,
+  "id": "validating-training-requirements",
+  "importance": {
+    "bn": "CBLM 9 Self Check 1 (Q3)-এ এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in CBLM 9 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "যাচাই করে ঠিক আছে কিনা নিশ্চিত করা",
+      "en": "Validate"
+    },
+    {
+      "bn": "learner-এর কী training দরকার",
+      "en": "Training requirements"
+    },
+    {
+      "bn": "যারা training-এর সাথে জড়িত",
+      "en": "Stakeholder"
+    },
+    {
+      "bn": "বাংলাদেশ কারিগরি শিক্ষা বোর্ড",
+      "en": "BTEB"
+    },
+    {
+      "bn": "পরামর্শ কমিটি",
+      "en": "Consultative Committees"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Experts in the trainees trade areas.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Experts in the trainees' trade areas."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Supervisors/ or trainees employers.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Supervisors or trainees' employers."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "passageId": "cblm08-p10-74c8aab1",
+            "printedPage": 10,
+            "quote": "Training providers, employers and human resources departments.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Training providers, employers and human resources departments."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "passageId": "cblm08-p10-3104741f",
+            "printedPage": 10,
+            "quote": "Trainers, Teachers and Assessors.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Trainers, Teachers and Assessors."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Participant Trainee/Learner who is advanced in skill.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Participant trainee or learner who is advanced in skill."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Government regulatory bodies.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Government regulatory bodies."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 11,
+            "passageId": "cblm08-p11-151fbfa8",
+            "printedPage": 11,
+            "quote": "Consultative Committees.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Consultative Committees."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "BTEB registered Assessors/Assessment Centers.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "BTEB registered Assessors or Assessment Centers."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 10,
+        "printedPage": 10,
+        "quote": "The learner training requirements can be validated with the following",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 10,
+        "passageId": "cblm08-p10-506e6c96",
+        "printedPage": 10,
+        "quote": "persons/officers.",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 10,
+        "printedPage": 10,
+        "quote": "Experts in the trainees trade areas.",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 10,
+        "printedPage": 10,
+        "quote": "Supervisors/ or trainees employers.",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 10,
+        "passageId": "cblm08-p10-3104741f",
+        "printedPage": 10,
+        "quote": "Trainers, Teachers and Assessors.",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Learner training requirements are validated with experts, employers, trainers and other persons/officers."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Experts in the trainees trade areas.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Experts",
+          "right": "Experts in the trainees trade areas"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Supervisors/ or trainees employers.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Supervisors",
+          "right": "Supervisors or trainees employers"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Participant Trainee/Learner who is advanced in skill.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Participant",
+          "right": "Trainee/Learner who is advanced in skill"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "BTEB registered Assessors/Assessment Centers.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "BTEB",
+          "right": "Registered Assessors/Assessment Centers"
+        }
+      ],
+      "prompt": "Match each group with its full name in the list."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 8,
+        "match": "exact",
+        "page": 10,
+        "printedPage": 10,
+        "quote": "Government regulatory bodies.",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Government regulatory bodies",
+        "Learners' parents",
+        "Book publishers",
+        "Equipment suppliers"
+      ],
+      "prompt": "Which of these is listed for validating learner training requirements?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "The learner training requirements can be validated with the following",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "passageId": "cblm08-p10-506e6c96",
+              "printedPage": 10,
+              "quote": "persons/officers.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Training requirements are validated with persons or officers."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Training providers, employers and human resources departments.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Employers and human resources departments are included."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "BTEB registered Assessors/Assessment Centers.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "BTEB registered Assessors or Assessment Centers are included."
+        }
+      ],
+      "modelAnswer": "Learner training requirements can be validated with these persons/officers:\n1. Experts in the trainees' trade areas\n2. Supervisors or trainees' employers\n3. Training providers, employers and HR departments\n4. Trainers, teachers and assessors\n5. Advanced participant trainees/learners\n6. Government regulatory bodies\n7. Consultative committees\n8. BTEB registered assessors/assessment centers",
+      "prompt": "With whom can learner training requirements be validated?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Experts in the trainees trade areas.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Trainers, Teachers and Assessors.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Experts in the trainees' trade areas. Trainers, teachers and assessors."
+      },
+      "prompt": "Name two people who can validate learner training requirements."
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "The learner training requirements can be validated with the following\npersons/officers.\n•\nTrainers, Teachers and Assessors.\n•\nSupervisors/ or trainees employers.\n•\nParticipant Trainee/Learner who is advanced in skill.\n•\nExperts in the Trainees Trade Areas.\n•\nGovernment Regulatory bodies.\n•\nConsultative Committees.\n•\nTraining Providers, employers and human resources departments.\n•\nAssessors/Assessment Centers.",
+      "flags": [],
+      "id": "cblm09-sc1-q3",
+      "kind": "selfcheck",
+      "label": "CBLM 9 Self Check 1 (Q3)",
+      "page": 23,
+      "printedPage": 23,
+      "question": "Name at least three different persons/officers who can validate your trainees\ntraining requirements.",
+      "src": "cblm09",
+      "type": "short"
+    }
+  ],
+  "score": 7,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Validating Training Requirements",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 11,
+          "printedPage": 11,
+          "quote": "Consultative Committees.",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 11,
+          "printedPage": 11,
+          "quote": "BTEB registered Assessors/Assessment Centers.",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Consultative Committees and BTEB registered Assessors are also on the list."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 10,
+          "printedPage": 10,
+          "quote": "Participant Trainee/Learner who is advanced in skill.",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 10,
+          "printedPage": 10,
+          "quote": "The learner training requirements can be validated with the following",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "An advanced trainee or learner can also help validate training requirements."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 1
+}

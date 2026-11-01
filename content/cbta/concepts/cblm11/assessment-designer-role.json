@@ -1,0 +1,308 @@
+{
+  "id": "assessment-designer-role",
+  "canonical_title": "Roles and Responsibilities of an Assessment Designer",
+  "aliases": [
+    "Role of an assessment designer",
+    "Assessment designer responsibilities"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p38-e973a64c",
+    "cblm11-p38-789ef3d6",
+    "cblm11-p38-48b98692",
+    "cblm11-p38-07d022a6"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "An assessment designer should understand TVET, CB assessment, evidence, planning and validation.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 38,
+        "quote": "Roles and responsibilities of an assessment designer",
+        "passageId": "cblm11-p38-e973a64c"
+      },
+      {
+        "src": "cblm11",
+        "page": 38,
+        "quote": "have clear concept of TVET environment"
+      },
+      {
+        "src": "cblm11",
+        "page": 38,
+        "quote": "have clear concept of competency based assessment system"
+      },
+      {
+        "src": "cblm11",
+        "page": 38,
+        "quote": "be clear about evidence requirements in CB assessment"
+      },
+      {
+        "src": "cblm11",
+        "page": 38,
+        "quote": "be competent in assessment planning and designing assessment instruments"
+      },
+      {
+        "src": "cblm11",
+        "page": 38,
+        "quote": "be clear about assessment validation process"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Assessment designer",
+      "bn": "যিনি assessment plan ও instrument তৈরি করেন"
+    },
+    {
+      "en": "TVET environment",
+      "bn": "কারিগরি ও বৃত্তিমূলক শিক্ষার পরিবেশ"
+    },
+    {
+      "en": "Evidence requirements",
+      "bn": "কোন কোন প্রমাণ লাগবে তার চাহিদা"
+    },
+    {
+      "en": "Assessment instruments",
+      "bn": "প্রশ্ন বা কাজ, যা দিয়ে প্রমাণ সংগ্রহ হয়"
+    },
+    {
+      "en": "Validation process",
+      "bn": "assessment ঠিক আছে কিনা যাচাইয়ের প্রক্রিয়া"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment designer হলেন যিনি assessment-এর পরিকল্পনা আর instruments বানান।",
+    "ভালো designer হতে হলে TVET environment আর competency based assessment system পরিষ্কার জানতে হবে।",
+    "কোন evidence requirements লাগবে, সেটা না বুঝলে ঠিক instruments বানানো যায় না।",
+    "শেষে assessment validation process-ও জানতে হবে, যাতে assessment ঠিক আছে কিনা যাচাই করা যায়।"
+  ],
+  "example": {
+    "en": "A trainer at a TVET institute designs a garments assessment. She plans it and writes the checklist.",
+    "bn": "গার্মেন্টস ট্রেডের assessment-এর plan আর checklist যিনি বানান, তিনিই assessment designer।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Have clear concept of TVET environment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "have clear concept of TVET environment"
+          }
+        ]
+      },
+      {
+        "text": "Have clear concept of competency based assessment system",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "have clear concept of competency based assessment system"
+          }
+        ]
+      },
+      {
+        "text": "Be clear about evidence requirements in CB assessment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "be clear about evidence requirements in CB assessment"
+          }
+        ]
+      },
+      {
+        "text": "Be competent in assessment planning and designing assessment instruments",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "be competent in assessment planning and designing assessment instruments"
+          }
+        ]
+      },
+      {
+        "text": "Be clear about assessment validation process",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "be clear about assessment validation process"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Be clear about evidence requirements in CB assessment.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 38,
+          "quote": "be clear about evidence requirements in CB assessment"
+        },
+        {
+          "src": "cblm11",
+          "page": 38,
+          "quote": "clear concept of competency based assessment system",
+          "passageId": "cblm11-p38-48b98692"
+        }
+      ]
+    },
+    {
+      "text": "Be competent in assessment planning and designing assessment instruments.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 38,
+          "quote": "be competent in assessment planning and designing assessment instruments"
+        },
+        {
+          "src": "cblm11",
+          "page": 38,
+          "quote": "be clear about assessment validation process",
+          "passageId": "cblm11-p38-07d022a6"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the roles and responsibilities of an assessment designer?",
+      "modelAnswer": "The assessment designer should:\n1. Have a clear concept of the TVET environment\n2. Have a clear concept of the competency based assessment system\n3. Be clear about evidence requirements in CB assessment\n4. Be competent in assessment planning and designing assessment instruments\n5. Be clear about the assessment validation process",
+      "keyPoints": [
+        {
+          "text": "The designer must have clear concept of TVET environment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 38,
+              "quote": "have clear concept of TVET environment",
+              "passageId": "cblm11-p38-789ef3d6"
+            }
+          ]
+        },
+        {
+          "text": "The designer must be clear about the assessment validation process.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 38,
+              "quote": "be clear about assessment validation process"
+            }
+          ]
+        },
+        {
+          "text": "The designer must be competent in designing assessment instruments.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 38,
+              "quote": "be competent in assessment planning and designing assessment instruments"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a responsibility of an assessment designer?",
+      "options": [
+        "Signing the candidate's certificate",
+        "Being competent in designing assessment instruments",
+        "Collecting fees from candidates",
+        "Teaching every session of the course"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 38,
+        "quote": "be competent in assessment planning and designing assessment instruments"
+      }
+    },
+    "matching": {
+      "prompt": "Match each area with what the assessment designer should do.",
+      "pairs": [
+        {
+          "left": "TVET environment",
+          "right": "Have a clear concept of it",
+          "cite": {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "have clear concept of TVET environment"
+          }
+        },
+        {
+          "left": "CB assessment system",
+          "right": "Have clear concept of competency based assessment",
+          "cite": {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "have clear concept of competency based assessment system"
+          }
+        },
+        {
+          "left": "Evidence requirements",
+          "right": "Be clear about them in CB assessment",
+          "cite": {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "be clear about evidence requirements in CB assessment"
+          }
+        },
+        {
+          "left": "Assessment instruments",
+          "right": "Be competent in designing them",
+          "cite": {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "be competent in assessment planning and designing assessment instruments"
+          }
+        },
+        {
+          "left": "Validation process",
+          "right": "Be clear about assessment validation",
+          "cite": {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "be clear about assessment validation process"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why must an assessment designer know the evidence requirements?",
+      "answer": {
+        "text": "The designer must be clear about evidence requirements in CB assessment. Then instruments can be designed.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "be clear about evidence requirements in CB assessment"
+          },
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "be competent in assessment planning and designing assessment instruments"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

@@ -1,0 +1,214 @@
+{
+  "id": "links-between-sessions",
+  "canonical_title": "Links Between Learning Sessions",
+  "aliases": [
+    "Why provide links in learning sessions?",
+    "Providing links between learning sessions"
+  ],
+  "cblmPrimary": 9,
+  "source_type": "cblm",
+  "covers": [
+    "cblm09-p39-acb033af",
+    "cblm09-p45-6fe3dfe3",
+    "cblm09-p47-85b56625"
+  ],
+  "questions": [
+    "cblm09-sc2-q4"
+  ],
+  "one_line_answer": {
+    "text": "Links help learners tie new information into existing knowledge.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm09",
+        "page": 39,
+        "quote": "Providing links between learning sessions meets two of the key learning principles identified earlier: that learners remember best the first and last points of a learning session, and that learners need to tie new information into existing knowledge.",
+        "passageId": "cblm09-p39-acb033af"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Links",
+      "bn": "আগের ও পরের শেখার সাথে সংযোগ"
+    },
+    {
+      "en": "Existing knowledge",
+      "bn": "যা learner আগে থেকেই জানে"
+    },
+    {
+      "en": "Introduction",
+      "bn": "session-এর শুরু"
+    },
+    {
+      "en": "Review",
+      "bn": "session-এর শেষ অংশ"
+    },
+    {
+      "en": "Comparison",
+      "bn": "তুলনা দিয়ে বোঝানো"
+    }
+  ],
+  "bangla_explanation": [
+    "নতুন কিছু শিখলে আমরা সেটাকে জানা জিনিসের সাথে link করি।",
+    "Learners session-এর first আর last points সবচেয়ে ভালো মনে রাখে।",
+    "তাই introduction-এ আগের session-এর key points বলুন, review-তে পরের session-এর কথা বলুন।",
+    "একদম নতুন বিষয় হলে life experience বা comparison দিয়ে বোঝান।"
+  ],
+  "example": {
+    "en": "Yesterday trainees learned to change a car tyre. Today the trainer starts by recalling it before teaching wheel alignment.",
+    "bn": "আগের ক্লাসের কথা মনে করিয়ে নতুন বিষয় শুরু করুন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Learners remember best the first and last points of a learning session.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 39,
+            "quote": "Providing links between learning sessions meets two of the key learning principles identified earlier: that learners remember best the first and last points of a learning session, and that learners need to tie new information into existing knowledge."
+          }
+        ]
+      },
+      {
+        "text": "Learners need to tie new information into existing knowledge.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 39,
+            "quote": "Providing links between learning sessions meets two of the key learning principles identified earlier: that learners remember best the first and last points of a learning session, and that learners need to tie new information into existing knowledge."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "New television: you link in to existing knowledge to know the control switches.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 39,
+          "quote": "you would link in to your existing knowledge of televisions and know what control switches to look for"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Why do you need to provide links in learning sessions?",
+      "modelAnswer": "Links meet two key learning principles:\n1. Learners remember best the first and last points of a session.\n2. Learners need to tie new information into existing knowledge.\nIn the introduction, summarise the previous session. In the review, relate this session to the next.",
+      "keyPoints": [
+        {
+          "text": "In your introduction, summarise the key points from the previous session.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 39,
+              "quote": "you should, in your introduction, summarise the key points from the previous session"
+            }
+          ]
+        },
+        {
+          "text": "In your review, refer to how this session will relate to the next.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 47,
+              "quote": "In your review, you should refer to how this session will relate to the next.",
+              "passageId": "cblm09-p47-85b56625"
+            }
+          ]
+        },
+        {
+          "text": "For new material, relate it to life experience or an appropriate comparison.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 39,
+              "quote": "If you are introducing completely new material, you should try to relate the information to something that the learners will already know, either through life experience or by use of an appropriate comparison."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which learning principle do links between sessions meet?",
+      "options": [
+        "Learners remember best the first and last points",
+        "Learners learn best without feedback",
+        "Sessions should never overlap",
+        "Theory should come without practice"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm09",
+        "page": 39,
+        "quote": "Providing links between learning sessions meets two of the key learning principles identified earlier: that learners remember best the first and last points of a learning session, and that learners need to tie new information into existing knowledge."
+      }
+    },
+    "matching": {
+      "prompt": "Match each part with how to link.",
+      "pairs": [
+        {
+          "left": "Introduction",
+          "right": "Summarise key points from the previous session",
+          "cite": {
+            "src": "cblm09",
+            "page": 39,
+            "quote": "you should, in your introduction, summarise the key points from the previous session"
+          }
+        },
+        {
+          "left": "Review",
+          "right": "Refer to how this session relates to the next",
+          "cite": {
+            "src": "cblm09",
+            "page": 39,
+            "quote": "In your review, you should refer to how this session will relate to the next."
+          }
+        },
+        {
+          "left": "Completely new material",
+          "right": "Relate to life experience or comparison",
+          "cite": {
+            "src": "cblm09",
+            "page": 39,
+            "quote": "If you are introducing completely new material, you should try to relate the information to something that the learners will already know, either through life experience or by use of an appropriate comparison."
+          }
+        },
+        {
+          "left": "New television",
+          "right": "Link to existing knowledge of televisions",
+          "cite": {
+            "src": "cblm09",
+            "page": 39,
+            "quote": "you would link in to your existing knowledge of televisions"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why do you need to provide links in learning sessions?",
+      "answer": {
+        "text": "Learners remember the first and last points best. They need to tie new information into existing knowledge.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 39,
+            "quote": "Providing links between learning sessions meets two of the key learning principles identified earlier: that learners remember best the first and last points of a learning session, and that learners need to tie new information into existing knowledge."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

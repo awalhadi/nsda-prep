@@ -1,0 +1,305 @@
+{
+  "id": "good-information-sheet",
+  "canonical_title": "Characteristics of a Good Information Sheet",
+  "aliases": [
+    "Good information sheet",
+    "Information sheet characteristics"
+  ],
+  "cblmPrimary": 8,
+  "source_type": "cblm",
+  "covers": [
+    "cblm08-p28-e1209806"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "A good information sheet contains information essential to the attainment of the learning outcomes.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm08",
+        "page": 28,
+        "quote": "Characteristics of a Good Information Sheet",
+        "passageId": "cblm08-p28-e1209806"
+      },
+      {
+        "src": "cblm08",
+        "page": 28,
+        "quote": "Contains information essential to the attainment of the learning outcomes;"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Copyright",
+      "bn": "লেখকের স্বত্ব, অনুমতি ছাড়া কপি করা যায় না"
+    },
+    {
+      "en": "Legible",
+      "bn": "পরিষ্কারভাবে পড়া যায় এমন"
+    },
+    {
+      "en": "Reading level",
+      "bn": "শিক্ষার্থী কতটা কঠিন লেখা পড়তে পারে"
+    },
+    {
+      "en": "Uncommon terms",
+      "bn": "অপরিচিত শব্দ"
+    },
+    {
+      "en": "Acknowledgement",
+      "bn": "যেখান থেকে নেওয়া তার স্বীকৃতি"
+    }
+  ],
+  "bangla_explanation": [
+    "Information sheet-এ সেই তথ্য থাকে যা learning outcomes অর্জনের জন্য দরকারি।",
+    "ভালো information sheet copyright law ভাঙে না, আর কপি করা অংশের acknowledgement দেয়।",
+    "Title দেখেই বোঝা যায় sheet-এ কী আছে, আর ভাষা শিক্ষার্থীর reading level অনুযায়ী হয়।",
+    "Layout আর drawings সুন্দর ও legible হয়, আর uncommon terms আলাদা করে চিহ্ন দেওয়া থাকে।"
+  ],
+  "example": {
+    "en": "An electrical trainer marks uncommon terms like 'earthing' for further defining.",
+    "bn": "Electrical trainer কঠিন শব্দ যেমন 'earthing' চিহ্ন দিয়ে পরে ব্যাখ্যা করেন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Free from violation of copyright law",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Free from violation of copyright law;"
+          }
+        ]
+      },
+      {
+        "text": "Contains information essential to the attainment of the learning outcomes",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Contains information essential to the attainment of the learning outcomes;"
+          }
+        ]
+      },
+      {
+        "text": "Has a title that gives some idea of the coverage of the sheet",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Has a title that gives some idea of the coverage of the sheet;"
+          }
+        ]
+      },
+      {
+        "text": "Content and presentation suit the interest and reading level of the learner.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Approach in terms of content and presentation is appropriate to the interest"
+          },
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "and reading level of the learner;"
+          }
+        ]
+      },
+      {
+        "text": "The layout, text and drawings are attractive in appearance and legible",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "The layout, text and drawings are attractive in appearance and legible;"
+          }
+        ]
+      },
+      {
+        "text": "Has uncommon terms marked for further defining",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Has uncommon terms marked for further defining"
+          }
+        ]
+      },
+      {
+        "text": "Has acknowledgement per copied part of the sheet.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Has acknowledgement per copied part of the sheet."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Copied parts are allowed only with acknowledgement and no copyright violation.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 28,
+          "quote": "Free from violation of copyright law;"
+        },
+        {
+          "src": "cblm08",
+          "page": 28,
+          "quote": "Has acknowledgement per copied part of the sheet."
+        }
+      ]
+    },
+    {
+      "text": "The information sheet supports the job sheet with underpinning knowledge.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 27,
+          "quote": "The information supports the job sheet; i,e to perform the job required underpinning"
+        },
+        {
+          "src": "cblm08",
+          "page": 27,
+          "quote": "knowledge are included in the information sheet."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Write the characteristics of a good information sheet.",
+      "modelAnswer": "A good information sheet:\n1. Is free from violation of copyright law\n2. Contains information essential to the learning outcomes\n3. Has a title that shows the coverage of the sheet\n4. Suits the interest and reading level of the learner\n5. Has attractive and legible layout, text and drawings\n6. Has uncommon terms marked for further defining\n7. Has acknowledgement per copied part",
+      "keyPoints": [
+        {
+          "text": "It contains information essential to the attainment of the learning outcomes.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 28,
+              "quote": "Contains information essential to the attainment of the learning outcomes;"
+            }
+          ]
+        },
+        {
+          "text": "Its approach suits the interest and reading level of the learner.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 28,
+              "quote": "Approach in terms of content and presentation is appropriate to the interest"
+            },
+            {
+              "src": "cblm08",
+              "page": 28,
+              "quote": "and reading level of the learner;"
+            }
+          ]
+        },
+        {
+          "text": "It is free from violation of copyright law.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 28,
+              "quote": "Free from violation of copyright law;"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a characteristic of a good information sheet?",
+      "options": [
+        "It has uncommon terms marked for further defining",
+        "It contains as much theory as possible",
+        "It copies material without acknowledgement",
+        "It has no title, so learners read everything"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm08",
+        "page": 28,
+        "quote": "Has uncommon terms marked for further defining"
+      }
+    },
+    "matching": {
+      "prompt": "Match each feature of a good information sheet with its requirement.",
+      "pairs": [
+        {
+          "left": "Title",
+          "right": "Gives some idea of the coverage of the sheet",
+          "cite": {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Has a title that gives some idea of the coverage of the sheet;"
+          }
+        },
+        {
+          "left": "Layout, text and drawings",
+          "right": "Attractive in appearance and legible",
+          "cite": {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "The layout, text and drawings are attractive in appearance and legible;"
+          }
+        },
+        {
+          "left": "Uncommon terms",
+          "right": "Marked for further defining",
+          "cite": {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Has uncommon terms marked for further defining"
+          }
+        },
+        {
+          "left": "Copied part",
+          "right": "Has acknowledgement",
+          "cite": {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Has acknowledgement per copied part of the sheet."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What must you do if you copy part of an information sheet from another source?",
+      "answer": {
+        "text": "Give acknowledgement for each copied part. The sheet must be free from copyright violation.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Has acknowledgement per copied part of the sheet."
+          },
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Free from violation of copyright law;"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

@@ -5,6 +5,16 @@
   ],
   "appearsIn": [
     {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 8,
+          "printed": 8
+        }
+      ],
+      "src": "cblm11"
+    },
+    {
       "cblm": 12,
       "pages": [
         {
@@ -22,9 +32,9 @@
     "আগে থেকে এগুলো ঠিক করে রাখলে assessment ঠিকমতো, expected ভাবে হয়।"
   ],
   "breakdown": {
-    "exam": 0,
-    "highlight": 2,
-    "repeat": 1
+    "exam": 2,
+    "highlight": 3,
+    "repeat": 2
   },
   "cblmPrimary": 12,
   "errata": [],
@@ -35,8 +45,8 @@
   "highlighted": true,
   "id": "context-of-assessment",
   "importance": {
-    "bn": "CBLM 12-এ highlight করা আছে।",
-    "en": "Highlighted in CBLM 12."
+    "bn": "CBLM 11 Self Check 1 (Q4)-এ এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in CBLM 11 Self Check 1 (Q4). Highlighted in CBLM 12. Comes as short question."
   },
   "keywords": [
     {
@@ -60,7 +70,9 @@
       "en": "Real work"
     }
   ],
-  "likelyTypes": [],
+  "likelyTypes": [
+    "short"
+  ],
   "listAnswer": {
     "declaredCount": null,
     "items": [
@@ -305,8 +317,21 @@
       "prompt": "Which two kinds of environment does the context include?"
     }
   },
-  "realQuestions": [],
-  "score": 3,
+  "realQuestions": [
+    {
+      "answer": "The context of assessment is the environment or setting in which the assessment\nactivity takes place. The environment may be prepared and established prior to\nthe assessment as this will ensure that the assessment process will take place as\nexpected.",
+      "flags": [],
+      "id": "cblm11-sc1-q4",
+      "kind": "selfcheck",
+      "label": "CBLM 11 Self Check 1 (Q4)",
+      "page": 25,
+      "printedPage": 25,
+      "question": "What do you understand by context of assessment",
+      "src": "cblm11",
+      "type": "short"
+    }
+  ],
+  "score": 7,
   "sourceType": "cblm",
   "stars": 2,
   "status": "draft",
@@ -344,5 +369,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 0
+  "warnings": 1
 }

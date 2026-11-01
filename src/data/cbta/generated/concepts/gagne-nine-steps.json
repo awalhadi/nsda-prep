@@ -1,0 +1,565 @@
+{
+  "aliases": [
+    "Robert Gagné's model",
+    "Nine steps that can assist you in your writing"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 8,
+      "pages": [
+        {
+          "pdf": 19,
+          "printed": 19
+        },
+        {
+          "pdf": 35,
+          "printed": 35
+        }
+      ],
+      "src": "cblm08"
+    },
+    {
+      "cblm": 9,
+      "pages": [
+        {
+          "pdf": 38,
+          "printed": 38
+        },
+        {
+          "pdf": 39,
+          "printed": 39
+        }
+      ],
+      "src": "cblm09"
+    }
+  ],
+  "banglaExplanation": [
+    "Learning materials লিখতে বসে অনেক trainer গুছিয়ে উঠতে পারেন না।",
+    "Robert-এর এই model একটা structured approach দেয়, মোট nine steps।",
+    "শুরু হয় attention ধরা দিয়ে, শেষ হয় retention and transfer দিয়ে।",
+    "মাঝখানে practice, feedback আর assess performance থাকে, তাই শেখা পাকা হয়।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 3,
+    "repeat": 2
+  },
+  "cblmPrimary": 8,
+  "errata": [],
+  "example": {
+    "bn": "Welding class শুরুতে একটা ছোট গল্প বলে attention ধরা, তারপর objectives বলা।",
+    "en": "A welding trainer starts with a short story to gain attention. Then he states the objectives."
+  },
+  "highlighted": true,
+  "id": "gagne-nine-steps",
+  "importance": {
+    "bn": "CBLM 8 Self Check 1 (Q3)-এ এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in CBLM 8 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "ধাপে ধাপে সাজানো পদ্ধতি",
+      "en": "Structured approach"
+    },
+    {
+      "bn": "শেখার লক্ষ্য",
+      "en": "Objectives"
+    },
+    {
+      "bn": "আগে থেকে জানা জ্ঞান",
+      "en": "Prior knowledge"
+    },
+    {
+      "bn": "কাজের পর মতামত, ঠিক-ভুল জানানো",
+      "en": "Feedback"
+    },
+    {
+      "bn": "মনে রাখা ও কাজে লাগানো",
+      "en": "Retention and transfer"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Gain Attention - to orientate and motivate the learner",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Gain Attention: to orientate and motivate the learner."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "passageId": "cblm08-p19-cbc5e52c",
+            "printedPage": 19,
+            "quote": "Inform Learners of Objectives - to guide learners and to assist them to",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "organize their thoughts around what they are about to learn",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Inform Learners of Objectives: to guide learners and organize their thoughts."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Stimulate Recall of Prior Knowledge - because adults learn by establishing",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "passageId": "cblm08-p19-ef632290",
+            "printedPage": 19,
+            "quote": "relationships with what they know and a new knowledge or skill",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Stimulate Recall of Prior Knowledge: adults learn by linking new learning to what they know."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Present the material - in a way that appeals to the different learning",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "references and is easy to digest",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Present the material: in a way that is easy to digest."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Provide guidance for learning - by providing opportunities to integrate new",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "information into their existing knowledge base",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Provide guidance for learning: help integrate new information into existing knowledge."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "passageId": "cblm08-p19-c49be161",
+            "printedPage": 19,
+            "quote": "Elicit performance by providing safe opportunities to practice",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Elicit performance by providing safe opportunities to practice."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Provide feedback - to reinforce or correct learning",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Provide feedback: to reinforce or correct learning."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Assess performance - learners should be given the opportunity for",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "assessment to gain recognition of their success in learning",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assess performance: learners gain recognition of their success in learning."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Enhance retention and transfer - by encouraging learner to plan the",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "application of what they have learnt",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Enhance retention and transfer: encourage learners to plan applying what they learnt."
+      }
+    ]
+  },
+  "mnemonic": {
+    "explain_bn": "শুরুতে মনোযোগ, মাঝে শেখানো আর practice, শেষে assess আর মনে রাখা — এই ক্রমে মনে রাখুন।",
+    "text": "Gain, Inform, Stimulate, Present, Guide, Elicit, Feedback, Assess, Enhance"
+  },
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 19,
+        "printedPage": 19,
+        "quote": "you may find Robert",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 19,
+        "passageId": "cblm08-p19-1e58a7b7",
+        "printedPage": 19,
+        "quote": "Gagné's (1999) model useful in providing a structured approach to developing your",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 19,
+        "printedPage": 19,
+        "quote": "This provides a nine steps that can assist you in your writing:",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Robert Gagné's model provides nine steps that can assist you in your writing."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Gain Attention - to orientate and motivate the learner",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Gain Attention",
+          "right": "Orientate and motivate the learner"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Inform Learners of Objectives - to guide learners and to assist them to",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Inform Learners of Objectives",
+          "right": "Guide learners"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Provide feedback - to reinforce or correct learning",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Provide feedback",
+          "right": "Reinforce or correct learning"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Enhance retention and transfer - by encouraging learner to plan the",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Enhance retention and transfer",
+          "right": "Encourage learner to plan the application"
+        }
+      ],
+      "prompt": "Match each step with its purpose."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 8,
+        "match": "exact",
+        "page": 19,
+        "printedPage": 19,
+        "quote": "Gain Attention - to orientate and motivate the learner",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      "answerIndex": 2,
+      "options": [
+        "Provide feedback",
+        "Assess performance",
+        "Gain Attention",
+        "Present the material"
+      ],
+      "prompt": "In Gagné's model, which step comes first?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Gagné's (1999) model useful in providing a structured approach to developing your",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Gagné's model gives a structured approach to developing your materials."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Provide feedback - to reinforce or correct learning",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Feedback reinforces or corrects learning."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Elicit performance by providing safe opportunities to practice",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Practice opportunities must be safe."
+        }
+      ],
+      "modelAnswer": "Robert Gagné's nine steps:\n1. Gain Attention\n2. Inform Learners of Objectives\n3. Stimulate Recall of Prior Knowledge\n4. Present the material\n5. Provide guidance for learning\n6. Elicit performance (safe practice)\n7. Provide feedback\n8. Assess performance\n9. Enhance retention and transfer",
+      "prompt": "Write down the nine steps that can assist you in your writing."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Stimulate Recall of Prior Knowledge - because adults learn by establishing",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "relationships with what they know and a new knowledge or skill",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Adults learn by establishing relationships between what they know and new knowledge or skill."
+      },
+      "prompt": "Why do we stimulate recall of prior knowledge?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Nine steps that can assist you in your writing:\n•\nGain Attention - to orientate and motivate the learner\n•\nInform Learners of Objectives - to guide learners and to assist them to\norganize their thoughts around what they are about to learn\n•\nStimulate Recall of Prior Knowledge - because adults learn by establishing\nrelationships with what they know and a new knowledge or skill\n•\nPresent the material - in a way that appeals to the different learning\nreferences and is easy to digest\n•\nProvide guidance for learning - by providing opportunities to integrate new\ninformation into their existing knowledge base\n•\nElicit performance by providing safe opportunities to practice\n•\nProvide feedback - to reinforce or correct learning\n•\nAssess performance - learners should be given the opportunity for\nassessment to gain recognition of their success in learning\n•\nEnhance retention and transfer - by encouraging learner to plan the\napplication of what they have learnt",
+      "flags": [],
+      "id": "cblm08-sc1-q3",
+      "kind": "selfcheck",
+      "label": "CBLM 8 Self Check 1 (Q3)",
+      "page": 33,
+      "printedPage": 33,
+      "question": "Write down the nine steps that can assist you in your writing?",
+      "src": "cblm08",
+      "type": "short"
+    }
+  ],
+  "score": 7,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Gagné's Nine Steps for Writing Learning Materials",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "This provides a nine steps that can assist you in your writing:",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "Gain Attention - to orientate and motivate the learner",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "Gagné's (1999) model useful in providing a structured approach to developing your",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Gagné's model provides nine steps. Gain Attention comes first."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "Provide feedback - to reinforce or correct learning",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "Assess performance - learners should be given the opportunity for",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "Enhance retention and transfer - by encouraging learner to plan the",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Provide feedback comes before Assess performance. Enhance retention and transfer is last."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 1
+}

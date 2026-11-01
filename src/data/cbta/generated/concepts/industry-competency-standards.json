@@ -1,0 +1,564 @@
+{
+  "aliases": [
+    "Competency standards",
+    "Competency standard"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 8,
+      "pages": [
+        {
+          "pdf": 6,
+          "printed": 6
+        }
+      ],
+      "src": "cblm08"
+    },
+    {
+      "cblm": 9,
+      "pages": [
+        {
+          "pdf": 13,
+          "printed": 13
+        }
+      ],
+      "src": "cblm09"
+    }
+  ],
+  "banglaExplanation": [
+    "Competency standard ঠিক করে দেয় চাকরিতে কাজ করতে কী skills, knowledge আর attitudes লাগবে।",
+    "এটা industry নিজে ঠিক করে, প্রশিক্ষক বা প্রতিষ্ঠান না।",
+    "এর ভেতরে থাকে units of competency, আর প্রতিটি unit-এ থাকে elements of competency।",
+    "সাথে থাকে performance criteria, range of variables আর evidence guide।",
+    "প্রশিক্ষক হিসেবে আপনার training আর learning materials এই standard মেনেই বানাতে হবে।"
+  ],
+  "breakdown": {
+    "exam": 12,
+    "highlight": 3,
+    "repeat": 2
+  },
+  "cblmPrimary": 8,
+  "errata": [],
+  "example": {
+    "bn": "গার্মেন্টসের sewing operator-এর standard বলে দেয় কাজে কী কী জানতে ও পারতে হবে।",
+    "en": "A garments sewing standard lists the skills and knowledge a sewing operator needs."
+  },
+  "highlighted": true,
+  "id": "industry-competency-standards",
+  "importance": {
+    "bn": "Short Questions (Short 29), Unit 01 Questions (MCQ 4), Unit 01 Answers (MCQ 4), Final Formative 01 (Short 16), CBLM 8 Self Check 1 (Q1) আর CBLM 9 Self Check 1 (Q4): 6 জায়গায় এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Short Questions (Short 29), Unit 01 Questions (MCQ 4), Unit 01 Answers (MCQ 4), Final Formative 01 (Short 16), CBLM 8 Self Check 1 (Q1) and CBLM 9 Self Check 1 (Q4). Highlighted in CBLM 8. Comes as MCQ and short question."
+  },
+  "keywords": [
+    {
+      "bn": "শিল্প-নির্ধারিত কাজের মানদণ্ড",
+      "en": "Competency standard"
+    },
+    {
+      "bn": "কাজ কেমন করে করতে হবে তার বিবরণ",
+      "en": "Specification of performance"
+    },
+    {
+      "bn": "competency standard-এর একটি অংশ (UoC)",
+      "en": "Unit of competency"
+    },
+    {
+      "bn": "unit-এর ভেতরের ছোট কাজ",
+      "en": "Element of competency"
+    },
+    {
+      "bn": "assessment কীভাবে হবে তার নির্দেশিকা",
+      "en": "Evidence guide"
+    }
+  ],
+  "likelyTypes": [
+    "mcq",
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "passageId": "cblm08-p6-819ae2f2",
+            "printedPage": 6,
+            "quote": "skills, knowledge and attitude requirements for the level of work",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Skills, knowledge and attitude requirements for the level of work."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "quality indicators",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Quality indicators."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "national qualifications that a person can receive who has been assessed as",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "competent against the national standards",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "National qualifications a person can receive when assessed as competent."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "learning strategies that provide guidance about the organisation of training,",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "including implementation guidelines and training/learning materials",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Learning strategies that guide the organisation of training, including learning materials."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "assessment guidelines",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Assessment guidelines."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "assessment methods and materials",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Assessment methods and materials."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 6,
+        "passageId": "cblm08-p6-060c7c9a",
+        "printedPage": 6,
+        "quote": "industry-determined specifications of performance, which set out the skills,",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 6,
+        "printedPage": 6,
+        "quote": "knowledge and attitudes required to operate effectively in employment",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 6,
+        "passageId": "cblm08-p6-b2a3625d",
+        "printedPage": 6,
+        "quote": "Industry competency standards, often referred to as 'competency standards' are",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Competency standards are industry-determined specifications of performance. They set out the skills, knowledge and attitudes required to operate effectively in employment."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "standards are made up of units of competency, which are themselves made up of",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Competency standards",
+          "right": "Made up of units of competency"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "standards are made up of units of competency, which are themselves made up of",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Units of competency",
+          "right": "Made up of elements of competency"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "An industry competency standard includes:",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Quality indicators",
+          "right": "Included in an industry competency standard"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "assessment methods and materials",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Assessment guidelines",
+          "right": "Included with assessment methods and materials"
+        }
+      ],
+      "prompt": "Match each item with what a competency standard says about it."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 8,
+        "match": "exact",
+        "page": 6,
+        "printedPage": 6,
+        "quote": "industry-determined specifications of performance, which set out the skills,",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      "answerIndex": 2,
+      "options": [
+        "Work schedules and hours",
+        "Employee salaries and benefits",
+        "Specifications of performance required in employment",
+        "Workplace attire and appearance"
+      ],
+      "prompt": "What are industry competency standards mainly designed to specify?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "standards are made up of units of competency, which are themselves made up of",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Competency standards are made up of units of competency."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "elements of competency, together with performance criteria, a range of variables,",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "and an evidence guide.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Units contain elements of competency, performance criteria, a range of variables and an evidence guide."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "They identify the key competencies that a worker needs to competently work in",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "industry in a particular occupation",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The standards identify the key competencies a worker needs in a particular occupation."
+        }
+      ],
+      "modelAnswer": "Competency standards are industry-determined specifications of performance. They set out the skills, knowledge and attitudes required to operate effectively in employment.\nThey are made up of:\n1. Units of competency\n2. Elements of competency\n3. Performance criteria\n4. A range of variables\n5. An evidence guide",
+      "prompt": "What is a competency standard? What is it made up of?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "industry-determined specifications of performance, which set out the skills,",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "knowledge and attitudes required to operate effectively in employment",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Industry determines them. They set out the skills, knowledge and attitudes needed in employment."
+      },
+      "prompt": "Who determines competency standards, and what do they set out?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Competency standards are industry-determined specifications of performance, which\nset out the skills, knowledge and attitudes required to operate effectively in\nemployment. Competency standards are made up of units of competency, which are\nthemselves made up of elements of competency, together with performance criteria,\na range of variables, and an evidence guide.",
+      "flags": [],
+      "id": "cblm08-sc1-q1",
+      "kind": "selfcheck",
+      "label": "CBLM 8 Self Check 1 (Q1)",
+      "page": 33,
+      "printedPage": 33,
+      "question": "What is Competency Standards?",
+      "src": "cblm08",
+      "type": "short"
+    },
+    {
+      "answer": "An industry-defined performance specification that identifies the\nskills, knowledge and attitudes required to work effectively in the workplace.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q29",
+      "kind": "paper",
+      "label": "Short Questions (Short 29)",
+      "page": 4,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is a competency standard?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-mcq-q4",
+      "kind": "paper",
+      "label": "Unit 01 Questions (MCQ 4)",
+      "options": [
+        "To identify work schedules and hours for effective employment",
+        "Employee salaries and benefits for effective employment",
+        "Workplace attire and appearance",
+        "Performance requirements for effective employment"
+      ],
+      "page": 1,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What are industry competency standards primarily designed to specify?",
+      "src": "paper-unit01-mcq",
+      "type": "mcq"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-answer-q4",
+      "kind": "paper",
+      "label": "Unit 01 Answers (MCQ 4)",
+      "options": [
+        "To identify work schedules and hours for effective employment",
+        "Employee salaries and benefits for effective employment",
+        "Workplace attire and appearance",
+        "Performance requirements for effective employment"
+      ],
+      "page": 1,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What are industry competency standards primarily designed to specify?",
+      "src": "paper-unit01-answer",
+      "type": "mcq"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-final-formative-01-q16",
+      "kind": "paper",
+      "label": "Final Formative 01 (Short 16)",
+      "page": 2,
+      "paperClass": "formative",
+      "printedPage": null,
+      "question": "What are the components of a competency standard?",
+      "src": "paper-final-formative-01",
+      "type": "short"
+    },
+    {
+      "answer": "A competency standard includes:\n•\nskills, knowledge and attitude requirements for the level of work\n•\nquality indicators\n•\nnational qualifications that a person can receive who has been assessed as\ncompetent against the national standards\n•\nlearning strategies that provide guidance about the organisation of training,\nincluding implementation guidelines and training/learning materials\n•\nassessment guidelines\n•\nassessment methods and materials",
+      "flags": [],
+      "id": "cblm09-sc1-q4",
+      "kind": "selfcheck",
+      "label": "CBLM 9 Self Check 1 (Q4)",
+      "page": 23,
+      "printedPage": 23,
+      "question": "What does an competency standards include?",
+      "src": "cblm09",
+      "type": "short"
+    }
+  ],
+  "score": 17,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Industry Competency Standards",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 6,
+          "printedPage": 6,
+          "quote": "standards are made up of units of competency, which are themselves made up of",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 6,
+          "printedPage": 6,
+          "quote": "elements of competency, together with performance criteria, a range of variables,",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Do not mix the parts: units of competency are made up of elements of competency."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 6,
+          "printedPage": 6,
+          "quote": "industry-determined specifications of performance, which set out the skills,",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 6,
+          "printedPage": 6,
+          "quote": "Industry competency standards, often referred to as 'competency standards' are",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Industry determines competency standards. They are specifications of performance."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 1
+}

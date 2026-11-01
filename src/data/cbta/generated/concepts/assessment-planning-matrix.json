@@ -1,0 +1,341 @@
+{
+  "aliases": [
+    "Assessment matrix"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 51,
+          "printed": null
+        },
+        {
+          "pdf": 55,
+          "printed": 55
+        },
+        {
+          "pdf": 56,
+          "printed": 56
+        }
+      ],
+      "src": "cblm11"
+    }
+  ],
+  "banglaExplanation": [
+    "Assessment planning matrix একটা ছক বা tool।",
+    "এক দিকে থাকে প্রতিটি element আর তার performance criteria, অন্য দিকে assessment methods।",
+    "কোন criteria কোন methods দিয়ে assessed হবে, ছকে টিক দিয়ে দেখানো হয়।",
+    "এতে কোনো performance criteria বাদ পড়ে না, তাই পরিকল্পনা পূর্ণ হয়।"
+  ],
+  "breakdown": {
+    "exam": 4,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 11,
+  "errata": [],
+  "example": {
+    "bn": "ছকের সারিতে performance criteria, কলামে method; মিল থাকলে টিক দেওয়া হয়।",
+    "en": "A trainer draws a table. Rows show each performance criterion. Columns show observation, oral questioning and third party report."
+  },
+  "highlighted": true,
+  "id": "assessment-planning-matrix",
+  "importance": {
+    "bn": "Final Formative 01 (Matching 14) আর CBLM 11 Self Check 3 (Q3): 2 জায়গায় এসেছে। CBLM 11-এ highlight করা আছে। পরীক্ষায় matching আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Final Formative 01 (Matching 14) and CBLM 11 Self Check 3 (Q3). Highlighted in CBLM 11. Comes as matching and short question."
+  },
+  "keywords": [
+    {
+      "bn": "সারি ও কলামের ছক",
+      "en": "Matrix"
+    },
+    {
+      "bn": "মিলিয়ে দেখানো, ছকে বসানো",
+      "en": "Map"
+    },
+    {
+      "bn": "unit-এর অংশ বা কাজগুলো",
+      "en": "Elements"
+    },
+    {
+      "bn": "কাজ কতটা ভালো হতে হবে তার মানদণ্ড",
+      "en": "Performance criteria"
+    },
+    {
+      "bn": "প্রমাণ সংগ্রহের পদ্ধতি",
+      "en": "Assessment methods"
+    }
+  ],
+  "likelyTypes": [
+    "matching",
+    "short"
+  ],
+  "listAnswer": null,
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 51,
+        "passageId": "cblm11-p51-0cde7b22",
+        "printedPage": null,
+        "quote": "Assessment planning matrix is a tool that allows you to map every elements and its performance criteria against appropriate assessment methods.",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "An assessment planning matrix is a tool to map elements and performance criteria against methods."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 51,
+            "printedPage": null,
+            "quote": "Assessment planning matrix is a tool that allows you to map every elements and its performance criteria against appropriate assessment methods.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Assessment planning matrix",
+          "right": "Maps every element and its performance criteria against assessment methods"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 51,
+            "printedPage": null,
+            "quote": "An assessment planning matrix articulates the program learning goals",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Matrix and goals",
+          "right": "Articulates the program learning goals"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 51,
+            "printedPage": null,
+            "quote": "identifies courses in which material related to these goals is taught and assessed",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Matrix and courses",
+          "right": "Identifies courses where material is taught and assessed"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 51,
+            "printedPage": null,
+            "quote": "Reviewing the assessment plan is critical to ensure that the proposed outcomes of the assessment plan have achieved what was intended.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Reviewing assessment plan",
+          "right": "Ensures proposed outcomes achieved what was intended"
+        }
+      ],
+      "prompt": "Match each item with its description."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 51,
+        "printedPage": null,
+        "quote": "Assessment planning matrix is a tool that allows you to map every elements and its performance criteria against appropriate assessment methods.",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Observation checklist",
+        "Assessment planning matrix",
+        "Third party report",
+        "Portfolio evaluation form"
+      ],
+      "prompt": "Which tool maps every element and its performance criteria against assessment methods?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 56,
+              "printedPage": 56,
+              "quote": "map every elements and its performance criteria against appropriate assessment methods",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It maps every element and its performance criteria against appropriate assessment methods."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "An assessment planning matrix articulates the program learning goals",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It articulates the program learning goals."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "identifies courses in which material related to these goals is taught and assessed",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It identifies courses in which related material is taught and assessed."
+        }
+      ],
+      "modelAnswer": "Assessment planning matrix is a tool that allows you to map every element and its performance criteria against appropriate assessment methods.\nIt also articulates the program learning goals. It identifies courses where this material is taught and assessed.",
+      "prompt": "What do you understand by assessment matrix?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 51,
+            "printedPage": null,
+            "quote": "map every elements and its performance criteria against appropriate assessment methods",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "It maps every element and its performance criteria against appropriate assessment methods."
+      },
+      "prompt": "What does an assessment planning matrix map?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Assessment planning matrix is a tool that allows you to map every elements and its\nperformance criteria against appropriate assessment methods.",
+      "flags": [],
+      "id": "cblm11-sc3-q3",
+      "kind": "selfcheck",
+      "label": "CBLM 11 Self Check 3 (Q3)",
+      "page": 55,
+      "printedPage": 55,
+      "question": "What do you understand by assessment matrix",
+      "src": "cblm11",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-final-formative-01-q14",
+      "kind": "paper",
+      "label": "Final Formative 01 (Matching 14)",
+      "page": 2,
+      "paperClass": "formative",
+      "printedPage": null,
+      "question": "Assessment planning matrix",
+      "right": [
+        {
+          "letter": "A",
+          "text": "A tool that maps every element and its performance criteria against appropriate assessment methods"
+        },
+        {
+          "letter": "B",
+          "text": "Makes sure machinery or equipment will not start and injure a worker during set-up or clean-up"
+        },
+        {
+          "letter": "C",
+          "text": "Kiss - Kick - Kiss: a positive point, an area to improve, then an encouraging statement"
+        },
+        {
+          "letter": "D",
+          "text": "Ability to respond to irregularities, breakdowns, imperfections and the unknown in routines"
+        },
+        {
+          "letter": "E",
+          "text": "Assessing current skills and knowledge, no matter how, when or where the learning occurred"
+        }
+      ],
+      "src": "paper-final-formative-01",
+      "type": "matching"
+    }
+  ],
+  "score": 8,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Assessment Planning Matrix",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 51,
+          "printedPage": null,
+          "quote": "a tool that allows you to map every elements and its performance criteria against appropriate assessment methods",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The matrix is a tool to map performance criteria against assessment methods."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 55,
+          "printedPage": 55,
+          "quote": "What do you understand by assessment matrix",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 51,
+          "printedPage": null,
+          "quote": "Assessment planning matrix is a tool",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "\"Assessment matrix\" means the assessment planning matrix tool."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

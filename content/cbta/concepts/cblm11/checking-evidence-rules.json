@@ -1,0 +1,391 @@
+{
+  "id": "checking-evidence-rules",
+  "canonical_title": "How the Designer Checks Each Rule of Evidence",
+  "aliases": [
+    "Checking evidence against the rules",
+    "Validity, authenticity and sufficiency checks",
+    "Requirements of valid evidence"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p12-8a1beaee",
+    "cblm11-p12-28d67f0f",
+    "cblm11-p22-162cdc2a",
+    "cblm11-p22-035190e8",
+    "cblm11-p22-4ef47a45",
+    "cblm11-p22-db7dc99d",
+    "cblm11-p22-093f0b06",
+    "cblm11-p22-93acc66a",
+    "cblm11-p22-00e263ff",
+    "cblm11-p22-bca210f8",
+    "cblm11-p23-89da3d8a",
+    "cblm11-p23-b87bed12",
+    "cblm11-p23-28cc2209",
+    "cblm11-p23-6f7dcb54",
+    "cblm11-p23-685df181"
+  ],
+  "questions": [
+    "paper-short-questions-q46",
+    "paper-short-questions-q47",
+    "paper-short-questions-q48",
+    "paper-short-questions-q51",
+    "paper-short-questions-q78"
+  ],
+  "one_line_answer": {
+    "text": "The assessment designer checks whether evidence meets the criteria of each rule of evidence.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 22,
+        "quote": "To help determine if evidence meets the above criteria, the Assessment designer will need to check"
+      },
+      {
+        "src": "cblm11",
+        "page": 22,
+        "quote": "Rules of Evidence As an Assessor"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Validity",
+      "bn": "বৈধতা: সব criteria পূরণ করে কিনা"
+    },
+    {
+      "en": "Currency",
+      "bn": "হালনাগাদ দক্ষতা ও জ্ঞান"
+    },
+    {
+      "en": "Authenticity",
+      "bn": "প্রমাণটি প্রার্থীর নিজের কাজ কিনা"
+    },
+    {
+      "en": "Recency",
+      "bn": "প্রমাণ কত পুরনো"
+    },
+    {
+      "en": "Sufficiency",
+      "bn": "যথেষ্ট পরিমাণ প্রমাণ"
+    },
+    {
+      "en": "Consistency",
+      "bn": "বারবার একই মান বজায় রাখা"
+    }
+  ],
+  "bangla_explanation": [
+    "Evidence নেওয়ার আগে designer প্রতিটি rule আলাদা করে check করেন।",
+    "Validity মানে evidence-এ সব performance criteria, elements আর dimensions of competency থাকতে হবে।",
+    "Authenticity মানে কাজটা candidate নিজে করেছে, অন্য কেউ নয়; সন্দেহ হলে more direct evidence নিন।",
+    "Sufficiency-র জন্য একাধিক method ও একাধিক পরিস্থিতি লাগে; সাধারণত তিন ধরনের evidence যথেষ্ট।"
+  ],
+  "example": {
+    "en": "A trainee shows an old oral thermometer certificate. Now digital ear thermometers are standard. The evidence is not current.",
+    "bn": "পুরনো পদ্ধতির প্রমাণ এখন current নয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Validity: covers all criteria, elements, dimensions, evidence guide items and range statement musts.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 22,
+            "quote": "The assessment method you choose must meet all the benchmarks or criteria requirements.",
+            "passageId": "cblm11-p22-162cdc2a"
+          },
+          {
+            "src": "cblm11",
+            "page": 22,
+            "quote": "All performance criteria • All elements • Dimensions of competency • Considerations of the Bangladesh NTVQF"
+          },
+          {
+            "src": "cblm11",
+            "page": 22,
+            "quote": "Essential skills and knowledge that are listed in the evidence guide • Critical evidence listed in the evidence guide • All of the 'musts' in the range statement."
+          }
+        ]
+      },
+      {
+        "text": "Sufficiency: collect evidence more than once, assess all parts, use more than one method.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 23,
+            "quote": "Collecting evidence more than once and in more than one situation",
+            "passageId": "cblm11-p23-6f7dcb54"
+          },
+          {
+            "src": "cblm11",
+            "page": 23,
+            "quote": "Making sure the tools and methods assess all parts of the competency standard"
+          },
+          {
+            "src": "cblm11",
+            "page": 23,
+            "quote": "Using more than one method of assessment to ensure sufficient evidence"
+          }
+        ]
+      },
+      {
+        "text": "Currency: evidence shows the person has current, up to date skills and knowledge.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 22,
+            "quote": "The evidence that will be collected needs to show the person has current skills and knowledge.",
+            "passageId": "cblm11-p22-4ef47a45"
+          },
+          {
+            "src": "cblm11",
+            "page": 22,
+            "quote": "It is certain that the person has knowledge that is up to date and current."
+          }
+        ]
+      },
+      {
+        "text": "Authenticity: the evidence is work the person produced or created themselves.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 22,
+            "quote": "The evidence collected from the person for assessment must be work they have produced or created themselves"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Extra, Recency: is the evidence less than three years old?",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 23,
+          "quote": "d) Recency Is the evidence less than three years old?"
+        }
+      ]
+    },
+    {
+      "text": "Extra rule, Consistency: the candidate consistently meets the standards under work place conditions.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 23,
+          "quote": "show that the candidate consistently meets the standards under work place conditions?",
+          "passageId": "cblm11-p23-685df181"
+        }
+      ]
+    },
+    {
+      "text": "Validity: meet all the benchmarks or criteria requirements. Sufficiency: enough to make a decision about competence.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 22,
+          "quote": "The assessment method you choose must meet all the benchmarks or criteria requirements."
+        },
+        {
+          "src": "cblm11",
+          "page": 23,
+          "quote": "The evidence collected will be sufficient [enough] to make a decision about a person's competence."
+        }
+      ]
+    },
+    {
+      "text": "Indirect evidence like work samples needs an authenticity check. If in doubt, collect more direct evidence.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 12,
+          "quote": "When designing assessment tools that use indirect evidence, e.g. work samples you need to ensure that the assessors check on authenticity.",
+          "passageId": "cblm11-p12-8a1beaee"
+        },
+        {
+          "src": "cblm11",
+          "page": 12,
+          "quote": "You should collect more direct evidence if in doubt."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What procedures can help establish authenticity of evidence?",
+      "modelAnswer": "Authentic evidence is work the person produced or created themselves. Procedures to ensure authenticity:\n1. Observation of work in progress\n2. Declarations\n3. Drafting\n4. Third party validation\nThese can be collected via videoing, recording, written transcripts, sign-off sheets and testimonials.",
+      "keyPoints": [
+        {
+          "text": "Authenticity: the evidence must be work they produced or created themselves.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "c) Authenticity The evidence collected"
+            },
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "must be work they have produced or created themselves and can be directly attributed [credited] to them.",
+              "passageId": "cblm11-p22-93acc66a"
+            }
+          ]
+        },
+        {
+          "text": "Authenticity procedures: observation of work in progress, declarations, drafting, third party validation.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "observation of work in progress • declarations • drafting • third party validation"
+            }
+          ]
+        },
+        {
+          "text": "Collect them via videoing, recording, written transcripts, sign-off sheets and testimonials.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 23,
+              "quote": "These can be collected via: • videoing • recording • written transcripts • sign-off sheets • testimonials",
+              "passageId": "cblm11-p23-89da3d8a"
+            }
+          ]
+        },
+        {
+          "text": "Indirect evidence must be the work of the candidate and not someone else's.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 12,
+              "quote": "indirect evidence is the work of the candidate and not someone else's."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "How many types of evidence are usually accepted as sufficient?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "answerIndex": 2,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 23,
+        "quote": "Usually three types of evidence are accepted as sufficient."
+      }
+    },
+    "matching": {
+      "prompt": "Match each rule with what the designer checks.",
+      "pairs": [
+        {
+          "left": "Validity",
+          "right": "Meets all the benchmarks or criteria requirements",
+          "cite": {
+            "src": "cblm11",
+            "page": 22,
+            "quote": "The assessment method you choose must meet all the benchmarks or criteria requirements."
+          }
+        },
+        {
+          "left": "Currency",
+          "right": "Person has current skills and knowledge",
+          "cite": {
+            "src": "cblm11",
+            "page": 22,
+            "quote": "The evidence that will be collected needs to show the person has current skills and knowledge."
+          }
+        },
+        {
+          "left": "Authenticity",
+          "right": "Work produced or created by themselves",
+          "cite": {
+            "src": "cblm11",
+            "page": 22,
+            "quote": "must be work they have produced or created themselves"
+          }
+        },
+        {
+          "left": "Recency",
+          "right": "Evidence less than three years old",
+          "cite": {
+            "src": "cblm11",
+            "page": 23,
+            "quote": "Is the evidence less than three years old?"
+          }
+        },
+        {
+          "left": "Sufficiency",
+          "right": "Enough to make a decision about competence",
+          "cite": {
+            "src": "cblm11",
+            "page": 23,
+            "quote": "The evidence collected will be sufficient [enough] to make a decision about a person's competence."
+          }
+        },
+        {
+          "left": "Consistency",
+          "right": "Consistently meets the standards under work place conditions",
+          "cite": {
+            "src": "cblm11",
+            "page": 23,
+            "quote": "the candidate consistently meets the standards under work place conditions?"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What must collected evidence include if the benchmark is a unit of competency?",
+      "answer": {
+        "text": "All performance criteria, all elements, dimensions of competency, and evidence guide requirements.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 22,
+            "quote": "If the benchmark is a unit of competency, then the collected evidence must include: • All performance criteria • All elements • Dimensions of competency"
+          },
+          {
+            "src": "cblm11",
+            "page": 22,
+            "quote": "Essential skills and knowledge that are listed in the evidence guide"
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "traps[0]",
+      "note": "Recency: CBLM 11 p.23 says \"less than three years old\"; CBLM 12 p.20 (rules-of-evidence card) says \"less than five years old\". Card follows CBLM 11. A human should decide which the exam expects."
+    },
+    {
+      "path": "example",
+      "note": "CBLM 11 p.22 currency example says a supervisor's report \"written five years ago\" may not be current, while its own recency rule (p.23) is three years. Not strictly a contradiction (currency is not recency), but learners may mix them."
+    },
+    {
+      "path": "questions",
+      "note": "paper-short-questions-q48 answer guide (elements, performance criteria, dimensions, evidence guide skills/critical evidence, range statement musts) matches this CBLM 11 p.22 validity list. The CBLM 12 rules-of-evidence card flagged q48 as not matching CBLM 12 p.20, so this card is the better source for q48."
+    },
+    {
+      "path": "list_answer",
+      "note": "Aligned with decisions.md (2026-11-01): learners write four rules (Valid, Sufficient, Current, Authentic). CBLM 11 p.22 names five and describes six; Recency and Consistency are taught as extra in traps."
+    }
+  ]
+}

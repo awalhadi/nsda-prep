@@ -1,0 +1,258 @@
+{
+  "aliases": [
+    "Identifying the benchmark",
+    "Benchmark for assessment"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 17,
+          "printed": 17
+        }
+      ],
+      "src": "cblm11"
+    }
+  ],
+  "banglaExplanation": [
+    "Benchmark মানে যার সাথে মিলিয়ে participants-কে assess করা হয়।",
+    "এটা প্রশিক্ষকের নিজের পছন্দ নয়, relevant industry-র Industry Competency Standards।",
+    "যেমন food industry-তে OSH practices assess করলে food industry standards দেখতে হবে।",
+    "সঠিক benchmark না থাকলে assessment-এর সিদ্ধান্ত গ্রহণযোগ্য হয় না।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 11,
+  "errata": [],
+  "example": {
+    "bn": "খাদ্য কারখানায় OSH assess করতে food industry standards-ই benchmark।",
+    "en": "To assess OSH practices in a food factory, the assessor consults the food industry standards."
+  },
+  "highlighted": true,
+  "id": "assessment-benchmark",
+  "importance": {
+    "bn": "Short Questions (Short 49)-এ এসেছে। CBLM 11-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in Short Questions (Short 49). Highlighted in CBLM 11. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "যে মানদণ্ডের সাথে মিলিয়ে বিচার করা হয়",
+      "en": "Benchmark"
+    },
+    {
+      "bn": "শিল্পখাতের দক্ষতার মান",
+      "en": "Industry Competency Standards"
+    },
+    {
+      "bn": "সংশ্লিষ্ট শিল্পখাত",
+      "en": "Relevant industry"
+    },
+    {
+      "bn": "অংশগ্রহণকারী",
+      "en": "Participants"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": null,
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 17,
+        "passageId": "cblm11-p17-2aed8cef",
+        "printedPage": 17,
+        "quote": "The benchmark is the Industry Competency Standards from the relevant industry,",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "The benchmark is the Industry Competency Standards from the relevant industry."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "The benchmark is the Industry Competency Standards from the relevant industry,",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Benchmark",
+          "right": "Industry Competency Standards from the relevant industry"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "if you wanted to apply OSH practices in food industry you would consult the food industry standards.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "OSH practices in food industry",
+          "right": "Consult the food industry standards"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "identify the benchmark that you will assess participants against.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Participants",
+          "right": "Assessed against the benchmark"
+        }
+      ],
+      "prompt": "Match each item with what the CBLM says."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 17,
+        "printedPage": 17,
+        "quote": "The benchmark is the Industry Competency Standards from the relevant industry,",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "answerIndex": 1,
+      "options": [
+        "The trainer's lesson plan",
+        "The Industry Competency Standards from the relevant industry",
+        "The candidate's previous results",
+        "The assessment resources checklist"
+      ],
+      "prompt": "What is the benchmark that participants are assessed against?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "passageId": "cblm11-p17-62866ab4",
+              "printedPage": 17,
+              "quote": "You need to identify the benchmark that you will assess participants against.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "You need to identify the benchmark that you will assess participants against."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "The benchmark is the Industry Competency Standards from the relevant industry,",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The benchmark is the Industry Competency Standards from the relevant industry."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "if you wanted to apply OSH practices in food industry you would consult the food industry standards.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "For OSH practices in food industry, consult the food industry standards."
+        }
+      ],
+      "modelAnswer": "The benchmark is what participants are assessed against. It is the Industry Competency Standards from the relevant industry.\nExample: to apply OSH practices in the food industry, consult the food industry standards.",
+      "prompt": "What is an assessment benchmark?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "The benchmark is the Industry Competency Standards from the relevant industry, e.g. if you wanted to apply OSH practices in food industry you would consult the food industry standards.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The food industry standards, the Industry Competency Standards of that industry."
+      },
+      "prompt": "What benchmark would you use to assess OSH practices in the food industry?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "The relevant industry competency standards are the benchmark.\nFor example, an OSH assessment in the food industry should use the applicable\nfood-industry standards.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q49",
+      "kind": "paper",
+      "label": "Short Questions (Short 49)",
+      "page": 6,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is an assessment benchmark?",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 5,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Assessment Benchmark",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 17,
+          "passageId": "cblm11-p17-872a319e",
+          "printedPage": 17,
+          "quote": "e.g. if you wanted to apply OSH practices in food industry you would consult the food industry standards.",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Use the standards of the relevant industry, e.g. food industry standards for food OSH."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

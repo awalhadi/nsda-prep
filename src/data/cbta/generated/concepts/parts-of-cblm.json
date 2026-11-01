@@ -1,0 +1,604 @@
+{
+  "aliases": [
+    "Parts of CBLM",
+    "Major parts of CBLM's",
+    "Information sheet, job sheet and specification sheet"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 8,
+      "pages": [
+        {
+          "pdf": 27,
+          "printed": 27
+        },
+        {
+          "pdf": 28,
+          "printed": 28
+        },
+        {
+          "pdf": 34,
+          "printed": 34
+        },
+        {
+          "pdf": 35,
+          "printed": 35
+        },
+        {
+          "pdf": 36,
+          "printed": 36
+        }
+      ],
+      "src": "cblm08"
+    }
+  ],
+  "banglaExplanation": [
+    "CBLM-এর পাঁচটা major parts: Information sheet, Self check, Answer sheet, Job sheet, Specification sheet।",
+    "Information sheet-এ কাজ করার জন্য দরকারি underpinning knowledge থাকে, এটা job sheet-কে সাহায্য করে।",
+    "Self check দিয়ে শিক্ষার্থী যাচাই করে সে knowledge শিখেছে কিনা, আর answer key দেখে সাথে সাথে feedback পায়।",
+    "Job sheet হলো কাজ করার instruction, আর specification sheet-এ থাকে কাজের শর্ত, specifications আর diagram।",
+    "খেয়াল করুন: answer key-তে মাত্র তিনটা অংশ লেখা, কিন্তু information sheet-এ পাঁচটা।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 8,
+  "errata": [],
+  "example": {
+    "bn": "দেয়াল রং করার কাজে job sheet ধাপগুলো বলে, আর information sheet রং ও brush-এর ধরন বোঝায়।",
+    "en": "For a wall painting job, the job sheet lists the painting steps."
+  },
+  "highlighted": true,
+  "id": "parts-of-cblm",
+  "importance": {
+    "bn": "CBLM 8 Self Check 1 (Q5)-এ এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in CBLM 8 Self Check 1 (Q5). Highlighted in CBLM 8. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "কাজের জন্য দরকারি জ্ঞান বা তথ্যের পাতা",
+      "en": "Information sheet"
+    },
+    {
+      "bn": "নিজে নিজে যাচাইয়ের প্রশ্ন",
+      "en": "Self check"
+    },
+    {
+      "bn": "self check-এর উত্তরের পাতা",
+      "en": "Answer key"
+    },
+    {
+      "bn": "একটা নির্দিষ্ট কাজ করার ধাপে ধাপে নির্দেশনা",
+      "en": "Job sheet"
+    },
+    {
+      "bn": "কাজের শর্ত, মাপ আর diagram-এর পাতা",
+      "en": "Specification sheet"
+    },
+    {
+      "bn": "কাজের পেছনের মূল জ্ঞান",
+      "en": "Underpinning knowledge"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "1. Information sheet",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 27,
+            "passageId": "cblm08-p27-ba8ce9e6",
+            "printedPage": 27,
+            "quote": "The information supports the job sheet; i,e to perform the job required underpinning",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "knowledge are included in the information sheet.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Information sheet: gives the underpinning knowledge needed to perform the job."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "2. Self check Sheet",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "passageId": "cblm08-p28-a602e62d",
+            "printedPage": 28,
+            "quote": "Self-checks are sets of questions that would verify the acquisition of knowledge",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "stated in the learning objectives.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Self check sheet: questions that verify the knowledge stated in the learning objectives."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "3. Answer Sheet",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Answer keys should always follow a self-check so that a trainee can check his own",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "answers immediately.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Answer sheet: follows a self check so the trainee can check answers immediately."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "4. Job Sheet",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 27,
+            "passageId": "cblm08-p27-8a0bbde8",
+            "printedPage": 27,
+            "quote": "Job sheet is a set of instruction to perform a specific job.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Job sheet: a set of instruction to perform a specific job."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "5. Specification sheet.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 27,
+            "passageId": "cblm08-p27-e9c4ee88",
+            "printedPage": 27,
+            "quote": "In a specification there is a set of condition, Specifications, Diagram of exiting job",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "which is required to perform the job.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Specification sheet: conditions, specifications and diagram required to perform the job."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 27,
+        "passageId": "cblm08-p27-b91b0962",
+        "printedPage": 27,
+        "quote": "The major parts of CBLM's contain which are:",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 27,
+        "printedPage": 27,
+        "quote": "1. Information sheet 2. Self check Sheet 3. Answer Sheet 4. Job Sheet 5. Specification sheet.",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "CBLM's major parts: information sheet, self check sheet, answer sheet, job sheet, specification sheet."
+  },
+  "openChecks": 1,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "The information supports the job sheet; i,e to perform the job required underpinning",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Information sheet",
+          "right": "Underpinning knowledge to perform the job"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Job sheet is a set of instruction to perform a specific job.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Job sheet",
+          "right": "A set of instruction to perform a specific job"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "In a specification there is a set of condition, Specifications, Diagram of exiting job",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Specification sheet",
+          "right": "Condition, specifications and diagram of the job"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Self-checks are sets of questions that would verify the acquisition of knowledge",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Self check",
+          "right": "Questions that verify the acquisition of knowledge"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Answer keys should always follow a self-check so that a trainee can check his own",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Answer key",
+          "right": "Lets a trainee check his own answers immediately"
+        }
+      ],
+      "prompt": "Match each part of a CBLM with what it contains."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 8,
+        "match": "exact",
+        "page": 27,
+        "printedPage": 27,
+        "quote": "Job sheet is a set of instruction to perform a specific job.",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Information sheet",
+        "Job sheet",
+        "Self check sheet",
+        "Answer sheet"
+      ],
+      "prompt": "Which part of a CBLM is a set of instruction to perform a specific job?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "This is used when a basic",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "task, operation or process needs to be mastered before doing the job.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The job sheet is used when a basic task must be mastered before the job."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "List all the",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "steps a worker will need to complete the job.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The job sheet lists all the steps a worker needs to complete the job."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "The information supports the job sheet",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The information sheet supports the job sheet."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "This allows for immediate feedback.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "Answer Keys",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Answer keys allow immediate feedback."
+        }
+      ],
+      "modelAnswer": "The major parts of a CBLM are:\n1. Information sheet: underpinning knowledge for the job\n2. Self check sheet: questions to verify knowledge\n3. Answer sheet: lets the trainee check answers immediately\n4. Job sheet: a set of instruction to perform a specific job\n5. Specification sheet: conditions, specifications and diagram for the job",
+      "prompt": "Write down the major parts of CBLM."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Answer keys should always follow a self-check so that a trainee can check his own",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "answers immediately. This allows for immediate feedback.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "So the trainee can check his own answers immediately. This allows for immediate feedback."
+      },
+      "prompt": "Why should an answer key always follow a self check?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "1. Information sheet\n2. Job Sheet\n3. Specification sheet.",
+      "flags": [],
+      "id": "cblm08-sc1-q5",
+      "kind": "selfcheck",
+      "label": "CBLM 8 Self Check 1 (Q5)",
+      "page": 34,
+      "printedPage": 34,
+      "question": "Write Down the major parts of CBLM?\n.\n.",
+      "src": "cblm08",
+      "type": "short"
+    }
+  ],
+  "score": 6,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Major Parts of a CBLM",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 35,
+          "printedPage": 35,
+          "quote": "Answer Key No: 01- Develop CBLM",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 36,
+          "printedPage": 36,
+          "quote": "Write Down the major parts of CBLM?",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 36,
+          "printedPage": 36,
+          "quote": "1. Information sheet 2. Job Sheet 3. Specification sheet.",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The answer key gives three parts: Information sheet, Job Sheet, Specification sheet."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 27,
+          "printedPage": 27,
+          "quote": "The major parts of CBLM's contain which are:",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 27,
+          "printedPage": 27,
+          "quote": "1. Information sheet 2. Self check Sheet 3. Answer Sheet 4. Job Sheet 5. Specification sheet.",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The information sheet lists five major parts, adding Self check Sheet and Answer Sheet."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 27,
+          "printedPage": 27,
+          "quote": "Job sheet is a set of instruction to perform a specific job.",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 27,
+          "printedPage": 27,
+          "quote": "The information supports the job sheet; i,e to perform the job required underpinning",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 27,
+          "printedPage": 27,
+          "quote": "knowledge are included in the information sheet.",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Job sheet is a set of instruction; the information sheet gives underpinning knowledge."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

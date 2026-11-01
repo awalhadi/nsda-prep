@@ -1,0 +1,629 @@
+{
+  "aliases": [
+    "Curriculum document",
+    "Syllabus",
+    "Curriculum Documents"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 8,
+      "pages": [
+        {
+          "pdf": 7,
+          "printed": 7
+        }
+      ],
+      "src": "cblm08"
+    },
+    {
+      "cblm": 9,
+      "pages": [
+        {
+          "pdf": 19,
+          "printed": 19
+        },
+        {
+          "pdf": 20,
+          "printed": 20
+        }
+      ],
+      "src": "cblm09"
+    }
+  ],
+  "banglaExplanation": [
+    "Curriculum হলো কিছু competencies-এর লিখিত রূপ।",
+    "NTVQF-এ এই competencies সাধারণত Units of Competency হিসেবে লেখা থাকে, আর ISC এগুলো অনুমোদন করে।",
+    "নতুন trainer-কে সাধারণত curriculum বানাতে হয় না, তাকে একটা syllabus দেওয়া হয়।",
+    "এই document-এ module-এর নাম, hours, learning outcomes আর assessment-এর বিবরণ থাকে।",
+    "তাই ক্লাস প্ল্যান করার আগে curriculum document ভালো করে পড়ুন।"
+  ],
+  "breakdown": {
+    "exam": 8,
+    "highlight": 3,
+    "repeat": 2
+  },
+  "cblmPrimary": 8,
+  "errata": [],
+  "example": {
+    "bn": "নতুন IT trainer নিজে curriculum বানান না, প্রতিষ্ঠান তাকে syllabus দেয়।",
+    "en": "A new IT trainer gets the syllabus for a computer module from the training centre."
+  },
+  "highlighted": true,
+  "id": "curriculum-document",
+  "importance": {
+    "bn": "Unit 01 Questions (MCQ 6, Short 21), Unit 01 Answers (MCQ 6, Short 21), Unit 01 Short Questions (Short 18) আর CBLM 9 Self Check 1 (Q5): 4 জায়গায় এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Unit 01 Questions (MCQ 6, Short 21), Unit 01 Answers (MCQ 6, Short 21), Unit 01 Short Questions (Short 18) and CBLM 9 Self Check 1 (Q5). Highlighted in CBLM 8. Comes as MCQ and short question."
+  },
+  "keywords": [
+    {
+      "bn": "শেখানোর লিখিত পরিকল্পনা",
+      "en": "Curriculum"
+    },
+    {
+      "bn": "কোর্স বা module-এর পাঠ্যসূচি",
+      "en": "Syllabus"
+    },
+    {
+      "bn": "শেখাতে মোটামুটি কত ঘণ্টা লাগবে",
+      "en": "Nominal delivery hours"
+    },
+    {
+      "bn": "আগে থেকে যা জানা থাকতে হবে",
+      "en": "Prerequisite"
+    },
+    {
+      "bn": "যে শিল্প পরিষদ standard অনুমোদন করে",
+      "en": "Industry Skills Council (ISC)"
+    }
+  ],
+  "likelyTypes": [
+    "mcq",
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "passageId": "cblm08-p7-bd7c123d",
+            "printedPage": 7,
+            "quote": "The name and number of the module and/unit of competency",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "The name and number of the module and/unit of competency"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Nominal delivery hours",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Nominal delivery hours"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "A general description of the purpose of the module and/or unit of competency",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "A general description of the purpose of the module and/or unit of competency"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Any prerequisite knowledge and skills",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Any prerequisite knowledge and skills"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Relationship to the industry competency standards",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Relationship to the industry competency standards"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "passageId": "cblm08-p7-b3daad3c",
+            "printedPage": 7,
+            "quote": "A summary of the content",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "A summary of the content"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "A summary of the assessment",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "A summary of the assessment"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "A detailed description of the learning outcomes that learners are expected to",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "achieve, including each of the assessment criteria",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "A detailed description of the learning outcomes, including each assessment criterion."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "passageId": "cblm08-p7-643fec50",
+            "printedPage": 7,
+            "quote": "A description of how the module and /or unit of competency might be delivered.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "A description of how the module and /or unit of competency might be delivered."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 7,
+        "printedPage": 7,
+        "quote": "A curriculum is a documented representation of a set of competencies.",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      }
+    ],
+    "fidelity": "verbatim",
+    "text": "A curriculum is a documented representation of a set of competencies."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "A curriculum is a documented representation of a set of competencies.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Curriculum",
+          "right": "A documented representation of a set of competencies"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "provided with a document, sometimes referred to as a syllabus for any modules or",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Syllabus",
+          "right": "The document a beginning trainer is provided with"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "whole program of study (referred to in institutions as a course)",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Course",
+          "right": "A curriculum for a whole program of study"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "element of that program (referred to in institutions as a subject or a module)",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Subject or module",
+          "right": "A curriculum for an element of that program"
+        }
+      ],
+      "prompt": "Match each term with its meaning in the CBLM."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 8,
+        "match": "exact",
+        "page": 7,
+        "printedPage": 7,
+        "quote": "Industry Skills Council (ISC).",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      "answerIndex": 1,
+      "options": [
+        "The individual trainer",
+        "The relevant Industry Skills Council (ISC)",
+        "The training institute's principal",
+        "The learners of the course"
+      ],
+      "prompt": "Which body endorses the competency standards that a curriculum is based on?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "match": "exact",
+              "page": 5,
+              "printedPage": null,
+              "quote": "Competency standards define the required skills, knowledge, and attitudes for specific occupations",
+              "sourceTitle": "Unit 01 Short Questions",
+              "src": "paper-unit01-short"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Competency standards define the required skills, knowledge, and attitudes for specific occupations."
+        },
+        {
+          "cites": [
+            {
+              "match": "exact",
+              "page": 5,
+              "printedPage": null,
+              "quote": "a curriculum document serves as a practical guide to deliver training",
+              "sourceTitle": "Unit 01 Short Questions",
+              "src": "paper-unit01-short"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A curriculum document is a practical guide to deliver training."
+        },
+        {
+          "cites": [
+            {
+              "match": "exact",
+              "page": 5,
+              "printedPage": null,
+              "quote": "While competency standards describe what must be achieved, the curriculum explains how it will be",
+              "sourceTitle": "Unit 01 Short Questions",
+              "src": "paper-unit01-short"
+            },
+            {
+              "match": "exact",
+              "page": 5,
+              "printedPage": null,
+              "quote": "taught and assessed.",
+              "sourceTitle": "Unit 01 Short Questions",
+              "src": "paper-unit01-short"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Standards describe what must be achieved. The curriculum explains how it is taught and assessed."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Technical and Vocational Qualification",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Framework (NTVQF), these competencies are",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "usually written as Units of Competency (UoC)",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Under NTVQF, competencies are usually written as Units of Competency (UoC)."
+        }
+      ],
+      "modelAnswer": "Competency standards define the required skills, knowledge and attitudes for occupations. A curriculum document is a practical guide to deliver training. It translates competency standards into courses or learning programs.\nA curriculum document provides:\n1. Module name and number\n2. Nominal delivery hours\n3. Purpose of the module\n4. Prerequisite knowledge and skills\n5. Relationship to the competency standards\n6. Content summary\n7. Assessment summary\n8. Learning outcomes and assessment criteria\n9. How it might be delivered",
+      "prompt": "How does a curriculum document differ from a competency standard?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "As a beginning teacher/trainer you may not",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "have to develop curriculum. You will be",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "provided with a document, sometimes referred to as a syllabus for any modules or",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "A beginning trainer may not have to develop curriculum. They are provided with a syllabus."
+      },
+      "prompt": "As a new trainer, will you write the curriculum yourself?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-mcq-q6",
+      "kind": "paper",
+      "label": "Unit 01 Questions (MCQ 6)",
+      "options": [
+        "It defines industry competencies",
+        "It replaces industry competency standards",
+        "It interprets and delivers industry competency standards as a courses",
+        "It sets national qualification criteria for TVET institutions"
+      ],
+      "page": 2,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is the role of a curriculum document in relation to industry competency standards?",
+      "src": "paper-unit01-mcq",
+      "type": "mcq"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-answer-q6",
+      "kind": "paper",
+      "label": "Unit 01 Answers (MCQ 6)",
+      "options": [
+        "It defines industry competencies",
+        "It replaces industry competency standards",
+        "It interprets and delivers industry competency standards as a courses",
+        "It sets national qualification criteria for TVET institutions"
+      ],
+      "page": 2,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is the role of a curriculum document in relation to industry competency standards?",
+      "src": "paper-unit01-answer",
+      "type": "mcq"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-mcq-q21",
+      "kind": "paper",
+      "label": "Unit 01 Questions (Short 21)",
+      "page": 4,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "How does a curriculum document differ from a competency standard?",
+      "src": "paper-unit01-mcq",
+      "type": "short"
+    },
+    {
+      "answer": "Competency standards define the required skills, knowledge, and attitudes for specific\noccupations and include guidelines for assessment.\nOn the other hand, a curriculum document serves as a practical guide to deliver training,\ntranslating industry competency standards into structured courses or learning programs. While\ncompetency standards describe what must be achieved, the curriculum explains how it will be\ntaught and assessed.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit01-answer-q21",
+      "kind": "paper",
+      "label": "Unit 01 Answers (Short 21)",
+      "page": 4,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "How does a curriculum document differ from a competency standard?",
+      "src": "paper-unit01-answer",
+      "type": "short"
+    },
+    {
+      "answer": "Competency standards define the required skills, knowledge, and attitudes for specific occupations\nand include guidelines for assessment.\nOn the other hand, a curriculum document serves as a practical guide to deliver training, translating\nindustry competency standards into structured courses or learning programs.\nWhile competency standards describe what must be achieved, the curriculum explains how it will be\ntaught and assessed.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit01-short-q18",
+      "kind": "paper",
+      "label": "Unit 01 Short Questions (Short 18)",
+      "page": 5,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "How does a curriculum document differ from a competency standard?",
+      "src": "paper-unit01-short",
+      "type": "short"
+    },
+    {
+      "answer": "As mentioned above, a competency standard provides information about the\ncompetencies associated with different occupations within a particular industry. They\nideally lead to national qualifications and include assessment guidelines.\nA curriculum document serves as an implementation guide for a unit of competency\nor course or module of study. For a curriculum document to be accepted by the\nindustries, it must be 'mapped' against the competencies in competency standards.\nAt this stage though, there are still many industries that do not have industry\ncompetency standards developed.\nBasically, competency standards establish the skills, knowledge and attitude required\nfor a particular industry. A curriculum interprets the competency standards so that it\ncan be delivered as a course in TVET institutions.",
+      "flags": [],
+      "id": "cblm09-sc1-q5",
+      "kind": "selfcheck",
+      "label": "CBLM 9 Self Check 1 (Q5)",
+      "page": 23,
+      "printedPage": 23,
+      "question": "What is the difference between competency standard and curriculum\ndocuments?",
+      "src": "cblm09",
+      "type": "short"
+    }
+  ],
+  "score": 13,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Curriculum Document in CBT&A",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 7,
+          "passageId": "cblm08-p7-7f052c25",
+          "printedPage": 7,
+          "quote": "As a beginning teacher/trainer you may not",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 7,
+          "printedPage": 7,
+          "quote": "have to develop curriculum. You will be",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 7,
+          "printedPage": 7,
+          "quote": "provided with a document, sometimes referred to as a syllabus for any modules or",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "A beginning trainer may not have to develop curriculum. They are provided with a syllabus."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 7,
+          "printedPage": 7,
+          "quote": "These standards are endorsed by the relevant",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 7,
+          "printedPage": 7,
+          "quote": "Industry Skills Council (ISC).",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Competency standards are endorsed by the Industry Skills Council (ISC), not by the trainer."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 1
+}

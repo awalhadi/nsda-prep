@@ -1,0 +1,222 @@
+{
+  "id": "training-needs-gap",
+  "canonical_title": "Training Needs: The Competency Gap",
+  "aliases": [
+    "Training requirements",
+    "Trainee's training requirements",
+    "Training needs"
+  ],
+  "cblmPrimary": 9,
+  "source_type": "cblm",
+  "covers": [
+    "cblm09-p7-71ef3ed0",
+    "cblm09-p7-948aaa65",
+    "cblm09-p7-83fdc340"
+  ],
+  "questions": [
+    "cblm09-sc1-q2"
+  ],
+  "one_line_answer": {
+    "text": "Training needs are the gap between required competencies and the trainee's current competency.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm09",
+        "page": 7,
+        "quote": "Trainee's training requirements or training needs can be determined by identifying the gap between the required competencies as defined by the unit of competency and the trainee's current competency.",
+        "passageId": "cblm09-p7-71ef3ed0"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Training needs",
+      "bn": "প্রশিক্ষণের প্রয়োজন: ট্রেইনির কী শেখা বাকি"
+    },
+    {
+      "en": "Required competencies",
+      "bn": "unit of competency অনুযায়ী যে দক্ষতা থাকা দরকার"
+    },
+    {
+      "en": "Current competency",
+      "bn": "ট্রেইনির এখনকার দক্ষতা"
+    },
+    {
+      "en": "Gap",
+      "bn": "ফাঁক বা ঘাটতি"
+    },
+    {
+      "en": "Unit of competency",
+      "bn": "দক্ষতার একক, যেখানে দরকারি দক্ষতা লেখা থাকে"
+    }
+  ],
+  "bangla_explanation": [
+    "Training needs মানে ট্রেইনির কোন দক্ষতা এখনও শেখা বাকি।",
+    "Unit of competency বলে কী কী competency লাগবে, আর ট্রেইনির এখন কী আছে সেটা মিলিয়ে দেখুন।",
+    "এই দুইয়ের মাঝের gap-টুকুই শেখাতে হবে, তাহলে সময় নষ্ট হয় না।",
+    "তাই training শুরুর আগে self assessment দিয়ে results দেখে program বদলানো হয়।"
+  ],
+  "example": {
+    "en": "A welding trainee can already select and mark plates. He cannot weld in the 2G position. The gap is 2G welding.",
+    "bn": "যেটা ট্রেইনি আগেই পারে, সেটা আবার শেখানোর দরকার নেই; শুধু gap শেখান।"
+  },
+  "traps": [
+    {
+      "text": "Training needs are only the gap portion of skills and knowledge the learner needs.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 7,
+          "quote": "The gap between the required competencies and the current competencies held is the portion of the skills and knowledge the learner needs to achieve to be able to prove competency.",
+          "passageId": "cblm09-p7-948aaa65"
+        },
+        {
+          "src": "cblm09",
+          "page": 7,
+          "quote": "Trainee's training requirements or training needs can be determined by identifying the gap between the required competencies as defined by the unit of competency and the trainee's current competency."
+        }
+      ]
+    },
+    {
+      "text": "Self assessment tools are based on the unit of competency performance criteria.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 7,
+          "quote": "Based on the unit of competency performance criteria self assessment tools can be prepared and administered to trainees prior to training commencement or at the beginning of the course."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "How can you determine the training requirements of a specific target group of trainees?",
+      "modelAnswer": "Training requirements are found by identifying the gap.\n1. Find the required competencies in the unit of competency.\n2. Find the trainee's current competency by pre-assessment.\n3. The gap is the portion of skills and knowledge the learner still needs to achieve.\n4. Analyse the results and adjust the program.",
+      "keyPoints": [
+        {
+          "text": "Required competencies are defined by the unit of competency.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 7,
+              "quote": "Trainee's training requirements or training needs can be determined by identifying the gap between the required competencies as defined by the unit of competency and the trainee's current competency."
+            }
+          ]
+        },
+        {
+          "text": "The gap is the portion of skills and knowledge the learner needs to achieve.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 7,
+              "quote": "The gap between the required competencies and the current competencies held is the portion of the skills and knowledge the learner needs to achieve to be able to prove competency.",
+              "passageId": "cblm09-p7-83fdc340"
+            }
+          ]
+        },
+        {
+          "text": "Self assessment tools are administered prior to training commencement.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 7,
+              "quote": "Based on the unit of competency performance criteria self assessment tools can be prepared and administered to trainees prior to training commencement or at the beginning of the course."
+            }
+          ]
+        },
+        {
+          "text": "The results are analysed and the program is adjusted.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 7,
+              "quote": "The results should be analysed and the program adjusted accordingly."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "What are a trainee's training needs?",
+      "options": [
+        "The gap between required and current competencies",
+        "The nominal hours of the unit",
+        "The trainee's previous certificates",
+        "The list of training resources"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm09",
+        "page": 7,
+        "quote": "Trainee's training requirements or training needs can be determined by identifying the gap between the required competencies as defined by the unit of competency and the trainee's current competency."
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "Required competencies",
+          "right": "Defined by the unit of competency",
+          "cite": {
+            "src": "cblm09",
+            "page": 7,
+            "quote": "the required competencies as defined by the unit of competency"
+          }
+        },
+        {
+          "left": "Current competency",
+          "right": "Determined by pre-assessment",
+          "cite": {
+            "src": "cblm09",
+            "page": 24,
+            "quote": "Trainees' current competency can be determined by pre-assessment."
+          }
+        },
+        {
+          "left": "Gap",
+          "right": "Skills and knowledge the learner needs to achieve",
+          "cite": {
+            "src": "cblm09",
+            "page": 7,
+            "quote": "the portion of the skills and knowledge the learner needs to achieve"
+          }
+        },
+        {
+          "left": "Self assessment tools",
+          "right": "Administered prior to training commencement",
+          "cite": {
+            "src": "cblm09",
+            "page": 7,
+            "quote": "administered to trainees prior to training commencement"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why do you find the gap before training starts?",
+      "answer": {
+        "text": "The gap is the skills and knowledge the learner needs. Then the program is adjusted.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 7,
+            "quote": "The gap between the required competencies and the current competencies held is the portion of the skills and knowledge the learner needs to achieve to be able to prove competency."
+          },
+          {
+            "src": "cblm09",
+            "page": 7,
+            "quote": "The results should be analysed and the program adjusted accordingly."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

@@ -1,0 +1,269 @@
+{
+  "id": "third-party-report",
+  "canonical_title": "Third Party Report",
+  "aliases": [
+    "Third party evidence"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p68-ae694b07",
+    "cblm11-p71-f7b41d20"
+  ],
+  "questions": [
+    "cblm11-sc4-q3"
+  ],
+  "one_line_answer": {
+    "text": "Third party report: evidence provided by person who has first hand information on performance.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 68,
+        "quote": "Evidence provided by person who has first hand information on a candidate's performance",
+        "passageId": "cblm11-p68-ae694b07"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Third party",
+      "bn": "assessor ও candidate ছাড়া অন্য কেউ, যেমন supervisor"
+    },
+    {
+      "en": "First hand information",
+      "bn": "নিজের চোখে দেখা তথ্য"
+    },
+    {
+      "en": "Person in authority",
+      "bn": "দায়িত্বপ্রাপ্ত ব্যক্তি, যেমন employer"
+    },
+    {
+      "en": "Verifying",
+      "bn": "যাচাই করা"
+    },
+    {
+      "en": "Authenticity",
+      "bn": "প্রমাণটা সত্যিই candidate-এর কিনা"
+    }
+  ],
+  "bangla_explanation": [
+    "Third party report মানে এমন কারো লেখা মতামত, যিনি candidate-এর কাজ নিজে দেখেছেন।",
+    "সাধারণত person in authority, যেমন supervisor, এটা দেন।",
+    "এটা assessor observation যাচাই করতে আর consistency দেখতে কাজে লাগে।",
+    "কিন্তু authenticity নিয়ে সন্দেহ থাকলে এর ব্যবহার সীমিত; আত্মীয় বা close friend ফরম পূরণ করবেন না।"
+  ],
+  "example": {
+    "en": "A garments factory supervisor fills in a report about a trainee machine operator. She worked with him for six months.",
+    "bn": "গার্মেন্টস কারখানার supervisor trainee-র কাজ নিয়ে third party report দেন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Evidence provided by person who has first hand information on a candidate's performance",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 68,
+            "quote": "Evidence provided by person who has first hand information on a candidate's performance"
+          }
+        ]
+      },
+      {
+        "text": "Often supplied by person in authority",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 68,
+            "quote": "Often supplied by person in authority"
+          }
+        ]
+      },
+      {
+        "text": "Useful for verifying assessor observation",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 68,
+            "quote": "Useful for verifying assessor observation"
+          }
+        ]
+      },
+      {
+        "text": "Useful in assessing consistency of candidate performance",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 68,
+            "quote": "Useful in assessing consistency of candidate performance"
+          }
+        ]
+      },
+      {
+        "text": "Has limited use in situations where authenticity is an issue.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 68,
+            "quote": "Has limited use in situations where authenticity is an issue."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "It has limited use in situations where authenticity is an issue.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 68,
+          "quote": "Has limited use in situations where authenticity is an issue."
+        }
+      ]
+    },
+    {
+      "text": "A relative, close friend or person with a conflict of interest should not complete it.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 68,
+          "quote": "Please do not complete the form if you are a relative, close friend or have a conflict of interest"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What do you explain third party report?",
+      "modelAnswer": "A third party report is evidence provided by a person who has first hand information on a candidate's performance.\n1. Often supplied by a person in authority\n2. Useful for verifying assessor observation\n3. Useful in assessing consistency of candidate performance\n4. Has limited use where authenticity is an issue",
+      "keyPoints": [
+        {
+          "text": "It is often supplied by a person in authority.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 68,
+              "quote": "Often supplied by person in authority"
+            }
+          ]
+        },
+        {
+          "text": "It is useful for verifying assessor observation.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 68,
+              "quote": "Useful for verifying assessor observation"
+            }
+          ]
+        },
+        {
+          "text": "It has limited use where authenticity is an issue.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 68,
+              "quote": "Has limited use in situations where authenticity is an issue."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "A third party report is useful for:",
+      "options": [
+        "Replacing all other evidence",
+        "Verifying assessor observation",
+        "Proving authenticity in every case",
+        "Writing the assessment plan"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 68,
+        "quote": "Useful for verifying assessor observation"
+      }
+    },
+    "matching": {
+      "prompt": "Match each feature of a third party report.",
+      "pairs": [
+        {
+          "left": "Provided by",
+          "right": "A person with first hand information",
+          "cite": {
+            "src": "cblm11",
+            "page": 68,
+            "quote": "Evidence provided by person who has first hand information on a candidate's performance"
+          }
+        },
+        {
+          "left": "Often supplied by",
+          "right": "Person in authority",
+          "cite": {
+            "src": "cblm11",
+            "page": 68,
+            "quote": "Often supplied by person in authority"
+          }
+        },
+        {
+          "left": "Useful for",
+          "right": "Verifying assessor observation",
+          "cite": {
+            "src": "cblm11",
+            "page": 68,
+            "quote": "Useful for verifying assessor observation"
+          }
+        },
+        {
+          "left": "Also useful for",
+          "right": "Assessing consistency of candidate performance",
+          "cite": {
+            "src": "cblm11",
+            "page": 68,
+            "quote": "Useful in assessing consistency of candidate performance"
+          }
+        },
+        {
+          "left": "Limited use",
+          "right": "Where authenticity is an issue",
+          "cite": {
+            "src": "cblm11",
+            "page": 68,
+            "quote": "Has limited use in situations where authenticity is an issue."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Who provides a third party report?",
+      "answer": {
+        "text": "A person with first hand information on the candidate's performance. Often a person in authority.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 68,
+            "quote": "Evidence provided by person who has first hand information on a candidate's performance"
+          },
+          {
+            "src": "cblm11",
+            "page": 68,
+            "quote": "Often supplied by person in authority"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

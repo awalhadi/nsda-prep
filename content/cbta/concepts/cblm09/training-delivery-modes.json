@@ -1,0 +1,350 @@
+{
+  "id": "training-delivery-modes",
+  "canonical_title": "Training Delivery Modes",
+  "aliases": [
+    "Delivery modes",
+    "Off the job, on the job and on line training"
+  ],
+  "cblmPrimary": 9,
+  "source_type": "cblm",
+  "covers": [
+    "cblm09-p35-8665243e",
+    "cblm09-p35-157660f4",
+    "cblm09-p35-8350495d"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Choose the delivery mode that best suits the needs of your participants.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm09",
+        "page": 35,
+        "quote": "Training delivery modes",
+        "passageId": "cblm09-p35-8665243e"
+      },
+      {
+        "src": "cblm09",
+        "page": 35,
+        "quote": "There are number of training delivery modes or approaches and you will need to decide which one/s best suit the needs of your participants."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Delivery mode",
+      "bn": "প্রশিক্ষণ দেওয়ার ধরন"
+    },
+    {
+      "en": "Off the job",
+      "bn": "কর্মস্থলের বাইরে, যেমন প্রতিষ্ঠানে ক্লাস"
+    },
+    {
+      "en": "On the job",
+      "bn": "কর্মস্থলে কাজ করতে করতে"
+    },
+    {
+      "en": "On line",
+      "bn": "ইন্টারনেটের মাধ্যমে"
+    },
+    {
+      "en": "Peer support",
+      "bn": "সহকর্মী বা সহপাঠীর সহায়তা"
+    }
+  ],
+  "bangla_explanation": [
+    "Training কোথায় ও কীভাবে হবে, সেটাই delivery mode: off the job, on the job, বা on line।",
+    "Participants-দের needs, competencies, LL&N আর resources দেখে mode বেছে নিন।",
+    "On the job হলে real workplace situations আর peer support পাওয়া যায়।",
+    "On line mode-এ internet connection লাগে, আর technology issues সামলাতে হয়।"
+  ],
+  "example": {
+    "en": "Garment trainees first learn in the institute (off the job). Later they practise on the factory floor (on the job).",
+    "bn": "একই কোর্সে দুটো mode মিলিয়েও ব্যবহার করা যায়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Off the job: participants are grouped and attend regularly.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "Off the job."
+          },
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "Participants are"
+          },
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "grouped and attend"
+          },
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "regularly. The trainer"
+          }
+        ]
+      },
+      {
+        "text": "On the job training at the work place.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "On the job training"
+          },
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "at work place"
+          }
+        ]
+      },
+      {
+        "text": "On line: trainees use email and the Internet to access resources.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "• On line"
+          },
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "Trainees use email and"
+          },
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "the Internet to access"
+          },
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "resources and information"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Off the job: whole group needs to meet; course pace set by trainer.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 35,
+          "quote": "Off the job."
+        },
+        {
+          "src": "cblm09",
+          "page": 35,
+          "quote": "Whole group needs to"
+        },
+        {
+          "src": "cblm09",
+          "page": 35,
+          "quote": "Usually course"
+        },
+        {
+          "src": "cblm09",
+          "page": 35,
+          "quote": "pace set by trainer"
+        }
+      ]
+    },
+    {
+      "text": "On line mode requires internet connection and troubleshooting of technology issues.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 35,
+          "quote": "• On line"
+        },
+        {
+          "src": "cblm09",
+          "page": 35,
+          "quote": "• Requires internet connection and troubleshooting related to technology issues"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the training delivery modes, and how do you choose one?",
+      "modelAnswer": "Training delivery modes:\n1. Off the job: participants are grouped and attend regularly.\n2. On the job training at the work place.\n3. On line: trainees use email and the Internet.\nChoose by the competencies, program goals, learner characteristics, LL&N requirements and available resources.",
+      "keyPoints": [
+        {
+          "text": "Base the choice on competencies, program goals, learner characteristics, LL&N, resources and equipment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Your choice should be based on appropriateness to the competencies to be achieved, the goals of the training program, the characteristics of the learners, LL&N requirements, availability of resources and equipment."
+            }
+          ]
+        },
+        {
+          "text": "Off the job provides interaction and social opportunities among participants.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Off the job."
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Provides interaction"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "and social"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "opportunities among"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "participants"
+            }
+          ]
+        },
+        {
+          "text": "On the job gives real workplace situations and peer support.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "On the job training"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Peer support"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Real workplace"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "situations"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "What should your choice of delivery mode be based on?",
+      "options": [
+        "Competencies, program goals, learner characteristics and resources",
+        "The trainer's favourite method only",
+        "The cheapest venue only",
+        "The number of handouts"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm09",
+        "page": 35,
+        "quote": "Your choice should be based on appropriateness to the competencies to be achieved, the goals of the training program, the characteristics of the learners, LL&N requirements, availability of resources and equipment."
+      }
+    },
+    "matching": {
+      "prompt": "Match each delivery mode with a feature.",
+      "pairs": [
+        {
+          "left": "Off the job",
+          "right": "Whole group needs to meet",
+          "cite": {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "Whole group needs to"
+          }
+        },
+        {
+          "left": "On line",
+          "right": "Requires internet connection",
+          "cite": {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "• Requires internet connection and troubleshooting related to technology issues"
+          }
+        },
+        {
+          "left": "On the job training",
+          "right": "Training at the work place",
+          "cite": {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "On the job training"
+          }
+        },
+        {
+          "left": "Choice of mode",
+          "right": "Characteristics of the learners and LL&N",
+          "cite": {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "Your choice should be based on appropriateness to the competencies to be achieved, the goals of the training program, the characteristics of the learners, LL&N requirements, availability of resources and equipment."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Name the training delivery modes.",
+      "answer": {
+        "text": "Off the job, on the job training at work place, and on line.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "Off the job.",
+            "passageId": "cblm09-p35-157660f4"
+          },
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "On the job training",
+            "passageId": "cblm09-p35-8350495d"
+          },
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "at work place"
+          },
+          {
+            "src": "cblm09",
+            "page": 35,
+            "quote": "• On line"
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "list_answer",
+      "note": "The p.35 delivery modes table is extracted cell by cell, so advantages and limitations cannot be tied to a mode with certainty. It also seems to mix in a mail-based mode ('Mail and return times may slow down process', 'No technical skills required') that conflicts with 'On line ... Requires internet connection'. Check the PDF table before adding advantages/limitations per mode."
+    }
+  ]
+}

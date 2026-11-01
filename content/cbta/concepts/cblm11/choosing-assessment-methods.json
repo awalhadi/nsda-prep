@@ -1,0 +1,314 @@
+{
+  "id": "choosing-assessment-methods",
+  "canonical_title": "Choosing Assessment Methods",
+  "aliases": [
+    "Factors that influence assessment methods",
+    "Selecting appropriate assessment methods",
+    "Choosing assessment methods and tools"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p31-96ca2358",
+    "cblm11-p31-5a9295d8",
+    "cblm11-p52-644b456a"
+  ],
+  "questions": [
+    "paper-short-questions-q57"
+  ],
+  "one_line_answer": {
+    "text": "The assessment methods you choose depend on many factors.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 31,
+        "quote": "The methods you choose will depend on many factors."
+      },
+      {
+        "src": "cblm11",
+        "page": 31,
+        "quote": "Factors that influence assessment methods:",
+        "passageId": "cblm11-p31-96ca2358"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Assessment method",
+      "bn": "মূল্যায়নের পদ্ধতি"
+    },
+    {
+      "en": "Factors",
+      "bn": "প্রভাব ফেলে এমন বিষয়"
+    },
+    {
+      "en": "Integrated assessment",
+      "bn": "পুরো কাজ একসাথে মূল্যায়ন"
+    },
+    {
+      "en": "Evidence-gathering opportunities",
+      "bn": "প্রমাণ সংগ্রহের সুযোগ"
+    },
+    {
+      "en": "Simulation",
+      "bn": "বাস্তবের মতো সাজানো পরিস্থিতি"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment method বেছে নেওয়ার আগে কয়েকটি factors ভাবতে হয়।",
+    "যেমন কত time and money আছে, organisational culture কেমন, candidate-এর needs কী।",
+    "Integrated assessment মানে performing a whole job — কয়েকটি units একসাথে।",
+    "প্রতিটি method-এর সুবিধা-অসুবিধা আছে; যেমন শুধু observation দিয়ে underpinning knowledge বোঝা কঠিন।"
+  ],
+  "example": {
+    "en": "A hospital assesses nurses on a ward. Real emergencies are unsafe to wait for, so the assessor uses a simulation.",
+    "bn": "নিরাপত্তার কারণে হাসপাতালে simulation ভালো পদ্ধতি।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Organisational culture, polices and systems.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 31,
+            "quote": "Organisational culture, polices and systems."
+          }
+        ]
+      },
+      {
+        "text": "Amount of time and money available.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 31,
+            "quote": "Amount of time and money available."
+          }
+        ]
+      },
+      {
+        "text": "Evidence-gathering opportunities: when methods and tools are available.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 31,
+            "quote": "Evidence-gathering opportunities. The selection of the methods and tools may need to depend upon when they are available"
+          }
+        ]
+      },
+      {
+        "text": "Legal, ethical and OHS requirements.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 31,
+            "quote": "Legal, ethical and OHS requirements may need to be included in an assessment method."
+          }
+        ]
+      },
+      {
+        "text": "Single and multiple units of competency.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 31,
+            "quote": "Single and multiple units of competency."
+          }
+        ]
+      },
+      {
+        "text": "The needs of participant/s.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 31,
+            "quote": "The needs of participant/s."
+          }
+        ]
+      },
+      {
+        "text": "Risks and requirements of different assessment applications in various contexts.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 31,
+            "quote": "The risks and requirements that are connected with the different assessment applications in various contexts."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Observation alone finds it difficult to assess underpinning knowledge. Combine it with other methods.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 52,
+          "quote": "difficult to assess underpinning knowledge unless combined with other methods"
+        }
+      ]
+    },
+    {
+      "text": "Integrated assessment focuses on performing a whole job, not a single task.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 31,
+          "quote": "Integrated assessment is an assessment approach that focuses on 'performing a whole job' or a real work task."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What should be considered when choosing assessment methods?",
+      "modelAnswer": "Assessment methods must be relevant. Consider:\n1. The skill or competency being assessed\n2. The purpose and nature of the assessment\n3. Resources available\n4. Evidence that already exists in the workplace\n5. How easy the tools are to use\n6. Whether it is practical in time and cost\n7. Integrated and realistic evidence collection\n8. Reasonable adjustments for a candidate with disability",
+      "keyPoints": [
+        {
+          "text": "Consider the skill or competency, and the purpose and nature of the assessment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 53,
+              "quote": "the skill or competency being assessed • the purpose and nature of the assessment"
+            }
+          ]
+        },
+        {
+          "text": "Consider available resources and what evidence already exists in the workplace.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 53,
+              "quote": "what resources are available to you and/or the candidate • what evidence already exists in the workplace"
+            }
+          ]
+        },
+        {
+          "text": "Consider how easy the tools are to use, and time and cost.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 53,
+              "quote": "how easy the assessment tools are to use • whether the method is practical in terms of time and cost"
+            }
+          ]
+        },
+        {
+          "text": "Consider reasonable adjustments for a candidate with a permanent or temporary disability.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 53,
+              "quote": "if you need to make Reasonable adjustments for a candidate with a permanent or temporary disability."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which method is useful for overcoming ethical or safety problems?",
+      "options": [
+        "Portfolio",
+        "Simulation",
+        "Written assessment",
+        "Learning journal"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 52,
+        "quote": "Simulation for example, interviewing skills or career consultation; useful for overcoming ethical or safety problems"
+      }
+    },
+    "matching": {
+      "prompt": "Match each method with its feature.",
+      "pairs": [
+        {
+          "left": "Interview",
+          "right": "Can be structure or unstructured",
+          "cite": {
+            "src": "cblm11",
+            "page": 52,
+            "quote": "Interview can be structure or unstructured"
+          }
+        },
+        {
+          "left": "Samples of work",
+          "right": "Often already exist; ensure authenticity",
+          "cite": {
+            "src": "cblm11",
+            "page": 52,
+            "quote": "Samples of work often already exist, however you need to ensure authenticity"
+          }
+        },
+        {
+          "left": "Observation",
+          "right": "Needs a well planned guide",
+          "cite": {
+            "src": "cblm11",
+            "page": 52,
+            "quote": "Observation needs a well planned guide"
+          }
+        },
+        {
+          "left": "Project",
+          "right": "Can combine on-job and off-job activities",
+          "cite": {
+            "src": "cblm11",
+            "page": 52,
+            "quote": "Project can combine on-job and off-job activities"
+          }
+        },
+        {
+          "left": "Self assessment",
+          "right": "Valuable for adult learners",
+          "cite": {
+            "src": "cblm11",
+            "page": 52,
+            "quote": "Self assessment valuable for adult learners"
+          }
+        },
+        {
+          "left": "Learning journal",
+          "right": "Records progress over a period of time",
+          "cite": {
+            "src": "cblm11",
+            "page": 52,
+            "quote": "records progress over a period of time"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What does integrated assessment combine?",
+      "answer": {
+        "text": "It combines knowledge, skills, attitude and ethics from a range of work activities.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 31,
+            "quote": "This assessment combines the application and demonstration of: • knowledge • skills • attitude • ethics from a range of work activities)."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

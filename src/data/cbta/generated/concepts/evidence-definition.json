@@ -1,0 +1,416 @@
+{
+  "aliases": [
+    "What is evidence",
+    "Sources of evidence",
+    "Definition of evidence"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 20,
+          "printed": 20
+        },
+        {
+          "pdf": 21,
+          "printed": 21
+        }
+      ],
+      "src": "cblm11"
+    }
+  ],
+  "banglaExplanation": [
+    "Evidence হলো সেই information, যা unit of competency-র সাথে মিলিয়ে দেখা হয়।",
+    "এটাই proof যে person competent।",
+    "Evidence আসে চার জায়গা থেকে: products, processes, underpinning knowledge আর attitudes।",
+    "Competency সরাসরি দেখা যায় না, performance দেখে বুঝতে হয়, তাই evidence লাগে।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 11,
+  "errata": [],
+  "example": {
+    "bn": "রুটিটা product, আর নিরাপদ পদ্ধতি মেনে চলা process।",
+    "en": "A baking trainee makes bread to specification. The bread is a product. Following safe methods is a process."
+  },
+  "highlighted": true,
+  "id": "evidence-definition",
+  "importance": {
+    "bn": "CBLM 11-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 11."
+  },
+  "keywords": [
+    {
+      "bn": "প্রমাণ",
+      "en": "Evidence"
+    },
+    {
+      "bn": "যোগ্যতার প্রমাণ",
+      "en": "Proof"
+    },
+    {
+      "bn": "প্রার্থীর তৈরি জিনিস",
+      "en": "Products"
+    },
+    {
+      "bn": "কাজের পদ্ধতি বা ধাপ",
+      "en": "Processes"
+    },
+    {
+      "bn": "কাজের পেছনের জ্ঞান",
+      "en": "Underpinning knowledge"
+    },
+    {
+      "bn": "মনোভাব",
+      "en": "Attitudes"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 20,
+            "passageId": "cblm11-p20-8d804df9",
+            "printedPage": 20,
+            "quote": "Products that have been produced or made by assessee",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Products that have been produced or made by assessee"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Processes that had been carried out by the assessee",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Processes that had been carried out by the assessee"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "underpinning knowledge and skills demonstrate by the assess",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Underpinning knowledge and skills demonstrated by the assessee"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "underlying attitudes exhibited by the assessee",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Underlying attitudes exhibited by the assessee"
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 20,
+        "passageId": "cblm11-p20-20192191",
+        "printedPage": 20,
+        "quote": "Evidence is information gathered and matched against a unit of competency/ies to provide proof that a person is competent.",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Evidence is information gathered and matched against a unit of competency to prove competence."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Products Processes • Work piece is to specification.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Work piece is to specification",
+          "right": "Product"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Processes • Work piece is to specification. • Correct procedures are followed",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Correct procedures are followed",
+          "right": "Process"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "underpinning knowledge and skills demonstrate by the assess",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Underpinning knowledge",
+          "right": "Demonstrated by the assessee"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "underlying attitudes exhibited by the assessee",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Underlying attitudes",
+          "right": "Exhibited by the assessee"
+        }
+      ],
+      "prompt": "Match each example with its aspect of competency."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 20,
+        "printedPage": 20,
+        "quote": "Evidence is information gathered and matched against a unit of competency/ies",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "answerIndex": 0,
+      "options": [
+        "A unit of competency",
+        "A trainee attendance sheet",
+        "A job advertisement",
+        "A training budget"
+      ],
+      "prompt": "Evidence is matched against which document to prove competence?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Evidence can take many forms and can be gathered from a number of sources.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Evidence can take many forms and can be gathered from a number of sources."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Work piece is to specification.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Sale of product is made.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Customer is satisfied.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Budget is achieved.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Product examples: work piece to specification, sale made, customer satisfied, budget achieved."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Correct procedures are followed",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Safe work methods are used.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Correct sequence is followed",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Work as a member of a team.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Process examples: correct procedures, safe work methods, correct sequence, teamwork."
+        }
+      ],
+      "modelAnswer": "Evidence is information gathered and matched against a unit of competency to prove a person is competent. Sources include:\n1. Products made by the assessee\n2. Processes carried out by the assessee\n3. Underpinning knowledge and skills demonstrated\n4. Underlying attitudes exhibited",
+      "prompt": "What is evidence? From which sources can it be gathered?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Competency cannot be observed directly.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "to provide proof that a person is competent.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Competency cannot be observed directly. Evidence provides proof that a person is competent."
+      },
+      "prompt": "Why do we need evidence in assessment?"
+    }
+  },
+  "realQuestions": [],
+  "score": 3,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Evidence in Competency Based Assessment",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 20,
+          "printedPage": 20,
+          "quote": "Competency cannot be observed directly. It can only be inferred from performance.",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "verbatim",
+      "text": "Competency cannot be observed directly. It can only be inferred from performance."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 21,
+          "printedPage": 21,
+          "quote": "Work piece is to specification.",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 21,
+          "printedPage": 21,
+          "quote": "Correct procedures are followed",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "\"Work piece is to specification\" is a product. \"Correct procedures are followed\" is a process."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

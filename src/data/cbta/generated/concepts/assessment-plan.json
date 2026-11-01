@@ -1,0 +1,442 @@
+{
+  "aliases": [
+    "Competency Assessment Plan",
+    "Reviewing assessment plan"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 45,
+          "printed": 45
+        },
+        {
+          "pdf": 46,
+          "printed": 46
+        },
+        {
+          "pdf": 51,
+          "printed": null
+        }
+      ],
+      "src": "cblm11"
+    }
+  ],
+  "banglaExplanation": [
+    "Assessment plan হলো পুরো assessment process-এর মূল পরিকল্পনার document।",
+    "এটা বানান assessment designer, আর এতে purpose, context, benchmarks, methods ও tools থাকে।",
+    "কী, কীভাবে, কোথায়, কখন assessment হবে, সব plan-এ লেখা থাকে।",
+    "Plan reviewing জরুরি, কারণ দেখতে হয় উদ্দেশ্য পূরণ হয়েছে কিনা; শেষ version stakeholders-কে জানিয়ে রেকর্ড রাখতে হয়।"
+  ],
+  "breakdown": {
+    "exam": 6,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 11,
+  "errata": [],
+  "example": {
+    "bn": "ইলেকট্রিক্যাল ট্রেডের plan-এ লেখা থাকে কী, কীভাবে, কোথায়, কখন assessment হবে।",
+    "en": "An electrical trainer writes an assessment plan. It says what, how, where and when trainees are assessed."
+  },
+  "highlighted": true,
+  "id": "assessment-plan",
+  "importance": {
+    "bn": "Short Questions (Short 69) আর CBLM 11 Self Check 3 (Q1, Q4): 2 জায়গায় এসেছে। CBLM 11-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Short Questions (Short 69) and CBLM 11 Self Check 3 (Q1, Q4). Highlighted in CBLM 11. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "assessment-এর পূর্ণ পরিকল্পনার কাগজ",
+      "en": "Assessment plan"
+    },
+    {
+      "bn": "যিনি assessment plan তৈরি করেন",
+      "en": "Assessment designer"
+    },
+    {
+      "bn": "যার সাথে মিলিয়ে বিচার করা হয়, মানদণ্ড",
+      "en": "Benchmarks"
+    },
+    {
+      "bn": "সংশ্লিষ্ট ব্যক্তি বা প্রতিষ্ঠান",
+      "en": "Stakeholders"
+    },
+    {
+      "bn": "কোনটা শেষ সংস্করণ তার হিসাব রাখা",
+      "en": "Version control"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "purpose and aims of assessment",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Purpose and aims of assessment"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "context of assessment",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Context of assessment"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "relevant benchmarks for assessment",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Relevant benchmarks for assessment"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "other assessment information and documentation identified as relevant",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "what is to be assessed o how assessment is to take place o where assessment is to take place o when assessment is to take place",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Other relevant information: what, how, where and when assessment takes place."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 45,
+        "passageId": "cblm11-p45-b3112ad0",
+        "printedPage": 45,
+        "quote": "An assessment plan is the overall planning document for the assessment process",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "An assessment plan is the overall planning document for the assessment process."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "An assessment plan is developed by an assessment designer.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Developer",
+          "right": "Assessment designer"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "Multiple methods of assessment should be used including both direct and indirect methods",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Effective plan",
+          "right": "Uses both direct and indirect methods"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "Assessment results should inform improvement in designing of future assessment events.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Assessment results",
+          "right": "Inform improvement of future assessment events"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 51,
+            "printedPage": null,
+            "quote": "Reviewing the assessment plan is critical to ensure that the proposed outcomes of the assessment plan have achieved what was intended.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Reviewing the plan",
+          "right": "Ensures outcomes achieved what was intended"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 51,
+            "printedPage": null,
+            "quote": "and recorded. This can be achieved using version control.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Version control",
+          "right": "Records the confirmed final version"
+        }
+      ],
+      "prompt": "Match each part of the assessment plan topic with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 45,
+        "printedPage": 45,
+        "quote": "An assessment plan is developed by an assessment designer.",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "answerIndex": 1,
+      "options": [
+        "The candidate",
+        "An assessment designer",
+        "The third party",
+        "The BTEB registrar"
+      ],
+      "prompt": "Who develops an assessment plan?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "may include purpose, context, personnel, competency standards/assessment benchmarks, assessment methods and tools, the evidence plan",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It may include purpose, context, personnel, benchmarks, methods and tools, and the evidence plan."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "organisational arrangements including physical and material resources and equipment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It includes organisational arrangements, including physical and material resources and equipment."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "An assessment plan is developed by an assessment designer.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "An assessment plan is developed by an assessment designer."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "passageId": "cblm11-p45-1a115121",
+              "printedPage": 45,
+              "quote": "Multiple methods of assessment should be used including both direct and indirect methods",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "passageId": "cblm11-p45-6f946e26",
+              "printedPage": 45,
+              "quote": "Characteristic of an effective assessment plan",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Effective plans use multiple methods, both direct and indirect."
+        }
+      ],
+      "modelAnswer": "An assessment plan is the overall planning document for the assessment process. It guides assessors. It may include purpose, context, personnel, competency standards/assessment benchmarks, assessment methods and tools, the evidence plan and organisational arrangements, including resources and equipment.\nAn assessment plan is developed by an assessment designer.",
+      "prompt": "What is an Assessment plan? Who develops it?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 51,
+            "printedPage": null,
+            "quote": "Reviewing the assessment plan is critical to ensure that the proposed outcomes of the assessment plan have achieved what was intended.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Reviewing ensures the proposed outcomes of the plan have achieved what was intended."
+      },
+      "prompt": "Why do you need to review your assessment plan?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "An assessment plan is the overall planning document for the assessment process\nand includes a range of information to guide assessors which may include purpose,\ncontext, personnel, competency standards/assessment benchmarks, assessment\nmethods and tools, the evidence plan, organisational arrangements including\nphysical and material resources and equipment and other relevant information. An\nassessment plan is developed by an assessment designer.",
+      "flags": [],
+      "id": "cblm11-sc3-q1",
+      "kind": "selfcheck",
+      "label": "CBLM 11 Self Check 3 (Q1)",
+      "page": 55,
+      "printedPage": 55,
+      "question": "What is an Assessment plan? Who develops it?",
+      "src": "cblm11",
+      "type": "short"
+    },
+    {
+      "answer": "Reviewing the assessment plan is critical to ensure that the proposed outcomes\nof the assessment plan have achieved what was intended. It is normal to have\nseveral versions of the assessment plan before you finally reach agreement with\nyour colleagues or stakeholders. However, it is important that the final version is\ncommunicated and confirmed with key stakeholders, and recorded. This can be\nachieved using version control.",
+      "flags": [],
+      "id": "cblm11-sc3-q4",
+      "kind": "selfcheck",
+      "label": "CBLM 11 Self Check 3 (Q4)",
+      "page": 55,
+      "printedPage": 55,
+      "question": "Why do you need to review your assessment plan?",
+      "src": "cblm11",
+      "type": "short"
+    },
+    {
+      "answer": "An assessment plan contains the purpose and context; personnel;\ncompetency standards or benchmarks; assessment methods and tools; evidence\nplan; organisational arrangements; physical and material resources; equipment;\nand logistics.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q69",
+      "kind": "paper",
+      "label": "Short Questions (Short 69)",
+      "page": 9,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What information does an assessment plan contain?",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 10,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Assessment Plan",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 45,
+          "printedPage": 45,
+          "quote": "An assessment plan is developed by an assessment designer.",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "An assessment plan is developed by an assessment designer."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 51,
+          "passageId": "cblm11-p51-f4949546",
+          "printedPage": null,
+          "quote": "It is normal to have several versions of the assessment plan",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 51,
+          "printedPage": null,
+          "quote": "it is important that the final version is communicated and confirmed with key stakeholders, and recorded",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Several versions are normal. The final version must be communicated, confirmed and recorded."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

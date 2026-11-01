@@ -1,0 +1,251 @@
+{
+  "id": "holistic-assessment-clustering",
+  "canonical_title": "Holistic Assessment Design and Clustering Competencies",
+  "aliases": [
+    "Holistic assessment design",
+    "Clustering competencies",
+    "Integrated assessment design"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p15-020c4877",
+    "cblm11-p15-5e63673c",
+    "cblm11-p15-9e7e9aa7",
+    "cblm11-p15-3dc935b1"
+  ],
+  "questions": [
+    "paper-final-formative-01-q7",
+    "paper-short-questions-q70"
+  ],
+  "one_line_answer": {
+    "text": "Holistic assessment design is an integrated approach combining knowledge, skills, attitudes and ethics.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 15,
+        "quote": "This refers to an integrated approach to assessment design which seeks to combine knowledge, understanding, problem solving, technical skills, attitudes and ethics into assessment events.",
+        "passageId": "cblm11-p15-020c4877"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Holistic",
+      "bn": "সামগ্রিক, সব দিক একসাথে"
+    },
+    {
+      "en": "Integrated approach",
+      "bn": "সমন্বিত পদ্ধতি"
+    },
+    {
+      "en": "Clustering",
+      "bn": "কয়েকটি unit একসাথে গুচ্ছ করা"
+    },
+    {
+      "en": "Unit of competency",
+      "bn": "দক্ষতার একক"
+    },
+    {
+      "en": "Real work activities",
+      "bn": "বাস্তব কাজের কার্যক্রম"
+    }
+  ],
+  "bangla_explanation": [
+    "Holistic design-এ knowledge, skills, attitudes আর ethics একসাথে মূল্যায়ন করা হয়।",
+    "বাস্তব কাজ একটা unit-এ আটকে থাকে না, তাই কয়েকটি unit একসাথে clustering করা হয়।",
+    "এতে assessment বাস্তব কাজের মতো হয় আর সময় ও resources বাঁচে।",
+    "Clustering হলো integrated assessment design-কে সাহায্য করার একটা উপায়।"
+  ],
+  "example": {
+    "en": "In one bakery task, a trainee follows safety, measures ingredients and bakes bread. Several units are assessed together.",
+    "bn": "একটি বেকারি কাজেই safety, মাপজোখ আর বেকিং একসাথে assess হয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "It reflects real ways of working.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 15,
+            "quote": "it reflects real ways of working,",
+            "passageId": "cblm11-p15-3dc935b1"
+          }
+        ]
+      },
+      {
+        "text": "Evidence for all the dimensions of a competency is more readily available.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 15,
+            "quote": "evidence for all the dimensions of a competency are more readily available"
+          }
+        ]
+      },
+      {
+        "text": "It is an efficient use of time and assessment resources.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 15,
+            "quote": "it is an efficient use of time and assessment resources"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Assessments follow skills required in the workplace, not the way courses are written.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 15,
+          "quote": "assessments should be determined by the logical application of skills and knowledge required in the workplace, not by the way training programs or courses are written."
+        }
+      ]
+    },
+    {
+      "text": "Clustering is a mechanism to support integrated assessment design.",
+      "fidelity": "verbatim",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 15,
+          "quote": "Clustering is a mechanism to support integrated assessment design."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are two benefits of clustering competencies when designing assessment?",
+      "modelAnswer": "Clustering means one assessment event covers more than one unit of competency. Benefits:\n1. It reflects real ways of working.\n2. Evidence for all the dimensions of a competency is more readily available.\n3. It is an efficient use of time and assessment resources.",
+      "keyPoints": [
+        {
+          "text": "An assessment event can cover more than one unit of competency by clustering.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 15,
+              "quote": "An assessment event can cover more than one unit of competency at a time by clustering of the competencies.",
+              "passageId": "cblm11-p15-9e7e9aa7"
+            }
+          ]
+        },
+        {
+          "text": "Gathering evidence can apply to part of a unit or an entire qualification.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 15,
+              "quote": "The process of gathering evidence can apply to part of a unit, a whole unit, a cluster of units or an entire qualification."
+            }
+          ]
+        },
+        {
+          "text": "Holistic assessment design often collects evidence from more than one unit of competency.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 15,
+              "quote": "Holistic assessment design often involves collecting evidence from more than one unit of competency."
+            }
+          ]
+        },
+        {
+          "text": "The Assessment Plan documents where clustering is appropriate.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "It is important that the Assessment Plan documents where clustering is appropriate."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "An integrated approach that combines knowledge, problem solving, technical skills, attitudes and ethics is called:",
+      "options": [
+        "Holistic assessment design",
+        "Diagnostic assessment",
+        "Formative assessment",
+        "Recruitment assessment"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 15,
+        "quote": "Holistic Assessment Design This refers to an integrated approach to assessment design"
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with what the CBLM says.",
+      "pairs": [
+        {
+          "left": "Holistic assessment design",
+          "right": "Integrated approach combining knowledge, skills, attitudes and ethics",
+          "cite": {
+            "src": "cblm11",
+            "page": 15,
+            "quote": "an integrated approach to assessment design which seeks to combine knowledge, understanding, problem solving, technical skills, attitudes and ethics"
+          }
+        },
+        {
+          "left": "Clustering",
+          "right": "A mechanism to support integrated assessment design",
+          "cite": {
+            "src": "cblm11",
+            "page": 15,
+            "quote": "Clustering is a mechanism to support integrated assessment design."
+          }
+        },
+        {
+          "left": "Assessment event",
+          "right": "Can cover more than one unit of competency",
+          "cite": {
+            "src": "cblm11",
+            "page": 15,
+            "quote": "An assessment event can cover more than one unit of competency at a time"
+          }
+        },
+        {
+          "left": "Efficient use",
+          "right": "Of time and assessment resources",
+          "cite": {
+            "src": "cblm11",
+            "page": 15,
+            "quote": "it is an efficient use of time and assessment resources"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why may assessment draw on several units at once?",
+      "answer": {
+        "text": "Real work activities are often not described in a single unit. Assessment must reflect real work.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 15,
+            "quote": "Often, real work activities are not adequately described in a single unit of competency thus for assessment to reflect real work activities"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

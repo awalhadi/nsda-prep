@@ -1,0 +1,382 @@
+{
+  "aliases": [
+    "Determine learner's competency",
+    "Pre-assess a trainee's competencies",
+    "Identifying current competencies of trainees"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 9,
+      "pages": [
+        {
+          "pdf": 11,
+          "printed": 11
+        },
+        {
+          "pdf": 12,
+          "printed": 12
+        },
+        {
+          "pdf": 23,
+          "printed": 23
+        },
+        {
+          "pdf": 24,
+          "printed": 24
+        }
+      ],
+      "src": "cblm09"
+    }
+  ],
+  "banglaExplanation": [
+    "ক্লাস শুরুর আগে জানতে হবে ট্রেইনি এখন কী পারে, একেই pre assessment বলে।",
+    "দুইভাবে করা যায়: সরাসরি learner-এর সাথে checking, আর pre session information analyse করা।",
+    "Checking মানে self assessment instrument, oral interview বা written test।",
+    "এতে বোঝা যায় training-এর best starting point কোথায়, ফলে সময় নষ্ট হয় না।"
+  ],
+  "breakdown": {
+    "exam": 4,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 9,
+  "errata": [],
+  "example": {
+    "bn": "Welding কোর্সের আগে self-assessment checklist-এ Yes/No টিক দেওয়া হয়।",
+    "en": "Before a welding course, each trainee ticks Yes or No for every performance criterion. The trainer reads the CV too."
+  },
+  "highlighted": true,
+  "id": "pre-assessment-of-trainees",
+  "importance": {
+    "bn": "CBLM 9 Self Check 1 (Q1, Q2)-এ এসেছে। CBLM 9-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in CBLM 9 Self Check 1 (Q1, Q2). Highlighted in CBLM 9. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "training শুরুর আগে দক্ষতা যাচাই",
+      "en": "Pre-assessment"
+    },
+    {
+      "bn": "ট্রেইনির এখনকার দক্ষতা",
+      "en": "Current competency"
+    },
+    {
+      "bn": "নিজে নিজের দক্ষতা যাচাইয়ের ফর্ম",
+      "en": "Self-assessment instrument"
+    },
+    {
+      "bn": "session-এর আগে পাওয়া তথ্য, যেমন enrolment form",
+      "en": "Pre-session information"
+    },
+    {
+      "bn": "মুখে প্রশ্ন করে যাচাই",
+      "en": "Oral interview"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 11,
+            "passageId": "cblm09-p11-6cac6771",
+            "printedPage": 11,
+            "quote": "Checking with the learner When you meet the trainee (first time), you can ask the learner to respond or undergo a self-assessment instrument or subject them to an oral interview or written test.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Checking with the learner: self-assessment instrument, oral interview or written test."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 11,
+            "passageId": "cblm09-p11-8290abc6",
+            "printedPage": 11,
+            "quote": "Analyse any pre-session information available, like enrolment form or -pre- application form and other related documents such as;",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Analyse pre-session information, like the enrolment form or pre-application form."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 9,
+        "match": "exact",
+        "page": 11,
+        "passageId": "cblm09-p11-8749f5ba",
+        "printedPage": 11,
+        "quote": "Trainees' current competency can be determined by pre-assessment.",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      }
+    ],
+    "fidelity": "verbatim",
+    "text": "Trainees' current competency can be determined by pre-assessment."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "A self-assessment guide is a listing of competency areas",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Self-assessment guide",
+          "right": "Listing of competency areas"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Analyse any pre-session information available, like enrolment form or -pre- application form",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Pre-session information",
+          "right": "Enrolment form or pre-application form"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Checking with the learner When you meet the trainee (first time), you can ask the learner to respond or undergo a self-assessment instrument or subject them to an oral interview or written test.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Checking with the learner",
+          "right": "Oral interview or written test"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Performance Reports from Supervisor.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Supervisor",
+          "right": "Performance reports"
+        }
+      ],
+      "prompt": "Match each pre-assessment item with its description."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 9,
+        "match": "exact",
+        "page": 11,
+        "printedPage": 11,
+        "quote": "subject them to an oral interview or written test.",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Oral interview",
+        "Session review",
+        "Venue site visit",
+        "Delivery plan"
+      ],
+      "prompt": "Which is a method to pre-assess a trainee?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "A self-assessment guide is a listing of competency areas that allows the trainee to",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A self-assessment guide is a listing of competency areas."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Asking trainees to complete a self assessment guide will help you and trainees know the best starting point for any training.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A self assessment guide helps you know the best starting point for training."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "It is always important that you give your trainee a pre-self assessment before you proceed in your session",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Give the pre-self assessment before you proceed in your session."
+        }
+      ],
+      "modelAnswer": "Current competency is determined by pre-assessment.\n1. Checking with the learner: a self-assessment instrument, an oral interview or a written test.\n2. Analyse pre-session information: enrolment or pre-application form, previous assessment reports, resume, enterprise records, supervisor performance reports.",
+      "prompt": "How do you identify the current competencies of your trainee?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "It is always important that you give your trainee a pre-self assessment before you proceed in your session so that you can determine their level of competency.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "It helps you determine their level of competency before you proceed."
+      },
+      "prompt": "Why give a pre-self assessment before the session?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Trainees' current competency can be determined by pre-assessment.\nThe following are suggested methods you can use to pre-assess a trainee's\ncompetencies.\n1. Checking with the learner.\nWhen you meet the trainee (first time), you can ask the learner to respond or\nundergo a self-assessment instrument or subject them to an oral interview or\nwritten test.",
+      "flags": [],
+      "id": "cblm09-sc1-q1",
+      "kind": "selfcheck",
+      "label": "CBLM 9 Self Check 1 (Q1)",
+      "page": 23,
+      "printedPage": 23,
+      "question": "How do you identify the current competencies of your trainee?",
+      "src": "cblm09",
+      "type": "short"
+    },
+    {
+      "answer": "Analyse any pre-session information available, like enrolment form or -pre-\napplication form and other related documents such as;\n•\nReports of previous competency assessment undertaken.\n•\nResume or Curriculum Vitae.\n•\nEnterprise training and assessment records.\n•\nPerformance Reports from Supervisor.\nAnswer 2\nTrainee's training requirements or training needs can be determined by identifying\nthe gap between the required competencies as defined by the unit of competency\nand the trainee's current competency.\nThe gap between the required competencies and the current competencies is the\nportion of the skills and knowledge the learner needs to achieve to be recognized as\ncompetent in a particular job.",
+      "flags": [],
+      "id": "cblm09-sc1-q2",
+      "kind": "selfcheck",
+      "label": "CBLM 9 Self Check 1 (Q2)",
+      "page": 23,
+      "printedPage": 23,
+      "question": "How can you determine the training requirements of a specific target group of\ntrainees?",
+      "src": "cblm09",
+      "type": "short"
+    }
+  ],
+  "score": 8,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Pre-assessment of a Trainee's Current Competency",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 11,
+          "printedPage": 11,
+          "quote": "Reports of previous competency assessment undertaken.",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 11,
+          "printedPage": 11,
+          "quote": "Resume or Curriculum Vitae.",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 11,
+          "printedPage": 11,
+          "quote": "Enterprise training and assessment records.",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 11,
+          "printedPage": 11,
+          "quote": "Performance Reports from Supervisor.",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Related documents: previous assessment reports, resume, enterprise training records, supervisor performance reports."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 11,
+          "printedPage": 11,
+          "quote": "Trainees' current competency can be determined by pre-assessment.",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 24,
+          "printedPage": 24,
+          "quote": "Trainee's training requirements or training needs can be determined by identifying",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Pre-assessment determines current competency. Training needs are determined by identifying the gap."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

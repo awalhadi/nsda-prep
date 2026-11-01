@@ -1,0 +1,281 @@
+{
+  "id": "assessment-design-legal-requirements",
+  "canonical_title": "Legal and Ethical Requirements for Assessment Design",
+  "aliases": [
+    "What assessment events must comply with",
+    "Compliance requirements for assessment design"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p16-5fbaf67e",
+    "cblm11-p17-1d7deb7a"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "As a designer of assessment, ensure assessment events comply with legal and ethical requirements.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 16,
+        "quote": "Legal and ethical requirements As a designer of assessment, you should ensure assessment events comply with",
+        "passageId": "cblm11-p16-5fbaf67e"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Comply",
+      "bn": "নিয়ম মেনে চলা"
+    },
+    {
+      "en": "Legislation",
+      "bn": "আইন"
+    },
+    {
+      "en": "Confidentiality and privacy",
+      "bn": "গোপনীয়তা ও ব্যক্তিগত তথ্য রক্ষা"
+    },
+    {
+      "en": "Access and equity",
+      "bn": "সবার সমান সুযোগ"
+    },
+    {
+      "en": "Codes of practice",
+      "bn": "শিল্পের আচরণ ও কাজের নিয়মাবলি"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment designer-কে নিশ্চিত করতে হয় assessment events আইন আর নৈতিক নিয়ম মেনে চলে।",
+    "এর মধ্যে আছে OHS, industry legislation, confidentiality ও privacy।",
+    "আরও আছে access and equity, environmental regulations আর industry codes of practice।",
+    "নিয়ম না মানলে assessment অনিরাপদ বা অন্যায্য হতে পারে।"
+  ],
+  "example": {
+    "en": "A welding assessment plan follows safety rules. It keeps results private and controls fumes.",
+    "bn": "ওয়েল্ডিং assessment-এ safety, ফলাফলের গোপনীয়তা আর পরিবেশের নিয়ম মানতে হয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "OHS policies and procedures",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "OHS policies and procedures"
+          }
+        ]
+      },
+      {
+        "text": "Industry specific legislation",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "industry specific legislation"
+          }
+        ]
+      },
+      {
+        "text": "Confidentiality and privacy regulations",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "deal with confidentiality and privacy regulations"
+          }
+        ]
+      },
+      {
+        "text": "Access and equity regulations",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 17,
+            "quote": "access and equity regulations",
+            "passageId": "cblm11-p17-1d7deb7a"
+          }
+        ]
+      },
+      {
+        "text": "Environmental issues and regulations",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 17,
+            "quote": "environmental issues and regulations"
+          }
+        ]
+      },
+      {
+        "text": "Industry codes of practice",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 17,
+            "quote": "industry codes of practice."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Environmental issues and industry codes of practice are also legal and ethical requirements.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 17,
+          "quote": "environmental issues and regulations"
+        },
+        {
+          "src": "cblm11",
+          "page": 17,
+          "quote": "industry codes of practice."
+        },
+        {
+          "src": "cblm11",
+          "page": 16,
+          "quote": "Legal and ethical requirements"
+        }
+      ]
+    },
+    {
+      "text": "The designer of assessment, not only the assessor, should ensure assessment events comply.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 16,
+          "quote": "As a designer of assessment, you should ensure assessment events comply with"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "As an assessment designer, which legal and ethical requirements must assessment events comply with?",
+      "modelAnswer": "As a designer of assessment, I must ensure assessment events comply with:\n1. OHS policies and procedures\n2. Industry specific legislation\n3. Confidentiality and privacy regulations\n4. Access and equity regulations\n5. Environmental issues and regulations\n6. Industry codes of practice",
+      "keyPoints": [
+        {
+          "text": "Assessment events must comply with OHS policies and procedures.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "ensure assessment events comply with"
+            },
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "OHS policies and procedures"
+            }
+          ]
+        },
+        {
+          "text": "The designer must deal with confidentiality and privacy regulations.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "deal with confidentiality and privacy regulations"
+            }
+          ]
+        },
+        {
+          "text": "Consult industry or technical experts and training and assessment experts.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 17,
+              "quote": "You should consult industry or technical experts and training & assessment experts."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which must assessment events comply with, according to CBLM 11?",
+      "options": [
+        "Feedback sandwich",
+        "Industry codes of practice",
+        "Assessment planning matrix",
+        "Learning diary"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 17,
+        "quote": "industry codes of practice."
+      }
+    },
+    "matching": {
+      "prompt": "Match each requirement area with its full name.",
+      "pairs": [
+        {
+          "left": "OHS",
+          "right": "Policies and procedures",
+          "cite": {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "OHS policies and procedures"
+          }
+        },
+        {
+          "left": "Confidentiality and privacy",
+          "right": "Regulations",
+          "cite": {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "confidentiality and privacy regulations"
+          }
+        },
+        {
+          "left": "Environmental",
+          "right": "Issues and regulations",
+          "cite": {
+            "src": "cblm11",
+            "page": 17,
+            "quote": "environmental issues and regulations"
+          }
+        },
+        {
+          "left": "Industry",
+          "right": "Codes of practice",
+          "cite": {
+            "src": "cblm11",
+            "page": 17,
+            "quote": "industry codes of practice."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Who must ensure assessment events comply with legal and ethical requirements?",
+      "answer": {
+        "text": "The designer of assessment must ensure assessment events comply with them.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "As a designer of assessment, you should ensure assessment events comply with"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

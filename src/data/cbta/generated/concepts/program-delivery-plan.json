@@ -1,0 +1,525 @@
+{
+  "aliases": [
+    "Delivery plan",
+    "Program delivery plan template"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 9,
+      "pages": [
+        {
+          "pdf": 29,
+          "printed": 29
+        },
+        {
+          "pdf": 30,
+          "printed": 30
+        },
+        {
+          "pdf": 40,
+          "printed": 40
+        }
+      ],
+      "src": "cblm09"
+    }
+  ],
+  "banglaExplanation": [
+    "Delivery plan হলো পুরো unit বা qualification কীভাবে দেওয়া হবে তার বড় ছবি।",
+    "এখানে থাকে nominal hours, কয়টি session, প্রতিটির duration, elements আর performance criteria।",
+    "Training mode off the job, on the job নাকি দুটো মিলিয়ে, সেটাও লেখা থাকে।",
+    "এটা adult learning principles মেনে বানাতে হয়, যাতে facilitation focused থাকে।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 9,
+  "errata": [],
+  "example": {
+    "bn": "Biscuit dough unit-কে session-এ ভাগ করে প্রতিটির elements আর resources লিখে রাখা হয়।",
+    "en": "A baking trainer plans the unit Produce Biscuit Dough. Each 30-minute session lists elements, criteria, mode and resources."
+  },
+  "highlighted": true,
+  "id": "program-delivery-plan",
+  "importance": {
+    "bn": "CBLM 9-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 9."
+  },
+  "keywords": [
+    {
+      "bn": "পুরো প্রোগ্রাম কীভাবে দেওয়া হবে তার পরিকল্পনা",
+      "en": "Delivery plan"
+    },
+    {
+      "bn": "প্রশিক্ষণের ধরন: off the job বা on the job",
+      "en": "Training mode"
+    },
+    {
+      "bn": "নির্ধারিত মোট সময়",
+      "en": "Nominal hours"
+    },
+    {
+      "bn": "শেখার মাঝপথে যাচাই",
+      "en": "Formative assessment"
+    },
+    {
+      "bn": "প্রাপ্তবয়স্কদের শেখার নীতি",
+      "en": "Adult learning principles"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Nominal hours",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Nominal hours"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "No. of Session",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "No. of Session"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Duration of each session",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Duration of each session"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Individual or group objectives",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Individual or group objectives"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Formative assessment opportunities",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Formative assessment opportunities"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Location of training",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Location of training"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Number of learners",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Number of learners"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Elements covered",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Elements covered"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Performance criteria covered",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Performance criteria covered"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Delivery mode/Strategy",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Delivery mode/Strategy"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Equipment and resources required, for example, a whiteboard, overhead projector, handouts, or articles",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Equipment and resources required, e.g. whiteboard, overhead projector, handouts."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Any additional requirements to meet special needs of learners",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Any additional requirements to meet special needs of learners"
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 9,
+        "match": "exact",
+        "page": 30,
+        "passageId": "cblm09-p30-6c0ac76c",
+        "printedPage": 30,
+        "quote": "A delivery plan sets out details about how a qualification can be obtained via training mode, i.e. it spells out if it will be off-the-job, on-the-job or part thereof.",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "A delivery plan sets out how a qualification can be obtained via training mode."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "passageId": "cblm09-p30-d5a0e598",
+            "printedPage": 30,
+            "quote": "it spells out if it will be off-the-job, on-the-job or part thereof",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Training mode",
+          "right": "Off-the-job, on-the-job or part thereof"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "The purpose of a delivery plan is to provide a structured approach to the delivery of training",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Purpose",
+          "right": "Structured approach to the delivery of training"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Equipment and resources required, for example, a whiteboard, overhead projector, handouts, or articles",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Equipment and resources",
+          "right": "Whiteboard, overhead projector, handouts"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Any additional requirements to meet special needs of learners",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Special needs",
+          "right": "Any additional requirements of learners"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 40,
+            "passageId": "cblm09-p40-fe025dc1",
+            "printedPage": 40,
+            "quote": "Produce Biscuit Dough FODBAK1025A1",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Sample plan unit",
+          "right": "Produce Biscuit Dough"
+        }
+      ],
+      "prompt": "Match each delivery plan item with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 9,
+        "match": "exact",
+        "page": 30,
+        "passageId": "cblm09-p30-2b360f88",
+        "printedPage": 30,
+        "quote": "A delivery plan provides you with a step by step guide to follow.",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      },
+      "answerIndex": 0,
+      "options": [
+        "A step by step guide to follow",
+        "A self-assessment checklist",
+        "A list of venue facilities",
+        "An industry competency standard"
+      ],
+      "prompt": "What does a delivery plan provide you with?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "passageId": "cblm09-p30-ac9c9577",
+              "printedPage": 30,
+              "quote": "The purpose of a delivery plan is to provide a structured approach to the delivery of training that result in a qualification, which ensures your facilitation is focused and achieves the intended outcomes.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Its purpose is a structured approach to training that results in a qualification."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "passageId": "cblm09-p30-49ca4919",
+              "printedPage": 30,
+              "quote": "Your delivery plan must be developed with the principles of adult learning in mind.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Your delivery plan must be developed with the principles of adult learning in mind."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "You also need to consider the various learning styles of your learners and any equity or additional support needs they may have.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Consider learning styles and any equity or additional support needs."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 29,
+              "passageId": "cblm09-p29-75988f5a",
+              "printedPage": 29,
+              "quote": "The outcome of the training program",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "The outcome for a training program is a escription of the main work tasks and topics",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "of information the trainees need.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A training program outcome describes the main work tasks and topics trainees need."
+        }
+      ],
+      "modelAnswer": "A delivery plan is a step by step guide. It may include:\n1. Nominal hours\n2. Number of sessions\n3. Duration of each session\n4. Individual or group objectives\n5. Formative assessment opportunities\n6. Location of training\n7. Number of learners\n8. Elements covered\n9. Performance criteria covered\n10. Delivery mode/strategy\n11. Equipment and resources required\n12. Additional requirements for special needs",
+      "prompt": "What may a delivery plan include?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "The purpose of a delivery plan is to provide a structured approach to the delivery of training that result in a qualification, which ensures your facilitation is focused and achieves the intended outcomes.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "It gives a structured approach, so your facilitation is focused and achieves the intended outcomes."
+      },
+      "prompt": "Why do you need a delivery plan?"
+    }
+  },
+  "realQuestions": [],
+  "score": 4,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Program Delivery Plan",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 30,
+          "passageId": "cblm09-p30-46a83636",
+          "printedPage": 30,
+          "quote": "It covers a series of sessions or individual session depending upon the complexity of the training.",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 30,
+          "passageId": "cblm09-p30-8abcda2d",
+          "printedPage": 30,
+          "quote": "upon the complexity of the training.",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "A delivery plan covers a series of sessions or an individual session, by complexity."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 30,
+          "printedPage": 30,
+          "quote": "Mostly there will be many sessions and session plans for a CBT program.",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Mostly a CBT program has many sessions and session plans."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

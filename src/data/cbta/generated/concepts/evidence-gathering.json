@@ -5,6 +5,20 @@
   ],
   "appearsIn": [
     {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 52,
+          "printed": 52
+        },
+        {
+          "pdf": 53,
+          "printed": 53
+        }
+      ],
+      "src": "cblm11"
+    },
+    {
       "cblm": 12,
       "pages": [
         {
@@ -28,7 +42,7 @@
   "breakdown": {
     "exam": 4,
     "highlight": 3,
-    "repeat": 1
+    "repeat": 2
   },
   "cblmPrimary": 12,
   "errata": [],
@@ -39,7 +53,7 @@
   "highlighted": true,
   "id": "evidence-gathering",
   "importance": {
-    "bn": "Final Formative 01 (MCQ 8) আর CBLM 12 Self Check 1 (Q7): 2 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে।",
+    "bn": "Final Formative 01 (MCQ 8) আর CBLM 12 Self Check 1 (Q7): 2 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
     "en": "Asked in Final Formative 01 (MCQ 8) and CBLM 12 Self Check 1 (Q7). Highlighted in CBLM 12. Comes as MCQ and short question."
   },
   "keywords": [
@@ -499,9 +513,9 @@
       "type": "mcq"
     }
   ],
-  "score": 8,
+  "score": 9,
   "sourceType": "cblm",
-  "stars": 2,
+  "stars": 3,
   "status": "draft",
   "title": "Methods and Tools for Gathering Evidence",
   "traps": [
@@ -579,5 +593,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 0
+  "warnings": 1
 }

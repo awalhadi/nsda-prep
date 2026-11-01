@@ -1,0 +1,368 @@
+{
+  "id": "candidate-needs",
+  "canonical_title": "Identifying the Needs of Candidates",
+  "aliases": [
+    "The needs of the candidate/s",
+    "Candidate characteristics",
+    "Special needs of candidates"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p12-0486ffb0",
+    "cblm11-p18-810130c0",
+    "cblm11-p18-42220fe1",
+    "cblm11-p18-80211fcd",
+    "cblm11-p18-bb3612a0",
+    "cblm11-p18-5a14ec71",
+    "cblm11-p18-2a50de33",
+    "cblm11-p18-0b3a862c",
+    "cblm11-p18-0f2f132f",
+    "cblm11-p18-af2fa711"
+  ],
+  "questions": [
+    "paper-short-questions-q6"
+  ],
+  "one_line_answer": {
+    "text": "You need to know candidates' characteristics to plan and organise assessment for their needs.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 18,
+        "quote": "You need to know the characteristics of the candidates so that you can plan and organise assessment according to their needs.",
+        "passageId": "cblm11-p18-810130c0"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Candidate characteristics",
+      "bn": "প্রার্থীর বৈশিষ্ট্য"
+    },
+    {
+      "en": "Special needs",
+      "bn": "বিশেষ প্রয়োজন"
+    },
+    {
+      "en": "Disclose",
+      "bn": "নিজে থেকে জানানো"
+    },
+    {
+      "en": "Enrolment information",
+      "bn": "ভর্তির তথ্য"
+    },
+    {
+      "en": "Confidentiality",
+      "bn": "গোপনীয়তা"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment plan করার আগে জানতে হবে candidate কারা, তাদের কী special needs আছে।",
+    "না জানলে candidate-কে disclose করতে উৎসাহ দিন, enrolment information আর files check করুন।",
+    "Files দেখার সময় confidentiality মনে রাখবেন।",
+    "Language, literacy, disability, age, gender, cultural background — এগুলো সব special needs হতে পারে।"
+  ],
+  "example": {
+    "en": "A trainee at a garments training centre cannot read well. The assessor checks enrolment information first.",
+    "bn": "আগে জানলে assessor উপযুক্ত পদ্ধতি বেছে নিতে পারেন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Level and experiences of previous learning and assessment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "level and experiences of previous learning and assessment"
+          }
+        ]
+      },
+      {
+        "text": "Motivation for assessment: personal or organisational",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "motivation for assessment-personal or organisational"
+          }
+        ]
+      },
+      {
+        "text": "Language, literacy and/or numeracy levels or needs",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "language, literacy and/or numeracy levels or needs",
+            "passageId": "cblm11-p18-2a50de33"
+          }
+        ]
+      },
+      {
+        "text": "Physical impairment or disability, such as hearing, vision, voice or mobility",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "physical impairment or disability such as those involving hearing, vision, voice, or mobility"
+          }
+        ]
+      },
+      {
+        "text": "Intellectual impairment or disability",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "intellectual impairment or disability"
+          }
+        ]
+      },
+      {
+        "text": "Learning progress",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "learning progress"
+          }
+        ]
+      },
+      {
+        "text": "Psychiatric or psychological disability",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "psychiatric or psychological disability"
+          }
+        ]
+      },
+      {
+        "text": "Religious and spiritual observances",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "religious and spiritual observances"
+          }
+        ]
+      },
+      {
+        "text": "Cultural background",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "cultural background"
+          }
+        ]
+      },
+      {
+        "text": "Perceptions",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "perceptions"
+          }
+        ]
+      },
+      {
+        "text": "Age",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "perceptions • age"
+          }
+        ]
+      },
+      {
+        "text": "Gender",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "age • gender."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Candidates with special needs include anxious or inexperienced candidates, not only those with disabilities.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 12,
+          "quote": "Candidates with special needs may include those with disabilities"
+        },
+        {
+          "src": "cblm11",
+          "page": 12,
+          "quote": "or anxious or inexperienced candidates."
+        }
+      ]
+    },
+    {
+      "text": "Check files for background information, but be aware of confidentiality.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 18,
+          "quote": "Check files for background information, but be aware of confidentiality considerations"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "List five candidate needs that may require consideration in competency assessment.",
+      "modelAnswer": "Special needs of candidates may relate to their:\n1. Level and experiences of previous learning and assessment\n2. Language, literacy and/or numeracy levels or needs\n3. Physical impairment or disability (hearing, vision, voice, mobility)\n4. Intellectual impairment or disability\n5. Religious and spiritual observances\nOthers: motivation, learning progress, cultural background, age, gender.",
+      "keyPoints": [
+        {
+          "text": "Candidates should be encouraged to disclose any equity or additional support needs.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 18,
+              "quote": "Candidates should be encouraged to disclose if they have any equity or additional support needs"
+            }
+          ]
+        },
+        {
+          "text": "Check enrolment information and speak to relevant workplace personnel or other trainers.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 18,
+              "quote": "Check enrolment information"
+            },
+            {
+              "src": "cblm11",
+              "page": 18,
+              "quote": "Speak to relevant workplace personnel or other trainers"
+            }
+          ]
+        },
+        {
+          "text": "Special needs include literacy, numeracy or language difficulties and non-English speaking backgrounds.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 12,
+              "quote": "with literacy, numeracy or language difficulties, those who come from non-English speaking backgrounds",
+              "passageId": "cblm11-p12-0486ffb0"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a starting point for identifying candidates' characteristics?",
+      "options": [
+        "Check enrolment information",
+        "Skip the candidate briefing",
+        "Use only written tests",
+        "Assess all candidates in a group"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 18,
+        "quote": "Check enrolment information"
+      }
+    },
+    "matching": {
+      "prompt": "Match each starting point with what to do.",
+      "pairs": [
+        {
+          "left": "Candidates",
+          "right": "Encouraged to disclose equity or support needs",
+          "cite": {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "Candidates should be encouraged to disclose if they have any equity or additional support needs"
+          }
+        },
+        {
+          "left": "Experienced teachers",
+          "right": "Discuss with them if necessary",
+          "cite": {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "Discuss with experienced teachers, trainers and assessors if necessary"
+          }
+        },
+        {
+          "left": "Enrolment information",
+          "right": "Check it",
+          "cite": {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "Check enrolment information"
+          }
+        },
+        {
+          "left": "Workplace personnel",
+          "right": "May be aware of less obvious needs",
+          "cite": {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "Speak to relevant workplace personnel or other trainers who may be aware of less obvious needs"
+          }
+        },
+        {
+          "left": "Files",
+          "right": "Background information, with confidentiality",
+          "cite": {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "Check files for background information, but be aware of confidentiality considerations"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why should you know the characteristics of candidates?",
+      "answer": {
+        "text": "So you can plan and organise assessment according to their needs.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 18,
+            "quote": "You need to know the characteristics of the candidates so that you can plan and organise assessment according to their needs."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "questions",
+      "note": "paper-short-questions-q6 is also mapped to the CBLM 12 card reasonable-adjustment. Its answer guide matches this CBLM 11 p.18 list (it adds \"location\", which is not in CBLM 11 p.18)."
+    }
+  ]
+}

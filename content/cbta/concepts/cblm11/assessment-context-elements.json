@@ -1,0 +1,282 @@
+{
+  "id": "assessment-context-elements",
+  "canonical_title": "What the Assessment Context Includes",
+  "aliases": [
+    "Contents of the context of assessment",
+    "Physical setting, tools, materials and purpose of assessment"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p8-ccba248b",
+    "cblm11-p8-8fc1bb57",
+    "cblm11-p8-83950160",
+    "cblm11-p8-2a8ae246",
+    "cblm11-p8-7919ae51",
+    "cblm11-p8-72575f64"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "The context of assessment includes physical setting, tools, materials and purpose of assessment.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 8,
+        "quote": "The context of assessment includes the following:",
+        "passageId": "cblm11-p8-ccba248b"
+      },
+      {
+        "src": "cblm11",
+        "page": 8,
+        "quote": "Physical Setting.",
+        "passageId": "cblm11-p8-8fc1bb57"
+      },
+      {
+        "src": "cblm11",
+        "page": 8,
+        "quote": "Tools, equipment and facilities.",
+        "passageId": "cblm11-p8-2a8ae246"
+      },
+      {
+        "src": "cblm11",
+        "page": 8,
+        "quote": "Materials.",
+        "passageId": "cblm11-p8-7919ae51"
+      },
+      {
+        "src": "cblm11",
+        "page": 8,
+        "quote": "Purpose of assessment.",
+        "passageId": "cblm11-p8-72575f64"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Physical setting",
+      "bn": "যেখানে assessment হবে সেই জায়গা"
+    },
+    {
+      "en": "Venue",
+      "bn": "স্থান বা ভেন্যু"
+    },
+    {
+      "en": "Facilities",
+      "bn": "সুযোগ-সুবিধা"
+    },
+    {
+      "en": "Consumable materials",
+      "bn": "যে উপকরণ ব্যবহারে শেষ হয়ে যায়"
+    },
+    {
+      "en": "Purpose",
+      "bn": "উদ্দেশ্য"
+    }
+  ],
+  "bangla_explanation": [
+    "Context of assessment মানে কোন পরিবেশে assessment হবে।",
+    "এতে চারটি বিষয় থাকে: physical setting, tools ও equipment, materials আর purpose।",
+    "Assessment শুরুর আগেই tools আর materials ready রাখা assessor-এর দায়িত্ব।",
+    "Purpose দুজনের কাছেই পরিষ্কার থাকতে হবে, assessor আর assessee।"
+  ],
+  "example": {
+    "en": "Before a bakery assessment, the assessor checks the oven, flour and venue. He tells candidates it is for certification.",
+    "bn": "বেকারি assessment-এর আগে oven, ময়দা আর ভেন্যু ঠিক আছে কি না দেখা হয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Physical setting: the workplace, an assessment center, community project or online set-up.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 8,
+            "quote": "Physical Setting. This may be the workplace, an assessment center, community project or online set-up."
+          }
+        ]
+      },
+      {
+        "text": "Tools, equipment and facilities: ready and available before the assessment starts.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 8,
+            "quote": "Tools, equipment and facilities."
+          },
+          {
+            "src": "cblm11",
+            "page": 8,
+            "quote": "ready and available before the assessment start."
+          }
+        ]
+      },
+      {
+        "text": "Materials: the candidate must have access to perishable and consumable materials.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 8,
+            "quote": "The candidate must have access to perishable and consumable materials required during the assessment."
+          }
+        ]
+      },
+      {
+        "text": "Purpose of assessment: clear to both the assessor and the assessee.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 8,
+            "quote": "The purpose of the assessment must be clear to both the assessor and the assessee."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "A venue for assessment should be accessible to the candidates.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 8,
+          "quote": "A venue for assessment should be made accessible to the candidates for their convenience.",
+          "passageId": "cblm11-p8-83950160"
+        }
+      ]
+    },
+    {
+      "text": "The purpose must be clear to both the assessor and the assessee, not only one.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 8,
+          "quote": "The purpose of the assessment must be clear to both the assessor and the assessee."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What does the context of assessment include?",
+      "modelAnswer": "The context of assessment is the setting where assessment takes place. It includes:\n1. Physical setting: workplace, assessment center, community project or online set-up.\n2. Tools, equipment and facilities, ready before the assessment.\n3. Materials: perishable and consumable materials for the candidate.\n4. Purpose of assessment: clear to both assessor and assessee.",
+      "keyPoints": [
+        {
+          "text": "The assessment site should have the right equipment and be quiet enough to assess.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 8,
+              "quote": "ensure that the assessment site is conducive for assessment i.e. has the right equipment is quiet enough to assess the candidates."
+            }
+          ]
+        },
+        {
+          "text": "A checklist in the Competency Assessment Plan helps monitor tools, equipment and facilities.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 8,
+              "quote": "The checklist of tools, equipment and facilities (in the Competency Assessment Plan) will help the assessor to monitor their availability"
+            }
+          ]
+        },
+        {
+          "text": "Be clear if the assessment is for certification, licensing, OSH or skills audit.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 8,
+              "quote": "Ensure you one clear if the assessment is for certification, licensing, OSH or skills audit."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is part of the context of assessment in CBLM 11?",
+      "options": [
+        "Feedback sandwich",
+        "Tools, equipment and facilities",
+        "Assessor errors",
+        "Result sheet"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 8,
+        "quote": "Tools, equipment and facilities."
+      }
+    },
+    "matching": {
+      "prompt": "Match each part of the context with its detail.",
+      "pairs": [
+        {
+          "left": "Physical setting",
+          "right": "Workplace, assessment center, community project or online set-up",
+          "cite": {
+            "src": "cblm11",
+            "page": 8,
+            "quote": "Physical Setting. This may be the workplace, an assessment center, community project or online set-up."
+          }
+        },
+        {
+          "left": "Tools, equipment and facilities",
+          "right": "Ready and available before the assessment start",
+          "cite": {
+            "src": "cblm11",
+            "page": 8,
+            "quote": "ensure that the tools, equipment and facilities are ready and available before the assessment start."
+          }
+        },
+        {
+          "left": "Materials",
+          "right": "Perishable and consumable materials for the candidate",
+          "cite": {
+            "src": "cblm11",
+            "page": 8,
+            "quote": "The candidate must have access to perishable and consumable materials required during the assessment."
+          }
+        },
+        {
+          "left": "Purpose of assessment",
+          "right": "Clear to both the assessor and the assessee",
+          "cite": {
+            "src": "cblm11",
+            "page": 8,
+            "quote": "The purpose of the assessment must be clear to both the assessor and the assessee."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Who must ensure tools and equipment are ready before assessment?",
+      "answer": {
+        "text": "The assessor. Tools, equipment and facilities must be ready before the assessment starts.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 8,
+            "quote": "Part of the responsibility of the assessor is to ensure that the tools, equipment and facilities are ready and available before the assessment start."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "list_answer",
+      "note": "CBLM 11 p.8 lists four contents (physical setting; tools, equipment and facilities; materials; purpose). CBLM 12 card context-of-assessment lists a different three (environment, relationship to real work, time period). The definition passage is linked to the CBLM 12 card. Decide which list learners should write for 'context of assessment includes'."
+    }
+  ]
+}

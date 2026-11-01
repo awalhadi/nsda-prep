@@ -1,0 +1,281 @@
+{
+  "id": "what-is-cblm",
+  "canonical_title": "Competency Based Learning Material (CBLM)",
+  "aliases": [
+    "CBLM",
+    "Competency Based Learning Materials",
+    "Learning guide"
+  ],
+  "cblmPrimary": 8,
+  "source_type": "cblm",
+  "covers": [
+    "cblm08-p27-a03f5951",
+    "cblm08-p27-11790a00"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "CBLM is a learning guide which will lead a learner through a series of activities.",
+    "fidelity": "verbatim",
+    "cites": [
+      {
+        "src": "cblm08",
+        "page": 27,
+        "quote": "CBLM is a learning guide which will lead a learner through a series of activities.",
+        "passageId": "cblm08-p27-a03f5951"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Learning guide",
+      "bn": "শেখার পথ দেখানো বই"
+    },
+    {
+      "en": "Self-paced",
+      "bn": "নিজের গতিতে শেখা"
+    },
+    {
+      "en": "Student-centered",
+      "bn": "শিক্ষার্থীকে কেন্দ্র করে"
+    },
+    {
+      "en": "Learning mastery",
+      "bn": "পুরোপুরি দক্ষ হয়ে শেখা"
+    },
+    {
+      "en": "Immediate feedback",
+      "bn": "সাথে সাথে ফলাফল জানা"
+    }
+  ],
+  "bangla_explanation": [
+    "CBLM হলো একটা learning guide, যা learner-কে একটার পর একটা activities করিয়ে শেখায়।",
+    "ক্লাসে বসে বা নিজের গতিতে (own pace) দুইভাবেই CBLM ব্যবহার করা যায়।",
+    "প্রতিটি unit of competency-র জন্য একটি করে CBLM থাকে।",
+    "CBLM শুধু তথ্য দেয় না, workplace-এ দরকারি competency মাপার instrument হিসেবেও কাজ করে।"
+  ],
+  "example": {
+    "en": "A welding trainee reads the CBLM, does the self checks, then practises the job.",
+    "bn": "Welding trainee নিজে CBLM পড়ে, self check করে, তারপর কাজটা হাতে-কলমে করে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Media that contain information related to work requirement",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "Media that contain information related to work requirement",
+            "passageId": "cblm08-p27-11790a00"
+          }
+        ]
+      },
+      {
+        "text": "Learning that is guided towards achieving the competency required in the workplace",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "Learning that is guided towards achieving the competency required in the"
+          },
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "workplace;"
+          }
+        ]
+      },
+      {
+        "text": "Tools that facilitate individual learning process",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "Tools that facilitate individual learning process"
+          }
+        ]
+      },
+      {
+        "text": "Instrument that measure the competency required in the workplace.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "Instrument that measure the competency required in the workplace."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Each unit of competency has one Competency Based Learning Material (CBLM).",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 27,
+          "quote": "has to have a Module for the UoC and each unit of competency have one"
+        },
+        {
+          "src": "cblm08",
+          "page": 27,
+          "quote": "Competency Based Learning Material (CBLM)."
+        }
+      ]
+    },
+    {
+      "text": "These activities may be completed in structured classroom activities or at your pace.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 27,
+          "quote": "These activities may be completed as part of structured classroom activities or you to"
+        },
+        {
+          "src": "cblm08",
+          "page": 27,
+          "quote": "work at your on pace"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is CBLM? Write the reasons for using CBLM.",
+      "modelAnswer": "CBLM (Competency Based Learning Material) is a learning guide which will lead a learner through a series of activities.\nReasons for using CBLM:\n1. Learning is self-paced\n2. Learning is student-centered\n3. Develop learning mastery\n4. Immediate feedback on the achievement of learning\n5. Training is well-planned",
+      "keyPoints": [
+        {
+          "text": "Learning is self-paced and student-centered.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Learning is self-paced;"
+            },
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Learning is student-centered;"
+            }
+          ]
+        },
+        {
+          "text": "CBLM develops learning mastery.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Develop learning mastery;"
+            }
+          ]
+        },
+        {
+          "text": "It gives immediate feedback on the achievement of learning.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Immediate feedback on the achievement of learning; and"
+            }
+          ]
+        },
+        {
+          "text": "Training is well-planned.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Training is well-planned"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which of these is a reason for using CBLM?",
+      "options": [
+        "Learning is teacher-centered",
+        "Learning is self-paced",
+        "Feedback is given only at the final exam",
+        "Training does not need planning"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm08",
+        "page": 27,
+        "quote": "Learning is self-paced;"
+      }
+    },
+    "matching": {
+      "prompt": "Match each word with how the CBLM describes CBLM.",
+      "pairs": [
+        {
+          "left": "Media",
+          "right": "Contain information related to work requirement",
+          "cite": {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "Media that contain information related to work requirement"
+          }
+        },
+        {
+          "left": "Tools",
+          "right": "Facilitate individual learning process",
+          "cite": {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "Tools that facilitate individual learning process"
+          }
+        },
+        {
+          "left": "Instrument",
+          "right": "Measure the competency required in the workplace",
+          "cite": {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "Instrument that measure the competency required in the workplace."
+          }
+        },
+        {
+          "left": "Learning",
+          "right": "Guided towards achieving the competency required",
+          "cite": {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "Learning that is guided towards achieving the competency required in the"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "How many CBLMs does one unit of competency have?",
+      "answer": {
+        "text": "Each unit of competency has one CBLM.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "has to have a Module for the UoC and each unit of competency have one"
+          },
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "Competency Based Learning Material (CBLM)."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

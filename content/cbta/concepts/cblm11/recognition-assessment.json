@@ -1,0 +1,308 @@
+{
+  "id": "recognition-assessment",
+  "canonical_title": "Recognition Assessment: People and Evidence",
+  "aliases": [
+    "Types of evidence for recognition assessment",
+    "People involved in the assessment process",
+    "Best practice recognition assessment"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p33-3af0af21",
+    "cblm11-p33-9587915e",
+    "cblm11-p33-6ed218bb",
+    "cblm11-p33-74b17669",
+    "cblm11-p33-418e1915"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Each party in the assessment process must know their role, responsibilities and expectations.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 33,
+        "quote": "Each party involved in the assessment process needs to be aware of their role and responsibilities, and proposed expectations of the recognition process.",
+        "passageId": "cblm11-p33-9587915e"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Recognition assessment",
+      "bn": "আগের অর্জিত দক্ষতার স্বীকৃতির জন্য মূল্যায়ন"
+    },
+    {
+      "en": "Third party reports",
+      "bn": "অন্য ব্যক্তির (supervisor ইত্যাদি) দেওয়া রিপোর্ট"
+    },
+    {
+      "en": "Previous qualifications",
+      "bn": "আগের সনদ/যোগ্যতা"
+    },
+    {
+      "en": "Technical expert",
+      "bn": "কারিগরি বিশেষজ্ঞ"
+    },
+    {
+      "en": "Current competence",
+      "bn": "বর্তমান দক্ষতা"
+    }
+  ],
+  "bangla_explanation": [
+    "Recognition assessment-এ candidate আগে থেকেই যে দক্ষতা আছে তার evidence দেয়।",
+    "Assessor, supervisor, technical expert সবাইকে নিজের role জানাতে হবে, না হলে outcome unacceptable হতে পারে।",
+    "Evidence হতে পারে work records, training records, third party reports, previous qualifications।",
+    "পুরনো evidence-এর চেয়ে current competence-এর evidence বেশি গুরুত্বপূর্ণ।"
+  ],
+  "example": {
+    "en": "A tailor with ten years of work applies for recognition. He shows work samples and a supervisor report.",
+    "bn": "অভিজ্ঞ দর্জি তার কাজের নমুনা আর supervisor-এর রিপোর্ট দিয়ে প্রমাণ দেন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Work records and examples of work products",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 33,
+            "quote": "Work records and examples of work products",
+            "passageId": "cblm11-p33-74b17669"
+          }
+        ]
+      },
+      {
+        "text": "Records of workplace or other training undertaken",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 33,
+            "quote": "Records of workplace or other training undertaken"
+          }
+        ]
+      },
+      {
+        "text": "Assessment of current skills",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 33,
+            "quote": "Assessment of current skills"
+          }
+        ]
+      },
+      {
+        "text": "Assessment of current knowledge",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 33,
+            "quote": "Assessment of current knowledge"
+          }
+        ]
+      },
+      {
+        "text": "Third party reports from current and previous supervisors, trainers, managers and customers or clients",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 33,
+            "quote": "Third party reports from current and previous supervisors, trainers, managers and customers or clients"
+          }
+        ]
+      },
+      {
+        "text": "Previous qualifications",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 33,
+            "quote": "Previous qualifications"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Evidence of current competence is preferred to more historic evidence.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 33,
+          "quote": "Evidence of current competence should be gathered in preference to more historic evidence"
+        }
+      ]
+    },
+    {
+      "text": "An assessor looks at the whole picture (unit of competency), not the fragments.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 33,
+          "quote": "An assessor looks at the whole picture (unit of competency) not the fragments."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What types of evidence can be collected for recognition assessment?",
+      "modelAnswer": "Types of evidence for recognition assessment:\n1. Work records and examples of work products\n2. Records of workplace or other training undertaken\n3. Assessment of current skills\n4. Assessment of current knowledge\n5. Third party reports from supervisors, trainers, managers and customers\n6. Previous qualifications",
+      "keyPoints": [
+        {
+          "text": "People involved: participant or candidate, assessor, supervisor, technical expert, other assessors.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "participant or candidate • assessor • supervisor • technical expert • other assessors.",
+              "passageId": "cblm11-p33-6ed218bb"
+            }
+          ]
+        },
+        {
+          "text": "If key people are not informed and involved, the outcome may be unacceptable.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "If the assessor does not inform and involve the key people who are involved in the process, it may result in an unacceptable outcome."
+            }
+          ]
+        },
+        {
+          "text": "Assessors should be technically competent, or buddy up with a workplace supervisor.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "Assessors should be technically competent"
+            },
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "they should buddy up with a workplace supervisor"
+            }
+          ]
+        },
+        {
+          "text": "Additional evidence: observation, workplace documents and products, questioning, third party reports.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "assessors may gain additional evidence through:",
+              "passageId": "cblm11-p33-418e1915"
+            },
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "Observation o Workplace documents"
+            },
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "Workplace products that show the 'outcome'"
+            },
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "Questioning that relates to"
+            },
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "Third Party Reports"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which evidence should be gathered in preference in recognition assessment?",
+      "options": [
+        "More historic evidence",
+        "Evidence of current competence",
+        "Evidence from close friends",
+        "Only evidence of attendance"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 33,
+        "quote": "Evidence of current competence should be gathered in preference to more historic evidence"
+      }
+    },
+    "matching": {
+      "prompt": "Match each additional evidence source with what it shows.",
+      "pairs": [
+        {
+          "left": "Workplace documents",
+          "right": "The 'why, how and when' factors",
+          "cite": {
+            "src": "cblm11",
+            "page": 33,
+            "quote": "Workplace documents that show the ' why, how and when' factors"
+          }
+        },
+        {
+          "left": "Workplace products",
+          "right": "The 'outcome'",
+          "cite": {
+            "src": "cblm11",
+            "page": 33,
+            "quote": "Workplace products that show the 'outcome'"
+          }
+        },
+        {
+          "left": "'What if' questions",
+          "right": "Scenarios",
+          "cite": {
+            "src": "cblm11",
+            "page": 33,
+            "quote": "Questions that relate to 'what if' scenarios"
+          }
+        },
+        {
+          "left": "Risk questions",
+          "right": "Identifying, actioning, reporting",
+          "cite": {
+            "src": "cblm11",
+            "page": 33,
+            "quote": "Questions that relate to 'risk' - identifying, actioning, reporting"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What happens if the assessor does not involve the key people?",
+      "answer": {
+        "text": "It may result in an unacceptable outcome.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 33,
+            "quote": "it may result in an unacceptable outcome."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

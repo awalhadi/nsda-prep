@@ -1,0 +1,592 @@
+{
+  "aliases": [
+    "Checking evidence against the rules",
+    "Validity, authenticity and sufficiency checks",
+    "Requirements of valid evidence"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 12,
+          "printed": 12
+        },
+        {
+          "pdf": 22,
+          "printed": 22
+        },
+        {
+          "pdf": 23,
+          "printed": 23
+        }
+      ],
+      "src": "cblm11"
+    }
+  ],
+  "banglaExplanation": [
+    "Evidence নেওয়ার আগে designer প্রতিটি rule আলাদা করে check করেন।",
+    "Validity মানে evidence-এ সব performance criteria, elements আর dimensions of competency থাকতে হবে।",
+    "Authenticity মানে কাজটা candidate নিজে করেছে, অন্য কেউ নয়; সন্দেহ হলে more direct evidence নিন।",
+    "Sufficiency-র জন্য একাধিক method ও একাধিক পরিস্থিতি লাগে; সাধারণত তিন ধরনের evidence যথেষ্ট।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 11,
+  "errata": [],
+  "example": {
+    "bn": "পুরনো পদ্ধতির প্রমাণ এখন current নয়।",
+    "en": "A trainee shows an old oral thermometer certificate. Now digital ear thermometers are standard. The evidence is not current."
+  },
+  "highlighted": true,
+  "id": "checking-evidence-rules",
+  "importance": {
+    "bn": "Short Questions (Short 46, 47, Short 48, 51, Short 78)-এ এসেছে। CBLM 11-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in Short Questions (Short 46, 47, Short 48, 51, Short 78). Highlighted in CBLM 11. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "বৈধতা: সব criteria পূরণ করে কিনা",
+      "en": "Validity"
+    },
+    {
+      "bn": "হালনাগাদ দক্ষতা ও জ্ঞান",
+      "en": "Currency"
+    },
+    {
+      "bn": "প্রমাণটি প্রার্থীর নিজের কাজ কিনা",
+      "en": "Authenticity"
+    },
+    {
+      "bn": "প্রমাণ কত পুরনো",
+      "en": "Recency"
+    },
+    {
+      "bn": "যথেষ্ট পরিমাণ প্রমাণ",
+      "en": "Sufficiency"
+    },
+    {
+      "bn": "বারবার একই মান বজায় রাখা",
+      "en": "Consistency"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 22,
+            "passageId": "cblm11-p22-162cdc2a",
+            "printedPage": 22,
+            "quote": "The assessment method you choose must meet all the benchmarks or criteria requirements.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "All performance criteria • All elements • Dimensions of competency • Considerations of the Bangladesh NTVQF",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "Essential skills and knowledge that are listed in the evidence guide • Critical evidence listed in the evidence guide • All of the 'musts' in the range statement.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Validity: covers all criteria, elements, dimensions, evidence guide items and range statement musts."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 23,
+            "passageId": "cblm11-p23-6f7dcb54",
+            "printedPage": 23,
+            "quote": "Collecting evidence more than once and in more than one situation",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Making sure the tools and methods assess all parts of the competency standard",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Using more than one method of assessment to ensure sufficient evidence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Sufficiency: collect evidence more than once, assess all parts, use more than one method."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 22,
+            "passageId": "cblm11-p22-4ef47a45",
+            "printedPage": 22,
+            "quote": "The evidence that will be collected needs to show the person has current skills and knowledge.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "It is certain that the person has knowledge that is up to date and current.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Currency: evidence shows the person has current, up to date skills and knowledge."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "The evidence collected from the person for assessment must be work they have produced or created themselves",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Authenticity: the evidence is work the person produced or created themselves."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 22,
+        "printedPage": 22,
+        "quote": "To help determine if evidence meets the above criteria, the Assessment designer will need to check",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 22,
+        "printedPage": 22,
+        "quote": "Rules of Evidence As an Assessor",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "The assessment designer checks whether evidence meets the criteria of each rule of evidence."
+  },
+  "openChecks": 4,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "The assessment method you choose must meet all the benchmarks or criteria requirements.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Validity",
+          "right": "Meets all the benchmarks or criteria requirements"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "The evidence that will be collected needs to show the person has current skills and knowledge.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Currency",
+          "right": "Person has current skills and knowledge"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "must be work they have produced or created themselves",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Authenticity",
+          "right": "Work produced or created by themselves"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Is the evidence less than three years old?",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Recency",
+          "right": "Evidence less than three years old"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "The evidence collected will be sufficient [enough] to make a decision about a person's competence.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Sufficiency",
+          "right": "Enough to make a decision about competence"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "the candidate consistently meets the standards under work place conditions?",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Consistency",
+          "right": "Consistently meets the standards under work place conditions"
+        }
+      ],
+      "prompt": "Match each rule with what the designer checks."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 23,
+        "printedPage": 23,
+        "quote": "Usually three types of evidence are accepted as sufficient.",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "answerIndex": 2,
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "prompt": "How many types of evidence are usually accepted as sufficient?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "c) Authenticity The evidence collected",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 22,
+              "passageId": "cblm11-p22-93acc66a",
+              "printedPage": 22,
+              "quote": "must be work they have produced or created themselves and can be directly attributed [credited] to them.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Authenticity: the evidence must be work they produced or created themselves."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "observation of work in progress • declarations • drafting • third party validation",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Authenticity procedures: observation of work in progress, declarations, drafting, third party validation."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 23,
+              "passageId": "cblm11-p23-89da3d8a",
+              "printedPage": 23,
+              "quote": "These can be collected via: • videoing • recording • written transcripts • sign-off sheets • testimonials",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Collect them via videoing, recording, written transcripts, sign-off sheets and testimonials."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "indirect evidence is the work of the candidate and not someone else's.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Indirect evidence must be the work of the candidate and not someone else's."
+        }
+      ],
+      "modelAnswer": "Authentic evidence is work the person produced or created themselves. Procedures to ensure authenticity:\n1. Observation of work in progress\n2. Declarations\n3. Drafting\n4. Third party validation\nThese can be collected via videoing, recording, written transcripts, sign-off sheets and testimonials.",
+      "prompt": "What procedures can help establish authenticity of evidence?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "If the benchmark is a unit of competency, then the collected evidence must include: • All performance criteria • All elements • Dimensions of competency",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "Essential skills and knowledge that are listed in the evidence guide",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "All performance criteria, all elements, dimensions of competency, and evidence guide requirements."
+      },
+      "prompt": "What must collected evidence include if the benchmark is a unit of competency?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Check whether evidence is valid, sufficient, current and authentic;\nconsistent across sources; and covers all relevant criteria and competency\ndimensions.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q46",
+      "kind": "paper",
+      "label": "Short Questions (Short 46)",
+      "page": 6,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What must an assessor check before making a decision about collected evidence?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": "Observe the work in progress; obtain a candidate declaration;\ncheck drafts or work processes; and seek supervisor, employer or third-party\nvalidation.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q47",
+      "kind": "paper",
+      "label": "Short Questions (Short 47)",
+      "page": 6,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What procedures can help establish authenticity of evidence?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": "Evidence must cover all relevant elements and performance\ncriteria, competency dimensions, essential skills and knowledge or critical\nevidence in the evidence guide, and mandatory conditions in the range statement.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q48",
+      "kind": "paper",
+      "label": "Short Questions (Short 48)",
+      "page": 6,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What are the requirements of valid evidence?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": "Validity means evidence is relevant to the current standards and\ncriteria. Sufficiency means there is enough varied evidence to cover all elements\nand competency dimensions.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q51",
+      "kind": "paper",
+      "label": "Short Questions (Short 51)",
+      "page": 7,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is the difference between validity and sufficiency of evidence?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": "Observe the candidate's work; obtain a declaration; check drafts or\nwork in progress; and use third-party validation when needed. Confirm that the\nsubmitted work is the candidate's own and directly attributable to them.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q78",
+      "kind": "paper",
+      "label": "Short Questions (Short 78)",
+      "page": 10,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "How should the assessor ensure evidence is authentic?",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 6,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "How the Designer Checks Each Rule of Evidence",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "d) Recency Is the evidence less than three years old?",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Extra, Recency: is the evidence less than three years old?"
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 23,
+          "passageId": "cblm11-p23-685df181",
+          "printedPage": 23,
+          "quote": "show that the candidate consistently meets the standards under work place conditions?",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Extra rule, Consistency: the candidate consistently meets the standards under work place conditions."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 22,
+          "printedPage": 22,
+          "quote": "The assessment method you choose must meet all the benchmarks or criteria requirements.",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "The evidence collected will be sufficient [enough] to make a decision about a person's competence.",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Validity: meet all the benchmarks or criteria requirements. Sufficiency: enough to make a decision about competence."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 12,
+          "passageId": "cblm11-p12-8a1beaee",
+          "printedPage": 12,
+          "quote": "When designing assessment tools that use indirect evidence, e.g. work samples you need to ensure that the assessors check on authenticity.",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 12,
+          "printedPage": 12,
+          "quote": "You should collect more direct evidence if in doubt.",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Indirect evidence like work samples needs an authenticity check. If in doubt, collect more direct evidence."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

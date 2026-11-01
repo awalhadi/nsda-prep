@@ -1,0 +1,487 @@
+{
+  "aliases": [
+    "Must know, should know, could know",
+    "Job target",
+    "Identify underpinning knowledge"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 8,
+      "pages": [
+        {
+          "pdf": 28,
+          "printed": 28
+        },
+        {
+          "pdf": 29,
+          "printed": 29
+        }
+      ],
+      "src": "cblm08"
+    }
+  ],
+  "banglaExplanation": [
+    "Underpinning knowledge হলো সেই MUST KNOW জ্ঞান, যা ছাড়া learner learning outcomes অর্জন করতে পারবে না।",
+    "এটা না জানলে সে competence দেখাতে পারবে না।",
+    "Job target তথ্যকে তিন ভাগে সাজায়: must know, should know, could know।",
+    "অপ্রয়োজনীয় theoretical knowledge দিয়ে শিক্ষার্থীকে overload করবেন না।"
+  ],
+  "breakdown": {
+    "exam": 6,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 8,
+  "errata": [],
+  "example": {
+    "bn": "দেয়াল রং করার আগে দেয়াল, brush আর রঙের ধরন জানা হলো underpinning knowledge।",
+    "en": "To paint a wall, the learner must know types of walls, brushes and paints."
+  },
+  "highlighted": true,
+  "id": "underpinning-knowledge-job-target",
+  "importance": {
+    "bn": "Short Questions (Short 34), Unit 01 Questions (MCQ 3) আর Unit 01 Answers (MCQ 3): 3 জায়গায় এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Short Questions (Short 34), Unit 01 Questions (MCQ 3) and Unit 01 Answers (MCQ 3). Highlighted in CBLM 8. Comes as MCQ and short question."
+  },
+  "keywords": [
+    {
+      "bn": "কাজের পেছনের মূল জ্ঞান",
+      "en": "Underpinning knowledge"
+    },
+    {
+      "bn": "অবশ্যই জানতে হবে",
+      "en": "Must know"
+    },
+    {
+      "bn": "জানা উচিত, তবে কম জরুরি",
+      "en": "Should know"
+    },
+    {
+      "bn": "জানলে ভালো, কিন্তু জরুরি নয়",
+      "en": "Could know"
+    },
+    {
+      "bn": "তথ্যকে তিন ভাগে সাজানোর মডেল",
+      "en": "Job target"
+    }
+  ],
+  "likelyTypes": [
+    "mcq",
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": 3,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 29,
+            "passageId": "cblm08-p29-7b6a3377",
+            "printedPage": 29,
+            "quote": "Must know: the information, skills or qualities the trainee must have acquired",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "to be able to achieve the learning outcomes",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Must know: information, skills or qualities the trainee must have to achieve the learning outcomes."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Should know: additional information of an important but less critical nature",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Should know: additional information of an important but less critical nature"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 29,
+            "passageId": "cblm08-p29-af2941a6",
+            "printedPage": 29,
+            "quote": "Could know: other information relating to the work, which would be of use ,",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "but is not essential",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Could know: other information relating to the work, useful but not essential."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 28,
+        "passageId": "cblm08-p28-737e60bc",
+        "printedPage": 28,
+        "quote": "It is important that you identify the underpinning knowledge necessary for learners so",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 28,
+        "printedPage": 28,
+        "quote": "that they can meet the session learning outcome/s. This is MUST KNOW information",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 28,
+        "passageId": "cblm08-p28-aa86093f",
+        "printedPage": 28,
+        "quote": "and refers to key concepts or information associated with these outcomes.",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Underpinning knowledge is MUST KNOW information: key concepts needed to meet the session learning outcomes."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Must know: the information, skills or qualities the trainee must have acquired",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Must know",
+          "right": "Information the trainee must have acquired"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Should know: additional information of an important but less critical nature",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Should know",
+          "right": "Important but less critical additional information"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Could know: other information relating to the work, which would be of use ,",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Could know",
+          "right": "Other information relating to the work, of use"
+        }
+      ],
+      "prompt": "Match each job target category with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 8,
+        "match": "exact",
+        "page": 28,
+        "printedPage": 28,
+        "quote": "and refers to key concepts or information associated with these outcomes.",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Theoretical knowledge that should be covered first",
+        "Key concepts or information associated with the learning outcomes",
+        "Information covered only if time allows",
+        "Extra knowledge to fill the session"
+      ],
+      "prompt": "In underpinning knowledge, what does \"MUST KNOW\" information refer to?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "don't have this knowledge then they are not likely to be able to demonstrate",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "This is MUST KNOW information",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "competence by achieving the outcome.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Without must-know knowledge, learners are not likely to demonstrate competence."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "Once you have found a task, the first step is to decide what information from the",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "analysis (as per Job sheet & Specification sheet, if necessary) is essential to meet",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "the learning outcomes.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "First decide what information from the analysis is essential to meet the learning outcomes."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "And after that, what would be covered only if there is time to",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Then decide what would be covered only if there is time."
+        }
+      ],
+      "modelAnswer": "Underpinning knowledge is organised by the job target into three categories:\n1. Must know: information the trainee must have acquired to achieve the learning outcomes.\n2. Should know: additional information, important but less critical.\n3. Could know: useful information relating to the work, but not essential.",
+      "prompt": "What is the difference between \"must know\" and \"should know\" information?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "that they can meet the session learning outcome/s.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "don't have this knowledge then they are not likely to be able to demonstrate",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "competence by achieving the outcome.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "So learners can meet the session learning outcomes. Without it, they are not likely to demonstrate competence."
+      },
+      "prompt": "Why must you identify underpinning knowledge for learners?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "\"Must know\" information is essential to achieve the task or\nlearning outcome. \"Should know\" information provides useful additional context\nbut is not always essential to complete the task.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q34",
+      "kind": "paper",
+      "label": "Short Questions (Short 34)",
+      "page": 4,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is the difference between \"must know\" and \"should know\" information?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-mcq-q3",
+      "kind": "paper",
+      "label": "Unit 01 Questions (MCQ 3)",
+      "options": [
+        "Theoretical knowledge that should be covered first for meeting learning outcomes",
+        "Key concepts or essential information for meeting learning outcomes",
+        "Information that can be covered if time allows for meeting learning outcomes",
+        "Overloading students with unnecessary knowledge"
+      ],
+      "page": 1,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "In the context of underpinning knowledge, what does \"MUST KNOW\" information refers to?",
+      "src": "paper-unit01-mcq",
+      "type": "mcq"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-answer-q3",
+      "kind": "paper",
+      "label": "Unit 01 Answers (MCQ 3)",
+      "options": [
+        "Theoretical knowledge that should be covered first for meeting learning outcomes",
+        "Key concepts or essential information for meeting learning outcomes",
+        "Information that can be covered if time allows for meeting learning outcomes",
+        "Overloading students with unnecessary knowledge"
+      ],
+      "page": 1,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "In the context of underpinning knowledge, what does \"MUST KNOW\" information refers to?",
+      "src": "paper-unit01-answer",
+      "type": "mcq"
+    }
+  ],
+  "score": 10,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Underpinning Knowledge and the Job Target",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 28,
+          "printedPage": 28,
+          "quote": "Take care not to overload the student with theoretical knowledge that is not essential",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Do not overload the student with theoretical knowledge that is not essential."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 29,
+          "printedPage": 29,
+          "quote": "Should know: additional information of an important but less critical nature",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 29,
+          "printedPage": 29,
+          "quote": "but is not essential",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 29,
+          "printedPage": 29,
+          "quote": "Could know: other information relating to the work, which would be of use ,",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Should know is important but less critical. Could know is not essential."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

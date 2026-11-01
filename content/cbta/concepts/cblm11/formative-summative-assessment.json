@@ -1,0 +1,275 @@
+{
+  "id": "formative-summative-assessment",
+  "canonical_title": "Formative and Summative Assessment",
+  "aliases": [
+    "Types of assessment",
+    "Formative assessment",
+    "Summative assessment"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p14-aa5076f8",
+    "cblm11-p14-a35ea808",
+    "cblm11-p14-aa33964f",
+    "cblm11-p14-329dc1da",
+    "cblm11-p14-94af5633",
+    "cblm11-p25-e0f05ed4",
+    "cblm11-p26-dff17a99"
+  ],
+  "questions": [
+    "cblm11-sc1-q1",
+    "paper-short-questions-q38"
+  ],
+  "one_line_answer": {
+    "text": "Assessments can be categorized into two main types: formative and summative.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 14,
+        "quote": "assessments can be categorized into two main types Formative assessment",
+        "passageId": "cblm11-p14-a35ea808"
+      },
+      {
+        "src": "cblm11",
+        "page": 14,
+        "quote": "Summative assessment"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Formative assessment",
+      "bn": "শেখার মাঝে চলমান মূল্যায়ন"
+    },
+    {
+      "en": "Summative assessment",
+      "bn": "শেষে চূড়ান্ত মূল্যায়ন"
+    },
+    {
+      "en": "Feedback",
+      "bn": "কাজ কেমন হলো তা জানানো"
+    },
+    {
+      "en": "Certification",
+      "bn": "সনদ দেওয়া"
+    },
+    {
+      "en": "Formal assessment",
+      "bn": "আনুষ্ঠানিক মূল্যায়ন"
+    }
+  ],
+  "bangla_explanation": [
+    "Formative assessment training চলার সময় হয়, trainer নিজেই এটা designed করেন।",
+    "এর কাজ feedback দিয়ে শেখায় সাহায্য করা, পাস-ফেল করা নয়।",
+    "Summative assessment সাধারণত training-এর শেষে হয়, এটাই formal assessment।",
+    "এতে ঠিক হয় trainee competent কি না, আর এটা certification-এর জন্য ব্যবহার হয়।"
+  ],
+  "example": {
+    "en": "In an IT course, the trainer gives a quick weekly quiz with feedback. The final competency test leads to a certificate.",
+    "bn": "সাপ্তাহিক quiz হলো formative, শেষের সার্টিফিকেট পরীক্ষা হলো summative।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Formative assessment: assists and supports learning with feedback on performance and progress.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 14,
+            "quote": "This term is used for assessment which assists and supports learning by providing feedback about performance and progress towards the achievement of competency.",
+            "passageId": "cblm11-p14-aa33964f"
+          }
+        ]
+      },
+      {
+        "text": "Summative assessment: determines whether a trainee has reached competency, for recognition or certification.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 14,
+            "quote": "The purpose of this type of assessment is to determine whether a trainee has reached competency",
+            "passageId": "cblm11-p14-94af5633"
+          },
+          {
+            "src": "cblm11",
+            "page": 14,
+            "quote": "This kind of assessment is used for the purpose of recognition, or certification."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Formative assessment is conducted during training. Summative is usually at the end of training.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 14,
+          "quote": "Formative assessment is conducted during training",
+          "passageId": "cblm11-p14-329dc1da"
+        },
+        {
+          "src": "cblm11",
+          "page": 14,
+          "quote": "Summative assessment is usually conducted at the end of a period of training."
+        }
+      ]
+    },
+    {
+      "text": "Not every person must undergo training before assessment. They may apply for RPL.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 14,
+          "quote": "However not every person must undergo training before they do assessment."
+        },
+        {
+          "src": "cblm11",
+          "page": 14,
+          "quote": "may go straight to competency assessment or apply for RPL."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Explain the purpose of formative assessment and summative assessment.",
+      "modelAnswer": "Formative assessment: assists and supports learning by feedback about performance and progress towards competency. It is conducted during training and designed and conducted by the trainer.\nSummative assessment: determines whether a trainee has reached competency or achieved learning outcomes. It is for recognition, classification or certification following a training program.",
+      "keyPoints": [
+        {
+          "text": "Formative assessment is designed and conducted by the trainer.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 26,
+              "quote": "Formative assessment is conducted during training and is designed and conducted by the trainer.",
+              "passageId": "cblm11-p26-dff17a99"
+            }
+          ]
+        },
+        {
+          "text": "Summative assessment is for recognition, classification or certification following a training program.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 26,
+              "quote": "for the purpose of recognition, classification or certification following a training program."
+            }
+          ]
+        },
+        {
+          "text": "Summative assessment is also known as formal assessment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 14,
+              "quote": "This type of assessment is also known as formal assessment"
+            }
+          ]
+        },
+        {
+          "text": "Summative assessment will confirm if your trainee is competent or not.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 14,
+              "quote": "This type of assessment is also known as formal assessment and will confirm if your trainee is competent or not."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which assessment is conducted during training and designed by the trainer?",
+      "options": [
+        "Summative assessment",
+        "Formative assessment",
+        "Recognition of prior learning",
+        "Formal assessment"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 14,
+        "quote": "Formative assessment is conducted during training and is designed and conducted by the trainer."
+      }
+    },
+    "matching": {
+      "prompt": "Match each phrase with the correct type of assessment.",
+      "pairs": [
+        {
+          "left": "Conducted during training",
+          "right": "Formative assessment",
+          "cite": {
+            "src": "cblm11",
+            "page": 14,
+            "quote": "Formative assessment is conducted during training"
+          }
+        },
+        {
+          "left": "Also known as formal assessment",
+          "right": "Summative assessment",
+          "cite": {
+            "src": "cblm11",
+            "page": 14,
+            "quote": "This type of assessment is also known as formal assessment"
+          }
+        },
+        {
+          "left": "Feedback about performance and progress",
+          "right": "Supports learning (formative)",
+          "cite": {
+            "src": "cblm11",
+            "page": 14,
+            "quote": "assists and supports learning by providing feedback about performance and progress"
+          }
+        },
+        {
+          "left": "Usually at the end of training",
+          "right": "Confirms competency (summative)",
+          "cite": {
+            "src": "cblm11",
+            "page": 14,
+            "quote": "Summative assessment is usually conducted at the end of a period of training."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What is the purpose of summative assessment?",
+      "answer": {
+        "text": "To determine whether a trainee has reached competency. It is used for recognition or certification.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 14,
+            "quote": "The purpose of this type of assessment is to determine whether a trainee has reached competency"
+          },
+          {
+            "src": "cblm11",
+            "page": 14,
+            "quote": "This kind of assessment is used for the purpose of recognition, or certification."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "practice.short.keyPoints[1]",
+      "note": "Information sheet p.14 says summative is for 'recognition, or certification'. Answer key p.26 (cblm11-sc1-q1) and p.35 say 'recognition, classification or certification following a training program'. Not a real conflict, but the lists differ; the model answer follows the answer key."
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "id": "curriculum-document",
+  "canonical_title": "Curriculum Document in CBT&A",
+  "aliases": [
+    "Curriculum document",
+    "Syllabus",
+    "Curriculum Documents"
+  ],
+  "cblmPrimary": 8,
+  "source_type": "cblm",
+  "covers": [
+    "cblm08-p7-7f052c25",
+    "cblm08-p7-bd7c123d",
+    "cblm08-p7-b3daad3c",
+    "cblm08-p7-643fec50"
+  ],
+  "questions": [
+    "paper-unit01-mcq-q6",
+    "paper-unit01-answer-q6",
+    "paper-unit01-mcq-q21",
+    "paper-unit01-answer-q21",
+    "paper-unit01-short-q18"
+  ],
+  "one_line_answer": {
+    "text": "A curriculum is a documented representation of a set of competencies.",
+    "fidelity": "verbatim",
+    "cites": [
+      {
+        "src": "cblm08",
+        "page": 7,
+        "quote": "A curriculum is a documented representation of a set of competencies."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Curriculum",
+      "bn": "শেখানোর লিখিত পরিকল্পনা"
+    },
+    {
+      "en": "Syllabus",
+      "bn": "কোর্স বা module-এর পাঠ্যসূচি"
+    },
+    {
+      "en": "Nominal delivery hours",
+      "bn": "শেখাতে মোটামুটি কত ঘণ্টা লাগবে"
+    },
+    {
+      "en": "Prerequisite",
+      "bn": "আগে থেকে যা জানা থাকতে হবে"
+    },
+    {
+      "en": "Industry Skills Council (ISC)",
+      "bn": "যে শিল্প পরিষদ standard অনুমোদন করে"
+    }
+  ],
+  "bangla_explanation": [
+    "Curriculum হলো কিছু competencies-এর লিখিত রূপ।",
+    "NTVQF-এ এই competencies সাধারণত Units of Competency হিসেবে লেখা থাকে, আর ISC এগুলো অনুমোদন করে।",
+    "নতুন trainer-কে সাধারণত curriculum বানাতে হয় না, তাকে একটা syllabus দেওয়া হয়।",
+    "এই document-এ module-এর নাম, hours, learning outcomes আর assessment-এর বিবরণ থাকে।",
+    "তাই ক্লাস প্ল্যান করার আগে curriculum document ভালো করে পড়ুন।"
+  ],
+  "example": {
+    "en": "A new IT trainer gets the syllabus for a computer module from the training centre.",
+    "bn": "নতুন IT trainer নিজে curriculum বানান না, প্রতিষ্ঠান তাকে syllabus দেয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "The name and number of the module and/unit of competency",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "The name and number of the module and/unit of competency",
+            "passageId": "cblm08-p7-bd7c123d"
+          }
+        ]
+      },
+      {
+        "text": "Nominal delivery hours",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "Nominal delivery hours"
+          }
+        ]
+      },
+      {
+        "text": "A general description of the purpose of the module and/or unit of competency",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "A general description of the purpose of the module and/or unit of competency"
+          }
+        ]
+      },
+      {
+        "text": "Any prerequisite knowledge and skills",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "Any prerequisite knowledge and skills"
+          }
+        ]
+      },
+      {
+        "text": "Relationship to the industry competency standards",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "Relationship to the industry competency standards"
+          }
+        ]
+      },
+      {
+        "text": "A summary of the content",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "A summary of the content",
+            "passageId": "cblm08-p7-b3daad3c"
+          }
+        ]
+      },
+      {
+        "text": "A summary of the assessment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "A summary of the assessment"
+          }
+        ]
+      },
+      {
+        "text": "A detailed description of the learning outcomes, including each assessment criterion.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "A detailed description of the learning outcomes that learners are expected to"
+          },
+          {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "achieve, including each of the assessment criteria"
+          }
+        ]
+      },
+      {
+        "text": "A description of how the module and /or unit of competency might be delivered.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "A description of how the module and /or unit of competency might be delivered.",
+            "passageId": "cblm08-p7-643fec50"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "A beginning trainer may not have to develop curriculum. They are provided with a syllabus.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 7,
+          "quote": "As a beginning teacher/trainer you may not",
+          "passageId": "cblm08-p7-7f052c25"
+        },
+        {
+          "src": "cblm08",
+          "page": 7,
+          "quote": "have to develop curriculum. You will be"
+        },
+        {
+          "src": "cblm08",
+          "page": 7,
+          "quote": "provided with a document, sometimes referred to as a syllabus for any modules or"
+        }
+      ]
+    },
+    {
+      "text": "Competency standards are endorsed by the Industry Skills Council (ISC), not by the trainer.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 7,
+          "quote": "These standards are endorsed by the relevant"
+        },
+        {
+          "src": "cblm08",
+          "page": 7,
+          "quote": "Industry Skills Council (ISC)."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "How does a curriculum document differ from a competency standard?",
+      "modelAnswer": "Competency standards define the required skills, knowledge and attitudes for occupations. A curriculum document is a practical guide to deliver training. It translates competency standards into courses or learning programs.\nA curriculum document provides:\n1. Module name and number\n2. Nominal delivery hours\n3. Purpose of the module\n4. Prerequisite knowledge and skills\n5. Relationship to the competency standards\n6. Content summary\n7. Assessment summary\n8. Learning outcomes and assessment criteria\n9. How it might be delivered",
+      "keyPoints": [
+        {
+          "text": "Competency standards define the required skills, knowledge, and attitudes for specific occupations.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "paper-unit01-short",
+              "page": 5,
+              "quote": "Competency standards define the required skills, knowledge, and attitudes for specific occupations"
+            }
+          ]
+        },
+        {
+          "text": "A curriculum document is a practical guide to deliver training.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "paper-unit01-short",
+              "page": 5,
+              "quote": "a curriculum document serves as a practical guide to deliver training"
+            }
+          ]
+        },
+        {
+          "text": "Standards describe what must be achieved. The curriculum explains how it is taught and assessed.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "paper-unit01-short",
+              "page": 5,
+              "quote": "While competency standards describe what must be achieved, the curriculum explains how it will be"
+            },
+            {
+              "src": "paper-unit01-short",
+              "page": 5,
+              "quote": "taught and assessed."
+            }
+          ]
+        },
+        {
+          "text": "Under NTVQF, competencies are usually written as Units of Competency (UoC).",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 7,
+              "quote": "Technical and Vocational Qualification"
+            },
+            {
+              "src": "cblm08",
+              "page": 7,
+              "quote": "Framework (NTVQF), these competencies are"
+            },
+            {
+              "src": "cblm08",
+              "page": 7,
+              "quote": "usually written as Units of Competency (UoC)"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which body endorses the competency standards that a curriculum is based on?",
+      "options": [
+        "The individual trainer",
+        "The relevant Industry Skills Council (ISC)",
+        "The training institute's principal",
+        "The learners of the course"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm08",
+        "page": 7,
+        "quote": "Industry Skills Council (ISC)."
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning in the CBLM.",
+      "pairs": [
+        {
+          "left": "Curriculum",
+          "right": "A documented representation of a set of competencies",
+          "cite": {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "A curriculum is a documented representation of a set of competencies."
+          }
+        },
+        {
+          "left": "Syllabus",
+          "right": "The document a beginning trainer is provided with",
+          "cite": {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "provided with a document, sometimes referred to as a syllabus for any modules or"
+          }
+        },
+        {
+          "left": "Course",
+          "right": "A curriculum for a whole program of study",
+          "cite": {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "whole program of study (referred to in institutions as a course)"
+          }
+        },
+        {
+          "left": "Subject or module",
+          "right": "A curriculum for an element of that program",
+          "cite": {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "element of that program (referred to in institutions as a subject or a module)"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "As a new trainer, will you write the curriculum yourself?",
+      "answer": {
+        "text": "A beginning trainer may not have to develop curriculum. They are provided with a syllabus.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "As a beginning teacher/trainer you may not"
+          },
+          {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "have to develop curriculum. You will be"
+          },
+          {
+            "src": "cblm08",
+            "page": 7,
+            "quote": "provided with a document, sometimes referred to as a syllabus for any modules or"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

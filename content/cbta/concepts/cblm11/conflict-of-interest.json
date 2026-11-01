@@ -1,0 +1,198 @@
+{
+  "id": "conflict-of-interest",
+  "canonical_title": "Conflict of Interest in Assessment",
+  "aliases": [
+    "Conflict of interest",
+    "Handling a conflict of interest"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p17-f1379364"
+  ],
+  "questions": [
+    "paper-short-questions-q63",
+    "paper-short-questions-q82"
+  ],
+  "one_line_answer": {
+    "text": "Conflict of interest may come up when you know or are related to a candidate.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 17,
+        "quote": "can create a situation where the issue of conflict of interest may come up.",
+        "passageId": "cblm11-p17-f1379364"
+      },
+      {
+        "src": "cblm11",
+        "page": 17,
+        "quote": "You might know or be related to someone who is scheduled to attend one of your assessment events."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Conflict of interest",
+      "bn": "স্বার্থের সংঘাত: সম্পর্কের কারণে নিরপেক্ষ থাকা কঠিন"
+    },
+    {
+      "en": "Close communities",
+      "bn": "ঘনিষ্ঠ সমাজ, যেখানে সবাই সবাইকে চেনে"
+    },
+    {
+      "en": "Act ethically",
+      "bn": "নৈতিকভাবে কাজ করা"
+    },
+    {
+      "en": "Code of Conduct",
+      "bn": "আচরণবিধি"
+    },
+    {
+      "en": "Supervisor",
+      "bn": "তত্ত্বাবধায়ক বা ঊর্ধ্বতন"
+    }
+  ],
+  "bangla_explanation": [
+    "আত্মীয় বা পরিচিত কেউ assessment-এ এলে conflict of interest তৈরি হতে পারে।",
+    "সে ভাবতে পারে চেনা assessor হলে সুবিধা হবে, তাই আপনাকে দিয়েই assess করাতে চায়।",
+    "Assessor-কে সচেতন থাকতে হবে আর act ethically করতে হবে।",
+    "সন্দেহ হলেই supervisor-কে সাথে সাথে জানাতে হবে, BTEB Code of Conduct দেখতে হবে।"
+  ],
+  "example": {
+    "en": "An assessor's cousin enrols in his electrical wiring assessment. He reports this to his supervisor at once.",
+    "bn": "নিজের কাজিন assessment-এ এলে সাথে সাথে supervisor-কে জানাতে হবে।"
+  },
+  "traps": [
+    {
+      "text": "Whatever the situation, report a possible conflict of interest to your supervisor immediately.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 17,
+          "quote": "Whatever the situation if you think there may be a conflict of interest you must report it to your supervisor immediately."
+        }
+      ]
+    },
+    {
+      "text": "They may ask you to assess them, thinking knowing you personally can help them.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 17,
+          "quote": "they may ask you to assess them, thinking that it can help them to know you personally"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is conflict of interest in assessment? How should the assessor handle it?",
+      "modelAnswer": "Conflict of interest: you know or are related to a candidate of your assessment event. This often comes up in close communities.\nTo handle it:\n1. Be aware of possible conflicts of interest.\n2. Act ethically and responsibly.\n3. Consult the BTEB Code of Conduct for Assessors.\n4. Report it to your supervisor immediately.",
+      "keyPoints": [
+        {
+          "text": "Assessors must be aware of possible conflicts of interests and act ethically and responsibly.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 17,
+              "quote": "you will need to be aware of possible conflicts of interests and take actions to ensure that you act ethically and responsibly."
+            }
+          ]
+        },
+        {
+          "text": "Consult the BTEB Code of Conduct for Assessors.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 17,
+              "quote": "Consult the BTEB Code of Conduct for Assessors."
+            }
+          ]
+        },
+        {
+          "text": "Report a possible conflict of interest to your supervisor immediately.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 17,
+              "quote": "if you think there may be a conflict of interest you must report it to your supervisor immediately."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "You think there may be a conflict of interest. What must you do?",
+      "options": [
+        "Assess the candidate quickly",
+        "Report it to your supervisor immediately",
+        "Ignore it if the candidate agrees",
+        "Ask the candidate to keep it secret"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 17,
+        "quote": "you must report it to your supervisor immediately."
+      }
+    },
+    "matching": {
+      "prompt": "Match each item with what the CBLM says about conflict of interest.",
+      "pairs": [
+        {
+          "left": "Close communities",
+          "right": "Can create a conflict of interest situation",
+          "cite": {
+            "src": "cblm11",
+            "page": 17,
+            "quote": "working in close communities can create a situation where the issue of conflict of interest may come up."
+          }
+        },
+        {
+          "left": "Code to consult",
+          "right": "BTEB Code of Conduct for Assessors",
+          "cite": {
+            "src": "cblm11",
+            "page": 17,
+            "quote": "Consult the BTEB Code of Conduct for Assessors."
+          }
+        },
+        {
+          "left": "Report to",
+          "right": "Your supervisor, immediately",
+          "cite": {
+            "src": "cblm11",
+            "page": 17,
+            "quote": "you must report it to your supervisor immediately."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why might a relative want you to assess them?",
+      "answer": {
+        "text": "They think knowing you personally can help them. Or they feel more comfortable with someone they know.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 17,
+            "quote": "thinking that it can help them to know you personally or it may be that they simply feel more comfortable being assessed by someone they know."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "practice.short.keyPoints[1]",
+      "note": "CBLM 11 p.17 says consult the BTEB Code of Conduct for Assessors. paper-short-questions-q82 answer guide says 'the organisation's or NSDA Code of Conduct'. Card follows CBLM 11 (BTEB). Confirm which body learners should name."
+    }
+  ]
+}

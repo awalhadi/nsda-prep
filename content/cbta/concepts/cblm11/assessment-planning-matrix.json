@@ -1,0 +1,202 @@
+{
+  "id": "assessment-planning-matrix",
+  "canonical_title": "Assessment Planning Matrix",
+  "aliases": [
+    "Assessment matrix"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p51-0cde7b22",
+    "cblm11-p55-79f91b27"
+  ],
+  "questions": [
+    "cblm11-sc3-q3",
+    "paper-final-formative-01-q14"
+  ],
+  "one_line_answer": {
+    "text": "An assessment planning matrix is a tool to map elements and performance criteria against methods.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 51,
+        "quote": "Assessment planning matrix is a tool that allows you to map every elements and its performance criteria against appropriate assessment methods.",
+        "passageId": "cblm11-p51-0cde7b22"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Matrix",
+      "bn": "সারি ও কলামের ছক"
+    },
+    {
+      "en": "Map",
+      "bn": "মিলিয়ে দেখানো, ছকে বসানো"
+    },
+    {
+      "en": "Elements",
+      "bn": "unit-এর অংশ বা কাজগুলো"
+    },
+    {
+      "en": "Performance criteria",
+      "bn": "কাজ কতটা ভালো হতে হবে তার মানদণ্ড"
+    },
+    {
+      "en": "Assessment methods",
+      "bn": "প্রমাণ সংগ্রহের পদ্ধতি"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment planning matrix একটা ছক বা tool।",
+    "এক দিকে থাকে প্রতিটি element আর তার performance criteria, অন্য দিকে assessment methods।",
+    "কোন criteria কোন methods দিয়ে assessed হবে, ছকে টিক দিয়ে দেখানো হয়।",
+    "এতে কোনো performance criteria বাদ পড়ে না, তাই পরিকল্পনা পূর্ণ হয়।"
+  ],
+  "example": {
+    "en": "A trainer draws a table. Rows show each performance criterion. Columns show observation, oral questioning and third party report.",
+    "bn": "ছকের সারিতে performance criteria, কলামে method; মিল থাকলে টিক দেওয়া হয়।"
+  },
+  "traps": [
+    {
+      "text": "The matrix is a tool to map performance criteria against assessment methods.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 51,
+          "quote": "a tool that allows you to map every elements and its performance criteria against appropriate assessment methods"
+        }
+      ]
+    },
+    {
+      "text": "\"Assessment matrix\" means the assessment planning matrix tool.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 55,
+          "quote": "What do you understand by assessment matrix"
+        },
+        {
+          "src": "cblm11",
+          "page": 51,
+          "quote": "Assessment planning matrix is a tool"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What do you understand by assessment matrix?",
+      "modelAnswer": "Assessment planning matrix is a tool that allows you to map every element and its performance criteria against appropriate assessment methods.\nIt also articulates the program learning goals. It identifies courses where this material is taught and assessed.",
+      "keyPoints": [
+        {
+          "text": "It maps every element and its performance criteria against appropriate assessment methods.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 56,
+              "quote": "map every elements and its performance criteria against appropriate assessment methods"
+            }
+          ]
+        },
+        {
+          "text": "It articulates the program learning goals.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 51,
+              "quote": "An assessment planning matrix articulates the program learning goals"
+            }
+          ]
+        },
+        {
+          "text": "It identifies courses in which related material is taught and assessed.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 51,
+              "quote": "identifies courses in which material related to these goals is taught and assessed"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which tool maps every element and its performance criteria against assessment methods?",
+      "options": [
+        "Observation checklist",
+        "Assessment planning matrix",
+        "Third party report",
+        "Portfolio evaluation form"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 51,
+        "quote": "Assessment planning matrix is a tool that allows you to map every elements and its performance criteria against appropriate assessment methods."
+      }
+    },
+    "matching": {
+      "prompt": "Match each item with its description.",
+      "pairs": [
+        {
+          "left": "Assessment planning matrix",
+          "right": "Maps every element and its performance criteria against assessment methods",
+          "cite": {
+            "src": "cblm11",
+            "page": 51,
+            "quote": "Assessment planning matrix is a tool that allows you to map every elements and its performance criteria against appropriate assessment methods."
+          }
+        },
+        {
+          "left": "Matrix and goals",
+          "right": "Articulates the program learning goals",
+          "cite": {
+            "src": "cblm11",
+            "page": 51,
+            "quote": "An assessment planning matrix articulates the program learning goals"
+          }
+        },
+        {
+          "left": "Matrix and courses",
+          "right": "Identifies courses where material is taught and assessed",
+          "cite": {
+            "src": "cblm11",
+            "page": 51,
+            "quote": "identifies courses in which material related to these goals is taught and assessed"
+          }
+        },
+        {
+          "left": "Reviewing assessment plan",
+          "right": "Ensures proposed outcomes achieved what was intended",
+          "cite": {
+            "src": "cblm11",
+            "page": 51,
+            "quote": "Reviewing the assessment plan is critical to ensure that the proposed outcomes of the assessment plan have achieved what was intended."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What does an assessment planning matrix map?",
+      "answer": {
+        "text": "It maps every element and its performance criteria against appropriate assessment methods.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 51,
+            "quote": "map every elements and its performance criteria against appropriate assessment methods"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

@@ -1,0 +1,252 @@
+{
+  "id": "pre-assessment-of-trainees",
+  "canonical_title": "Pre-assessment of a Trainee's Current Competency",
+  "aliases": [
+    "Determine learner's competency",
+    "Pre-assess a trainee's competencies",
+    "Identifying current competencies of trainees"
+  ],
+  "cblmPrimary": 9,
+  "source_type": "cblm",
+  "covers": [
+    "cblm09-p11-8749f5ba",
+    "cblm09-p11-21348341",
+    "cblm09-p11-6cac6771",
+    "cblm09-p11-8290abc6",
+    "cblm09-p11-7ba062d3",
+    "cblm09-p12-fbaacb96",
+    "cblm09-p23-e5cb6755"
+  ],
+  "questions": [
+    "cblm09-sc1-q1",
+    "cblm09-sc1-q2"
+  ],
+  "one_line_answer": {
+    "text": "Trainees' current competency can be determined by pre-assessment.",
+    "fidelity": "verbatim",
+    "cites": [
+      {
+        "src": "cblm09",
+        "page": 11,
+        "quote": "Trainees' current competency can be determined by pre-assessment.",
+        "passageId": "cblm09-p11-8749f5ba"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Pre-assessment",
+      "bn": "training শুরুর আগে দক্ষতা যাচাই"
+    },
+    {
+      "en": "Current competency",
+      "bn": "ট্রেইনির এখনকার দক্ষতা"
+    },
+    {
+      "en": "Self-assessment instrument",
+      "bn": "নিজে নিজের দক্ষতা যাচাইয়ের ফর্ম"
+    },
+    {
+      "en": "Pre-session information",
+      "bn": "session-এর আগে পাওয়া তথ্য, যেমন enrolment form"
+    },
+    {
+      "en": "Oral interview",
+      "bn": "মুখে প্রশ্ন করে যাচাই"
+    }
+  ],
+  "bangla_explanation": [
+    "ক্লাস শুরুর আগে জানতে হবে ট্রেইনি এখন কী পারে, একেই pre assessment বলে।",
+    "দুইভাবে করা যায়: সরাসরি learner-এর সাথে checking, আর pre session information analyse করা।",
+    "Checking মানে self assessment instrument, oral interview বা written test।",
+    "এতে বোঝা যায় training-এর best starting point কোথায়, ফলে সময় নষ্ট হয় না।"
+  ],
+  "example": {
+    "en": "Before a welding course, each trainee ticks Yes or No for every performance criterion. The trainer reads the CV too.",
+    "bn": "Welding কোর্সের আগে self-assessment checklist-এ Yes/No টিক দেওয়া হয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Checking with the learner: self-assessment instrument, oral interview or written test.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 11,
+            "quote": "Checking with the learner When you meet the trainee (first time), you can ask the learner to respond or undergo a self-assessment instrument or subject them to an oral interview or written test.",
+            "passageId": "cblm09-p11-6cac6771"
+          }
+        ]
+      },
+      {
+        "text": "Analyse pre-session information, like the enrolment form or pre-application form.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 11,
+            "quote": "Analyse any pre-session information available, like enrolment form or -pre- application form and other related documents such as;",
+            "passageId": "cblm09-p11-8290abc6"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Related documents: previous assessment reports, resume, enterprise training records, supervisor performance reports.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 11,
+          "quote": "Reports of previous competency assessment undertaken."
+        },
+        {
+          "src": "cblm09",
+          "page": 11,
+          "quote": "Resume or Curriculum Vitae."
+        },
+        {
+          "src": "cblm09",
+          "page": 11,
+          "quote": "Enterprise training and assessment records."
+        },
+        {
+          "src": "cblm09",
+          "page": 11,
+          "quote": "Performance Reports from Supervisor."
+        }
+      ]
+    },
+    {
+      "text": "Pre-assessment determines current competency. Training needs are determined by identifying the gap.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 11,
+          "quote": "Trainees' current competency can be determined by pre-assessment."
+        },
+        {
+          "src": "cblm09",
+          "page": 24,
+          "quote": "Trainee's training requirements or training needs can be determined by identifying"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "How do you identify the current competencies of your trainee?",
+      "modelAnswer": "Current competency is determined by pre-assessment.\n1. Checking with the learner: a self-assessment instrument, an oral interview or a written test.\n2. Analyse pre-session information: enrolment or pre-application form, previous assessment reports, resume, enterprise records, supervisor performance reports.",
+      "keyPoints": [
+        {
+          "text": "A self-assessment guide is a listing of competency areas.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 11,
+              "quote": "A self-assessment guide is a listing of competency areas that allows the trainee to"
+            }
+          ]
+        },
+        {
+          "text": "A self assessment guide helps you know the best starting point for training.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 11,
+              "quote": "Asking trainees to complete a self assessment guide will help you and trainees know the best starting point for any training."
+            }
+          ]
+        },
+        {
+          "text": "Give the pre-self assessment before you proceed in your session.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 11,
+              "quote": "It is always important that you give your trainee a pre-self assessment before you proceed in your session"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a method to pre-assess a trainee?",
+      "options": [
+        "Oral interview",
+        "Session review",
+        "Venue site visit",
+        "Delivery plan"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm09",
+        "page": 11,
+        "quote": "subject them to an oral interview or written test."
+      }
+    },
+    "matching": {
+      "prompt": "Match each pre-assessment item with its description.",
+      "pairs": [
+        {
+          "left": "Self-assessment guide",
+          "right": "Listing of competency areas",
+          "cite": {
+            "src": "cblm09",
+            "page": 11,
+            "quote": "A self-assessment guide is a listing of competency areas"
+          }
+        },
+        {
+          "left": "Pre-session information",
+          "right": "Enrolment form or pre-application form",
+          "cite": {
+            "src": "cblm09",
+            "page": 11,
+            "quote": "Analyse any pre-session information available, like enrolment form or -pre- application form"
+          }
+        },
+        {
+          "left": "Checking with the learner",
+          "right": "Oral interview or written test",
+          "cite": {
+            "src": "cblm09",
+            "page": 11,
+            "quote": "Checking with the learner When you meet the trainee (first time), you can ask the learner to respond or undergo a self-assessment instrument or subject them to an oral interview or written test."
+          }
+        },
+        {
+          "left": "Supervisor",
+          "right": "Performance reports",
+          "cite": {
+            "src": "cblm09",
+            "page": 11,
+            "quote": "Performance Reports from Supervisor."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why give a pre-self assessment before the session?",
+      "answer": {
+        "text": "It helps you determine their level of competency before you proceed.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 11,
+            "quote": "It is always important that you give your trainee a pre-self assessment before you proceed in your session so that you can determine their level of competency."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

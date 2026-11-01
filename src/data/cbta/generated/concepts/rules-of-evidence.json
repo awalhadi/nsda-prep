@@ -5,6 +5,16 @@
   ],
   "appearsIn": [
     {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 22,
+          "printed": 22
+        }
+      ],
+      "src": "cblm11"
+    },
+    {
       "cblm": 12,
       "pages": [
         {
@@ -26,13 +36,13 @@
   "banglaExplanation": [
     "Assessor যে evidence জোগাড় করেন, সেটাকে কিছু নিয়ম মানতে হয়। এগুলোই rules of evidence।",
     "নিয়ম না মানলে decision fair হয় না, ভুল candidate পাস করে যেতে পারে।",
-    "একটা তালিকায় ছয়টি rule: Sufficient, Valid, Current, Authentic, Consistent, Recent।",
-    "Checklist-এ চারটি থাকে: Valid, Sufficient, Current, Authentic। এই চারটি অবশ্যই মনে রাখুন।"
+    "পরীক্ষায় চারটি লিখুন: Valid, Sufficient, Current, Authentic।",
+    "Consistent আর Recent rule-ও আছে, এগুলো extra হিসেবে জেনে রাখুন।"
   ],
   "breakdown": {
     "exam": 6,
     "highlight": 3,
-    "repeat": 1
+    "repeat": 2
   },
   "cblmPrimary": 12,
   "errata": [],
@@ -76,8 +86,41 @@
     "short"
   ],
   "listAnswer": {
-    "declaredCount": 6,
+    "declaredCount": null,
     "items": [
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Valid - Is the evidence related to the current version of the standards?",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Is it relevant to the elements and performance criteria in the standards?",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Evidence Valid Sufficient Current Authentic",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Valid: the evidence is relevant to the current standards, elements and performance criteria."
+      },
       {
         "cites": [
           {
@@ -98,6 +141,15 @@
             "quote": "Does it illustrate that the candidate can meet the four dimensions of competency?",
             "sourceTitle": "Organise and Conduct Competency Assessment",
             "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Evidence Valid Sufficient Current Authentic",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
           }
         ],
         "fidelity": "paraphrase",
@@ -110,7 +162,7 @@
             "match": "exact",
             "page": 20,
             "printedPage": 20,
-            "quote": "Valid - Is the evidence related to the current version of the standards?",
+            "quote": "Current - Does the evidence reflect the candidate's current knowledge and/or skill in the relevant aspect of work?",
             "sourceTitle": "Organise and Conduct Competency Assessment",
             "src": "cblm12"
           },
@@ -119,22 +171,7 @@
             "match": "exact",
             "page": 20,
             "printedPage": 20,
-            "quote": "Is it relevant to the elements and performance criteria in the standards?",
-            "sourceTitle": "Organise and Conduct Competency Assessment",
-            "src": "cblm12"
-          }
-        ],
-        "fidelity": "paraphrase",
-        "text": "Valid: the evidence is relevant to the current standards, elements and performance criteria."
-      },
-      {
-        "cites": [
-          {
-            "cblm": 12,
-            "match": "exact",
-            "page": 20,
-            "printedPage": 20,
-            "quote": "Current - Does the evidence reflect the candidate's current knowledge and/or skill in the relevant aspect of work?",
+            "quote": "Evidence Valid Sufficient Current Authentic",
             "sourceTitle": "Organise and Conduct Competency Assessment",
             "src": "cblm12"
           }
@@ -152,44 +189,26 @@
             "quote": "Authentic - Does the evidence represent the candidate's own work?",
             "sourceTitle": "Organise and Conduct Competency Assessment",
             "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Evidence Valid Sufficient Current Authentic",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
           }
         ],
         "fidelity": "paraphrase",
         "text": "Authentic: the evidence represents the candidate's own work."
-      },
-      {
-        "cites": [
-          {
-            "cblm": 12,
-            "match": "exact",
-            "page": 20,
-            "printedPage": 20,
-            "quote": "Consistent - Does the evidence show that the candidate consistently meets the standards under workplace conditions?",
-            "sourceTitle": "Organise and Conduct Competency Assessment",
-            "src": "cblm12"
-          }
-        ],
-        "fidelity": "paraphrase",
-        "text": "Consistent: the candidate consistently meets the standards under workplace conditions."
-      },
-      {
-        "cites": [
-          {
-            "cblm": 12,
-            "match": "exact",
-            "page": 20,
-            "printedPage": 20,
-            "quote": "Recent -Is the evidence less than five years old?",
-            "sourceTitle": "Organise and Conduct Competency Assessment",
-            "src": "cblm12"
-          }
-        ],
-        "fidelity": "paraphrase",
-        "text": "Recent: the evidence is less than five years old."
       }
     ]
   },
-  "mnemonic": null,
+  "mnemonic": {
+    "explain_bn": "প্রতিটি শব্দের প্রথম অক্ষর একটি rule: Valid, Sufficient, Current, Authentic।",
+    "text": "Very Smart Candidates Answer → V-S-C-A"
+  },
   "oneLineAnswer": {
     "cites": [
       {
@@ -215,7 +234,7 @@
     "fidelity": "paraphrase",
     "text": "Rules of evidence are the criteria evidence must meet for a fair, truthful decision."
   },
-  "openChecks": 3,
+  "openChecks": 1,
   "practice": {
     "matching": {
       "pairs": [
@@ -376,7 +395,7 @@
           "text": "You may use a checklist to evaluate evidence against the rules of evidence."
         }
       ],
-      "modelAnswer": "Rules of evidence are the criteria evidence must meet for a fair decision. They are:\n1. Sufficient: covers all elements and the four dimensions of competency.\n2. Valid: relevant to the current standards and performance criteria.\n3. Current: reflects the candidate's current knowledge and skill.\n4. Authentic: the candidate's own work.\n5. Consistent: meets the standards consistently in the workplace.\n6. Recent: less than five years old.",
+      "modelAnswer": "Rules of evidence are the criteria evidence must meet for a fair decision. They are:\n1. Valid: relevant to the current standards and performance criteria.\n2. Sufficient: covers all elements and the four dimensions of competency.\n3. Current: reflects the candidate's current knowledge and skill.\n4. Authentic: the candidate's own work.",
       "prompt": "What are the rules of evidence?"
     },
     "viva": {
@@ -465,7 +484,7 @@
       "type": "short"
     }
   ],
-  "score": 10,
+  "score": 11,
   "sourceType": "cblm",
   "stars": 3,
   "status": "draft",
@@ -487,7 +506,7 @@
           "match": "exact",
           "page": 20,
           "printedPage": 20,
-          "quote": "referred to as RULES OF EVIDENCE",
+          "quote": "Consistent - Does the evidence show that the candidate consistently meets",
           "sourceTitle": "Organise and Conduct Competency Assessment",
           "src": "cblm12"
         },
@@ -496,21 +515,22 @@
           "match": "exact",
           "page": 20,
           "printedPage": 20,
-          "quote": "checklist similar to the one below Evidence Valid Sufficient Current Authentic",
+          "quote": "Recent -Is the evidence less than five years old?",
           "sourceTitle": "Organise and Conduct Competency Assessment",
           "src": "cblm12"
         },
         {
+          "cblm": 12,
           "match": "exact",
-          "page": 6,
-          "printedPage": null,
-          "quote": "Validity, sufficiency, authenticity and currency.",
-          "sourceTitle": "Short Questions",
-          "src": "paper-short-questions"
+          "page": 20,
+          "printedPage": 20,
+          "quote": "also referred to as RULES OF EVIDENCE in competency based assessment",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
         }
       ],
       "fidelity": "paraphrase",
-      "text": "Six rules: validity, currency, sufficiency, authenticity, consistency, recency. The checklist shows only Valid, Sufficient, Current, Authentic."
+      "text": "Extra: Consistent and Recent evidence are also rules of evidence."
     },
     {
       "cites": [
@@ -563,5 +583,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 0
+  "warnings": 1
 }

@@ -1,0 +1,315 @@
+{
+  "id": "session-plan",
+  "canonical_title": "Session Plan",
+  "aliases": [
+    "The session plan",
+    "Planning training sessions",
+    "Why do you need a session plan?"
+  ],
+  "cblmPrimary": 9,
+  "source_type": "cblm",
+  "covers": [
+    "cblm09-p31-82ad38f8",
+    "cblm09-p31-d2e19c41",
+    "cblm09-p31-8666e1e6",
+    "cblm09-p31-a0852166",
+    "cblm09-p31-784ef005",
+    "cblm09-p31-d8cc100e",
+    "cblm09-p31-f154fa4a",
+    "cblm09-p33-8888bb9f",
+    "cblm09-p41-1d322384"
+  ],
+  "questions": [
+    "cblm09-sc2-q1"
+  ],
+  "one_line_answer": {
+    "text": "A session plan is the trainer's written guide for logical and sequential training.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm09",
+        "page": 31,
+        "quote": "A session plan is a written guide used by the trainer to help ensure training is conducted in a logical and sequential manner."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Session plan",
+      "bn": "একটি session-এর লিখিত পরিকল্পনা"
+    },
+    {
+      "en": "Training session",
+      "bn": "প্রোগ্রামের একটি ছোট অংশ বা lesson"
+    },
+    {
+      "en": "Logical and sequential",
+      "bn": "যুক্তিসঙ্গত ও ধাপে ধাপে"
+    },
+    {
+      "en": "Training outcomes",
+      "bn": "session শেষে learner যা অর্জন করবে"
+    },
+    {
+      "en": "Review",
+      "bn": "পরে নিজের কাজ যাচাই করা"
+    }
+  ],
+  "bangla_explanation": [
+    "Session plan হলো trainer-এর লেখা guide, যাতে training logical আর sequential হয়।",
+    "বড় training program একবারে শেখানো যায় না, তাই ছোট ছোট session-এ ভাগ করা হয়।",
+    "প্রতিটি session-এর outcomes, practice activities, environment আর assessment methods আগে ঠিক করুন।",
+    "Plan থাকলে জানবেন কোথায় আছেন আর কোথায় যাবেন, পরে নিজের performance review-ও করা যায়।"
+  ],
+  "example": {
+    "en": "A baking trainer writes session 04: cool, decorate and stack butter biscuits. It lists outcomes, demonstration, practice and review.",
+    "bn": "প্রতিটি ক্লাসের আগে এমন একটি লিখিত session plan রাখুন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "It documents the session structure and keeps track of where the session is going.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "A session plan provides documentation of the session structure. It helps you keep track of where the session is going and where it has been."
+          }
+        ]
+      },
+      {
+        "text": "It gives the trainer an idea of where they are and where they are going.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "It gives you as the trainer an idea of where they are and where they are going."
+          }
+        ]
+      },
+      {
+        "text": "It gives the trainer and the learners a clear idea of what they are doing.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "It gives you as the trainer and the learners a clear idea of what they are doing."
+          }
+        ]
+      },
+      {
+        "text": "It records the training session that the learners have taken.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "It records the training session that the learners have taken."
+          }
+        ]
+      },
+      {
+        "text": "It gives the trainers a firm base to review their performance.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "Gives the trainers a firm base to review their performance."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "A session plan considers information, outcomes, practice activities, environment, delivery approach and assessment methods.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 31,
+          "quote": "The information that the trainer wants to present to the participants.",
+          "passageId": "cblm09-p31-f154fa4a"
+        },
+        {
+          "src": "cblm09",
+          "page": 31,
+          "quote": "The learning outcomes to be achieved in the session."
+        },
+        {
+          "src": "cblm09",
+          "page": 31,
+          "quote": "The practise activities and tasks that will help trainees develop the competency."
+        },
+        {
+          "src": "cblm09",
+          "page": 31,
+          "quote": "The training environment and equipment required for skill development."
+        },
+        {
+          "src": "cblm09",
+          "page": 31,
+          "quote": "The delivery approach and techniques."
+        },
+        {
+          "src": "cblm09",
+          "page": 31,
+          "quote": "Assessment methods as prescribed in the Assessment Guideline."
+        }
+      ]
+    },
+    {
+      "text": "A program is the overall framework. It is broken into shorter sessions.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 31,
+          "quote": "A training course or program is the overall framework for the training."
+        },
+        {
+          "src": "cblm09",
+          "page": 31,
+          "quote": "so it is broken up into a series of shorter training sessions/lesson, which are then planned individually."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Why do you need a session plan?",
+      "modelAnswer": "A session plan is a written guide for logical, sequential training. Reasons:\n1. It documents the session structure and keeps track of the session.\n2. It shows the trainer where they are and where they are going.\n3. It gives trainer and learners a clear idea of what they are doing.\n4. It records the training session the learners have taken.\n5. It gives trainers a firm base to review their performance.",
+      "keyPoints": [
+        {
+          "text": "A training program is too big for one plan, so it is broken into sessions.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 31,
+              "quote": "A training program is usually too big to be delivered using only one plan, so it is broken up into a series of shorter training sessions/lesson, which are then planned individually.",
+              "passageId": "cblm09-p31-d2e19c41"
+            }
+          ]
+        },
+        {
+          "text": "Each training session will have one or a number of training outcomes.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 31,
+              "quote": "Each training session will have one or a number of training outcomes,",
+              "passageId": "cblm09-p31-8666e1e6"
+            }
+          ]
+        },
+        {
+          "text": "At the end of the session, learners have achieved one portion of the training.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 31,
+              "quote": "the session, the learners have achieved one portion of the training.",
+              "passageId": "cblm09-p31-a0852166"
+            }
+          ]
+        },
+        {
+          "text": "To conduct effective training sessions they have to be planned.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 31,
+              "quote": "To conduct effective training sessions they have to be planned.",
+              "passageId": "cblm09-p31-784ef005"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a reason for having a session plan?",
+      "options": [
+        "It records the training session that the learners have taken",
+        "It sets the nominal hours of a unit",
+        "It accredits the training provider",
+        "It replaces the competency standard"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm09",
+        "page": 33,
+        "quote": "It records the training session that the learners have taken."
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "Training program",
+          "right": "Overall framework for the training",
+          "cite": {
+            "src": "cblm09",
+            "page": 31,
+            "quote": "A training course or program is the overall framework for the training."
+          }
+        },
+        {
+          "left": "Training session",
+          "right": "Shorter part of a program, planned individually",
+          "cite": {
+            "src": "cblm09",
+            "page": 31,
+            "quote": "broken up into a series of shorter training sessions/lesson, which are then planned individually."
+          }
+        },
+        {
+          "left": "Session plan",
+          "right": "Written guide used by the trainer",
+          "cite": {
+            "src": "cblm09",
+            "page": 31,
+            "quote": "A session plan is a written guide used by the trainer to help ensure training is conducted in a logical and sequential manner."
+          }
+        },
+        {
+          "left": "Session plan record",
+          "right": "Training session the learners have taken",
+          "cite": {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "It records the training session that the learners have taken."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Give two reasons for having a session plan.",
+      "answer": {
+        "text": "It provides documentation of the session structure. It records the training session learners have taken.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "A session plan provides documentation of the session structure. It helps you keep track of where the session is going and where it has been.",
+            "passageId": "cblm09-p33-8888bb9f"
+          },
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "It records the training session that the learners have taken."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

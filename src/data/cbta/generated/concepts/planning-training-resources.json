@@ -1,0 +1,423 @@
+{
+  "aliases": [
+    "Resources to be considered during the planning",
+    "Planning for resources",
+    "Training resources checklist"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 9,
+      "pages": [
+        {
+          "pdf": 54,
+          "printed": 54
+        },
+        {
+          "pdf": 58,
+          "printed": 58
+        },
+        {
+          "pdf": 59,
+          "printed": 59
+        }
+      ],
+      "src": "cblm09"
+    }
+  ],
+  "banglaExplanation": [
+    "Training-এর আগে সব resources-এর planning করুন: location, equipment, মানুষ আর cost।",
+    "Specialist trainer বা technical expert লাগলে আগেই ঠিক করে রাখুন।",
+    "Training aids and devices-এর মতো equipment আগে থেকে প্রস্তুত রাখুন।",
+    "Safety regulations থাকলে কিছু resources-এর জন্য approval লাগে, তাই একটি checklist রাখুন।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 9,
+  "errata": [],
+  "example": {
+    "bn": "জায়গা, মানুষ, যন্ত্রপাতি আর অনুমতি: সব আগে থেকে ঠিক করুন।",
+    "en": "For a hospital first-aid training, the trainer books the skills lab and a nurse expert. He also gets the manager's approval."
+  },
+  "highlighted": true,
+  "id": "planning-training-resources",
+  "importance": {
+    "bn": "CBLM 9 Self Check 3 (Q1)-এ এসেছে। CBLM 9-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in CBLM 9 Self Check 3 (Q1). Highlighted in CBLM 9. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "প্রশিক্ষণে যা যা লাগবে: জায়গা, মানুষ, যন্ত্রপাতি",
+      "en": "Resources"
+    },
+    {
+      "bn": "বিশেষজ্ঞ মানুষের সহায়তা",
+      "en": "Technical support"
+    },
+    {
+      "bn": "শেখানোর উপকরণ",
+      "en": "Training aids"
+    },
+    {
+      "bn": "অনুমতি",
+      "en": "Approval"
+    },
+    {
+      "bn": "যাচাই তালিকা",
+      "en": "Checklist"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 54,
+            "printedPage": 54,
+            "quote": "Location of the training which maybe on the job, or in an institution works shop/laboratory.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Location of the training: on the job, or institution workshop/laboratory."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 54,
+            "printedPage": 54,
+            "quote": "If the session is going to involve a visit somewhere, extra materials, guest speaker or demonstration equipment. The cost involve to conduct the training.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Visits, extra materials, guest speaker or demonstration equipment, and the cost."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 54,
+            "printedPage": 54,
+            "quote": "Technical support from appropriate people.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 54,
+            "printedPage": 54,
+            "quote": "specialist trainer, a supervisor, technical expert or assessment specialist.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Technical support, e.g. specialist trainer, supervisor, technical expert, assessment specialist."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 54,
+            "printedPage": 54,
+            "quote": "Equipment required for training needs to be planned, for example training aids and devices.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Equipment required for training, for example training aids and devices."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 54,
+            "passageId": "cblm09-p54-3b69df95",
+            "printedPage": 54,
+            "quote": "Some resources may require approval from other people or special access in certain circumstances, especially if there are safety regulations involve.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Approval or special access, especially if safety regulations are involved."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 9,
+        "match": "exact",
+        "page": 54,
+        "printedPage": 54,
+        "quote": "It is very important to plan for all the resources you will need during the training.",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Plan for all the resources you will need during the training."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 54,
+            "printedPage": 54,
+            "quote": "Location of the training which maybe on the job, or in an institution works shop/laboratory.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Location",
+          "right": "On the job or institution workshop"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 54,
+            "printedPage": 54,
+            "quote": "specialist trainer, a supervisor, technical expert or assessment specialist.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Technical support",
+          "right": "Specialist trainer or technical expert"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 54,
+            "printedPage": 54,
+            "quote": "Equipment required for training needs to be planned, for example training aids and devices.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Equipment",
+          "right": "Training aids and devices"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 54,
+            "printedPage": 54,
+            "quote": "Some resources may require approval from other people or special access in certain circumstances, especially if there are safety regulations involve.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Approval",
+          "right": "Safety regulations involved"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 58,
+            "printedPage": 58,
+            "quote": "Training Resources Checklist Module Title",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Training resources checklist",
+          "right": "Attendance sheet"
+        }
+      ],
+      "prompt": "Match each resource with an example."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 9,
+        "match": "exact",
+        "page": 54,
+        "printedPage": 54,
+        "quote": "Technical support from appropriate people.",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Technical support from appropriate people",
+        "Unit descriptor",
+        "Range statement",
+        "Session review"
+      ],
+      "prompt": "Which is a resource to consider during planning?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 54,
+              "printedPage": 54,
+              "quote": "The planning covers location, access to everything, any other personnel who might have been involved. And time required.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Planning covers location, access to everything, other personnel and time required."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 54,
+              "printedPage": 54,
+              "quote": "One of the most important resources you can plan for is the training environment itself and its safety and accessibility.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The training environment, with its safety and accessibility, is a key resource."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 54,
+              "printedPage": 54,
+              "quote": "You should always ensure that all learners have access to a safe environment and are trained properly.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Always ensure that all learners have access to a safe environment."
+        }
+      ],
+      "modelAnswer": "Resources to consider during planning:\n1. Location of the training (on the job or institution workshop/laboratory)\n2. Visits, extra materials, guest speaker, demonstration equipment and cost\n3. Technical support, e.g. specialist trainer or technical expert\n4. Equipment, e.g. training aids and devices\n5. Approvals or special access, especially for safety regulations",
+      "prompt": "What are the resources you need to consider during planning?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 54,
+            "printedPage": 54,
+            "quote": "Some resources may require approval from other people or special access in certain circumstances, especially if there are safety regulations involve.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Some need approval or special access, especially if safety regulations are involved."
+      },
+      "prompt": "Why may some resources need approval?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Resources to be considered during the planning include;\n•\nLocation of the training which maybe on the job, or in an institution works\nshop/laboratory.\n•\nIf the session is going to involve a visit somewhere, extra materials, guest\nspeaker or demonstration equipment. The cost involves conducting the\ntraining. If the learners need to purchase anything during the training\n•\nTechnical support from appropriate people. You might have to plan for any\nextra people who might be required during the training., for example a\nspecialist trainer, a supervisor, technical expert or assessment specialist.\n•\nEquipment required for training needs to be planned, for example training\naids and devices.\n•\nSome resources may require approval from other people or special access in\ncertain circumstances, especially if there are safety regulations involve.",
+      "flags": [],
+      "id": "cblm09-sc3-q1",
+      "kind": "selfcheck",
+      "label": "CBLM 9 Self Check 3 (Q1)",
+      "page": 64,
+      "printedPage": 64,
+      "question": "What are resources you need to consider during planning?",
+      "src": "cblm09",
+      "type": "short"
+    }
+  ],
+  "score": 6,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Planning for Training Resources",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 58,
+          "passageId": "cblm09-p58-69dd0d17",
+          "printedPage": 58,
+          "quote": "Training Resources Checklist",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 58,
+          "printedPage": 58,
+          "quote": "Attendance Sheet",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 58,
+          "printedPage": 58,
+          "quote": "Flip Chart Board",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 59,
+          "printedPage": 59,
+          "quote": "Multimedia Projector",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "A training resources checklist lists items like attendance sheet, flip chart board, multimedia projector."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 54,
+          "printedPage": 54,
+          "quote": "If the learners need to purchase anything during the training",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Also plan if the learners need to purchase anything during the training."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

@@ -1,0 +1,287 @@
+{
+  "id": "planning-training-resources",
+  "canonical_title": "Planning for Training Resources",
+  "aliases": [
+    "Resources to be considered during the planning",
+    "Planning for resources",
+    "Training resources checklist"
+  ],
+  "cblmPrimary": 9,
+  "source_type": "cblm",
+  "covers": [
+    "cblm09-p54-3b69df95",
+    "cblm09-p58-69dd0d17"
+  ],
+  "questions": [
+    "cblm09-sc3-q1"
+  ],
+  "one_line_answer": {
+    "text": "Plan for all the resources you will need during the training.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm09",
+        "page": 54,
+        "quote": "It is very important to plan for all the resources you will need during the training."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Resources",
+      "bn": "প্রশিক্ষণে যা যা লাগবে: জায়গা, মানুষ, যন্ত্রপাতি"
+    },
+    {
+      "en": "Technical support",
+      "bn": "বিশেষজ্ঞ মানুষের সহায়তা"
+    },
+    {
+      "en": "Training aids",
+      "bn": "শেখানোর উপকরণ"
+    },
+    {
+      "en": "Approval",
+      "bn": "অনুমতি"
+    },
+    {
+      "en": "Checklist",
+      "bn": "যাচাই তালিকা"
+    }
+  ],
+  "bangla_explanation": [
+    "Training-এর আগে সব resources-এর planning করুন: location, equipment, মানুষ আর cost।",
+    "Specialist trainer বা technical expert লাগলে আগেই ঠিক করে রাখুন।",
+    "Training aids and devices-এর মতো equipment আগে থেকে প্রস্তুত রাখুন।",
+    "Safety regulations থাকলে কিছু resources-এর জন্য approval লাগে, তাই একটি checklist রাখুন।"
+  ],
+  "example": {
+    "en": "For a hospital first-aid training, the trainer books the skills lab and a nurse expert. He also gets the manager's approval.",
+    "bn": "জায়গা, মানুষ, যন্ত্রপাতি আর অনুমতি: সব আগে থেকে ঠিক করুন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Location of the training: on the job, or institution workshop/laboratory.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 54,
+            "quote": "Location of the training which maybe on the job, or in an institution works shop/laboratory."
+          }
+        ]
+      },
+      {
+        "text": "Visits, extra materials, guest speaker or demonstration equipment, and the cost.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 54,
+            "quote": "If the session is going to involve a visit somewhere, extra materials, guest speaker or demonstration equipment. The cost involve to conduct the training."
+          }
+        ]
+      },
+      {
+        "text": "Technical support, e.g. specialist trainer, supervisor, technical expert, assessment specialist.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 54,
+            "quote": "Technical support from appropriate people."
+          },
+          {
+            "src": "cblm09",
+            "page": 54,
+            "quote": "specialist trainer, a supervisor, technical expert or assessment specialist."
+          }
+        ]
+      },
+      {
+        "text": "Equipment required for training, for example training aids and devices.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 54,
+            "quote": "Equipment required for training needs to be planned, for example training aids and devices."
+          }
+        ]
+      },
+      {
+        "text": "Approval or special access, especially if safety regulations are involved.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 54,
+            "quote": "Some resources may require approval from other people or special access in certain circumstances, especially if there are safety regulations involve.",
+            "passageId": "cblm09-p54-3b69df95"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "A training resources checklist lists items like attendance sheet, flip chart board, multimedia projector.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 58,
+          "quote": "Training Resources Checklist",
+          "passageId": "cblm09-p58-69dd0d17"
+        },
+        {
+          "src": "cblm09",
+          "page": 58,
+          "quote": "Attendance Sheet"
+        },
+        {
+          "src": "cblm09",
+          "page": 58,
+          "quote": "Flip Chart Board"
+        },
+        {
+          "src": "cblm09",
+          "page": 59,
+          "quote": "Multimedia Projector"
+        }
+      ]
+    },
+    {
+      "text": "Also plan if the learners need to purchase anything during the training.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 54,
+          "quote": "If the learners need to purchase anything during the training"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the resources you need to consider during planning?",
+      "modelAnswer": "Resources to consider during planning:\n1. Location of the training (on the job or institution workshop/laboratory)\n2. Visits, extra materials, guest speaker, demonstration equipment and cost\n3. Technical support, e.g. specialist trainer or technical expert\n4. Equipment, e.g. training aids and devices\n5. Approvals or special access, especially for safety regulations",
+      "keyPoints": [
+        {
+          "text": "Planning covers location, access to everything, other personnel and time required.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 54,
+              "quote": "The planning covers location, access to everything, any other personnel who might have been involved. And time required."
+            }
+          ]
+        },
+        {
+          "text": "The training environment, with its safety and accessibility, is a key resource.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 54,
+              "quote": "One of the most important resources you can plan for is the training environment itself and its safety and accessibility."
+            }
+          ]
+        },
+        {
+          "text": "Always ensure that all learners have access to a safe environment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 54,
+              "quote": "You should always ensure that all learners have access to a safe environment and are trained properly."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a resource to consider during planning?",
+      "options": [
+        "Technical support from appropriate people",
+        "Unit descriptor",
+        "Range statement",
+        "Session review"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm09",
+        "page": 54,
+        "quote": "Technical support from appropriate people."
+      }
+    },
+    "matching": {
+      "prompt": "Match each resource with an example.",
+      "pairs": [
+        {
+          "left": "Location",
+          "right": "On the job or institution workshop",
+          "cite": {
+            "src": "cblm09",
+            "page": 54,
+            "quote": "Location of the training which maybe on the job, or in an institution works shop/laboratory."
+          }
+        },
+        {
+          "left": "Technical support",
+          "right": "Specialist trainer or technical expert",
+          "cite": {
+            "src": "cblm09",
+            "page": 54,
+            "quote": "specialist trainer, a supervisor, technical expert or assessment specialist."
+          }
+        },
+        {
+          "left": "Equipment",
+          "right": "Training aids and devices",
+          "cite": {
+            "src": "cblm09",
+            "page": 54,
+            "quote": "Equipment required for training needs to be planned, for example training aids and devices."
+          }
+        },
+        {
+          "left": "Approval",
+          "right": "Safety regulations involved",
+          "cite": {
+            "src": "cblm09",
+            "page": 54,
+            "quote": "Some resources may require approval from other people or special access in certain circumstances, especially if there are safety regulations involve."
+          }
+        },
+        {
+          "left": "Training resources checklist",
+          "right": "Attendance sheet",
+          "cite": {
+            "src": "cblm09",
+            "page": 58,
+            "quote": "Training Resources Checklist Module Title"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why may some resources need approval?",
+      "answer": {
+        "text": "Some need approval or special access, especially if safety regulations are involved.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 54,
+            "quote": "Some resources may require approval from other people or special access in certain circumstances, especially if there are safety regulations involve."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

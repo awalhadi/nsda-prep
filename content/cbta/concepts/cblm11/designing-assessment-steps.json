@@ -1,0 +1,280 @@
+{
+  "id": "designing-assessment-steps",
+  "canonical_title": "Steps in Designing Competency Based Assessment",
+  "aliases": [
+    "Steps to design competency based assessments",
+    "Designing competency based assessment for a unit or qualification"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p7-8a129841",
+    "cblm11-p7-63e51a92",
+    "cblm11-p7-14813a1e",
+    "cblm11-p7-d9fce172",
+    "cblm11-p7-0ff81864",
+    "cblm11-p7-0f3705ca",
+    "cblm11-p7-71d2427b",
+    "cblm11-p7-e8282cf8"
+  ],
+  "questions": [
+    "paper-short-questions-q43"
+  ],
+  "one_line_answer": {
+    "text": "To design competency based assessments for a unit or qualification, follow set steps.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 7,
+        "quote": "To design competency based assessments for a unit or whole qualification you should follow the steps outlines below.",
+        "passageId": "cblm11-p7-8a129841"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Design",
+      "bn": "পরিকল্পনা করে তৈরি করা"
+    },
+    {
+      "en": "Purpose & context",
+      "bn": "উদ্দেশ্য ও পরিবেশ"
+    },
+    {
+      "en": "Assessment Plan",
+      "bn": "মূল্যায়নের পরিকল্পনা দলিল"
+    },
+    {
+      "en": "Endorsement",
+      "bn": "অনুমোদন বা সম্মতি"
+    },
+    {
+      "en": "Stakeholders",
+      "bn": "সংশ্লিষ্ট ব্যক্তি বা পক্ষ"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment design করার একটা নির্দিষ্ট ধারাবাহিক ক্রম আছে।",
+    "প্রথমে competency standards ঠিক করে purpose & context নিশ্চিত করতে হয়।",
+    "তারপর evidence, methods, instruments আর resources ঠিক করা হয়।",
+    "সব কিছু Assessment Plan-এ document করে stakeholders-এর endorsement নিতে হয়, শেষে instruments তৈরি হয়।"
+  ],
+  "example": {
+    "en": "A trainer plans a food processing assessment. She first checks the standard, then plans evidence, methods and equipment.",
+    "bn": "আগে standard দেখা, তারপর evidence, methods, equipment, শেষে plan আর instruments।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Identify competency standards and confirm purpose and context of assessment.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Identify competency standards & confirm purpose & context of assessment",
+            "passageId": "cblm11-p7-63e51a92"
+          }
+        ]
+      },
+      {
+        "text": "Determine types of evidence required.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Determine types of evidence required",
+            "passageId": "cblm11-p7-14813a1e"
+          }
+        ]
+      },
+      {
+        "text": "Identify suitable assessment methods and instruments.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Identify suitable assessment methods & instruments",
+            "passageId": "cblm11-p7-d9fce172"
+          }
+        ]
+      },
+      {
+        "text": "Identify materials, resources and equipment required.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Identify materials, resources and equipment required",
+            "passageId": "cblm11-p7-0ff81864"
+          }
+        ]
+      },
+      {
+        "text": "Document all the above in an Assessment Plan. Seek endorsement from stakeholders.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Document all the above in an Assessment Plan and seek endorsement from stakeholders",
+            "passageId": "cblm11-p7-71d2427b"
+          }
+        ]
+      },
+      {
+        "text": "Develop relevant assessment instruments and administrative documents.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Develop relevant assessment instruments and administrative documents",
+            "passageId": "cblm11-p7-e8282cf8"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Endorsement from stakeholders comes after documenting the Assessment Plan.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 7,
+          "quote": "Document all the above in an Assessment Plan and seek endorsement from stakeholders"
+        }
+      ]
+    },
+    {
+      "text": "Developing assessment instruments and administrative documents is the last step.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 7,
+          "quote": "and seek endorsement from stakeholders Develop relevant assessment instruments and administrative documents"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the steps in designing competency-based assessment for a unit or qualification?",
+      "modelAnswer": "Steps to design competency based assessment:\n1. Identify competency standards and confirm purpose and context of assessment.\n2. Determine types of evidence required.\n3. Identify suitable assessment methods and instruments.\n4. Identify materials, resources and equipment required.\n5. Document all the above in an Assessment Plan and seek endorsement from stakeholders.\n6. Develop relevant assessment instruments and administrative documents.",
+      "keyPoints": [
+        {
+          "text": "Start by identifying competency standards and confirming purpose and context.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 7,
+              "quote": "Identify competency standards & confirm purpose & context of assessment"
+            }
+          ]
+        },
+        {
+          "text": "Document all the above in an Assessment Plan.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 7,
+              "quote": "Document all the above in an Assessment Plan",
+              "passageId": "cblm11-p7-0f3705ca"
+            }
+          ]
+        },
+        {
+          "text": "Follow these steps to design assessments for a unit or whole qualification.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 7,
+              "quote": "To design competency based assessments for a unit or whole qualification"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which step comes right after documenting the Assessment Plan?",
+      "options": [
+        "Determine types of evidence required",
+        "Seek endorsement from stakeholders",
+        "Identify competency standards",
+        "Identify suitable assessment methods"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 7,
+        "quote": "Document all the above in an Assessment Plan and seek endorsement from stakeholders"
+      }
+    },
+    "matching": {
+      "prompt": "Match each step with its action.",
+      "pairs": [
+        {
+          "left": "Step 1",
+          "right": "Identify competency standards and confirm purpose and context",
+          "cite": {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Identify competency standards & confirm purpose & context of assessment"
+          }
+        },
+        {
+          "left": "Step 2",
+          "right": "Determine types of evidence required",
+          "cite": {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Determine types of evidence required"
+          }
+        },
+        {
+          "left": "Step 3",
+          "right": "Identify suitable assessment methods and instruments",
+          "cite": {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Identify suitable assessment methods & instruments"
+          }
+        },
+        {
+          "left": "Step 4",
+          "right": "Identify materials, resources and equipment required",
+          "cite": {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Identify materials, resources and equipment required"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What is the last step in designing competency based assessment?",
+      "answer": {
+        "text": "Develop relevant assessment instruments and administrative documents.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Develop relevant assessment instruments and administrative documents"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

@@ -1,0 +1,290 @@
+{
+  "id": "session-learning-outcome-criteria",
+  "canonical_title": "Criteria for Session Learning Outcomes (Observable, Measurable, Action Verbs)",
+  "aliases": [
+    "Session learning outcome",
+    "Identify the learning outcomes",
+    "Three criteria of appropriate learning outcomes",
+    "Action verbs for learning outcomes"
+  ],
+  "cblmPrimary": 9,
+  "source_type": "cblm",
+  "covers": [
+    "cblm09-p31-0fdf6a63",
+    "cblm09-p32-80da01b3",
+    "cblm09-p32-bc3f9e23",
+    "cblm09-p32-4b14fe74",
+    "cblm09-p32-0e558d52",
+    "cblm09-p32-1c710b1c",
+    "cblm09-p32-0b48f247"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Appropriate learning outcomes must be observable, measurable and written with clear verbs.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm09",
+        "page": 32,
+        "quote": "Appropriate learning outcomes need to meet three criteria."
+      },
+      {
+        "src": "cblm09",
+        "page": 32,
+        "quote": "1. They must be observable. Can you actually see or observe the progress"
+      },
+      {
+        "src": "cblm09",
+        "page": 32,
+        "quote": "2. They must be measurable. Can you measure the output or progress of"
+      },
+      {
+        "src": "cblm09",
+        "page": 32,
+        "quote": "3. They must be written with verbs that are clear and cannot be subject to ambiguity or misinterpretation."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Observable",
+      "bn": "চোখে দেখা যায় এমন"
+    },
+    {
+      "en": "Measurable",
+      "bn": "মাপা যায় এমন"
+    },
+    {
+      "en": "Action verb",
+      "bn": "কাজ বোঝায় এমন ক্রিয়া, যেমন operate"
+    },
+    {
+      "en": "Ambiguity",
+      "bn": "অস্পষ্টতা, দুই রকম মানে হওয়া"
+    },
+    {
+      "en": "Learning outcomes",
+      "bn": "training শেষে trainee যা করতে পারবে"
+    }
+  ],
+  "bangla_explanation": [
+    "Learning outcome এমনভাবে লিখুন যাতে চোখে দেখা যায় (observable) আর মাপা যায় (measurable)।",
+    "Load, operate, cut, identify-এর মতো action verbs দিয়ে শুরু করুন।",
+    "Understand, know বা be aware of চলবে না, কারণ এগুলো দেখা বা মাপা যায় না।",
+    "Outcome পরিষ্কার হলে session-এর information, skills আর activities ঠিকভাবে plan করা যায়।"
+  ],
+  "example": {
+    "en": "Bad: Trainees will understand welding. Good: Trainees will cut a steel plate to size.",
+    "bn": "'বুঝবে' দেখা যায় না, কিন্তু 'কাটবে' চোখে দেখা ও মাপা যায়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Observable: you can actually see or observe the progress of the trainee.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 32,
+            "quote": "1. They must be observable. Can you actually see or observe the progress"
+          }
+        ]
+      },
+      {
+        "text": "Measurable: you can measure the output or progress of the trainee.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 32,
+            "quote": "2. They must be measurable. Can you measure the output or progress of"
+          }
+        ]
+      },
+      {
+        "text": "Clear verbs: verbs that cannot be subject to ambiguity or misinterpretation.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 32,
+            "quote": "3. They must be written with verbs that are clear and cannot be subject to ambiguity or misinterpretation."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Do not use: understand, realise, be aware of, show interest in, know.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 32,
+          "quote": "• understand • realise • be aware of • show interest in •know.",
+          "passageId": "cblm09-p32-0b48f247"
+        }
+      ]
+    },
+    {
+      "text": "These verbs are not observable, not measurable and not precise.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 32,
+          "quote": "The following verbs and phrases are not suitable because they are not observable, not measurable and not precise:"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What three criteria must appropriate learning outcomes meet?",
+      "modelAnswer": "Appropriate learning outcomes need to meet three criteria:\n1. Observable: you can see the trainee's progress.\n2. Measurable: you can measure the output or progress.\n3. Clear verbs: no ambiguity or misinterpretation.\nThey should begin with action verbs, e.g. operate, cut, identify.",
+      "keyPoints": [
+        {
+          "text": "Learning outcomes should begin with action verbs and must be clear.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 32,
+              "quote": "Learning outcomes should begin with action verbs and must be clear."
+            }
+          ]
+        },
+        {
+          "text": "Action verbs: load, drive, operate, cut, state, specify, identify, produce, explain.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 32,
+              "quote": "• load • drive • operate • cut • state • specify • identify • produce • explain",
+              "passageId": "cblm09-p32-1c710b1c"
+            }
+          ]
+        },
+        {
+          "text": "After the overall training aim, identify learning outcomes that will meet the aim.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 31,
+              "quote": "Identify the learning outcomes",
+              "passageId": "cblm09-p31-0fdf6a63"
+            },
+            {
+              "src": "cblm09",
+              "page": 31,
+              "quote": "Once the overall training aim has been determined, the next step is to identify"
+            },
+            {
+              "src": "cblm09",
+              "page": 31,
+              "quote": "a set of learning outcomes that will meet the aim."
+            }
+          ]
+        },
+        {
+          "text": "Outcomes need precise detail because they plan the information, skills and activities.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 32,
+              "quote": "The learning outcomes must be described in much more precise detail because they will be used to plan the information, skills and activities",
+              "passageId": "cblm09-p32-80da01b3"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which verb is suitable for writing a learning outcome?",
+      "options": [
+        "Operate",
+        "Understand",
+        "Know",
+        "Be aware of"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm09",
+        "page": 32,
+        "quote": "• load • drive • operate • cut • state • specify • identify • produce • explain"
+      }
+    },
+    "matching": {
+      "prompt": "Match each criterion or verb type with its meaning.",
+      "pairs": [
+        {
+          "left": "Observable",
+          "right": "You can actually see the progress",
+          "cite": {
+            "src": "cblm09",
+            "page": 32,
+            "quote": "1. They must be observable. Can you actually see or observe the progress",
+            "passageId": "cblm09-p32-bc3f9e23"
+          }
+        },
+        {
+          "left": "Measurable",
+          "right": "You can measure the output or progress",
+          "cite": {
+            "src": "cblm09",
+            "page": 32,
+            "quote": "2. They must be measurable. Can you measure the output or progress of",
+            "passageId": "cblm09-p32-4b14fe74"
+          }
+        },
+        {
+          "left": "Clear verbs",
+          "right": "No ambiguity or misinterpretation",
+          "cite": {
+            "src": "cblm09",
+            "page": 32,
+            "quote": "3. They must be written with verbs that are clear and cannot be subject to ambiguity or misinterpretation.",
+            "passageId": "cblm09-p32-0e558d52"
+          }
+        },
+        {
+          "left": "Action verbs",
+          "right": "Load, drive, operate, cut",
+          "cite": {
+            "src": "cblm09",
+            "page": 32,
+            "quote": "Here are some action verbs: • load • drive • operate • cut"
+          }
+        },
+        {
+          "left": "Unsuitable verbs",
+          "right": "Understand, realise, know",
+          "cite": {
+            "src": "cblm09",
+            "page": 32,
+            "quote": "The following verbs and phrases are not suitable because they are not observable, not measurable and not precise: • understand • realise • be aware of • show interest in •know."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why is 'understand' not a good verb for a learning outcome?",
+      "answer": {
+        "text": "It is not observable, not measurable and not precise.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 32,
+            "quote": "The following verbs and phrases are not suitable because they are not observable, not measurable and not precise:"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

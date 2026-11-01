@@ -1,0 +1,481 @@
+{
+  "aliases": [
+    "Relationship between assessment criteria and performance criteria",
+    "Performance criteria"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 8,
+      "pages": [
+        {
+          "pdf": 10,
+          "printed": 10
+        },
+        {
+          "pdf": 11,
+          "printed": 11
+        }
+      ],
+      "src": "cblm08"
+    }
+  ],
+  "banglaExplanation": [
+    "Assessment criteria আর performance criteria আসলে একই জিনিস, শুধু শব্দ আলাদা।",
+    "Performance criteria শব্দটা আসে industry competency standards থেকে।",
+    "দুটোই বলে learning outcome অর্জন করতে learner-কে কী performance দেখাতে হবে।",
+    "পরীক্ষায় পার্থক্য জিজ্ঞেস করলে লিখুন: অর্থ একই, শব্দের উৎস আলাদা।"
+  ],
+  "breakdown": {
+    "exam": 6,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 8,
+  "errata": [],
+  "example": {
+    "bn": "Driving test-এ \"মোড় নেওয়ার আগে mirror দেখা\" এমন একটি criteria।",
+    "en": "In a driving test, \"checks mirrors before turning\" is a criterion the learner must show."
+  },
+  "highlighted": true,
+  "id": "assessment-vs-performance-criteria",
+  "importance": {
+    "bn": "Short Questions (Short 44, 40, Short 68), Unit 01 Answers (Matching 13) আর Unit 01 Questions (Matching 13): 3 জায়গায় এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় matching আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Short Questions (Short 44, 40, Short 68), Unit 01 Answers (Matching 13) and Unit 01 Questions (Matching 13). Highlighted in CBLM 8. Comes as matching and short question."
+  },
+  "keywords": [
+    {
+      "bn": "curriculum-এ মূল্যায়নের মানদণ্ড",
+      "en": "Assessment criteria"
+    },
+    {
+      "bn": "competency standard-এ কাজের মানদণ্ড",
+      "en": "Performance criteria"
+    },
+    {
+      "bn": "learner শেষে কী করতে পারবে",
+      "en": "Learning outcome"
+    },
+    {
+      "bn": "industry-নির্ধারিত কাজের মান",
+      "en": "Industry competency standards"
+    }
+  ],
+  "likelyTypes": [
+    "matching",
+    "short"
+  ],
+  "listAnswer": null,
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 10,
+        "passageId": "cblm08-p10-00f5301c",
+        "printedPage": 10,
+        "quote": "Essentially assessment and performance criteria are the same thing expressed in",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 10,
+        "printedPage": 10,
+        "quote": "different words",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Assessment and performance criteria are the same thing expressed in different words."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "assessment terminology and comes from the industry competency standards.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Performance criteria",
+          "right": "Comes from the industry competency standards"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Assessment criteria are based on the intended learning outcomes for the work being",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Assessment criteria",
+          "right": "Based on the intended learning outcomes"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Each element of competence has a number of performance criteria",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Each element of competence",
+          "right": "Has a number of performance criteria"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Assessment/performance criteria specify the performance that must be demonstrated",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Assessment/performance criteria",
+          "right": "Specify the performance that must be demonstrated"
+        }
+      ],
+      "prompt": "Match each term with what the CBLM says about it."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 8,
+        "match": "exact",
+        "page": 10,
+        "printedPage": 10,
+        "quote": "assessment terminology and comes from the industry competency standards.",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      "answerIndex": 1,
+      "options": [
+        "The curriculum document",
+        "The industry competency standards",
+        "The session plan",
+        "The answer key"
+      ],
+      "prompt": "Where does the term 'performance criteria' come from?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Essentially assessment and performance criteria are the same thing expressed in",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "different words",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessment and performance criteria are the same thing expressed in different words."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "'Performance criteria' is more of a competency based training and",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "assessment terminology and comes from the industry competency standards.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "'Performance criteria' comes from the industry competency standards."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Assessment/performance criteria specify the performance that must be demonstrated",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "by the learner in order for the learning outcome to be achieved.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "They specify the performance the learner must demonstrate to achieve the learning outcome."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Assessment criteria are based on the intended learning outcomes for the work being",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessment criteria are based on the intended learning outcomes."
+        }
+      ],
+      "modelAnswer": "Essentially they are the same thing expressed in different words.\n1. 'Performance criteria' is a CBT&A term from the industry competency standards.\n2. Assessment/performance criteria specify the performance the learner must demonstrate.\n3. This performance is needed for the learning outcome to be achieved.",
+      "prompt": "What is the difference between assessment criteria and performance criteria?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Assessment/performance criteria specify the performance that must be demonstrated",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "by the learner in order for the learning outcome to be achieved.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "They specify the performance the learner must demonstrate to achieve the learning outcome."
+      },
+      "prompt": "What do assessment or performance criteria specify?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Both describe expected performance. \"Performance criteria\" is the\nterm used in industry competency standards; \"assessment criteria\" specify the\nperformance learners must demonstrate to achieve a learning outcome.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q44",
+      "kind": "paper",
+      "label": "Short Questions (Short 44)",
+      "page": 6,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is the difference between assessment criteria and performance criteria?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": "Performance criteria specify the standard of performance that must\nbe achieved to be considered competent.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q40",
+      "kind": "paper",
+      "label": "Short Questions (Short 40)",
+      "page": 5,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What are performance criteria?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": "Assessment criteria are the specific performance standards a\nlearner must meet to achieve a learning outcome or demonstrate competency.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q68",
+      "kind": "paper",
+      "label": "Short Questions (Short 68)",
+      "page": 9,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Define assessment criteria.",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": "F",
+      "flags": [],
+      "id": "paper-unit01-answer-q13",
+      "kind": "paper",
+      "label": "Unit 01 Answers (Matching 13)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Specific benchmarks that measure successful completion of an element.",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Evidence Guide"
+        },
+        {
+          "letter": "B",
+          "text": "Range Statement"
+        },
+        {
+          "letter": "C",
+          "text": "Underpinning knowledge for UoC"
+        },
+        {
+          "letter": "D",
+          "text": "Element of Competency"
+        },
+        {
+          "letter": "E",
+          "text": "Competency standard"
+        },
+        {
+          "letter": "F",
+          "text": "Performance Criteria"
+        }
+      ],
+      "src": "paper-unit01-answer",
+      "type": "matching"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-mcq-q13",
+      "kind": "paper",
+      "label": "Unit 01 Questions (Matching 13)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Specific benchmarks that measure successful completion of an element.",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Evidence Guide"
+        },
+        {
+          "letter": "B",
+          "text": "Range Statement"
+        },
+        {
+          "letter": "C",
+          "text": "Underpinning knowledge for UoC"
+        },
+        {
+          "letter": "D",
+          "text": "Element of Competency"
+        },
+        {
+          "letter": "E",
+          "text": "Competency standard"
+        },
+        {
+          "letter": "F",
+          "text": "Performance Criteria"
+        }
+      ],
+      "src": "paper-unit01-mcq",
+      "type": "matching"
+    }
+  ],
+  "score": 9,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Assessment Criteria vs Performance Criteria",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 10,
+          "printedPage": 10,
+          "quote": "Essentially assessment and performance criteria are the same thing expressed in",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 10,
+          "printedPage": 10,
+          "quote": "different words",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "They are not two different standards. They are the same thing in different words."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 10,
+          "printedPage": 10,
+          "quote": "assessment terminology and comes from the industry competency standards.",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 10,
+          "printedPage": 10,
+          "quote": "'Performance criteria' is more of a competency based training and",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "'Performance criteria' comes from the industry competency standards."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

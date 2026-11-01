@@ -1,0 +1,242 @@
+{
+  "id": "assessment-vs-performance-criteria",
+  "canonical_title": "Assessment Criteria vs Performance Criteria",
+  "aliases": [
+    "Relationship between assessment criteria and performance criteria",
+    "Performance criteria"
+  ],
+  "cblmPrimary": 8,
+  "source_type": "cblm",
+  "covers": [
+    "cblm08-p10-00f5301c"
+  ],
+  "questions": [
+    "paper-short-questions-q44",
+    "paper-short-questions-q40",
+    "paper-short-questions-q68",
+    "paper-unit01-answer-q13",
+    "paper-unit01-mcq-q13"
+  ],
+  "one_line_answer": {
+    "text": "Assessment and performance criteria are the same thing expressed in different words.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm08",
+        "page": 10,
+        "quote": "Essentially assessment and performance criteria are the same thing expressed in",
+        "passageId": "cblm08-p10-00f5301c"
+      },
+      {
+        "src": "cblm08",
+        "page": 10,
+        "quote": "different words"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Assessment criteria",
+      "bn": "curriculum-এ মূল্যায়নের মানদণ্ড"
+    },
+    {
+      "en": "Performance criteria",
+      "bn": "competency standard-এ কাজের মানদণ্ড"
+    },
+    {
+      "en": "Learning outcome",
+      "bn": "learner শেষে কী করতে পারবে"
+    },
+    {
+      "en": "Industry competency standards",
+      "bn": "industry-নির্ধারিত কাজের মান"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment criteria আর performance criteria আসলে একই জিনিস, শুধু শব্দ আলাদা।",
+    "Performance criteria শব্দটা আসে industry competency standards থেকে।",
+    "দুটোই বলে learning outcome অর্জন করতে learner-কে কী performance দেখাতে হবে।",
+    "পরীক্ষায় পার্থক্য জিজ্ঞেস করলে লিখুন: অর্থ একই, শব্দের উৎস আলাদা।"
+  ],
+  "example": {
+    "en": "In a driving test, \"checks mirrors before turning\" is a criterion the learner must show.",
+    "bn": "Driving test-এ \"মোড় নেওয়ার আগে mirror দেখা\" এমন একটি criteria।"
+  },
+  "traps": [
+    {
+      "text": "They are not two different standards. They are the same thing in different words.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 10,
+          "quote": "Essentially assessment and performance criteria are the same thing expressed in"
+        },
+        {
+          "src": "cblm08",
+          "page": 10,
+          "quote": "different words"
+        }
+      ]
+    },
+    {
+      "text": "'Performance criteria' comes from the industry competency standards.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 10,
+          "quote": "assessment terminology and comes from the industry competency standards."
+        },
+        {
+          "src": "cblm08",
+          "page": 10,
+          "quote": "'Performance criteria' is more of a competency based training and"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is the difference between assessment criteria and performance criteria?",
+      "modelAnswer": "Essentially they are the same thing expressed in different words.\n1. 'Performance criteria' is a CBT&A term from the industry competency standards.\n2. Assessment/performance criteria specify the performance the learner must demonstrate.\n3. This performance is needed for the learning outcome to be achieved.",
+      "keyPoints": [
+        {
+          "text": "Assessment and performance criteria are the same thing expressed in different words.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "Essentially assessment and performance criteria are the same thing expressed in"
+            },
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "different words"
+            }
+          ]
+        },
+        {
+          "text": "'Performance criteria' comes from the industry competency standards.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "'Performance criteria' is more of a competency based training and"
+            },
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "assessment terminology and comes from the industry competency standards."
+            }
+          ]
+        },
+        {
+          "text": "They specify the performance the learner must demonstrate to achieve the learning outcome.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "Assessment/performance criteria specify the performance that must be demonstrated"
+            },
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "by the learner in order for the learning outcome to be achieved."
+            }
+          ]
+        },
+        {
+          "text": "Assessment criteria are based on the intended learning outcomes.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 11,
+              "quote": "Assessment criteria are based on the intended learning outcomes for the work being"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Where does the term 'performance criteria' come from?",
+      "options": [
+        "The curriculum document",
+        "The industry competency standards",
+        "The session plan",
+        "The answer key"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm08",
+        "page": 10,
+        "quote": "assessment terminology and comes from the industry competency standards."
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with what the CBLM says about it.",
+      "pairs": [
+        {
+          "left": "Performance criteria",
+          "right": "Comes from the industry competency standards",
+          "cite": {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "assessment terminology and comes from the industry competency standards."
+          }
+        },
+        {
+          "left": "Assessment criteria",
+          "right": "Based on the intended learning outcomes",
+          "cite": {
+            "src": "cblm08",
+            "page": 11,
+            "quote": "Assessment criteria are based on the intended learning outcomes for the work being"
+          }
+        },
+        {
+          "left": "Each element of competence",
+          "right": "Has a number of performance criteria",
+          "cite": {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Each element of competence has a number of performance criteria"
+          }
+        },
+        {
+          "left": "Assessment/performance criteria",
+          "right": "Specify the performance that must be demonstrated",
+          "cite": {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Assessment/performance criteria specify the performance that must be demonstrated"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What do assessment or performance criteria specify?",
+      "answer": {
+        "text": "They specify the performance the learner must demonstrate to achieve the learning outcome.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Assessment/performance criteria specify the performance that must be demonstrated"
+          },
+          {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "by the learner in order for the learning outcome to be achieved."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

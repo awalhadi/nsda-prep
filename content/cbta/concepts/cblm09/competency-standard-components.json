@@ -1,0 +1,417 @@
+{
+  "id": "competency-standard-components",
+  "canonical_title": "Components of a Competency Standard (Unit of Competency)",
+  "aliases": [
+    "Different components of a competency standard",
+    "Parts of a unit of competency"
+  ],
+  "cblmPrimary": 9,
+  "source_type": "cblm",
+  "covers": [
+    "cblm09-p13-43b4d1d4",
+    "cblm09-p14-bc60205d",
+    "cblm09-p14-40e0ce8a",
+    "cblm09-p14-99316dae",
+    "cblm09-p14-c6d18a2a",
+    "cblm09-p14-8d5fee16",
+    "cblm09-p14-f350d780",
+    "cblm09-p14-e30e49d6",
+    "cblm09-p14-f0a38658",
+    "cblm09-p14-07181974",
+    "cblm09-p14-4ebef692",
+    "cblm09-p15-053b306f",
+    "cblm09-p15-a785bdbf"
+  ],
+  "questions": [
+    "paper-final-formative-01-q16",
+    "paper-short-questions-q2",
+    "paper-short-questions-q31",
+    "paper-short-questions-q40",
+    "paper-unit01-answer-q8",
+    "paper-unit01-mcq-q8",
+    "paper-unit01-answer-q13",
+    "paper-unit01-mcq-q13",
+    "paper-unit01-short-q9",
+    "paper-unit01-answer-q18",
+    "paper-unit01-mcq-q18",
+    "paper-unit01-short-q13",
+    "paper-unit01-answer-q24",
+    "paper-unit01-mcq-q24"
+  ],
+  "one_line_answer": {
+    "text": "A competency standard details skills, knowledge, attitude, performance criteria and evidence to prove competency.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm09",
+        "page": 13,
+        "quote": "Competency Standard includes details of the skills, knowledge, attitude and the performance criteria to indicate competence and specific evidence required to prove competency."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Unit descriptor",
+      "bn": "unit-এর সংক্ষিপ্ত বিবরণ"
+    },
+    {
+      "en": "Element of competency",
+      "bn": "unit-এর একটি মূল কাজ বা অংশ"
+    },
+    {
+      "en": "Performance criteria",
+      "bn": "কোন মানে কাজ করলে competent ধরা হবে"
+    },
+    {
+      "en": "Range statement",
+      "bn": "কোন পরিস্থিতি ও শর্তে দক্ষতা প্রযোজ্য"
+    },
+    {
+      "en": "Evidence guide",
+      "bn": "assessment-এর নির্দেশিকা"
+    },
+    {
+      "en": "Nominal hours",
+      "bn": "একজন নতুন ট্রেইনির আনুমানিক সময়"
+    }
+  ],
+  "bangla_explanation": [
+    "Competency standard-এর প্রতিটি unit কয়েকটি নির্দিষ্ট অংশে লেখা থাকে।",
+    "Unit code and title নাম দেয়, nominal hours সময় বলে, unit descriptor ছোট summary দেয়।",
+    "Elements হলো কাজের মূল activities; performance criteria বলে কোন standard-এ করলে competent ধরা হবে।",
+    "Range statement বলে কোন contexts and conditions-এ প্রযোজ্য; evidence guide দেয় assessment-এর guidance।"
+  ],
+  "example": {
+    "en": "A baking unit has the element 'Produce biscuit dough'. Its performance criteria tell the assessor what standard is competent.",
+    "bn": "Element হলো কাজ, performance criteria হলো সেই কাজের মাপকাঠি।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Unit code and title: an area of competence for a particular function.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 13,
+            "quote": "Unit code and title",
+            "passageId": "cblm09-p13-43b4d1d4"
+          },
+          {
+            "src": "cblm09",
+            "page": 13,
+            "quote": "The unit title refers to an area of competence required to perform a particular function."
+          }
+        ]
+      },
+      {
+        "text": "Nominal hours: suggested hours a novice trainee may take to develop the competency.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 14,
+            "quote": "Nominal hours",
+            "passageId": "cblm09-p14-bc60205d"
+          },
+          {
+            "src": "cblm09",
+            "page": 14,
+            "quote": "This is a suggested number of hours that a novice trainee may (on average) take to develop the specified competency."
+          }
+        ]
+      },
+      {
+        "text": "Unit descriptor: a short summary of the scope and level of performance.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 14,
+            "quote": "The unit descriptor gives a short summary of the scope and level of performance required.",
+            "passageId": "cblm09-p14-40e0ce8a"
+          }
+        ]
+      },
+      {
+        "text": "Elements of competency: sub components that describe key activities of the work.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 14,
+            "quote": "Elements of competency or simply elements refer to any of sub component of a unit of competency which describe the key activities or elements of the work covered by the unit.",
+            "passageId": "cblm09-p14-c6d18a2a"
+          }
+        ]
+      },
+      {
+        "text": "Performance criteria: standards of performance needed to be deemed competent.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 14,
+            "quote": "Performance criteria specify the standards of performance in terms of a set of outcomes which need to be achieved in order to be deemed competent.",
+            "passageId": "cblm09-p14-8d5fee16"
+          }
+        ]
+      },
+      {
+        "text": "Range statement: the contexts and conditions where the competency is applicable.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 14,
+            "quote": "The range statement also referred to the range of variables specifies the range of contexts and conditions under which the competency is applicable.",
+            "passageId": "cblm09-p14-e30e49d6"
+          }
+        ]
+      },
+      {
+        "text": "Evidence guide: guidance to the interpretation and assessment of the unit.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 15,
+            "quote": "The evidence guide provides guidance to the interpretation and assessment of the unit of competency including"
+          }
+        ]
+      },
+      {
+        "text": "Accreditation requirements: quality assurance requirements for the training provider.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 15,
+            "quote": "This provides information for potential training provider and also sets out the quality assurance requirements that have to be met by the training provider"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Performance criteria are also referred to as assessment criteria in curriculum documents.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 14,
+          "quote": "It is also referred to as assessment criteria in curriculum documents",
+          "passageId": "cblm09-p14-f350d780"
+        }
+      ]
+    },
+    {
+      "text": "The range statement is also referred to as the range of variables.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 14,
+          "quote": "The range statement also referred to the range of variables specifies the range of contexts and conditions under which the competency is applicable.",
+          "passageId": "cblm09-p14-f0a38658"
+        }
+      ]
+    },
+    {
+      "text": "Different list: a competency standard also includes quality indicators and assessment guidelines.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 13,
+          "quote": "A competency standard includes:"
+        },
+        {
+          "src": "cblm09",
+          "page": 13,
+          "quote": "quality indicators"
+        },
+        {
+          "src": "cblm09",
+          "page": 13,
+          "quote": "assessment guidelines"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the components of a competency standard?",
+      "modelAnswer": "Each competency standard describes:\n1. Unit code and title\n2. Nominal hours\n3. Unit descriptor\n4. Elements of competency\n5. Performance criteria\n6. Range statement (range of variables)\n7. Evidence guide\n8. Accreditation requirements",
+      "keyPoints": [
+        {
+          "text": "Range statements include Occupational Safety and Health legislation, equipment, tools, processes, learner needs, locations.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 14,
+              "quote": "Legislation such as Occupational Safety and Health",
+              "passageId": "cblm09-p14-4ebef692"
+            },
+            {
+              "src": "cblm09",
+              "page": 14,
+              "quote": "The range of equipment, tools, processes and procedures"
+            },
+            {
+              "src": "cblm09",
+              "page": 14,
+              "quote": "Special characteristics and needs of learners group"
+            },
+            {
+              "src": "cblm09",
+              "page": 15,
+              "quote": "Particular locations",
+              "passageId": "cblm09-p15-053b306f"
+            }
+          ]
+        },
+        {
+          "text": "The evidence guide covers underpinning knowledge, assessment emphasis, relationships to other units and required evidence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 15,
+              "quote": "the underpinning knowledge, skills and attitude requirements for the unit"
+            },
+            {
+              "src": "cblm09",
+              "page": 15,
+              "quote": "the aspects which need to be emphasised in assessment,"
+            },
+            {
+              "src": "cblm09",
+              "page": 15,
+              "quote": "relationships to other units, and"
+            },
+            {
+              "src": "cblm09",
+              "page": 15,
+              "quote": "the required evidence of competency"
+            }
+          ]
+        },
+        {
+          "text": "The sample unit TVTENV502 has 16 nominal hours.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 15,
+              "quote": "Sample of a Unit of competency for Bangladesh TVET Teachers/",
+              "passageId": "cblm09-p15-a785bdbf"
+            },
+            {
+              "src": "cblm09",
+              "page": 15,
+              "quote": "TVTENV502- Address learning needs and foster and promote a"
+            },
+            {
+              "src": "cblm09",
+              "page": 15,
+              "quote": "Nominal Hours 16"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "The ______ gives a short summary which specifies the scope and level of performance required.",
+      "options": [
+        "Performance criteria",
+        "Nominal hours",
+        "Range of variable",
+        "Unit descriptor"
+      ],
+      "answerIndex": 3,
+      "answerCite": {
+        "src": "cblm09",
+        "page": 14,
+        "quote": "The unit descriptor gives a short summary of the scope and level of performance required."
+      }
+    },
+    "matching": {
+      "prompt": "Match each component with its description.",
+      "pairs": [
+        {
+          "left": "Unit descriptor",
+          "right": "Short summary of scope and level of performance",
+          "cite": {
+            "src": "cblm09",
+            "page": 14,
+            "quote": "The unit descriptor gives a short summary of the scope and level of performance required."
+          }
+        },
+        {
+          "left": "Nominal hours",
+          "right": "Suggested hours for a novice trainee",
+          "cite": {
+            "src": "cblm09",
+            "page": 14,
+            "quote": "This is a suggested number of hours that a novice trainee may (on average) take to develop the specified competency."
+          }
+        },
+        {
+          "left": "Element of competency",
+          "right": "Key activities of the work covered by the unit",
+          "cite": {
+            "src": "cblm09",
+            "page": 14,
+            "quote": "Elements of competency or simply elements refer to any of sub component of a unit of competency which describe the key activities or elements of the work covered by the unit."
+          }
+        },
+        {
+          "left": "Performance criteria",
+          "right": "Standards of performance to be deemed competent",
+          "cite": {
+            "src": "cblm09",
+            "page": 14,
+            "quote": "Performance criteria specify the standards of performance in terms of a set of outcomes which need to be achieved in order to be deemed competent."
+          }
+        },
+        {
+          "left": "Range statement",
+          "right": "Contexts and conditions where the competency is applicable",
+          "cite": {
+            "src": "cblm09",
+            "page": 14,
+            "quote": "The range statement also referred to the range of variables specifies the range of contexts and conditions under which the competency is applicable."
+          }
+        },
+        {
+          "left": "Evidence guide",
+          "right": "Guidance to interpretation and assessment of the unit",
+          "cite": {
+            "src": "cblm09",
+            "page": 15,
+            "quote": "The evidence guide provides guidance to the interpretation and assessment of the unit of competency including"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What does a range statement specify?",
+      "answer": {
+        "text": "It specifies the range of contexts and conditions under which the competency is applicable.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 14,
+            "quote": "The range statement also referred to the range of variables specifies the range of contexts and conditions under which the competency is applicable.",
+            "passageId": "cblm09-p14-07181974"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

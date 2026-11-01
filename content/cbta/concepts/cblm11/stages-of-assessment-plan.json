@@ -1,0 +1,295 @@
+{
+  "id": "stages-of-assessment-plan",
+  "canonical_title": "Stages in Preparing an Assessment Plan",
+  "aliases": [
+    "Stages of preparing an assessment plan",
+    "Steps of preparing an assessment plan"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p45-29392568"
+  ],
+  "questions": [
+    "cblm11-sc3-q2",
+    "paper-short-questions-q39",
+    "paper-final-formative-01-q23"
+  ],
+  "one_line_answer": {
+    "text": "Preparing an assessment plan has stages, from reading the unit to documenting the plan.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 45,
+        "quote": "Stages in preparing an assessment plan"
+      },
+      {
+        "src": "cblm11",
+        "page": 45,
+        "quote": "Read and understand the unit of competency"
+      },
+      {
+        "src": "cblm11",
+        "page": 45,
+        "quote": "Document assessment/evidence plan"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Unit of competency",
+      "bn": "যোগ্যতার একক, যার ওপর assessment হয়"
+    },
+    {
+      "en": "Element",
+      "bn": "unit-এর একটি অংশ বা কাজ"
+    },
+    {
+      "en": "Evidence requirements",
+      "bn": "কোন কোন প্রমাণ লাগবে"
+    },
+    {
+      "en": "Rules of Evidence",
+      "bn": "প্রমাণ সঠিক হওয়ার নিয়ম"
+    },
+    {
+      "en": "Evidence plan",
+      "bn": "কোন প্রমাণ কীভাবে নেওয়া হবে তার পরিকল্পনা"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment plan একবারে লেখা যায় না, ধাপে ধাপে তৈরি হয়।",
+    "প্রথমে unit of competency পড়ে বুঝতে হয়, তারপর element বাছাই করতে হয়।",
+    "এরপর evidence requirements ঠিক করতে হয়: performance criteria, dimensions, underpinning skills, critical aspects।",
+    "Rules of Evidence দেখে evidence নেওয়ার সেরা উপায় ঠিক করে, শেষে plan document করতে হয়।"
+  ],
+  "example": {
+    "en": "A computer trainer reads the unit \"Use personal computer skills\". She selects elements and lists the evidence needed. Then she writes the plan.",
+    "bn": "কম্পিউটার ট্রেনার আগে unit পড়েন, element বাছেন, প্রমাণ ঠিক করেন, তারপর plan লেখেন।"
+  },
+  "mnemonic": {
+    "text": "Read, Select, Identify, Identify, Document → R-S-I-I-D",
+    "explain_bn": "পাঁচটি ধাপের প্রথম শব্দ: Read, Select, Identify (evidence requirements), Identify (best ways), Document।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Read and understand the unit of competency",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Read and understand the unit of competency"
+          }
+        ]
+      },
+      {
+        "text": "Select an element or elements",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Select an element or elements"
+          }
+        ]
+      },
+      {
+        "text": "Identify evidence requirements: performance criteria, dimensions, underpinning skills and knowledge, critical aspects.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Identify evidence requirements o performance criteria o dimensions of competence o underpinning skills and knowledge o critical aspects of competence"
+          }
+        ]
+      },
+      {
+        "text": "Identify best ways of collecting evidence: refer to Rules of Evidence.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Identify best ways of collecting evidence- refer to Rules of Evidence"
+          }
+        ]
+      },
+      {
+        "text": "Document assessment/evidence plan",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Document assessment/evidence plan"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "First read and understand the unit of competency. Then select an element.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 45,
+          "quote": "Read and understand the unit of competency"
+        },
+        {
+          "src": "cblm11",
+          "page": 45,
+          "quote": "Select an element or elements"
+        }
+      ]
+    },
+    {
+      "text": "Identify best ways of collecting evidence: refer to Rules of Evidence.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 45,
+          "quote": "Identify best ways of collecting evidence- refer to Rules of Evidence",
+          "passageId": "cblm11-p45-29392568"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the stages of preparing an assessment plan?",
+      "modelAnswer": "Stages in preparing an assessment plan:\n1. Read and understand the unit of competency\n2. Select an element or elements\n3. Identify evidence requirements: performance criteria, dimensions of competence, underpinning skills and knowledge, critical aspects of competence\n4. Identify best ways of collecting evidence (refer to Rules of Evidence)\n5. Document assessment/evidence plan",
+      "keyPoints": [
+        {
+          "text": "Evidence requirements include performance criteria and dimensions of competence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "Identify evidence requirements o performance criteria o dimensions of competence"
+            }
+          ]
+        },
+        {
+          "text": "Also underpinning skills and knowledge, and critical aspects of competence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "o underpinning skills and knowledge o critical aspects of competence"
+            }
+          ]
+        },
+        {
+          "text": "Documenting the plan helps you stay organised and on-track.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "Documenting your assessment plan is essential and will help you stay organised and on-track"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "What is the first stage in preparing an assessment plan?",
+      "options": [
+        "Document assessment/evidence plan",
+        "Read and understand the unit of competency",
+        "Identify best ways of collecting evidence",
+        "Select an element or elements"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 45,
+        "quote": "Read and understand the unit of competency"
+      }
+    },
+    "matching": {
+      "prompt": "Match each stage with its detail.",
+      "pairs": [
+        {
+          "left": "Read and understand",
+          "right": "The unit of competency",
+          "cite": {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Read and understand the unit of competency"
+          }
+        },
+        {
+          "left": "Select",
+          "right": "An element or elements",
+          "cite": {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Select an element or elements"
+          }
+        },
+        {
+          "left": "Identify evidence requirements",
+          "right": "Performance criteria and dimensions of competence",
+          "cite": {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Identify evidence requirements o performance criteria o dimensions of competence"
+          }
+        },
+        {
+          "left": "Identify best ways of collecting evidence",
+          "right": "Refer to Rules of Evidence",
+          "cite": {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Identify best ways of collecting evidence- refer to Rules of Evidence"
+          }
+        },
+        {
+          "left": "Document",
+          "right": "Assessment/evidence plan",
+          "cite": {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Document assessment/evidence plan"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why should you document your assessment plan?",
+      "answer": {
+        "text": "It helps you stay organised and on-track. Later it helps you remember what you did.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "will help you stay organised and on-track while working on the assessments, and later help you to remember"
+          },
+          {
+            "src": "cblm11",
+            "page": 46,
+            "quote": "what you did."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "practice.short",
+      "note": "paper-short-questions-q39 answer guide says 'Review and understand the unit' and 'select evidence-gathering methods'. CBLM 11 p.45 and answer key p.56 say 'Read and understand' and 'Identify best ways of collecting evidence- refer to Rules of Evidence'. Card follows the CBLM wording."
+    }
+  ]
+}

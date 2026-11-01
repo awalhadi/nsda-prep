@@ -66,8 +66,8 @@
   "bangla_explanation": [
     "Assessor যে evidence জোগাড় করেন, সেটাকে কিছু নিয়ম মানতে হয়। এগুলোই rules of evidence।",
     "নিয়ম না মানলে decision fair হয় না, ভুল candidate পাস করে যেতে পারে।",
-    "একটা তালিকায় ছয়টি rule: Sufficient, Valid, Current, Authentic, Consistent, Recent।",
-    "Checklist-এ চারটি থাকে: Valid, Sufficient, Current, Authentic। এই চারটি অবশ্যই মনে রাখুন।"
+    "পরীক্ষায় চারটি লিখুন: Valid, Sufficient, Current, Authentic।",
+    "Consistent আর Recent rule-ও আছে, এগুলো extra হিসেবে জেনে রাখুন।"
   ],
   "example": {
     "en": "A welding candidate brings a photo of a weld. The assessor asks: is it his own work? This checks the Authentic rule.",
@@ -75,6 +75,27 @@
   },
   "list_answer": {
     "items": [
+      {
+        "text": "Valid: the evidence is relevant to the current standards, elements and performance criteria.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 20,
+            "quote": "Valid - Is the evidence related to the current version of the standards?"
+          },
+          {
+            "src": "cblm12",
+            "page": 20,
+            "quote": "Is it relevant to the elements and performance criteria in the standards?"
+          },
+          {
+            "src": "cblm12",
+            "page": 20,
+            "quote": "Evidence Valid Sufficient Current Authentic"
+          }
+        ]
+      },
       {
         "text": "Sufficient: the evidence covers all the elements and the four dimensions of competency.",
         "fidelity": "paraphrase",
@@ -89,22 +110,11 @@
             "src": "cblm12",
             "page": 20,
             "quote": "Does it illustrate that the candidate can meet the four dimensions of competency?"
-          }
-        ]
-      },
-      {
-        "text": "Valid: the evidence is relevant to the current standards, elements and performance criteria.",
-        "fidelity": "paraphrase",
-        "cites": [
-          {
-            "src": "cblm12",
-            "page": 20,
-            "quote": "Valid - Is the evidence related to the current version of the standards?"
           },
           {
             "src": "cblm12",
             "page": 20,
-            "quote": "Is it relevant to the elements and performance criteria in the standards?"
+            "quote": "Evidence Valid Sufficient Current Authentic"
           }
         ]
       },
@@ -116,6 +126,11 @@
             "src": "cblm12",
             "page": 20,
             "quote": "Current - Does the evidence reflect the candidate's current knowledge and/or skill in the relevant aspect of work?"
+          },
+          {
+            "src": "cblm12",
+            "page": 20,
+            "quote": "Evidence Valid Sufficient Current Authentic"
           }
         ]
       },
@@ -127,44 +142,19 @@
             "src": "cblm12",
             "page": 20,
             "quote": "Authentic - Does the evidence represent the candidate's own work?"
-          }
-        ]
-      },
-      {
-        "text": "Consistent: the candidate consistently meets the standards under workplace conditions.",
-        "fidelity": "paraphrase",
-        "cites": [
+          },
           {
             "src": "cblm12",
             "page": 20,
-            "quote": "Consistent - Does the evidence show that the candidate consistently meets the standards under workplace conditions?"
-          }
-        ]
-      },
-      {
-        "text": "Recent: the evidence is less than five years old.",
-        "fidelity": "paraphrase",
-        "cites": [
-          {
-            "src": "cblm12",
-            "page": 20,
-            "quote": "Recent -Is the evidence less than five years old?"
+            "quote": "Evidence Valid Sufficient Current Authentic"
           }
         ]
       }
-    ],
-    "declaredCount": {
-      "n": 6,
-      "cite": {
-        "src": "cblm12",
-        "page": 20,
-        "quote": "These are validity, currency, sufficiency, authenticity, consistency and recency"
-      }
-    }
+    ]
   },
   "traps": [
     {
-      "text": "Six rules: validity, currency, sufficiency, authenticity, consistency, recency. The checklist shows only Valid, Sufficient, Current, Authentic.",
+      "text": "Extra: Consistent and Recent evidence are also rules of evidence.",
       "fidelity": "paraphrase",
       "cites": [
         {
@@ -175,17 +165,17 @@
         {
           "src": "cblm12",
           "page": 20,
-          "quote": "referred to as RULES OF EVIDENCE"
+          "quote": "Consistent - Does the evidence show that the candidate consistently meets"
         },
         {
           "src": "cblm12",
           "page": 20,
-          "quote": "checklist similar to the one below Evidence Valid Sufficient Current Authentic"
+          "quote": "Recent -Is the evidence less than five years old?"
         },
         {
-          "src": "paper-short-questions",
-          "page": 6,
-          "quote": "Validity, sufficiency, authenticity and currency."
+          "src": "cblm12",
+          "page": 20,
+          "quote": "also referred to as RULES OF EVIDENCE in competency based assessment"
         }
       ]
     },
@@ -226,7 +216,7 @@
   "practice": {
     "short": {
       "prompt": "What are the rules of evidence?",
-      "modelAnswer": "Rules of evidence are the criteria evidence must meet for a fair decision. They are:\n1. Sufficient: covers all elements and the four dimensions of competency.\n2. Valid: relevant to the current standards and performance criteria.\n3. Current: reflects the candidate's current knowledge and skill.\n4. Authentic: the candidate's own work.\n5. Consistent: meets the standards consistently in the workplace.\n6. Recent: less than five years old.",
+      "modelAnswer": "Rules of evidence are the criteria evidence must meet for a fair decision. They are:\n1. Valid: relevant to the current standards and performance criteria.\n2. Sufficient: covers all elements and the four dimensions of competency.\n3. Current: reflects the candidate's current knowledge and skill.\n4. Authentic: the candidate's own work.",
       "keyPoints": [
         {
           "text": "Evidence must meet these rules for a fair and truthful decision.",
@@ -364,16 +354,12 @@
   },
   "checks": [
     {
-      "path": "list_answer",
-      "note": "CBLM 12 gives two different rule lists. PDF p.20 names six: validity, currency, sufficiency, authenticity, consistency, recency (bullets in the order Sufficient, Valid, Current, Authentic, Consistent, Recent), but its checklist table has only four columns (Valid, Sufficient, Current, Authentic). PDF p.21 lists six different items: Valid, Authentic, Reliable, Sufficient, Current, consistency of achievement (Reliable replaces Recent). Card uses the p.20 list with its descriptions and shows p.21 as a trap. A human should confirm which list the exam expects."
-    },
-    {
-      "path": "traps[0]",
-      "note": "paper-short-questions-q45 answer guide gives only four rules (validity, sufficiency, authenticity, currency) and says consistency is 'generally associated with reliability'. This differs from CBLM p.20 (six rules). Card follows CBLM p.20."
-    },
-    {
       "path": "questions",
       "note": "paper-short-questions-q48 answer guide says valid evidence must 'cover all relevant elements and performance criteria, competency dimensions...'. CBLM p.20 assigns 'cover all the elements' and the four dimensions to Sufficient, and defines Valid as relevant to the current standards, elements and performance criteria. Card follows CBLM p.20."
     }
-  ]
+  ],
+  "mnemonic": {
+    "text": "Very Smart Candidates Answer → V-S-C-A",
+    "explain_bn": "প্রতিটি শব্দের প্রথম অক্ষর একটি rule: Valid, Sufficient, Current, Authentic।"
+  }
 }

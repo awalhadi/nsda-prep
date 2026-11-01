@@ -1,0 +1,289 @@
+{
+  "id": "analysing-standards-for-evidence",
+  "canonical_title": "Analysing Competency Standards to Determine Evidence",
+  "aliases": [
+    "Key factors for analysing competency standards",
+    "Determining evidence requirements"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p20-6c4c04be"
+  ],
+  "questions": [
+    "cblm11-sc1-q2",
+    "paper-unit01-answer-q24",
+    "paper-unit01-mcq-q24"
+  ],
+  "one_line_answer": {
+    "text": "The essential knowledge and skills in a unit are benchmarks analysed to determine evidence.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 20,
+        "quote": "The essential knowledge and skills within a unit of competency are the benchmarks that need to be analysed to understand and determine what evidence needs to be collected"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Evidence requirements",
+      "bn": "কী কী প্রমাণ লাগবে"
+    },
+    {
+      "en": "Evidence guide",
+      "bn": "competency standard-এর যে অংশে assessment-এর নির্দেশনা থাকে"
+    },
+    {
+      "en": "Range statements",
+      "bn": "কাজের পরিসর ও শর্ত"
+    },
+    {
+      "en": "Dimensions of competency",
+      "bn": "যোগ্যতার মাত্রা"
+    },
+    {
+      "en": "Level descriptors",
+      "bn": "লেভেলের বর্ণনা"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment তৈরির আগে competency standards ভালো করে analysed হওয়া চাই।",
+    "তাহলে বোঝা যায় কী কী evidence লাগবে।",
+    "সাতটি key factors দেখতে হয়, যেমন performance criteria, range statements, evidence guides।",
+    "Assessment guidelines জানতে evidence guide দেখতে হয় — এটা পরীক্ষায় প্রায়ই আসে।"
+  ],
+  "example": {
+    "en": "A trainer plans an electrical wiring assessment. First, she reads the evidence guide of the unit.",
+    "bn": "Wiring-এর assessment plan করার আগে unit-এর evidence guide পড়তে হয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Bangladesh NTVQ level descriptors",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "Bangladesh NTVQ level descriptors",
+            "passageId": "cblm11-p20-6c4c04be"
+          }
+        ]
+      },
+      {
+        "text": "Language literacy and numeracy levels",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "Language literacy and numeracy levels"
+          }
+        ]
+      },
+      {
+        "text": "Essential knowledge and skills",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "Essential knowledge and skills Dimensions"
+          }
+        ]
+      },
+      {
+        "text": "Dimensions of competency",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "Dimensions of competency Performance criteria"
+          }
+        ]
+      },
+      {
+        "text": "Performance criteria",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "Performance criteria Range statements"
+          }
+        ]
+      },
+      {
+        "text": "Range statements",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "Range statements Evidence guides"
+          }
+        ]
+      },
+      {
+        "text": "Evidence guides",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "Range statements Evidence guides"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "For assessment guidelines, consult the evidence guide, not range statements.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "paper-unit01-answer",
+          "page": 5,
+          "quote": "Which section of a competency standard should you consult to determine assessment guidelines? Evidence guide"
+        },
+        {
+          "src": "cblm11",
+          "page": 20,
+          "quote": "Range statements"
+        }
+      ]
+    },
+    {
+      "text": "Competency cannot be observed directly. It can only be inferred from performance.",
+      "fidelity": "verbatim",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 20,
+          "quote": "Competency cannot be observed directly. It can only be inferred from performance."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Which section of a competency standard should you consult to determine assessment guidelines?",
+      "modelAnswer": "Evidence guide.\nKey factors for analysing competency standards to determine evidence:\n1. Bangladesh NTVQ level descriptors\n2. Language literacy and numeracy levels\n3. Essential knowledge and skills\n4. Dimensions of competency\n5. Performance criteria\n6. Range statements\n7. Evidence guides",
+      "keyPoints": [
+        {
+          "text": "Consult the evidence guide section of a competency standard to determine assessment guidelines.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "paper-unit01-answer",
+              "page": 5,
+              "quote": "Which section of a competency standard should you consult to determine assessment guidelines? Evidence guide"
+            },
+            {
+              "src": "cblm11",
+              "page": 26,
+              "quote": "Answer 2 Evidence guide."
+            }
+          ]
+        },
+        {
+          "text": "Gather evidence of sufficient quantity and quality to make sound judgements.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 20,
+              "quote": "gather evidence of sufficient quantity and quality to make sound judgements"
+            }
+          ]
+        },
+        {
+          "text": "Evidence must match the skills, knowledge and dimensions of competency.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 20,
+              "quote": "the types of evidence that will match the skills, knowledge and dimensions of competency."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which section of a competency standard gives assessment guidelines?",
+      "options": [
+        "Unit descriptor",
+        "Range statement",
+        "Evidence guide",
+        "Nominal hours"
+      ],
+      "answerIndex": 2,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 26,
+        "quote": "Answer 2 Evidence guide."
+      }
+    },
+    "matching": {
+      "prompt": "Match each item with what the CBLM says.",
+      "pairs": [
+        {
+          "left": "Evidence guide",
+          "right": "Section to consult to determine assessment guidelines",
+          "cite": {
+            "src": "paper-unit01-answer",
+            "page": 5,
+            "quote": "Which section of a competency standard should you consult to determine assessment guidelines? Evidence guide"
+          }
+        },
+        {
+          "left": "Competency",
+          "right": "Inferred from performance",
+          "cite": {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "It can only be inferred from performance."
+          }
+        },
+        {
+          "left": "Essential knowledge and skills",
+          "right": "Benchmarks to be analysed",
+          "cite": {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "The essential knowledge and skills within a unit of competency are the benchmarks that need to be analysed"
+          }
+        },
+        {
+          "left": "Judgements",
+          "right": "Cannot be absolute",
+          "cite": {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "Such judgements cannot be absolute."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Can competency be observed directly?",
+      "answer": {
+        "text": "No. Competency can only be inferred from performance.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "Competency cannot be observed directly. It can only be inferred from performance."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

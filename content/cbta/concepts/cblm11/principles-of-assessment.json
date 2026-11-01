@@ -1,0 +1,331 @@
+{
+  "id": "principles-of-assessment",
+  "canonical_title": "Principles of Competency Based Assessment",
+  "aliases": [
+    "Principles of assessment",
+    "Validity, reliability, flexibility and fairness"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p10-10309cbe",
+    "cblm11-p10-89f549b2",
+    "cblm11-p10-bc3f9e23",
+    "cblm11-p10-ab7f7b95",
+    "cblm11-p10-4cae5993",
+    "cblm11-p10-23b23be9",
+    "cblm11-p10-0d74e752",
+    "cblm11-p10-d2cf78ea",
+    "cblm11-p10-e41c8fd8",
+    "cblm11-p11-dafcba30",
+    "cblm11-p11-c945165d",
+    "cblm11-p11-4d2e476c"
+  ],
+  "questions": [
+    "paper-short-questions-q64"
+  ],
+  "one_line_answer": {
+    "text": "CB assessment should be underpinned by validity, reliability, flexibility and fairness.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 10,
+        "quote": "the design and conduct of competency based (CB) assessment should be underpinned by the following set of principles: validity, reliability, flexibility and fairness.",
+        "passageId": "cblm11-p10-89f549b2"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Validity",
+      "bn": "যা মাপার কথা ঠিক তাই মাপা"
+    },
+    {
+      "en": "Reliability",
+      "bn": "সবসময় একই রকম ফল"
+    },
+    {
+      "en": "Flexibility",
+      "bn": "নমনীয়তা, এক পদ্ধতিতে আটকে না থাকা"
+    },
+    {
+      "en": "Fairness",
+      "bn": "ন্যায্যতা, কেউ বঞ্চিত না হওয়া"
+    },
+    {
+      "en": "Transparent",
+      "bn": "স্বচ্ছ, সবার কাছে পরিষ্কার"
+    }
+  ],
+  "bangla_explanation": [
+    "CB assessment তৈরি করার সময় চারটি principles মানতে হয়।",
+    "Validity মানে যা assess করার কথা, ঠিক সেটাই assess করা।",
+    "Fairness মানে বয়স, gender, disability বা ভাষার কারণে কেউ পিছিয়ে পড়বে না।",
+    "Assessment বানানোর পর মিলিয়ে দেখুন, এই চারটি principles মানা হয়েছে কি না।"
+  ],
+  "example": {
+    "en": "A driving test centre lets a candidate with weak reading answer questions orally. This keeps the test fair.",
+    "bn": "পড়তে কষ্ট হয় এমন candidate-কে মুখে উত্তর দিতে দেওয়া fairness-এর উদাহরণ।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Validity: assessments assess what they claim to assess.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 10,
+            "quote": "Assessments are valid when they assess what they claim to assess.",
+            "passageId": "cblm11-p10-bc3f9e23"
+          }
+        ]
+      },
+      {
+        "text": "Reliability: methods and procedures are consistently interpreted and applied.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 10,
+            "quote": "Assessments are reliable when the methods and procedures used are consistently interpreted and applied"
+          }
+        ]
+      },
+      {
+        "text": "Flexibility: appropriate to the range of knowledge, skills, delivery modes and candidates' needs.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "Assessments are flexible when they are appropriate to the range of knowledge, skills and attitudes encompassed by competency standards, the range of delivery modes and locations as well as the needs of a wide range of candidates."
+          }
+        ]
+      },
+      {
+        "text": "Fairness: accessible to all eligible candidates, and no one is disadvantaged.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "Assessments are fair when they are accessible to all eligible candidates",
+            "passageId": "cblm11-p11-dafcba30"
+          },
+          {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "when no one is disadvantaged by the procedures or methods used."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Authenticity, currency, cost-effectiveness and reasonable adjustment are other principles, not the main four.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 12,
+          "quote": "Other principles that should inform the development and conduct of CB Assessment"
+        },
+        {
+          "src": "cblm11",
+          "page": 12,
+          "quote": "Authenticity"
+        },
+        {
+          "src": "cblm11",
+          "page": 12,
+          "quote": "Currency"
+        },
+        {
+          "src": "cblm11",
+          "page": 12,
+          "quote": "Cost-effectiveness"
+        },
+        {
+          "src": "cblm11",
+          "page": 12,
+          "quote": "Reasonable adjustment"
+        }
+      ]
+    },
+    {
+      "text": "Flexibility: there is no single approach to the assessment of performance.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 11,
+          "quote": "we recognise that there is no single approach to the assessment of performance in a competency-based system"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Why is fairness an essential assessment principle?",
+      "modelAnswer": "Fairness: assessments are accessible to all eligible candidates, regardless of age, gender, disability, background, language or location. No one is disadvantaged by the procedures or methods.\nFairness can be achieved by:\n1. A transparent assessment process\n2. Consulting candidates on purpose, methods and procedures\n3. Providing and seeking informative feedback\n4. Making challenges and appeals accessible to all candidates",
+      "keyPoints": [
+        {
+          "text": "Fair assessment is accessible regardless of age, gender, disability or language barriers.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "accessible to all eligible candidates regardless of age, gender, disability, ethnic or social background, language barriers or geographic location"
+            }
+          ]
+        },
+        {
+          "text": "Assessment practices and methods are equitable for all groups of candidates.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "Assessment practices and methods are equitable for all groups of learners or candidates.",
+              "passageId": "cblm11-p11-c945165d"
+            }
+          ]
+        },
+        {
+          "text": "Make the assessment process transparent, clear and available to all relevant people.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "ensuring that the assessment process is 'transparent', ie clear and available to all relevant people",
+              "passageId": "cblm11-p11-4d2e476c"
+            }
+          ]
+        },
+        {
+          "text": "Make challenges and appeals accessible to all candidates.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "making challenges and appeals accessible to all candidates."
+            }
+          ]
+        },
+        {
+          "text": "Validity needs clearly defined performance or assessment criteria.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "as indicated by clearly defined performance or assessment criteria",
+              "passageId": "cblm11-p10-4cae5993"
+            }
+          ]
+        },
+        {
+          "text": "Valid evidence comes from tasks clearly related to the unit of competency.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "evidence is collected from activities and tasks that can be clearly related to the unit of competency",
+              "passageId": "cblm11-p10-23b23be9"
+            }
+          ]
+        },
+        {
+          "text": "Valid evidence demonstrates that the performance or assessment criteria have been met.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "evidence demonstrates that the performance or assessment criteria have been met",
+              "passageId": "cblm11-p10-e41c8fd8"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which principle means an assessment assesses what it claims to assess?",
+      "options": [
+        "Reliability",
+        "Validity",
+        "Flexibility",
+        "Fairness"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 10,
+        "quote": "Validity Assessments are valid when they assess what they claim to assess."
+      }
+    },
+    "matching": {
+      "prompt": "Match each principle with its meaning.",
+      "pairs": [
+        {
+          "left": "Validity",
+          "right": "Assess what they claim to assess",
+          "cite": {
+            "src": "cblm11",
+            "page": 10,
+            "quote": "Assessments are valid when they assess what they claim to assess."
+          }
+        },
+        {
+          "left": "Reliability",
+          "right": "Methods and procedures consistently interpreted and applied",
+          "cite": {
+            "src": "cblm11",
+            "page": 10,
+            "quote": "Assessments are reliable when the methods and procedures used are consistently interpreted and applied"
+          }
+        },
+        {
+          "left": "Flexibility",
+          "right": "No single approach to assessment of performance",
+          "cite": {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "there is no single approach to the assessment of performance"
+          }
+        },
+        {
+          "left": "Fairness",
+          "right": "Accessible to all eligible candidates",
+          "cite": {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "Assessments are fair when they are accessible to all eligible candidates"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What are the principles of competency based assessment?",
+      "answer": {
+        "text": "Validity, reliability, flexibility and fairness.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 10,
+            "quote": "validity, reliability, flexibility and fairness."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

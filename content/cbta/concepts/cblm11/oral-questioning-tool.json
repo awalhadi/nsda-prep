@@ -1,0 +1,299 @@
+{
+  "id": "oral-questioning-tool",
+  "canonical_title": "Oral Questioning Tool",
+  "aliases": [
+    "Contingency questions",
+    "Oral questioning sheet"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p66-072aeaff",
+    "cblm11-p66-0848ffc7",
+    "cblm11-p67-864c5849"
+  ],
+  "questions": [
+    "cblm11-sc4-q2",
+    "paper-short-questions-q53",
+    "paper-unit01-answer-q17",
+    "paper-unit01-mcq-q17",
+    "paper-unit01-short-q12"
+  ],
+  "one_line_answer": {
+    "text": "Questioning is prepared when observation cannot be used, or to verify observations and check knowledge.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 66,
+        "quote": "Questioning is prepared when",
+        "passageId": "cblm11-p66-072aeaff"
+      },
+      {
+        "src": "cblm11",
+        "page": 66,
+        "quote": "Observation cannot be used"
+      },
+      {
+        "src": "cblm11",
+        "page": 66,
+        "quote": "Verifying observations"
+      },
+      {
+        "src": "cblm11",
+        "page": 66,
+        "quote": "Check underpinning knowledge"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Oral questioning",
+      "bn": "মুখে প্রশ্ন করে যাচাই"
+    },
+    {
+      "en": "Contingency",
+      "bn": "হঠাৎ সমস্যা বা জরুরি অবস্থা"
+    },
+    {
+      "en": "Underpinning knowledge",
+      "bn": "কাজের পেছনের মূল জ্ঞান"
+    },
+    {
+      "en": "Extension questions",
+      "bn": "একই রকম কিন্তু ভিন্ন অবস্থার প্রশ্ন"
+    },
+    {
+      "en": "Reflective questions",
+      "bn": "নিজের কাজ নিয়ে ভাবার প্রশ্ন"
+    }
+  ],
+  "bangla_explanation": [
+    "সব কিছু চোখে দেখে যাচাই করা যায় না, তখন oral questioning লাগে।",
+    "এটা দিয়ে observations যাচাই হয়, underpinning knowledge check হয়।",
+    "Contingency questions দেখে প্রার্থী হঠাৎ সমস্যায় কী করবে, যেমন equipment broke down হলে।",
+    "আরও আছে extension, নিরাপত্তা, নিয়মকানুন আর reflective questions।"
+  ],
+  "example": {
+    "en": "An assessor asks a welding trainee: \"What would you do if the machine broke down?\"",
+    "bn": "মেশিন হঠাৎ নষ্ট হলে কী করবেন? এটাই contingency question।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Observation cannot be used",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 66,
+            "quote": "Observation cannot be used"
+          }
+        ]
+      },
+      {
+        "text": "Verifying observations",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 66,
+            "quote": "Verifying observations"
+          }
+        ]
+      },
+      {
+        "text": "Check underpinning knowledge",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 66,
+            "quote": "Check underpinning knowledge"
+          }
+        ]
+      },
+      {
+        "text": "Explore dimensions of competency: contingency skills, problem solution.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 66,
+            "quote": "Explore dimensions of competency ie: contingency skills, problem solution etc."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Equipment broke down? That is a contingency question, not an extension question.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 72,
+          "quote": "What would you do if ... ? (equipment broke down or something malfunctioned)"
+        },
+        {
+          "src": "cblm11",
+          "page": 66,
+          "quote": "Contingency questions"
+        }
+      ]
+    },
+    {
+      "text": "Questioning also explores dimensions of competency, like contingency skills and problem solution.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 66,
+          "quote": "Explore dimensions of competency ie: contingency skills, problem solution etc."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Give an example of a contingency question.",
+      "modelAnswer": "Contingency questions check what a candidate does when something goes wrong. Examples:\n1. What would you do if ...? (equipment broke down or something malfunctioned)\n2. What would you do in the event of ...? (accident or emergency)\n3. What would you do if ...? (complaint was made or conflict occurred)\n4. How do you avoid ...? (preventative safety measure)",
+      "keyPoints": [
+        {
+          "text": "What would you do if equipment broke down or something malfunctioned?",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 72,
+              "quote": "What would you do if ... ? (equipment broke down or something malfunctioned)"
+            }
+          ]
+        },
+        {
+          "text": "What would you do in the event of an accident or emergency?",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What would you do in the event of ...? (accident or emergency)",
+              "passageId": "cblm11-p66-0848ffc7"
+            }
+          ]
+        },
+        {
+          "text": "What would you do if a complaint was made or conflict occurred?",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What would you do if ... (complaint was made or conflict occurred)"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a contingency question?",
+      "options": [
+        "What is a URL?",
+        "What would you do if equipment broke down?",
+        "What is one tip for a fellow worker?",
+        "What are the regulations in respect of this task?"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 72,
+        "quote": "What would you do if ... ? (equipment broke down or something malfunctioned)"
+      }
+    },
+    "matching": {
+      "prompt": "Match each question type with an example.",
+      "pairs": [
+        {
+          "left": "Extension questions",
+          "right": "A similar but different situation",
+          "cite": {
+            "src": "cblm11",
+            "page": 66,
+            "quote": "Extension questions o What would you do if ... ? (a similar but different situation)"
+          }
+        },
+        {
+          "left": "Contingency questions",
+          "right": "In the event of accident or emergency",
+          "cite": {
+            "src": "cblm11",
+            "page": 66,
+            "quote": "What would you do in the event of ...? (accident or emergency)"
+          }
+        },
+        {
+          "left": "Safety questions",
+          "right": "What precautions must you take?",
+          "cite": {
+            "src": "cblm11",
+            "page": 66,
+            "quote": "Safety questions o What precautions must you take when ... ?"
+          }
+        },
+        {
+          "left": "Questions on infrequent activities",
+          "right": "Rarely occurring but critical situation",
+          "cite": {
+            "src": "cblm11",
+            "page": 66,
+            "quote": "(rarely occurring but critical situation)"
+          }
+        },
+        {
+          "left": "Questions on regulations and procedures",
+          "right": "What are the regulations in respect of ...?",
+          "cite": {
+            "src": "cblm11",
+            "page": 66,
+            "quote": "What are the regulations in respect of ... ?"
+          }
+        },
+        {
+          "left": "Reflective questions",
+          "right": "If you were doing this task again",
+          "cite": {
+            "src": "cblm11",
+            "page": 66,
+            "quote": "If you were doing this task again what would you do?"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "When is oral questioning prepared?",
+      "answer": {
+        "text": "When observation cannot be used. Also to verify observations and check underpinning knowledge.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 66,
+            "quote": "Observation cannot be used"
+          },
+          {
+            "src": "cblm11",
+            "page": 66,
+            "quote": "Verifying observations"
+          },
+          {
+            "src": "cblm11",
+            "page": 66,
+            "quote": "Check underpinning knowledge"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

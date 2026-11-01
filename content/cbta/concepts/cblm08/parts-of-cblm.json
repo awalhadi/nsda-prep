@@ -1,0 +1,402 @@
+{
+  "id": "parts-of-cblm",
+  "canonical_title": "Major Parts of a CBLM",
+  "aliases": [
+    "Parts of CBLM",
+    "Major parts of CBLM's",
+    "Information sheet, job sheet and specification sheet"
+  ],
+  "cblmPrimary": 8,
+  "source_type": "cblm",
+  "covers": [
+    "cblm08-p27-b91b0962",
+    "cblm08-p27-8a0bbde8",
+    "cblm08-p27-e9c4ee88",
+    "cblm08-p27-ba8ce9e6",
+    "cblm08-p28-a602e62d",
+    "cblm08-p34-ce32f9bc",
+    "cblm08-p36-78c217d6"
+  ],
+  "questions": [
+    "cblm08-sc1-q5"
+  ],
+  "one_line_answer": {
+    "text": "CBLM's major parts: information sheet, self check sheet, answer sheet, job sheet, specification sheet.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm08",
+        "page": 27,
+        "quote": "The major parts of CBLM's contain which are:",
+        "passageId": "cblm08-p27-b91b0962"
+      },
+      {
+        "src": "cblm08",
+        "page": 27,
+        "quote": "1. Information sheet 2. Self check Sheet 3. Answer Sheet 4. Job Sheet 5. Specification sheet."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Information sheet",
+      "bn": "কাজের জন্য দরকারি জ্ঞান বা তথ্যের পাতা"
+    },
+    {
+      "en": "Self check",
+      "bn": "নিজে নিজে যাচাইয়ের প্রশ্ন"
+    },
+    {
+      "en": "Answer key",
+      "bn": "self check-এর উত্তরের পাতা"
+    },
+    {
+      "en": "Job sheet",
+      "bn": "একটা নির্দিষ্ট কাজ করার ধাপে ধাপে নির্দেশনা"
+    },
+    {
+      "en": "Specification sheet",
+      "bn": "কাজের শর্ত, মাপ আর diagram-এর পাতা"
+    },
+    {
+      "en": "Underpinning knowledge",
+      "bn": "কাজের পেছনের মূল জ্ঞান"
+    }
+  ],
+  "bangla_explanation": [
+    "CBLM-এর পাঁচটা major parts: Information sheet, Self check, Answer sheet, Job sheet, Specification sheet।",
+    "Information sheet-এ কাজ করার জন্য দরকারি underpinning knowledge থাকে, এটা job sheet-কে সাহায্য করে।",
+    "Self check দিয়ে শিক্ষার্থী যাচাই করে সে knowledge শিখেছে কিনা, আর answer key দেখে সাথে সাথে feedback পায়।",
+    "Job sheet হলো কাজ করার instruction, আর specification sheet-এ থাকে কাজের শর্ত, specifications আর diagram।",
+    "খেয়াল করুন: answer key-তে মাত্র তিনটা অংশ লেখা, কিন্তু information sheet-এ পাঁচটা।"
+  ],
+  "example": {
+    "en": "For a wall painting job, the job sheet lists the painting steps.",
+    "bn": "দেয়াল রং করার কাজে job sheet ধাপগুলো বলে, আর information sheet রং ও brush-এর ধরন বোঝায়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Information sheet: gives the underpinning knowledge needed to perform the job.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "1. Information sheet"
+          },
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "The information supports the job sheet; i,e to perform the job required underpinning",
+            "passageId": "cblm08-p27-ba8ce9e6"
+          },
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "knowledge are included in the information sheet."
+          }
+        ]
+      },
+      {
+        "text": "Self check sheet: questions that verify the knowledge stated in the learning objectives.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "2. Self check Sheet"
+          },
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Self-checks are sets of questions that would verify the acquisition of knowledge",
+            "passageId": "cblm08-p28-a602e62d"
+          },
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "stated in the learning objectives."
+          }
+        ]
+      },
+      {
+        "text": "Answer sheet: follows a self check so the trainee can check answers immediately.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "3. Answer Sheet"
+          },
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Answer keys should always follow a self-check so that a trainee can check his own"
+          },
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "answers immediately."
+          }
+        ]
+      },
+      {
+        "text": "Job sheet: a set of instruction to perform a specific job.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "4. Job Sheet"
+          },
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "Job sheet is a set of instruction to perform a specific job.",
+            "passageId": "cblm08-p27-8a0bbde8"
+          }
+        ]
+      },
+      {
+        "text": "Specification sheet: conditions, specifications and diagram required to perform the job.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "5. Specification sheet."
+          },
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "In a specification there is a set of condition, Specifications, Diagram of exiting job",
+            "passageId": "cblm08-p27-e9c4ee88"
+          },
+          {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "which is required to perform the job."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "The answer key gives three parts: Information sheet, Job Sheet, Specification sheet.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 35,
+          "quote": "Answer Key No: 01- Develop CBLM"
+        },
+        {
+          "src": "cblm08",
+          "page": 36,
+          "quote": "Write Down the major parts of CBLM?"
+        },
+        {
+          "src": "cblm08",
+          "page": 36,
+          "quote": "1. Information sheet 2. Job Sheet 3. Specification sheet."
+        }
+      ]
+    },
+    {
+      "text": "The information sheet lists five major parts, adding Self check Sheet and Answer Sheet.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 27,
+          "quote": "The major parts of CBLM's contain which are:"
+        },
+        {
+          "src": "cblm08",
+          "page": 27,
+          "quote": "1. Information sheet 2. Self check Sheet 3. Answer Sheet 4. Job Sheet 5. Specification sheet."
+        }
+      ]
+    },
+    {
+      "text": "Job sheet is a set of instruction; the information sheet gives underpinning knowledge.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 27,
+          "quote": "Job sheet is a set of instruction to perform a specific job."
+        },
+        {
+          "src": "cblm08",
+          "page": 27,
+          "quote": "The information supports the job sheet; i,e to perform the job required underpinning"
+        },
+        {
+          "src": "cblm08",
+          "page": 27,
+          "quote": "knowledge are included in the information sheet."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Write down the major parts of CBLM.",
+      "modelAnswer": "The major parts of a CBLM are:\n1. Information sheet: underpinning knowledge for the job\n2. Self check sheet: questions to verify knowledge\n3. Answer sheet: lets the trainee check answers immediately\n4. Job sheet: a set of instruction to perform a specific job\n5. Specification sheet: conditions, specifications and diagram for the job",
+      "keyPoints": [
+        {
+          "text": "The job sheet is used when a basic task must be mastered before the job.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "This is used when a basic"
+            },
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "task, operation or process needs to be mastered before doing the job."
+            }
+          ]
+        },
+        {
+          "text": "The job sheet lists all the steps a worker needs to complete the job.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "List all the"
+            },
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "steps a worker will need to complete the job."
+            }
+          ]
+        },
+        {
+          "text": "The information sheet supports the job sheet.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "The information supports the job sheet"
+            }
+          ]
+        },
+        {
+          "text": "Answer keys allow immediate feedback.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 28,
+              "quote": "This allows for immediate feedback."
+            },
+            {
+              "src": "cblm08",
+              "page": 28,
+              "quote": "Answer Keys"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which part of a CBLM is a set of instruction to perform a specific job?",
+      "options": [
+        "Information sheet",
+        "Job sheet",
+        "Self check sheet",
+        "Answer sheet"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm08",
+        "page": 27,
+        "quote": "Job sheet is a set of instruction to perform a specific job."
+      }
+    },
+    "matching": {
+      "prompt": "Match each part of a CBLM with what it contains.",
+      "pairs": [
+        {
+          "left": "Information sheet",
+          "right": "Underpinning knowledge to perform the job",
+          "cite": {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "The information supports the job sheet; i,e to perform the job required underpinning"
+          }
+        },
+        {
+          "left": "Job sheet",
+          "right": "A set of instruction to perform a specific job",
+          "cite": {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "Job sheet is a set of instruction to perform a specific job."
+          }
+        },
+        {
+          "left": "Specification sheet",
+          "right": "Condition, specifications and diagram of the job",
+          "cite": {
+            "src": "cblm08",
+            "page": 27,
+            "quote": "In a specification there is a set of condition, Specifications, Diagram of exiting job"
+          }
+        },
+        {
+          "left": "Self check",
+          "right": "Questions that verify the acquisition of knowledge",
+          "cite": {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Self-checks are sets of questions that would verify the acquisition of knowledge"
+          }
+        },
+        {
+          "left": "Answer key",
+          "right": "Lets a trainee check his own answers immediately",
+          "cite": {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Answer keys should always follow a self-check so that a trainee can check his own"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why should an answer key always follow a self check?",
+      "answer": {
+        "text": "So the trainee can check his own answers immediately. This allows for immediate feedback.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "Answer keys should always follow a self-check so that a trainee can check his own"
+          },
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "answers immediately. This allows for immediate feedback."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "list_answer",
+      "note": "cblm08-sc1-q5: the answer key (p.36) lists 3 major parts (information sheet, job sheet, specification sheet), but the information sheet (p.27) lists 5 (adds self check sheet and answer sheet). The card follows the p.27 information sheet; a reviewer should confirm which list assessors accept."
+    }
+  ]
+}

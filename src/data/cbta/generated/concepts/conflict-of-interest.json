@@ -1,0 +1,299 @@
+{
+  "aliases": [
+    "Conflict of interest",
+    "Handling a conflict of interest"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 17,
+          "printed": 17
+        }
+      ],
+      "src": "cblm11"
+    }
+  ],
+  "banglaExplanation": [
+    "আত্মীয় বা পরিচিত কেউ assessment-এ এলে conflict of interest তৈরি হতে পারে।",
+    "সে ভাবতে পারে চেনা assessor হলে সুবিধা হবে, তাই আপনাকে দিয়েই assess করাতে চায়।",
+    "Assessor-কে সচেতন থাকতে হবে আর act ethically করতে হবে।",
+    "সন্দেহ হলেই supervisor-কে সাথে সাথে জানাতে হবে, BTEB Code of Conduct দেখতে হবে।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 11,
+  "errata": [],
+  "example": {
+    "bn": "নিজের কাজিন assessment-এ এলে সাথে সাথে supervisor-কে জানাতে হবে।",
+    "en": "An assessor's cousin enrols in his electrical wiring assessment. He reports this to his supervisor at once."
+  },
+  "highlighted": true,
+  "id": "conflict-of-interest",
+  "importance": {
+    "bn": "Short Questions (Short 63, 82)-এ এসেছে। CBLM 11-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in Short Questions (Short 63, 82). Highlighted in CBLM 11. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "স্বার্থের সংঘাত: সম্পর্কের কারণে নিরপেক্ষ থাকা কঠিন",
+      "en": "Conflict of interest"
+    },
+    {
+      "bn": "ঘনিষ্ঠ সমাজ, যেখানে সবাই সবাইকে চেনে",
+      "en": "Close communities"
+    },
+    {
+      "bn": "নৈতিকভাবে কাজ করা",
+      "en": "Act ethically"
+    },
+    {
+      "bn": "আচরণবিধি",
+      "en": "Code of Conduct"
+    },
+    {
+      "bn": "তত্ত্বাবধায়ক বা ঊর্ধ্বতন",
+      "en": "Supervisor"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": null,
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 17,
+        "passageId": "cblm11-p17-f1379364",
+        "printedPage": 17,
+        "quote": "can create a situation where the issue of conflict of interest may come up.",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 17,
+        "printedPage": 17,
+        "quote": "You might know or be related to someone who is scheduled to attend one of your assessment events.",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Conflict of interest may come up when you know or are related to a candidate."
+  },
+  "openChecks": 1,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "working in close communities can create a situation where the issue of conflict of interest may come up.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Close communities",
+          "right": "Can create a conflict of interest situation"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "Consult the BTEB Code of Conduct for Assessors.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Code to consult",
+          "right": "BTEB Code of Conduct for Assessors"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "you must report it to your supervisor immediately.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Report to",
+          "right": "Your supervisor, immediately"
+        }
+      ],
+      "prompt": "Match each item with what the CBLM says about conflict of interest."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 17,
+        "printedPage": 17,
+        "quote": "you must report it to your supervisor immediately.",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Assess the candidate quickly",
+        "Report it to your supervisor immediately",
+        "Ignore it if the candidate agrees",
+        "Ask the candidate to keep it secret"
+      ],
+      "prompt": "You think there may be a conflict of interest. What must you do?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "you will need to be aware of possible conflicts of interests and take actions to ensure that you act ethically and responsibly.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessors must be aware of possible conflicts of interests and act ethically and responsibly."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Consult the BTEB Code of Conduct for Assessors.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Consult the BTEB Code of Conduct for Assessors."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "if you think there may be a conflict of interest you must report it to your supervisor immediately.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Report a possible conflict of interest to your supervisor immediately."
+        }
+      ],
+      "modelAnswer": "Conflict of interest: you know or are related to a candidate of your assessment event. This often comes up in close communities.\nTo handle it:\n1. Be aware of possible conflicts of interest.\n2. Act ethically and responsibly.\n3. Consult the BTEB Code of Conduct for Assessors.\n4. Report it to your supervisor immediately.",
+      "prompt": "What is conflict of interest in assessment? How should the assessor handle it?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "thinking that it can help them to know you personally or it may be that they simply feel more comfortable being assessed by someone they know.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "They think knowing you personally can help them. Or they feel more comfortable with someone they know."
+      },
+      "prompt": "Why might a relative want you to assess them?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "A situation in which an assessor's personal or professional\nrelationship or interest could affect impartial judgment. It should be disclosed and\nmanaged appropriately.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q63",
+      "kind": "paper",
+      "label": "Short Questions (Short 63)",
+      "page": 8,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is conflict of interest in assessment?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": "Identify and disclose the potential relationship or interest, then\nfollow the organisation's or NSDA Code of Conduct to protect impartiality.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q82",
+      "kind": "paper",
+      "label": "Short Questions (Short 82)",
+      "page": 11,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "How should the assessor handle a conflict of interest?",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 5,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Conflict of Interest in Assessment",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 17,
+          "printedPage": 17,
+          "quote": "Whatever the situation if you think there may be a conflict of interest you must report it to your supervisor immediately.",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Whatever the situation, report a possible conflict of interest to your supervisor immediately."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 17,
+          "printedPage": 17,
+          "quote": "they may ask you to assess them, thinking that it can help them to know you personally",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "They may ask you to assess them, thinking knowing you personally can help them."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

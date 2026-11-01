@@ -1,0 +1,387 @@
+{
+  "aliases": [
+    "Evidence-gathering tool",
+    "Assessment instruments"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 64,
+          "printed": 64
+        },
+        {
+          "pdf": 71,
+          "printed": 71
+        },
+        {
+          "pdf": 72,
+          "printed": 72
+        }
+      ],
+      "src": "cblm11"
+    }
+  ],
+  "banglaExplanation": [
+    "Assessment tool দুই ভাগে: instrument আর procedures।",
+    "Instrument হলো নির্দিষ্ট questions বা activity, যা assessment method থেকে তৈরি।",
+    "Procedures হলো instructions: কোন অবস্থায় assessment হবে আর কীভাবে রেকর্ড রাখা হবে।",
+    "নতুন tool বানানোর আগে existing tools দেখুন, এতে time আর money বাঁচে।"
+  ],
+  "breakdown": {
+    "exam": 4,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 11,
+  "errata": [],
+  "example": {
+    "bn": "ড্রাইভিং টেস্টে কাজের তালিকা হলো instrument, আর নিয়মকানুন হলো procedures।",
+    "en": "For a driving test, the instrument is the list of tasks. The procedures tell the candidate the test conditions."
+  },
+  "highlighted": true,
+  "id": "assessment-tool-instrument",
+  "importance": {
+    "bn": "Short Questions (Short 52) আর CBLM 11 Self Check 4 (Q1): 2 জায়গায় এসেছে। CBLM 11-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Short Questions (Short 52) and CBLM 11 Self Check 4 (Q1). Highlighted in CBLM 11. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "instrument আর নির্দেশনা মিলিয়ে পুরো সরঞ্জাম",
+      "en": "Assessment tool"
+    },
+    {
+      "bn": "নির্দিষ্ট প্রশ্ন বা কাজ",
+      "en": "Assessment instrument"
+    },
+    {
+      "bn": "assessment কীভাবে হবে তার নির্দেশনা",
+      "en": "Procedures"
+    },
+    {
+      "bn": "assessor কীভাবে সিদ্ধান্ত নেবেন তার নিয়ম",
+      "en": "Decision making rules"
+    },
+    {
+      "bn": "পর্যবেক্ষণের তালিকা",
+      "en": "Observation checklist"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "the specific questions or activity developed from the selected assessment method/s",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Instrument: the specific questions or activity developed from the assessment method."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "procedures - the information/instructions given to the participant and/or the assessor regarding conditions under which the assessment should be conducted and recorded",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Procedures: instructions on conditions for conducting and recording the assessment."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 64,
+        "printedPage": 64,
+        "quote": "The assessment tool contains both the instrument and the instructions for gathering and interpreting evidence",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "The assessment tool contains both the instrument and the instructions for gathering and interpreting evidence."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "The assessment tool contains both the instrument and the instructions for gathering and interpreting evidence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Assessment tool",
+          "right": "Instrument plus instructions for gathering and interpreting evidence"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "the specific questions or activity developed from the selected assessment method/s",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Assessment instrument",
+          "right": "Specific questions or activity from the assessment method"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "regarding conditions under which the assessment should be conducted and recorded",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Procedures",
+          "right": "Instructions on conditions for conducting and recording assessment"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "look over the tools that already exist. This may save you and your time and money.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Existing tools",
+          "right": "Look over them first to save time and money"
+        }
+      ],
+      "prompt": "Match each term with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 72,
+        "printedPage": 72,
+        "quote": "Oral questioning tool",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Assessment registration form",
+        "Oral questioning tool",
+        "Result sheet",
+        "Version control"
+      ],
+      "prompt": "Which of these is an assessment instrument named in the CBLM answer key?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 64,
+              "passageId": "cblm11-p64-bc368d5d",
+              "printedPage": 64,
+              "quote": "Assessment instrument/s include(s):the specific questions or activity developed from the selected assessment method/s",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "An instrument is the specific questions or activity developed from the selected assessment method."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 64,
+              "printedPage": 64,
+              "quote": "A profile of acceptable performance and the decision making rules for the assessor may also be included.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A profile of acceptable performance and decision making rules may also be included."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Observation checklist",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Oral questioning tool",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Third party report",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Three instruments: observation checklist, oral questioning tool, third party report."
+        }
+      ],
+      "modelAnswer": "An assessment instrument is the specific questions or activity developed from the selected assessment method. It may also include a profile of acceptable performance and decision making rules.\nThree assessment instruments:\n1. Observation checklist\n2. Oral questioning tool\n3. Third party report",
+      "prompt": "What is an assessment instrument? Name three assessment instruments that you may use."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "contains both the instrument and the instructions for gathering and interpreting evidence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The instrument and the instructions for gathering and interpreting evidence."
+      },
+      "prompt": "What two things does an assessment tool contain?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "•\nObservation checklist\n•\nOral questioning tool\n•\nThird party report",
+      "flags": [],
+      "id": "cblm11-sc4-q1",
+      "kind": "selfcheck",
+      "label": "CBLM 11 Self Check 4 (Q1)",
+      "page": 71,
+      "printedPage": 71,
+      "question": "Name three assessment instruments that you may use",
+      "src": "cblm11",
+      "type": "short"
+    },
+    {
+      "answer": "An assessment instrument is a specific question, task or activity\nused to collect evidence. An assessment tool also includes instructions for\ncollecting and interpreting evidence.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q52",
+      "kind": "paper",
+      "label": "Short Questions (Short 52)",
+      "page": 7,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is an assessment instrument?",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 8,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Assessment Tool and Assessment Instrument",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 64,
+          "printedPage": 64,
+          "quote": "The assessment tool contains both the instrument",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 64,
+          "printedPage": 64,
+          "quote": "the specific questions or activity developed from the selected assessment method/s",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 64,
+          "printedPage": 64,
+          "quote": "procedures - the information/instructions given to the participant and/or the assessor",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The instrument is the specific questions or activity. The assessment tool contains both instrument and procedures."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 64,
+          "printedPage": 64,
+          "quote": "Check for existing assessment tools/instruments",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 64,
+          "printedPage": 64,
+          "quote": "This may save you and your time and money.",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Check for existing assessment tools first. This may save time and money."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

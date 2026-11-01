@@ -1,0 +1,334 @@
+{
+  "id": "validating-training-requirements",
+  "canonical_title": "Validating Training Requirements",
+  "aliases": [
+    "Validating learner training requirements",
+    "Who validates training requirements"
+  ],
+  "cblmPrimary": 8,
+  "source_type": "cblm",
+  "covers": [
+    "cblm08-p10-506e6c96",
+    "cblm08-p10-74c8aab1",
+    "cblm08-p10-3104741f",
+    "cblm08-p11-151fbfa8"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Learner training requirements are validated with experts, employers, trainers and other persons/officers.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm08",
+        "page": 10,
+        "quote": "The learner training requirements can be validated with the following"
+      },
+      {
+        "src": "cblm08",
+        "page": 10,
+        "quote": "persons/officers.",
+        "passageId": "cblm08-p10-506e6c96"
+      },
+      {
+        "src": "cblm08",
+        "page": 10,
+        "quote": "Experts in the trainees trade areas."
+      },
+      {
+        "src": "cblm08",
+        "page": 10,
+        "quote": "Supervisors/ or trainees employers."
+      },
+      {
+        "src": "cblm08",
+        "page": 10,
+        "quote": "Trainers, Teachers and Assessors.",
+        "passageId": "cblm08-p10-3104741f"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Validate",
+      "bn": "যাচাই করে ঠিক আছে কিনা নিশ্চিত করা"
+    },
+    {
+      "en": "Training requirements",
+      "bn": "learner-এর কী training দরকার"
+    },
+    {
+      "en": "Stakeholder",
+      "bn": "যারা training-এর সাথে জড়িত"
+    },
+    {
+      "en": "BTEB",
+      "bn": "বাংলাদেশ কারিগরি শিক্ষা বোর্ড"
+    },
+    {
+      "en": "Consultative Committees",
+      "bn": "পরামর্শ কমিটি"
+    }
+  ],
+  "bangla_explanation": [
+    "Learner-এর কী training লাগবে, সেটা শুধু প্রশিক্ষক একা ঠিক করলে ভুল হতে পারে।",
+    "তাই experts, employers, assessors-দের সাথে মিলিয়ে training requirements যাচাই করতে হয়।",
+    "এতে training বাস্তব কাজের সাথে মিলে যায়।",
+    "পরীক্ষায় তালিকা চাইলে আটটা persons/officers-এর নাম লিখুন।"
+  ],
+  "example": {
+    "en": "An IT training centre checks its course needs with local employers and BTEB registered assessors.",
+    "bn": "IT training centre তার course-এর চাহিদা employers আর BTEB assessors-দের সাথে মিলিয়ে নেয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Experts in the trainees' trade areas.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Experts in the trainees trade areas."
+          }
+        ]
+      },
+      {
+        "text": "Supervisors or trainees' employers.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Supervisors/ or trainees employers."
+          }
+        ]
+      },
+      {
+        "text": "Training providers, employers and human resources departments.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Training providers, employers and human resources departments.",
+            "passageId": "cblm08-p10-74c8aab1"
+          }
+        ]
+      },
+      {
+        "text": "Trainers, Teachers and Assessors.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Trainers, Teachers and Assessors.",
+            "passageId": "cblm08-p10-3104741f"
+          }
+        ]
+      },
+      {
+        "text": "Participant trainee or learner who is advanced in skill.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Participant Trainee/Learner who is advanced in skill."
+          }
+        ]
+      },
+      {
+        "text": "Government regulatory bodies.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Government regulatory bodies."
+          }
+        ]
+      },
+      {
+        "text": "Consultative Committees.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 11,
+            "quote": "Consultative Committees.",
+            "passageId": "cblm08-p11-151fbfa8"
+          }
+        ]
+      },
+      {
+        "text": "BTEB registered Assessors or Assessment Centers.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 11,
+            "quote": "BTEB registered Assessors/Assessment Centers."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Consultative Committees and BTEB registered Assessors are also on the list.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 11,
+          "quote": "Consultative Committees."
+        },
+        {
+          "src": "cblm08",
+          "page": 11,
+          "quote": "BTEB registered Assessors/Assessment Centers."
+        }
+      ]
+    },
+    {
+      "text": "An advanced trainee or learner can also help validate training requirements.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 10,
+          "quote": "Participant Trainee/Learner who is advanced in skill."
+        },
+        {
+          "src": "cblm08",
+          "page": 10,
+          "quote": "The learner training requirements can be validated with the following"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "With whom can learner training requirements be validated?",
+      "modelAnswer": "Learner training requirements can be validated with these persons/officers:\n1. Experts in the trainees' trade areas\n2. Supervisors or trainees' employers\n3. Training providers, employers and HR departments\n4. Trainers, teachers and assessors\n5. Advanced participant trainees/learners\n6. Government regulatory bodies\n7. Consultative committees\n8. BTEB registered assessors/assessment centers",
+      "keyPoints": [
+        {
+          "text": "Training requirements are validated with persons or officers.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "The learner training requirements can be validated with the following"
+            },
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "persons/officers.",
+              "passageId": "cblm08-p10-506e6c96"
+            }
+          ]
+        },
+        {
+          "text": "Employers and human resources departments are included.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "Training providers, employers and human resources departments."
+            }
+          ]
+        },
+        {
+          "text": "BTEB registered Assessors or Assessment Centers are included.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 11,
+              "quote": "BTEB registered Assessors/Assessment Centers."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which of these is listed for validating learner training requirements?",
+      "options": [
+        "Government regulatory bodies",
+        "Learners' parents",
+        "Book publishers",
+        "Equipment suppliers"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm08",
+        "page": 10,
+        "quote": "Government regulatory bodies."
+      }
+    },
+    "matching": {
+      "prompt": "Match each group with its full name in the list.",
+      "pairs": [
+        {
+          "left": "Experts",
+          "right": "Experts in the trainees trade areas",
+          "cite": {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Experts in the trainees trade areas."
+          }
+        },
+        {
+          "left": "Supervisors",
+          "right": "Supervisors or trainees employers",
+          "cite": {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Supervisors/ or trainees employers."
+          }
+        },
+        {
+          "left": "Participant",
+          "right": "Trainee/Learner who is advanced in skill",
+          "cite": {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Participant Trainee/Learner who is advanced in skill."
+          }
+        },
+        {
+          "left": "BTEB",
+          "right": "Registered Assessors/Assessment Centers",
+          "cite": {
+            "src": "cblm08",
+            "page": 11,
+            "quote": "BTEB registered Assessors/Assessment Centers."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Name two people who can validate learner training requirements.",
+      "answer": {
+        "text": "Experts in the trainees' trade areas. Trainers, teachers and assessors.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Experts in the trainees trade areas."
+          },
+          {
+            "src": "cblm08",
+            "page": 10,
+            "quote": "Trainers, Teachers and Assessors."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

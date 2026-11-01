@@ -1,0 +1,857 @@
+{
+  "aliases": [
+    "Different components of a competency standard",
+    "Parts of a unit of competency"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 9,
+      "pages": [
+        {
+          "pdf": 13,
+          "printed": 13
+        },
+        {
+          "pdf": 14,
+          "printed": 14
+        },
+        {
+          "pdf": 15,
+          "printed": 15
+        }
+      ],
+      "src": "cblm09"
+    }
+  ],
+  "banglaExplanation": [
+    "Competency standard-এর প্রতিটি unit কয়েকটি নির্দিষ্ট অংশে লেখা থাকে।",
+    "Unit code and title নাম দেয়, nominal hours সময় বলে, unit descriptor ছোট summary দেয়।",
+    "Elements হলো কাজের মূল activities; performance criteria বলে কোন standard-এ করলে competent ধরা হবে।",
+    "Range statement বলে কোন contexts and conditions-এ প্রযোজ্য; evidence guide দেয় assessment-এর guidance।"
+  ],
+  "breakdown": {
+    "exam": 10,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 9,
+  "errata": [],
+  "example": {
+    "bn": "Element হলো কাজ, performance criteria হলো সেই কাজের মাপকাঠি।",
+    "en": "A baking unit has the element 'Produce biscuit dough'. Its performance criteria tell the assessor what standard is competent."
+  },
+  "highlighted": true,
+  "id": "competency-standard-components",
+  "importance": {
+    "bn": "Final Formative 01 (Short 16), Short Questions (Short 2, 31, Short 40), Unit 01 Answers (MCQ 8, Matching 13, Short 18, 24), Unit 01 Questions (MCQ 8, Matching 13, Short 18, 24) আর Unit 01 Short Questions (Short 9, 13): 5 জায়গায় এসেছে। CBLM 9-এ highlight করা আছে। পরীক্ষায় matching, MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Final Formative 01 (Short 16), Short Questions (Short 2, 31, Short 40), Unit 01 Answers (MCQ 8, Matching 13, Short 18, 24), Unit 01 Questions (MCQ 8, Matching 13, Short 18, 24) and Unit 01 Short Questions (Short 9, 13). Highlighted in CBLM 9. Comes as matching, MCQ and short question."
+  },
+  "keywords": [
+    {
+      "bn": "unit-এর সংক্ষিপ্ত বিবরণ",
+      "en": "Unit descriptor"
+    },
+    {
+      "bn": "unit-এর একটি মূল কাজ বা অংশ",
+      "en": "Element of competency"
+    },
+    {
+      "bn": "কোন মানে কাজ করলে competent ধরা হবে",
+      "en": "Performance criteria"
+    },
+    {
+      "bn": "কোন পরিস্থিতি ও শর্তে দক্ষতা প্রযোজ্য",
+      "en": "Range statement"
+    },
+    {
+      "bn": "assessment-এর নির্দেশিকা",
+      "en": "Evidence guide"
+    },
+    {
+      "bn": "একজন নতুন ট্রেইনির আনুমানিক সময়",
+      "en": "Nominal hours"
+    }
+  ],
+  "likelyTypes": [
+    "matching",
+    "mcq",
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 13,
+            "passageId": "cblm09-p13-43b4d1d4",
+            "printedPage": 13,
+            "quote": "Unit code and title",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "The unit title refers to an area of competence required to perform a particular function.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Unit code and title: an area of competence for a particular function."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 14,
+            "passageId": "cblm09-p14-bc60205d",
+            "printedPage": 14,
+            "quote": "Nominal hours",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "This is a suggested number of hours that a novice trainee may (on average) take to develop the specified competency.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Nominal hours: suggested hours a novice trainee may take to develop the competency."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 14,
+            "passageId": "cblm09-p14-40e0ce8a",
+            "printedPage": 14,
+            "quote": "The unit descriptor gives a short summary of the scope and level of performance required.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Unit descriptor: a short summary of the scope and level of performance."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 14,
+            "passageId": "cblm09-p14-c6d18a2a",
+            "printedPage": 14,
+            "quote": "Elements of competency or simply elements refer to any of sub component of a unit of competency which describe the key activities or elements of the work covered by the unit.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Elements of competency: sub components that describe key activities of the work."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 14,
+            "passageId": "cblm09-p14-8d5fee16",
+            "printedPage": 14,
+            "quote": "Performance criteria specify the standards of performance in terms of a set of outcomes which need to be achieved in order to be deemed competent.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Performance criteria: standards of performance needed to be deemed competent."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 14,
+            "passageId": "cblm09-p14-e30e49d6",
+            "printedPage": 14,
+            "quote": "The range statement also referred to the range of variables specifies the range of contexts and conditions under which the competency is applicable.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Range statement: the contexts and conditions where the competency is applicable."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 15,
+            "printedPage": 15,
+            "quote": "The evidence guide provides guidance to the interpretation and assessment of the unit of competency including",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Evidence guide: guidance to the interpretation and assessment of the unit."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 15,
+            "printedPage": 15,
+            "quote": "This provides information for potential training provider and also sets out the quality assurance requirements that have to be met by the training provider",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Accreditation requirements: quality assurance requirements for the training provider."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 9,
+        "match": "exact",
+        "page": 13,
+        "printedPage": 13,
+        "quote": "Competency Standard includes details of the skills, knowledge, attitude and the performance criteria to indicate competence and specific evidence required to prove competency.",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "A competency standard details skills, knowledge, attitude, performance criteria and evidence to prove competency."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "The unit descriptor gives a short summary of the scope and level of performance required.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Unit descriptor",
+          "right": "Short summary of scope and level of performance"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "This is a suggested number of hours that a novice trainee may (on average) take to develop the specified competency.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Nominal hours",
+          "right": "Suggested hours for a novice trainee"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Elements of competency or simply elements refer to any of sub component of a unit of competency which describe the key activities or elements of the work covered by the unit.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Element of competency",
+          "right": "Key activities of the work covered by the unit"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Performance criteria specify the standards of performance in terms of a set of outcomes which need to be achieved in order to be deemed competent.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Performance criteria",
+          "right": "Standards of performance to be deemed competent"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "The range statement also referred to the range of variables specifies the range of contexts and conditions under which the competency is applicable.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Range statement",
+          "right": "Contexts and conditions where the competency is applicable"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 15,
+            "printedPage": 15,
+            "quote": "The evidence guide provides guidance to the interpretation and assessment of the unit of competency including",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Evidence guide",
+          "right": "Guidance to interpretation and assessment of the unit"
+        }
+      ],
+      "prompt": "Match each component with its description."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 9,
+        "match": "exact",
+        "page": 14,
+        "printedPage": 14,
+        "quote": "The unit descriptor gives a short summary of the scope and level of performance required.",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      },
+      "answerIndex": 3,
+      "options": [
+        "Performance criteria",
+        "Nominal hours",
+        "Range of variable",
+        "Unit descriptor"
+      ],
+      "prompt": "The ______ gives a short summary which specifies the scope and level of performance required."
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 14,
+              "passageId": "cblm09-p14-4ebef692",
+              "printedPage": 14,
+              "quote": "Legislation such as Occupational Safety and Health",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "The range of equipment, tools, processes and procedures",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Special characteristics and needs of learners group",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 15,
+              "passageId": "cblm09-p15-053b306f",
+              "printedPage": 15,
+              "quote": "Particular locations",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Range statements include Occupational Safety and Health legislation, equipment, tools, processes, learner needs, locations."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "the underpinning knowledge, skills and attitude requirements for the unit",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "the aspects which need to be emphasised in assessment,",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "relationships to other units, and",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "the required evidence of competency",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The evidence guide covers underpinning knowledge, assessment emphasis, relationships to other units and required evidence."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 15,
+              "passageId": "cblm09-p15-a785bdbf",
+              "printedPage": 15,
+              "quote": "Sample of a Unit of competency for Bangladesh TVET Teachers/",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "TVTENV502- Address learning needs and foster and promote a",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "Nominal Hours 16",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The sample unit TVTENV502 has 16 nominal hours."
+        }
+      ],
+      "modelAnswer": "Each competency standard describes:\n1. Unit code and title\n2. Nominal hours\n3. Unit descriptor\n4. Elements of competency\n5. Performance criteria\n6. Range statement (range of variables)\n7. Evidence guide\n8. Accreditation requirements",
+      "prompt": "What are the components of a competency standard?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 14,
+            "passageId": "cblm09-p14-07181974",
+            "printedPage": 14,
+            "quote": "The range statement also referred to the range of variables specifies the range of contexts and conditions under which the competency is applicable.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "It specifies the range of contexts and conditions under which the competency is applicable."
+      },
+      "prompt": "What does a range statement specify?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-final-formative-01-q16",
+      "kind": "paper",
+      "label": "Final Formative 01 (Short 16)",
+      "page": 2,
+      "paperClass": "formative",
+      "printedPage": null,
+      "question": "What are the components of a competency standard?",
+      "src": "paper-final-formative-01",
+      "type": "short"
+    },
+    {
+      "answer": "A range statement may include applicable legislation (such as\nOSH), tools, equipment, processes and procedures, special characteristics and\nneeds of learner groups, location, and the application of work under the quality-\nassurance system.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q2",
+      "kind": "paper",
+      "label": "Short Questions (Short 2)",
+      "page": 1,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What type of information is included in a range statement?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": "A basic task or function within a unit of competency. It describes a\ntask that can be performed as part of a broader job or role.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q31",
+      "kind": "paper",
+      "label": "Short Questions (Short 31)",
+      "page": 4,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is an element of competency?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": "Performance criteria specify the standard of performance that must\nbe achieved to be considered competent.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q40",
+      "kind": "paper",
+      "label": "Short Questions (Short 40)",
+      "page": 5,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What are performance criteria?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-answer-q8",
+      "kind": "paper",
+      "label": "Unit 01 Answers (MCQ 8)",
+      "options": [
+        "Performance criteria",
+        "Nominal hours",
+        "Range of variable",
+        "Unit descriptor"
+      ],
+      "page": 2,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "The................ gives a short summary which specifies the scope and level of performance required.",
+      "src": "paper-unit01-answer",
+      "type": "mcq"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-mcq-q8",
+      "kind": "paper",
+      "label": "Unit 01 Questions (MCQ 8)",
+      "options": [
+        "Performance criteria",
+        "Nominal hours",
+        "Range of variable",
+        "Unit descriptor"
+      ],
+      "page": 2,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "The................ gives a short summary which specifies the scope and level of performance required.",
+      "src": "paper-unit01-mcq",
+      "type": "mcq"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": "F",
+      "flags": [],
+      "id": "paper-unit01-answer-q13",
+      "kind": "paper",
+      "label": "Unit 01 Answers (Matching 13)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Specific benchmarks that measure successful completion of an element.",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Evidence Guide"
+        },
+        {
+          "letter": "B",
+          "text": "Range Statement"
+        },
+        {
+          "letter": "C",
+          "text": "Underpinning knowledge for UoC"
+        },
+        {
+          "letter": "D",
+          "text": "Element of Competency"
+        },
+        {
+          "letter": "E",
+          "text": "Competency standard"
+        },
+        {
+          "letter": "F",
+          "text": "Performance Criteria"
+        }
+      ],
+      "src": "paper-unit01-answer",
+      "type": "matching"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-mcq-q13",
+      "kind": "paper",
+      "label": "Unit 01 Questions (Matching 13)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Specific benchmarks that measure successful completion of an element.",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Evidence Guide"
+        },
+        {
+          "letter": "B",
+          "text": "Range Statement"
+        },
+        {
+          "letter": "C",
+          "text": "Underpinning knowledge for UoC"
+        },
+        {
+          "letter": "D",
+          "text": "Element of Competency"
+        },
+        {
+          "letter": "E",
+          "text": "Competency standard"
+        },
+        {
+          "letter": "F",
+          "text": "Performance Criteria"
+        }
+      ],
+      "src": "paper-unit01-mcq",
+      "type": "matching"
+    },
+    {
+      "answer": "An element of competency is a term used in industry competency standards, serving as\nthe basic building block of a unit of competence. It describes the tasks that contribute to\nthe broader function or job.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit01-short-q9",
+      "kind": "paper",
+      "label": "Unit 01 Short Questions (Short 9)",
+      "page": 2,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is an element of competency?",
+      "src": "paper-unit01-short",
+      "type": "short"
+    },
+    {
+      "answer": "The evidence guide provides guidance to the interpretation and assessment of the unit of\ncompetency. including\n• The underpinning knowledge, skills and attitude requirements for the unit\n• The aspects which need to be emphasized in assessment,\n• Relationships to other units, and\n• The required evidence of competency.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit01-answer-q18",
+      "kind": "paper",
+      "label": "Unit 01 Answers (Short 18)",
+      "page": 4,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What information does an \"evidence guide\" provide for a unit of competency?",
+      "src": "paper-unit01-answer",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-mcq-q18",
+      "kind": "paper",
+      "label": "Unit 01 Questions (Short 18)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What information does an \"evidence guide\" provide for a unit of competency?",
+      "src": "paper-unit01-mcq",
+      "type": "short"
+    },
+    {
+      "answer": "The evidence guide provides guidance to the interpretation and assessment of the unit of\ncompetency. including\n•\nThe underpinning knowledge, skills and attitude requirements for the unit\n•\nThe aspects which need to be emphasized in assessment,\n•\nRelationships to other units, and\n•\nThe required evidence of competency.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit01-short-q13",
+      "kind": "paper",
+      "label": "Unit 01 Short Questions (Short 13)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What information does an \"evidence guide\" provide for a unit of competency?",
+      "src": "paper-unit01-short",
+      "type": "short"
+    },
+    {
+      "answer": "Evidence guide",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit01-answer-q24",
+      "kind": "paper",
+      "label": "Unit 01 Answers (Short 24)",
+      "page": 5,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Which section of a competency standard should you consult to determine assessment guidelines?",
+      "src": "paper-unit01-answer",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-mcq-q24",
+      "kind": "paper",
+      "label": "Unit 01 Questions (Short 24)",
+      "page": 4,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Which section of a competency standard should you consult to determine assessment guidelines?",
+      "src": "paper-unit01-mcq",
+      "type": "short"
+    }
+  ],
+  "score": 14,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Components of a Competency Standard (Unit of Competency)",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 14,
+          "passageId": "cblm09-p14-f350d780",
+          "printedPage": 14,
+          "quote": "It is also referred to as assessment criteria in curriculum documents",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Performance criteria are also referred to as assessment criteria in curriculum documents."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 14,
+          "passageId": "cblm09-p14-f0a38658",
+          "printedPage": 14,
+          "quote": "The range statement also referred to the range of variables specifies the range of contexts and conditions under which the competency is applicable.",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The range statement is also referred to as the range of variables."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 13,
+          "printedPage": 13,
+          "quote": "A competency standard includes:",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 13,
+          "printedPage": 13,
+          "quote": "quality indicators",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 13,
+          "printedPage": 13,
+          "quote": "assessment guidelines",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Different list: a competency standard also includes quality indicators and assessment guidelines."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

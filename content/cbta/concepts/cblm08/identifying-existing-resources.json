@@ -1,0 +1,253 @@
+{
+  "id": "identifying-existing-resources",
+  "canonical_title": "Identifying Existing Learning Resources",
+  "aliases": [
+    "Identify existing resources",
+    "Using existing resources"
+  ],
+  "cblmPrimary": 8,
+  "source_type": "cblm",
+  "covers": [
+    "cblm08-p13-36d64040",
+    "cblm08-p13-637250c7",
+    "cblm08-p13-9d93f811",
+    "cblm08-p13-8a8178a3"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Identify available resources first: books, websites, teacher notes, hardware and software.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm08",
+        "page": 13,
+        "quote": "Identify available resources - books, websites, teacher notes, hardware and software,",
+        "passageId": "cblm08-p13-36d64040"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Existing resources",
+      "bn": "আগে থেকেই আছে এমন শেখার উপকরণ"
+    },
+    {
+      "en": "Copyright laws",
+      "bn": "অন্যের লেখা/কাজ ব্যবহারের আইন"
+    },
+    {
+      "en": "Permissions",
+      "bn": "ব্যবহারের অনুমতি"
+    },
+    {
+      "en": "Repurposing",
+      "bn": "পুরোনো content নতুন কাজে লাগানো"
+    },
+    {
+      "en": "Fit for purpose",
+      "bn": "কাজের উপযোগী"
+    }
+  ],
+  "bangla_explanation": [
+    "নতুন resource বানানোর আগে দেখুন আগে থেকে কী আছে: books, websites, teacher notes।",
+    "আগের resource repurposing করলে সময় বাঁচে।",
+    "কিন্তু copyright laws ভাঙা যাবে না, আর permissions নিতে হবে।",
+    "Content যেন fit for purpose হয়, সেটাও নিশ্চিত করুন।"
+  ],
+  "example": {
+    "en": "A trainer finds a welding safety video online. She asks the owner for permission first.",
+    "bn": "অনলাইনে welding safety video পেলেও আগে মালিকের permission নিতে হবে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Are not in breach of copyright laws.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 13,
+            "quote": "are not in breach of copyright laws",
+            "passageId": "cblm08-p13-9d93f811"
+          }
+        ]
+      },
+      {
+        "text": "Seek appropriate permissions before using or adapting content.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 13,
+            "quote": "seek appropriate permissions before using or adapting content"
+          }
+        ]
+      },
+      {
+        "text": "Apply principles of online learning design so content is fit for purpose.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 13,
+            "quote": "apply principles of online learning design to ensure the content is fit for purpose",
+            "passageId": "cblm08-p13-8a8178a3"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "A print based resource cannot simply be converted to HTML and called online.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 13,
+          "quote": "Remember that a print based resource covering the same material cannot simply be"
+        },
+        {
+          "src": "cblm08",
+          "page": 13,
+          "quote": "converted to HTML and then called an online learning resource!"
+        }
+      ]
+    },
+    {
+      "text": "Existing resources still need permissions before using or adapting content.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 13,
+          "quote": "If you are considering using existing resources make sure you:",
+          "passageId": "cblm08-p13-637250c7"
+        },
+        {
+          "src": "cblm08",
+          "page": 13,
+          "quote": "seek appropriate permissions before using or adapting content"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What must you make sure of before using existing resources?",
+      "modelAnswer": "First identify available resources: books, websites, teacher notes, hardware and software. If you use existing resources, make sure you:\n1. Are not in breach of copyright laws\n2. Seek appropriate permissions before using or adapting content\n3. Apply principles of online learning design so the content is fit for purpose",
+      "keyPoints": [
+        {
+          "text": "Identify available resources such as books, websites and teacher notes.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 13,
+              "quote": "Identify available resources - books, websites, teacher notes, hardware and software,",
+              "passageId": "cblm08-p13-36d64040"
+            }
+          ]
+        },
+        {
+          "text": "Do not breach copyright laws.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 13,
+              "quote": "are not in breach of copyright laws",
+              "passageId": "cblm08-p13-9d93f811"
+            }
+          ]
+        },
+        {
+          "text": "Seek appropriate permissions before using or adapting content.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 13,
+              "quote": "seek appropriate permissions before using or adapting content"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Before adapting existing content, what should you seek?",
+      "options": [
+        "Appropriate permissions",
+        "A new computer",
+        "Higher marks",
+        "More learners"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm08",
+        "page": 13,
+        "quote": "seek appropriate permissions before using or adapting content"
+      }
+    },
+    "matching": {
+      "prompt": "Match each check with its purpose.",
+      "pairs": [
+        {
+          "left": "Copyright laws",
+          "right": "Are not in breach of them",
+          "cite": {
+            "src": "cblm08",
+            "page": 13,
+            "quote": "are not in breach of copyright laws",
+            "passageId": "cblm08-p13-9d93f811"
+          }
+        },
+        {
+          "left": "Permissions",
+          "right": "Seek before using or adapting content",
+          "cite": {
+            "src": "cblm08",
+            "page": 13,
+            "quote": "seek appropriate permissions before using or adapting content"
+          }
+        },
+        {
+          "left": "Online learning design",
+          "right": "Ensure the content is fit for purpose",
+          "cite": {
+            "src": "cblm08",
+            "page": 13,
+            "quote": "apply principles of online learning design to ensure the content is fit for purpose",
+            "passageId": "cblm08-p13-8a8178a3"
+          }
+        },
+        {
+          "left": "Available resources",
+          "right": "Books, websites, teacher notes",
+          "cite": {
+            "src": "cblm08",
+            "page": 13,
+            "quote": "Identify available resources - books, websites, teacher notes, hardware and software,",
+            "passageId": "cblm08-p13-36d64040"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Where can you start when identifying existing resources?",
+      "answer": {
+        "text": "Start with available resources: books, websites, teacher notes, hardware and software.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 13,
+            "quote": "Identify available resources - books, websites, teacher notes, hardware and software,",
+            "passageId": "cblm08-p13-36d64040"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

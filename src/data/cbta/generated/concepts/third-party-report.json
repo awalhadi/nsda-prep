@@ -1,0 +1,389 @@
+{
+  "aliases": [
+    "Third party evidence"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 68,
+          "printed": 68
+        },
+        {
+          "pdf": 71,
+          "printed": 71
+        }
+      ],
+      "src": "cblm11"
+    }
+  ],
+  "banglaExplanation": [
+    "Third party report মানে এমন কারো লেখা মতামত, যিনি candidate-এর কাজ নিজে দেখেছেন।",
+    "সাধারণত person in authority, যেমন supervisor, এটা দেন।",
+    "এটা assessor observation যাচাই করতে আর consistency দেখতে কাজে লাগে।",
+    "কিন্তু authenticity নিয়ে সন্দেহ থাকলে এর ব্যবহার সীমিত; আত্মীয় বা close friend ফরম পূরণ করবেন না।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 11,
+  "errata": [],
+  "example": {
+    "bn": "গার্মেন্টস কারখানার supervisor trainee-র কাজ নিয়ে third party report দেন।",
+    "en": "A garments factory supervisor fills in a report about a trainee machine operator. She worked with him for six months."
+  },
+  "highlighted": true,
+  "id": "third-party-report",
+  "importance": {
+    "bn": "CBLM 11 Self Check 4 (Q3)-এ এসেছে। CBLM 11-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in CBLM 11 Self Check 4 (Q3). Highlighted in CBLM 11. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "assessor ও candidate ছাড়া অন্য কেউ, যেমন supervisor",
+      "en": "Third party"
+    },
+    {
+      "bn": "নিজের চোখে দেখা তথ্য",
+      "en": "First hand information"
+    },
+    {
+      "bn": "দায়িত্বপ্রাপ্ত ব্যক্তি, যেমন employer",
+      "en": "Person in authority"
+    },
+    {
+      "bn": "যাচাই করা",
+      "en": "Verifying"
+    },
+    {
+      "bn": "প্রমাণটা সত্যিই candidate-এর কিনা",
+      "en": "Authenticity"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 68,
+            "printedPage": 68,
+            "quote": "Evidence provided by person who has first hand information on a candidate's performance",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Evidence provided by person who has first hand information on a candidate's performance"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 68,
+            "printedPage": 68,
+            "quote": "Often supplied by person in authority",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Often supplied by person in authority"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 68,
+            "printedPage": 68,
+            "quote": "Useful for verifying assessor observation",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Useful for verifying assessor observation"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 68,
+            "printedPage": 68,
+            "quote": "Useful in assessing consistency of candidate performance",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Useful in assessing consistency of candidate performance"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 68,
+            "printedPage": 68,
+            "quote": "Has limited use in situations where authenticity is an issue.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Has limited use in situations where authenticity is an issue."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 68,
+        "passageId": "cblm11-p68-ae694b07",
+        "printedPage": 68,
+        "quote": "Evidence provided by person who has first hand information on a candidate's performance",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Third party report: evidence provided by person who has first hand information on performance."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 68,
+            "printedPage": 68,
+            "quote": "Evidence provided by person who has first hand information on a candidate's performance",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Provided by",
+          "right": "A person with first hand information"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 68,
+            "printedPage": 68,
+            "quote": "Often supplied by person in authority",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Often supplied by",
+          "right": "Person in authority"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 68,
+            "printedPage": 68,
+            "quote": "Useful for verifying assessor observation",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Useful for",
+          "right": "Verifying assessor observation"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 68,
+            "printedPage": 68,
+            "quote": "Useful in assessing consistency of candidate performance",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Also useful for",
+          "right": "Assessing consistency of candidate performance"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 68,
+            "printedPage": 68,
+            "quote": "Has limited use in situations where authenticity is an issue.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Limited use",
+          "right": "Where authenticity is an issue"
+        }
+      ],
+      "prompt": "Match each feature of a third party report."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 68,
+        "printedPage": 68,
+        "quote": "Useful for verifying assessor observation",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Replacing all other evidence",
+        "Verifying assessor observation",
+        "Proving authenticity in every case",
+        "Writing the assessment plan"
+      ],
+      "prompt": "A third party report is useful for:"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 68,
+              "printedPage": 68,
+              "quote": "Often supplied by person in authority",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It is often supplied by a person in authority."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 68,
+              "printedPage": 68,
+              "quote": "Useful for verifying assessor observation",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It is useful for verifying assessor observation."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 68,
+              "printedPage": 68,
+              "quote": "Has limited use in situations where authenticity is an issue.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It has limited use where authenticity is an issue."
+        }
+      ],
+      "modelAnswer": "A third party report is evidence provided by a person who has first hand information on a candidate's performance.\n1. Often supplied by a person in authority\n2. Useful for verifying assessor observation\n3. Useful in assessing consistency of candidate performance\n4. Has limited use where authenticity is an issue",
+      "prompt": "What do you explain third party report?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 68,
+            "printedPage": 68,
+            "quote": "Evidence provided by person who has first hand information on a candidate's performance",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 68,
+            "printedPage": 68,
+            "quote": "Often supplied by person in authority",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "A person with first hand information on the candidate's performance. Often a person in authority."
+      },
+      "prompt": "Who provides a third party report?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Third party report\no Evidence provided by person who has first hand information on a\ncandidate's performance\no Often supplied by person in authority\no Useful for verifying assessor observation\no Useful in assessing consistency of candidate performance\no Has limited use in situations where authenticity is an issue.",
+      "flags": [],
+      "id": "cblm11-sc4-q3",
+      "kind": "selfcheck",
+      "label": "CBLM 11 Self Check 4 (Q3)",
+      "page": 71,
+      "printedPage": 71,
+      "question": "What do you explain third party report?",
+      "src": "cblm11",
+      "type": "short"
+    }
+  ],
+  "score": 6,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Third Party Report",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 68,
+          "printedPage": 68,
+          "quote": "Has limited use in situations where authenticity is an issue.",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "It has limited use in situations where authenticity is an issue."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 68,
+          "printedPage": 68,
+          "quote": "Please do not complete the form if you are a relative, close friend or have a conflict of interest",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "A relative, close friend or person with a conflict of interest should not complete it."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

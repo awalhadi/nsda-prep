@@ -1,0 +1,304 @@
+{
+  "id": "session-sequencing",
+  "canonical_title": "Sequencing the Content of a Session",
+  "aliases": [
+    "Sequencing",
+    "Simple to complex",
+    "Key principles for organising session content"
+  ],
+  "cblmPrimary": 9,
+  "source_type": "cblm",
+  "covers": [
+    "cblm09-p36-66c4d1ec",
+    "cblm09-p36-2978e0c3",
+    "cblm09-p36-fc7a734d",
+    "cblm09-p36-0b5e7f01",
+    "cblm09-p36-aad940aa"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Training should always be planned from the simple to the complex.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm09",
+        "page": 36,
+        "quote": "Training should always be planned from the \"simple to the complex\", which allows the learner to learn in a series of building blocks.",
+        "passageId": "cblm09-p36-fc7a734d"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Sequencing",
+      "bn": "বিষয়গুলো কোন ক্রমে শেখানো হবে"
+    },
+    {
+      "en": "Simple to complex",
+      "bn": "সহজ থেকে কঠিন"
+    },
+    {
+      "en": "Known to unknown",
+      "bn": "জানা থেকে অজানা"
+    },
+    {
+      "en": "Concrete to abstract",
+      "bn": "বাস্তব থেকে বিমূর্ত"
+    },
+    {
+      "en": "Building blocks",
+      "bn": "ইটের মতো ধাপে ধাপে গড়ে ওঠা"
+    }
+  ],
+  "bangla_explanation": [
+    "Sequencing মানে কোন বিষয় আগে, কোনটা পরে শেখাবেন।",
+    "সবসময় simple থেকে complex-এ যান, যেন learner building blocks-এর মতো ধাপে ধাপে শেখে।",
+    "Known থেকে unknown, general থেকে specific, concrete থেকে abstract।",
+    "সম্ভব হলে theory-কে practice-এর সাথে মিলিয়ে শেখান।"
+  ],
+  "example": {
+    "en": "A sewing trainer first teaches a straight seam. Then a curved seam. Then a full shirt collar.",
+    "bn": "সহজ সেলাই আগে, কঠিন কলার পরে: এটাই simple to complex।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "From the simple to the complex.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 36,
+            "quote": "Training should always be planned from the \"simple to the complex\", which allows the learner to learn in a series of building blocks."
+          }
+        ]
+      },
+      {
+        "text": "From the known to the unknown.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 36,
+            "quote": "Other key principles to consider in organising the content of a session are that information should be sequenced: • from the known to the unknown",
+            "passageId": "cblm09-p36-aad940aa"
+          }
+        ]
+      },
+      {
+        "text": "From general to specific.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 36,
+            "quote": "from general to specific"
+          }
+        ]
+      },
+      {
+        "text": "From concrete to abstract.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 36,
+            "quote": "from concrete to abstract"
+          }
+        ]
+      },
+      {
+        "text": "From small task to large task.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 36,
+            "quote": "from small task to large task"
+          }
+        ]
+      },
+      {
+        "text": "From individual to group.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 36,
+            "quote": "from individual to group"
+          }
+        ]
+      },
+      {
+        "text": "From older to newer.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 36,
+            "quote": "from older to newer."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Example: establish why you plan before you examine methods of planning.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 36,
+          "quote": "when you teach strategic planning you should establish why you plan before you move on to examine different methods of planning."
+        }
+      ]
+    },
+    {
+      "text": "Sequence from the known to the unknown, not the reverse.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 36,
+          "quote": "information should be sequenced: • from the known to the unknown"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Write the key principles for sequencing the content of a session.",
+      "modelAnswer": "Training should be planned from simple to complex, like building blocks. Information should also be sequenced:\n1. From the known to the unknown\n2. From general to specific\n3. From concrete to abstract\n4. From small task to large task\n5. From individual to group\n6. From older to newer",
+      "keyPoints": [
+        {
+          "text": "Simple to complex allows the learner to learn in a series of building blocks.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 36,
+              "quote": "Training should always be planned from the \"simple to the complex\", which allows the learner to learn in a series of building blocks.",
+              "passageId": "cblm09-p36-0b5e7f01"
+            }
+          ]
+        },
+        {
+          "text": "Sequencing is also an important consideration when planning a session.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 36,
+              "quote": "Sequencing is also an important consideration when planning a session.",
+              "passageId": "cblm09-p36-66c4d1ec"
+            }
+          ]
+        },
+        {
+          "text": "One key learning principle relates to the need for sequencing of information.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 36,
+              "quote": "one of the key learning principles relates to the need for sequencing of information.",
+              "passageId": "cblm09-p36-2978e0c3"
+            }
+          ]
+        },
+        {
+          "text": "Where possible, integrate theory with practice so students understand the relevance.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 36,
+              "quote": "Where possible, theory should be integrated with practice so student can understand the relevance."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which sequence lets the learner learn in a series of building blocks?",
+      "options": [
+        "Simple to complex",
+        "Abstract to concrete",
+        "Group to individual",
+        "Newer to older"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm09",
+        "page": 36,
+        "quote": "Training should always be planned from the \"simple to the complex\", which allows the learner to learn in a series of building blocks."
+      }
+    },
+    "matching": {
+      "prompt": "Match the start of each sequence with its end.",
+      "pairs": [
+        {
+          "left": "From the known",
+          "right": "To the unknown",
+          "cite": {
+            "src": "cblm09",
+            "page": 36,
+            "quote": "from the known to the unknown"
+          }
+        },
+        {
+          "left": "From general",
+          "right": "To specific",
+          "cite": {
+            "src": "cblm09",
+            "page": 36,
+            "quote": "from general to specific"
+          }
+        },
+        {
+          "left": "From concrete",
+          "right": "To abstract",
+          "cite": {
+            "src": "cblm09",
+            "page": 36,
+            "quote": "from concrete to abstract"
+          }
+        },
+        {
+          "left": "From small task",
+          "right": "To large task",
+          "cite": {
+            "src": "cblm09",
+            "page": 36,
+            "quote": "from small task to large task"
+          }
+        },
+        {
+          "left": "From individual",
+          "right": "To group",
+          "cite": {
+            "src": "cblm09",
+            "page": 36,
+            "quote": "from individual to group"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why should training be planned from simple to complex?",
+      "answer": {
+        "text": "It allows the learner to learn in a series of building blocks.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 36,
+            "quote": "Training should always be planned from the \"simple to the complex\", which allows the learner to learn in a series of building blocks."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

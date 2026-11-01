@@ -1,0 +1,286 @@
+{
+  "id": "portfolio-of-evidence",
+  "canonical_title": "Portfolio of Evidence",
+  "aliases": [
+    "Portfolio",
+    "Portfolio evaluation form"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p69-70594d67"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "A portfolio is a collection of evidence presented to an assessor to prove competence.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 69,
+        "quote": "A portfolio is a collection of evidence that may be presented to an assessor to prove your competence to do a job or task.",
+        "passageId": "cblm11-p69-70594d67"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Portfolio",
+      "bn": "প্রমাণের সংগ্রহ বা ফাইল"
+    },
+    {
+      "en": "Collection of evidence",
+      "bn": "অনেক প্রমাণ একসাথে"
+    },
+    {
+      "en": "Certificates",
+      "bn": "সনদপত্র"
+    },
+    {
+      "en": "Work samples",
+      "bn": "নিজের করা কাজের নমুনা"
+    },
+    {
+      "en": "Evaluation form",
+      "bn": "portfolio যাচাইয়ের ফরম"
+    }
+  ],
+  "bangla_explanation": [
+    "Portfolio হলো প্রার্থীর প্রমাণের একটা ফাইল, যা assessor-কে দেখানো হয়।",
+    "এতে থাকতে পারে certificates, workbooks, references, photos, work journal, awards, work samples।",
+    "Portfolio জমা দিলে assessor একটা evaluation form দিয়ে যাচাই করেন।",
+    "ফরমে দেখা হয় evidence valid, authentic, sufficient, current, recent আর consistent কিনা।"
+  ],
+  "example": {
+    "en": "A cook brings a file to the assessor. It has training certificates, photos of dishes and sample menus.",
+    "bn": "একজন রাঁধুনি certificates, খাবারের ছবি আর menu দিয়ে portfolio বানান।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Training results / certificates",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 69,
+            "quote": "Training results / certificates"
+          }
+        ]
+      },
+      {
+        "text": "Training workbooks",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 69,
+            "quote": "Training workbooks"
+          }
+        ]
+      },
+      {
+        "text": "References from colleagues / employers",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 69,
+            "quote": "References from colleagues / employers"
+          }
+        ]
+      },
+      {
+        "text": "Job descriptions / work experience",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 69,
+            "quote": "Job descriptions / work experience"
+          }
+        ]
+      },
+      {
+        "text": "Photos / videos",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 69,
+            "quote": "Photos / videos"
+          }
+        ]
+      },
+      {
+        "text": "Work journal / diary",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 69,
+            "quote": "Work journal / diary"
+          }
+        ]
+      },
+      {
+        "text": "Awards",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 69,
+            "quote": "o Awards o Work samples"
+          }
+        ]
+      },
+      {
+        "text": "Work samples: menus, letters, memos, budgets.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 69,
+            "quote": "Work samples - menus, letters, memos, budgets"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Where a portfolio is presented, the assessor needs an evaluation form.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 69,
+          "quote": "Where a portfolio is presented you will need to create an evaluation form"
+        }
+      ]
+    },
+    {
+      "text": "The evaluation form checks the evidence is valid, authentic, sufficient, current, recent and consistent.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 69,
+          "quote": "The evidence provided by the candidate is: valid authentic sufficient current recent consistent"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is a portfolio? What could be included in a portfolio of evidence?",
+      "modelAnswer": "A portfolio is a collection of evidence presented to an assessor to prove competence to do a job or task. It may include:\n1. Training results / certificates\n2. Training workbooks\n3. References from colleagues / employers\n4. Job descriptions / work experience\n5. Photos / videos\n6. Work journal / diary\n7. Awards\n8. Work samples",
+      "keyPoints": [
+        {
+          "text": "A portfolio proves your competence to do a job or task.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 69,
+              "quote": "to prove your competence to do a job or task"
+            }
+          ]
+        },
+        {
+          "text": "Work samples include menus, letters, memos and budgets.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 69,
+              "quote": "Work samples - menus, letters, memos, budgets"
+            }
+          ]
+        },
+        {
+          "text": "Where a portfolio is presented, create an evaluation form.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 69,
+              "quote": "Where a portfolio is presented you will need to create an evaluation form"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "What is a portfolio?",
+      "options": [
+        "A list of oral questions",
+        "A collection of evidence presented to an assessor",
+        "A report from a supervisor only",
+        "A map of performance criteria"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 69,
+        "quote": "A portfolio is a collection of evidence that may be presented to an assessor"
+      }
+    },
+    "matching": {
+      "prompt": "Match each portfolio item with an example.",
+      "pairs": [
+        {
+          "left": "Training results",
+          "right": "Certificates",
+          "cite": {
+            "src": "cblm11",
+            "page": 69,
+            "quote": "Training results / certificates"
+          }
+        },
+        {
+          "left": "References",
+          "right": "From colleagues / employers",
+          "cite": {
+            "src": "cblm11",
+            "page": 69,
+            "quote": "References from colleagues / employers"
+          }
+        },
+        {
+          "left": "Work journal",
+          "right": "Diary",
+          "cite": {
+            "src": "cblm11",
+            "page": 69,
+            "quote": "Work journal / diary"
+          }
+        },
+        {
+          "left": "Work samples",
+          "right": "Menus, letters, memos, budgets",
+          "cite": {
+            "src": "cblm11",
+            "page": 69,
+            "quote": "Work samples - menus, letters, memos, budgets"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What does the assessor need when a portfolio is presented?",
+      "answer": {
+        "text": "The assessor needs to create an evaluation form for the portfolio.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 69,
+            "quote": "Where a portfolio is presented you will need to create an evaluation form"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

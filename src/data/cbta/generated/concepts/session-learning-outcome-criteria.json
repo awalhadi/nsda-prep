@@ -1,0 +1,404 @@
+{
+  "aliases": [
+    "Session learning outcome",
+    "Identify the learning outcomes",
+    "Three criteria of appropriate learning outcomes",
+    "Action verbs for learning outcomes"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 9,
+      "pages": [
+        {
+          "pdf": 31,
+          "printed": 31
+        },
+        {
+          "pdf": 32,
+          "printed": 32
+        }
+      ],
+      "src": "cblm09"
+    }
+  ],
+  "banglaExplanation": [
+    "Learning outcome এমনভাবে লিখুন যাতে চোখে দেখা যায় (observable) আর মাপা যায় (measurable)।",
+    "Load, operate, cut, identify-এর মতো action verbs দিয়ে শুরু করুন।",
+    "Understand, know বা be aware of চলবে না, কারণ এগুলো দেখা বা মাপা যায় না।",
+    "Outcome পরিষ্কার হলে session-এর information, skills আর activities ঠিকভাবে plan করা যায়।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 9,
+  "errata": [],
+  "example": {
+    "bn": "'বুঝবে' দেখা যায় না, কিন্তু 'কাটবে' চোখে দেখা ও মাপা যায়।",
+    "en": "Bad: Trainees will understand welding. Good: Trainees will cut a steel plate to size."
+  },
+  "highlighted": true,
+  "id": "session-learning-outcome-criteria",
+  "importance": {
+    "bn": "CBLM 9-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 9."
+  },
+  "keywords": [
+    {
+      "bn": "চোখে দেখা যায় এমন",
+      "en": "Observable"
+    },
+    {
+      "bn": "মাপা যায় এমন",
+      "en": "Measurable"
+    },
+    {
+      "bn": "কাজ বোঝায় এমন ক্রিয়া, যেমন operate",
+      "en": "Action verb"
+    },
+    {
+      "bn": "অস্পষ্টতা, দুই রকম মানে হওয়া",
+      "en": "Ambiguity"
+    },
+    {
+      "bn": "training শেষে trainee যা করতে পারবে",
+      "en": "Learning outcomes"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "1. They must be observable. Can you actually see or observe the progress",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Observable: you can actually see or observe the progress of the trainee."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "2. They must be measurable. Can you measure the output or progress of",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Measurable: you can measure the output or progress of the trainee."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "3. They must be written with verbs that are clear and cannot be subject to ambiguity or misinterpretation.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Clear verbs: verbs that cannot be subject to ambiguity or misinterpretation."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 9,
+        "match": "exact",
+        "page": 32,
+        "printedPage": 32,
+        "quote": "Appropriate learning outcomes need to meet three criteria.",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      },
+      {
+        "cblm": 9,
+        "match": "exact",
+        "page": 32,
+        "printedPage": 32,
+        "quote": "1. They must be observable. Can you actually see or observe the progress",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      },
+      {
+        "cblm": 9,
+        "match": "exact",
+        "page": 32,
+        "printedPage": 32,
+        "quote": "2. They must be measurable. Can you measure the output or progress of",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      },
+      {
+        "cblm": 9,
+        "match": "exact",
+        "page": 32,
+        "printedPage": 32,
+        "quote": "3. They must be written with verbs that are clear and cannot be subject to ambiguity or misinterpretation.",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Appropriate learning outcomes must be observable, measurable and written with clear verbs."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 32,
+            "passageId": "cblm09-p32-bc3f9e23",
+            "printedPage": 32,
+            "quote": "1. They must be observable. Can you actually see or observe the progress",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Observable",
+          "right": "You can actually see the progress"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 32,
+            "passageId": "cblm09-p32-4b14fe74",
+            "printedPage": 32,
+            "quote": "2. They must be measurable. Can you measure the output or progress of",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Measurable",
+          "right": "You can measure the output or progress"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 32,
+            "passageId": "cblm09-p32-0e558d52",
+            "printedPage": 32,
+            "quote": "3. They must be written with verbs that are clear and cannot be subject to ambiguity or misinterpretation.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Clear verbs",
+          "right": "No ambiguity or misinterpretation"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Here are some action verbs: • load • drive • operate • cut",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Action verbs",
+          "right": "Load, drive, operate, cut"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "The following verbs and phrases are not suitable because they are not observable, not measurable and not precise: • understand • realise • be aware of • show interest in •know.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Unsuitable verbs",
+          "right": "Understand, realise, know"
+        }
+      ],
+      "prompt": "Match each criterion or verb type with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 9,
+        "match": "exact",
+        "page": 32,
+        "printedPage": 32,
+        "quote": "• load • drive • operate • cut • state • specify • identify • produce • explain",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Operate",
+        "Understand",
+        "Know",
+        "Be aware of"
+      ],
+      "prompt": "Which verb is suitable for writing a learning outcome?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Learning outcomes should begin with action verbs and must be clear.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Learning outcomes should begin with action verbs and must be clear."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 32,
+              "passageId": "cblm09-p32-1c710b1c",
+              "printedPage": 32,
+              "quote": "• load • drive • operate • cut • state • specify • identify • produce • explain",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Action verbs: load, drive, operate, cut, state, specify, identify, produce, explain."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 31,
+              "passageId": "cblm09-p31-0fdf6a63",
+              "printedPage": 31,
+              "quote": "Identify the learning outcomes",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Once the overall training aim has been determined, the next step is to identify",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "a set of learning outcomes that will meet the aim.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "After the overall training aim, identify learning outcomes that will meet the aim."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 32,
+              "passageId": "cblm09-p32-80da01b3",
+              "printedPage": 32,
+              "quote": "The learning outcomes must be described in much more precise detail because they will be used to plan the information, skills and activities",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Outcomes need precise detail because they plan the information, skills and activities."
+        }
+      ],
+      "modelAnswer": "Appropriate learning outcomes need to meet three criteria:\n1. Observable: you can see the trainee's progress.\n2. Measurable: you can measure the output or progress.\n3. Clear verbs: no ambiguity or misinterpretation.\nThey should begin with action verbs, e.g. operate, cut, identify.",
+      "prompt": "What three criteria must appropriate learning outcomes meet?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "The following verbs and phrases are not suitable because they are not observable, not measurable and not precise:",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "It is not observable, not measurable and not precise."
+      },
+      "prompt": "Why is 'understand' not a good verb for a learning outcome?"
+    }
+  },
+  "realQuestions": [],
+  "score": 4,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Criteria for Session Learning Outcomes (Observable, Measurable, Action Verbs)",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 32,
+          "passageId": "cblm09-p32-0b48f247",
+          "printedPage": 32,
+          "quote": "• understand • realise • be aware of • show interest in •know.",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Do not use: understand, realise, be aware of, show interest in, know."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 32,
+          "printedPage": 32,
+          "quote": "The following verbs and phrases are not suitable because they are not observable, not measurable and not precise:",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "These verbs are not observable, not measurable and not precise."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

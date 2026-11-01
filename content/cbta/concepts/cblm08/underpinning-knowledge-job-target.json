@@ -1,0 +1,301 @@
+{
+  "id": "underpinning-knowledge-job-target",
+  "canonical_title": "Underpinning Knowledge and the Job Target",
+  "aliases": [
+    "Must know, should know, could know",
+    "Job target",
+    "Identify underpinning knowledge"
+  ],
+  "cblmPrimary": 8,
+  "source_type": "cblm",
+  "covers": [
+    "cblm08-p28-737e60bc",
+    "cblm08-p28-aa86093f",
+    "cblm08-p29-7b6a3377",
+    "cblm08-p29-af2941a6"
+  ],
+  "questions": [
+    "paper-short-questions-q34",
+    "paper-unit01-mcq-q3",
+    "paper-unit01-answer-q3"
+  ],
+  "one_line_answer": {
+    "text": "Underpinning knowledge is MUST KNOW information: key concepts needed to meet the session learning outcomes.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm08",
+        "page": 28,
+        "quote": "It is important that you identify the underpinning knowledge necessary for learners so",
+        "passageId": "cblm08-p28-737e60bc"
+      },
+      {
+        "src": "cblm08",
+        "page": 28,
+        "quote": "that they can meet the session learning outcome/s. This is MUST KNOW information"
+      },
+      {
+        "src": "cblm08",
+        "page": 28,
+        "quote": "and refers to key concepts or information associated with these outcomes.",
+        "passageId": "cblm08-p28-aa86093f"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Underpinning knowledge",
+      "bn": "কাজের পেছনের মূল জ্ঞান"
+    },
+    {
+      "en": "Must know",
+      "bn": "অবশ্যই জানতে হবে"
+    },
+    {
+      "en": "Should know",
+      "bn": "জানা উচিত, তবে কম জরুরি"
+    },
+    {
+      "en": "Could know",
+      "bn": "জানলে ভালো, কিন্তু জরুরি নয়"
+    },
+    {
+      "en": "Job target",
+      "bn": "তথ্যকে তিন ভাগে সাজানোর মডেল"
+    }
+  ],
+  "bangla_explanation": [
+    "Underpinning knowledge হলো সেই MUST KNOW জ্ঞান, যা ছাড়া learner learning outcomes অর্জন করতে পারবে না।",
+    "এটা না জানলে সে competence দেখাতে পারবে না।",
+    "Job target তথ্যকে তিন ভাগে সাজায়: must know, should know, could know।",
+    "অপ্রয়োজনীয় theoretical knowledge দিয়ে শিক্ষার্থীকে overload করবেন না।"
+  ],
+  "example": {
+    "en": "To paint a wall, the learner must know types of walls, brushes and paints.",
+    "bn": "দেয়াল রং করার আগে দেয়াল, brush আর রঙের ধরন জানা হলো underpinning knowledge।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Must know: information, skills or qualities the trainee must have to achieve the learning outcomes.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 29,
+            "quote": "Must know: the information, skills or qualities the trainee must have acquired",
+            "passageId": "cblm08-p29-7b6a3377"
+          },
+          {
+            "src": "cblm08",
+            "page": 29,
+            "quote": "to be able to achieve the learning outcomes"
+          }
+        ]
+      },
+      {
+        "text": "Should know: additional information of an important but less critical nature",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 29,
+            "quote": "Should know: additional information of an important but less critical nature"
+          }
+        ]
+      },
+      {
+        "text": "Could know: other information relating to the work, useful but not essential.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 29,
+            "quote": "Could know: other information relating to the work, which would be of use ,",
+            "passageId": "cblm08-p29-af2941a6"
+          },
+          {
+            "src": "cblm08",
+            "page": 29,
+            "quote": "but is not essential"
+          }
+        ]
+      }
+    ],
+    "declaredCount": {
+      "n": 3,
+      "cite": {
+        "src": "cblm08",
+        "page": 29,
+        "quote": "This model helps you organize the information into three categories."
+      }
+    }
+  },
+  "traps": [
+    {
+      "text": "Do not overload the student with theoretical knowledge that is not essential.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 28,
+          "quote": "Take care not to overload the student with theoretical knowledge that is not essential"
+        }
+      ]
+    },
+    {
+      "text": "Should know is important but less critical. Could know is not essential.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 29,
+          "quote": "Should know: additional information of an important but less critical nature"
+        },
+        {
+          "src": "cblm08",
+          "page": 29,
+          "quote": "but is not essential"
+        },
+        {
+          "src": "cblm08",
+          "page": 29,
+          "quote": "Could know: other information relating to the work, which would be of use ,"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is the difference between \"must know\" and \"should know\" information?",
+      "modelAnswer": "Underpinning knowledge is organised by the job target into three categories:\n1. Must know: information the trainee must have acquired to achieve the learning outcomes.\n2. Should know: additional information, important but less critical.\n3. Could know: useful information relating to the work, but not essential.",
+      "keyPoints": [
+        {
+          "text": "Without must-know knowledge, learners are not likely to demonstrate competence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 28,
+              "quote": "don't have this knowledge then they are not likely to be able to demonstrate"
+            },
+            {
+              "src": "cblm08",
+              "page": 28,
+              "quote": "This is MUST KNOW information"
+            },
+            {
+              "src": "cblm08",
+              "page": 28,
+              "quote": "competence by achieving the outcome."
+            }
+          ]
+        },
+        {
+          "text": "First decide what information from the analysis is essential to meet the learning outcomes.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 28,
+              "quote": "Once you have found a task, the first step is to decide what information from the"
+            },
+            {
+              "src": "cblm08",
+              "page": 28,
+              "quote": "analysis (as per Job sheet & Specification sheet, if necessary) is essential to meet"
+            },
+            {
+              "src": "cblm08",
+              "page": 28,
+              "quote": "the learning outcomes."
+            }
+          ]
+        },
+        {
+          "text": "Then decide what would be covered only if there is time.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 28,
+              "quote": "And after that, what would be covered only if there is time to"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "In underpinning knowledge, what does \"MUST KNOW\" information refer to?",
+      "options": [
+        "Theoretical knowledge that should be covered first",
+        "Key concepts or information associated with the learning outcomes",
+        "Information covered only if time allows",
+        "Extra knowledge to fill the session"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm08",
+        "page": 28,
+        "quote": "and refers to key concepts or information associated with these outcomes."
+      }
+    },
+    "matching": {
+      "prompt": "Match each job target category with its meaning.",
+      "pairs": [
+        {
+          "left": "Must know",
+          "right": "Information the trainee must have acquired",
+          "cite": {
+            "src": "cblm08",
+            "page": 29,
+            "quote": "Must know: the information, skills or qualities the trainee must have acquired"
+          }
+        },
+        {
+          "left": "Should know",
+          "right": "Important but less critical additional information",
+          "cite": {
+            "src": "cblm08",
+            "page": 29,
+            "quote": "Should know: additional information of an important but less critical nature"
+          }
+        },
+        {
+          "left": "Could know",
+          "right": "Other information relating to the work, of use",
+          "cite": {
+            "src": "cblm08",
+            "page": 29,
+            "quote": "Could know: other information relating to the work, which would be of use ,"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why must you identify underpinning knowledge for learners?",
+      "answer": {
+        "text": "So learners can meet the session learning outcomes. Without it, they are not likely to demonstrate competence.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "that they can meet the session learning outcome/s."
+          },
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "don't have this knowledge then they are not likely to be able to demonstrate"
+          },
+          {
+            "src": "cblm08",
+            "page": 28,
+            "quote": "competence by achieving the outcome."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

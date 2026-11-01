@@ -1,0 +1,396 @@
+{
+  "aliases": [
+    "What assessment events must comply with",
+    "Compliance requirements for assessment design"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 16,
+          "printed": 16
+        },
+        {
+          "pdf": 17,
+          "printed": 17
+        }
+      ],
+      "src": "cblm11"
+    }
+  ],
+  "banglaExplanation": [
+    "Assessment designer-কে নিশ্চিত করতে হয় assessment events আইন আর নৈতিক নিয়ম মেনে চলে।",
+    "এর মধ্যে আছে OHS, industry legislation, confidentiality ও privacy।",
+    "আরও আছে access and equity, environmental regulations আর industry codes of practice।",
+    "নিয়ম না মানলে assessment অনিরাপদ বা অন্যায্য হতে পারে।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 11,
+  "errata": [],
+  "example": {
+    "bn": "ওয়েল্ডিং assessment-এ safety, ফলাফলের গোপনীয়তা আর পরিবেশের নিয়ম মানতে হয়।",
+    "en": "A welding assessment plan follows safety rules. It keeps results private and controls fumes."
+  },
+  "highlighted": true,
+  "id": "assessment-design-legal-requirements",
+  "importance": {
+    "bn": "CBLM 11-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 11."
+  },
+  "keywords": [
+    {
+      "bn": "নিয়ম মেনে চলা",
+      "en": "Comply"
+    },
+    {
+      "bn": "আইন",
+      "en": "Legislation"
+    },
+    {
+      "bn": "গোপনীয়তা ও ব্যক্তিগত তথ্য রক্ষা",
+      "en": "Confidentiality and privacy"
+    },
+    {
+      "bn": "সবার সমান সুযোগ",
+      "en": "Access and equity"
+    },
+    {
+      "bn": "শিল্পের আচরণ ও কাজের নিয়মাবলি",
+      "en": "Codes of practice"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "OHS policies and procedures",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "OHS policies and procedures"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "industry specific legislation",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Industry specific legislation"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "deal with confidentiality and privacy regulations",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Confidentiality and privacy regulations"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "passageId": "cblm11-p17-1d7deb7a",
+            "printedPage": 17,
+            "quote": "access and equity regulations",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Access and equity regulations"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "environmental issues and regulations",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Environmental issues and regulations"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "industry codes of practice.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Industry codes of practice"
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 16,
+        "passageId": "cblm11-p16-5fbaf67e",
+        "printedPage": 16,
+        "quote": "Legal and ethical requirements As a designer of assessment, you should ensure assessment events comply with",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "As a designer of assessment, ensure assessment events comply with legal and ethical requirements."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "OHS policies and procedures",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "OHS",
+          "right": "Policies and procedures"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "confidentiality and privacy regulations",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Confidentiality and privacy",
+          "right": "Regulations"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "environmental issues and regulations",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Environmental",
+          "right": "Issues and regulations"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "industry codes of practice.",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Industry",
+          "right": "Codes of practice"
+        }
+      ],
+      "prompt": "Match each requirement area with its full name."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 17,
+        "printedPage": 17,
+        "quote": "industry codes of practice.",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Feedback sandwich",
+        "Industry codes of practice",
+        "Assessment planning matrix",
+        "Learning diary"
+      ],
+      "prompt": "Which must assessment events comply with, according to CBLM 11?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "ensure assessment events comply with",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "OHS policies and procedures",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessment events must comply with OHS policies and procedures."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "deal with confidentiality and privacy regulations",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The designer must deal with confidentiality and privacy regulations."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "You should consult industry or technical experts and training & assessment experts.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Consult industry or technical experts and training and assessment experts."
+        }
+      ],
+      "modelAnswer": "As a designer of assessment, I must ensure assessment events comply with:\n1. OHS policies and procedures\n2. Industry specific legislation\n3. Confidentiality and privacy regulations\n4. Access and equity regulations\n5. Environmental issues and regulations\n6. Industry codes of practice",
+      "prompt": "As an assessment designer, which legal and ethical requirements must assessment events comply with?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "As a designer of assessment, you should ensure assessment events comply with",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The designer of assessment must ensure assessment events comply with them."
+      },
+      "prompt": "Who must ensure assessment events comply with legal and ethical requirements?"
+    }
+  },
+  "realQuestions": [],
+  "score": 4,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Legal and Ethical Requirements for Assessment Design",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 17,
+          "printedPage": 17,
+          "quote": "environmental issues and regulations",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 17,
+          "printedPage": 17,
+          "quote": "industry codes of practice.",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 16,
+          "printedPage": 16,
+          "quote": "Legal and ethical requirements",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Environmental issues and industry codes of practice are also legal and ethical requirements."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 16,
+          "printedPage": 16,
+          "quote": "As a designer of assessment, you should ensure assessment events comply with",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The designer of assessment, not only the assessor, should ensure assessment events comply."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

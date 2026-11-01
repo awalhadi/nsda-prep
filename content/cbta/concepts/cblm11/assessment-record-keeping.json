@@ -1,0 +1,266 @@
+{
+  "id": "assessment-record-keeping",
+  "canonical_title": "Record Keeping and Documentation Arrangements",
+  "aliases": [
+    "Documents to keep at the time of assessment",
+    "Assessment documentation requirements"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p38-6f441cc1",
+    "cblm11-p38-3a57c578",
+    "cblm11-p40-e6ba73dc",
+    "cblm11-p41-784e9240"
+  ],
+  "questions": [
+    "cblm11-sc2-q2",
+    "paper-short-questions-q73"
+  ],
+  "one_line_answer": {
+    "text": "Assessment plans and outcomes must be obtained and retained in line with BTEB requirements.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 38,
+        "quote": "Evidence of assessment plans and outcomes will need to be obtained and retained in line with BTEB requirements.",
+        "passageId": "cblm11-p38-6f441cc1"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Record keeping",
+      "bn": "তথ্য ও কাগজপত্র সংরক্ষণ করা"
+    },
+    {
+      "en": "Retained",
+      "bn": "রেখে দেওয়া, জমা রাখা"
+    },
+    {
+      "en": "BTEB",
+      "bn": "বাংলাদেশ কারিগরি শিক্ষা বোর্ড"
+    },
+    {
+      "en": "Registration forms",
+      "bn": "নাম নিবন্ধনের ফর্ম"
+    },
+    {
+      "en": "Result sheet",
+      "bn": "ফলাফল লেখার শিট"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment শেষ হলেই কাজ শেষ না, কাগজপত্র BTEB requirements অনুযায়ী রাখতে হয়।",
+    "কোন documents রাখতে হবে: instruments, registration forms, self check sheet, result sheet, project sheets।",
+    "Self check sheet trainees assessment-এর আগে নিজেরাই পূরণ করে।",
+    "Recording শেষ হলে এই documents BTEB-তে জমা দিতে হয়, তাই কিছু হারানো চলবে না।"
+  ],
+  "example": {
+    "en": "After a plumbing assessment, the assessor files checklists, registration forms and result sheets. Then he sends them to BTEB.",
+    "bn": "প্লাম্বিং assessment-এর পর checklist আর result sheet গুছিয়ে BTEB-তে পাঠানো হয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Assessment instruments: observation checklists, oral questioning sheets, written test paper.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "Observation checklists o Oral questioning sheets o Written test paper",
+            "passageId": "cblm11-p38-3a57c578"
+          },
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "Assessment instruments-"
+          }
+        ]
+      },
+      {
+        "text": "Assessment registration forms",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "Assessment registration forms"
+          }
+        ]
+      },
+      {
+        "text": "Assessment self check sheet (completed by trainees prior to assessment)",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "Assessment self check sheet (completed by trainees prior to assessment)"
+          }
+        ]
+      },
+      {
+        "text": "Result sheet for recording competency outcomes",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "Result sheet for recording competency outcomes"
+          }
+        ]
+      },
+      {
+        "text": "Assessment project sheets and specification sheets",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "Assessment project sheets and specification sheets"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "The self check sheet is completed by trainees prior to assessment.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 38,
+          "quote": "Assessment self check sheet (completed by trainees prior to assessment)"
+        }
+      ]
+    },
+    {
+      "text": "After recording, the documents should be submitted to BTEB.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 38,
+          "quote": "After recording and documenting the assessment requirements, the above mentioned documents should submit to BTEB."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Name the documents you need to keep at the time of assessment.",
+      "modelAnswer": "Documents kept in line with BTEB requirements:\n1. Assessment instruments: observation checklists, oral questioning sheets, written test paper\n2. Assessment registration forms\n3. Assessment self check sheet (completed by trainees prior to assessment)\n4. Result sheet for recording competency outcomes\n5. Assessment project sheets and specification sheets\nThese documents are then submitted to BTEB.",
+      "keyPoints": [
+        {
+          "text": "Assessment instruments include observation checklists, oral questioning sheets and written test paper.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 41,
+              "quote": "Observation checklists o Oral questioning sheets o Written test paper",
+              "passageId": "cblm11-p41-784e9240"
+            }
+          ]
+        },
+        {
+          "text": "The result sheet records competency outcomes.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 41,
+              "quote": "Result sheet for recording competency outcomes"
+            }
+          ]
+        },
+        {
+          "text": "The documents should be submitted to BTEB after recording.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 38,
+              "quote": "After recording and documenting the assessment requirements, the above mentioned documents should submit to BTEB."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Who completes the assessment self check sheet, and when?",
+      "options": [
+        "The assessor, after assessment",
+        "Trainees, prior to assessment",
+        "BTEB, after the result",
+        "The supervisor, during assessment"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 38,
+        "quote": "Assessment self check sheet (completed by trainees prior to assessment)"
+      }
+    },
+    "matching": {
+      "prompt": "Match each document with its use.",
+      "pairs": [
+        {
+          "left": "Result sheet",
+          "right": "Recording competency outcomes",
+          "cite": {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "Result sheet for recording competency outcomes"
+          }
+        },
+        {
+          "left": "Self check sheet",
+          "right": "Completed by trainees prior to assessment",
+          "cite": {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "Assessment self check sheet (completed by trainees prior to assessment)"
+          }
+        },
+        {
+          "left": "Assessment instruments",
+          "right": "Observation checklists and oral questioning sheets",
+          "cite": {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "Observation checklists o Oral questioning sheets"
+          }
+        },
+        {
+          "left": "Documents after recording",
+          "right": "Submit to BTEB",
+          "cite": {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "the above mentioned documents should submit to BTEB"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Where do the assessment documents go after recording?",
+      "answer": {
+        "text": "After recording and documenting, the documents should be submitted to BTEB.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 38,
+            "quote": "After recording and documenting the assessment requirements, the above mentioned documents should submit to BTEB."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

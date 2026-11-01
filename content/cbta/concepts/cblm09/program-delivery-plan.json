@@ -1,0 +1,381 @@
+{
+  "id": "program-delivery-plan",
+  "canonical_title": "Program Delivery Plan",
+  "aliases": [
+    "Delivery plan",
+    "Program delivery plan template"
+  ],
+  "cblmPrimary": 9,
+  "source_type": "cblm",
+  "covers": [
+    "cblm09-p29-75988f5a",
+    "cblm09-p30-6c0ac76c",
+    "cblm09-p30-d5a0e598",
+    "cblm09-p30-46a83636",
+    "cblm09-p30-8abcda2d",
+    "cblm09-p30-2b360f88",
+    "cblm09-p30-49ca4919",
+    "cblm09-p30-ac9c9577",
+    "cblm09-p40-fe025dc1"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "A delivery plan sets out how a qualification can be obtained via training mode.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm09",
+        "page": 30,
+        "quote": "A delivery plan sets out details about how a qualification can be obtained via training mode, i.e. it spells out if it will be off-the-job, on-the-job or part thereof.",
+        "passageId": "cblm09-p30-6c0ac76c"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Delivery plan",
+      "bn": "পুরো প্রোগ্রাম কীভাবে দেওয়া হবে তার পরিকল্পনা"
+    },
+    {
+      "en": "Training mode",
+      "bn": "প্রশিক্ষণের ধরন: off the job বা on the job"
+    },
+    {
+      "en": "Nominal hours",
+      "bn": "নির্ধারিত মোট সময়"
+    },
+    {
+      "en": "Formative assessment",
+      "bn": "শেখার মাঝপথে যাচাই"
+    },
+    {
+      "en": "Adult learning principles",
+      "bn": "প্রাপ্তবয়স্কদের শেখার নীতি"
+    }
+  ],
+  "bangla_explanation": [
+    "Delivery plan হলো পুরো unit বা qualification কীভাবে দেওয়া হবে তার বড় ছবি।",
+    "এখানে থাকে nominal hours, কয়টি session, প্রতিটির duration, elements আর performance criteria।",
+    "Training mode off the job, on the job নাকি দুটো মিলিয়ে, সেটাও লেখা থাকে।",
+    "এটা adult learning principles মেনে বানাতে হয়, যাতে facilitation focused থাকে।"
+  ],
+  "example": {
+    "en": "A baking trainer plans the unit Produce Biscuit Dough. Each 30-minute session lists elements, criteria, mode and resources.",
+    "bn": "Biscuit dough unit-কে session-এ ভাগ করে প্রতিটির elements আর resources লিখে রাখা হয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Nominal hours",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "Nominal hours"
+          }
+        ]
+      },
+      {
+        "text": "No. of Session",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "No. of Session"
+          }
+        ]
+      },
+      {
+        "text": "Duration of each session",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "Duration of each session"
+          }
+        ]
+      },
+      {
+        "text": "Individual or group objectives",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "Individual or group objectives"
+          }
+        ]
+      },
+      {
+        "text": "Formative assessment opportunities",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "Formative assessment opportunities"
+          }
+        ]
+      },
+      {
+        "text": "Location of training",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "Location of training"
+          }
+        ]
+      },
+      {
+        "text": "Number of learners",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "Number of learners"
+          }
+        ]
+      },
+      {
+        "text": "Elements covered",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "Elements covered"
+          }
+        ]
+      },
+      {
+        "text": "Performance criteria covered",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "Performance criteria covered"
+          }
+        ]
+      },
+      {
+        "text": "Delivery mode/Strategy",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "Delivery mode/Strategy"
+          }
+        ]
+      },
+      {
+        "text": "Equipment and resources required, e.g. whiteboard, overhead projector, handouts.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "Equipment and resources required, for example, a whiteboard, overhead projector, handouts, or articles"
+          }
+        ]
+      },
+      {
+        "text": "Any additional requirements to meet special needs of learners",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "Any additional requirements to meet special needs of learners"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "A delivery plan covers a series of sessions or an individual session, by complexity.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 30,
+          "quote": "It covers a series of sessions or individual session depending upon the complexity of the training.",
+          "passageId": "cblm09-p30-46a83636"
+        },
+        {
+          "src": "cblm09",
+          "page": 30,
+          "quote": "upon the complexity of the training.",
+          "passageId": "cblm09-p30-8abcda2d"
+        }
+      ]
+    },
+    {
+      "text": "Mostly a CBT program has many sessions and session plans.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 30,
+          "quote": "Mostly there will be many sessions and session plans for a CBT program."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What may a delivery plan include?",
+      "modelAnswer": "A delivery plan is a step by step guide. It may include:\n1. Nominal hours\n2. Number of sessions\n3. Duration of each session\n4. Individual or group objectives\n5. Formative assessment opportunities\n6. Location of training\n7. Number of learners\n8. Elements covered\n9. Performance criteria covered\n10. Delivery mode/strategy\n11. Equipment and resources required\n12. Additional requirements for special needs",
+      "keyPoints": [
+        {
+          "text": "Its purpose is a structured approach to training that results in a qualification.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 30,
+              "quote": "The purpose of a delivery plan is to provide a structured approach to the delivery of training that result in a qualification, which ensures your facilitation is focused and achieves the intended outcomes.",
+              "passageId": "cblm09-p30-ac9c9577"
+            }
+          ]
+        },
+        {
+          "text": "Your delivery plan must be developed with the principles of adult learning in mind.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 30,
+              "quote": "Your delivery plan must be developed with the principles of adult learning in mind.",
+              "passageId": "cblm09-p30-49ca4919"
+            }
+          ]
+        },
+        {
+          "text": "Consider learning styles and any equity or additional support needs.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 30,
+              "quote": "You also need to consider the various learning styles of your learners and any equity or additional support needs they may have."
+            }
+          ]
+        },
+        {
+          "text": "A training program outcome describes the main work tasks and topics trainees need.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 29,
+              "quote": "The outcome of the training program",
+              "passageId": "cblm09-p29-75988f5a"
+            },
+            {
+              "src": "cblm09",
+              "page": 29,
+              "quote": "The outcome for a training program is a escription of the main work tasks and topics"
+            },
+            {
+              "src": "cblm09",
+              "page": 29,
+              "quote": "of information the trainees need."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "What does a delivery plan provide you with?",
+      "options": [
+        "A step by step guide to follow",
+        "A self-assessment checklist",
+        "A list of venue facilities",
+        "An industry competency standard"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm09",
+        "page": 30,
+        "quote": "A delivery plan provides you with a step by step guide to follow.",
+        "passageId": "cblm09-p30-2b360f88"
+      }
+    },
+    "matching": {
+      "prompt": "Match each delivery plan item with its meaning.",
+      "pairs": [
+        {
+          "left": "Training mode",
+          "right": "Off-the-job, on-the-job or part thereof",
+          "cite": {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "it spells out if it will be off-the-job, on-the-job or part thereof",
+            "passageId": "cblm09-p30-d5a0e598"
+          }
+        },
+        {
+          "left": "Purpose",
+          "right": "Structured approach to the delivery of training",
+          "cite": {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "The purpose of a delivery plan is to provide a structured approach to the delivery of training"
+          }
+        },
+        {
+          "left": "Equipment and resources",
+          "right": "Whiteboard, overhead projector, handouts",
+          "cite": {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "Equipment and resources required, for example, a whiteboard, overhead projector, handouts, or articles"
+          }
+        },
+        {
+          "left": "Special needs",
+          "right": "Any additional requirements of learners",
+          "cite": {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "Any additional requirements to meet special needs of learners"
+          }
+        },
+        {
+          "left": "Sample plan unit",
+          "right": "Produce Biscuit Dough",
+          "cite": {
+            "src": "cblm09",
+            "page": 40,
+            "quote": "Produce Biscuit Dough FODBAK1025A1",
+            "passageId": "cblm09-p40-fe025dc1"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why do you need a delivery plan?",
+      "answer": {
+        "text": "It gives a structured approach, so your facilitation is focused and achieves the intended outcomes.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 30,
+            "quote": "The purpose of a delivery plan is to provide a structured approach to the delivery of training that result in a qualification, which ensures your facilitation is focused and achieves the intended outcomes."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

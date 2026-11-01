@@ -1,0 +1,306 @@
+{
+  "id": "assessment-resources",
+  "canonical_title": "Identifying Material and Resource Requirements",
+  "aliases": [
+    "Assessment Resources Checklist",
+    "Material and resource requirements for assessment"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p37-06be19ff",
+    "cblm11-p37-377d9c74",
+    "cblm11-p37-ed665fd6",
+    "cblm11-p44-474b8a40"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Depending on the assessment, you may need to obtain materials or resources.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 37,
+        "quote": "Depending on what the assessment involves, you may need to obtain materials or resources."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Resources",
+      "bn": "সম্পদ/উপকরণ"
+    },
+    {
+      "en": "Materials",
+      "bn": "কাজের মালামাল"
+    },
+    {
+      "en": "Venue",
+      "bn": "assessment-এর স্থান"
+    },
+    {
+      "en": "Protective equipment",
+      "bn": "সুরক্ষা সরঞ্জাম"
+    },
+    {
+      "en": "Checklist",
+      "bn": "তালিকা ধরে টিক দেওয়ার ফর্ম"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment-এর আগে কী কী materials or resources লাগবে, তা ঠিক করতে হয়।",
+    "এগুলো time and costs-এর উপর প্রভাব ফেলে।",
+    "Venue, technology, personnel, protective equipment — সব একটা Assessment Resources Checklist-এ লিখে রাখা যায়।",
+    "Checklist-এ Physical Resources আর Equipment আলাদা অংশে থাকে।"
+  ],
+  "example": {
+    "en": "A bakery assessment needs a weighing scale, electric oven, mixing machine and chef jackets.",
+    "bn": "বেকারি assessment-এর আগে checklist ধরে oven, mixing machine আর PPE প্রস্তুত রাখা হয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Availability of plant",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 37,
+            "quote": "Consider items like the availability of plant"
+          }
+        ]
+      },
+      {
+        "text": "The venue",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 37,
+            "quote": "the venue; technology"
+          }
+        ]
+      },
+      {
+        "text": "Technology",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 37,
+            "quote": "the venue; technology"
+          }
+        ]
+      },
+      {
+        "text": "Other personnel and equipment",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 37,
+            "quote": "personnel and equipment"
+          },
+          {
+            "src": "cblm11",
+            "page": 37,
+            "quote": "technology; other"
+          }
+        ]
+      },
+      {
+        "text": "Sufficient and appropriate protective equipment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 37,
+            "quote": "sufficient and appropriate protective equipment"
+          }
+        ]
+      },
+      {
+        "text": "Other preexisting assessment resources",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 37,
+            "quote": "other preexisting assessment resources."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Resources can affect the time and costs of assessment.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 37,
+          "quote": "This can affect the time and costs involved with assessment."
+        }
+      ]
+    },
+    {
+      "text": "Assessor, observer and technician are listed under Physical Resources.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 37,
+          "quote": "Physical Resources o Assessor"
+        },
+        {
+          "src": "cblm11",
+          "page": 37,
+          "quote": "Observer"
+        },
+        {
+          "src": "cblm11",
+          "page": 37,
+          "quote": "Technician"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What should you consider when identifying material and resource requirements for assessment?",
+      "modelAnswer": "Materials and resources affect the time and costs of assessment. Consider:\n1. Availability of plant\n2. The venue\n3. Technology\n4. Other personnel and equipment\n5. Sufficient and appropriate protective equipment\n6. Other preexisting assessment resources\nRecord them in an Assessment Resources Checklist.",
+      "keyPoints": [
+        {
+          "text": "A sample Assessment Resources Checklist records particulars, quantity and remarks.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 37,
+              "quote": "Sample of an assessment resources checklist"
+            },
+            {
+              "src": "cblm11",
+              "page": 37,
+              "quote": "Quantity Remarks"
+            }
+          ]
+        },
+        {
+          "text": "The checklist names the unit of competency, module title, date and venue.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 37,
+              "quote": "Unit of competency to be assessed"
+            },
+            {
+              "src": "cblm11",
+              "page": 37,
+              "quote": "Module Title"
+            },
+            {
+              "src": "cblm11",
+              "page": 37,
+              "quote": "Date (from - to)"
+            },
+            {
+              "src": "cblm11",
+              "page": 37,
+              "quote": "Venue...."
+            }
+          ]
+        },
+        {
+          "text": "Tick the box below once you have arranged each item.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 37,
+              "quote": "Done (Tick the"
+            },
+            {
+              "src": "cblm11",
+              "page": 37,
+              "quote": "box below once Particulars you have arranged)"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "In the sample checklist, which section lists the weighing scale and electric oven?",
+      "options": [
+        "Physical Resources",
+        "Equipment and Tools",
+        "Module Title",
+        "Remarks"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 37,
+        "quote": "Equipment and Tools o Weighing scale"
+      }
+    },
+    "matching": {
+      "prompt": "Match each checklist item with its section or note.",
+      "pairs": [
+        {
+          "left": "Assessor",
+          "right": "BTEB registered",
+          "cite": {
+            "src": "cblm11",
+            "page": 37,
+            "quote": "Assessor 1 BTEB registered"
+          }
+        },
+        {
+          "left": "Observer",
+          "right": "Contact ISC for name",
+          "cite": {
+            "src": "cblm11",
+            "page": 37,
+            "quote": "Observer 1 Contact ISC for"
+          }
+        },
+        {
+          "left": "Mixing machine",
+          "right": "One manual and one digital",
+          "cite": {
+            "src": "cblm11",
+            "page": 37,
+            "quote": "Mixing machine 2 One manual and one digital"
+          }
+        },
+        {
+          "left": "Personal protective equipment",
+          "right": "Chef jacket, hand gloves, apron",
+          "cite": {
+            "src": "cblm11",
+            "page": 37,
+            "quote": "Personal protective equipment (chef 1 pair jacket, hand gloves, apron"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why must you identify resource requirements early?",
+      "answer": {
+        "text": "Resources can affect the time and costs involved with assessment.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 37,
+            "quote": "This can affect the time and costs involved with assessment."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

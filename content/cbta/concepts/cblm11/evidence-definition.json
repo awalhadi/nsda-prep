@@ -1,0 +1,289 @@
+{
+  "id": "evidence-definition",
+  "canonical_title": "Evidence in Competency Based Assessment",
+  "aliases": [
+    "What is evidence",
+    "Sources of evidence",
+    "Definition of evidence"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p20-20192191",
+    "cblm11-p20-8d804df9"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Evidence is information gathered and matched against a unit of competency to prove competence.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 20,
+        "quote": "Evidence is information gathered and matched against a unit of competency/ies to provide proof that a person is competent.",
+        "passageId": "cblm11-p20-20192191"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Evidence",
+      "bn": "প্রমাণ"
+    },
+    {
+      "en": "Proof",
+      "bn": "যোগ্যতার প্রমাণ"
+    },
+    {
+      "en": "Products",
+      "bn": "প্রার্থীর তৈরি জিনিস"
+    },
+    {
+      "en": "Processes",
+      "bn": "কাজের পদ্ধতি বা ধাপ"
+    },
+    {
+      "en": "Underpinning knowledge",
+      "bn": "কাজের পেছনের জ্ঞান"
+    },
+    {
+      "en": "Attitudes",
+      "bn": "মনোভাব"
+    }
+  ],
+  "bangla_explanation": [
+    "Evidence হলো সেই information, যা unit of competency-র সাথে মিলিয়ে দেখা হয়।",
+    "এটাই proof যে person competent।",
+    "Evidence আসে চার জায়গা থেকে: products, processes, underpinning knowledge আর attitudes।",
+    "Competency সরাসরি দেখা যায় না, performance দেখে বুঝতে হয়, তাই evidence লাগে।"
+  ],
+  "example": {
+    "en": "A baking trainee makes bread to specification. The bread is a product. Following safe methods is a process.",
+    "bn": "রুটিটা product, আর নিরাপদ পদ্ধতি মেনে চলা process।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Products that have been produced or made by assessee",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "Products that have been produced or made by assessee",
+            "passageId": "cblm11-p20-8d804df9"
+          }
+        ]
+      },
+      {
+        "text": "Processes that had been carried out by the assessee",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "Processes that had been carried out by the assessee"
+          }
+        ]
+      },
+      {
+        "text": "Underpinning knowledge and skills demonstrated by the assessee",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "underpinning knowledge and skills demonstrate by the assess"
+          }
+        ]
+      },
+      {
+        "text": "Underlying attitudes exhibited by the assessee",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "underlying attitudes exhibited by the assessee"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Competency cannot be observed directly. It can only be inferred from performance.",
+      "fidelity": "verbatim",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 20,
+          "quote": "Competency cannot be observed directly. It can only be inferred from performance."
+        }
+      ]
+    },
+    {
+      "text": "\"Work piece is to specification\" is a product. \"Correct procedures are followed\" is a process.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 21,
+          "quote": "Work piece is to specification."
+        },
+        {
+          "src": "cblm11",
+          "page": 21,
+          "quote": "Correct procedures are followed"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is evidence? From which sources can it be gathered?",
+      "modelAnswer": "Evidence is information gathered and matched against a unit of competency to prove a person is competent. Sources include:\n1. Products made by the assessee\n2. Processes carried out by the assessee\n3. Underpinning knowledge and skills demonstrated\n4. Underlying attitudes exhibited",
+      "keyPoints": [
+        {
+          "text": "Evidence can take many forms and can be gathered from a number of sources.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 20,
+              "quote": "Evidence can take many forms and can be gathered from a number of sources."
+            }
+          ]
+        },
+        {
+          "text": "Product examples: work piece to specification, sale made, customer satisfied, budget achieved.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 21,
+              "quote": "Work piece is to specification."
+            },
+            {
+              "src": "cblm11",
+              "page": 21,
+              "quote": "Sale of product is made."
+            },
+            {
+              "src": "cblm11",
+              "page": 21,
+              "quote": "Customer is satisfied."
+            },
+            {
+              "src": "cblm11",
+              "page": 21,
+              "quote": "Budget is achieved."
+            }
+          ]
+        },
+        {
+          "text": "Process examples: correct procedures, safe work methods, correct sequence, teamwork.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 21,
+              "quote": "Correct procedures are followed"
+            },
+            {
+              "src": "cblm11",
+              "page": 21,
+              "quote": "Safe work methods are used."
+            },
+            {
+              "src": "cblm11",
+              "page": 21,
+              "quote": "Correct sequence is followed"
+            },
+            {
+              "src": "cblm11",
+              "page": 21,
+              "quote": "Work as a member of a team."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Evidence is matched against which document to prove competence?",
+      "options": [
+        "A unit of competency",
+        "A trainee attendance sheet",
+        "A job advertisement",
+        "A training budget"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 20,
+        "quote": "Evidence is information gathered and matched against a unit of competency/ies"
+      }
+    },
+    "matching": {
+      "prompt": "Match each example with its aspect of competency.",
+      "pairs": [
+        {
+          "left": "Work piece is to specification",
+          "right": "Product",
+          "cite": {
+            "src": "cblm11",
+            "page": 21,
+            "quote": "Products Processes • Work piece is to specification."
+          }
+        },
+        {
+          "left": "Correct procedures are followed",
+          "right": "Process",
+          "cite": {
+            "src": "cblm11",
+            "page": 21,
+            "quote": "Processes • Work piece is to specification. • Correct procedures are followed"
+          }
+        },
+        {
+          "left": "Underpinning knowledge",
+          "right": "Demonstrated by the assessee",
+          "cite": {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "underpinning knowledge and skills demonstrate by the assess"
+          }
+        },
+        {
+          "left": "Underlying attitudes",
+          "right": "Exhibited by the assessee",
+          "cite": {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "underlying attitudes exhibited by the assessee"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why do we need evidence in assessment?",
+      "answer": {
+        "text": "Competency cannot be observed directly. Evidence provides proof that a person is competent.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "Competency cannot be observed directly."
+          },
+          {
+            "src": "cblm11",
+            "page": 20,
+            "quote": "to provide proof that a person is competent."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

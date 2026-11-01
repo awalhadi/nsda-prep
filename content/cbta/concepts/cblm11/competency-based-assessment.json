@@ -1,0 +1,199 @@
+{
+  "id": "competency-based-assessment",
+  "canonical_title": "Competency Based Assessment: Definition and Characteristics",
+  "aliases": [
+    "Characteristics of a Competency Based Assessment",
+    "Definition of assessment"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p7-688d7c68",
+    "cblm11-p7-4396c2d0",
+    "cblm11-p7-8741753b",
+    "cblm11-p7-bc62305b",
+    "cblm11-p7-03ee3085",
+    "cblm11-p7-62c6e62a",
+    "cblm11-p7-e30e49d6",
+    "cblm11-p7-9f3bdbf6",
+    "cblm11-p7-dca7d041",
+    "cblm11-p7-e0cc7b71",
+    "cblm11-p7-89d79a52"
+  ],
+  "questions": [
+    "paper-short-questions-q54",
+    "paper-short-questions-q72"
+  ],
+  "one_line_answer": {
+    "text": "In competency based assessment, skills and knowledge are assessed against performance criteria in competency standards.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 7,
+        "quote": "In a competency based assessment, skills and knowledge are assessed against specific set of performance criteria as set out in the industry competency standards documents."
+      }
+    ]
+  },
+  "keywords": [
+    { "en": "Assessment", "bn": "মূল্যায়ন: প্রমাণ সংগ্রহ করে দক্ষতা বিচার করা" },
+    { "en": "Evidence based", "bn": "প্রমাণের উপর ভিত্তি করে" },
+    { "en": "Criterion referenced", "bn": "নির্দিষ্ট মানদণ্ডের সাথে তুলনা করে" },
+    { "en": "Competency standards", "bn": "শিল্পের ঠিক করা দক্ষতার মান" },
+    { "en": "Professional judgments", "bn": "পেশাগত বিচার বা সিদ্ধান্ত" }
+  ],
+  "bangla_explanation": [
+    "Assessment মানে evidence সংগ্রহ করে বিচার করা, candidate competent কি না।",
+    "Competency based assessment-এ অন্যের সাথে তুলনা হয় না, তুলনা হয় performance criteria-র সাথে।",
+    "তাই একে criterion referenced আর evidence based বলে।",
+    "Benchmark হলো competency standards, আর evidence অনেক দিন ধরেও collected হতে পারে।"
+  ],
+  "example": {
+    "en": "A sewing operator in a garments factory is checked against the industry standard. Evidence is collected over several weeks.",
+    "bn": "গার্মেন্টস অপারেটরকে অন্য অপারেটরের সাথে নয়, standard-এর সাথে মিলিয়ে দেখা হয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "It is evidence based.",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm11", "page": 7, "quote": "It is evidence based.", "passageId": "cblm11-p7-bc62305b" }
+        ]
+      },
+      {
+        "text": "It is criterion referenced.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm11", "page": 7, "quote": "It is criterion referenced", "passageId": "cblm11-p7-03ee3085" }
+        ]
+      },
+      {
+        "text": "Decisions about whether a person is competent are based on candidate evidence.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm11", "page": 7, "quote": "Decisions about whether a person is competent are based upon evidence provided by trainee/or candidate for assessment." }
+        ]
+      },
+      {
+        "text": "It focuses on the capacity to perform workplace activities to industry standards.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm11", "page": 7, "quote": "It focuses on the capacity to perform workplace activities to industry standards." }
+        ]
+      },
+      {
+        "text": "Evidence of competency may be collected over a period of time.",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm11", "page": 7, "quote": "Evidence of competency may be collected over a period of time." }
+        ]
+      },
+      {
+        "text": "It ensures that the assessor's judgment of attainment of competencies is reliable.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm11", "page": 7, "quote": "It ensures that the assessors judgment of attainment of competencies are reliable." }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "The three main features of assessment differ from the characteristics of Competency Based Assessment.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm11", "page": 7, "quote": "The three main features that emerge from the definition of assessment are" },
+        { "src": "cblm11", "page": 7, "quote": "The following are characteristics of a Competency Based Assessment." }
+      ]
+    },
+    {
+      "text": "The benchmark for assessment is the competency standards.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm11", "page": 7, "quote": "the benchmark for basis of assessment are the competency standards.", "passageId": "cblm11-p7-8741753b" }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is competency-based assessment? Give four characteristics.",
+      "modelAnswer": "Competency based assessment assesses skills and knowledge against the performance criteria in industry competency standards. Characteristics:\n1. It is evidence based.\n2. It is criterion referenced.\n3. It focuses on the capacity to perform workplace activities to industry standards.\n4. Evidence of competency may be collected over a period of time.",
+      "keyPoints": [
+        {
+          "text": "Assessment is collecting evidence and making judgments on whether competency has been achieved.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm11", "page": 7, "quote": "Assessment is the process of collecting evidence and making judgments on whether competency has been achieved.", "passageId": "cblm11-p7-688d7c68" }
+          ]
+        },
+        {
+          "text": "Assessment involves the collection of evidence.",
+          "fidelity": "verbatim",
+          "cites": [
+            { "src": "cblm11", "page": 7, "quote": "assessment involves the collection of evidence.", "passageId": "cblm11-p7-4396c2d0" }
+          ]
+        },
+        {
+          "text": "Assessment involves the making of professional judgments.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm11", "page": 7, "quote": "assessment involves the making of professional judgments." }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a characteristic of Competency Based Assessment?",
+      "options": [
+        "It compares candidates with each other",
+        "It is criterion referenced",
+        "It is based only on a final exam",
+        "It ignores workplace standards"
+      ],
+      "answerIndex": 1,
+      "answerCite": { "src": "cblm11", "page": 7, "quote": "It is criterion referenced" }
+    },
+    "matching": {
+      "prompt": "Match each term with what the CBLM says.",
+      "pairs": [
+        {
+          "left": "Evidence based",
+          "right": "Competency decisions based on evidence provided by candidate",
+          "cite": { "src": "cblm11", "page": 7, "quote": "Decisions about whether a person is competent are based upon evidence provided by trainee/or candidate for assessment." }
+        },
+        {
+          "left": "Benchmark",
+          "right": "The competency standards",
+          "cite": { "src": "cblm11", "page": 7, "quote": "the benchmark for basis of assessment are the competency standards." }
+        },
+        {
+          "left": "Period of time",
+          "right": "Evidence of competency may be collected over it",
+          "cite": { "src": "cblm11", "page": 7, "quote": "Evidence of competency may be collected over a period of time." }
+        },
+        {
+          "left": "Industry standards",
+          "right": "Capacity to perform workplace activities",
+          "cite": { "src": "cblm11", "page": 7, "quote": "It focuses on the capacity to perform workplace activities to industry standards." }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What is the purpose of assessment?",
+      "answer": {
+        "text": "To confirm the individual can perform work tasks to workplace standards. These are expressed in competency standards.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm11", "page": 7, "quote": "The purpose of assessment is to confirm that the individual can perform the work tasks to the standards expected in the workplace as expressed in the relevant competency standards." }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "questions",
+      "note": "paper-short-questions-q54 and q72 answer guides add 'Competent/Not Yet Competent' results and 'flexible and participatory'. These are not in the CBLM 11 p.7 list of six characteristics. Card teaches only the CBLM 11 list."
+    }
+  ]
+}

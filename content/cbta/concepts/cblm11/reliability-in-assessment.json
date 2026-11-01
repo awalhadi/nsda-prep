@@ -1,0 +1,270 @@
+{
+  "id": "reliability-in-assessment",
+  "canonical_title": "Reliability of Assessment",
+  "aliases": [
+    "Reliability principles of assessment",
+    "Reliability (principle of assessment)"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p10-b6beb4a5",
+    "cblm11-p11-d27f1e4b",
+    "cblm11-p27-070dafcb"
+  ],
+  "questions": [
+    "cblm11-sc1-q5",
+    "paper-short-questions-q50"
+  ],
+  "one_line_answer": {
+    "text": "Assessments are reliable when methods and procedures are consistently interpreted and applied over time.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 10,
+        "quote": "Assessments are reliable when the methods and procedures used are consistently interpreted and applied over time",
+        "passageId": "cblm11-p10-b6beb4a5"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Reliability",
+      "bn": "নির্ভরযোগ্যতা: বারবার একই রকম ফল"
+    },
+    {
+      "en": "Consistency",
+      "bn": "সবসময় একই রকম থাকা"
+    },
+    {
+      "en": "Interpretation of evidence",
+      "bn": "প্রমাণ কীভাবে বোঝা ও বিচার করা হয়"
+    },
+    {
+      "en": "Unambiguous",
+      "bn": "দুই রকম অর্থ হয় না, পরিষ্কার"
+    },
+    {
+      "en": "Well planned guide",
+      "bn": "আগে থেকে ভালোভাবে তৈরি নির্দেশিকা"
+    }
+  ],
+  "bangla_explanation": [
+    "Reliability মানে assessment যেই করুক, যাকেই করুক, ফল একই রকম আসবে।",
+    "ভিন্ন candidate, ভিন্ন assessor বা ভিন্ন situations-এও একই methods একইভাবে applied হতে হবে।",
+    "এজন্য প্রত্যেক candidate-এর assessment একইভাবে নিতে হয়, instructions পরিষ্কার রাখতে হয়।",
+    "\"Reliability principles\" প্রশ্নে দুটি কথা লিখবেন: practices monitor ও review করা, আর assessor competent হওয়া।"
+  ],
+  "example": {
+    "en": "Two assessors test welding trainees in Dhaka and Khulna. Both use the same checklist and instructions.",
+    "bn": "ঢাকা আর খুলনায় একই checklist ব্যবহার হলে দুই জায়গার ফল তুলনা করা যায়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Administer assessments in the same way for each candidate.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "administering assessments in the same way for each candidate",
+            "passageId": "cblm11-p11-d27f1e4b"
+          }
+        ]
+      },
+      {
+        "text": "Make instructions to candidates clear, consistent and unambiguous.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "ensuring that instructions to candidates are clear, consistent and unambiguous"
+          }
+        ]
+      },
+      {
+        "text": "Assessors use well planned guides for observations and for judging evidence.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "ensuring that assessors use well planned guides, for observations and for making judgements about evidence"
+          }
+        ]
+      },
+      {
+        "text": "Make assessment events 'just right': neither too hard nor too easy.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "making sure that assessment events are 'just right' neither too hard nor too easy"
+          }
+        ]
+      },
+      {
+        "text": "Regularly evaluate and revise the assessment tools with other assessors or subject experts.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "evaluating and revising the assessment tools and their results with other assessors and/ or subject experts on a regular basis"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Reliable: consistently applied with different candidates and assessors. Valid: assess what they claim to assess.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 10,
+          "quote": "consistently interpreted and applied over time with different candidates, assessors and in various situations"
+        },
+        {
+          "src": "cblm11",
+          "page": 10,
+          "quote": "Assessments are valid when they assess what they claim to assess."
+        }
+      ]
+    },
+    {
+      "text": "Do not confuse the reliability principles with how reliability can be improved.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 27,
+          "quote": "The reliability principles are:"
+        },
+        {
+          "src": "cblm11",
+          "page": 11,
+          "quote": "Reliability can be improved by:"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "How do you explain \"reliability\" principles of assessment?",
+      "modelAnswer": "Reliability: assessment methods and procedures are consistently interpreted and applied over time, with different candidates, assessors and situations.\nThe reliability principles are:\n1. Assessment practices should be monitored and reviewed for consistency in the interpretation of evidence.\n2. Assessors must be competent in terms of the national competency standards for assessment.",
+      "keyPoints": [
+        {
+          "text": "Monitor and review assessment practices for consistency in interpreting evidence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 27,
+              "quote": "Assessment practices should be monitored and reviewed to ensure that there is consistency in the interpretation of evidence.",
+              "passageId": "cblm11-p27-070dafcb"
+            }
+          ]
+        },
+        {
+          "text": "Assessors must be competent in the national competency standards for assessment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 27,
+              "quote": "Assessors must be competent in terms of the national competency standards for assessment."
+            }
+          ]
+        },
+        {
+          "text": "Reliability holds with different candidates, assessors and in various situations.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "consistently interpreted and applied over time with different candidates, assessors and in various situations"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which action improves the reliability of an assessment?",
+      "options": [
+        "Giving each candidate different instructions",
+        "Administering assessments in the same way for each candidate",
+        "Making the assessment as hard as possible",
+        "Letting each assessor use their own guide"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 11,
+        "quote": "administering assessments in the same way for each candidate"
+      }
+    },
+    "matching": {
+      "prompt": "Match each way of improving reliability with what it means.",
+      "pairs": [
+        {
+          "left": "Same administration",
+          "right": "Administer assessments the same way for each candidate",
+          "cite": {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "administering assessments in the same way for each candidate"
+          }
+        },
+        {
+          "left": "Clear instructions",
+          "right": "Clear, consistent and unambiguous instructions to candidates",
+          "cite": {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "ensuring that instructions to candidates are clear, consistent and unambiguous"
+          }
+        },
+        {
+          "left": "Well planned guides",
+          "right": "For observations and making judgements about evidence",
+          "cite": {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "ensuring that assessors use well planned guides, for observations and for making judgements about evidence"
+          }
+        },
+        {
+          "left": "'Just right' events",
+          "right": "Neither too hard nor too easy",
+          "cite": {
+            "src": "cblm11",
+            "page": 11,
+            "quote": "making sure that assessment events are 'just right' neither too hard nor too easy"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "When is an assessment reliable?",
+      "answer": {
+        "text": "When methods and procedures are consistently interpreted and applied. This holds for any candidate or assessor.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 10,
+            "quote": "Assessments are reliable when the methods and procedures used are consistently interpreted and applied over time with different candidates, assessors and in various situations."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

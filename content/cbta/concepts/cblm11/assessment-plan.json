@@ -1,0 +1,288 @@
+{
+  "id": "assessment-plan",
+  "canonical_title": "Assessment Plan",
+  "aliases": [
+    "Competency Assessment Plan",
+    "Reviewing assessment plan"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [
+    "cblm11-p45-b3112ad0",
+    "cblm11-p45-6f946e26",
+    "cblm11-p45-1a115121",
+    "cblm11-p46-3977dced",
+    "cblm11-p51-f4949546"
+  ],
+  "questions": [
+    "cblm11-sc3-q1",
+    "cblm11-sc3-q4",
+    "paper-short-questions-q69"
+  ],
+  "one_line_answer": {
+    "text": "An assessment plan is the overall planning document for the assessment process.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 45,
+        "quote": "An assessment plan is the overall planning document for the assessment process",
+        "passageId": "cblm11-p45-b3112ad0"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Assessment plan",
+      "bn": "assessment-এর পূর্ণ পরিকল্পনার কাগজ"
+    },
+    {
+      "en": "Assessment designer",
+      "bn": "যিনি assessment plan তৈরি করেন"
+    },
+    {
+      "en": "Benchmarks",
+      "bn": "যার সাথে মিলিয়ে বিচার করা হয়, মানদণ্ড"
+    },
+    {
+      "en": "Stakeholders",
+      "bn": "সংশ্লিষ্ট ব্যক্তি বা প্রতিষ্ঠান"
+    },
+    {
+      "en": "Version control",
+      "bn": "কোনটা শেষ সংস্করণ তার হিসাব রাখা"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment plan হলো পুরো assessment process-এর মূল পরিকল্পনার document।",
+    "এটা বানান assessment designer, আর এতে purpose, context, benchmarks, methods ও tools থাকে।",
+    "কী, কীভাবে, কোথায়, কখন assessment হবে, সব plan-এ লেখা থাকে।",
+    "Plan reviewing জরুরি, কারণ দেখতে হয় উদ্দেশ্য পূরণ হয়েছে কিনা; শেষ version stakeholders-কে জানিয়ে রেকর্ড রাখতে হয়।"
+  ],
+  "example": {
+    "en": "An electrical trainer writes an assessment plan. It says what, how, where and when trainees are assessed.",
+    "bn": "ইলেকট্রিক্যাল ট্রেডের plan-এ লেখা থাকে কী, কীভাবে, কোথায়, কখন assessment হবে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Purpose and aims of assessment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "purpose and aims of assessment"
+          }
+        ]
+      },
+      {
+        "text": "Context of assessment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "context of assessment"
+          }
+        ]
+      },
+      {
+        "text": "Relevant benchmarks for assessment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "relevant benchmarks for assessment"
+          }
+        ]
+      },
+      {
+        "text": "Other relevant information: what, how, where and when assessment takes place.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "other assessment information and documentation identified as relevant"
+          },
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "what is to be assessed o how assessment is to take place o where assessment is to take place o when assessment is to take place"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "An assessment plan is developed by an assessment designer.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 45,
+          "quote": "An assessment plan is developed by an assessment designer."
+        }
+      ]
+    },
+    {
+      "text": "Several versions are normal. The final version must be communicated, confirmed and recorded.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 51,
+          "quote": "It is normal to have several versions of the assessment plan",
+          "passageId": "cblm11-p51-f4949546"
+        },
+        {
+          "src": "cblm11",
+          "page": 51,
+          "quote": "it is important that the final version is communicated and confirmed with key stakeholders, and recorded"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is an Assessment plan? Who develops it?",
+      "modelAnswer": "An assessment plan is the overall planning document for the assessment process. It guides assessors. It may include purpose, context, personnel, competency standards/assessment benchmarks, assessment methods and tools, the evidence plan and organisational arrangements, including resources and equipment.\nAn assessment plan is developed by an assessment designer.",
+      "keyPoints": [
+        {
+          "text": "It may include purpose, context, personnel, benchmarks, methods and tools, and the evidence plan.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "may include purpose, context, personnel, competency standards/assessment benchmarks, assessment methods and tools, the evidence plan"
+            }
+          ]
+        },
+        {
+          "text": "It includes organisational arrangements, including physical and material resources and equipment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "organisational arrangements including physical and material resources and equipment"
+            }
+          ]
+        },
+        {
+          "text": "An assessment plan is developed by an assessment designer.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "An assessment plan is developed by an assessment designer."
+            }
+          ]
+        },
+        {
+          "text": "Effective plans use multiple methods, both direct and indirect.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "Multiple methods of assessment should be used including both direct and indirect methods",
+              "passageId": "cblm11-p45-1a115121"
+            },
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "Characteristic of an effective assessment plan",
+              "passageId": "cblm11-p45-6f946e26"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Who develops an assessment plan?",
+      "options": [
+        "The candidate",
+        "An assessment designer",
+        "The third party",
+        "The BTEB registrar"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 45,
+        "quote": "An assessment plan is developed by an assessment designer."
+      }
+    },
+    "matching": {
+      "prompt": "Match each part of the assessment plan topic with its meaning.",
+      "pairs": [
+        {
+          "left": "Developer",
+          "right": "Assessment designer",
+          "cite": {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "An assessment plan is developed by an assessment designer."
+          }
+        },
+        {
+          "left": "Effective plan",
+          "right": "Uses both direct and indirect methods",
+          "cite": {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Multiple methods of assessment should be used including both direct and indirect methods"
+          }
+        },
+        {
+          "left": "Assessment results",
+          "right": "Inform improvement of future assessment events",
+          "cite": {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Assessment results should inform improvement in designing of future assessment events."
+          }
+        },
+        {
+          "left": "Reviewing the plan",
+          "right": "Ensures outcomes achieved what was intended",
+          "cite": {
+            "src": "cblm11",
+            "page": 51,
+            "quote": "Reviewing the assessment plan is critical to ensure that the proposed outcomes of the assessment plan have achieved what was intended."
+          }
+        },
+        {
+          "left": "Version control",
+          "right": "Records the confirmed final version",
+          "cite": {
+            "src": "cblm11",
+            "page": 51,
+            "quote": "and recorded. This can be achieved using version control."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why do you need to review your assessment plan?",
+      "answer": {
+        "text": "Reviewing ensures the proposed outcomes of the plan have achieved what was intended.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 51,
+            "quote": "Reviewing the assessment plan is critical to ensure that the proposed outcomes of the assessment plan have achieved what was intended."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

@@ -1,0 +1,499 @@
+{
+  "aliases": [
+    "Checking available learning resources",
+    "What to look for when checking existing resources"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 8,
+      "pages": [
+        {
+          "pdf": 16,
+          "printed": 16
+        },
+        {
+          "pdf": 18,
+          "printed": 18
+        },
+        {
+          "pdf": 30,
+          "printed": 30
+        }
+      ],
+      "src": "cblm08"
+    },
+    {
+      "cblm": 9,
+      "pages": [
+        {
+          "pdf": 55,
+          "printed": 55
+        },
+        {
+          "pdf": 56,
+          "printed": 56
+        },
+        {
+          "pdf": 65,
+          "printed": 65
+        }
+      ],
+      "src": "cblm09"
+    }
+  ],
+  "banglaExplanation": [
+    "বাজারে বা লাইব্রেরিতে অনেক resources আগে থেকেই আছে, কিন্তু সরাসরি নকল করে দেওয়া যাবে না।",
+    "প্রথমে দেখুন language শিক্ষার্থীর level-এর সাথে মেলে কিনা, jargon বেশি কিনা।",
+    "তারপর দেখুন resources safe, accessible কিনা, আর লিঙ্গ, ধর্ম বা সংস্কৃতিকে অসম্মান করে কিনা।",
+    "শেষে দেখুন units of competency, elements আর learning outcomes-এর সাথে relevant কিনা।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 3,
+    "repeat": 2
+  },
+  "cblmPrimary": 8,
+  "errata": [],
+  "example": {
+    "bn": "বিদেশি video পেলেই চালাবেন না, আগে language আর relevance দেখে নিন।",
+    "en": "An electrical trainer finds a foreign video. He checks its language and relevance first."
+  },
+  "highlighted": true,
+  "id": "checking-existing-resources",
+  "importance": {
+    "bn": "CBLM 9 Self Check 3 (Q2)-এ এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in CBLM 9 Self Check 3 (Q2). Highlighted in CBLM 8. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "আগে থেকে তৈরি শেখার উপকরণ",
+      "en": "Existing resources"
+    },
+    {
+      "bn": "কঠিন পেশাগত শব্দ",
+      "en": "Jargon"
+    },
+    {
+      "bn": "শিক্ষার্থীর বৈশিষ্ট্য ও পটভূমি",
+      "en": "Learner characteristics"
+    },
+    {
+      "bn": "প্রাসঙ্গিকতা, কাজের সাথে মিল",
+      "en": "Relevance"
+    },
+    {
+      "bn": "বিভিন্ন ধরনের মানুষকে তুলে ধরা",
+      "en": "Diversity"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "Is the language appropriate for the learners for the level of training?",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "lot of jargon or long words that the learners will struggle with?",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Language: is the language appropriate for the learners and level of training?"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "This may Learner characteristics",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 16,
+            "passageId": "cblm08-p16-1b15a5f0",
+            "printedPage": 16,
+            "quote": "Are safe and accessible",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "reflect diversity,",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "does not demonstrate disrespect towards gender, religion, culture",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Learner characteristics: resources are safe, accessible, reflect diversity and show no disrespect."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 18,
+            "passageId": "cblm08-p18-833e3c6a",
+            "printedPage": 18,
+            "quote": "The resources used must be relevant in terms of:",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Units of competency and their elements",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "Learning outcomes",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Relevance: resources match units of competency, their elements and learning outcomes."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 16,
+        "printedPage": 16,
+        "quote": "Checking available learning resources",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 16,
+        "passageId": "cblm08-p16-3a0a15b1",
+        "printedPage": 16,
+        "quote": "Language",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 16,
+        "printedPage": 16,
+        "quote": "This may Learner characteristics",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 18,
+        "printedPage": 18,
+        "quote": "Relevance",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      {
+        "cblm": 8,
+        "match": "exact",
+        "page": 16,
+        "printedPage": 16,
+        "quote": "What should I look for when checking existing resources?",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Before using existing learning resources, check their language, learner characteristics and relevance."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "Is the language appropriate for the learners for the level of training?",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Language",
+          "right": "Is the language appropriate for the learners?"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "Learners need to feel that they can identify with and understand the learning",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Learner characteristics",
+          "right": "Learners can identify with the resources"
+        },
+        {
+          "cite": {
+            "cblm": 8,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "The resources used must be relevant in terms of:",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          "left": "Relevance",
+          "right": "Resources relevant to units of competency and elements"
+        }
+      ],
+      "prompt": "Match each checking factor with its question."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 8,
+        "match": "exact",
+        "page": 30,
+        "printedPage": 30,
+        "quote": "Units of competency and their elements",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Units of competency, their elements and learning outcomes",
+        "Price, colour and size of the book",
+        "Trainer's own interest only",
+        "Number of handouts prepared"
+      ],
+      "prompt": "Resources must be relevant in terms of which items?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "Learners need to feel that they can identify with and understand the learning resources chosen.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Learners need to identify with and understand the resources chosen."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "that learners can relate to the situations portrayed.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Learners must be able to relate to the situations portrayed."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Importantly, the learner must see them as relevant, with application to their learning.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The learner must see the resources as relevant to their learning."
+        }
+      ],
+      "modelAnswer": "Check three factors before using existing resources:\n1. Language: suitable for the learners' level, with little jargon.\n2. Learner characteristics: safe, accessible, reflect diversity, no disrespect to gender, religion, culture or local customs.\n3. Relevance: relevant to units of competency, their elements and learning outcomes.",
+      "prompt": "What should you check before using existing learning resources?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "simply copy them and distribute them to the learners.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "What should I look for when checking existing resources?",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "No. Do not simply copy existing resources and distribute them to learners."
+      },
+      "prompt": "Can you copy an existing teaching resource and give it to learners?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Depending upon what you are teaching/training, there may be a great deal of\nresources that have already been developed that you can use in the learning\nsession, rather than developing your own.\nHowever, the fact that they exist and may even have been developed specifically for\nteaching does not mean that you can simply copy them and distribute them to the\nlearners.\nThere are several factors that need to be addressed in this regards;\n•\nLanguage\n•\nRelevance\n•\nLearner characteristics\n•\nChecklist for selecting resources\n•\nConsumable resources",
+      "flags": [],
+      "id": "cblm09-sc3-q2",
+      "kind": "selfcheck",
+      "label": "CBLM 9 Self Check 3 (Q2)",
+      "page": 64,
+      "printedPage": 64,
+      "question": "What should you look for when checking existing resources?",
+      "src": "cblm09",
+      "type": "short"
+    }
+  ],
+  "score": 7,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Checking Existing Learning Resources",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 16,
+          "printedPage": 16,
+          "quote": "simply copy them and distribute them to the learners.",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 16,
+          "printedPage": 16,
+          "quote": "What should I look for when checking existing resources?",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Do not simply copy existing resources and distribute them to learners."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 16,
+          "printedPage": 16,
+          "quote": "Sometimes it is important for learners to be aware of industry-specific jargon, but it",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        },
+        {
+          "cblm": 8,
+          "match": "exact",
+          "page": 16,
+          "printedPage": 16,
+          "quote": "should be explained clearly and carefully.",
+          "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+          "src": "cblm08"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Industry jargon is allowed, but it should be explained clearly and carefully."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 65,
+          "printedPage": 65,
+          "quote": "There are several factors that need to be addressed in this regards",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 65,
+          "printedPage": 65,
+          "quote": "Checklist for selecting resources",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 65,
+          "printedPage": 65,
+          "quote": "Consumable resources",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Also address: checklist for selecting resources and consumable resources."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 1
+}
