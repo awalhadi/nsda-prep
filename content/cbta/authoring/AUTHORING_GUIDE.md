@@ -41,10 +41,24 @@ A Bangladeshi TVET trainer candidate. They think in Bangla, know few English wor
 
 `content/cbta/concepts/cblm03/hierarchy-of-controls.json`. Match its tone, density and citation style.
 
+## One CBLM at a time, and never twice for the same topic
+
+Topics repeat across CBLMs. Before creating a card, look at the existing cards (`src/data/cbta/generated/index.json`, the titles and aliases) and read the closest ones.
+
+- **Same topic already has a card** (e.g. rules of evidence in CBLM 11 and CBLM 12): do **not** create a new card. Add an entry to `content/cbta/authoring/links/cblmNN.json`:
+  ```json
+  { "links": [ { "concept": "rules-of-evidence", "passages": ["cblm11-p21-…"], "questions": ["cblm11-sc2-q3"], "note": "Same rules of evidence; CBLM 11 p.21 lists the same four." } ] }
+  ```
+  The passage then counts as covered, and the card shows the extra CBLM in its sources. A link only says "the same topic". If this CBLM adds a genuinely new fact, write it as a `checks[]` note in your report instead of editing another CBLM's card.
+- **New topic:** list it in `content/cbta/authoring/maps/cblmNN.json` (`{ "concepts": [ { id, title, cblmPrimary, covers, questions } ] }`), run `npm run content:packs -- <id>`, and write the card in `content/cbta/concepts/cblmNN/`.
+- Only edit files for your own CBLM: `maps/cblmNN.json`, `links/cblmNN.json`, `concepts/cblmNN/*`.
+- Done means: `npm run -s content:coverage -- cblmNN` shows ✓ (every passage and every Self Check question covered), and `npm run -s content:verify -- <files>` shows 0 errors.
+
 ## Verify before handing over
 
 ```
-node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/verify.ts content/cbta/concepts/cblm12/<id>.json
+npm run -s content:verify -- content/cbta/concepts/cblmNN/<id>.json
+npm run -s content:coverage -- cblmNN
 ```
 
 Fix every `[error]`. Treat a `[warn]` as a sign the claim drifts from the source; reword it closer to the quote.

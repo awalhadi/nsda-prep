@@ -33,10 +33,36 @@
   --font-display: "Space Grotesk", ui-sans-serif, system-ui, "Segoe UI", Roboto, sans-serif;
   --font-body: "Inter", ui-sans-serif, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --font-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", "Menlo", "Consolas", monospace;
+
+  /* CBT&A learning section: light, paper-like, one brand colour (deep green). */
+  --color-paper: #f7f6f2;
+  --color-card: #ffffff;
+  --color-line: #e6e3dc;
+  --color-line-strong: #d3cfc5;
+  --color-ink: #1b1a17;
+  --color-ink-2: #4a4741;
+  --color-ink-3: #85817a;
+  --color-brand: #0e7c5a;
+  --color-brand-ink: #075e44;
+  --color-brand-soft: #e4f3ec;
+  --color-mark: #ffe27a;
+  --color-mark-ink: #4d3a00;
+  --color-sand: #fff6e6;
+  --color-sand-line: #f0dfbd;
+  --color-danger: #b42318;
+  --color-danger-soft: #fdeeec;
+  --color-danger-line: #f6cfc9;
+  --color-ok: #12805c;
+  --color-ok-soft: #e6f5ee;
+  --color-hot: #c2410c;
+  --color-hot-soft: #fff0e6;
 }
 
-* {
-  border-color: var(--border-subtle);
+/* In the base layer so utility classes (e.g. border-line) can override it. */
+@layer base {
+  * {
+    border-color: var(--border-subtle);
+  }
 }
 
 html {
@@ -98,17 +124,35 @@ body {
 
 /* ---------- CBT&A section ---------- */
 .cbta-root {
+  min-height: 100vh;
+  background: var(--color-paper);
+  color: var(--color-ink);
   font-family: var(--cbta-sans), ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
-.cbta-root .font-display {
-  font-family: var(--cbta-display), var(--cbta-sans), ui-sans-serif, sans-serif;
+.cbta-root ::selection {
+  background: var(--color-mark);
+  color: var(--color-ink);
+}
+.cbta-root :focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--color-brand) 55%, transparent);
+  outline-offset: 2px;
 }
 .cbta-root [lang="bn"] {
   font-family: var(--cbta-bangla), var(--cbta-sans), sans-serif;
-  line-height: 1.8;
+  line-height: 1.75;
 }
 .cbta-root .scroll-mt-anchor {
   scroll-margin-top: 7.5rem;
+}
+/* Chunky, tactile buttons (pressed state moves down onto the shadow). */
+.cbta-btn {
+  border-bottom-width: 4px;
+  transition: transform 0.08s ease, border-bottom-width 0.08s ease;
+}
+.cbta-btn:not(:disabled):active {
+  transform: translateY(2px);
+  border-bottom-width: 2px;
 }
 .cbta-flip {
   perspective: 1200px;

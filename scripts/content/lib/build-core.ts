@@ -12,6 +12,8 @@ import { loadEvidence, printedPage, type EvQuestion, type Evidence } from "./evi
 import { contentHash, effectiveStatus, evidenceHash, loadLedger, type EffectiveStatus, type Ledger } from "./ledger.ts";
 import { ROOT } from "./raw.ts";
 import { renderCoverage, renderPatternAnalysis, renderReviewQueue } from "./build-reports.ts";
+import { loadLinks, resolveLinks } from "./links.ts";
+import { normalizeForMatch } from "./normalize.ts";
 
 export const CONCEPTS_DIR = join(ROOT, "content/cbta/concepts");
 export const GENERATED_DIR = join(ROOT, "src/data/cbta/generated");
@@ -59,7 +61,7 @@ export interface BuildResult {
 }
 
 export interface BuildOptions {
-  /** CBLM source ids whose highlights must be 100% covered (e.g. ["cblm12"]). */
+  /** CBLM source ids whose highlights must be 100% covered (e.g. ["cblm12"]); "all" = every CBLM. */
   strict?: string[];
   /** CBLM source ids whose ★★★ concepts must all be approved before release. */
   requireApproved?: string[];
@@ -169,6 +171,23 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
   for (const id of new Set(ids)) if (ids.filter((x) => x === id).length > 1)
     globalIssues.push({ level: "error", code: "duplicate-concept-id", path: id, message: `concept id ${id} is used by more than one file` });
 
+  // ---------- cross-CBLM links ----------
+  const links = resolveLinks(loadLinks(), ev, new Set(loaded.filter((l) => l.concept).map((l) => l.id)));
+  globalIssues.push(...links.issues);
+
+  // ---------- possible duplicate concepts (same topic written twice) ----------
+  const titleKeys = loaded.filter((l) => l.concept).map((l) => ({
+    id: l.id,
+    keys: [l.concept!.canonical_title, ...l.concept!.aliases].map((t) => normalizeForMatch(t).replace(/\b(the|of|and|a|an|in)\b/g, "").replace(/\s+/g, " ").trim()),
+  }));
+  for (let i = 0; i < titleKeys.length; i++) for (let j = i + 1; j < titleKeys.length; j++) {
+    const shared = titleKeys[i].keys.filter((k) => k && titleKeys[j].keys.includes(k));
+    if (shared.length) globalIssues.push({
+      level: "warn", code: "possible-duplicate-concept", path: `${titleKeys[i].id} + ${titleKeys[j].id}`,
+      message: `both cards are titled/aliased "${shared[0]}"; merge them or link one CBLM to the other`,
+    });
+  }
+
   // ---------- per concept ----------
   const partial = loaded.map((l) => {
     const c = l.concept;
@@ -181,8 +200,12 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
       if (l.file.split("/").slice(-2)[0] !== `cblm${String(c.cblmPrimary).padStart(2, "0")}`)
         issues.push({ level: "warn", code: "folder-mismatch", path: l.file, message: `file should live in concepts/cblm${String(c.cblmPrimary).padStart(2, "0")}/` });
     }
-    const qs = (c?.questions ?? []).map((id) => ev.questions.get(id)).filter((q): q is EvQuestion => !!q);
-    const covered = (c?.covers ?? []).map((id) => ev.passages.get(id)).filter((p) => !!p);
+    const linkedQ = c ? links.questions.get(c.id) ?? [] : [];
+    const linkedP = c ? links.passages.get(c.id) ?? [] : [];
+    for (const n of c ? links.notes.get(c.id) ?? [] : [])
+      issues.push({ level: "warn", code: "cross-cblm-link", path: n.from, message: `${n.passages} highlight(s) and ${n.questions} question(s) from another CBLM point to this card: ${n.note}. Check that the card really answers them.` });
+    const qs = [...new Set([...(c?.questions ?? []), ...linkedQ])].map((id) => ev.questions.get(id)).filter((q): q is EvQuestion => !!q);
+    const covered = [...new Set([...(c?.covers ?? []), ...linkedP])].map((id) => ev.passages.get(id)).filter((p) => !!p);
     const cblmSet = new Set<number>();
     if (c) cblmSet.add(c.cblmPrimary);
     covered.forEach((p) => cblmSet.add(ev.sources.get(p!.src)!.cblm!));
@@ -249,13 +272,14 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
   });
 
   // ---------- coverage ----------
-  const coveredIds = new Set(results.flatMap((r) => r.concept?.covers ?? []));
+  const coveredIds = new Set([...results.flatMap((r) => r.concept?.covers ?? []), ...[...links.passages.values()].flat()]);
   const coverage = [...ev.passagesBySrc].map(([src, ps]) => ({
     src, cblm: ev.sources.get(src)!.cblm!, total: ps.length,
     covered: ps.filter((p) => coveredIds.has(p.id)).length,
     uncovered: ps.filter((p) => !coveredIds.has(p.id)).map((p) => p.id),
   })).sort((a, b) => a.cblm - b.cblm);
-  for (const src of opts.strict ?? []) {
+  const strict = (opts.strict ?? []).includes("all") ? coverage.map((c) => c.src) : opts.strict ?? [];
+  for (const src of strict) {
     const cov = coverage.find((c) => c.src === src);
     if (!cov) globalIssues.push({ level: "error", code: "strict-unknown-source", path: src, message: `no evidence for ${src}` });
     else if (cov.uncovered.length) globalIssues.push({
@@ -263,8 +287,8 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
       message: `${cov.uncovered.length} highlight passage(s) in ${src} are not covered by any concept`,
     });
   }
-  const mappedQ = new Set(results.flatMap((r) => r.concept?.questions ?? []));
-  for (const src of opts.strict ?? []) {
+  const mappedQ = new Set([...results.flatMap((r) => r.concept?.questions ?? []), ...[...links.questions.values()].flat()]);
+  for (const src of strict) {
     for (const [id, q] of ev.questions) {
       if (q.src === src && !mappedQ.has(id) && !conceptMap.unmapped?.[id])
         globalIssues.push({ level: "error", code: "unmapped-question", path: id, message: `${questionLabel(q)} is not mapped to a concept` });
@@ -324,14 +348,14 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
         matching: { ...c.practice.matching, pairs: c.practice.matching.pairs.map((p) => ({ ...p, cite: ec(p.cite) })) },
         viva: { ...c.practice.viva, answer: ecl(c.practice.viva.answer) },
       },
-      realQuestions: c.questions.map((id) => realQuestion(ev, id)).filter(Boolean),
+      realQuestions: [...new Set([...c.questions, ...(links.questions.get(r.id) ?? [])])].map((id) => realQuestion(ev, id)).filter(Boolean),
       errata: errata.filter((e) => e.status === "confirmed" && e.conceptIds.includes(r.id)),
       openChecks: c.checks.length,
       warnings: r.issues.filter((i) => i.level === "warn").length,
     });
   }
 
-  outputs.set(join(ROOT, "docs/plan/COVERAGE_REPORT.md"), renderCoverage(coverage, ev, results, conceptMap.unmapped ?? {}));
+  outputs.set(join(ROOT, "docs/plan/COVERAGE_REPORT.md"), renderCoverage(coverage, ev, results, conceptMap.unmapped ?? {}, [...links.questions.values()].flat()));
   outputs.set(join(ROOT, "docs/plan/REVIEW_QUEUE.md"), renderReviewQueue(results, globalIssues, errata, ev));
   outputs.set(join(ROOT, "docs/plan/PATTERN_ANALYSIS.md"), renderPatternAnalysis(ev, results));
 

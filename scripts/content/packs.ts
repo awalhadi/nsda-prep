@@ -2,10 +2,10 @@
 //
 //   content/cbta/.cache/packs/<conceptId>.md   (gitignored)
 //
-// Input: content/cbta/authoring/concept-map.json → concepts[{ id, title, cblmPrimary, covers, questions }].
+// Input: content/cbta/authoring/maps/*.json → concepts[{ id, title, cblmPrimary, covers, questions }].
 // Usage: node --experimental-strip-types scripts/content/packs.ts [conceptId …]
 
-import { readFileSync } from "node:fs";
+import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { ROOT } from "./lib/raw.ts";
 import { loadEvidence, pageText, printedPage } from "./lib/evidence.ts";
@@ -14,7 +14,12 @@ import { writeText } from "./lib/canonical-json.ts";
 
 interface MapEntry { id: string; title: string; cblmPrimary: number; covers: string[]; questions: string[] }
 
-const map = JSON.parse(readFileSync(join(ROOT, "content/cbta/authoring/concept-map.json"), "utf8")) as { concepts?: MapEntry[] };
+// One map per CBLM (content/cbta/authoring/maps/cblmNN.json) so authors of different CBLMs never edit the same file.
+const MAPS = join(ROOT, "content/cbta/authoring/maps");
+const map = {
+  concepts: (existsSync(MAPS) ? readdirSync(MAPS).filter((f) => f.endsWith(".json")).sort() : [])
+    .flatMap((f) => (JSON.parse(readFileSync(join(MAPS, f), "utf8")) as { concepts?: MapEntry[] }).concepts ?? []),
+};
 const only = process.argv.slice(2);
 const ev = loadEvidence();
 let n = 0;

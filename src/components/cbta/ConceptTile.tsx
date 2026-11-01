@@ -1,36 +1,29 @@
 import Link from "next/link";
-import { ChevronRight, MessageSquareText } from "lucide-react";
+import { ChevronRight } from "lucide-react";
 import type { GenIndexEntry } from "@/lib/cbta/types";
 import { HighlightMark, PRIORITY, StatusBadge } from "./Badges";
 
 export default function ConceptTile({ c, showCblm = false }: { c: GenIndexEntry; showCblm?: boolean }) {
   const p = PRIORITY[c.stars];
   return (
-    <Link
-      href={`/cbta/concept/${c.id}`}
-      className="group relative flex overflow-hidden rounded-2xl border border-white/10 bg-surface/80 transition-all hover:-translate-y-0.5 hover:border-white/20 hover:bg-surface-2"
-    >
-      <span className={`w-1.5 shrink-0 ${p.rail}`} aria-hidden />
-      <div className="flex min-w-0 flex-1 items-center gap-3 p-4">
-        <div className="min-w-0 flex-1">
-          <div className="flex items-start justify-between gap-2">
-            <h3 className="font-display text-[17px] font-semibold leading-snug group-hover:text-white">{c.title}</h3>
-            <span className={`shrink-0 text-sm tracking-tight ${p.text}`} aria-label={`${c.stars} of 3 stars`}>{"★".repeat(c.stars)}</span>
-          </div>
-          <p className="mt-1 line-clamp-2 text-sm text-text-muted">{c.oneLine}</p>
-          <div className="mt-2.5 flex flex-wrap items-center gap-1.5">
-            {showCblm && <span className="rounded-full bg-white/5 px-2 py-0.5 text-[11px] text-text-muted">CBLM {c.cblmPrimary}</span>}
-            {c.asked > 0 && (
-              <span className="inline-flex items-center gap-1 rounded-full bg-indigo-400/15 px-2 py-0.5 text-[11px] font-medium text-indigo-200">
-                <MessageSquareText size={11} aria-hidden /> Asked {c.asked}×
-              </span>
-            )}
-            {c.highlighted && <HighlightMark size="sm" />}
-            {c.status !== "draft" && <StatusBadge status={c.status} />}
-          </div>
+    <Link href={`/cbta/concept/${c.id}`}
+      className="group flex items-center gap-3 rounded-2xl border border-line bg-card p-4 transition-shadow hover:border-line-strong hover:shadow-[0_2px_12px_rgba(27,26,23,0.06)]">
+      <div className="min-w-0 flex-1">
+        <div className="flex items-start justify-between gap-3">
+          <h3 className="text-[16.5px] font-bold leading-snug text-ink">{c.title}</h3>
+          <span className={`shrink-0 text-[15px] tracking-tight ${p.text}`} aria-label={`${c.stars} of 3 stars`}>
+            {"★".repeat(c.stars)}<span className="text-line-strong">{"★".repeat(3 - c.stars)}</span>
+          </span>
         </div>
-        <ChevronRight size={18} className="shrink-0 text-text-faint transition-transform group-hover:translate-x-0.5 group-hover:text-text-muted" aria-hidden />
+        <p className="mt-1 line-clamp-2 text-[14.5px] text-ink-2">{c.oneLine}</p>
+        <div className="mt-2.5 flex flex-wrap items-center gap-x-3 gap-y-1.5 text-[12.5px] font-semibold text-ink-3">
+          {showCblm && <span>CBLM {c.cblmPrimary}</span>}
+          {c.asked > 0 && <span>Asked {c.asked}×</span>}
+          {c.highlighted && <HighlightMark size="sm" />}
+          {c.status !== "draft" && <StatusBadge status={c.status} />}
+        </div>
       </div>
+      <ChevronRight size={18} className="shrink-0 text-line-strong transition-transform group-hover:translate-x-0.5 group-hover:text-ink-3" aria-hidden />
     </Link>
   );
 }
