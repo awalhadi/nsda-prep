@@ -9,7 +9,7 @@ Date: 2026-11-01 · Branch: `feat/cbta-l4`
 | Language | TypeScript 5 (strict, `noEmit`, `moduleResolution: bundler`, alias `@/*` → `src/*`) |
 | Framework | Next.js **16.3.0**, App Router. It has breaking changes, so read `node_modules/next/dist/docs/` first. Route params are async (`params: Promise<…>`). |
 | UI | React 19.2, Tailwind CSS 4 (design tokens in `src/app/globals.css`, dark theme only), framer-motion 13, lucide-react, clsx |
-| Package manager | **npm** (README uses it). `package-lock.json` and `bun.lock` were committed together, so `bun.lock` looks like leftover drift (see Questions). |
+| Package manager | **bun 1.4.4 in practice.** `node_modules` was installed by bun (there's no `.package-lock.json`, and `npm install` crashes on this tree). README still says npm. P1a added vitest with `bun add`, so `package-lock.json` is now out of date (see Questions). |
 | Data | Static JSON in `src/data/*.json`, registered in `src/data/manifest.json` and read through `src/data/loader.ts` |
 | Storage | Browser `localStorage`, key `wdp3_store_v1`, in `src/lib/storage.ts`. `loadStore` shallow-merges with defaults, so new optional fields are safe to add. |
 | DB / ORM / auth | **None** |
@@ -74,12 +74,12 @@ Date: 2026-11-01 · Branch: `feat/cbta-l4`
 
 ## Assumptions (proceeding unless corrected)
 
-1. Use npm. Leave `bun.lock` alone until you decide (Q1).
+1. Use bun for installs, because the installed tree comes from bun. npm scripts still run either way (`npm run …` / `bun run …`). Leave `package-lock.json` alone until you decide (Q1).
 2. The pilot CBLM is **12** (50 pages and 166 highlights, which is the fastest review loop; it appears in the Final Formative; and it owns the shared assessment concepts).
 3. Single local user. `user_id` is a constant.
 4. Evidence text extracted from the PDFs is committed, so checks and CI run without the PDFs. Re-extracting needs the PDFs locally.
 
 ## Questions (non-blocking for P1a; needed before P1b approvals)
 
-1. **Delete `bun.lock`** and standardise on npm? (Recommended: yes.)
+1. **Standardise on bun and delete the stale `package-lock.json`** (and update the README)? Recommended: yes, since bun is what actually installed `node_modules`.
 2. **Reviewer names** for `content/cbta/review/reviewers.json`: who may approve cards (you and/or a teacher)?
