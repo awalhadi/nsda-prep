@@ -2,11 +2,12 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Terminal, LayoutDashboard, BookOpen, RotateCcw, Settings } from "lucide-react";
+import { Terminal, LayoutDashboard, BookOpen, RotateCcw, Settings, GraduationCap } from "lucide-react";
 
 const links = [
   { href: "/", label: "dashboard", icon: LayoutDashboard },
   { href: "/modules", label: "modules", icon: BookOpen },
+  { href: "/cbta", label: "cbt&a l4", icon: GraduationCap },
   { href: "/review", label: "review", icon: RotateCcw },
   { href: "/settings", label: "settings", icon: Settings },
 ];
@@ -22,12 +23,12 @@ export default function TopNav() {
           </span>
           <span className="font-display font-semibold tracking-tight text-[15px]">
             console<span className="text-teal">.</span>
-            <span className="text-text-muted font-mono-tag text-xs font-normal">webdesign-l3</span>
+            <span className="hidden sm:inline text-text-muted font-mono-tag text-xs font-normal">webdesign-l3</span>
           </span>
         </Link>
         <nav className="flex items-center gap-1">
           {links.map(({ href, label, icon: Icon }) => {
-            const active = pathname === href;
+            const active = pathname === href || (href === "/cbta" && pathname.startsWith("/cbta/"));
             return (
               <Link
                 key={href}

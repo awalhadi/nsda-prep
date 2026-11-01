@@ -88,6 +88,9 @@ export interface GenIndexEntry {
   sourceType: "cblm" | "question-paper-only";
   keywords: { en: string; bn: string }[];
   oneLine: string;
+  /** Real exam/self-check questions mapped to this concept. */
+  asked: number;
+  types: QType[];
 }
 
 export interface GenCblm {

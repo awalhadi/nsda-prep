@@ -7,7 +7,7 @@
 | Paper | Class | MCQ | Matching | Short |
 |---|---|---|---|---|
 | Final Formative 01 | formative | 10 | 5 | 10 |
-| Short Questions (answer guide) | unit | 0 | 0 | 83 |
+| Short Questions | unit | 0 | 0 | 83 |
 | Unit 01 Answers | unit | 10 | 5 | 10 |
 | Unit 01 Questions | unit | 10 | 5 | 10 |
 | Unit 01 Short Questions | unit | 0 | 0 | 19 |
@@ -48,25 +48,25 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 
 | # | Concept | CBLM | Stars | Score | Highlight | Repeat | Exam | Why important |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Recording and Reporting Assessment Results | 12 | ★★★ | 14 | 3 | 1 | 10 | Asked in Final Formative 01 (Short 25), Short Questions (answer guide) (Short 73), Short Questions (answer guide) (Short 74), CBLM 12 Self Check 1 (Q12), CBLM 12 Self Check 1 (Q13) and CBLM 12 Self Check 1 (Q14). Highlighted in CBLM 12. Comes as short question. |
-| 2 | Reasonable Adjustment | 12 | ★★★ | 13 | 3 | 1 | 9 | Asked in Final Formative 01 (Short 22), CBT&A L4 Written Test — Inclusivity & Maintenance (Short 3), Short Questions (answer guide) (Short 6), Short Questions (answer guide) (Short 8) and CBLM 12 Self Check 1 (Q3). Highlighted in CBLM 12. Comes as short question. |
-| 3 | Adjustment Strategies for Candidate Groups | 12 | ★★★ | 11 | 3 | 1 | 7 | Asked in Short Questions (answer guide) (Short 7), Short Questions (answer guide) (Short 9), CBT&A L4 Written Test — Inclusivity & Maintenance (Short 4) and CBLM 12 Self Check 1 (Q4). Highlighted in CBLM 12. Comes as short question. |
-| 4 | Errors Commonly Made by Assessors | 12 | ★★★ | 10 | 3 | 1 | 6 | Asked in Final Formative 01 (MCQ 9), Short Questions (answer guide) (Short 59), Short Questions (answer guide) (Short 65) and CBLM 12 Self Check 1 (Q8). Highlighted in CBLM 12. Comes as MCQ and short question. |
-| 5 | Effective Ways of Giving Feedback | 12 | ★★★ | 10 | 3 | 1 | 6 | Asked in Short Questions (answer guide) (Short 35), Short Questions (answer guide) (Short 36), Short Questions (answer guide) (Short 37), Final Formative 01 (MCQ 10) and CBLM 12 Self Check 1 (Q16). Highlighted in CBLM 12. Comes as MCQ and short question. |
-| 6 | Rules of Evidence | 12 | ★★★ | 10 | 3 | 1 | 6 | Asked in Short Questions (answer guide) (Short 45), Short Questions (answer guide) (Short 48), CBLM 12 Self Check 1 (Q9) and CBLM 12 Self Check 1 (Q10). Highlighted in CBLM 12. Comes as short question. |
-| 7 | Making an Assessment Decision | 12 | ★★☆ | 8 | 3 | 1 | 4 | Asked in Short Questions (answer guide) (Short 55), Short Questions (answer guide) (Short 79) and CBLM 12 Self Check 1 (Q11). Highlighted in CBLM 12. Comes as short question. |
+| 1 | Recording and Reporting Assessment Results | 12 | ★★★ | 14 | 3 | 1 | 10 | Asked in Final Formative 01 (Short 25), Short Questions (Short 73, 74) and CBLM 12 Self Check 1 (Q12, Q13, Q14). Highlighted in CBLM 12. Comes as short question. |
+| 2 | Reasonable Adjustment | 12 | ★★★ | 13 | 3 | 1 | 9 | Asked in Final Formative 01 (Short 22), CBT&A L4 Written Test — Inclusivity & Maintenance (Short 3), Short Questions (Short 6, 8) and CBLM 12 Self Check 1 (Q3). Highlighted in CBLM 12. Comes as short question. |
+| 3 | Adjustment Strategies for Candidate Groups | 12 | ★★★ | 11 | 3 | 1 | 7 | Asked in Short Questions (Short 7, 9), CBT&A L4 Written Test — Inclusivity & Maintenance (Short 4) and CBLM 12 Self Check 1 (Q4). Highlighted in CBLM 12. Comes as short question. |
+| 4 | Errors Commonly Made by Assessors | 12 | ★★★ | 10 | 3 | 1 | 6 | Asked in Final Formative 01 (MCQ 9), Short Questions (Short 59, 65) and CBLM 12 Self Check 1 (Q8). Highlighted in CBLM 12. Comes as MCQ and short question. |
+| 5 | Effective Ways of Giving Feedback | 12 | ★★★ | 10 | 3 | 1 | 6 | Asked in Short Questions (Short 35, 36, Short 37), Final Formative 01 (MCQ 10) and CBLM 12 Self Check 1 (Q16). Highlighted in CBLM 12. Comes as MCQ and short question. |
+| 6 | Rules of Evidence | 12 | ★★★ | 10 | 3 | 1 | 6 | Asked in Short Questions (Short 45, 48) and CBLM 12 Self Check 1 (Q9, Q10). Highlighted in CBLM 12. Comes as short question. |
+| 7 | Making an Assessment Decision | 12 | ★★☆ | 8 | 3 | 1 | 4 | Asked in Short Questions (Short 55, 79) and CBLM 12 Self Check 1 (Q11). Highlighted in CBLM 12. Comes as short question. |
 | 8 | Methods and Tools for Gathering Evidence | 12 | ★★☆ | 8 | 3 | 1 | 4 | Asked in Final Formative 01 (MCQ 8) and CBLM 12 Self Check 1 (Q7). Highlighted in CBLM 12. Comes as MCQ and short question. |
 | 9 | Hierarchy of Controls | 3 | ★★☆ | 8 | 3 | 1 | 4 | Asked in Final Formative 01 (MCQ 3) and CBLM 3 Self Check 1 (Q4). Highlighted in CBLM 3. Comes as MCQ and short question. |
 | 10 | Feedback and the Feedback Sandwich | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Final Formative 01 (Matching 15) and CBLM 12 Self Check 1 (Q15). Highlighted in CBLM 12. Comes as matching and short question. |
-| 11 | Forms of Evidence: Direct and Indirect | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Short Questions (answer guide) (Short 67), Short Questions (answer guide) (Short 80) and CBLM 12 Self Check 1 (Q6). Highlighted in CBLM 12. Comes as short question. |
-| 12 | Informing Candidates Before Assessment | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Short Questions (answer guide) (Short 60) and CBLM 12 Self Check 1 (Q2). Highlighted in CBLM 12. Comes as short question. |
+| 11 | Forms of Evidence: Direct and Indirect | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Short Questions (Short 67, 80) and CBLM 12 Self Check 1 (Q6). Highlighted in CBLM 12. Comes as short question. |
+| 12 | Informing Candidates Before Assessment | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Short Questions (Short 60) and CBLM 12 Self Check 1 (Q2). Highlighted in CBLM 12. Comes as short question. |
 | 13 | When to Stop an Assessment | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Final Formative 01 (Short 24) and CBLM 12 Self Check 1 (Q5). Highlighted in CBLM 12. Comes as short question. |
 | 14 | Stages of Competency Assessment | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q1). Highlighted in CBLM 12. Comes as short question. |
-| 15 | Free Consent and Confidentiality | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (answer guide) (Short 61). Highlighted in CBLM 12. Comes as short question. |
-| 16 | Legal and Ethical Responsibilities in Assessment | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (answer guide) (Short 62) and Short Questions (answer guide) (Short 77). Highlighted in CBLM 12. Comes as short question. |
+| 15 | Free Consent and Confidentiality | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 61). Highlighted in CBLM 12. Comes as short question. |
+| 16 | Legal and Ethical Responsibilities in Assessment | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 62, 77). Highlighted in CBLM 12. Comes as short question. |
 | 17 | Reviewing the Assessment Process | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q18). Highlighted in CBLM 12. Comes as short question. |
 | 18 | Benefits of Feedback on Assessment | 12 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q17). Highlighted in CBLM 12. Comes as short question. |
-| 19 | Preparing Candidates and a Supportive Environment | 12 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (answer guide) (Short 83). Highlighted in CBLM 12. Comes as short question. |
+| 19 | Preparing Candidates and a Supportive Environment | 12 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 83). Highlighted in CBLM 12. Comes as short question. |
 | 20 | Role of an Assessor of Competency | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
 | 21 | Context of Assessment | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
 | 22 | Self-Assessment Instruments | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |

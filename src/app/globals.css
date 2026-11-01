@@ -95,3 +95,40 @@ body {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* ---------- CBT&A section ---------- */
+.cbta-root {
+  font-family: var(--cbta-sans), ui-sans-serif, system-ui, sans-serif;
+}
+.cbta-root .font-display {
+  font-family: var(--cbta-display), var(--cbta-sans), ui-sans-serif, sans-serif;
+}
+.cbta-root [lang="bn"] {
+  font-family: var(--cbta-bangla), var(--cbta-sans), sans-serif;
+  line-height: 1.8;
+}
+.cbta-root .scroll-mt-anchor {
+  scroll-margin-top: 7.5rem;
+}
+.cbta-flip {
+  perspective: 1200px;
+}
+.cbta-flip-inner {
+  transition: transform 0.5s ease;
+  transform-style: preserve-3d;
+}
+.cbta-flip-inner[data-flipped="true"] {
+  transform: rotateY(180deg);
+}
+.cbta-flip-face {
+  backface-visibility: hidden;
+}
+.cbta-flip-back {
+  transform: rotateY(180deg);
+}
+.cbta-noscrollbar {
+  scrollbar-width: none;
+}
+.cbta-noscrollbar::-webkit-scrollbar {
+  display: none;
+}

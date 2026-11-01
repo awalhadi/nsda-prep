@@ -25,7 +25,7 @@ export default async function ConceptPage({ params }: { params: Promise<{ id: st
   return (
     <>
       <TopNav />
-      <main className="mx-auto max-w-3xl px-4 sm:px-6 py-6 space-y-4">
+      <main className="mx-auto max-w-3xl space-y-4 px-4 pb-16 pt-5 sm:px-6">
         <Link href={`/cbta/cblm/${c.cblmPrimary}`} className="inline-flex min-h-11 items-center gap-1.5 text-sm text-text-muted hover:text-teal">
           <ArrowLeft size={14} aria-hidden /> CBLM {c.cblmPrimary}
         </Link>

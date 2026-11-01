@@ -79,6 +79,22 @@ function walkJson(dir: string): string[] {
   });
 }
 
+/** "Paper (Short 45)", "Paper (Short 48)" → "Paper (Short 45, 48)"; same for self checks. */
+export function groupedLabels(qs: EvQuestion[]): string[] {
+  const groups = new Map<string, string[]>();
+  for (const q of qs) {
+    const m = /^(.*) \((.*)\)$/.exec(questionLabel(q));
+    if (!m) continue;
+    const [, head, item] = m;
+    const list = groups.get(head) ?? groups.set(head, []).get(head)!;
+    // Drop a repeated type word: "Short 45, Short 48" → "Short 45, 48".
+    const prevType = list.length ? list[list.length - 1].split(" ")[0] : null;
+    const [type, ...rest] = item.split(" ");
+    list.push(prevType === type && rest.length ? rest.join(" ") : item);
+  }
+  return [...groups].map(([head, items]) => `${head} (${items.join(", ")})`);
+}
+
 export function questionLabel(q: EvQuestion): string {
   if (q.kind === "selfcheck") {
     const mod = q.item.part > 1 ? ` (module ${q.item.part})` : "";
@@ -210,8 +226,8 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
     const st = stars.get(p.id) ?? 1;
     const types = [...new Set(p.qs.map(questionType))].sort() as ("mcq" | "matching" | "short")[];
     const importance = importanceReason({
-      papers: p.qs.filter((q) => q.kind === "paper").map(questionLabel),
-      selfChecks: p.qs.filter((q) => q.kind === "selfcheck").map(questionLabel),
+      papers: groupedLabels(p.qs.filter((q) => q.kind === "paper")),
+      selfChecks: groupedLabels(p.qs.filter((q) => q.kind === "selfcheck")),
       highlightedIn: [...new Set((p.concept?.covers ?? []).map((id) => ev.sources.get(ev.passages.get(id)?.src ?? "")?.cblm)
         .filter((n): n is number => typeof n === "number"))].sort((a, b) => a - b),
       types,
@@ -278,6 +294,7 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
       cblms: r.appearsIn.map((a) => a.cblm), stars: r.stars, score: r.score, status: r.status,
       highlighted: r.signals.highlighted, sourceType: r.concept!.source_type,
       keywords: r.concept!.keywords, oneLine: r.concept!.one_line_answer.text,
+      asked: r.concept!.questions.length, types: r.likelyTypes,
     })),
   });
   gen("cblms.json", [...ev.sources.values()].filter((s) => s.kind === "cblm").sort((a, b) => a.cblm! - b.cblm!).map((s) => {
