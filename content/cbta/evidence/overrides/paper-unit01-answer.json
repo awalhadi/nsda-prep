@@ -1,0 +1,12 @@
+[
+  {
+    "id": "paper-unit01-answer-q2",
+    "reason": "Options are printed with image bullets instead of a)–d) letters, so the parser read them as an answer. Options copied from PDF page 1 (y≈287–362). The answer copy highlights 'Skilled Worker.' (highlight rect y 310–324).",
+    "set": {
+      "type": "mcq",
+      "options": ["Highly Skilled Worker.", "Skilled Worker.", "Supervisor.", "Semi Skilled Worker."],
+      "answerIndex": 1,
+      "answer": null
+    }
+  }
+]

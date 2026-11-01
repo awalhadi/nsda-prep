@@ -1,0 +1,422 @@
+{
+  "matchSets": [
+    {
+      "id": "paper-unit01-answer-match1",
+      "page": 3,
+      "paper": "paper-unit01-answer",
+      "prompt": "Matching Question",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Evidence Guide"
+        },
+        {
+          "letter": "B",
+          "text": "Range Statement"
+        },
+        {
+          "letter": "C",
+          "text": "Underpinning knowledge for UoC"
+        },
+        {
+          "letter": "D",
+          "text": "Element of Competency"
+        },
+        {
+          "letter": "E",
+          "text": "Competency standard"
+        },
+        {
+          "letter": "F",
+          "text": "Performance Criteria"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "answerIndex": 1,
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q1",
+      "num": 1,
+      "options": [
+        "Competency Based Training & Assessment (CBT&A).",
+        "Quality Assurance System (QAS).",
+        "Strengthened role of Industry Sectors in Skills Development.",
+        "Recognition of Prior Learning (RPL)"
+      ],
+      "page": 1,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "What is the key feature of NSDP that focused on ensuring the Quality of training and assessment?",
+      "type": "mcq"
+    },
+    {
+      "answer": null,
+      "answerIndex": 1,
+      "flags": [
+        "overridden"
+      ],
+      "group": null,
+      "id": "paper-unit01-answer-q2",
+      "num": 2,
+      "options": [
+        "Highly Skilled Worker.",
+        "Skilled Worker.",
+        "Supervisor.",
+        "Semi Skilled Worker."
+      ],
+      "page": 1,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Work or study under supervision with considerable autonomy. Participate in teams and responsible for group coordination.",
+      "type": "mcq"
+    },
+    {
+      "answerIndex": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "group": null,
+      "id": "paper-unit01-answer-q3",
+      "num": 3,
+      "options": [
+        "Theoretical knowledge that should be covered first for meeting learning outcomes",
+        "Key concepts or essential information for meeting learning outcomes",
+        "Information that can be covered if time allows for meeting learning outcomes",
+        "Overloading students with unnecessary knowledge"
+      ],
+      "page": 1,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "In the context of underpinning knowledge, what does \"MUST KNOW\" information refers to?",
+      "type": "mcq"
+    },
+    {
+      "answerIndex": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "group": null,
+      "id": "paper-unit01-answer-q4",
+      "num": 4,
+      "options": [
+        "To identify work schedules and hours for effective employment",
+        "Employee salaries and benefits for effective employment",
+        "Workplace attire and appearance",
+        "Performance requirements for effective employment"
+      ],
+      "page": 1,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "What are industry competency standards primarily designed to specify?",
+      "type": "mcq"
+    },
+    {
+      "answerIndex": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "group": null,
+      "id": "paper-unit01-answer-q5",
+      "num": 5,
+      "options": [
+        "Work or study under supervision with considerable and autonomy.",
+        "Work under guidance of management and self- direction to resolve specific issues.",
+        "Work or study under supervision in a structured context with limited scope of manipulation.",
+        "Work under minimal supervision in specific contexts in response to workplace requirements."
+      ],
+      "page": 1,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Imagine you are Level 4 Competent, what will be your responsibilities according to the BNQF Level Descriptors.?",
+      "type": "mcq"
+    },
+    {
+      "answerIndex": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "group": null,
+      "id": "paper-unit01-answer-q6",
+      "num": 6,
+      "options": [
+        "It defines industry competencies",
+        "It replaces industry competency standards",
+        "It interprets and delivers industry competency standards as a courses",
+        "It sets national qualification criteria for TVET institutions"
+      ],
+      "page": 2,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "What is the role of a curriculum document in relation to industry competency standards?",
+      "type": "mcq"
+    },
+    {
+      "answerIndex": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "group": null,
+      "id": "paper-unit01-answer-q7",
+      "num": 7,
+      "options": [
+        "Competency Based Training & Assessment (CBT&A).",
+        "Quality Assurance System (QAS).",
+        "Strengthened role of Industry Sectors in Skills Development.",
+        "Recognition of Prior Learning (RPL)"
+      ],
+      "page": 2,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "The key feature of NSDP ensure Quality training and assessment context of competency based?",
+      "type": "mcq"
+    },
+    {
+      "answerIndex": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "group": null,
+      "id": "paper-unit01-answer-q8",
+      "num": 8,
+      "options": [
+        "Performance criteria",
+        "Nominal hours",
+        "Range of variable",
+        "Unit descriptor"
+      ],
+      "page": 2,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "The................ gives a short summary which specifies the scope and level of performance required.",
+      "type": "mcq"
+    },
+    {
+      "answerIndex": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "group": null,
+      "id": "paper-unit01-answer-q9",
+      "num": 9,
+      "options": [
+        "Highly Skilled Worker.",
+        "Skilled Worker.",
+        "Supervisor.",
+        "Semi Skilled Worker."
+      ],
+      "page": 2,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Work or study under supervision with considerable autonomy. Participate in teams and responsible for group coordination.",
+      "type": "mcq"
+    },
+    {
+      "answerIndex": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "group": null,
+      "id": "paper-unit01-answer-q10",
+      "num": 10,
+      "options": [
+        "the list of theoretical topics to be studied.",
+        "the wage the apprentice will receive.",
+        "the number of apprentices the employer can hire.",
+        "the government subsidy for the apprenticeship program."
+      ],
+      "page": 2,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "what is included in an apprenticeship contract?",
+      "type": "mcq"
+    },
+    {
+      "answerLetter": "E",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q11",
+      "matchSet": "paper-unit01-answer-match1",
+      "num": 11,
+      "page": 3,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Outlines specific skills and knowledge required for a job role.",
+      "type": "matching"
+    },
+    {
+      "answerLetter": "D",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q12",
+      "matchSet": "paper-unit01-answer-match1",
+      "num": 12,
+      "page": 3,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Describes the task within a unit",
+      "type": "matching"
+    },
+    {
+      "answerLetter": "F",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q13",
+      "matchSet": "paper-unit01-answer-match1",
+      "num": 13,
+      "page": 3,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Specific benchmarks that measure successful completion of an element.",
+      "type": "matching"
+    },
+    {
+      "answerLetter": "B",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q14",
+      "matchSet": "paper-unit01-answer-match1",
+      "num": 14,
+      "page": 3,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Contextual information detailing the conditions under which competency applies",
+      "type": "matching"
+    },
+    {
+      "answerLetter": "A",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q15",
+      "matchSet": "paper-unit01-answer-match1",
+      "num": 15,
+      "page": 3,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Provides guidance on the type and quality of evidence needed for competency",
+      "type": "matching"
+    },
+    {
+      "answer": "A teacher in TVET institute needs to demonstrate a client-focused approach to your work, and\nthis will involve:\n• ensuring the needs and expectations of clients form the basis for your work practices;\n• developing effective communication strategies to maintain client relationships; and\n• developing processes to evaluate and improve client satisfaction",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q16",
+      "num": 16,
+      "page": 3,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "What are the client focus approaches of TVET teachers?",
+      "type": "short"
+    },
+    {
+      "answer": "• What would you do in the event of ...? (accident or emergency)\n• What would you do if ...? (Equipment broke down or something malfunctioned)\n• What would you do if ... (complaint was made or conflict occurred)\n• How do you avoid ...? (preventative safety measure)",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q17",
+      "num": 17,
+      "page": 3,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Give an example of a contingency question Candidates can provide various types of answers, such as the ones below.",
+      "type": "short"
+    },
+    {
+      "answer": "The evidence guide provides guidance to the interpretation and assessment of the unit of\ncompetency. including\n• The underpinning knowledge, skills and attitude requirements for the unit\n• The aspects which need to be emphasized in assessment,\n• Relationships to other units, and\n• The required evidence of competency.",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q18",
+      "num": 18,
+      "page": 4,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "What information does an \"evidence guide\" provide for a unit of competency?",
+      "type": "short"
+    },
+    {
+      "answer": "The major objectives of the quality assurance framework are: •\n➢ Assuring clients and organizations that use credential assessments (e.g., employers,\nprofessional regulatory bodies, immigration officers, and post secondary institutions) that\ntraining institute follow quality criteria and standards.\n➢ Ensuring fair and equitable treatment of all clients or trainees who use their services.\n➢ Improving the portability of qualification and facilitating international recognition.\n➢ Promoting the consistent application of fair and credible assessment standards.",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q19",
+      "num": 19,
+      "page": 4,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Write down 3 (three) major objectives of the Quality Assurance Framework?",
+      "type": "short"
+    },
+    {
+      "answer": "In a TVET institute client can be\n➢ individual learners, students, apprentices, trainees\n➢ candidates for assessment\n➢ enterprise or industry\n➢ other parts of the training and/or assessment organization.\n➢ candidates for assessment enterprise or industry Government departments or agencies",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q20",
+      "num": 20,
+      "page": 4,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Who is the Clients of TVET Institute?",
+      "type": "short"
+    },
+    {
+      "answer": "Competency standards define the required skills, knowledge, and attitudes for specific\noccupations and include guidelines for assessment.\nOn the other hand, a curriculum document serves as a practical guide to deliver training,\ntranslating industry competency standards into structured courses or learning programs. While\ncompetency standards describe what must be achieved, the curriculum explains how it will be\ntaught and assessed.",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q21",
+      "num": 21,
+      "page": 4,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "How does a curriculum document differ from a competency standard?",
+      "type": "short"
+    },
+    {
+      "answer": ". The minimum requirements of the apprenticeship law are the bellow:\n• The length of training,\n• Type and amount of related instruction\n• Supervision of the apprentice\n• Appropriate ratios of apprentices to regular workers\n• Apprentice selection and recruitment procedures, etc.",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q22",
+      "num": 22,
+      "page": 5,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Write the 4 (four) minimum requirements of national apprenticeship law?",
+      "type": "short"
+    },
+    {
+      "answer": "The employee responsibilities are:\n• ability to meet time-based requirements and deadlines\n• ability to identify and adjust high and low priority tasks\n• ability to use time effectively (i.e. prevent irrelevant issues or distractions from interfering with\nthe completion of your work)\n• ability to allocate appropriate amounts of time to complete your own work (while avoiding\nscheduling conflicts and meeting milestones)\n• ability to complete tasks assigned to you within agreed timelines",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q23",
+      "num": 23,
+      "page": 5,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Write the 3 (three) key points of time management skills?",
+      "type": "short"
+    },
+    {
+      "answer": "Evidence guide",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q24",
+      "num": 24,
+      "page": 5,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "Which section of a competency standard should you consult to determine assessment guidelines?",
+      "type": "short"
+    },
+    {
+      "answer": "Employability Skills are: ➢ Communication ➢ Teamwork ➢ Problem Solving ➢ Initiative and\nEnterprise ➢ Self-management ➢ Learning ➢ Technology",
+      "flags": [],
+      "group": null,
+      "id": "paper-unit01-answer-q25",
+      "num": 25,
+      "page": 5,
+      "paper": "paper-unit01-answer",
+      "printedPage": null,
+      "question": "List down 4 key \"Employability Skills\" to progress within an enterprise?",
+      "type": "short"
+    }
+  ]
+}
