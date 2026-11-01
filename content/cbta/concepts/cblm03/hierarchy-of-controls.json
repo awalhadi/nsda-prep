@@ -1,0 +1,353 @@
+{
+  "id": "hierarchy-of-controls",
+  "canonical_title": "Hierarchy of Controls",
+  "aliases": [
+    "Safety decision hierarchy",
+    "Hierarchy of control"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p10-a8833c75",
+    "cblm03-p10-d072e526",
+    "cblm03-p11-f8e20fdd"
+  ],
+  "questions": [
+    "cblm03-sc1-q4",
+    "paper-final-formative-01-q3"
+  ],
+  "one_line_answer": {
+    "text": "The hierarchy of controls is the preferred order of options for controlling risk.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 10,
+        "quote": "This principle is referred to as the hierarchy of controls or the safety decision hierarchy.",
+        "passageId": "cblm03-p10-d072e526"
+      },
+      {
+        "src": "cblm03",
+        "page": 10,
+        "quote": "It describes the preferred options for controlling risk as follows"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Hazard",
+      "bn": "বিপদের উৎস, যা ক্ষতি করতে পারে"
+    },
+    {
+      "en": "Control",
+      "bn": "নিয়ন্ত্রণ ব্যবস্থা"
+    },
+    {
+      "en": "Hierarchy",
+      "bn": "উপর থেকে নিচে ধাপের ক্রম"
+    },
+    {
+      "en": "Last resort",
+      "bn": "সবশেষ উপায়"
+    },
+    {
+      "en": "PPE",
+      "bn": "ব্যক্তিগত সুরক্ষা সরঞ্জাম (Personal Protective Equipment)"
+    }
+  ],
+  "bangla_explanation": [
+    "Hazard control করার একটা নির্দিষ্ট ক্রম আছে, একেই hierarchy বলে।",
+    "সবচেয়ে ভালো উপায় হলো hazard-টাই পুরো সরিয়ে ফেলা (Eliminate)।",
+    "তালিকার যত নিচে নামবেন, control তত কম reliable আর বেশি পরিশ্রমের।",
+    "PPE সবার শেষে আসে, তাই একে last resort বলে।"
+  ],
+  "example": {
+    "en": "A garments cutting machine is very noisy. First, try a quieter machine. Then put it in a closed room. Ear plugs come last.",
+    "bn": "গার্মেন্টসের শব্দ করা মেশিন: ear plug দেওয়া শেষ উপায়, প্রথম উপায় নয়।"
+  },
+  "mnemonic": {
+    "text": "Every Smart Instructor Engineers A Plan → E-S-I-E-A-P (top to bottom)",
+    "explain_bn": "প্রতিটি শব্দের প্রথম অক্ষর একটি ধাপ: Eliminate, Substitute, Isolation, Engineering, Administrative, PPE।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Eliminate: remove the risk altogether.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Remove the risk Eliminate the risk altogether",
+            "passageId": "cblm03-p11-f8e20fdd"
+          }
+        ]
+      },
+      {
+        "text": "Substitute: use a less harmful device, substance or method.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Substitute the Use a device, substance, method, process, place, or"
+          },
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "person, that is less harmful or hazardous"
+          }
+        ]
+      },
+      {
+        "text": "Isolation: separate the risk from the person.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Isolation Separate the risk"
+          },
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Isolating the hazard from the person environment or"
+          }
+        ]
+      },
+      {
+        "text": "Engineering controls: design it out, use guards, provide ventilation.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Design Design out or Modify"
+          },
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Engineering Can it be done another way"
+          },
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "process Controls Enclose or Use guards, close off, move away"
+          },
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Provide adequate ventilation"
+          }
+        ]
+      },
+      {
+        "text": "Administrative controls: safe work procedures, information, job rotation, induction.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Safe work Correct work procedures"
+          },
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Provide appropriate information about risks Administrative"
+          },
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Controls Job rotation individuals"
+          },
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Know the dangers. How to do work correctly Induction"
+          }
+        ]
+      },
+      {
+        "text": "Personal protective equipment (PPE): used when other controls are not practicable.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 10,
+            "quote": "Personal protective equipment is always considered a control of the last resort."
+          },
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Equipment PPE"
+          },
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "control processes are not practicable"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Personal protective equipment is always the control of last resort.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 10,
+          "quote": "Personal protective equipment is always considered a control of the last resort."
+        }
+      ]
+    },
+    {
+      "text": "From bottom to top: PPE, Admin, Engineering, Isolation, Substitution, Elimination.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 17,
+          "quote": "Write down the steps of hierarchy of Control from bottom to top"
+        },
+        {
+          "src": "cblm03",
+          "page": 17,
+          "quote": "PPE Admin Engineering Isolation Substitutions Elimination"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Write down the steps of the hierarchy of controls from top to bottom.",
+      "modelAnswer": "The hierarchy of controls, from most to least preferred:\n1. Eliminate\n2. Substitute\n3. Isolation\n4. Engineering controls\n5. Administrative controls\n6. Personal protective equipment (PPE), the last resort",
+      "keyPoints": [
+        {
+          "text": "Going down the list, controls become less reliable.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 10,
+              "quote": "As we go down this list of options, the controls become less reliable"
+            }
+          ]
+        },
+        {
+          "text": "Most situations use a combination of the options in the hierarchy.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 10,
+              "quote": "In most situations, the actual method for controlling the risk is a combination of the options in the hierarchy."
+            }
+          ]
+        },
+        {
+          "text": "Personal protective equipment is always the control of last resort.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 10,
+              "quote": "Personal protective equipment is always considered a control of the last resort."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which control option should you try first?",
+      "options": [
+        "Personal Protective Equipment (PPE)",
+        "Elimination",
+        "Administrative controls",
+        "Engineering controls"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 11,
+        "quote": "Remove the risk Eliminate the risk altogether"
+      }
+    },
+    "matching": {
+      "prompt": "Match each control with what it does.",
+      "pairs": [
+        {
+          "left": "Eliminate",
+          "right": "Remove the risk altogether",
+          "cite": {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Remove the risk Eliminate the risk altogether"
+          }
+        },
+        {
+          "left": "Substitute",
+          "right": "Use a less harmful device or method",
+          "cite": {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Substitute the Use a device, substance, method, process, place, or"
+          }
+        },
+        {
+          "left": "Isolation",
+          "right": "Separate the risk from the person",
+          "cite": {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Isolation Separate the risk"
+          }
+        },
+        {
+          "left": "Engineering controls",
+          "right": "Use guards, close off, move away",
+          "cite": {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "process Controls Enclose or Use guards, close off, move away"
+          }
+        },
+        {
+          "left": "Personal protective equipment",
+          "right": "The control of last resort",
+          "cite": {
+            "src": "cblm03",
+            "page": 10,
+            "quote": "Personal protective equipment is always considered a control of the last resort."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why is PPE the last option in the hierarchy of controls?",
+      "answer": {
+        "text": "Controls lower in the list are less reliable. PPE is used when other controls are not practicable.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 10,
+            "quote": "As we go down this list of options, the controls become less reliable and require more work"
+          },
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "Equipment PPE"
+          },
+          {
+            "src": "cblm03",
+            "page": 11,
+            "quote": "control processes are not practicable"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

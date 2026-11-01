@@ -264,6 +264,11 @@ function main() {
       proofSpec[src.id] = { file: src.file, doubtPages: d.summary.doubtPages, pages: d.boxes };
     } else {
       const d = derivePaper(src, raw);
+      // Page text lets concept citations quote a paper (e.g. a model answer) and be verified.
+      const seg = segmentDoc(raw);
+      written += +writeCanonical(join(EVIDENCE_DIR, "pages", `${src.id}.json`), seg.pages.map((p) => ({
+        page: p.page, printedPage: p.printedPage, section: "paper", sectionTitle: "", text: p.text, lowText: p.lowText, images: p.images,
+      })));
       written += +writeCanonical(join(EVIDENCE_DIR, "questions", `${src.id}.json`), { questions: d.questions, matchSets: d.matchSets });
       papers.push(d.summary);
       for (const q of d.questions) allPaperQs.push({ q, sets: d.matchSets });

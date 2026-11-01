@@ -1,0 +1,554 @@
+{
+  "aliases": [
+    "Safety decision hierarchy",
+    "Hierarchy of control"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 10,
+          "printed": 10
+        },
+        {
+          "pdf": 11,
+          "printed": 11
+        },
+        {
+          "pdf": 17,
+          "printed": 17
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "Hazard control করার একটা নির্দিষ্ট ক্রম আছে, একেই hierarchy বলে।",
+    "সবচেয়ে ভালো উপায় হলো hazard-টাই পুরো সরিয়ে ফেলা (Eliminate)।",
+    "তালিকার যত নিচে নামবেন, control তত কম reliable আর বেশি পরিশ্রমের।",
+    "PPE সবার শেষে আসে, তাই একে last resort বলে।"
+  ],
+  "breakdown": {
+    "exam": 4,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "গার্মেন্টসের শব্দ করা মেশিন: ear plug দেওয়া শেষ উপায়, প্রথম উপায় নয়।",
+    "en": "A garments cutting machine is very noisy. First, try a quieter machine. Then put it in a closed room. Ear plugs come last."
+  },
+  "highlighted": true,
+  "id": "hierarchy-of-controls",
+  "importance": {
+    "bn": "Final Formative 01 (MCQ 3) আর CBLM 3 Self Check 1 (Q4): 2 জায়গায় এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Final Formative 01 (MCQ 3) and CBLM 3 Self Check 1 (Q4). Highlighted in CBLM 3. Comes as MCQ and short question."
+  },
+  "keywords": [
+    {
+      "bn": "বিপদের উৎস, যা ক্ষতি করতে পারে",
+      "en": "Hazard"
+    },
+    {
+      "bn": "নিয়ন্ত্রণ ব্যবস্থা",
+      "en": "Control"
+    },
+    {
+      "bn": "উপর থেকে নিচে ধাপের ক্রম",
+      "en": "Hierarchy"
+    },
+    {
+      "bn": "সবশেষ উপায়",
+      "en": "Last resort"
+    },
+    {
+      "bn": "ব্যক্তিগত সুরক্ষা সরঞ্জাম (Personal Protective Equipment)",
+      "en": "PPE"
+    }
+  ],
+  "likelyTypes": [
+    "mcq",
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "passageId": "cblm03-p11-f8e20fdd",
+            "printedPage": 11,
+            "quote": "Remove the risk Eliminate the risk altogether",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Eliminate: remove the risk altogether."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Substitute the Use a device, substance, method, process, place, or",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "person, that is less harmful or hazardous",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Substitute: use a less harmful device, substance or method."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Isolation Separate the risk",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Isolating the hazard from the person environment or",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Isolation: separate the risk from the person."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Design Design out or Modify",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Engineering Can it be done another way",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "process Controls Enclose or Use guards, close off, move away",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Provide adequate ventilation",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Engineering controls: design it out, use guards, provide ventilation."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Safe work Correct work procedures",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Provide appropriate information about risks Administrative",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Controls Job rotation individuals",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Know the dangers. How to do work correctly Induction",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Administrative controls: safe work procedures, information, job rotation, induction."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Personal protective equipment is always considered a control of the last resort.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Equipment PPE",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "control processes are not practicable",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Personal protective equipment (PPE): used when other controls are not practicable."
+      }
+    ]
+  },
+  "mnemonic": {
+    "explain_bn": "প্রতিটি শব্দের প্রথম অক্ষর একটি ধাপ: Eliminate, Substitute, Isolation, Engineering, Administrative, PPE।",
+    "text": "Every Smart Instructor Engineers A Plan → E-S-I-E-A-P (top to bottom)"
+  },
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 10,
+        "passageId": "cblm03-p10-d072e526",
+        "printedPage": 10,
+        "quote": "This principle is referred to as the hierarchy of controls or the safety decision hierarchy.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 10,
+        "printedPage": 10,
+        "quote": "It describes the preferred options for controlling risk as follows",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "The hierarchy of controls is the preferred order of options for controlling risk."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Remove the risk Eliminate the risk altogether",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Eliminate",
+          "right": "Remove the risk altogether"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Substitute the Use a device, substance, method, process, place, or",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Substitute",
+          "right": "Use a less harmful device or method"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Isolation Separate the risk",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Isolation",
+          "right": "Separate the risk from the person"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "process Controls Enclose or Use guards, close off, move away",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Engineering controls",
+          "right": "Use guards, close off, move away"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Personal protective equipment is always considered a control of the last resort.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Personal protective equipment",
+          "right": "The control of last resort"
+        }
+      ],
+      "prompt": "Match each control with what it does."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 11,
+        "printedPage": 11,
+        "quote": "Remove the risk Eliminate the risk altogether",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Personal Protective Equipment (PPE)",
+        "Elimination",
+        "Administrative controls",
+        "Engineering controls"
+      ],
+      "prompt": "Which control option should you try first?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "As we go down this list of options, the controls become less reliable",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Going down the list, controls become less reliable."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "In most situations, the actual method for controlling the risk is a combination of the options in the hierarchy.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Most situations use a combination of the options in the hierarchy."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Personal protective equipment is always considered a control of the last resort.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Personal protective equipment is always the control of last resort."
+        }
+      ],
+      "modelAnswer": "The hierarchy of controls, from most to least preferred:\n1. Eliminate\n2. Substitute\n3. Isolation\n4. Engineering controls\n5. Administrative controls\n6. Personal protective equipment (PPE), the last resort",
+      "prompt": "Write down the steps of the hierarchy of controls from top to bottom."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "As we go down this list of options, the controls become less reliable and require more work",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Equipment PPE",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "control processes are not practicable",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Controls lower in the list are less reliable. PPE is used when other controls are not practicable."
+      },
+      "prompt": "Why is PPE the last option in the hierarchy of controls?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "•\nPPE\n•\nAdmin\n•\nEngineering\n•\nIsolation\n•\nSubstitutions\n•\nElimination",
+      "flags": [],
+      "id": "cblm03-sc1-q4",
+      "kind": "selfcheck",
+      "label": "CBLM 3 Self Check 1 (Q4)",
+      "page": 16,
+      "printedPage": 16,
+      "question": "Write down the steps of hierarchy of Control from bottom to top?",
+      "src": "cblm03",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-final-formative-01-q3",
+      "kind": "paper",
+      "label": "Final Formative 01 (MCQ 3)",
+      "options": [
+        "Elimination",
+        "Substitution",
+        "Administrative controls",
+        "Personal Protective Equipment (PPE)"
+      ],
+      "page": 1,
+      "paperClass": "formative",
+      "printedPage": null,
+      "question": "According to the hierarchy of controls, which control is always considered the control of last resort?",
+      "src": "paper-final-formative-01",
+      "type": "mcq"
+    }
+  ],
+  "score": 8,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Hierarchy of Controls",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 10,
+          "printedPage": 10,
+          "quote": "Personal protective equipment is always considered a control of the last resort.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Personal protective equipment is always the control of last resort."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 17,
+          "printedPage": 17,
+          "quote": "Write down the steps of hierarchy of Control from bottom to top",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 17,
+          "printedPage": 17,
+          "quote": "PPE Admin Engineering Isolation Substitutions Elimination",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "From bottom to top: PPE, Admin, Engineering, Isolation, Substitution, Elimination."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}
