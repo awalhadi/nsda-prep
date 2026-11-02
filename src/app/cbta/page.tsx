@@ -3,7 +3,8 @@ import Link from "next/link";
 import { ChevronRight } from "lucide-react";
 import ConceptTile from "@/components/cbta/ConceptTile";
 import HomeProgress from "@/components/cbta/HomeProgress";
-import { CBLMS, CONCEPT_INDEX } from "@/data/cbta/loader";
+import OfflineButton from "@/components/cbta/OfflineButton";
+import { CBLMS, CONCEPT_INDEX, CONTENT_VERSION } from "@/data/cbta/loader";
 
 export const metadata: Metadata = {
   title: "CBT&A Level 4 Exam Prep",
@@ -36,7 +37,10 @@ export default function CbtaHome() {
         <p className="mt-2 text-[12.5px] text-ink-3">Exam pattern = 10 MCQ, 5 matching, 10 short questions. Every fact links to the exact CBLM words.</p>
       </header>
 
-      <HomeProgress total={CONCEPT_INDEX.length} />
+      <div className="space-y-2.5">
+        <HomeProgress total={CONCEPT_INDEX.length} />
+        <OfflineButton version={CONTENT_VERSION} />
+      </div>
 
       <section aria-labelledby="top">
         <div className="mb-1 flex items-baseline justify-between gap-3">

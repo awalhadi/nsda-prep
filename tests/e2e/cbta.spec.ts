@@ -76,3 +76,19 @@ test("Web Design progress stays untouched when CBT&A progress is saved", async (
   expect(after.streak).toEqual(legacy.streak);
   expect(after.cbta.leitner["hierarchy-of-controls"].box).toBe(1);
 });
+
+test("offline: after downloading, cards open and links work with no internet", async ({ page, context }) => {
+  test.setTimeout(180_000);
+  await page.goto("/cbta");
+  await page.getByRole("button", { name: "Download for offline use" }).click();
+  await expect(page.getByText("Saved for offline")).toBeVisible({ timeout: 150_000 });
+
+  await context.setOffline(true);
+  await page.goto("/cbta/concept/rules-of-evidence");
+  await expect(page.getByRole("heading", { level: 1, name: "Rules of Evidence" })).toBeVisible();
+  await page.getByRole("link", { name: /CBLM 12/ }).first().click();
+  await expect(page.getByRole("heading", { level: 1, name: /Organise and Conduct Competency Assessment/ })).toBeVisible();
+  await page.goto("/cbta/guide");
+  await expect(page.getByRole("heading", { name: "Study priority guide" })).toBeVisible();
+  await context.setOffline(false);
+});
