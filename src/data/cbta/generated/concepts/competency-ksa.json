@@ -1,0 +1,370 @@
+{
+  "aliases": [
+    "Competency",
+    "Key features of competency",
+    "Difference between competency and skills"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 1,
+      "pages": [
+        {
+          "pdf": 12,
+          "printed": 12
+        }
+      ],
+      "src": "cblm01"
+    }
+  ],
+  "banglaExplanation": [
+    "Competency মানে শুধু হাতের skill নয়; knowledge, skill আর attitude তিনটাই লাগে (KSA)।",
+    "Skill হলো competency-র একটা অংশ মাত্র।",
+    "ভালো welder হলেই কেউ TVET trainer হতে পারে না; knowledge আর সঠিক attitude-ও লাগে।",
+    "Key features চারটা: কাজ করতে পারা, কেন-কীভাবে জানা, সমস্যা হলে কী করতে হবে জানা, আর safely কাজ করার সঠিক approach।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 1,
+  "errata": [],
+  "example": {
+    "bn": "ভালো welder হলেই trainer হিসেবে competent নয়; পড়াশোনা/অভিজ্ঞতা আর ভালো আচরণও লাগবে।",
+    "en": "A good welder joins a TVET institute. He also needs knowledge and the right attitude to be a competent trainer."
+  },
+  "highlighted": true,
+  "id": "competency-ksa",
+  "importance": {
+    "bn": "Unit 01 Short Questions (Short 2)-এ এসেছে। CBLM 1-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in Unit 01 Short Questions (Short 2). Highlighted in CBLM 1. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "যোগ্যতা: জ্ঞান, দক্ষতা ও মনোভাব একসাথে",
+      "en": "Competency"
+    },
+    {
+      "bn": "জ্ঞান",
+      "en": "Knowledge (K)"
+    },
+    {
+      "bn": "হাতে-কলমে কাজ করার দক্ষতা",
+      "en": "Skills (S)"
+    },
+    {
+      "bn": "মনোভাব, আচরণ",
+      "en": "Attitude (A)"
+    },
+    {
+      "bn": "চোখে দেখা যায় এমন",
+      "en": "Observable"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "being able to do the job",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "being able to do the job"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "knowing how and why things are done",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "knowing how and why things are done"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "knowing what to do if things go wrong",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "knowing what to do if things go wrong"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "having the right approach to do a job properly and safely.",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "having the right approach to do a job properly and safely"
+      }
+    ]
+  },
+  "mnemonic": {
+    "explain_bn": "Knowledge = জানা, Skill = করে দেখানো, Attitude = সঠিক আচরণ।",
+    "text": "KSA = Know it, Show it, Act right"
+  },
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 1,
+        "match": "exact",
+        "page": 12,
+        "passageId": "cblm01-p12-2ef28d31",
+        "printedPage": 12,
+        "quote": "Competencies refer to the measurable or observable knowledge, skills and attitude (KSAs), which are critical to successful job performance.",
+        "sourceTitle": "Work effectively within TVET Sector",
+        "src": "cblm01"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Competency is measurable or observable knowledge, skills and attitude (KSA) for successful job performance."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 1,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Knowledge Competencies - practical or theoretical understanding of subjects.",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          "left": "Knowledge competencies",
+          "right": "Practical or theoretical understanding of subjects"
+        },
+        {
+          "cite": {
+            "cblm": 1,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Skill Competencies - natural or learned capacities to perform acts.",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          "left": "Skill competencies",
+          "right": "Natural or learned capacities to perform acts"
+        },
+        {
+          "cite": {
+            "cblm": 1,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Attitude Competencies - patterns of action or conduct.",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          "left": "Attitude competencies",
+          "right": "Patterns of action or conduct"
+        }
+      ],
+      "prompt": "Match each competency type with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 1,
+        "match": "exact",
+        "page": 12,
+        "printedPage": 12,
+        "quote": "Skill is a part of competency.",
+        "sourceTitle": "Work effectively within TVET Sector",
+        "src": "cblm01"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Skill is a part of competency",
+        "Competency is a part of skill",
+        "Skill and competency are exactly the same",
+        "Competency needs only knowledge"
+      ],
+      "prompt": "Which statement about skill and competency is correct?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Knowledge Competencies - practical or theoretical understanding of subjects.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Knowledge competencies: practical or theoretical understanding of subjects."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Skill Competencies - natural or learned capacities to perform acts.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Skill competencies: natural or learned capacities to perform acts."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Attitude Competencies - patterns of action or conduct.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Attitude competencies: patterns of action or conduct."
+        }
+      ],
+      "modelAnswer": "Competency is the measurable or observable knowledge, skills and attitude (KSA) for successful job performance. Key features of competency:\n1. Being able to do the job\n2. Knowing how and why things are done\n3. Knowing what to do if things go wrong\n4. Having the right approach to do a job properly and safely",
+      "prompt": "What are the key features of competency?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "but s/he will not be competent to join a TVET Institute as TVET Teacher/Trainer unless s/he possesses",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "adequate education/ experience (Knowledge) and the right temperament/ behaviour (attitude).",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "No. He also needs adequate knowledge and the right attitude."
+      },
+      "prompt": "Is a very good welder automatically competent to be a TVET trainer?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "what is the Key Feature of competency?\nKey features of competency\n•\nBeing able to do the job\n•\nKnowing how and why things are done\n•\nKnowing what to do if things go wrong\n•\nHaving the right approach to do a job properly and safely.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit01-short-q2",
+      "kind": "paper",
+      "label": "Unit 01 Short Questions (Short 2)",
+      "page": 1,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "",
+      "src": "paper-unit01-short",
+      "type": "short"
+    }
+  ],
+  "score": 5,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Competency: Definition, Types and Key Features",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 12,
+          "printedPage": 12,
+          "quote": "Skill is a part of competency. Competency consists of three parameters (KSA) - Knowledge (K), Skills(S) and Attitude (A).",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Skill is a part of competency. Competency has three parameters: knowledge, skills and attitude."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 12,
+          "printedPage": 12,
+          "quote": "While rating skills, you have to determine what abilities are required to perform a job",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        },
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 12,
+          "printedPage": 12,
+          "quote": "practically but while rating competency, you have to determine the set of abilities/",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        },
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 12,
+          "printedPage": 12,
+          "quote": "skills required along with the knowledge and attitude needed for the said job.",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Rating skills looks at practical abilities. Rating competency also needs knowledge and attitude."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

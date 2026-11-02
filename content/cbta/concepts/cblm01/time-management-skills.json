@@ -1,0 +1,195 @@
+{
+  "id": "time-management-skills",
+  "canonical_title": "Key Points of Time Management Skills",
+  "aliases": [
+    "Time management skills",
+    "Planning and organizing skills",
+    "Planning, prioritizing and organizing your work"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p41-7e830223",
+    "cblm01-p42-42405d7b",
+    "cblm01-p49-36dff957"
+  ],
+  "questions": [
+    "cblm01-sc3-q2",
+    "paper-unit01-short-q17",
+    "paper-unit01-mcq-q23",
+    "paper-unit01-answer-q23",
+    "paper-short-questions-q24"
+  ],
+  "one_line_answer": {
+    "text": "Time management skills are planning and organizing skills to plan, prioritize and organize work.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm01", "page": 41, "quote": "Planning and Organizing Skills Time management skills", "passageId": "cblm01-p41-7e830223" },
+      { "src": "cblm01", "page": 41, "quote": "he must plan, prioritize and organize his work." }
+    ]
+  },
+  "keywords": [
+    { "en": "Deadline", "bn": "কাজ শেষ করার শেষ সময়" },
+    { "en": "Priority", "bn": "অগ্রাধিকার: কোন কাজ আগে" },
+    { "en": "Distraction", "bn": "মনোযোগ নষ্ট করে এমন কিছু" },
+    { "en": "Milestone", "bn": "কাজের মাঝের গুরুত্বপূর্ণ ধাপ" },
+    { "en": "Timeline", "bn": "সময়সূচি" }
+  ],
+  "bangla_explanation": [
+    "শিক্ষককে নিজের কাজ সময়মতো শেষ করতে হয়; এজন্য time management জরুরি।",
+    "Deadlines মানা, high আর low priority tasks আলাদা করা, distractions এড়ানো।",
+    "নিজের কাজের জন্য ঠিকমতো time দেওয়া, scheduling conflicts এড়ানো, agreed timelines-এর মধ্যে কাজ শেষ করা।",
+    "প্রশ্নে ৩ বা ৪টা চাইলেও মোট পাঁচটা key points আছে।"
+  ],
+  "example": {
+    "en": "A trainer must submit assessment results by Thursday. He finishes urgent marking first and avoids extra meetings.",
+    "bn": "বৃহস্পতিবারের deadline: আগে জরুরি কাজ, অপ্রয়োজনীয় distraction বাদ।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "ability to meet time-based requirements and deadlines",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 41, "quote": "ability to meet time-based requirements and deadlines" }
+        ]
+      },
+      {
+        "text": "ability to identify and adjust high and low priority tasks",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 41, "quote": "ability to identify and adjust high and low priority tasks" }
+        ]
+      },
+      {
+        "text": "ability to use time effectively (i.e. prevent irrelevant issues or distractions from interfering with the completion of your work)",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 41, "quote": "ability to use time effectively (i.e. prevent irrelevant issues or distractions from interfering with the completion of your work)" }
+        ]
+      },
+      {
+        "text": "ability to allocate appropriate amounts of time to complete your own work (while avoiding scheduling conflicts and meeting milestones)",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 41, "quote": "ability to allocate appropriate amounts of time to complete your own work (while avoiding scheduling conflicts and meeting milestones)" }
+        ]
+      },
+      {
+        "text": "ability to complete tasks assigned to you within agreed timelines",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 41, "quote": "ability to complete tasks assigned to you within agreed timelines" }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Write any three or four of the five key points of time management.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "paper-unit01-answer", "page": 5, "quote": "Write the 3 (three) key points of time management skills?" },
+        { "src": "paper-unit01-short", "page": 4, "quote": "Write the 4 the key points of time manag" },
+        { "src": "cblm01", "page": 49, "quote": "Key points of time management skills are as below:", "passageId": "cblm01-p49-36dff957" }
+      ]
+    },
+    {
+      "text": "Managing multiple tasks and resources simultaneously is project management, not time management.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 42, "quote": "Project management", "passageId": "cblm01-p42-42405d7b" },
+        { "src": "cblm01", "page": 42, "quote": "ability to manage multiple tasks and resources" },
+        { "src": "cblm01", "page": 42, "quote": "simultaneously" },
+        { "src": "cblm01", "page": 41, "quote": "Time management skills" }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the key points of time management skills?",
+      "modelAnswer": "Key points of time management skills:\n1. Ability to meet time-based requirements and deadlines\n2. Ability to identify and adjust high and low priority tasks\n3. Ability to use time effectively (prevent distractions)\n4. Ability to allocate appropriate time to your own work (avoid scheduling conflicts)\n5. Ability to complete assigned tasks within agreed timelines",
+      "keyPoints": [
+        {
+          "text": "Resource allocation skills: break project requirements into tasks and identify equipment, materials and people.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 42, "quote": "ability to determine project requirements by breaking" },
+            { "src": "cblm01", "page": 42, "quote": "them down into tasks and identifying the equipment," },
+            { "src": "cblm01", "page": 42, "quote": "materials and people needed" },
+            { "src": "cblm01", "page": 42, "quote": "Resource allocation" }
+          ]
+        },
+        {
+          "text": "Research skills: collect, analyze and organize information to inform your work.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 42, "quote": "Research skills" },
+            { "src": "cblm01", "page": 42, "quote": "ability to collect, analyze and organize information to" },
+            { "src": "cblm01", "page": 42, "quote": "inform your subsequent work practices and processes" }
+          ]
+        },
+        {
+          "text": "Managing work tasks, timelines and priorities is one of the Employability Skills.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 41, "quote": "The ability to manage work tasks, timelines and priorities is actually one of the eight Employability Skills" }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a key point of time management skills?",
+      "options": [
+        "Ability to identify and adjust high and low priority tasks",
+        "Ability to manage multiple tasks and resources simultaneously",
+        "Ability to collect, analyze and organize information",
+        "Ability to determine project requirements by breaking them into tasks"
+      ],
+      "answerIndex": 0,
+      "answerCite": { "src": "cblm01", "page": 41, "quote": "ability to identify and adjust high and low priority tasks" }
+    },
+    "matching": {
+      "prompt": "Match each planning and organizing skill with its meaning.",
+      "pairs": [
+        {
+          "left": "Time management skills",
+          "right": "Meet time-based requirements and deadlines",
+          "cite": { "src": "cblm01", "page": 41, "quote": "Time management skills ability to meet time-based requirements and deadlines" }
+        },
+        {
+          "left": "Project management skills",
+          "right": "Manage multiple tasks and resources simultaneously",
+          "cite": { "src": "cblm01", "page": 42, "quote": "Project management ability to manage multiple tasks and resources skills simultaneously" }
+        },
+        {
+          "left": "Resource allocation skills",
+          "right": "Identify the equipment, materials and people needed",
+          "cite": { "src": "cblm01", "page": 42, "quote": "them down into tasks and identifying the equipment, materials and people needed" }
+        },
+        {
+          "left": "Research skills",
+          "right": "Collect, analyze and organize information",
+          "cite": { "src": "cblm01", "page": 42, "quote": "Research skills ability to collect, analyze and organize information to" }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What should you do when work issues such as time pressures arise?",
+      "answer": {
+        "text": "Assess and re-assess your workload, and seek guidance and support.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 42, "quote": "you must continually assess and re-assess your workload and seek guidance and support" },
+          { "src": "cblm01", "page": 42, "quote": "when work issues arise, especially those related to time pressures" }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "questions",
+      "note": "paper-unit01-answer-q23 heads the five time management points 'The employee responsibilities are'. That heading is wrong; the points are the CBLM 1 p.41 time management skills. Papers ask for 3 or 4; CBLM 1 gives five."
+    }
+  ]
+}

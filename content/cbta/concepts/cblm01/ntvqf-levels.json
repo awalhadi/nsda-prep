@@ -1,0 +1,225 @@
+{
+  "id": "ntvqf-levels",
+  "canonical_title": "NTVQF and Its Qualification Levels",
+  "aliases": [
+    "National Technical and Vocational Qualification Framework",
+    "NTVQ levels",
+    "Pre-Voc 1 and Pre-Voc 2"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p7-9492dfa1",
+    "cblm01-p7-7581f9f7",
+    "cblm01-p8-896c6bf7",
+    "cblm01-p8-5a14ec71"
+  ],
+  "questions": [
+    "cblm01-sc1-q2",
+    "cblm01-sc1-q3",
+    "paper-final-formative-01-q1",
+    "paper-unit01-mcq-q2",
+    "paper-unit01-answer-q2",
+    "paper-unit01-mcq-q9",
+    "paper-unit01-answer-q9",
+    "paper-unit01-mcq-q5",
+    "paper-unit01-answer-q5"
+  ],
+  "one_line_answer": {
+    "text": "NTVQF is a set of principles and guidelines to register learners' achievement for national recognition.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm01", "page": 7, "quote": "NTVQF is a set of principles and guidelines by which records of learners'" },
+      { "src": "cblm01", "page": 7, "quote": "achievement are registered to enable national recognition of acquired skills and" }
+    ]
+  },
+  "keywords": [
+    { "en": "NTVQF", "bn": "জাতীয় কারিগরি ও বৃত্তিমূলক যোগ্যতা কাঠামো" },
+    { "en": "Level", "bn": "স্তর" },
+    { "en": "Pre-Voc", "bn": "প্রাক-বৃত্তিমূলক স্তর" },
+    { "en": "Skilled Worker", "bn": "দক্ষ কর্মী" },
+    { "en": "Underprivileged groups", "bn": "সুবিধাবঞ্চিত মানুষ" }
+  ],
+  "bangla_explanation": [
+    "NTVQF দেখায় কোন level-এ কোন কাজের যোগ্যতা লাগে, আর কীভাবে উপরে ওঠা যায়।",
+    "Level 1 থেকে 6, তার নিচে আরও দুটো Pre Voc level আছে।",
+    "Pre Voc রাখা হয়েছে গরিব ও সুবিধাবঞ্চিত মানুষের জন্য, যাদের formal schooling কম।",
+    "মনে রাখুন: Skilled Worker হতে NTVQ Level 4 লাগে।"
+  ],
+  "example": {
+    "en": "A young man left school early. He starts at Pre-Voc 1 and later reaches NTVQ 4 as a skilled welder.",
+    "bn": "কম পড়াশোনা করা ছেলেও Pre-Voc থেকে শুরু করে Level 4-এ Skilled Worker হতে পারে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Pre-Voc 1: Pre-Vocation Trainee (NPVC 1).",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 8, "quote": "Pre-Voc 1 Pre-Vocation Trainee Certificate 1 (NPVC 1)" }
+        ]
+      },
+      {
+        "text": "Pre-Voc 2: Pre-Vocation Trainee (NPVC 2).",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 8, "quote": "Pre-Voc 2 Pre-Vocation Trainee Certificate 2 (NPVC 2)" }
+        ]
+      },
+      {
+        "text": "NTVQ 1: Basic Worker (NSC 1).",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 8, "quote": "NTVQ 1 Certificate 1 Basic Worker (NSC 1)", "passageId": "cblm01-p8-5a14ec71" }
+        ]
+      },
+      {
+        "text": "NTVQ 2: Basic-Skilled Worker (NSC 2).",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 8, "quote": "NTVQ 2 Certificate 2 Basic-Skilled Worker (NSC 2)" }
+        ]
+      },
+      {
+        "text": "NTVQ 3: Semi-Skilled Worker (NSC 3).",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 8, "quote": "NTVQ 3 Certificate 3 Semi-Skilled Worker (NSC 3)" }
+        ]
+      },
+      {
+        "text": "NTVQ 4: Skilled Worker (NSC 4).",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 8, "quote": "NTVQ 4 Certificate 4 Skilled Worker (NSC 4)" }
+        ]
+      },
+      {
+        "text": "NTVQ 5: Highly Skilled Worker or Supervisor (NSC 5).",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 8, "quote": "Highly Skilled NTVQ 5 Certificate 5 Worker/ Supervisor (NSC 5)" }
+        ]
+      },
+      {
+        "text": "NTVQ 6: Diploma in Engineering; Middle Level Manager or Sub Assistant Engineer.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 8, "quote": "Diploma in Middle Level NTVQ 6 Engineering Manager/ Sub or equivalent Assistant Engineer" }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Level 4 is required for becoming a skilled worker in any trade.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 11, "quote": "National Technical and Vocational Qualification Level 4 is required for becoming a skilled worker in any trade." }
+      ]
+    },
+    {
+      "text": "Levels go from 1 to 6, as well as two pre-vocational levels.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 7, "quote": "has levels from 1 to 6, as well as two pre-vocational levels", "passageId": "cblm01-p7-7581f9f7" }
+      ]
+    },
+    {
+      "text": "Work or study under supervision with considerable autonomy: Skilled Worker.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "paper-unit01-answer", "page": 1, "quote": "Work or study under supervision with considerable autonomy." },
+        { "src": "paper-unit01-answer", "page": 1, "quote": "Skilled Worker." }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is the reason for having Pre-Voc 1 and Pre-Voc 2 in the framework?",
+      "modelAnswer": "Pre-Voc 1 and Pre-Voc 2 are the two pre-vocational levels of the NTVQF.\n1. They allow easier access to formal TVET.\n2. They are for poor or underprivileged groups.\n3. These groups might not have sufficient formal schooling.",
+      "keyPoints": [
+        {
+          "text": "Pre-voc 1 and 2 allow easier access to formal TVET for poor or underprivileged groups.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 11, "quote": "pre-voc 1 and pre-voc 2 allow easier access for poor or underprivileged" },
+            { "src": "cblm01", "page": 11, "quote": "groups to formal TVET, who might not have sufficient formal schooling." }
+          ]
+        },
+        {
+          "text": "These groups might not have sufficient formal schooling.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "or underprivileged groups who might not have sufficient formal schooling.", "passageId": "cblm01-p8-896c6bf7" }
+          ]
+        },
+        {
+          "text": "NTVQF shows clear learning pathways for progression in training and careers.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 7, "quote": "NTVQF shows clear learning pathways of the vertical mobility and progression within" },
+            { "src": "cblm01", "page": 7, "quote": "training and career paths" }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Why are the Pre-Vocational levels (Pre-Voc 1 and Pre-Voc 2) included in the NTVQF?",
+      "options": [
+        "To certify middle level managers and sub-assistant engineers",
+        "To allow easier access to formal TVET for poor or underprivileged groups",
+        "To replace apprenticeship training in industry",
+        "To register training organisations with BTEB"
+      ],
+      "answerIndex": 1,
+      "answerCite": { "src": "cblm01", "page": 7, "quote": "two pre-vocational levels to allow easier access to formal TVET for poor or underprivileged groups" }
+    },
+    "matching": {
+      "prompt": "Match each NTVQ level with its job classification.",
+      "pairs": [
+        {
+          "left": "Pre-Voc 1",
+          "right": "Pre-Vocation Trainee",
+          "cite": { "src": "cblm01", "page": 8, "quote": "Pre-Voc 1 Pre-Vocation Trainee Certificate 1 (NPVC 1)" }
+        },
+        {
+          "left": "NTVQ 1",
+          "right": "Basic Worker",
+          "cite": { "src": "cblm01", "page": 8, "quote": "NTVQ 1 Certificate 1 Basic Worker" }
+        },
+        {
+          "left": "NTVQ 3",
+          "right": "Semi-Skilled Worker",
+          "cite": { "src": "cblm01", "page": 8, "quote": "NTVQ 3 Certificate 3 Semi-Skilled Worker" }
+        },
+        {
+          "left": "NTVQ 4",
+          "right": "Skilled Worker",
+          "cite": { "src": "cblm01", "page": 8, "quote": "NTVQ 4 Certificate 4 Skilled Worker" }
+        },
+        {
+          "left": "NTVQ 5",
+          "right": "Highly Skilled Worker / Supervisor",
+          "cite": { "src": "cblm01", "page": 8, "quote": "Highly Skilled NTVQ 5 Certificate 5 Worker/ Supervisor" }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "How does the NTVQF help learners?",
+      "answer": {
+        "text": "NTVQF helps learners make decisions about the qualification they need to pursue.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 7, "quote": "NTVQF helps learners make decision about the qualification they need to pursue." }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "traps[2]",
+      "note": "Papers (unit01 q2, q5, q9) use 'BNQF Level Descriptors'. CBLM 1 p.9 gives sample descriptors only for levels 5, 1, Pre-Voc 2 and Pre-Voc 1, not level 4. The wording 'under supervision with considerable autonomy' is not in CBLM 1; only the paper key (q2 = Skilled Worker) supports it. q5 and q9 have no marked answer."
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "id": "learning-to-learn",
+  "canonical_title": "Learning to Learn Philosophy",
+  "aliases": [
+    "Implement a learning to learn philosophy",
+    "Learning to learn"
+  ],
+  "cblmPrimary": 10,
+  "source_type": "cblm",
+  "covers": [
+    "cblm10-p53-3cc51499"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Learning to learn is a learner centred philosophy that empowers learners.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm10",
+        "page": 53,
+        "quote": "It emphasises the importance of being learner centred."
+      },
+      {
+        "src": "cblm10",
+        "page": 53,
+        "quote": "It promotes multi-sense learning and empowers learners"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Learning to learn",
+      "bn": "কীভাবে শিখতে হয় তা শেখা"
+    },
+    {
+      "en": "Learner centred",
+      "bn": "learner-কে কেন্দ্র করে"
+    },
+    {
+      "en": "Empower",
+      "bn": "ক্ষমতা ও আত্মবিশ্বাস দেওয়া"
+    },
+    {
+      "en": "Multi-sense learning",
+      "bn": "একাধিক ইন্দ্রিয় দিয়ে শেখা"
+    },
+    {
+      "en": "Responsibility",
+      "bn": "দায়িত্ব"
+    }
+  ],
+  "bangla_explanation": [
+    "Learning to learn মানে learner নিজে বুঝবে সে কীভাবে শেখে।",
+    "এতে learner কেমন অনুভব করে, trainer-এর সাথে সম্পর্ক, পরিবেশ: সব গুরুত্ব পায়।",
+    "Learners নিজের learning needs-এর দায়িত্ব নেয়, আর mistakes-কেও মূল্য দেয়।",
+    "এতে motivation বাড়ে আর behaviour problems কমে।"
+  ],
+  "example": {
+    "en": "A slow learner in an electrical course learns to check his own work. His confidence and behaviour improve.",
+    "bn": "ইলেকট্রিক্যাল কোর্সের পিছিয়ে থাকা learner নিজের কাজ নিজে যাচাই করতে শেখে, আত্মবিশ্বাস বাড়ে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "how the learner feels",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 53,
+            "quote": "how the learner feels",
+            "passageId": "cblm10-p53-3cc51499"
+          }
+        ]
+      },
+      {
+        "text": "the relationship between the teacher/trainer and the learner",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 53,
+            "quote": "the relationship between the teacher/trainer and the learner"
+          }
+        ]
+      },
+      {
+        "text": "the environment in which learning takes place",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 53,
+            "quote": "the environment in which learning takes place"
+          }
+        ]
+      },
+      {
+        "text": "the learning strategies used",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 53,
+            "quote": "the learning strategies used"
+          }
+        ]
+      },
+      {
+        "text": "learners taking responsibility for their own learning needs.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 53,
+            "quote": "learners taking responsibility for their own learning needs."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "It teaches cue consciousness and the valuing of mistakes.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 53,
+          "quote": "empowers learners by teaching them cue consciousness and the valuing of mistakes."
+        }
+      ]
+    },
+    {
+      "text": "The mark of a good trainer is how they help learners who struggle.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 53,
+          "quote": "The mark of a good trainer is how they help those learners who struggle in the learning environment."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What does a learning to learn philosophy focus on, and why use it?",
+      "modelAnswer": "Learning to learn focuses on:\n1. how the learner feels\n2. the relationship between trainer and learner\n3. the learning environment\n4. the learning strategies used\n5. learners taking responsibility for their own learning needs.\nIt engages, excites and enlivens learners. It boosts motivation and reduces behaviour problems.",
+      "keyPoints": [
+        {
+          "text": "This philosophy engages, excites and enlivens learners.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 53,
+              "quote": "This philosophy engages, excites and enlivens learners."
+            }
+          ]
+        },
+        {
+          "text": "It can boost learner motivation and reduce learner behaviour problems.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 53,
+              "quote": "It can boost learner motivation and reduce learner behaviour problems."
+            }
+          ]
+        },
+        {
+          "text": "It emphasises the importance of being learner centred.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 53,
+              "quote": "It emphasises the importance of being learner centred."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "A learning to learn philosophy emphasises being:",
+      "options": [
+        "Learner centred",
+        "Teacher centred",
+        "Exam centred",
+        "Content centred"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm10",
+        "page": 53,
+        "quote": "It emphasises the importance of being learner centred."
+      }
+    },
+    "matching": {
+      "prompt": "Match each phrase with its result or meaning.",
+      "pairs": [
+        {
+          "left": "Learner motivation",
+          "right": "Can be boosted",
+          "cite": {
+            "src": "cblm10",
+            "page": 53,
+            "quote": "It can boost learner motivation"
+          }
+        },
+        {
+          "left": "Learner behaviour problems",
+          "right": "Can be reduced",
+          "cite": {
+            "src": "cblm10",
+            "page": 53,
+            "quote": "reduce learner behaviour problems."
+          }
+        },
+        {
+          "left": "Bright students",
+          "right": "Learn in almost any conditions",
+          "cite": {
+            "src": "cblm10",
+            "page": 53,
+            "quote": "bright students will learn in almost any conditions."
+          }
+        },
+        {
+          "left": "A good trainer",
+          "right": "Helps learners who struggle",
+          "cite": {
+            "src": "cblm10",
+            "page": 53,
+            "quote": "The mark of a good trainer is how they help those learners who struggle"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "How does a learning to learn philosophy affect learner behaviour?",
+      "answer": {
+        "text": "It can boost learner motivation and reduce learner behaviour problems.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 53,
+            "quote": "It can boost learner motivation and reduce learner behaviour problems."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

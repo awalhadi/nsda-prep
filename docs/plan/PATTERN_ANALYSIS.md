@@ -12,7 +12,7 @@
 | Unit 01 Questions | unit | 10 | 5 | 10 |
 | Unit 01 Short Questions | unit | 0 | 0 | 19 |
 | Unit 02 Short Questions | unit | 0 | 0 | 18 |
-| CBT&A L4 Written Test — Inclusivity & Maintenance | official | 0 | 0 | 10 |
+| CBT&A L4 Written Test — Inclusivity & Maintenance | official | 10 | 5 | 10 |
 
 **Mock exam blueprint:** the full papers all use **10 MCQ + 5 matching + 10 short** (25 questions). The Final Formative gives **1 hour** for this. No paper has viva questions, so viva practice is derived from short questions and definitions and labelled "derived". No paper states marks per question.
 
@@ -32,7 +32,7 @@ Based on 285 written questions (125 from CBLM Self Checks, the rest from papers)
 
 ## Typical answer length
 
-Model answers in the papers and answer keys have a median of **29 words** (middle half: 20–50 words, 263 answers). Concept cards aim for to-the-point answers inside this range.
+Model answers in the papers and answer keys have a median of **30 words** (middle half: 20–53 words, 259 answers). Concept cards aim for to-the-point answers inside this range.
 
 ## Priority formula
 
@@ -48,117 +48,199 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 
 | # | Concept | CBLM | Stars | Score | Highlight | Repeat | Exam | Why important |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Industry Competency Standards | 8 | ★★★ | 17 | 3 | 2 | 12 | Asked in Short Questions (Short 29), Unit 01 Questions (MCQ 4), Unit 01 Answers (MCQ 4), Final Formative 01 (Short 16), CBLM 8 Self Check 1 (Q1) and CBLM 9 Self Check 1 (Q4). Highlighted in CBLM 8. Comes as MCQ and short question. |
-| 2 | Components of a Competency Standard (Unit of Competency) | 9 | ★★★ | 14 | 3 | 1 | 10 | Asked in Final Formative 01 (Short 16), Short Questions (Short 2, 31, Short 40), Unit 01 Answers (MCQ 8, Matching 13, Short 18, 24), Unit 01 Questions (MCQ 8, Matching 13, Short 18, 24) and Unit 01 Short Questions (Short 9, 13). Highlighted in CBLM 9. Comes as matching, MCQ and short question. |
-| 3 | Oral Questioning Tool | 11 | ★★★ | 14 | 3 | 1 | 10 | Asked in Short Questions (Short 53), Unit 01 Answers (Short 17), Unit 01 Questions (Short 17), Unit 01 Short Questions (Short 12) and CBLM 11 Self Check 4 (Q2). Highlighted in CBLM 11. Comes as short question. |
-| 4 | Reasonable Adjustment | 12 | ★★★ | 14 | 3 | 2 | 9 | Asked in Final Formative 01 (Short 22), CBT&A L4 Written Test — Inclusivity & Maintenance (Short 3), Short Questions (Short 6, 8) and CBLM 12 Self Check 1 (Q3). Highlighted in CBLM 12. Comes as short question. |
-| 5 | Recording and Reporting Assessment Results | 12 | ★★★ | 14 | 3 | 1 | 10 | Asked in Final Formative 01 (Short 25), Short Questions (Short 73, 74) and CBLM 12 Self Check 1 (Q12, Q13, Q14). Highlighted in CBLM 12. Comes as short question. |
-| 6 | Curriculum Document in CBT&A | 8 | ★★★ | 13 | 3 | 2 | 8 | Asked in Unit 01 Questions (MCQ 6, Short 21), Unit 01 Answers (MCQ 6, Short 21), Unit 01 Short Questions (Short 18) and CBLM 9 Self Check 1 (Q5). Highlighted in CBLM 8. Comes as MCQ and short question. |
-| 7 | Adjustment Strategies for Candidate Groups | 12 | ★★★ | 11 | 3 | 1 | 7 | Asked in Short Questions (Short 7, 9), CBT&A L4 Written Test — Inclusivity & Maintenance (Short 4) and CBLM 12 Self Check 1 (Q4). Highlighted in CBLM 12. Comes as short question. |
-| 8 | Forms of Evidence: Direct and Indirect | 12 | ★★★ | 11 | 3 | 2 | 6 | Asked in Short Questions (Short 67, 80), CBLM 12 Self Check 1 (Q6) and CBLM 11 Self Check 1 (Q3). Highlighted in CBLM 12. Comes as short question. |
-| 9 | Rules of Evidence | 12 | ★★★ | 11 | 3 | 2 | 6 | Asked in Short Questions (Short 45, 48) and CBLM 12 Self Check 1 (Q9, Q10). Highlighted in CBLM 12. Comes as short question. |
-| 10 | Assessment Plan | 11 | ★★★ | 10 | 3 | 1 | 6 | Asked in Short Questions (Short 69) and CBLM 11 Self Check 3 (Q1, Q4). Highlighted in CBLM 11. Comes as short question. |
-| 11 | Errors Commonly Made by Assessors | 12 | ★★★ | 10 | 3 | 1 | 6 | Asked in Final Formative 01 (MCQ 9), Short Questions (Short 59, 65) and CBLM 12 Self Check 1 (Q8). Highlighted in CBLM 12. Comes as MCQ and short question. |
-| 12 | Effective Ways of Giving Feedback | 12 | ★★★ | 10 | 3 | 1 | 6 | Asked in Short Questions (Short 35, 36, Short 37), Final Formative 01 (MCQ 10) and CBLM 12 Self Check 1 (Q16). Highlighted in CBLM 12. Comes as MCQ and short question. |
-| 13 | Underpinning Knowledge and the Job Target | 8 | ★★★ | 10 | 3 | 1 | 6 | Asked in Short Questions (Short 34), Unit 01 Questions (MCQ 3) and Unit 01 Answers (MCQ 3). Highlighted in CBLM 8. Comes as MCQ and short question. |
-| 14 | Analysing Competency Standards to Determine Evidence | 11 | ★★★ | 9 | 2 | 1 | 6 | Asked in Unit 01 Answers (Short 24), Unit 01 Questions (Short 24) and CBLM 11 Self Check 1 (Q2). Highlighted in CBLM 11. Comes as short question. |
-| 15 | Assessment Criteria vs Performance Criteria | 8 | ★★★ | 9 | 2 | 1 | 6 | Asked in Short Questions (Short 44, 40, Short 68), Unit 01 Answers (Matching 13) and Unit 01 Questions (Matching 13). Highlighted in CBLM 8. Comes as matching and short question. |
-| 16 | Methods and Tools for Gathering Evidence | 12 | ★★★ | 9 | 3 | 2 | 4 | Asked in Final Formative 01 (MCQ 8) and CBLM 12 Self Check 1 (Q7). Highlighted in CBLM 12. Comes as MCQ and short question. |
-| 17 | Learning Outcome vs Element of Competency | 8 | ★★★ | 9 | 3 | 2 | 4 | Asked in Short Questions (Short 31) and Unit 01 Short Questions (Short 9, 5). Highlighted in CBLM 8. Comes as short question. |
-| 18 | Stages in Preparing an Assessment Plan | 11 | ★★★ | 9 | 2 | 1 | 6 | Asked in Short Questions (Short 39), Final Formative 01 (Short 23) and CBLM 11 Self Check 3 (Q2). Highlighted in CBLM 11. Comes as short question. |
-| 19 | Making an Assessment Decision | 12 | ★★★ | 8 | 3 | 1 | 4 | Asked in Short Questions (Short 55, 79) and CBLM 12 Self Check 1 (Q11). Highlighted in CBLM 12. Comes as short question. |
-| 20 | Assessment Planning Matrix | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Final Formative 01 (Matching 14) and CBLM 11 Self Check 3 (Q3). Highlighted in CBLM 11. Comes as matching and short question. |
-| 21 | Record Keeping and Documentation Arrangements | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Short Questions (Short 73) and CBLM 11 Self Check 2 (Q2). Highlighted in CBLM 11. Comes as short question. |
-| 22 | Assessment Tool and Assessment Instrument | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Short Questions (Short 52) and CBLM 11 Self Check 4 (Q1). Highlighted in CBLM 11. Comes as short question. |
-| 23 | Formative and Summative Assessment | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Short Questions (Short 38) and CBLM 11 Self Check 1 (Q1). Highlighted in CBLM 11. Comes as short question. |
-| 24 | Hierarchy of Controls | 3 | ★★★ | 8 | 3 | 1 | 4 | Asked in Final Formative 01 (MCQ 3) and CBLM 3 Self Check 1 (Q4). Highlighted in CBLM 3. Comes as MCQ and short question. |
-| 25 | Pre-assessment of a Trainee's Current Competency | 9 | ★★★ | 8 | 3 | 1 | 4 | Asked in CBLM 9 Self Check 1 (Q1, Q2). Highlighted in CBLM 9. Comes as short question. |
-| 26 | Reliability of Assessment | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Short Questions (Short 50) and CBLM 11 Self Check 1 (Q5). Highlighted in CBLM 11. Comes as short question. |
-| 27 | Summative Assessment Methods and Their Tools | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Final Formative 01 (MCQ 8) and CBLM 11 Self Check 2 (Q1). Highlighted in CBLM 11. Comes as MCQ and short question. |
-| 28 | Checking Existing Learning Resources | 8 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 9 Self Check 3 (Q2). Highlighted in CBLM 8. Comes as short question. |
-| 29 | Context of Assessment | 12 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 11 Self Check 1 (Q4). Highlighted in CBLM 12. Comes as short question. |
-| 30 | Feedback and the Feedback Sandwich | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Final Formative 01 (Matching 15) and CBLM 12 Self Check 1 (Q15). Highlighted in CBLM 12. Comes as matching and short question. |
-| 31 | Gagné's Nine Steps for Writing Learning Materials | 8 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 8 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question. |
-| 32 | Holistic Assessment Design and Clustering Competencies | 11 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Final Formative 01 (MCQ 7) and Short Questions (Short 70). Highlighted in CBLM 11. Comes as MCQ and short question. |
-| 33 | Informing Candidates Before Assessment | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Short Questions (Short 60) and CBLM 12 Self Check 1 (Q2). Highlighted in CBLM 12. Comes as short question. |
-| 34 | When to Stop an Assessment | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Final Formative 01 (Short 24) and CBLM 12 Self Check 1 (Q5). Highlighted in CBLM 12. Comes as short question. |
-| 35 | Validating Training Requirements | 8 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 9 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question. |
-| 36 | Stages of Competency Assessment | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q1). Highlighted in CBLM 12. Comes as short question. |
-| 37 | Identifying the Needs of Candidates | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 6). Highlighted in CBLM 11. Comes as short question. |
-| 38 | How the Designer Checks Each Rule of Evidence | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 46, 47, Short 48, 51, Short 78). Highlighted in CBLM 11. Comes as short question. |
-| 39 | Choosing Assessment Methods | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 57). Highlighted in CBLM 11. Comes as short question. |
-| 40 | Free Consent and Confidentiality | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 61). Highlighted in CBLM 12. Comes as short question. |
-| 41 | Learning Activities and Methods for Learning Materials | 8 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 8 Self Check 1 (Q4). Highlighted in CBLM 8. Comes as short question. |
-| 42 | Legal and Ethical Responsibilities in Assessment | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 62, 77). Highlighted in CBLM 12. Comes as short question. |
-| 43 | Links Between Learning Sessions | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q4). Highlighted in CBLM 9. Comes as short question. |
-| 44 | Major Parts of a CBLM | 8 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 8 Self Check 1 (Q5). Highlighted in CBLM 8. Comes as short question. |
-| 45 | Planning for Training Resources | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 3 (Q1). Highlighted in CBLM 9. Comes as short question. |
-| 46 | Principles of Competency Based Assessment | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 64). Highlighted in CBLM 11. Comes as short question. |
-| 47 | Reviewing the Assessment Process | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q18). Highlighted in CBLM 12. Comes as short question. |
-| 48 | Session Plan | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q1). Highlighted in CBLM 9. Comes as short question. |
-| 49 | Steps in Preparing a Session Plan | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q3). Highlighted in CBLM 9. Comes as short question. |
-| 50 | Third Party Report | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 11 Self Check 4 (Q3). Highlighted in CBLM 11. Comes as short question. |
-| 51 | Selecting a Training Venue | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 3 (Q3). Highlighted in CBLM 9. Comes as short question. |
-| 52 | Why Use Learning Materials | 8 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 8 Self Check 1 (Q2). Highlighted in CBLM 8. Comes as short question. |
-| 53 | Assessment Benchmark | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 49). Highlighted in CBLM 11. Comes as short question. |
-| 54 | Benefits of Feedback on Assessment | 12 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q17). Highlighted in CBLM 12. Comes as short question. |
-| 55 | Competency Based Assessment: Definition and Characteristics | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 54, 72). Highlighted in CBLM 11. Comes as short question. |
-| 56 | Conflict of Interest in Assessment | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 63, 82). Highlighted in CBLM 11. Comes as short question. |
-| 57 | Steps in Designing Competency Based Assessment | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 43). Highlighted in CBLM 11. Comes as short question. |
-| 58 | Observation Checklist | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 41, 42). Highlighted in CBLM 11. Comes as short question. |
-| 59 | Preparing Candidates and a Supportive Environment | 12 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 83). Highlighted in CBLM 12. Comes as short question. |
-| 60 | Training Methods, Coaching and Mentoring | 9 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q2). Highlighted in CBLM 9. Comes as short question. |
-| 61 | Training Needs: The Competency Gap | 9 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 9 Self Check 1 (Q2). Highlighted in CBLM 9. Comes as short question. |
-| 62 | Steps for Adapting Existing Learning Materials | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
-| 63 | Legal and Ethical Requirements for Assessment Design | 11 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 11. |
-| 64 | Identifying Material and Resource Requirements | 11 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 11. |
-| 65 | Key Points for Developing Your Writing Style | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
-| 66 | Methods of Formative Assessment | 11 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 11. |
-| 67 | Strategies for Gender Inclusivity in the Class | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
-| 68 | What Makes Good Learning Material | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
-| 69 | Preparing to Write Learning Materials | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
-| 70 | Program Delivery Plan | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
-| 71 | Strategies to Include Persons with Disability (PWDs) in the Class | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
-| 72 | Range of Learning Operational Resources | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
-| 73 | Criteria for Session Learning Outcomes (Observable, Measurable, Action Verbs) | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
-| 74 | Writing Learning Outcomes and Assessment Criteria | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
-| 75 | What the Assessment Context Includes | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
-| 76 | Roles and Responsibilities of an Assessment Designer | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
-| 77 | Role of an Assessor of Competency | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
-| 78 | Evidence in Competency Based Assessment | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
-| 79 | Characteristics of a Good Information Sheet | 8 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 8. |
-| 80 | Identifying Existing Learning Resources | 8 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 8. |
-| 81 | Learner Characteristics for Session Planning | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
-| 82 | Portfolio of Evidence | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
-| 83 | Purposes of Assessment | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
-| 84 | Recognition Assessment: People and Evidence | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
-| 85 | Self-Assessment Instruments | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
-| 86 | Session Outcomes (Performance, Standards, Conditions) | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
-| 87 | Session Review (Conclusion) | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
-| 88 | Sequencing the Content of a Session | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
-| 89 | Training Delivery Modes | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
-| 90 | Competency Based Learning Material (CBLM) | 8 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 8. |
-| 91 | Considerations for Workplace Assessment | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
+| 1 | Industry Competency Standards | 8 | ★★★ | 18 | 3 | 3 | 12 | Asked in Short Questions (Short 29), Unit 01 Questions (MCQ 4, Matching 11), Unit 01 Answers (MCQ 4, Matching 11), Final Formative 01 (Short 16), CBLM 8 Self Check 1 (Q1) and CBLM 9 Self Check 1 (Q4). Highlighted in CBLM 8. Comes as matching, MCQ and short question. |
+| 2 | Components of a Competency Standard (Unit of Competency) | 9 | ★★★ | 17 | 3 | 2 | 12 | Asked in Final Formative 01 (Short 16), Short Questions (Short 2, 31, Short 40), Unit 01 Answers (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Questions (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Short Questions (Short 9, 13, Short 6) and CBLM 1 Self Check 2 (Q1). Highlighted in CBLM 9. Comes as matching, MCQ and short question. |
+| 3 | Reasonable Adjustment | 12 | ★★★ | 15 | 3 | 3 | 9 | Asked in Final Formative 01 (Short 22), CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 3), Short Questions (Short 6, 8) and CBLM 12 Self Check 1 (Q3). Highlighted in CBLM 12. Comes as MCQ and short question. |
+| 4 | Curriculum Document in CBT&A | 8 | ★★★ | 14 | 3 | 3 | 8 | Asked in Unit 01 Questions (MCQ 6, Short 21), Unit 01 Answers (MCQ 6, Short 21), Unit 01 Short Questions (Short 18, 4) and CBLM 9 Self Check 1 (Q5). Highlighted in CBLM 8. Comes as MCQ and short question. |
+| 5 | NTVQF and Its Qualification Levels | 1 | ★★★ | 14 | 3 | 1 | 10 | Asked in Final Formative 01 (MCQ 1), Unit 01 Questions (MCQ 2, 9, MCQ 5), Unit 01 Answers (MCQ 2, 9, MCQ 5) and CBLM 1 Self Check 1 (Q2, Q3). Highlighted in CBLM 1. Comes as MCQ and short question. |
+| 6 | Oral Questioning Tool | 11 | ★★★ | 14 | 3 | 1 | 10 | Asked in Short Questions (Short 53), Unit 01 Answers (Short 17), Unit 01 Questions (Short 17), Unit 01 Short Questions (Short 12) and CBLM 11 Self Check 4 (Q2). Highlighted in CBLM 11. Comes as short question. |
+| 7 | Recording and Reporting Assessment Results | 12 | ★★★ | 14 | 3 | 1 | 10 | Asked in Final Formative 01 (Short 25), Short Questions (Short 73, 74) and CBLM 12 Self Check 1 (Q12, Q13, Q14). Highlighted in CBLM 12. Comes as short question. |
+| 8 | Key Points of Time Management Skills | 1 | ★★★ | 14 | 3 | 1 | 10 | Asked in Unit 01 Short Questions (Short 17), Unit 01 Questions (Short 23), Unit 01 Answers (Short 23), Short Questions (Short 24) and CBLM 1 Self Check 3 (Q2). Highlighted in CBLM 1. Comes as short question. |
+| 9 | Objectives of the Quality Assurance Framework | 1 | ★★★ | 13 | 2 | 1 | 10 | Asked in Unit 01 Short Questions (Short 14), Unit 01 Questions (Short 19), Unit 01 Answers (Short 19), Short Questions (Short 4) and CBLM 1 Self Check 2 (Q3). Highlighted in CBLM 1. Comes as short question. |
+| 10 | Adjustment Strategies for Candidate Groups | 12 | ★★★ | 12 | 3 | 2 | 7 | Asked in Short Questions (Short 7, 9), CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 4) and CBLM 12 Self Check 1 (Q4). Highlighted in CBLM 12. Comes as MCQ and short question. |
+| 11 | Client-Focused Approach of a TVET Teacher | 1 | ★★★ | 12 | 3 | 1 | 8 | Asked in Unit 01 Short Questions (Short 3, 11, Short 16), Unit 01 Questions (Short 16), Unit 01 Answers (Short 16) and CBLM 1 Self Check 3 (Q3). Highlighted in CBLM 1. Comes as short question. |
+| 12 | Learning Outcome vs Element of Competency | 8 | ★★★ | 12 | 3 | 3 | 6 | Asked in Short Questions (Short 31), Unit 01 Short Questions (Short 9, 5) and CBLM 1 Self Check 2 (Q2). Highlighted in CBLM 8. Comes as short question. |
+| 13 | Main Features of the National Skills Development Policy (NSDP) | 1 | ★★★ | 12 | 3 | 1 | 8 | Asked in Short Questions (Short 1), Unit 01 Questions (MCQ 1, 7), Unit 01 Answers (MCQ 1, 7) and CBLM 1 Self Check 1 (Q1). Highlighted in CBLM 1. Comes as MCQ and short question. |
+| 14 | Clients of a TVET Institute | 1 | ★★★ | 11 | 2 | 1 | 8 | Asked in Unit 01 Short Questions (Short 15), Unit 01 Questions (Short 20), Unit 01 Answers (Short 20) and CBLM 1 Self Check 3 (Q4). Highlighted in CBLM 1. Comes as short question. |
+| 15 | Forms of Evidence: Direct and Indirect | 12 | ★★★ | 11 | 3 | 2 | 6 | Asked in Short Questions (Short 67, 80), CBLM 12 Self Check 1 (Q6) and CBLM 11 Self Check 1 (Q3). Highlighted in CBLM 12. Comes as short question. |
+| 16 | Rules of Evidence | 12 | ★★★ | 11 | 3 | 2 | 6 | Asked in Short Questions (Short 45, 48) and CBLM 12 Self Check 1 (Q9, Q10). Highlighted in CBLM 12. Comes as short question. |
+| 17 | Assessment Plan | 11 | ★★★ | 10 | 3 | 1 | 6 | Asked in Short Questions (Short 69) and CBLM 11 Self Check 3 (Q1, Q4). Highlighted in CBLM 11. Comes as short question. |
+| 18 | Errors Commonly Made by Assessors | 12 | ★★★ | 10 | 3 | 1 | 6 | Asked in Final Formative 01 (MCQ 9), Short Questions (Short 59, 65) and CBLM 12 Self Check 1 (Q8). Highlighted in CBLM 12. Comes as MCQ and short question. |
+| 19 | Effective Ways of Giving Feedback | 12 | ★★★ | 10 | 3 | 1 | 6 | Asked in Short Questions (Short 35, 36, Short 37), Final Formative 01 (MCQ 10) and CBLM 12 Self Check 1 (Q16). Highlighted in CBLM 12. Comes as MCQ and short question. |
+| 20 | Employability Skills | 1 | ★★★ | 10 | 3 | 1 | 6 | Asked in Unit 01 Short Questions (Short 8), Unit 01 Questions (Short 25) and Unit 01 Answers (Short 25). Highlighted in CBLM 1. Comes as short question. |
+| 21 | Recognition of Prior Learning (RPL): Benefits and Evidence | 1 | ★★★ | 10 | 3 | 1 | 6 | Asked in Final Formative 01 (Matching 12, Short 17), Short Questions (Short 3, 71) and CBLM 1 Self Check 2 (Q6). Highlighted in CBLM 1. Comes as matching and short question. |
+| 22 | Underpinning Knowledge and the Job Target | 8 | ★★★ | 10 | 3 | 1 | 6 | Asked in Short Questions (Short 34), Unit 01 Questions (MCQ 3) and Unit 01 Answers (MCQ 3). Highlighted in CBLM 8. Comes as MCQ and short question. |
+| 23 | Analysing Competency Standards to Determine Evidence | 11 | ★★★ | 9 | 2 | 1 | 6 | Asked in Unit 01 Answers (Short 24), Unit 01 Questions (Short 24) and CBLM 11 Self Check 1 (Q2). Highlighted in CBLM 11. Comes as short question. |
+| 24 | Assessment Criteria vs Performance Criteria | 8 | ★★★ | 9 | 2 | 1 | 6 | Asked in Short Questions (Short 44, 40, Short 68), Unit 01 Answers (Matching 13) and Unit 01 Questions (Matching 13). Highlighted in CBLM 8. Comes as matching and short question. |
+| 25 | Four Dimensions of Competency | 1 | ★★★ | 9 | 2 | 1 | 6 | Asked in Unit 01 Short Questions (Short 1, 7, Short 10), Final Formative 01 (MCQ 2, Matching 11) and Short Questions (Short 25, 26, Short 27, 28, Short 32). Highlighted in CBLM 1. Comes as matching, MCQ and short question. |
+| 26 | Methods and Tools for Gathering Evidence | 12 | ★★★ | 9 | 3 | 2 | 4 | Asked in Final Formative 01 (MCQ 8) and CBLM 12 Self Check 1 (Q7). Highlighted in CBLM 12. Comes as MCQ and short question. |
+| 27 | Feedback and the Feedback Sandwich | 12 | ★★★ | 9 | 2 | 1 | 6 | Asked in Final Formative 01 (Matching 15), CBLM 12 Self Check 1 (Q15) and CBLM 10 Self Check 2 (Q8). Highlighted in CBLM 12. Comes as matching and short question. |
+| 28 | Inclusivity: Meaning and Why Practise It | 2 | ★★★ | 9 | 3 | 1 | 5 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 1) and CBLM 2 Self Check 1 (Q1). Highlighted in CBLM 2. Comes as short question. |
+| 29 | Assessing Learners with Low Literacy or Numeracy | 2 | ★★★ | 9 | 3 | 1 | 5 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 4) and CBLM 2 Self Check 1 (Q4). Highlighted in CBLM 2. Comes as MCQ and short question. |
+| 30 | Monitoring and Improving Inclusive Work Practices | 2 | ★★★ | 9 | 3 | 1 | 5 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 5) and CBLM 2 Self Check 2 (Q3). Highlighted in CBLM 2. Comes as short question. |
+| 31 | Principles that Underpin Inclusivity | 2 | ★★★ | 9 | 3 | 1 | 5 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 2) and CBLM 2 Self Check 1 (Q2). Highlighted in CBLM 2. Comes as short question. |
+| 32 | Stages in Preparing an Assessment Plan | 11 | ★★★ | 9 | 2 | 1 | 6 | Asked in Short Questions (Short 39), Final Formative 01 (Short 23) and CBLM 11 Self Check 3 (Q2). Highlighted in CBLM 11. Comes as short question. |
+| 33 | Support Persons in Inclusive Learning | 2 | ★★★ | 9 | 3 | 1 | 5 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 4) and CBLM 2 Self Check 2 (Q2). Highlighted in CBLM 2. Comes as short question. |
+| 34 | Apprenticeship Laws and the Apprentice Contract | 1 | ★★★ | 8 | 3 | 1 | 4 | Asked in Unit 01 Questions (Short 22, MCQ 10) and Unit 01 Answers (Short 22, MCQ 10). Highlighted in CBLM 1. Comes as MCQ and short question. |
+| 35 | Making an Assessment Decision | 12 | ★★★ | 8 | 3 | 1 | 4 | Asked in Short Questions (Short 55, 79) and CBLM 12 Self Check 1 (Q11). Highlighted in CBLM 12. Comes as short question. |
+| 36 | Assessment Planning Matrix | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Final Formative 01 (Matching 14) and CBLM 11 Self Check 3 (Q3). Highlighted in CBLM 11. Comes as matching and short question. |
+| 37 | Record Keeping and Documentation Arrangements | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Short Questions (Short 73) and CBLM 11 Self Check 2 (Q2). Highlighted in CBLM 11. Comes as short question. |
+| 38 | Assessment Tool and Assessment Instrument | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Short Questions (Short 52) and CBLM 11 Self Check 4 (Q1). Highlighted in CBLM 11. Comes as short question. |
+| 39 | Areas of a CBT Shop (Training Room Layout) | 10 | ★★★ | 8 | 3 | 1 | 4 | Asked in CBLM 10 Self Check 1 (Q1, Q2). Highlighted in CBLM 10. Comes as short question. |
+| 40 | Clients with Particular Needs | 2 | ★★★ | 8 | 2 | 1 | 5 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 3, MCQ 1) and CBLM 2 Self Check 1 (Q3). Highlighted in CBLM 2. Comes as MCQ and short question. |
+| 41 | Formative and Summative Assessment | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Short Questions (Short 38) and CBLM 11 Self Check 1 (Q1). Highlighted in CBLM 11. Comes as short question. |
+| 42 | Hierarchy of Controls | 3 | ★★★ | 8 | 3 | 1 | 4 | Asked in Final Formative 01 (MCQ 3) and CBLM 3 Self Check 1 (Q4). Highlighted in CBLM 3. Comes as MCQ and short question. |
+| 43 | Pre-assessment of a Trainee's Current Competency | 9 | ★★★ | 8 | 3 | 1 | 4 | Asked in CBLM 9 Self Check 1 (Q1, Q2). Highlighted in CBLM 9. Comes as short question. |
+| 44 | Reliability of Assessment | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Short Questions (Short 50) and CBLM 11 Self Check 1 (Q5). Highlighted in CBLM 11. Comes as short question. |
+| 45 | Summative Assessment Methods and Their Tools | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Final Formative 01 (MCQ 8) and CBLM 11 Self Check 2 (Q1). Highlighted in CBLM 11. Comes as MCQ and short question. |
+| 46 | Checking Existing Learning Resources | 8 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 9 Self Check 3 (Q2). Highlighted in CBLM 8. Comes as short question. |
+| 47 | Context of Assessment | 12 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 11 Self Check 1 (Q4). Highlighted in CBLM 12. Comes as short question. |
+| 48 | Examining Our Perceptions | 2 | ★★★ | 7 | 3 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 5). Highlighted in CBLM 2. Comes as MCQ. |
+| 49 | Gagné's Nine Steps for Writing Learning Materials | 8 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 8 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question. |
+| 50 | Holistic Assessment Design and Clustering Competencies | 11 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Final Formative 01 (MCQ 7) and Short Questions (Short 70). Highlighted in CBLM 11. Comes as MCQ and short question. |
+| 51 | Informing Candidates Before Assessment | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Short Questions (Short 60) and CBLM 12 Self Check 1 (Q2). Highlighted in CBLM 12. Comes as short question. |
+| 52 | Range of Learning Operational Resources | 8 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 10 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question. |
+| 53 | When to Stop an Assessment | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Final Formative 01 (Short 24) and CBLM 12 Self Check 1 (Q5). Highlighted in CBLM 12. Comes as short question. |
+| 54 | Task Analysis for a Learning Session | 1 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Unit 01 Short Questions (Short 19) and Short Questions (Short 33). Highlighted in CBLM 1. Comes as short question. |
+| 55 | Validating Training Requirements | 8 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 9 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question. |
+| 56 | Eight Essential Components of Apprenticeship Training | 1 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 1 Self Check 2 (Q5). Highlighted in CBLM 1. Comes as short question. |
+| 57 | Stages of Competency Assessment | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q1). Highlighted in CBLM 12. Comes as short question. |
+| 58 | Identifying the Needs of Candidates | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 6). Highlighted in CBLM 11. Comes as short question. |
+| 59 | How the Designer Checks Each Rule of Evidence | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 46, 47, Short 48, 51, Short 78). Highlighted in CBLM 11. Comes as short question. |
+| 60 | Choosing Assessment Methods | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 57). Highlighted in CBLM 11. Comes as short question. |
+| 61 | Characteristics of Effective Feedback in Training | 10 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q7). Highlighted in CBLM 10. Comes as short question. |
+| 62 | Free Consent and Confidentiality | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 61). Highlighted in CBLM 12. Comes as short question. |
+| 63 | Individual Differences of Learners | 2 | ★★★ | 6 | 2 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 2). Highlighted in CBLM 2. Comes as MCQ. |
+| 64 | Learning Activities and Methods for Learning Materials | 8 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 8 Self Check 1 (Q4). Highlighted in CBLM 8. Comes as short question. |
+| 65 | Legal and Ethical Responsibilities in Assessment | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 62, 77). Highlighted in CBLM 12. Comes as short question. |
+| 66 | Links Between Learning Sessions | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q4). Highlighted in CBLM 9. Comes as short question. |
+| 67 | Workplace Issues: Managing Work and Work Relationships | 1 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 1 Self Check 3 (Q1). Highlighted in CBLM 1. Comes as short question. |
+| 68 | Major Parts of a CBLM | 8 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 8 Self Check 1 (Q5). Highlighted in CBLM 8. Comes as short question. |
+| 69 | Planning for Training Resources | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 3 (Q1). Highlighted in CBLM 9. Comes as short question. |
+| 70 | Principles of Competency Based Assessment | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 64). Highlighted in CBLM 11. Comes as short question. |
+| 71 | Reviewing the Assessment Process | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q18). Highlighted in CBLM 12. Comes as short question. |
+| 72 | Self Evaluation of Training Performance | 10 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 10 Self Check 3 (Q3). Highlighted in CBLM 10. Comes as short question. |
+| 73 | Session Plan | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q1). Highlighted in CBLM 9. Comes as short question. |
+| 74 | Steps in Preparing a Session Plan | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q3). Highlighted in CBLM 9. Comes as short question. |
+| 75 | Third Party Report | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 11 Self Check 4 (Q3). Highlighted in CBLM 11. Comes as short question. |
+| 76 | Selecting a Training Venue | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 3 (Q3). Highlighted in CBLM 9. Comes as short question. |
+| 77 | Why Use Learning Materials | 8 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 8 Self Check 1 (Q2). Highlighted in CBLM 8. Comes as short question. |
+| 78 | Assessment Benchmark | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 49). Highlighted in CBLM 11. Comes as short question. |
+| 79 | Determining Learner Readiness for Assessment | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q10). Highlighted in CBLM 10. Comes as short question. |
+| 80 | Benefits of Feedback on Assessment | 12 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q17). Highlighted in CBLM 12. Comes as short question. |
+| 81 | Competency Based Training (CBT) Program | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q1). Highlighted in CBLM 10. Comes as short question. |
+| 82 | Traditional Training vs CBT Programs | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q2). Highlighted in CBLM 10. Comes as short question. |
+| 83 | Checking Learner Needs and Understanding | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q9). Highlighted in CBLM 10. Comes as short question. |
+| 84 | Competency Based Assessment: Definition and Characteristics | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 54, 72). Highlighted in CBLM 11. Comes as short question. |
+| 85 | Competency: Definition, Types and Key Features | 1 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Unit 01 Short Questions (Short 2). Highlighted in CBLM 1. Comes as short question. |
+| 86 | Conflict of Interest in Assessment | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 63, 82). Highlighted in CBLM 11. Comes as short question. |
+| 87 | Steps in Designing Competency Based Assessment | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 43). Highlighted in CBLM 11. Comes as short question. |
+| 88 | Evaluation Tools for Training Delivery | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 3 (Q2). Highlighted in CBLM 10. Comes as short question. |
+| 89 | Ground Rules for Modelling Inclusiveness | 2 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Unit 02 Short Questions (Short 8). Highlighted in CBLM 2. Comes as short question. |
+| 90 | Observation Checklist | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 41, 42). Highlighted in CBLM 11. Comes as short question. |
+| 91 | Preparing Candidates and a Supportive Environment | 12 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 83). Highlighted in CBLM 12. Comes as short question. |
+| 92 | Registered Training Organisation (RTO) and Its Benefits | 1 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 1 Self Check 2 (Q4). Highlighted in CBLM 1. Comes as short question. |
+| 93 | Teachers' Roles and Requirements in Supporting Learners | 1 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 1 Self Check 4 (Q2). Highlighted in CBLM 1. Comes as short question. |
+| 94 | Things a TVET Trainer Should Avoid | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q4). Highlighted in CBLM 10. Comes as short question. |
+| 95 | Training Methods, Coaching and Mentoring | 9 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q2). Highlighted in CBLM 9. Comes as short question. |
+| 96 | Training Needs: The Competency Gap | 9 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 9 Self Check 1 (Q2). Highlighted in CBLM 9. Comes as short question. |
+| 97 | Role of a Competent TVET Teacher/Trainer | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q3). Highlighted in CBLM 10. Comes as short question. |
+| 98 | Steps for Adapting Existing Learning Materials | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
+| 99 | Adult Learning Principles that Resemble Inclusivity | 2 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 2. |
+| 100 | Legal and Ethical Requirements for Assessment Design | 11 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 11. |
+| 101 | Identifying Material and Resource Requirements | 11 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 11. |
+| 102 | Client Needs, Expectations and Operational Limits | 1 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 1. |
+| 103 | Key Points for Developing Your Writing Style | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
+| 104 | Methods of Formative Assessment | 11 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 11. |
+| 105 | Strategies for Gender Inclusivity in the Class | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
+| 106 | Giving and Receiving Feedback on a Learning Session | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 107 | Preparing Learners in the First Session (GLOSS Model) | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 108 | What Makes Good Learning Material | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
+| 109 | Guidelines for Learner Behaviour and Sample Ground Rules | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 110 | Tips for Preparing and Showing PowerPoint Slides | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 111 | Preparing to Write Learning Materials | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
+| 112 | Relaxed Presentation: Voice and Body Language (SOLER) | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 113 | Eight Principles of Learning | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 114 | Program Delivery Plan | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
+| 115 | Strategies to Include Persons with Disability (PWDs) in the Class | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
+| 116 | Seven Question Types for Facilitators | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 117 | Criteria for Session Learning Outcomes (Observable, Measurable, Action Verbs) | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
+| 118 | VARK Learning Styles | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 119 | Guidelines for Using Blackboards and Whiteboards | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 120 | Writing Learning Outcomes and Assessment Criteria | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
+| 121 | Access and Equity Policy | 2 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 2. |
+| 122 | What the Assessment Context Includes | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
+| 123 | Roles and Responsibilities of an Assessment Designer | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
+| 124 | Role of an Assessor of Competency | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
+| 125 | Principles of Competency Based Training System | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 126 | Communication Strategies for Learner Participation | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 127 | Computer Based Learning: Advantages and Limitations | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 128 | Evidence in Competency Based Assessment | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
+| 129 | Characteristics of a Good Information Sheet | 8 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 8. |
+| 130 | Identifying Existing Learning Resources | 8 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 8. |
+| 131 | Features of an Inclusive Learning Environment | 2 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 2. |
+| 132 | Planning for Inclusiveness and Work Strategies to Support It | 2 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in CBLM 2 Self Check 2 (Q1). Comes as short question. |
+| 133 | Learner Characteristics for Session Planning | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
+| 134 | Learning Domains: Cognitive, Affective and Psychomotor | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 135 | Learning to Learn Philosophy | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 136 | Managing Inappropriate Learner Behaviour | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 137 | Portfolio of Evidence | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
+| 138 | Posters and Charts: Purpose and Layout Tips | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 139 | Providing Practice Opportunities | 10 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q6). Comes as short question. |
+| 140 | How to Practise Inclusivity (Five Ways) | 2 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 2. |
+| 141 | Pre-Training and In-Training Support for Clients | 1 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in CBLM 1 Self Check 4 (Q1). Comes as short question. |
+| 142 | Purposes of Assessment | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
+| 143 | Recognition Assessment: People and Evidence | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
+| 144 | Selecting Appropriate Delivery Techniques | 10 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q5). Comes as short question. |
+| 145 | Self-Assessment Instruments | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
+| 146 | Verbal and Body Language Sensitive to Difference | 2 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 2. |
+| 147 | Session Outcomes (Performance, Standards, Conditions) | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
+| 148 | Session Review (Conclusion) | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
+| 149 | Sequencing the Content of a Session | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
+| 150 | Steps of a Skill Demonstration | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 151 | Role of Students in a CBT System | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 152 | Training Delivery Modes | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
+| 153 | Why Provide Variety in Delivering Sessions | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 154 | Using Video in Training | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 155 | Competency Based Learning Material (CBLM) | 8 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 8. |
+| 156 | Why Review Training Delivery | 10 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in CBLM 10 Self Check 3 (Q1). Comes as short question. |
+| 157 | Considerations for Workplace Assessment | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
 
 ## Common traps (from authored cards)
 
 - **Industry Competency Standards**: Do not mix the parts: units of competency are made up of elements of competency.
 - **Industry Competency Standards**: Industry determines competency standards. They are specifications of performance.
+- **Components of a Competency Standard (Unit of Competency)**: Competency standards have mainly 9 components, including skills and knowledge requirement for the unit.
 - **Components of a Competency Standard (Unit of Competency)**: Performance criteria are also referred to as assessment criteria in curriculum documents.
 - **Components of a Competency Standard (Unit of Competency)**: The range statement is also referred to as the range of variables.
 - **Components of a Competency Standard (Unit of Competency)**: Different list: a competency standard also includes quality indicators and assessment guidelines.
-- **Oral Questioning Tool**: Equipment broke down? That is a contingency question, not an extension question.
-- **Oral Questioning Tool**: Questioning also explores dimensions of competency, like contingency skills and problem solution.
 - **Reasonable Adjustment**: Only the structure of the assessment is altered, not the outcomes.
 - **Reasonable Adjustment**: An adjustment is reasonable if it puts no unjustifiable hardship on the assessment center.
+- **Curriculum Document in CBT&A**: A beginning trainer may not have to develop curriculum. They are provided with a syllabus.
+- **Curriculum Document in CBT&A**: Competency standards are endorsed by the Industry Skills Council (ISC), not by the trainer.
+- **NTVQF and Its Qualification Levels**: Level 4 is required for becoming a skilled worker in any trade.
+- **NTVQF and Its Qualification Levels**: Levels go from 1 to 6, as well as two pre-vocational levels.
+- **NTVQF and Its Qualification Levels**: Work or study under supervision with considerable autonomy: Skilled Worker.
+- **Oral Questioning Tool**: Equipment broke down? That is a contingency question, not an extension question.
+- **Oral Questioning Tool**: Questioning also explores dimensions of competency, like contingency skills and problem solution.
 - **Recording and Reporting Assessment Results**: Recording is documenting results. Reporting is conveying the outcome to appropriate personnel.
 - **Recording and Reporting Assessment Results**: Reporting goes to school administrators, assessment centre managers and employers.
 - **Recording and Reporting Assessment Results**: Restrict access to each candidate's assessment record. Keep it confidential.
-- **Curriculum Document in CBT&A**: A beginning trainer may not have to develop curriculum. They are provided with a syllabus.
-- **Curriculum Document in CBT&A**: Competency standards are endorsed by the Industry Skills Council (ISC), not by the trainer.
+- **Key Points of Time Management Skills**: Write any three or four of the five key points of time management.
+- **Key Points of Time Management Skills**: Managing multiple tasks and resources simultaneously is project management, not time management.
+- **Objectives of the Quality Assurance Framework**: Write 'training institute follow quality criteria', not 'Alliance members follow quality criteria'.
+- **Objectives of the Quality Assurance Framework**: Write portability of qualification and international recognition, not recognition across the country.
 - **Adjustment Strategies for Candidate Groups**: Do not use methods that need more literacy than the job role requires.
 - **Adjustment Strategies for Candidate Groups**: Time must meet enterprise requirements and also take account of the candidate's needs.
 - **Adjustment Strategies for Candidate Groups**: For gender, check whether child care issues impact on the timing of assessments.
+- **Client-Focused Approach of a TVET Teacher**: Adopting client focus approach is one of the four workplace issues a teacher maintains.
+- **Client-Focused Approach of a TVET Teacher**: Client needs and expectations are met within the operational limits of your organisation.
+- **Learning Outcome vs Element of Competency**: Sometimes an element equates with one learning outcome. A single element might equate to 3 or 4.
+- **Learning Outcome vs Element of Competency**: Learning outcome is the curriculum term; element is the competency standards term.
+- **Main Features of the National Skills Development Policy (NSDP)**: The feature for quality of training and assessment is the Quality Assurance System (QAS).
+- **Main Features of the National Skills Development Policy (NSDP)**: The TVET reform agenda outputs are a separate list from the policy's main features.
+- **Clients of a TVET Institute**: Other parts of your own training organization are also clients.
+- **Clients of a TVET Institute**: Feedback is obtained from colleagues within your organization and from other organizations.
 - **Forms of Evidence: Direct and Indirect**: Oral questioning is direct evidence, not indirect evidence.
 - **Forms of Evidence: Direct and Indirect**: A written test of underpinning knowledge is indirect evidence.
 - **Forms of Evidence: Direct and Indirect**: Demonstration is direct evidence. Assessment of a finished product is indirect evidence.
@@ -173,19 +255,42 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Effective Ways of Giving Feedback**: Aim for at least five positives for every negative, not one for one.
 - **Effective Ways of Giving Feedback**: Saying "nice job" isn't good enough. Praise should be as specific as possible.
 - **Effective Ways of Giving Feedback**: Feedback approaches: face to face, written comments, telephone, fax or email, or a combination.
+- **Employability Skills**: Employability skills are also called generic skills, capabilities or key competencies.
+- **Employability Skills**: Managing work tasks, timelines and priorities is also one of the Employability Skills.
+- **Recognition of Prior Learning (RPL): Benefits and Evidence**: RPL looks at whether skills and knowledge meet current industry standards.
+- **Recognition of Prior Learning (RPL): Benefits and Evidence**: Unsuccessful applicants have a right to formally appeal the RPL assessment.
+- **Recognition of Prior Learning (RPL): Benefits and Evidence**: To apply, students complete the RPL form and provide supporting evidence.
 - **Underpinning Knowledge and the Job Target**: Do not overload the student with theoretical knowledge that is not essential.
 - **Underpinning Knowledge and the Job Target**: Should know is important but less critical. Could know is not essential.
 - **Analysing Competency Standards to Determine Evidence**: For assessment guidelines, consult the evidence guide, not range statements.
 - **Analysing Competency Standards to Determine Evidence**: Competency cannot be observed directly. It can only be inferred from performance.
 - **Assessment Criteria vs Performance Criteria**: They are not two different standards. They are the same thing in different words.
 - **Assessment Criteria vs Performance Criteria**: 'Performance criteria' comes from the industry competency standards.
+- **Four Dimensions of Competency**: Clear paper jams is contingency management, not task skills.
+- **Four Dimensions of Competency**: Task management skills involve managing multiple tasks at the same time.
+- **Four Dimensions of Competency**: Job / role environment skills involve following instructions and communicating with others.
 - **Methods and Tools for Gathering Evidence**: Demonstration is a method of gathering evidence and also a tool.
 - **Methods and Tools for Gathering Evidence**: Portfolio is also an evidence gathering tool.
 - **Methods and Tools for Gathering Evidence**: Avoid leading questions. They may make the assessment invalid.
-- **Learning Outcome vs Element of Competency**: Sometimes an element equates with one learning outcome. A single element might equate to 3 or 4.
-- **Learning Outcome vs Element of Competency**: Learning outcome is the curriculum term; element is the competency standards term.
+- **Feedback and the Feedback Sandwich**: Before the sandwich, start by asking the candidate to judge how well they performed.
+- **Feedback and the Feedback Sandwich**: Feedback is not a one way process.
+- **Feedback and the Feedback Sandwich**: Focus on corrective actions not mistakes.
+- **Inclusivity: Meaning and Why Practise It**: Inclusivity also means learners have a range of individual needs and diverse communities.
+- **Inclusivity: Meaning and Why Practise It**: Paper answer: inclusivity means everyone feels welcome, valued and respected.
+- **Inclusivity: Meaning and Why Practise It**: 'Why practice inclusivity?' asks what an inclusive learning culture helps the organization do.
+- **Assessing Learners with Low Literacy or Numeracy**: Read printed information to the candidate. Do not give the answer: not a reasonable adjustment.
+- **Assessing Learners with Low Literacy or Numeracy**: For low literacy, use oral questioning and verbal responses.
+- **Monitoring and Improving Inclusive Work Practices**: Policy changes must be documented and reported to higher management.
+- **Monitoring and Improving Inclusive Work Practices**: Review strategies and policies regularly, as part of continuous improvement processes.
+- **Principles that Underpin Inclusivity**: The principles of inclusivity closely resemble the principles of adult learning. Do not mix the two lists.
+- **Principles that Underpin Inclusivity**: Lewin's change stages are unfreezing, movement or change, and freezing.
 - **Stages in Preparing an Assessment Plan**: First read and understand the unit of competency. Then select an element.
 - **Stages in Preparing an Assessment Plan**: Identify best ways of collecting evidence: refer to Rules of Evidence.
+- **Support Persons in Inclusive Learning**: Include support people in the work and learning process only where appropriate and agreed.
+- **Support Persons in Inclusive Learning**: Inclusive practice is not simply attaching support to an individual. It values difference.
+- **Support Persons in Inclusive Learning**: Give examples and roles: teacher aides help learners with disabilities.
+- **Apprenticeship Laws and the Apprentice Contract**: Write the 4 minimum requirements of apprenticeship law: write any four of the five listed.
+- **Apprenticeship Laws and the Apprentice Contract**: Ratios of apprentices to regular workers belong to the law, not the written contract.
 - **Making an Assessment Decision**: Judgement has two stages. Compare the evidence against the criteria, then decide if competence is achieved.
 - **Making an Assessment Decision**: If you cannot make a decision, ask the candidate to submit additional evidence.
 - **Making an Assessment Decision**: If the evidence matches the criteria, the candidate is Competent. Otherwise, Not Yet Competent.
@@ -195,6 +300,12 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Record Keeping and Documentation Arrangements**: After recording, the documents should be submitted to BTEB.
 - **Assessment Tool and Assessment Instrument**: The instrument is the specific questions or activity. The assessment tool contains both instrument and procedures.
 - **Assessment Tool and Assessment Instrument**: Check for existing assessment tools first. This may save time and money.
+- **Areas of a CBT Shop (Training Room Layout)**: The Competency Standard details the infrastructure facilities and materials needed.
+- **Areas of a CBT Shop (Training Room Layout)**: Practical Work Area: its content and design depend upon the competencies.
+- **Areas of a CBT Shop (Training Room Layout)**: Trainees check materials in the Quality Control Area before storage in the Learning Resource Area.
+- **Clients with Particular Needs**: Women are clients with particular needs only where under represented.
+- **Clients with Particular Needs**: Official test MCQ answer for clients with particular needs: Disability.
+- **Clients with Particular Needs**: Clients with particular needs is not the same list as individual differences.
 - **Formative and Summative Assessment**: Formative assessment is conducted during training. Summative is usually at the end of training.
 - **Formative and Summative Assessment**: Not every person must undergo training before assessment. They may apply for RPL.
 - **Hierarchy of Controls**: Personal protective equipment is always the control of last resort.
@@ -211,20 +322,27 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Checking Existing Learning Resources**: Also address: checklist for selecting resources and consumable resources.
 - **Context of Assessment**: Environment has two parts: physical environment and social environment.
 - **Context of Assessment**: It is not necessary to notify everyone who has some interest.
-- **Feedback and the Feedback Sandwich**: Before the sandwich, start by asking the candidate to judge how well they performed.
-- **Feedback and the Feedback Sandwich**: Feedback is not a one way process.
-- **Feedback and the Feedback Sandwich**: Focus on corrective actions not mistakes.
+- **Examining Our Perceptions**: The right reason: examining perceptions is an important starting point for an inclusive environment.
+- **Examining Our Perceptions**: Do not examine perceptions only once. Continually examine and revise them.
 - **Gagné's Nine Steps for Writing Learning Materials**: Gagné's model provides nine steps. Gain Attention comes first.
 - **Gagné's Nine Steps for Writing Learning Materials**: Provide feedback comes before Assess performance. Enhance retention and transfer is last.
 - **Holistic Assessment Design and Clustering Competencies**: Assessments follow skills required in the workplace, not the way courses are written.
 - **Holistic Assessment Design and Clustering Competencies**: Clustering is a mechanism to support integrated assessment design.
 - **Informing Candidates Before Assessment**: The information may be presented either oral or written form.
 - **Informing Candidates Before Assessment**: The answer key also lists the purpose and the assessment conditions.
+- **Range of Learning Operational Resources**: Consumable items are often overlooked, like whiteboard markers and printer paper.
+- **Range of Learning Operational Resources**: Using a computer or equipment? Ensure the associated consumables are available.
+- **Range of Learning Operational Resources**: CBLM 10 also lists film, blackboard, computer training packages and tape or video recorders.
 - **When to Stop an Assessment**: The trainee may request that the assessment be stopped.
 - **When to Stop an Assessment**: An effect on production matters when the assessment is conducted in a workplace.
 - **When to Stop an Assessment**: Stop for a chance of damage to property or equipment.
+- **Task Analysis for a Learning Session**: Discuss safety aspects of hot water before they pick up the kettle.
+- **Task Analysis for a Learning Session**: A trainer must not make assumptions about what learners already know.
 - **Validating Training Requirements**: Consultative Committees and BTEB registered Assessors are also on the list.
 - **Validating Training Requirements**: An advanced trainee or learner can also help validate training requirements.
+- **Eight Essential Components of Apprenticeship Training**: On the job training may represent approximately 90% of the program.
+- **Eight Essential Components of Apprenticeship Training**: Without the job, there is no on the job training.
+- **Eight Essential Components of Apprenticeship Training**: Apprentice wages must not be less than minimum wage.
 - **Stages of Competency Assessment**: Make the assessment decision first, then provide feedback.
 - **Stages of Competency Assessment**: Record and report outcomes before you review the assessment process.
 - **Identifying the Needs of Candidates**: Candidates with special needs include anxious or inexperienced candidates, not only those with disabilities.
@@ -235,14 +353,21 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **How the Designer Checks Each Rule of Evidence**: Indirect evidence like work samples needs an authenticity check. If in doubt, collect more direct evidence.
 - **Choosing Assessment Methods**: Observation alone finds it difficult to assess underpinning knowledge. Combine it with other methods.
 - **Choosing Assessment Methods**: Integrated assessment focuses on performing a whole job, not a single task.
+- **Characteristics of Effective Feedback in Training**: Encouraging feedback from a learner is as important as giving it to learners.
+- **Characteristics of Effective Feedback in Training**: Focus on behaviour, not the person; on description, not judgment.
 - **Free Consent and Confidentiality**: Free consent and confidentiality are different. Confidentiality is about information access.
 - **Free Consent and Confidentiality**: Assessment information goes only to authorized personnel, not to everyone.
+- **Individual Differences of Learners**: Official test MCQ answer: intellectual impairments are individual differences.
+- **Individual Differences of Learners**: 'Values and respects difference' describes an inclusive learning environment, not an individual difference.
+- **Individual Differences of Learners**: Clients with particular needs is a separate list: women, low literacy, disability, rural, youth.
 - **Learning Activities and Methods for Learning Materials**: Case studies pose problems for learners to solve. Analogies make connections with what learners know.
 - **Learning Activities and Methods for Learning Materials**: In a mind map, the subject is a central image. Main topics radiate out on branches.
 - **Legal and Ethical Responsibilities in Assessment**: Confidentiality is the responsibility of both the assessor and the candidate.
 - **Legal and Ethical Responsibilities in Assessment**: Consent comes after the candidate has understood the purpose and procedures.
 - **Legal and Ethical Responsibilities in Assessment**: The assessment must not hinder the systems of the workplace.
 - **Links Between Learning Sessions**: New television: you link in to existing knowledge to know the control switches.
+- **Workplace Issues: Managing Work and Work Relationships**: Evaluating and acting upon feedback is even more important than getting it.
+- **Workplace Issues: Managing Work and Work Relationships**: Work collaboratively by sharing information and ideas and working together to achieve outcomes.
 - **Major Parts of a CBLM**: The answer key gives three parts: Information sheet, Job Sheet, Specification sheet.
 - **Major Parts of a CBLM**: The information sheet lists five major parts, adding Self check Sheet and Answer Sheet.
 - **Major Parts of a CBLM**: Job sheet is a set of instruction; the information sheet gives underpinning knowledge.
@@ -253,6 +378,8 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Reviewing the Assessment Process**: Reviewing the assessment event is an important role of the assessor.
 - **Reviewing the Assessment Process**: Evaluation also means looking back on your own performance to see how to improve.
 - **Reviewing the Assessment Process**: The best source of information for review should come from your own reflection.
+- **Self Evaluation of Training Performance**: Don't be offended by negative comments; they point out areas for improvement.
+- **Self Evaluation of Training Performance**: Don't try to change the world: change works better introduced slowly and monitored carefully.
 - **Session Plan**: A session plan considers information, outcomes, practice activities, environment, delivery approach and assessment methods.
 - **Session Plan**: A program is the overall framework. It is broken into shorter sessions.
 - **Steps in Preparing a Session Plan**: Different list on page 30: clarify outcomes, sequence content, choose methods, develop resources, review.
@@ -264,80 +391,167 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Why Use Learning Materials**: They should not be for the benefit of the instructor.
 - **Why Use Learning Materials**: They are not something that must be used all the time.
 - **Assessment Benchmark**: Use the standards of the relevant industry, e.g. food industry standards for food OSH.
+- **Determining Learner Readiness for Assessment**: A good teacher/trainer will continuously monitor progress and provide feedback.
+- **Determining Learner Readiness for Assessment**: Integrate assessment tasks for major components at various stages during the training.
 - **Benefits of Feedback on Assessment**: Benefits are for both sides. Feedback also reviews the assessor's own performance.
 - **Benefits of Feedback on Assessment**: Feedback also encourages a candidate who has not achieved the required competence.
+- **Competency Based Training (CBT) Program**: Competency focuses on what is expected in the workplace, not on the learning process.
+- **Competency Based Training (CBT) Program**: The learner gains more control of the learning process than before.
+- **Traditional Training vs CBT Programs**: In CBT, retesting is encouraged for mastery; traditional programs discourage it.
+- **Traditional Training vs CBT Programs**: In traditional programs, the instructor controls the learning pace.
+- **Checking Learner Needs and Understanding**: Check skills in a non-threatening manner; it should be enjoyable.
+- **Checking Learner Needs and Understanding**: Get learners to write something, to scan for language or literacy problems.
 - **Competency Based Assessment: Definition and Characteristics**: The three main features of assessment differ from the characteristics of Competency Based Assessment.
 - **Competency Based Assessment: Definition and Characteristics**: The benchmark for assessment is the competency standards.
+- **Competency: Definition, Types and Key Features**: Skill is a part of competency. Competency has three parameters: knowledge, skills and attitude.
+- **Competency: Definition, Types and Key Features**: Rating skills looks at practical abilities. Rating competency also needs knowledge and attitude.
 - **Conflict of Interest in Assessment**: Whatever the situation, report a possible conflict of interest to your supervisor immediately.
 - **Conflict of Interest in Assessment**: They may ask you to assess them, thinking knowing you personally can help them.
 - **Steps in Designing Competency Based Assessment**: Endorsement from stakeholders comes after documenting the Assessment Plan.
 - **Steps in Designing Competency Based Assessment**: Developing assessment instruments and administrative documents is the last step.
+- **Evaluation Tools for Training Delivery**: Gather feedback at the end of the session, to decide changes for the next session.
+- **Evaluation Tools for Training Delivery**: Participants, other trainers or supervisors can give feedback.
+- **Ground Rules for Modelling Inclusiveness**: Be open and honest does not mean disclosing personal or private issues.
+- **Ground Rules for Modelling Inclusiveness**: Ground rules are negotiated and established collaboratively with your learners.
 - **Observation Checklist**: A checklist is a prompt for the assessor and also a guide for the candidate.
 - **Observation Checklist**: Observation is not appropriate where workplace safety may be compromised.
 - **Preparing Candidates and a Supportive Environment**: Provide a supportive environment regardless of the assessment context.
 - **Preparing Candidates and a Supportive Environment**: Create the supportive environment before commencing the assessment, not after.
 - **Preparing Candidates and a Supportive Environment**: Assess candidate needs and establish any allowable adjustments while preparing.
+- **Registered Training Organisation (RTO) and Its Benefits**: Registration distinguishes an RTO from other training centres.
+- **Registered Training Organisation (RTO) and Its Benefits**: RTO training results in qualifications recognised by industry throughout the country.
+- **Teachers' Roles and Requirements in Supporting Learners**: Write any five roles and requirements of TVET teachers.
+- **Teachers' Roles and Requirements in Supporting Learners**: Advise learners how you can be contacted, for example by phone or email.
+- **Things a TVET Trainer Should Avoid**: Do not underestimate the existing skills and abilities of learners.
+- **Things a TVET Trainer Should Avoid**: Avoid setting yourself up as the expert; start at the level the learner is at.
 - **Training Methods, Coaching and Mentoring**: Coaching is task oriented and performance driven.
 - **Training Methods, Coaching and Mentoring**: Mentoring is relationship oriented and development driven.
 - **Training Needs: The Competency Gap**: Training needs are only the gap portion of skills and knowledge the learner needs.
 - **Training Needs: The Competency Gap**: Self assessment tools are based on the unit of competency performance criteria.
+- **Role of a Competent TVET Teacher/Trainer**: This list is not complete; there are many more characteristics.
+- **Role of a Competent TVET Teacher/Trainer**: Prepare: be able to perform the job task, not only know the topic area.
 - **Steps for Adapting Existing Learning Materials**: Pilot testing comes before materials are finalized and mass produced.
 - **Steps for Adapting Existing Learning Materials**: Government documents and publications are not copyrighted.
+- **Adult Learning Principles that Resemble Inclusivity**: Traditional learning is teacher-centred. A learner-centred approach involves adults in all aspects of learning.
+- **Adult Learning Principles that Resemble Inclusivity**: Adult learning should be problem-centred, not content-centred.
+- **Adult Learning Principles that Resemble Inclusivity**: Experiential learning means learning by doing.
 - **Legal and Ethical Requirements for Assessment Design**: Environmental issues and industry codes of practice are also legal and ethical requirements.
 - **Legal and Ethical Requirements for Assessment Design**: The designer of assessment, not only the assessor, should ensure assessment events comply.
 - **Identifying Material and Resource Requirements**: Resources can affect the time and costs of assessment.
 - **Identifying Material and Resource Requirements**: Assessor, observer and technician are listed under Physical Resources.
+- **Client Needs, Expectations and Operational Limits**: Needs are met only within the operational limits of your training organisation.
+- **Client Needs, Expectations and Operational Limits**: Learner objectives include new career, career advancement and improved language, literacy and numeracy skills.
 - **Key Points for Developing Your Writing Style**: Don't hatch the first draft: get ideas down, refine it once, then hand it over.
 - **Key Points for Developing Your Writing Style**: Use overviews instead of introductions to give key concepts and draw interest.
 - **Methods of Formative Assessment**: Closed questions need a specific response. Open-ended questions need a more detailed response.
 - **Methods of Formative Assessment**: Formative assessment techniques are simple, non-graded, in-class activities.
 - **Strategies for Gender Inclusivity in the Class**: Sporting examples are often based on male experiences. Choose inclusive examples.
 - **Strategies for Gender Inclusivity in the Class**: If quiet but engaged, an encouraging gesture may be all that is needed.
+- **Giving and Receiving Feedback on a Learning Session**: If feedback can be dealt with immediately, act quickly.
+- **Giving and Receiving Feedback on a Learning Session**: Seek feedback on learner performance through assessment tasks and periodic reviews.
+- **Preparing Learners in the First Session (GLOSS Model)**: GLOSS is used to prepare the learner in the first session.
+- **Preparing Learners in the First Session (GLOSS Model)**: Lower emotional risk activities usually work better at the start of a session.
 - **What Makes Good Learning Material**: Test visual materials with the target audience, not with trainers or experts.
 - **What Makes Good Learning Material**: Education emphasizes the educator; learning emphasizes the person who changes.
+- **Guidelines for Learner Behaviour and Sample Ground Rules**: Explain the guidelines to the learners in the first lesson.
+- **Guidelines for Learner Behaviour and Sample Ground Rules**: Breaks are negotiable; smoking and appropriate behaviour are not negotiable.
+- **Guidelines for Learner Behaviour and Sample Ground Rules**: Do not ignore threats or harassment in your class.
+- **Tips for Preparing and Showing PowerPoint Slides**: Use a template or Master Slide for a consistent style.
+- **Tips for Preparing and Showing PowerPoint Slides**: Stand to one side
 - **Preparing to Write Learning Materials**: Before writing, first know your audience and the intended use of the materials.
 - **Preparing to Write Learning Materials**: New writers should talk with people who have written materials before.
+- **Relaxed Presentation: Voice and Body Language (SOLER)**: Some level of anxiety is natural; anxiety helps you to perform at your best.
+- **Relaxed Presentation: Voice and Body Language (SOLER)**: Pitch can convey unintentional emotion, so be careful.
+- **Relaxed Presentation: Voice and Body Language (SOLER)**: Be cautious about generalisations in body language. Be yourself and practice.
+- **Eight Principles of Learning**: Learning ends in a relatively permanent change in the learner's behavior.
+- **Eight Principles of Learning**: Learning is often confused with maturation or physical growth.
 - **Program Delivery Plan**: A delivery plan covers a series of sessions or an individual session, by complexity.
 - **Program Delivery Plan**: Mostly a CBT program has many sessions and session plans.
 - **Strategies to Include Persons with Disability (PWDs) in the Class**: Teach the class about disabilities issues when the PWD is absent.
 - **Strategies to Include Persons with Disability (PWDs) in the Class**: PWDs are capable of achieving like any other normal person.
-- **Range of Learning Operational Resources**: Consumable items are often overlooked, like whiteboard markers and printer paper.
-- **Range of Learning Operational Resources**: Using a computer or equipment? Ensure the associated consumables are available.
+- **Seven Question Types for Facilitators**: Leading questions are one of the seven types. They are also a type to avoid.
+- **Seven Question Types for Facilitators**: Learners can feel intimidated by direct questions, so be careful.
 - **Criteria for Session Learning Outcomes (Observable, Measurable, Action Verbs)**: Do not use: understand, realise, be aware of, show interest in, know.
 - **Criteria for Session Learning Outcomes (Observable, Measurable, Action Verbs)**: These verbs are not observable, not measurable and not precise.
+- **VARK Learning Styles**: Ask "How is this learner smart?" not "Is this learner smart?"
+- **VARK Learning Styles**: VARK deals with only one dimension of a person's learning style.
+- **Guidelines for Using Blackboards and Whiteboards**: Avoid chalk and talk. Do not talk and write on the board at the same time.
+- **Guidelines for Using Blackboards and Whiteboards**: Boards need no power, except electronic whiteboards.
 - **Writing Learning Outcomes and Assessment Criteria**: Students who do not attain the threshold cannot pass the module.
 - **Writing Learning Outcomes and Assessment Criteria**: There is no hard and fast rule; between 5 and 8 per module is suggested.
 - **Writing Learning Outcomes and Assessment Criteria**: Every learning outcome must be assessed, individually or grouped.
+- **Access and Equity Policy**: Access is the ability of learners to enter training.
+- **Access and Equity Policy**: Equity is the capacity of learners to achieve results in training.
+- **Access and Equity Policy**: Fee reduction and inclusive materials enhance equity, not access.
 - **What the Assessment Context Includes**: A venue for assessment should be accessible to the candidates.
 - **What the Assessment Context Includes**: The purpose must be clear to both the assessor and the assessee, not only one.
 - **Roles and Responsibilities of an Assessment Designer**: Be clear about evidence requirements in CB assessment.
 - **Roles and Responsibilities of an Assessment Designer**: Be competent in assessment planning and designing assessment instruments.
 - **Role of an Assessor of Competency**: The judgment is either competent or not yet competent.
 - **Role of an Assessor of Competency**: Judgment must be impartial. Feedback must be constructive.
+- **Principles of Competency Based Training System**: Self paced learning is not time bound.
+- **Principles of Competency Based Training System**: RPL allows a learner to present evidence to indicate current competence.
+- **Communication Strategies for Learner Participation**: The same strategies apply to face-to-face and self-directed learning packages.
+- **Communication Strategies for Learner Participation**: Learner participation does not necessarily mean a physical activity.
+- **Computer Based Learning: Advantages and Limitations**: Computers do not train well in affective, motor and interpersonal skills.
+- **Computer Based Learning: Advantages and Limitations**: Computers also help manage learning: processing student records and preparing teaching material.
 - **Evidence in Competency Based Assessment**: Competency cannot be observed directly. It can only be inferred from performance.
 - **Evidence in Competency Based Assessment**: "Work piece is to specification" is a product. "Correct procedures are followed" is a process.
 - **Characteristics of a Good Information Sheet**: Copied parts are allowed only with acknowledgement and no copyright violation.
 - **Characteristics of a Good Information Sheet**: The information sheet supports the job sheet with underpinning knowledge.
 - **Identifying Existing Learning Resources**: A print based resource cannot simply be converted to HTML and called online.
 - **Identifying Existing Learning Resources**: Existing resources still need permissions before using or adapting content.
+- **Features of an Inclusive Learning Environment**: 'Values and respects difference' is a feature of the environment, not an individual difference.
+- **Features of an Inclusive Learning Environment**: Do not confuse an inclusive learning environment with why practice inclusivity.
+- **Planning for Inclusiveness and Work Strategies to Support It**: Planning for inclusiveness is a continuous improvement process, not a one-time task.
+- **Planning for Inclusiveness and Work Strategies to Support It**: Develop a plan for inclusiveness and implement work strategies; write both.
 - **Learner Characteristics for Session Planning**: Gender can affect the whole plan, especially for demonstration or role play.
 - **Learner Characteristics for Session Planning**: Competency based training can be difficult for some learners, especially assessment.
+- **Learning Domains: Cognitive, Affective and Psychomotor**: Psychomotor skills are measured by speed, precision, distance, procedures or techniques.
+- **Learning Domains: Cognitive, Affective and Psychomotor**: The affective domain is how we deal with things emotionally.
+- **Learning to Learn Philosophy**: It teaches cue consciousness and the valuing of mistakes.
+- **Learning to Learn Philosophy**: The mark of a good trainer is how they help learners who struggle.
+- **Managing Inappropriate Learner Behaviour**: Conflict can be healthy when it makes learners explore new ideas.
+- **Managing Inappropriate Learner Behaviour**: Conflict becomes unhealthy when it is avoided.
+- **Managing Inappropriate Learner Behaviour**: Early intervention is the key to success.
 - **Portfolio of Evidence**: Where a portfolio is presented, the assessor needs an evaluation form.
 - **Portfolio of Evidence**: The evaluation form checks the evidence is valid, authentic, sufficient, current, recent and consistent.
+- **Posters and Charts: Purpose and Layout Tips**: Charts can be more complex in design and content than posters.
+- **Posters and Charts: Purpose and Layout Tips**: Get rid of posters and charts when their usefulness is over.
+- **Providing Practice Opportunities**: Learners need a mixture of both theory and practice for their learning to be confirmed.
+- **Providing Practice Opportunities**: Workplace practice under a mentor is ideal but still limited in Bangladesh TVET.
+- **How to Practise Inclusivity (Five Ways)**: Building on individual differences means you acknowledge, respect and value them.
+- **How to Practise Inclusivity (Five Ways)**: Do not confuse how to practise inclusivity with why practice inclusivity.
+- **Pre-Training and In-Training Support for Clients**: Pre-training support: provide advice on financial assistance.
+- **Pre-Training and In-Training Support for Clients**: In-training support: organize for interpreters to be present.
 - **Purposes of Assessment**: Diagnosis is about learner's needs. Education and training needs is about employees' training needs.
 - **Purposes of Assessment**: NTVQF uses National Certificate levels one to six. There are also two prevocational levels.
 - **Recognition Assessment: People and Evidence**: Evidence of current competence is preferred to more historic evidence.
 - **Recognition Assessment: People and Evidence**: An assessor looks at the whole picture (unit of competency), not the fragments.
+- **Selecting Appropriate Delivery Techniques**: The activity must relate to the session learning outcomes
+- **Selecting Appropriate Delivery Techniques**: The number of people affects the outcome and the percentage who contribute.
 - **Self-Assessment Instruments**: Self assessment checks readiness. It is not the formal assessment itself.
 - **Self-Assessment Instruments**: In self assessment, the learner plays an active role in his or her own learning.
+- **Verbal and Body Language Sensitive to Difference**: Use sensitive verbal AND body language, not only verbal language.
+- **Verbal and Body Language Sensitive to Difference**: Use two-way interaction, not one-way interaction.
 - **Session Outcomes (Performance, Standards, Conditions)**: Session outcome is the same as learning outcome.
 - **Session Review (Conclusion)**: Learners tell you what they have learned, rather than you telling them.
 - **Session Review (Conclusion)**: A session needs an introduction, a body and a review.
 - **Sequencing the Content of a Session**: Example: establish why you plan before you examine methods of planning.
 - **Sequencing the Content of a Session**: Sequence from the known to the unknown, not the reverse.
+- **Steps of a Skill Demonstration**: A demonstration should be followed by practice sessions with feedback.
+- **Steps of a Skill Demonstration**: First do it normal, as per industry standards; only then do it slow.
+- **Role of Students in a CBT System**: Credit for prior knowledge comes through pre-testing or a review of a task list.
+- **Role of Students in a CBT System**: Paper and pencil tests are used mainly to check knowledge of the task.
 - **Training Delivery Modes**: Off the job: whole group needs to meet; course pace set by trainer.
 - **Training Delivery Modes**: On line mode requires internet connection and troubleshooting of technology issues.
+- **Why Provide Variety in Delivering Sessions**: Too much or too little variety can impact negatively on the session.
+- **Why Provide Variety in Delivering Sessions**: Keep an appropriate mix of theory and practice in training sessions.
+- **Using Video in Training**: Always preview the video before using it in training.
+- **Using Video in Training**: Introduce the video first, and provide some follow up activity.
 - **Competency Based Learning Material (CBLM)**: Each unit of competency has one Competency Based Learning Material (CBLM).
 - **Competency Based Learning Material (CBLM)**: These activities may be completed in structured classroom activities or at your pace.
+- **Why Review Training Delivery**: Check procedures are still relevant, and check they are being followed.
+- **Why Review Training Delivery**: Review also obtains outside ideas on the system.
 - **Considerations for Workplace Assessment**: Access and equity are external factors, not internal factors.
 - **Considerations for Workplace Assessment**: A typical environment is a training institute or workplace.

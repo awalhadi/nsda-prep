@@ -1,0 +1,182 @@
+{
+  "id": "quality-assurance-framework",
+  "canonical_title": "Objectives of the Quality Assurance Framework",
+  "aliases": [
+    "Quality assurance framework",
+    "QA framework objectives",
+    "Major objectives of the quality assurance framework"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p28-3bb18d9a",
+    "cblm01-p28-a29e971b",
+    "cblm01-p28-9ac58c2e"
+  ],
+  "questions": [
+    "cblm01-sc2-q3",
+    "paper-unit01-short-q14",
+    "paper-unit01-mcq-q19",
+    "paper-unit01-answer-q19",
+    "paper-short-questions-q4"
+  ],
+  "one_line_answer": {
+    "text": "The quality assurance framework offers effective mechanisms to establish quality criteria and standards.",
+    "fidelity": "verbatim",
+    "cites": [
+      { "src": "cblm01", "page": 28, "quote": "The quality assurance framework offers effective mechanisms to establish quality criteria and standards.", "passageId": "cblm01-p28-a29e971b" },
+      { "src": "cblm01", "page": 28, "quote": "QUALITY ASSURANCE FRAMEWORK", "passageId": "cblm01-p28-3bb18d9a" }
+    ]
+  },
+  "keywords": [
+    { "en": "Quality assurance (QA)", "bn": "মান নিশ্চিত করা" },
+    { "en": "Quality criteria", "bn": "মানের মাপকাঠি" },
+    { "en": "Portability", "bn": "যোগ্যতা অন্য জায়গায়ও কাজে লাগানো যায়" },
+    { "en": "Fair and equitable", "bn": "ন্যায্য ও সবার জন্য সমান" },
+    { "en": "Credible", "bn": "বিশ্বাসযোগ্য" }
+  ],
+  "bangla_explanation": [
+    "QA framework নিশ্চিত করে training institute সঠিক quality criteria ও standards মানছে।",
+    "এতে সব trainees ন্যায্য (fair) আচরণ পায়, আর একই রকম ক্ষেত্রে একই রকম assessment হয়।",
+    "Qualification-এর portability বাড়ে, ফলে international recognition পাওয়া সহজ হয়।",
+    "NTVQF courses চালাতে হলে TVET institutions-কে quality standards মানতেই হবে।"
+  ],
+  "example": {
+    "en": "A polytechnic in Dhaka follows quality standards. Its certificate is then trusted by employers abroad.",
+    "bn": "মান বজায় রাখলে ঢাকার polytechnic-এর certificate বিদেশের employer-ও বিশ্বাস করে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Assuring clients and organizations that training institutes follow quality criteria and standards.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 28, "quote": "Assuring clients and organizations that use credential assessments", "passageId": "cblm01-p28-9ac58c2e" },
+          { "src": "cblm01", "page": 28, "quote": "that training institute follow quality criteria and standards." }
+        ]
+      },
+      {
+        "text": "Ensuring fair and equitable treatment of all clients or trainees",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 28, "quote": "Ensuring fair and equitable treatment of all clients or trainees who use their services." }
+        ]
+      },
+      {
+        "text": "Improving the portability of qualification and facilitating international recognition",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 28, "quote": "Improving the portability of qualification and facilitating international recognition." }
+        ]
+      },
+      {
+        "text": "Promoting the consistent application of fair and credible assessment standards",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 28, "quote": "Promoting the consistent application of fair and credible assessment standards." }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Write 'training institute follow quality criteria', not 'Alliance members follow quality criteria'.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 28, "quote": "that training institute follow quality criteria and standards." },
+        { "src": "cblm01", "page": 36, "quote": "that Alliance members follow quality criteria and" }
+      ]
+    },
+    {
+      "text": "Write portability of qualification and international recognition, not recognition across the country.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 28, "quote": "Improving the portability of qualification and facilitating international recognition." },
+        { "src": "cblm01", "page": 36, "quote": "recognition of quality services across the country." }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Write down three major objectives of the Quality Assurance Framework.",
+      "modelAnswer": "The quality assurance framework offers mechanisms to establish quality criteria and standards. Its major objectives are:\n1. Assuring clients and organizations that training institutes follow quality criteria and standards.\n2. Ensuring fair and equitable treatment of all clients or trainees.\n3. Improving the portability of qualification and facilitating international recognition.\n4. Promoting the consistent application of fair and credible assessment standards.",
+      "keyPoints": [
+        {
+          "text": "Consistent standards ensure similar assessments for similar cases.",
+          "fidelity": "verbatim",
+          "cites": [
+            { "src": "cblm01", "page": 28, "quote": "Consistent standards ensure similar assessments for similar cases." }
+          ]
+        },
+        {
+          "text": "TVET institutions will have to meet quality standards to offer NTVQF courses.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 28, "quote": "institutions will have to meet quality standards in order" },
+            { "src": "cblm01", "page": 28, "quote": "to offer NTVQF courses." }
+          ]
+        },
+        {
+          "text": "Principals complete a self-assessment; an external quality auditor also rates the institution.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 28, "quote": "institution principals will complete a self-assessment" },
+            { "src": "cblm01", "page": 28, "quote": "form completed by an external quality auditor" }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a major objective of the quality assurance framework?",
+      "options": [
+        "Improving the portability of qualification",
+        "Paying wages to apprentices",
+        "Writing the unit descriptor",
+        "Selecting apprentices for employers"
+      ],
+      "answerIndex": 0,
+      "answerCite": { "src": "cblm01", "page": 28, "quote": "Improving the portability of qualification and facilitating international recognition." }
+    },
+    "matching": {
+      "prompt": "Match each QA objective with its key words.",
+      "pairs": [
+        {
+          "left": "Assuring clients and organizations",
+          "right": "Training institute follows quality criteria and standards",
+          "cite": { "src": "cblm01", "page": 28, "quote": "that training institute follow quality criteria and standards." }
+        },
+        {
+          "left": "Fair and equitable treatment",
+          "right": "All clients or trainees",
+          "cite": { "src": "cblm01", "page": 28, "quote": "Ensuring fair and equitable treatment of all clients or trainees" }
+        },
+        {
+          "left": "Portability of qualification",
+          "right": "International recognition",
+          "cite": { "src": "cblm01", "page": 28, "quote": "Improving the portability of qualification and facilitating international recognition." }
+        },
+        {
+          "left": "Consistent standards",
+          "right": "Similar assessments for similar cases",
+          "cite": { "src": "cblm01", "page": 28, "quote": "Consistent standards ensure similar assessments for similar cases." }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What do consistent standards ensure?",
+      "answer": {
+        "text": "Consistent standards ensure similar assessments for similar cases.",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 28, "quote": "Consistent standards ensure similar assessments for similar cases." }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "list_answer",
+      "note": "cblm01-sc2-q3: answer key p.36 differs from the information sheet p.28. It says 'Alliance members' (not 'training institute'), 'clients of Alliance member services', and 'portability of credential assessments ... recognition of quality services across the country'. The card follows p.28, which the Unit 01 paper answers also follow."
+    }
+  ]
+}

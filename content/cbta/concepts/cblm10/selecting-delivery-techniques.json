@@ -1,0 +1,267 @@
+{
+  "id": "selecting-delivery-techniques",
+  "canonical_title": "Selecting Appropriate Delivery Techniques",
+  "aliases": [
+    "How do I select appropriate techniques?",
+    "Selecting a delivery method",
+    "Choosing learning activities"
+  ],
+  "cblmPrimary": 10,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [
+    "cblm10-sc2-q5"
+  ],
+  "one_line_answer": {
+    "text": "When selecting a delivery method, use a list of questions to help decide.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm10",
+        "page": 64,
+        "quote": "Here is a list of questions that will help you make that decision:"
+      },
+      {
+        "src": "cblm10",
+        "page": 64,
+        "quote": "When selecting any delivery method, remember:"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Technique",
+      "bn": "শেখানোর পদ্ধতি বা কৌশল"
+    },
+    {
+      "en": "Delivery method",
+      "bn": "কীভাবে শেখানো হবে"
+    },
+    {
+      "en": "Session outcomes",
+      "bn": "সেশন শেষে learners কী পারবে"
+    },
+    {
+      "en": "Activity",
+      "bn": "শেখার কাজ"
+    },
+    {
+      "en": "Group size",
+      "bn": "দলে কতজন"
+    }
+  ],
+  "bangla_explanation": [
+    "কোন technique নেবেন তা ঠিক করতে চারটা প্রশ্ন করুন।",
+    "সবচেয়ে বড় প্রশ্ন: technique কি session outcomes-এর সাথে মেলে?",
+    "নিজে কী ভালো পারেন আর learners কী পারবে, দুটোই ভাবুন।",
+    "কতজন নিয়ে activity হবে তাও ঠিক করুন: whole group, pairs বা individually।"
+  ],
+  "example": {
+    "en": "For a brainstorming task on workshop safety, the trainer uses the whole group. For a sensitive topic, he uses pairs first.",
+    "bn": "Brainstorming-এ whole group, আর সংবেদনশীল বিষয়ে আগে pairs-এ আলোচনা।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Is the technique suited to your session outcomes?",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 64,
+            "quote": "Is the technique suited to your session outcomes?"
+          }
+        ]
+      },
+      {
+        "text": "What do you want the activity to achieve?",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 64,
+            "quote": "What do you want the activity to achieve?"
+          }
+        ]
+      },
+      {
+        "text": "What can you do well?",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 64,
+            "quote": "What can you do well?"
+          }
+        ]
+      },
+      {
+        "text": "Can your learners use the technique?",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 64,
+            "quote": "Can your learners use the technique?"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "The activity must relate to the session learning outcomes",
+      "fidelity": "verbatim",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 64,
+          "quote": "The activity must relate to the session learning outcomes"
+        }
+      ]
+    },
+    {
+      "text": "The number of people affects the outcome and the percentage who contribute.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 64,
+          "quote": "The number of people involved in the activity will affect the outcome and the"
+        },
+        {
+          "src": "cblm10",
+          "page": 64,
+          "quote": "percentage of people who contribute"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "How do you select appropriate techniques for delivery?",
+      "modelAnswer": "Ask these questions:\n1. Is the technique suited to your session outcomes?\n2. What do you want the activity to achieve?\n3. What can you do well?\n4. Can your learners use the technique?\nAlso decide the number of people: whole group, pairs or individually.\nRemember: the activity must relate to the session learning outcomes.",
+      "keyPoints": [
+        {
+          "text": "Involve the whole group so that as many ideas as possible emerge.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 64,
+              "quote": "might want to involve the whole group so that as many ideas as possible emerge."
+            }
+          ]
+        },
+        {
+          "text": "Working in pairs or individually lets people discuss ideas before the larger group.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 64,
+              "quote": "you may want people to discuss their ideas before contributing to the"
+            },
+            {
+              "src": "cblm10",
+              "page": 64,
+              "quote": "larger group and working in pairs or individually would be one way of doing this."
+            }
+          ]
+        },
+        {
+          "text": "Determine the most appropriate number of people.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 64,
+              "quote": "You also need to determine the most appropriate number of people."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which question helps you select a delivery technique?",
+      "options": [
+        "Can your learners use the technique?",
+        "How long is the lunch break?",
+        "Which room is the biggest?",
+        "What did the last trainer do?"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm10",
+        "page": 64,
+        "quote": "Can your learners use the technique?"
+      }
+    },
+    "matching": {
+      "prompt": "Match each choice with its effect.",
+      "pairs": [
+        {
+          "left": "Whole group",
+          "right": "As many ideas as possible emerge",
+          "cite": {
+            "src": "cblm10",
+            "page": 64,
+            "quote": "involve the whole group so that as many ideas as possible emerge."
+          }
+        },
+        {
+          "left": "Pairs or individually",
+          "right": "Discuss ideas before the larger group",
+          "cite": {
+            "src": "cblm10",
+            "page": 64,
+            "quote": "discuss their ideas before contributing to the larger group and working in pairs or individually"
+          }
+        },
+        {
+          "left": "The activity",
+          "right": "Must relate to the session learning outcomes",
+          "cite": {
+            "src": "cblm10",
+            "page": 64,
+            "quote": "The activity must relate to the session learning outcomes"
+          }
+        },
+        {
+          "left": "Number of people",
+          "right": "Affects the outcome",
+          "cite": {
+            "src": "cblm10",
+            "page": 64,
+            "quote": "The number of people involved in the activity will affect the outcome"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why does group size matter when you choose an activity?",
+      "answer": {
+        "text": "The number of people affects the outcome and the percentage of people who contribute.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 64,
+            "quote": "The number of people involved in the activity will affect the outcome and the"
+          },
+          {
+            "src": "cblm10",
+            "page": 64,
+            "quote": "percentage of people who contribute"
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "questions",
+      "note": "cblm10-sc2-q5 has no highlighted passage. Cites use answer key p.64 (same text as information sheet p.48). The stored answer for this question starts at the second item and drops 'Is the technique suited to your session outcomes?' (extraction); p.64 has all four questions."
+    }
+  ]
+}

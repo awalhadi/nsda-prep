@@ -50,3 +50,18 @@ describe("Unit 02 short questions", () => {
     expect(questions.every((q) => q.type === "short")).toBe(true);
   });
 });
+
+describe("question ids", () => {
+  it("are unique even when parts restart numbering", () => {
+    const { questions } = parsePaper(fixture("paper-written-inclusivity-maintenance"));
+    const ids = questions.map((q) => q.id);
+    expect(new Set(ids).size).toBe(ids.length);
+    expect(ids).toContain("paper-written-inclusivity-maintenance-mcq-q3");
+    expect(ids).toContain("paper-written-inclusivity-maintenance-short-q3");
+    expect(ids).toContain("paper-written-inclusivity-maintenance-match-q1");
+  });
+  it("stay unchanged when a paper numbers questions once (1–25)", () => {
+    const { questions } = parsePaper(fixture("paper-final-formative-01"));
+    expect(questions[2].id).toBe("paper-final-formative-01-q3");
+  });
+});

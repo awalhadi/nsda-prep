@@ -1,0 +1,170 @@
+{
+  "id": "registered-training-organisation",
+  "canonical_title": "Registered Training Organisation (RTO) and Its Benefits",
+  "aliases": [
+    "Registered Training Organisation",
+    "RTO",
+    "Benefits of training with an RTO"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p29-ae3d2a8f",
+    "cblm01-p29-97258edf",
+    "cblm01-p29-8fe39cae"
+  ],
+  "questions": [
+    "cblm01-sc2-q4"
+  ],
+  "one_line_answer": {
+    "text": "An RTO is a training organization registered with BTEB to deliver nationally recognised qualifications.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm01", "page": 29, "quote": "A registered training organization (RTO) is a training", "passageId": "cblm01-p29-ae3d2a8f" },
+      { "src": "cblm01", "page": 29, "quote": "organization registered and affiliated with BTEB that" },
+      { "src": "cblm01", "page": 29, "quote": "can deliver nationally recognised qualifications." }
+    ]
+  },
+  "keywords": [
+    { "en": "Registered Training Organisation (RTO)", "bn": "নিবন্ধিত প্রশিক্ষণ প্রতিষ্ঠান" },
+    { "en": "Nationally recognised qualification", "bn": "দেশজুড়ে স্বীকৃত যোগ্যতা" },
+    { "en": "Credibility", "bn": "বিশ্বাসযোগ্যতা" },
+    { "en": "Return on investment", "bn": "খরচের বিনিময়ে লাভ" }
+  ],
+  "bangla_explanation": [
+    "RTO হলো নিবন্ধিত training organization, যারা nationally recognised qualifications দিতে পারে।",
+    "Registration-ই RTO-কে অন্য training centres থেকে আলাদা করে; এটা quality ও credibility-র চিহ্ন।",
+    "RTO থেকে training নিলে certificate দেশের যেকোনো জায়গায় accepted হয়।",
+    "Benefits তিনটা: Update skills, Employee performance, Return on investment।"
+  ],
+  "example": {
+    "en": "An IT training centre in Khulna is an RTO. Its certificate is accepted by employers across the country.",
+    "bn": "খুলনার IT centre যদি RTO হয়, তার certificate সারা দেশে accepted হবে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Update skills: RTO provides the most relevant training for specific jobs.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 29, "quote": "Update skills: An employee needs to stay updated on the latest trends and", "passageId": "cblm01-p29-97258edf" },
+          { "src": "cblm01", "page": 29, "quote": "RTO provides the most relevant training for specific jobs and industries." }
+        ]
+      },
+      {
+        "text": "Employee performance: the right knowledge and skills improve efficiency and productivity.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 29, "quote": "Employee performance: Acquiring the right knowledge and skills for the job", "passageId": "cblm01-p29-8fe39cae" },
+          { "src": "cblm01", "page": 29, "quote": "can also lead to improved efficiency and increased productivity" }
+        ]
+      },
+      {
+        "text": "Return on investment: RTO training is a sound investment with measurable results.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 29, "quote": "Return on investment: RTO training is a sound investment that often leads" },
+          { "src": "cblm01", "page": 29, "quote": "to good results that are measurable." }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Registration distinguishes an RTO from other training centres.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 29, "quote": "Registration of the training organization distinguishes an RTO from other training" },
+        { "src": "cblm01", "page": 29, "quote": "centres and serves as an indicator of its quality and credibility." }
+      ]
+    },
+    {
+      "text": "RTO training results in qualifications recognised by industry throughout the country.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 29, "quote": "results in qualifications and statements of attainment" },
+        { "src": "cblm01", "page": 29, "quote": "that are recognised and accepted by industry and other" },
+        { "src": "cblm01", "page": 29, "quote": "educational institutions throughout the country." }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is a Registered Training Organisation (RTO)? What are the benefits of training with an RTO?",
+      "modelAnswer": "An RTO is a training organization registered and affiliated with BTEB. It can deliver nationally recognised qualifications.\nBenefits:\n1. Update skills: the most relevant training for specific jobs and industries.\n2. Employee performance: improved efficiency and increased productivity.\n3. Return on investment: a sound investment with measurable results.",
+      "keyPoints": [
+        {
+          "text": "Government training authorities authorize an RTO to deliver training packages.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 29, "quote": "RTO is a training organization that is authorized by government training authorities to" },
+            { "src": "cblm01", "page": 29, "quote": "deliver training packages or solutions for particular industries." }
+          ]
+        },
+        {
+          "text": "RTOs maintain specific standards that ensure high quality training.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 29, "quote": "RTO's maintain" },
+            { "src": "cblm01", "page": 29, "quote": "specific standards which ensure the high quality of technical vocational education" },
+            { "src": "cblm01", "page": 29, "quote": "and training services they provide." }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a benefit of training with a Registered Training Organisation?",
+      "options": [
+        "Return on investment",
+        "Earn and Learn",
+        "Supervised Training",
+        "Trade test"
+      ],
+      "answerIndex": 0,
+      "answerCite": { "src": "cblm01", "page": 29, "quote": "Return on investment: RTO training is a sound investment that often leads" }
+    },
+    "matching": {
+      "prompt": "Match each RTO benefit or feature with its meaning.",
+      "pairs": [
+        {
+          "left": "Update skills",
+          "right": "Stay updated on the latest trends and techniques",
+          "cite": { "src": "cblm01", "page": 29, "quote": "Update skills: An employee needs to stay updated on the latest trends and" }
+        },
+        {
+          "left": "Employee performance",
+          "right": "Improved efficiency and increased productivity",
+          "cite": { "src": "cblm01", "page": 29, "quote": "can also lead to improved efficiency and increased productivity" }
+        },
+        {
+          "left": "Return on investment",
+          "right": "A sound investment with measurable results",
+          "cite": { "src": "cblm01", "page": 29, "quote": "Return on investment: RTO training is a sound investment that often leads to good results that are measurable." }
+        },
+        {
+          "left": "Registration",
+          "right": "Indicator of quality and credibility",
+          "cite": { "src": "cblm01", "page": 29, "quote": "centres and serves as an indicator of its quality and credibility." }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why should a student take training from an RTO?",
+      "answer": {
+        "text": "The skills are of high quality. The training is accepted anywhere in the country.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 29, "quote": "Students who obtain" },
+          { "src": "cblm01", "page": 29, "quote": "training from an RTO are assured that the skills they learn are of high quality and that" },
+          { "src": "cblm01", "page": 29, "quote": "their training can be accepted anywhere in the country." }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "one_line_answer",
+      "note": "On PDF p.29 an annotator struck out 'BTEB' in the RTO definition and wrote 'STP=Skill training provider' in the margin. The registering body may now be different. The card keeps the printed CBLM text (BTEB); a reviewer should confirm the current term."
+    }
+  ]
+}

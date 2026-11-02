@@ -258,6 +258,14 @@ export function parsePaper(doc: RawDoc): { questions: PaperQuestion[]; matchSets
     }
   }
 
+  // Papers whose parts restart numbering (Part A MCQ 1–10, Part C Short 1–10) would give two
+  // questions the same id. Qualify only colliding ids with their type so every question stays reachable.
+  const idCount = new Map<string, number>();
+  for (const q of questions) idCount.set(q.id, (idCount.get(q.id) ?? 0) + 1);
+  for (const q of questions) {
+    if ((idCount.get(q.id) ?? 0) > 1) q.id = q.id.replace(/-q(\d+)$/, `-${q.type === "matching" ? "match" : q.type}-q$1`);
+  }
+
   for (const q of questions) {
     q.question = q.question.trim();
     if (q.answer) q.answer = q.answer.trim();

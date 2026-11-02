@@ -2,6 +2,1463 @@
   "concepts": [
     {
       "aliases": [
+        "Apprenticeship",
+        "Components of apprenticeship training",
+        "Essential components of apprenticeship"
+      ],
+      "asked": 1,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "apprenticeship-components",
+      "keywords": [
+        {
+          "bn": "শিক্ষানবিশ, যে কাজ করতে করতে শেখে",
+          "en": "Apprentice"
+        },
+        {
+          "bn": "কর্মস্থলে কাজের মধ্যে প্রশিক্ষণ",
+          "en": "On the job training"
+        },
+        {
+          "bn": "সংশ্লিষ্ট তাত্ত্বিক ক্লাস",
+          "en": "Related instruction"
+        },
+        {
+          "bn": "যে নিয়োগকর্তা প্রোগ্রাম চালায়",
+          "en": "Sponsor"
+        },
+        {
+          "bn": "মজুরি",
+          "en": "Wages"
+        }
+      ],
+      "oneLine": "Apprenticeship prepares a person through on and off the job training to industry standards.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Eight Essential Components of Apprenticeship Training",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Minimum requirements of national apprenticeship law",
+        "Apprenticeship law",
+        "Apprentice contract"
+      ],
+      "asked": 4,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "apprenticeship-law-contract",
+      "keywords": [
+        {
+          "bn": "শিক্ষানবিশি আইন",
+          "en": "Apprenticeship law"
+        },
+        {
+          "bn": "কল্যাণ, সুরক্ষা",
+          "en": "Welfare"
+        },
+        {
+          "bn": "অনুপাত",
+          "en": "Ratio"
+        },
+        {
+          "bn": "লিখিত চুক্তি",
+          "en": "Contract"
+        },
+        {
+          "bn": "সংশ্লিষ্ট তাত্ত্বিক ক্লাস",
+          "en": "Related instruction"
+        }
+      ],
+      "oneLine": "Apprenticeship laws establish minimum requirements for protecting the welfare of the apprentice.",
+      "score": 8,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Apprenticeship Laws and the Apprentice Contract",
+      "types": [
+        "mcq",
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Client focus approaches of TVET teachers",
+        "Maintain client focused approach",
+        "Client-focused approach"
+      ],
+      "asked": 6,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "client-focused-approach",
+      "keywords": [
+        {
+          "bn": "যারা আমাদের সেবা নেয় (যেমন learner, industry)",
+          "en": "Client"
+        },
+        {
+          "bn": "প্রয়োজন ও প্রত্যাশা",
+          "en": "Needs and expectations"
+        },
+        {
+          "bn": "যোগাযোগের কৌশল",
+          "en": "Communication strategies"
+        },
+        {
+          "bn": "ক্লায়েন্টের সন্তুষ্টি",
+          "en": "Client satisfaction"
+        }
+      ],
+      "oneLine": "A TVET teacher needs to demonstrate a client-focused approach to work.",
+      "score": 12,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Client-Focused Approach of a TVET Teacher",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Needs and expectations of TVET clients",
+        "Operational limits of a training organisation"
+      ],
+      "asked": 0,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "client-needs-operational-limits",
+      "keywords": [
+        {
+          "bn": "প্রয়োজন ও প্রত্যাশা",
+          "en": "Needs and expectations"
+        },
+        {
+          "bn": "শেখার পছন্দের ধরন",
+          "en": "Learning styles"
+        },
+        {
+          "bn": "প্রতিষ্ঠানের কাজের সীমাবদ্ধতা",
+          "en": "Operational limits"
+        },
+        {
+          "bn": "নিজে সিদ্ধান্ত নেওয়ার স্বাধীনতা",
+          "en": "Autonomy"
+        },
+        {
+          "bn": "প্রত্যেকের জন্য আলাদা করে সাজানো",
+          "en": "Individualized"
+        }
+      ],
+      "oneLine": "Clients of the TVET sector have a wide variety of needs and expectations.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Client Needs, Expectations and Operational Limits",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Who are the clients in a TVET institute",
+        "TVET clients"
+      ],
+      "asked": 4,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "clients-of-tvet-institute",
+      "keywords": [
+        {
+          "bn": "যারা প্রতিষ্ঠানের সেবা নেয়",
+          "en": "Client"
+        },
+        {
+          "bn": "যারা মূল্যায়নে অংশ নেয়",
+          "en": "Candidates for assessment"
+        },
+        {
+          "bn": "শিল্প প্রতিষ্ঠান, কোম্পানি",
+          "en": "Enterprise"
+        },
+        {
+          "bn": "সরকারি সংস্থা",
+          "en": "Agencies"
+        }
+      ],
+      "oneLine": "TVET clients are learners, assessment candidates, industry, other organisation parts and government.",
+      "score": 11,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Clients of a TVET Institute",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Competency",
+        "Key features of competency",
+        "Difference between competency and skills"
+      ],
+      "asked": 1,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "competency-ksa",
+      "keywords": [
+        {
+          "bn": "যোগ্যতা: জ্ঞান, দক্ষতা ও মনোভাব একসাথে",
+          "en": "Competency"
+        },
+        {
+          "bn": "জ্ঞান",
+          "en": "Knowledge (K)"
+        },
+        {
+          "bn": "হাতে-কলমে কাজ করার দক্ষতা",
+          "en": "Skills (S)"
+        },
+        {
+          "bn": "মনোভাব, আচরণ",
+          "en": "Attitude (A)"
+        },
+        {
+          "bn": "চোখে দেখা যায় এমন",
+          "en": "Observable"
+        }
+      ],
+      "oneLine": "Competency is measurable or observable knowledge, skills and attitude (KSA) for successful job performance.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Competency: Definition, Types and Key Features",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Dimensions of competency",
+        "Task skills, task management skills, contingency management skills and job/role environment skills"
+      ],
+      "asked": 10,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "dimensions-of-competency",
+      "keywords": [
+        {
+          "bn": "দিক বা মাত্রা",
+          "en": "Dimension"
+        },
+        {
+          "bn": "নির্দিষ্ট মান অনুযায়ী একটা কাজ করা",
+          "en": "Task skills"
+        },
+        {
+          "bn": "একসাথে কয়েকটা কাজ পরিকল্পনা করে সামলানো",
+          "en": "Task management skills"
+        },
+        {
+          "bn": "হঠাৎ সমস্যা বা ভাঙন হলে সামলানো",
+          "en": "Contingency management skills"
+        },
+        {
+          "bn": "অন্যদের সাথে কাজ করা ও পরিবেশের সাথে মানিয়ে চলা",
+          "en": "Job/role environment skills"
+        }
+      ],
+      "oneLine": "Competency has four dimensions: task, task management, contingency management and job/role environment skills.",
+      "score": 9,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Four Dimensions of Competency",
+      "types": [
+        "matching",
+        "mcq",
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Generic skills",
+        "Key competencies",
+        "Employability skills to progress within an enterprise"
+      ],
+      "asked": 3,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "employability-skills",
+      "keywords": [
+        {
+          "bn": "চাকরি পাওয়া ও টিকে থাকার যোগ্যতা",
+          "en": "Employability"
+        },
+        {
+          "bn": "দলবদ্ধভাবে কাজ",
+          "en": "Teamwork"
+        },
+        {
+          "bn": "নিজে উদ্যোগ নেওয়া ও সৃজনশীলতা",
+          "en": "Initiative and Enterprise"
+        },
+        {
+          "bn": "নিজেকে ও নিজের কাজকে সামলানো",
+          "en": "Self-management"
+        },
+        {
+          "bn": "সব কাজে লাগে এমন সাধারণ দক্ষতা",
+          "en": "Generic skills"
+        }
+      ],
+      "oneLine": "Employability skills are required to gain employment and to progress within an enterprise.",
+      "score": 10,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Employability Skills",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Workplace issues a teacher needs to maintain",
+        "Managing work and work relationships",
+        "Maintain relationship with supervisor and colleagues"
+      ],
+      "asked": 1,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "managing-work-relationships",
+      "keywords": [
+        {
+          "bn": "কর্মস্থলের বিষয়/সমস্যা",
+          "en": "Workplace issues"
+        },
+        {
+          "bn": "কোন কাজ আগে, কোনটা পরে ঠিক করা",
+          "en": "Prioritizing"
+        },
+        {
+          "bn": "সবাই মিলে একসাথে",
+          "en": "Collaboratively"
+        },
+        {
+          "bn": "মতামত",
+          "en": "Feedback"
+        },
+        {
+          "bn": "ক্লায়েন্টের প্রয়োজনকে গুরুত্ব দেওয়া",
+          "en": "Client focus"
+        }
+      ],
+      "oneLine": "A TVET teacher needs to manage work and work relationships properly.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Workplace Issues: Managing Work and Work Relationships",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "National Skills Development Policy",
+        "NSDP",
+        "Key features of NSDP"
+      ],
+      "asked": 6,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "national-skills-development-policy",
+      "keywords": [
+        {
+          "bn": "জাতীয় দক্ষতা উন্নয়ন নীতি (National Skills Development Policy)",
+          "en": "NSDP"
+        },
+        {
+          "bn": "জাতীয় কারিগরি ও বৃত্তিমূলক যোগ্যতা কাঠামো",
+          "en": "NTVQF"
+        },
+        {
+          "bn": "মান নিশ্চিত করার ব্যবস্থা",
+          "en": "Quality Assurance System (QAS)"
+        },
+        {
+          "bn": "আগে শেখা দক্ষতার স্বীকৃতি",
+          "en": "Recognition of Prior Learning (RPL)"
+        },
+        {
+          "bn": "শিল্প খাতের দক্ষতা পরিষদ",
+          "en": "Industry Skills Council (ISC)"
+        },
+        {
+          "bn": "সুবিধাবঞ্চিত মানুষ",
+          "en": "Under-privileged groups"
+        }
+      ],
+      "oneLine": "The National Skills Development Policy will guide skill development strategies in Bangladesh.",
+      "score": 12,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Main Features of the National Skills Development Policy (NSDP)",
+      "types": [
+        "mcq",
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "National Technical and Vocational Qualification Framework",
+        "NTVQ levels",
+        "Pre-Voc 1 and Pre-Voc 2"
+      ],
+      "asked": 9,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "ntvqf-levels",
+      "keywords": [
+        {
+          "bn": "জাতীয় কারিগরি ও বৃত্তিমূলক যোগ্যতা কাঠামো",
+          "en": "NTVQF"
+        },
+        {
+          "bn": "স্তর",
+          "en": "Level"
+        },
+        {
+          "bn": "প্রাক-বৃত্তিমূলক স্তর",
+          "en": "Pre-Voc"
+        },
+        {
+          "bn": "দক্ষ কর্মী",
+          "en": "Skilled Worker"
+        },
+        {
+          "bn": "সুবিধাবঞ্চিত মানুষ",
+          "en": "Underprivileged groups"
+        }
+      ],
+      "oneLine": "NTVQF is a set of principles and guidelines to register learners' achievement for national recognition.",
+      "score": 14,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "NTVQF and Its Qualification Levels",
+      "types": [
+        "mcq",
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Pre-training support",
+        "In-training support",
+        "Support to individual learners to address needs and interests"
+      ],
+      "asked": 1,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": false,
+      "id": "pre-in-training-support",
+      "keywords": [
+        {
+          "bn": "training শুরুর আগের সহায়তা",
+          "en": "Pre-training support"
+        },
+        {
+          "bn": "training চলাকালীন সহায়তা",
+          "en": "In-training support"
+        },
+        {
+          "bn": "অন্য বিশেষ সেবার কাছে পাঠানো",
+          "en": "Referral"
+        },
+        {
+          "bn": "প্রতিবন্ধী মানুষের জন্য বিশেষ প্রযুক্তি",
+          "en": "Adaptive technology"
+        }
+      ],
+      "oneLine": "A TVET teacher gives pre-training and in-training supports to his clients.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Pre-Training and In-Training Support for Clients",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Quality assurance framework",
+        "QA framework objectives",
+        "Major objectives of the quality assurance framework"
+      ],
+      "asked": 5,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "quality-assurance-framework",
+      "keywords": [
+        {
+          "bn": "মান নিশ্চিত করা",
+          "en": "Quality assurance (QA)"
+        },
+        {
+          "bn": "মানের মাপকাঠি",
+          "en": "Quality criteria"
+        },
+        {
+          "bn": "যোগ্যতা অন্য জায়গায়ও কাজে লাগানো যায়",
+          "en": "Portability"
+        },
+        {
+          "bn": "ন্যায্য ও সবার জন্য সমান",
+          "en": "Fair and equitable"
+        },
+        {
+          "bn": "বিশ্বাসযোগ্য",
+          "en": "Credible"
+        }
+      ],
+      "oneLine": "The quality assurance framework offers effective mechanisms to establish quality criteria and standards.",
+      "score": 13,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Objectives of the Quality Assurance Framework",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Recognition of Prior Learning",
+        "RPL",
+        "Benefits of RPL",
+        "RPL evidence"
+      ],
+      "asked": 5,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "recognition-of-prior-learning",
+      "keywords": [
+        {
+          "bn": "আগে শেখা দক্ষতার স্বীকৃতি",
+          "en": "Recognition of Prior Learning (RPL)"
+        },
+        {
+          "bn": "এখনকার দক্ষতা",
+          "en": "Current skills"
+        },
+        {
+          "bn": "প্রমাণ",
+          "en": "Evidence"
+        },
+        {
+          "bn": "আগের কাজের নমুনার সংগ্রহ",
+          "en": "Portfolio"
+        },
+        {
+          "bn": "সিদ্ধান্তের বিরুদ্ধে আবেদন",
+          "en": "Appeal"
+        }
+      ],
+      "oneLine": "RPL assesses current skills and knowledge, no matter how, when or where learning occurred.",
+      "score": 10,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Recognition of Prior Learning (RPL): Benefits and Evidence",
+      "types": [
+        "matching",
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Registered Training Organisation",
+        "RTO",
+        "Benefits of training with an RTO"
+      ],
+      "asked": 1,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "registered-training-organisation",
+      "keywords": [
+        {
+          "bn": "নিবন্ধিত প্রশিক্ষণ প্রতিষ্ঠান",
+          "en": "Registered Training Organisation (RTO)"
+        },
+        {
+          "bn": "দেশজুড়ে স্বীকৃত যোগ্যতা",
+          "en": "Nationally recognised qualification"
+        },
+        {
+          "bn": "বিশ্বাসযোগ্যতা",
+          "en": "Credibility"
+        },
+        {
+          "bn": "খরচের বিনিময়ে লাভ",
+          "en": "Return on investment"
+        }
+      ],
+      "oneLine": "An RTO is a training organization registered with BTEB to deliver nationally recognised qualifications.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Registered Training Organisation (RTO) and Its Benefits",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Task analysis",
+        "Purpose of task analysis in CBT",
+        "Points to consider when carrying out a task analysis"
+      ],
+      "asked": 2,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "task-analysis",
+      "keywords": [
+        {
+          "bn": "একটা কাজকে ছোট ছোট ধাপে ভাগ করা",
+          "en": "Task analysis"
+        },
+        {
+          "bn": "বাস্তব কাজের হাতে-কলমে দক্ষতা",
+          "en": "Real work practice"
+        },
+        {
+          "bn": "জরুরি তথ্য",
+          "en": "Key information"
+        },
+        {
+          "bn": "নিরাপত্তা",
+          "en": "Safety"
+        },
+        {
+          "bn": "ছবি, ডায়াগ্রাম",
+          "en": "Graphical aids"
+        }
+      ],
+      "oneLine": "Task analysis means breaking a complex process down into a series of simple steps.",
+      "score": 7,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Task Analysis for a Learning Session",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Teachers' roles and requirements",
+        "Role and requirements of TVET teachers",
+        "Supporting the learner"
+      ],
+      "asked": 1,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "teacher-roles-supporting-learners",
+      "keywords": [
+        {
+          "bn": "সহায়তা",
+          "en": "Support"
+        },
+        {
+          "bn": "কোন যোগ্যতার পর কোনটা, এগোনোর পথ",
+          "en": "Qualification pathways"
+        },
+        {
+          "bn": "নিজের অগ্রগতি নজরে রাখা",
+          "en": "Monitor"
+        },
+        {
+          "bn": "উৎসাহ দেওয়া",
+          "en": "Motivate"
+        },
+        {
+          "bn": "মতামত",
+          "en": "Feedback"
+        }
+      ],
+      "oneLine": "A TVET teacher's role in supporting the learner is vital.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Teachers' Roles and Requirements in Supporting Learners",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Time management skills",
+        "Planning and organizing skills",
+        "Planning, prioritizing and organizing your work"
+      ],
+      "asked": 5,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "time-management-skills",
+      "keywords": [
+        {
+          "bn": "কাজ শেষ করার শেষ সময়",
+          "en": "Deadline"
+        },
+        {
+          "bn": "অগ্রাধিকার: কোন কাজ আগে",
+          "en": "Priority"
+        },
+        {
+          "bn": "মনোযোগ নষ্ট করে এমন কিছু",
+          "en": "Distraction"
+        },
+        {
+          "bn": "কাজের মাঝের গুরুত্বপূর্ণ ধাপ",
+          "en": "Milestone"
+        },
+        {
+          "bn": "সময়সূচি",
+          "en": "Timeline"
+        }
+      ],
+      "oneLine": "Time management skills are planning and organizing skills to plan, prioritize and organize work.",
+      "score": 14,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Key Points of Time Management Skills",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Using your institution's access and equity policy to guide your work practices",
+        "Access and equity",
+        "How to enhance access and equity"
+      ],
+      "asked": 0,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "access-and-equity-policy",
+      "keywords": [
+        {
+          "bn": "training-এ ঢোকার বা ভর্তি হওয়ার সুযোগ",
+          "en": "Access"
+        },
+        {
+          "bn": "training-এ ফল অর্জনের ন্যায্য সুযোগ",
+          "en": "Equity"
+        },
+        {
+          "bn": "বাধা",
+          "en": "Barrier"
+        },
+        {
+          "bn": "ভর্তি বা বাছাইয়ের শর্ত",
+          "en": "Selection criteria"
+        },
+        {
+          "bn": "ফি কমানো",
+          "en": "Fee reduction"
+        }
+      ],
+      "oneLine": "An access and equity policy makes services responsive to clients who may face barriers.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Access and Equity Policy",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Principles of adult learning that guide teaching and learning practices in the TVET sector",
+        "Principles of inclusivity closely resemble principles of adult learning"
+      ],
+      "asked": 0,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "adult-learning-principles-inclusivity",
+      "keywords": [
+        {
+          "bn": "প্রাপ্তবয়স্কদের শেখা",
+          "en": "Adult learning"
+        },
+        {
+          "bn": "learner-কে কেন্দ্র করে",
+          "en": "Learner-centred"
+        },
+        {
+          "bn": "হাতে-কলমে করে শেখা",
+          "en": "Experiential learning"
+        },
+        {
+          "bn": "দক্ষ কাউকে দেখে অনুকরণ করে শেখা",
+          "en": "Modelling"
+        },
+        {
+          "bn": "নিজের শেখার সিদ্ধান্ত নিজে নেওয়া",
+          "en": "Self-directing"
+        }
+      ],
+      "oneLine": "The principles of inclusivity closely resemble the principles of adult learning used in TVET.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Adult Learning Principles that Resemble Inclusivity",
+      "types": []
+    },
+    {
+      "aliases": [
+        "What do you understand by 'clients with particular needs'?",
+        "Providing support for special needs"
+      ],
+      "asked": 3,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "clients-with-particular-needs",
+      "keywords": [
+        {
+          "bn": "বিশেষ চাহিদাসম্পন্ন client বা learner",
+          "en": "Clients with particular needs"
+        },
+        {
+          "bn": "যেখানে সংখ্যায় কম, প্রতিনিধিত্ব কম",
+          "en": "Under represented"
+        },
+        {
+          "bn": "গ্রাম ও দূরবর্তী এলাকা",
+          "en": "Rural and remote"
+        },
+        {
+          "bn": "ঝুঁকিতে থাকা তরুণ",
+          "en": "Youth at risk"
+        },
+        {
+          "bn": "বিশেষ প্রয়োজন",
+          "en": "Special needs"
+        }
+      ],
+      "oneLine": "Clients with particular needs include people with disability; acknowledge, respect and value them.",
+      "score": 8,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Clients with Particular Needs",
+      "types": [
+        "mcq",
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Different perceptions",
+        "Why examine our perceptions to promote inclusivity?"
+      ],
+      "asked": 1,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "examining-perceptions",
+      "keywords": [
+        {
+          "bn": "কোনো কিছুকে আমরা যেভাবে দেখি বা বুঝি",
+          "en": "Perception"
+        },
+        {
+          "bn": "যাচাই করা, ভালো করে খুঁটিয়ে দেখা",
+          "en": "Examining"
+        },
+        {
+          "bn": "মনোভাব",
+          "en": "Attitudes"
+        },
+        {
+          "bn": "শুরুর জায়গা, প্রথম ধাপ",
+          "en": "Starting point"
+        }
+      ],
+      "oneLine": "Examining our perceptions is an important starting point to promote an inclusive learning environment.",
+      "score": 7,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Examining Our Perceptions",
+      "types": [
+        "mcq"
+      ]
+    },
+    {
+      "aliases": [
+        "Ground Rules for Participation and Behaviour",
+        "Modeling inclusiveness in work performance",
+        "Negotiated ground rules"
+      ],
+      "asked": 1,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "ground-rules-inclusiveness",
+      "keywords": [
+        {
+          "bn": "ক্লাসে সবাই মিলে ঠিক করা আচরণের নিয়ম",
+          "en": "Ground rules"
+        },
+        {
+          "bn": "সবাই মিলে, একসাথে",
+          "en": "Collaboratively"
+        },
+        {
+          "bn": "আলোচনা করে ঠিক করা",
+          "en": "Negotiated"
+        },
+        {
+          "bn": "কাউকে বিচার না করা",
+          "en": "Non-judgmental"
+        },
+        {
+          "bn": "গোপন রাখা",
+          "en": "Confidential"
+        }
+      ],
+      "oneLine": "A critical way to model inclusiveness is to collaboratively establish ground rules with your learners.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Ground Rules for Modelling Inclusiveness",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "An inclusive learning environment is one that",
+        "Inclusive learning environment"
+      ],
+      "asked": 0,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "inclusive-learning-environment",
+      "keywords": [
+        {
+          "bn": "এমন শেখার পরিবেশ যেখানে সবাইকে সাথে রাখা হয়",
+          "en": "Inclusive learning environment"
+        },
+        {
+          "bn": "মানুষে মানুষে ভিন্নতা",
+          "en": "Difference"
+        },
+        {
+          "bn": "অংশগ্রহণ",
+          "en": "Participation"
+        },
+        {
+          "bn": "সব কাজে লাগে এমন সাধারণ দক্ষতা",
+          "en": "Generic skills"
+        },
+        {
+          "bn": "এগোনোর একাধিক পথ",
+          "en": "Multiple pathways"
+        }
+      ],
+      "oneLine": "An inclusive learning environment values and respects difference and promotes learning.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Features of an Inclusive Learning Environment",
+      "types": []
+    },
+    {
+      "aliases": [
+        "What strategies will you take to promote an inclusive learning environment?",
+        "Plan for inclusiveness",
+        "Develop and implement work strategies to support inclusivity"
+      ],
+      "asked": 1,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": false,
+      "id": "inclusive-work-strategies",
+      "keywords": [
+        {
+          "bn": "সবাইকে সাথে নেওয়ার পরিকল্পনা",
+          "en": "Plan for inclusiveness"
+        },
+        {
+          "bn": "ধারাবাহিকভাবে উন্নতি করা",
+          "en": "Continuous improvement"
+        },
+        {
+          "bn": "সহায়তা সেবা",
+          "en": "Support services"
+        },
+        {
+          "bn": "ভৌত পরিবেশ: ঘর, যন্ত্র, পথ",
+          "en": "Physical environment"
+        },
+        {
+          "bn": "পেশাগত স্বাস্থ্য ও নিরাপত্তার বিষয়",
+          "en": "OHS issues"
+        }
+      ],
+      "oneLine": "Develop a plan for inclusiveness; it is a continuous improvement process.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Planning for Inclusiveness and Work Strategies to Support It",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Describe the term 'inclusivity'",
+        "What is inclusivity? Why practice inclusivity?",
+        "Promote inclusive learning"
+      ],
+      "asked": 2,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "inclusivity-definition",
+      "keywords": [
+        {
+          "bn": "অন্তর্ভুক্তি; সব learner-কে সাথে নিয়ে শেখানো",
+          "en": "Inclusivity"
+        },
+        {
+          "bn": "চিনে নেওয়া, স্বীকার করা",
+          "en": "Recognising"
+        },
+        {
+          "bn": "মানিয়ে নেওয়া, জায়গা করে দেওয়া",
+          "en": "Accommodating"
+        },
+        {
+          "bn": "শেখার চাহিদা বা প্রয়োজন",
+          "en": "Learning needs"
+        },
+        {
+          "bn": "ভিন্ন ভিন্ন সমাজ বা গোষ্ঠী",
+          "en": "Diverse communities"
+        }
+      ],
+      "oneLine": "Inclusivity means recognising, accommodating and meeting the learning needs of all your learners.",
+      "score": 9,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Inclusivity: Meaning and Why Practise It",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Building on individual differences",
+        "Examples of individual differences of the learner"
+      ],
+      "asked": 1,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "individual-differences",
+      "keywords": [
+        {
+          "bn": "প্রত্যেক learner-এর আলাদা বৈশিষ্ট্য",
+          "en": "Individual differences"
+        },
+        {
+          "bn": "শিখতে অসুবিধা",
+          "en": "Learning difficulties"
+        },
+        {
+          "bn": "সামাজিক ও আর্থিক অবস্থা",
+          "en": "Socio-economic background"
+        },
+        {
+          "bn": "শারীরিক বা মানসিক দুর্বলতা/প্রতিবন্ধকতা",
+          "en": "Impairment"
+        },
+        {
+          "bn": "দীর্ঘমেয়াদি অসুখ, যেমন হাঁপানি",
+          "en": "Medical conditions"
+        }
+      ],
+      "oneLine": "To promote an inclusive learning culture, actively acknowledge, respect and value individual differences.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Individual Differences of Learners",
+      "types": [
+        "mcq"
+      ]
+    },
+    {
+      "aliases": [
+        "How do you deal with the learners with low literacy or numeracy?",
+        "Learner Needs and Reasonable Adjustments: low literacy or numeracy",
+        "Candidates with low levels of education"
+      ],
+      "asked": 2,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "low-literacy-numeracy-assessment",
+      "keywords": [
+        {
+          "bn": "পড়া-লেখা বা হিসাবের দক্ষতা কম",
+          "en": "Low literacy or numeracy"
+        },
+        {
+          "bn": "মুখে প্রশ্ন করে মূল্যায়ন",
+          "en": "Verbal assessment"
+        },
+        {
+          "bn": "আগে থেকে ঠিক করা প্রশ্ন",
+          "en": "Predetermined questions"
+        },
+        {
+          "bn": "যিনি candidate-এর উত্তর লিখে দেন",
+          "en": "Scribe"
+        },
+        {
+          "bn": "ছবি বা diagram দিয়ে ইঙ্গিত",
+          "en": "Visual cues"
+        }
+      ],
+      "oneLine": "For low literacy or numeracy, use verbal assessment, demonstrations and diagrams instead of writing.",
+      "score": 9,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Assessing Learners with Low Literacy or Numeracy",
+      "types": [
+        "mcq",
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "How will you monitor and improve inclusive work practices?",
+        "Reflective practice",
+        "Reviewing strategies and policies to support inclusivity"
+      ],
+      "asked": 2,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "monitoring-inclusive-practice",
+      "keywords": [
+        {
+          "bn": "নিয়মিত নজর রাখা",
+          "en": "Monitor"
+        },
+        {
+          "bn": "নিজের কাজ নিয়ে নিয়মিত ভেবে দেখা",
+          "en": "Reflective practice"
+        },
+        {
+          "bn": "ধারাবাহিক উন্নতি",
+          "en": "Continuous improvement"
+        },
+        {
+          "bn": "নীতিতে পরিবর্তন",
+          "en": "Policy changes"
+        },
+        {
+          "bn": "উচ্চ কর্তৃপক্ষ",
+          "en": "Higher management"
+        }
+      ],
+      "oneLine": "After promoting a culture of learning, monitor and improve your own work practices.",
+      "score": 9,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Monitoring and Improving Inclusive Work Practices",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Know how to practise inclusivity",
+        "Promote an inclusive learning environment in the TVET sector",
+        "Practice inclusivity in the training/learning environment"
+      ],
+      "asked": 0,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "practising-inclusivity",
+      "keywords": [
+        {
+          "bn": "বাস্তবে সবাইকে সাথে নিয়ে কাজ করা",
+          "en": "Practise inclusivity"
+        },
+        {
+          "bn": "প্রত্যেক মানুষের আলাদা বৈশিষ্ট্য",
+          "en": "Individual differences"
+        },
+        {
+          "bn": "সবার প্রবেশ ও সমান সুযোগের নীতি",
+          "en": "Access and equity policy"
+        },
+        {
+          "bn": "ভিন্নতার প্রতি সংবেদনশীল",
+          "en": "Sensitive to difference"
+        },
+        {
+          "bn": "নিজে উদাহরণ হয়ে inclusive আচরণ দেখানো",
+          "en": "Modeling inclusiveness"
+        }
+      ],
+      "oneLine": "To promote an inclusive learning environment in TVET, you must know how to practise inclusivity.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "How to Practise Inclusivity (Five Ways)",
+      "types": []
+    },
+    {
+      "aliases": [
+        "What are the principles that underpin inclusivity?",
+        "Principles to integrate into work practices to foster an inclusive learning culture",
+        "Motivating learners through change"
+      ],
+      "asked": 2,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "principles-of-inclusivity",
+      "keywords": [
+        {
+          "bn": "ভিত্তি হিসেবে থাকা",
+          "en": "Underpin"
+        },
+        {
+          "bn": "learner-কে কেন্দ্র করে শেখানো",
+          "en": "Learner-centred"
+        },
+        {
+          "bn": "সবার জন্য সমান সুযোগ",
+          "en": "Equal opportunity"
+        },
+        {
+          "bn": "একসাথে মিলে শেখার পদ্ধতি",
+          "en": "Cooperative approaches"
+        },
+        {
+          "bn": "ন্যায্যতা; যার যা দরকার সেই অনুযায়ী সুযোগ",
+          "en": "Equity"
+        }
+      ],
+      "oneLine": "Integrate the principles that underpin inclusivity into all work practices for an inclusive culture.",
+      "score": 9,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Principles that Underpin Inclusivity",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Using verbal and body language that is sensitive to difference",
+        "Communication and interpersonal skills in an inclusive learning environment"
+      ],
+      "asked": 0,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "sensitive-verbal-body-language",
+      "keywords": [
+        {
+          "bn": "শরীরের ভাষা: চোখ, মুখ, হাতের ইশারা",
+          "en": "Body language"
+        },
+        {
+          "bn": "বৈষম্যহীন",
+          "en": "Non-discriminatory"
+        },
+        {
+          "bn": "ছোট করা, অপমান করা",
+          "en": "Derogate"
+        },
+        {
+          "bn": "কারও গায়ে তকমা লাগানো",
+          "en": "Label"
+        },
+        {
+          "bn": "মনোযোগ দিয়ে শোনা",
+          "en": "Active listening"
+        }
+      ],
+      "oneLine": "Verbal and body language must be sensitive to different cultures and different abilities.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Verbal and Body Language Sensitive to Difference",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Identifying and accessing support services",
+        "Which support person/s may you seek assistance from in implementing an inclusive learning environment?",
+        "Who are some support persons that may assist in inclusive learning?"
+      ],
+      "asked": 2,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": true,
+      "id": "support-persons",
+      "keywords": [
+        {
+          "bn": "যিনি learner-কে বাড়তি সাহায্য করেন",
+          "en": "Support person"
+        },
+        {
+          "bn": "দোভাষী, যেমন sign language জানা ব্যক্তি",
+          "en": "Interpreter"
+        },
+        {
+          "bn": "যিনি learner-এর হয়ে নোট লেখেন",
+          "en": "Note taker"
+        },
+        {
+          "bn": "যিনি নির্দিষ্ট ব্যক্তির সমস্যা দেখাশোনা করেন",
+          "en": "Case worker"
+        },
+        {
+          "bn": "সহপাঠীদের সাহায্য",
+          "en": "Peer support"
+        }
+      ],
+      "oneLine": "Support persons are people who can support the specific needs of your clients.",
+      "score": 9,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Support Persons in Inclusive Learning",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
         "Safety decision hierarchy",
         "Hierarchy of control"
       ],
@@ -182,6 +1639,7 @@
       "asked": 5,
       "cblmPrimary": 8,
       "cblms": [
+        1,
         8,
         9
       ],
@@ -210,7 +1668,7 @@
         }
       ],
       "oneLine": "A curriculum is a documented representation of a set of competencies.",
-      "score": 13,
+      "score": 14,
       "sourceType": "cblm",
       "stars": 3,
       "status": "draft",
@@ -441,6 +1899,7 @@
       "asked": 5,
       "cblmPrimary": 8,
       "cblms": [
+        1,
         8,
         9
       ],
@@ -469,12 +1928,13 @@
         }
       ],
       "oneLine": "Competency standards are industry-determined specifications of performance. They set out the skills, knowledge and attitudes required to operate effectively in employment.",
-      "score": 17,
+      "score": 18,
       "sourceType": "cblm",
       "stars": 3,
       "status": "draft",
       "title": "Industry Competency Standards",
       "types": [
+        "matching",
         "mcq",
         "short"
       ]
@@ -531,6 +1991,7 @@
       "asked": 3,
       "cblmPrimary": 8,
       "cblms": [
+        1,
         8,
         9
       ],
@@ -559,7 +2020,7 @@
         }
       ],
       "oneLine": "A learning outcome is a curriculum term. An element of competency is an industry competency standards term.",
-      "score": 9,
+      "score": 12,
       "sourceType": "cblm",
       "stars": 3,
       "status": "draft",
@@ -667,7 +2128,8 @@
       "asked": 0,
       "cblmPrimary": 8,
       "cblms": [
-        8
+        8,
+        10
       ],
       "highlighted": true,
       "id": "range-of-learning-resources",
@@ -694,12 +2156,14 @@
         }
       ],
       "oneLine": "The range of learning operational resources includes projectors, web resources, slides, boards, charts and textbooks.",
-      "score": 4,
+      "score": 7,
       "sourceType": "cblm",
       "stars": 2,
       "status": "draft",
       "title": "Range of Learning Operational Resources",
-      "types": []
+      "types": [
+        "short"
+      ]
     },
     {
       "aliases": [
@@ -929,6 +2393,7 @@
       "asked": 14,
       "cblmPrimary": 9,
       "cblms": [
+        1,
         9
       ],
       "highlighted": true,
@@ -960,7 +2425,7 @@
         }
       ],
       "oneLine": "A competency standard details skills, knowledge, attitude, performance criteria and evidence to prove competency.",
-      "score": 14,
+      "score": 17,
       "sourceType": "cblm",
       "stars": 3,
       "status": "draft",
@@ -1704,6 +3169,1447 @@
       "stars": 2,
       "status": "draft",
       "title": "Selecting a Training Venue",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "How do I determine learner readiness for assessment?",
+        "Learner readiness for assessment"
+      ],
+      "asked": 1,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "assessment-readiness",
+      "keywords": [
+        {
+          "bn": "প্রস্তুতি",
+          "en": "Readiness"
+        },
+        {
+          "bn": "অনানুষ্ঠানিক, পর্যবেক্ষণ করে",
+          "en": "Informal"
+        },
+        {
+          "bn": "আনুষ্ঠানিক, নিয়ম মেনে যাচাই",
+          "en": "Formal"
+        },
+        {
+          "bn": "মূল্যায়নের মানদণ্ড",
+          "en": "Assessment criteria"
+        },
+        {
+          "bn": "দক্ষতার ঘাটতি",
+          "en": "Gaps in competence"
+        }
+      ],
+      "oneLine": "Determining whether a learner is ready for assessment is both a formal and informal process",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Determining Learner Readiness for Assessment",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Competency based training program",
+        "Definition of CBT",
+        "CBT"
+      ],
+      "asked": 1,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "cbt-program",
+      "keywords": [
+        {
+          "bn": "দক্ষতাভিত্তিক প্রশিক্ষণ",
+          "en": "Competency Based Training (CBT)"
+        },
+        {
+          "bn": "কোর্সের একেকটা অংশ",
+          "en": "Module"
+        },
+        {
+          "bn": "শেখার ফলাফল, module-এর ছোট অংশ",
+          "en": "Learning outcomes"
+        },
+        {
+          "bn": "ইন্ডাস্ট্রির ঠিক করা মান",
+          "en": "Industry standards"
+        },
+        {
+          "bn": "নির্দিষ্ট সময়সীমা",
+          "en": "Fixed timeframe"
+        }
+      ],
+      "oneLine": "CBT places emphasis on what a person can do in the workplace after training.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Competency Based Training (CBT) Program",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Facilities in a CBT shop",
+        "CBT shop layout",
+        "Competency-based training room"
+      ],
+      "asked": 2,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "cbt-shop-areas",
+      "keywords": [
+        {
+          "bn": "প্রশিক্ষণের ঘর, যন্ত্রপাতি ও অবকাঠামো",
+          "en": "Infrastructure facility"
+        },
+        {
+          "bn": "হাতে-কলমে কাজ শেখার জায়গা",
+          "en": "Practical Work Area"
+        },
+        {
+          "bn": "শেখার উপকরণ রাখা ও দেওয়ার জায়গা",
+          "en": "Learning Resource Area"
+        },
+        {
+          "bn": "ঘরের নকশা, কোন জায়গা কোথায় থাকবে",
+          "en": "Layout"
+        },
+        {
+          "bn": "ইন্ডাস্ট্রির ঠিক করা দক্ষতার মান",
+          "en": "Competency Standard"
+        }
+      ],
+      "oneLine": "A Competency Based Training Program must have an infrastructure facility accepted to industry standards.",
+      "score": 8,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Areas of a CBT Shop (Training Room Layout)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Principles of CBT",
+        "CBT system principles",
+        "Principles of competency based training"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "cbt-system-principles",
+      "keywords": [
+        {
+          "bn": "module বা অংশে ভাগ করা",
+          "en": "Modular"
+        },
+        {
+          "bn": "নিজের গতিতে শেখা",
+          "en": "Self-paced"
+        },
+        {
+          "bn": "দক্ষতার প্রমাণ",
+          "en": "Evidence"
+        },
+        {
+          "bn": "আগের শেখা দক্ষতার স্বীকৃতি (Recognition of Prior Learning)",
+          "en": "RPL"
+        },
+        {
+          "bn": "বিভিন্ন সময়ে ঢোকা ও বের হওয়ার সুযোগ",
+          "en": "Multiple entry and exit"
+        }
+      ],
+      "oneLine": "Competency Based Training System principles start with curriculum developed from competency standards.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Principles of Competency Based Training System",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Managing Competency Based Training versus Traditional Programs",
+        "Differences between traditional training and CBT"
+      ],
+      "asked": 1,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "cbt-vs-traditional-training",
+      "keywords": [
+        {
+          "bn": "প্রচলিত, সবাই একসাথে একই গতিতে শেখা",
+          "en": "Traditional training"
+        },
+        {
+          "bn": "নিজের গতিতে",
+          "en": "Own pace"
+        },
+        {
+          "bn": "কাজে পুরো দক্ষতা অর্জন",
+          "en": "Mastery"
+        },
+        {
+          "bn": "আবার পরীক্ষা দেওয়া",
+          "en": "Retesting"
+        },
+        {
+          "bn": "সাথে সাথে মতামত",
+          "en": "Immediate feedback"
+        }
+      ],
+      "oneLine": "CBT instructors focus on managing learning; traditional instructors focus on managing instruction.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Traditional Training vs CBT Programs",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Communicating with the learner",
+        "Why check the learners' understanding",
+        "Determining learners' understanding"
+      ],
+      "asked": 1,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "checking-learner-needs-understanding",
+      "keywords": [
+        {
+          "bn": "বোঝা, ধারণা পরিষ্কার হওয়া",
+          "en": "Understanding"
+        },
+        {
+          "bn": "নিজের ভাষায় সহজ করে আবার বলা",
+          "en": "Paraphrasing"
+        },
+        {
+          "bn": "দুই পক্ষের একই রকম বোঝা",
+          "en": "Mutual understanding"
+        },
+        {
+          "bn": "আগে থেকে খোঁজ নেওয়া",
+          "en": "Research"
+        },
+        {
+          "bn": "ছোট প্রশ্নোত্তর পরীক্ষা",
+          "en": "Quiz"
+        }
+      ],
+      "oneLine": "Check that learners have understood you, so their understanding is the same as yours.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Checking Learner Needs and Understanding",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Learner participation",
+        "Encouraging learners to participate",
+        "Plan your message, be empathetic, seek and give feedback"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "communication-strategies-participation",
+      "keywords": [
+        {
+          "bn": "অংশগ্রহণ",
+          "en": "Participation"
+        },
+        {
+          "bn": "অন্যের দৃষ্টিতে দেখতে পারা",
+          "en": "Empathetic"
+        },
+        {
+          "bn": "নিজের ভাষায় আবার বলা",
+          "en": "Paraphrase"
+        },
+        {
+          "bn": "মতামত দেওয়া-নেওয়া",
+          "en": "Feedback"
+        },
+        {
+          "bn": "নিজে নিজে শেখার উপকরণ",
+          "en": "Self-directed learning"
+        }
+      ],
+      "oneLine": "If learners don't participate, the chances of learning are greatly reduced.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Communication Strategies for Learner Participation",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Computers in training",
+        "Advantages and limitations of computer based learning"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "computer-based-learning",
+      "keywords": [
+        {
+          "bn": "কম্পিউটার দিয়ে শেখা",
+          "en": "Computer based learning"
+        },
+        {
+          "bn": "প্রত্যেকে নিজের গতিতে শেখা",
+          "en": "Individualised learning"
+        },
+        {
+          "bn": "সাথে সাথে ফলাফল জানা",
+          "en": "Immediate feedback"
+        },
+        {
+          "bn": "দূরে থেকে শেখা",
+          "en": "Distance learning"
+        },
+        {
+          "bn": "একা একা, অন্যদের ছাড়া",
+          "en": "Solitary"
+        }
+      ],
+      "oneLine": "Computer based learning offers some advantages over traditional methods",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Computer Based Learning: Advantages and Limitations",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Characteristics of effective feedback",
+        "Effective feedback in the learning environment"
+      ],
+      "asked": 1,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "effective-feedback-characteristics",
+      "keywords": [
+        {
+          "bn": "কাজের ওপর মতামত",
+          "en": "Feedback"
+        },
+        {
+          "bn": "আচরণ, যা করা হয়েছে",
+          "en": "Behaviour"
+        },
+        {
+          "bn": "অনুমান, নিজের ধারণা",
+          "en": "Inference"
+        },
+        {
+          "bn": "বিচার, ভালো-খারাপ রায়",
+          "en": "Judgment"
+        },
+        {
+          "bn": "গোপনীয়তা রক্ষা",
+          "en": "Confidentiality"
+        }
+      ],
+      "oneLine": "Feedback should be an ongoing process for both the teacher/trainer and the learner.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Characteristics of Effective Feedback in Training",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Evaluation tools",
+        "Questionnaire, interview and observation",
+        "Advantages and disadvantages of evaluation tools"
+      ],
+      "asked": 1,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "evaluation-tools-training",
+      "keywords": [
+        {
+          "bn": "লিখিত প্রশ্নপত্র",
+          "en": "Questionnaire"
+        },
+        {
+          "bn": "মুখোমুখি প্রশ্নোত্তর",
+          "en": "Interview"
+        },
+        {
+          "bn": "সরাসরি দেখে তথ্য নেওয়া",
+          "en": "Observation"
+        },
+        {
+          "bn": "পক্ষপাত",
+          "en": "Bias"
+        },
+        {
+          "bn": "কতজন উত্তর দিল তার হার",
+          "en": "Response rate"
+        }
+      ],
+      "oneLine": "To review your training, gather feedback with evaluation tools.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Evaluation Tools for Training Delivery",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Receiving feedback on the learning session",
+        "Giving feedback",
+        "How should you receive feedback?"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "giving-receiving-feedback",
+      "keywords": [
+        {
+          "bn": "মতামত দেওয়া",
+          "en": "Giving feedback"
+        },
+        {
+          "bn": "মতামত গ্রহণ করা",
+          "en": "Receiving feedback"
+        },
+        {
+          "bn": "আত্মরক্ষামূলক মনোভাব, তর্কে যাওয়া",
+          "en": "Defensiveness"
+        },
+        {
+          "bn": "পরবর্তী পদক্ষেপ",
+          "en": "Follow-up action"
+        },
+        {
+          "bn": "অনুকরণীয় উদাহরণ",
+          "en": "Role model"
+        }
+      ],
+      "oneLine": "Feedback gives constructive information to help a person see strengths and limitations.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Giving and Receiving Feedback on a Learning Session",
+      "types": []
+    },
+    {
+      "aliases": [
+        "GLOSS model",
+        "Preparing the learners",
+        "Techniques for preparing the learner"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "gloss-model",
+      "keywords": [
+        {
+          "bn": "মনোযোগ আকর্ষণ করা",
+          "en": "Get attention"
+        },
+        {
+          "bn": "স্বস্তি দেওয়া, ভয় কাটানো",
+          "en": "Put at ease"
+        },
+        {
+          "bn": "পরিচয় আর জড়তা ভাঙার মজার কাজ",
+          "en": "Icebreaker"
+        },
+        {
+          "bn": "সেশন শেষে learner কী পারবে",
+          "en": "Learning outcomes"
+        },
+        {
+          "bn": "শেখার আগ্রহ ও তাগিদ",
+          "en": "Motivation"
+        }
+      ],
+      "oneLine": "GLOSS is a model of techniques for preparing the learner in the first session.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Preparing Learners in the First Session (GLOSS Model)",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Why establish guidelines for learner behaviour",
+        "Sample set of ground rules",
+        "Positive learning environment"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "learner-behaviour-guidelines",
+      "keywords": [
+        {
+          "bn": "আচরণের নিয়ম বা নির্দেশনা",
+          "en": "Guidelines"
+        },
+        {
+          "bn": "ক্লাসের মৌলিক নিয়ম",
+          "en": "Ground rules"
+        },
+        {
+          "bn": "হয়রানি",
+          "en": "Harassment"
+        },
+        {
+          "bn": "আলোচনা করে বদলানো যায় এমন",
+          "en": "Negotiable"
+        },
+        {
+          "bn": "সময়মতো উপস্থিত",
+          "en": "Punctual"
+        }
+      ],
+      "oneLine": "Guidelines for acceptable and unacceptable behaviour help maintain a positive learning environment.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Guidelines for Learner Behaviour and Sample Ground Rules",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Learning domains",
+        "Cognitive, affective and psychomotor domains",
+        "Knowledge, attitude and skills domains"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "learning-domains",
+      "keywords": [
+        {
+          "bn": "জ্ঞান ও চিন্তার দিক (knowledge)",
+          "en": "Cognitive"
+        },
+        {
+          "bn": "অনুভূতি ও মনোভাবের দিক (attitude)",
+          "en": "Affective"
+        },
+        {
+          "bn": "হাতে-কলমে শারীরিক দক্ষতা (skills)",
+          "en": "Psychomotor"
+        },
+        {
+          "bn": "শেখার একটা ক্ষেত্র",
+          "en": "Domain"
+        }
+      ],
+      "oneLine": "Learning domains are cognitive (knowledge), affective (attitude) and psychomotor (skills).",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Learning Domains: Cognitive, Affective and Psychomotor",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Implement a learning to learn philosophy",
+        "Learning to learn"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "learning-to-learn",
+      "keywords": [
+        {
+          "bn": "কীভাবে শিখতে হয় তা শেখা",
+          "en": "Learning to learn"
+        },
+        {
+          "bn": "learner-কে কেন্দ্র করে",
+          "en": "Learner centred"
+        },
+        {
+          "bn": "ক্ষমতা ও আত্মবিশ্বাস দেওয়া",
+          "en": "Empower"
+        },
+        {
+          "bn": "একাধিক ইন্দ্রিয় দিয়ে শেখা",
+          "en": "Multi-sense learning"
+        },
+        {
+          "bn": "দায়িত্ব",
+          "en": "Responsibility"
+        }
+      ],
+      "oneLine": "Learning to learn is a learner centred philosophy that empowers learners.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Learning to Learn Philosophy",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Managing inappropriate behavior",
+        "Inappropriate behaviour of learners",
+        "Conflict resolution in the classroom"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "managing-inappropriate-behaviour",
+      "keywords": [
+        {
+          "bn": "অনুচিত আচরণ",
+          "en": "Inappropriate behaviour"
+        },
+        {
+          "bn": "ভয় দেখানো, হয়রানি করা",
+          "en": "Bullying"
+        },
+        {
+          "bn": "ক্লাসে বিঘ্ন ঘটানো",
+          "en": "Disruptive"
+        },
+        {
+          "bn": "বিরোধ মেটানো",
+          "en": "Conflict resolution"
+        },
+        {
+          "bn": "সবাই মিলে সমাধান খোঁজা",
+          "en": "Collaborating"
+        },
+        {
+          "bn": "দুই পক্ষ কিছুটা ছাড় দেওয়া",
+          "en": "Compromising"
+        }
+      ],
+      "oneLine": "An effective facilitator must manage inappropriate behaviour so learning can take place.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Managing Inappropriate Learner Behaviour",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Layout tips for posters and charts",
+        "Using posters and charts"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "posters-and-charts",
+      "keywords": [
+        {
+          "bn": "একটা মূল বার্তা দেওয়া বড় ছবি/লেখা",
+          "en": "Poster"
+        },
+        {
+          "bn": "তথ্য, ছবি বা ডায়াগ্রাম সাজানো বড় কাগজ",
+          "en": "Chart"
+        },
+        {
+          "bn": "কাগজে লেখা ও ছবি কীভাবে সাজানো",
+          "en": "Layout"
+        },
+        {
+          "bn": "ভিড়হীন, অগোছালো নয়",
+          "en": "Uncluttered"
+        },
+        {
+          "bn": "দুই পাশের ভার বা সাজানো ভাব",
+          "en": "Balance"
+        }
+      ],
+      "oneLine": "A poster is useful for getting a single idea across quickly.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Posters and Charts: Purpose and Layout Tips",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Preparing PowerPoint slides",
+        "Tips for preparing slides",
+        "Showing slides"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "powerpoint-slide-tips",
+      "keywords": [
+        {
+          "bn": "PowerPoint-এর একেকটা পাতা",
+          "en": "Slide"
+        },
+        {
+          "bn": "লেখার অক্ষরের মাপ",
+          "en": "Font size"
+        },
+        {
+          "bn": "পেছনের রং আর লেখার রঙের পার্থক্য",
+          "en": "Contrast"
+        },
+        {
+          "bn": "সব slide-এ একই style রাখার template",
+          "en": "Master Slide"
+        },
+        {
+          "bn": "স্ক্রিনে ছবি দেখানোর যন্ত্র",
+          "en": "Projector"
+        }
+      ],
+      "oneLine": "PowerPoint presentations consist of a number of individual electronic pages or 'slides'.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Tips for Preparing and Showing PowerPoint Slides",
+      "types": []
+    },
+    {
+      "aliases": [
+        "How do I provide practice opportunities?",
+        "Enough practice opportunities for learners"
+      ],
+      "asked": 1,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": false,
+      "id": "practice-opportunities",
+      "keywords": [
+        {
+          "bn": "বারবার করে দক্ষতা অর্জন",
+          "en": "Practice"
+        },
+        {
+          "bn": "বাস্তবের মতো সাজানো অনুশীলন",
+          "en": "Simulation"
+        },
+        {
+          "bn": "কর্মস্থলে অভিজ্ঞ পথপ্রদর্শক",
+          "en": "Mentor"
+        },
+        {
+          "bn": "অনুশীলনের নিয়ম ও মান",
+          "en": "Guidelines"
+        },
+        {
+          "bn": "ভয়হীন",
+          "en": "Non-threatening"
+        }
+      ],
+      "oneLine": "Provide practice opportunities so that learning of the skills or task is maximised.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Providing Practice Opportunities",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "SOLER",
+        "Body language",
+        "Your voice",
+        "Relaxed and confident presentation"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "presentation-voice-body-language",
+      "keywords": [
+        {
+          "bn": "শরীরের ভাষা: ভঙ্গি, চোখ, হাত",
+          "en": "Body language"
+        },
+        {
+          "bn": "চোখে চোখ রাখা",
+          "en": "Eye contact"
+        },
+        {
+          "bn": "দাঁড়ানো বা বসার ভঙ্গি",
+          "en": "Posture"
+        },
+        {
+          "bn": "কণ্ঠের উঁচু-নিচু সুর",
+          "en": "Pitch"
+        },
+        {
+          "bn": "দুশ্চিন্তা, নার্ভাস লাগা",
+          "en": "Anxiety"
+        }
+      ],
+      "oneLine": "Being relaxed communicates that you are comfortable and have good subject knowledge.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Relaxed Presentation: Voice and Body Language (SOLER)",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Principles of learning",
+        "Basic principles that underlie effective learning",
+        "How students learn"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "principles-of-learning",
+      "keywords": [
+        {
+          "bn": "আগের জানা জ্ঞান",
+          "en": "Prior knowledge"
+        },
+        {
+          "bn": "শেখার আগ্রহ ও তাগিদ",
+          "en": "Motivation"
+        },
+        {
+          "bn": "সক্রিয়ভাবে অংশ নেওয়া",
+          "en": "Active engagement"
+        },
+        {
+          "bn": "কোনো কাজে পুরো দক্ষ হওয়া",
+          "en": "Mastery"
+        },
+        {
+          "bn": "কাজের ওপর মতামত, কোথায় ভালো কোথায় উন্নতি দরকার",
+          "en": "Feedback"
+        },
+        {
+          "bn": "পুরো মানুষ হিসেবে: মন, আবেগ, সমাজ সব মিলিয়ে",
+          "en": "Holistically"
+        }
+      ],
+      "oneLine": "Eight basic principles underlie effective learning.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Eight Principles of Learning",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Questioning skills and techniques",
+        "Types of questions",
+        "Open and closed questions",
+        "Types of questions to avoid"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "questioning-techniques",
+      "keywords": [
+        {
+          "bn": "খোলা প্রশ্ন, যার উত্তর হ্যাঁ/না নয়",
+          "en": "Open question"
+        },
+        {
+          "bn": "বন্ধ প্রশ্ন, উত্তর সাধারণত Yes বা No",
+          "en": "Closed question"
+        },
+        {
+          "bn": "আরও গভীরে জানতে পরের প্রশ্ন",
+          "en": "Probing question"
+        },
+        {
+          "bn": "যে প্রশ্ন নিজেই উত্তরের দিকে ঠেলে দেয়",
+          "en": "Leading question"
+        },
+        {
+          "bn": "তথ্য মনে আছে কিনা যাচাইয়ের প্রশ্ন",
+          "en": "Factual question"
+        }
+      ],
+      "oneLine": "A facilitator can use seven main question types, each with a different purpose.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Seven Question Types for Facilitators",
+      "types": []
+    },
+    {
+      "aliases": [
+        "How do I select appropriate techniques?",
+        "Selecting a delivery method",
+        "Choosing learning activities"
+      ],
+      "asked": 1,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": false,
+      "id": "selecting-delivery-techniques",
+      "keywords": [
+        {
+          "bn": "শেখানোর পদ্ধতি বা কৌশল",
+          "en": "Technique"
+        },
+        {
+          "bn": "কীভাবে শেখানো হবে",
+          "en": "Delivery method"
+        },
+        {
+          "bn": "সেশন শেষে learners কী পারবে",
+          "en": "Session outcomes"
+        },
+        {
+          "bn": "শেখার কাজ",
+          "en": "Activity"
+        },
+        {
+          "bn": "দলে কতজন",
+          "en": "Group size"
+        }
+      ],
+      "oneLine": "When selecting a delivery method, use a list of questions to help decide.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Selecting Appropriate Delivery Techniques",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Self evaluation",
+        "Self evaluation or reflection",
+        "Self evaluation template"
+      ],
+      "asked": 1,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "self-evaluation-trainer",
+      "keywords": [
+        {
+          "bn": "নিজের কাজ নিজে মূল্যায়ন",
+          "en": "Self evaluation"
+        },
+        {
+          "bn": "নিজের কাজ নিয়ে গভীরভাবে ভাবা",
+          "en": "Reflection"
+        },
+        {
+          "bn": "চোখে দেখা যায় বা মাপা যায় এমন",
+          "en": "Tangible"
+        },
+        {
+          "bn": "মাপা যায় না, অনুভবের বিষয়",
+          "en": "Intangible"
+        },
+        {
+          "bn": "মনের ভেতরের তাৎক্ষণিক অনুভূতি",
+          "en": "Gut reaction"
+        }
+      ],
+      "oneLine": "Self evaluation is a productive exercise to improve your teaching/training performance.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Self Evaluation of Training Performance",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Demonstration",
+        "Do it normal, do it slow, do it together, off you go",
+        "Demonstrating a skill"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "skill-demonstration",
+      "keywords": [
+        {
+          "bn": "হাতে-কলমে করে দেখানো",
+          "en": "Demonstration"
+        },
+        {
+          "bn": "কাজের স্বাভাবিক গতি",
+          "en": "Normal speed"
+        },
+        {
+          "bn": "গুরুত্বপূর্ণ জায়গা যেখানে খেয়াল রাখতে হয়",
+          "en": "Checkpoints"
+        },
+        {
+          "bn": "শুরুর আগে সংক্ষেপে বলা কী হবে",
+          "en": "Preview"
+        },
+        {
+          "bn": "কাজের ওপর মতামত",
+          "en": "Feedback"
+        }
+      ],
+      "oneLine": "Demonstration is a display by the teacher of how something is done or works.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Steps of a Skill Demonstration",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Role for students in CBT",
+        "Students' role in competency based training"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "student-role-in-cbt",
+      "keywords": [
+        {
+          "bn": "নিজের গতি",
+          "en": "Own rate"
+        },
+        {
+          "bn": "আগে জানা দক্ষতার স্বীকৃতি",
+          "en": "Credit"
+        },
+        {
+          "bn": "কাজে পুরো দক্ষতা",
+          "en": "Mastery"
+        },
+        {
+          "bn": "আগে ঠিক করা কাজের মান",
+          "en": "Preset job standards"
+        },
+        {
+          "bn": "অগ্রগতি",
+          "en": "Progress"
+        }
+      ],
+      "oneLine": "In a CBT system, students select modules/UoC and learn at their own rate.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Role of Students in a CBT System",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Things to avoid",
+        "Traits of a less effective teacher"
+      ],
+      "asked": 1,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "trainer-things-to-avoid",
+      "keywords": [
+        {
+          "bn": "ছোট করে দেখা, তাচ্ছিল্য করে কথা বলা",
+          "en": "Patronising"
+        },
+        {
+          "bn": "অপ্রাসঙ্গিক কথা বলা, মূল বিষয়ে না থাকা",
+          "en": "Waffling"
+        },
+        {
+          "bn": "শুধু trainer বলে, learners কিছু বলে না",
+          "en": "One-way communication"
+        },
+        {
+          "bn": "অন্যের অবস্থা বুঝতে পারা",
+          "en": "Empathy"
+        },
+        {
+          "bn": "না জেনে ধরে নেওয়া",
+          "en": "Assumptions"
+        }
+      ],
+      "oneLine": "Things to avoid are traits of a less effective teacher, like being poorly prepared.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Things a TVET Trainer Should Avoid",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Roles of a competent TVET trainer",
+        "Effective TVET teacher/trainer",
+        "Prepare, deliver and review"
+      ],
+      "asked": 1,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "tvet-trainer-role",
+      "keywords": [
+        {
+          "bn": "প্রস্তুতি নেওয়া",
+          "en": "Prepare"
+        },
+        {
+          "bn": "ক্লাসে শেখানো",
+          "en": "Deliver"
+        },
+        {
+          "bn": "পরে যাচাই করা",
+          "en": "Review"
+        },
+        {
+          "bn": "উন্নতির জন্য গঠনমূলক মতামত",
+          "en": "Constructive feedback"
+        },
+        {
+          "bn": "শেখার পছন্দের ধরন",
+          "en": "Learning styles"
+        }
+      ],
+      "oneLine": "An effective TVET teacher/trainer will prepare, deliver and review.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Role of a Competent TVET Teacher/Trainer",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Variety in delivery",
+        "Why do I need to provide variety in the way I deliver my learning sessions?"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "variety-in-delivery",
+      "keywords": [
+        {
+          "bn": "বৈচিত্র্য, নানা রকম পদ্ধতি",
+          "en": "Variety"
+        },
+        {
+          "bn": "শেখার পছন্দের ধরন",
+          "en": "Learning styles"
+        },
+        {
+          "bn": "শেখার ক্ষেত্র: head, heart, hands",
+          "en": "Learning domains"
+        },
+        {
+          "bn": "গতি",
+          "en": "Pace"
+        },
+        {
+          "bn": "আগে থেকেই জানা, একঘেয়ে",
+          "en": "Predictable"
+        }
+      ],
+      "oneLine": "Provide variety in delivering sessions, because we are all different.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Why Provide Variety in Delivering Sessions",
+      "types": []
+    },
+    {
+      "aliases": [
+        "VARK model",
+        "Learning styles",
+        "Senses and learning styles",
+        "Visual, Aural, Read/write, Kinaesthetic"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "vark-learning-styles",
+      "keywords": [
+        {
+          "bn": "শেখার পছন্দের ধরন",
+          "en": "Learning style"
+        },
+        {
+          "bn": "চোখে দেখে শেখা",
+          "en": "Visual"
+        },
+        {
+          "bn": "কানে শুনে শেখা",
+          "en": "Aural"
+        },
+        {
+          "bn": "পড়ে ও লিখে শেখা",
+          "en": "Read / Write"
+        },
+        {
+          "bn": "হাতে ধরে, করে করে শেখা",
+          "en": "Kinaesthetic"
+        }
+      ],
+      "oneLine": "VARK is the most commonly used model of a person's learning style preferences.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "VARK Learning Styles",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Instructional videos and video clips",
+        "Areas where video is excellent",
+        "Video camera as a tool"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "video-in-training",
+      "keywords": [
+        {
+          "bn": "ভিডিও, চলমান ছবি ও শব্দ",
+          "en": "Video"
+        },
+        {
+          "bn": "আগে থেকে বানানো ভিডিও",
+          "en": "Prepared program"
+        },
+        {
+          "bn": "ক্লাসে দেখানোর আগে নিজে দেখে নেওয়া",
+          "en": "Preview"
+        },
+        {
+          "bn": "মনোভাব, আচরণের ধরন",
+          "en": "Attitude"
+        },
+        {
+          "bn": "ভিডিওর পরে আলোচনা বা কাজ",
+          "en": "Follow up activity"
+        }
+      ],
+      "oneLine": "Training video has two aspects: watching prepared programs and using the camera as a tool.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Using Video in Training",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Using whiteboards",
+        "Blackboards and whiteboards",
+        "General guidelines for using boards"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": true,
+      "id": "whiteboard-guidelines",
+      "keywords": [
+        {
+          "bn": "সাদা বোর্ড, মার্কার দিয়ে লেখা হয়",
+          "en": "Whiteboard"
+        },
+        {
+          "bn": "কালো বোর্ড, চক দিয়ে লেখা হয়",
+          "en": "Blackboard"
+        },
+        {
+          "bn": "একসাথে বোর্ডে লেখা আর কথা বলা",
+          "en": "Chalk and talk"
+        },
+        {
+          "bn": "হাতে দেওয়া লিখিত কাগজ",
+          "en": "Handout"
+        },
+        {
+          "bn": "যে কিছু রং আলাদা করে চিনতে পারে না",
+          "en": "Colour blind"
+        }
+      ],
+      "oneLine": "The most common and versatile learning resource is a whiteboard or blackboard.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Guidelines for Using Blackboards and Whiteboards",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Why review?",
+        "Reasons to review your training delivery"
+      ],
+      "asked": 1,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": false,
+      "id": "why-review-training-delivery",
+      "keywords": [
+        {
+          "bn": "পুনরায় যাচাই",
+          "en": "Review"
+        },
+        {
+          "bn": "অন্যদের সাথে তুলনা করে মান দেখা",
+          "en": "Benchmark"
+        },
+        {
+          "bn": "কাজের নিয়ম ও ধাপ",
+          "en": "Procedures"
+        },
+        {
+          "bn": "প্রাসঙ্গিক, এখনও কাজে লাগে",
+          "en": "Relevant"
+        },
+        {
+          "bn": "মান",
+          "en": "Quality"
+        }
+      ],
+      "oneLine": "Review training delivery to improve processes and check standards are up to date.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Why Review Training Delivery",
       "types": [
         "short"
       ]
@@ -3076,6 +5982,7 @@
       "asked": 4,
       "cblmPrimary": 12,
       "cblms": [
+        2,
         12
       ],
       "highlighted": true,
@@ -3107,12 +6014,13 @@
         }
       ],
       "oneLine": "Adjustment strategies are possible ways of adjusting the assessment process for candidate groups.",
-      "score": 11,
+      "score": 12,
       "sourceType": "cblm",
       "stars": 3,
       "status": "draft",
       "title": "Adjustment Strategies for Candidate Groups",
       "types": [
+        "mcq",
         "short"
       ]
     },
@@ -3520,9 +6428,9 @@
         }
       ],
       "oneLine": "The feedback sandwich is Kiss, Kick, Kiss: positive point, area to improve, encouraging statement.",
-      "score": 7,
+      "score": 9,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "Feedback and the Feedback Sandwich",
       "types": [
@@ -3760,6 +6668,7 @@
       "asked": 5,
       "cblmPrimary": 12,
       "cblms": [
+        2,
         11,
         12
       ],
@@ -3788,12 +6697,13 @@
         }
       ],
       "oneLine": "Reasonable adjustments ensure all people are treated equally, without compromising the competency standards.",
-      "score": 14,
+      "score": 15,
       "sourceType": "cblm",
       "stars": 3,
       "status": "draft",
       "title": "Reasonable Adjustment",
       "types": [
+        "mcq",
         "short"
       ]
     },
@@ -4023,5 +6933,5 @@
       ]
     }
   ],
-  "contentVersion": "4a5c555a4e73"
+  "contentVersion": "5d8293ba5024"
 }

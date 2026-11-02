@@ -1,0 +1,164 @@
+{
+  "id": "client-focused-approach",
+  "canonical_title": "Client-Focused Approach of a TVET Teacher",
+  "aliases": [
+    "Client focus approaches of TVET teachers",
+    "Maintain client focused approach",
+    "Client-focused approach"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p46-8334918d",
+    "cblm01-p46-e8169582",
+    "cblm01-p46-59e221a4",
+    "cblm01-p48-749bc367"
+  ],
+  "questions": [
+    "cblm01-sc3-q3",
+    "paper-unit01-short-q3",
+    "paper-unit01-short-q11",
+    "paper-unit01-short-q16",
+    "paper-unit01-mcq-q16",
+    "paper-unit01-answer-q16"
+  ],
+  "one_line_answer": {
+    "text": "A TVET teacher needs to demonstrate a client-focused approach to work.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm01", "page": 46, "quote": "A teacher in TVET institute needs to demonstrate a client-focused approach to your" },
+      { "src": "cblm01", "page": 46, "quote": "work, and this will involve:" }
+    ]
+  },
+  "keywords": [
+    { "en": "Client", "bn": "যারা আমাদের সেবা নেয় (যেমন learner, industry)" },
+    { "en": "Needs and expectations", "bn": "প্রয়োজন ও প্রত্যাশা" },
+    { "en": "Communication strategies", "bn": "যোগাযোগের কৌশল" },
+    { "en": "Client satisfaction", "bn": "ক্লায়েন্টের সন্তুষ্টি" }
+  ],
+  "bangla_explanation": [
+    "Client focus মানে আমার কাজের ভিত্তি হবে client-এর needs আর expectations।",
+    "Client-এর সাথে সম্পর্ক ধরে রাখতে effective communication strategies লাগে।",
+    "Client satisfaction মাপা ও বাড়ানোর জন্য processes থাকতে হবে।",
+    "পরীক্ষায় তিনটা বিষয় হুবহু লিখলেই পূর্ণ নম্বর পাওয়া যায়।"
+  ],
+  "example": {
+    "en": "A driving trainer asks learners what they need. He changes class times and then checks if they are satisfied.",
+    "bn": "Learners কী চায় জেনে class সাজানো, পরে satisfaction যাচাই করা।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "ensuring the needs and expectations of clients form the basis for your work practices",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 46, "quote": "ensuring the needs and expectations of clients form the basis for your work practices", "passageId": "cblm01-p46-8334918d" }
+        ]
+      },
+      {
+        "text": "developing effective communication strategies to maintain client relationships",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 46, "quote": "developing effective communication strategies to maintain client relationships", "passageId": "cblm01-p46-e8169582" }
+        ]
+      },
+      {
+        "text": "developing processes to evaluate and improve client satisfaction",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 46, "quote": "developing processes to evaluate and improve client satisfaction", "passageId": "cblm01-p46-59e221a4" }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Adopting client focus approach is one of the four workplace issues a teacher maintains.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 49, "quote": "A teacher needs to maintain the below listed workplace issues to work efficiently:" },
+        { "src": "cblm01", "page": 49, "quote": "adopting client focus approach" }
+      ]
+    },
+    {
+      "text": "Client needs and expectations are met within the operational limits of your organisation.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 47, "quote": "While you must do everything within your power to ensure these needs and" },
+        { "src": "cblm01", "page": 47, "quote": "expectation are met, you can only do so within the operational limits of your training" },
+        { "src": "cblm01", "page": 47, "quote": "and/or assessment organisation" }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the client focus approaches of TVET teachers?",
+      "modelAnswer": "A teacher in a TVET institute needs to demonstrate a client-focused approach. This involves:\n1. Ensuring the needs and expectations of clients form the basis for your work practices\n2. Developing effective communication strategies to maintain client relationships\n3. Developing processes to evaluate and improve client satisfaction",
+      "keyPoints": [
+        {
+          "text": "Clients' needs and expectations form the basis for your work practices.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 46, "quote": "ensuring the needs and expectations of clients form the basis for your work practices" }
+          ]
+        },
+        {
+          "text": "Effective communication strategies maintain client relationships.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 46, "quote": "developing effective communication strategies to maintain client relationships" }
+          ]
+        },
+        {
+          "text": "Processes evaluate and improve client satisfaction.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 46, "quote": "developing processes to evaluate and improve client satisfaction" }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is part of a TVET teacher's client-focused approach?",
+      "options": [
+        "Developing processes to evaluate and improve client satisfaction",
+        "Allocating time to avoid scheduling conflicts",
+        "Breaking project requirements down into tasks",
+        "Collecting and organizing information for research"
+      ],
+      "answerIndex": 0,
+      "answerCite": { "src": "cblm01", "page": 46, "quote": "developing processes to evaluate and improve client satisfaction" }
+    },
+    "matching": {
+      "prompt": "Match each part of the client-focused approach with its purpose.",
+      "pairs": [
+        {
+          "left": "Needs and expectations of clients",
+          "right": "Basis for your work practices",
+          "cite": { "src": "cblm01", "page": 46, "quote": "ensuring the needs and expectations of clients form the basis for your work practices" }
+        },
+        {
+          "left": "Effective communication strategies",
+          "right": "Maintain client relationships",
+          "cite": { "src": "cblm01", "page": 46, "quote": "developing effective communication strategies to maintain client relationships" }
+        },
+        {
+          "left": "Processes to evaluate",
+          "right": "Improve client satisfaction",
+          "cite": { "src": "cblm01", "page": 46, "quote": "developing processes to evaluate and improve client satisfaction" }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What forms the basis for a TVET teacher's work practices?",
+      "answer": {
+        "text": "The needs and expectations of clients form the basis for work practices.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 46, "quote": "ensuring the needs and expectations of clients form the basis for your work practices" }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

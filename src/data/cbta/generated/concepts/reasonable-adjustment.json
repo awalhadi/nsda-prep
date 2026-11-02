@@ -5,6 +5,16 @@
   ],
   "appearsIn": [
     {
+      "cblm": 2,
+      "pages": [
+        {
+          "pdf": 12,
+          "printed": 12
+        }
+      ],
+      "src": "cblm02"
+    },
+    {
       "cblm": 11,
       "pages": [
         {
@@ -50,7 +60,7 @@
   "breakdown": {
     "exam": 9,
     "highlight": 3,
-    "repeat": 2
+    "repeat": 3
   },
   "cblmPrimary": 12,
   "errata": [],
@@ -61,8 +71,8 @@
   "highlighted": true,
   "id": "reasonable-adjustment",
   "importance": {
-    "bn": "Final Formative 01 (Short 22), CBT&A L4 Written Test — Inclusivity & Maintenance (Short 3), Short Questions (Short 6, 8) আর CBLM 12 Self Check 1 (Q3): 4 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
-    "en": "Asked in Final Formative 01 (Short 22), CBT&A L4 Written Test — Inclusivity & Maintenance (Short 3), Short Questions (Short 6, 8) and CBLM 12 Self Check 1 (Q3). Highlighted in CBLM 12. Comes as short question."
+    "bn": "Final Formative 01 (Short 22), CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 3), Short Questions (Short 6, 8) আর CBLM 12 Self Check 1 (Q3): 4 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Final Formative 01 (Short 22), CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 3), Short Questions (Short 6, 8) and CBLM 12 Self Check 1 (Q3). Highlighted in CBLM 12. Comes as MCQ and short question."
   },
   "keywords": [
     {
@@ -87,6 +97,7 @@
     }
   ],
   "likelyTypes": [
+    "mcq",
     "short"
   ],
   "listAnswer": {
@@ -608,19 +619,25 @@
       "type": "short"
     },
     {
-      "answer": "It is also important to acknowledge, respect and value clients with particular needs, including:\nWomen where under represented\nPeople with low literacy, numeracy\nPeople with disability\nRural and remote learners\nYouth at risk",
-      "answerIndex": null,
+      "answer": null,
+      "answerIndex": 3,
       "answerLetter": null,
       "flags": [],
-      "id": "paper-written-inclusivity-maintenance-q3",
+      "id": "paper-written-inclusivity-maintenance-mcq-q3",
       "kind": "paper",
-      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (Short 3)",
-      "page": 3,
+      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 3)",
+      "options": [
+        "Consideration on the candidate's language, literacy, numeric capability",
+        "Adjustment to the physical environment or venue",
+        "Offering materials in alternate formats",
+        "Read printed information and give the answer to the candidate."
+      ],
+      "page": 1,
       "paperClass": "official",
       "printedPage": null,
-      "question": "What do you understand by 'clients with particular needs'?",
+      "question": "Which of these is NOT considered a form of reasonable adjustment?",
       "src": "paper-written-inclusivity-maintenance",
-      "type": "short"
+      "type": "mcq"
     },
     {
       "answer": "Any five: language, literacy or numeracy needs; physical or\nintellectual disability; learning progress; mental or psychological condition; prior\neducation and experience; religious or cultural considerations; age, gender,\nmotivation or location.",
@@ -653,7 +670,7 @@
       "type": "short"
     }
   ],
-  "score": 14,
+  "score": 15,
   "sourceType": "cblm",
   "stars": 3,
   "status": "draft",
@@ -691,5 +708,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 1
+  "warnings": 2
 }

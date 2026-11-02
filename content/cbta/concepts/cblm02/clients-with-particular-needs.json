@@ -1,0 +1,329 @@
+{
+  "id": "clients-with-particular-needs",
+  "canonical_title": "Clients with Particular Needs",
+  "aliases": [
+    "What do you understand by 'clients with particular needs'?",
+    "Providing support for special needs"
+  ],
+  "cblmPrimary": 2,
+  "source_type": "cblm",
+  "covers": [
+    "cblm02-p7-db55c7b9"
+  ],
+  "questions": [
+    "cblm02-sc1-q3",
+    "paper-written-inclusivity-maintenance-short-q3",
+    "paper-written-inclusivity-maintenance-mcq-q1"
+  ],
+  "one_line_answer": {
+    "text": "Clients with particular needs include people with disability; acknowledge, respect and value them.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm02",
+        "page": 7,
+        "quote": "It is also important to acknowledge, respect and value clients with particular needs,",
+        "passageId": "cblm02-p7-db55c7b9"
+      },
+      {
+        "src": "cblm02",
+        "page": 7,
+        "quote": "People with disability"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Clients with particular needs",
+      "bn": "বিশেষ চাহিদাসম্পন্ন client বা learner"
+    },
+    {
+      "en": "Under represented",
+      "bn": "যেখানে সংখ্যায় কম, প্রতিনিধিত্ব কম"
+    },
+    {
+      "en": "Rural and remote",
+      "bn": "গ্রাম ও দূরবর্তী এলাকা"
+    },
+    {
+      "en": "Youth at risk",
+      "bn": "ঝুঁকিতে থাকা তরুণ"
+    },
+    {
+      "en": "Special needs",
+      "bn": "বিশেষ প্রয়োজন"
+    }
+  ],
+  "bangla_explanation": [
+    "কিছু clients-এর বিশেষ চাহিদা থাকে; তাদের আলাদা করে সম্মান ও support দিতে হয়।",
+    "তালিকায় পাঁচটা দল: women (where under represented), low literacy, disability, rural and remote, youth at risk।",
+    "শুধু 'women' লিখবেন না; লিখুন 'women where under represented'।",
+    "এদের জন্য physical environment adjustments, more time আর বাড়তি support লাগতে পারে।"
+  ],
+  "example": {
+    "en": "A welding course has few women and some learners from remote char areas. The centre gives them more time and support.",
+    "bn": "Welding course-এ নারী কম, আর কিছু learner চর এলাকা থেকে আসে; তাদের more time ও support দেওয়া হয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Women where under represented",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 7,
+            "quote": "Women where under represented"
+          }
+        ]
+      },
+      {
+        "text": "People with low literacy, numeracy",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 7,
+            "quote": "People with low literacy, numeracy"
+          }
+        ]
+      },
+      {
+        "text": "People with disability",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 7,
+            "quote": "People with disability"
+          }
+        ]
+      },
+      {
+        "text": "Rural and remote learners",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 7,
+            "quote": "Rural and remote learners"
+          }
+        ]
+      },
+      {
+        "text": "Youth at risk",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 7,
+            "quote": "Youth at risk"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Women are clients with particular needs only where under represented.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm02",
+          "page": 7,
+          "quote": "Women where under represented"
+        },
+        {
+          "src": "cblm02",
+          "page": 7,
+          "quote": "It is also important to acknowledge, respect and value clients with particular needs,"
+        }
+      ]
+    },
+    {
+      "text": "Official test MCQ answer for clients with particular needs: Disability.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "paper-written-inclusivity-maintenance",
+          "page": 5,
+          "quote": "Part A: MCQ Answers"
+        },
+        {
+          "src": "paper-written-inclusivity-maintenance",
+          "page": 5,
+          "quote": "D) Disability"
+        },
+        {
+          "src": "cblm02",
+          "page": 7,
+          "quote": "It is also important to acknowledge, respect and value clients with particular needs,"
+        }
+      ]
+    },
+    {
+      "text": "Clients with particular needs is not the same list as individual differences.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm02",
+          "page": 7,
+          "quote": "It is also important to acknowledge, respect and value clients with particular needs,"
+        },
+        {
+          "src": "cblm02",
+          "page": 7,
+          "quote": "respect and value individual differences, and these differences may include:"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What do you understand by 'clients with particular needs'?",
+      "modelAnswer": "Clients with particular needs are clients we must acknowledge, respect and value. They include:\n1. Women where under represented\n2. People with low literacy, numeracy\n3. People with disability\n4. Rural and remote learners\n5. Youth at risk\nThey may need physical environment adjustments, adjusted activities and more time or support.",
+      "keyPoints": [
+        {
+          "text": "It is important to acknowledge, respect and value clients with particular needs.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 7,
+              "quote": "It is also important to acknowledge, respect and value clients with particular needs,"
+            }
+          ]
+        },
+        {
+          "text": "Support for special needs includes physical environment adjustments.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 7,
+              "quote": "Providing support for special needs;"
+            },
+            {
+              "src": "cblm02",
+              "page": 7,
+              "quote": "physical environment adjustments"
+            }
+          ]
+        },
+        {
+          "text": "Support includes adjustments to learning and assessment activities.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 7,
+              "quote": "Providing support for special needs;"
+            },
+            {
+              "src": "cblm02",
+              "page": 7,
+              "quote": "adjustments to learning and assessment activities"
+            }
+          ]
+        },
+        {
+          "text": "More time/additional support to learners",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 7,
+              "quote": "more time/additional support to learners"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which group is listed as clients with particular needs?",
+      "options": [
+        "People with disability",
+        "Trainers with long experience",
+        "Learners with high marks",
+        "Industry experts"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm02",
+        "page": 7,
+        "quote": "People with disability"
+      }
+    },
+    "matching": {
+      "prompt": "Complete each group of clients with particular needs.",
+      "pairs": [
+        {
+          "left": "Women",
+          "right": "where under represented",
+          "cite": {
+            "src": "cblm02",
+            "page": 7,
+            "quote": "Women where under represented"
+          }
+        },
+        {
+          "left": "Youth",
+          "right": "at risk",
+          "cite": {
+            "src": "cblm02",
+            "page": 7,
+            "quote": "Youth at risk"
+          }
+        },
+        {
+          "left": "Rural and remote",
+          "right": "learners",
+          "cite": {
+            "src": "cblm02",
+            "page": 7,
+            "quote": "Rural and remote learners"
+          }
+        },
+        {
+          "left": "People with low",
+          "right": "literacy, numeracy",
+          "cite": {
+            "src": "cblm02",
+            "page": 7,
+            "quote": "People with low literacy, numeracy"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Name three clients with particular needs.",
+      "answer": {
+        "text": "People with disability, rural and remote learners, and youth at risk.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 7,
+            "quote": "People with disability"
+          },
+          {
+            "src": "cblm02",
+            "page": 7,
+            "quote": "Rural and remote learners"
+          },
+          {
+            "src": "cblm02",
+            "page": 7,
+            "quote": "Youth at risk"
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "traps[1]",
+      "note": "Official paper MCQ 1 (p.1, key p.5) offers Women / Young / Man / Disability and keys 'Disability'. CBLM 2 p.7 also lists 'Women where under represented' and 'Youth at risk', so Women and Young are partly correct too. Card teaches the full CBLM list and shows the key as a trap. MCQ 1 itself cannot be mapped: its id is the same as Short 1 in the evidence."
+    }
+  ]
+}

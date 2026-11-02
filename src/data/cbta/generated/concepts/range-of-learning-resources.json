@@ -17,6 +17,20 @@
         }
       ],
       "src": "cblm08"
+    },
+    {
+      "cblm": 10,
+      "pages": [
+        {
+          "pdf": 8,
+          "printed": 8
+        },
+        {
+          "pdf": 22,
+          "printed": 22
+        }
+      ],
+      "src": "cblm10"
     }
   ],
   "banglaExplanation": [
@@ -26,9 +40,9 @@
     "শুকনো whiteboard markers নিয়ে ক্লাসে গেলে পুরো session নষ্ট হতে পারে।"
   ],
   "breakdown": {
-    "exam": 0,
+    "exam": 2,
     "highlight": 3,
-    "repeat": 1
+    "repeat": 2
   },
   "cblmPrimary": 8,
   "errata": [],
@@ -39,8 +53,8 @@
   "highlighted": true,
   "id": "range-of-learning-resources",
   "importance": {
-    "bn": "CBLM 8-এ highlight করা আছে।",
-    "en": "Highlighted in CBLM 8."
+    "bn": "CBLM 10 Self Check 1 (Q3)-এ এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in CBLM 10 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question."
   },
   "keywords": [
     {
@@ -64,7 +78,9 @@
       "en": "Whiteboard markers"
     }
   ],
-  "likelyTypes": [],
+  "likelyTypes": [
+    "short"
+  ],
   "listAnswer": {
     "declaredCount": null,
     "items": [
@@ -532,8 +548,21 @@
       "prompt": "Why should a trainer check consumables before a session?"
     }
   },
-  "realQuestions": [],
-  "score": 4,
+  "realQuestions": [
+    {
+      "answer": "•\nOverhead projector and transparencies\n•\nInternet / web based resources\n•\nmultimedia / data projector\n•\nslides - power point presentation\n•\nVideo / CD / DVD\n•\nFilm\n•\nBlackboard / whiteboard\n•\nCharts and posters\n•\nHandouts\n•\nCompetency Based Training and Assessment resources / guides\n•\nRead Information Sheet 1 and be clear about the requirements of a CBT shop.\n•\nDesign your training areas that must be suitable for learning the units of\ncompetencies of your trade/qualification (with emphasis on the unit of\ncompetency that you selected).\n•\nUse the blank CBT Shop Lay-out template (Specification Sheet 1) and\nincorporate all the nine (9) areas in your lay-out necessary to train your students\n•\nEvaluate your design based on the factors mentioned in Information Sheet 1.",
+      "flags": [],
+      "id": "cblm10-sc1-q3",
+      "kind": "selfcheck",
+      "label": "CBLM 10 Self Check 1 (Q3)",
+      "page": 21,
+      "printedPage": 21,
+      "question": "List the name of ten training resources use in CBT class room.",
+      "src": "cblm10",
+      "type": "short"
+    }
+  ],
+  "score": 7,
   "sourceType": "cblm",
   "stars": 2,
   "status": "draft",
@@ -595,8 +624,50 @@
       ],
       "fidelity": "paraphrase",
       "text": "Using a computer or equipment? Ensure the associated consumables are available."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 8,
+          "printedPage": 8,
+          "quote": "Computer training packages",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        },
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 8,
+          "printedPage": 8,
+          "quote": "Blackboard / whiteboard",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        },
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 8,
+          "printedPage": 8,
+          "quote": "Tape recorders / Video recorders",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        },
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 22,
+          "printedPage": 22,
+          "quote": "Film Blackboard / whiteboard",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "CBLM 10 also lists film, blackboard, computer training packages and tape or video recorders."
     }
   ],
   "vivaDerived": true,
-  "warnings": 0
+  "warnings": 1
 }

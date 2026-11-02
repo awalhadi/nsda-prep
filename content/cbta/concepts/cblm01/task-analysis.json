@@ -1,0 +1,183 @@
+{
+  "id": "task-analysis",
+  "canonical_title": "Task Analysis for a Learning Session",
+  "aliases": [
+    "Task analysis",
+    "Purpose of task analysis in CBT",
+    "Points to consider when carrying out a task analysis"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p23-8dc41114",
+    "cblm01-p23-c97f837f"
+  ],
+  "questions": [
+    "paper-unit01-short-q19",
+    "paper-short-questions-q33"
+  ],
+  "one_line_answer": {
+    "text": "Task analysis means breaking a complex process down into a series of simple steps.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm01", "page": 23, "quote": "Task analysis involves taking a complex process and breaking it down into a series of simple steps to complete the task successfully." }
+    ]
+  },
+  "keywords": [
+    { "en": "Task analysis", "bn": "একটা কাজকে ছোট ছোট ধাপে ভাগ করা" },
+    { "en": "Real work practice", "bn": "বাস্তব কাজের হাতে-কলমে দক্ষতা" },
+    { "en": "Key information", "bn": "জরুরি তথ্য" },
+    { "en": "Safety", "bn": "নিরাপত্তা" },
+    { "en": "Graphical aids", "bn": "ছবি, ডায়াগ্রাম" }
+  ],
+  "bangla_explanation": [
+    "Session-এর content ঠিক করতে trainer কাজটাকে ছোট ছোট steps-এ ভাগ করেন।",
+    "এতে বোঝা যায় learners-কে কোন practical skills আর কোন key information শেখাতে হবে।",
+    "Safety সবসময় সংশ্লিষ্ট step-এর আগে বলতে হয়, যেমন kettle ধরার আগে গরম পানির বিপদ।",
+    "Trainer-এর কাছে কাজটা সহজ মনে হলেও learners-এর কাছে নতুন; তাই assumptions করবেন না।"
+  ],
+  "example": {
+    "en": "A trainer teaches how to make a cup of tea. He lists every step and warns about hot water first.",
+    "bn": "চা বানানো শেখাতে প্রতিটা step লিখুন; গরম পানির safety আগে বলুন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Safety: it must happen before the related step occurs.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 23, "quote": "safety (must happen before the related step occurs", "passageId": "cblm01-p23-c97f837f" }
+        ]
+      },
+      {
+        "text": "Quality: will the task be carried out to a required standard?",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 23, "quote": "quality (will the task be carried out to a required standard?)" }
+        ]
+      },
+      {
+        "text": "Include the appropriate amount of detail, not too much or too little.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 23, "quote": "include the appropriate amount of detail (not too much or too little)" }
+        ]
+      },
+      {
+        "text": "Use simple language.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 23, "quote": "use simple language" }
+        ]
+      },
+      {
+        "text": "Include hints and tips to make the task easier.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 23, "quote": "include hints and tips to make the task easier" }
+        ]
+      },
+      {
+        "text": "Use graphical aids that increase understanding, such as diagrams and photos.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 23, "quote": "use any graphical aids that increase understanding (diagrams, photos, etc)." }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Discuss safety aspects of hot water before they pick up the kettle.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 23, "quote": "discuss safety aspects of hot water before they pick up the kettle" }
+      ]
+    },
+    {
+      "text": "A trainer must not make assumptions about what learners already know.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 23, "quote": "A trainer needs to make sure that he does not make assumptions about what they already know." }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is the purpose of conducting a task analysis in CBT? What should a trainer consider?",
+      "modelAnswer": "Task analysis breaks a complex process into simple steps. It identifies:\n1. the real work practice (practical skills), and\n2. key or necessary information required to meet the session learning outcomes.\nPoints to consider: safety, quality, appropriate detail, simple language, hints and tips, and graphical aids.",
+      "keyPoints": [
+        {
+          "text": "Task analysis identifies the real work practice (practical skills).",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 23, "quote": "a task analysis is carried out to identify:", "passageId": "cblm01-p23-8dc41114" },
+            { "src": "cblm01", "page": 23, "quote": "the real work practice (practical skills), and" }
+          ]
+        },
+        {
+          "text": "It identifies key or necessary information to meet the session learning outcomes.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 23, "quote": "key or necessary information required to meet the session learning outcomes." }
+          ]
+        },
+        {
+          "text": "Session content needs to reflect the learning outcomes and assessment criteria.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 23, "quote": "The content of a learning session needs to reflect the learning outcomes and assessment criteria." }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "In a task analysis, when should safety be discussed?",
+      "options": [
+        "Before the related step occurs",
+        "After the whole task is finished",
+        "Only during the final assessment",
+        "Only if a learner asks"
+      ],
+      "answerIndex": 0,
+      "answerCite": { "src": "cblm01", "page": 23, "quote": "safety (must happen before the related step occurs" }
+    },
+    "matching": {
+      "prompt": "Match each task analysis point with its meaning.",
+      "pairs": [
+        {
+          "left": "Safety",
+          "right": "Must happen before the related step occurs",
+          "cite": { "src": "cblm01", "page": 23, "quote": "safety (must happen before the related step occurs" }
+        },
+        {
+          "left": "Quality",
+          "right": "Task carried out to a required standard",
+          "cite": { "src": "cblm01", "page": 23, "quote": "quality (will the task be carried out to a required standard?)" }
+        },
+        {
+          "left": "Amount of detail",
+          "right": "Not too much or too little",
+          "cite": { "src": "cblm01", "page": 23, "quote": "include the appropriate amount of detail (not too much or too" }
+        },
+        {
+          "left": "Graphical aids",
+          "right": "Diagrams and photos that increase understanding",
+          "cite": { "src": "cblm01", "page": 23, "quote": "use any graphical aids that increase understanding (diagrams, photos, etc)." }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why should a trainer not assume what learners already know?",
+      "answer": {
+        "text": "The trainer is familiar with the information, but it may be quite new to learners.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 23, "quote": "he is probably quite familiar with the information he is" },
+          { "src": "cblm01", "page": 23, "quote": "discussing, whereas it may be quite new to the learners." }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

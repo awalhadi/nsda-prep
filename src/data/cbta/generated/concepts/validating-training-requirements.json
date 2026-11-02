@@ -428,8 +428,10 @@
   },
   "realQuestions": [
     {
-      "answer": "The learner training requirements can be validated with the following\npersons/officers.\n•\nTrainers, Teachers and Assessors.\n•\nSupervisors/ or trainees employers.\n•\nParticipant Trainee/Learner who is advanced in skill.\n•\nExperts in the Trainees Trade Areas.\n•\nGovernment Regulatory bodies.\n•\nConsultative Committees.\n•\nTraining Providers, employers and human resources departments.\n•\nAssessors/Assessment Centers.",
-      "flags": [],
+      "answer": null,
+      "flags": [
+        "no-answer-key-entry"
+      ],
       "id": "cblm09-sc1-q3",
       "kind": "selfcheck",
       "label": "CBLM 9 Self Check 1 (Q3)",

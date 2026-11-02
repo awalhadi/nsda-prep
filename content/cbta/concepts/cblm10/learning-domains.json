@@ -1,0 +1,261 @@
+{
+  "id": "learning-domains",
+  "canonical_title": "Learning Domains: Cognitive, Affective and Psychomotor",
+  "aliases": [
+    "Learning domains",
+    "Cognitive, affective and psychomotor domains",
+    "Knowledge, attitude and skills domains"
+  ],
+  "cblmPrimary": 10,
+  "source_type": "cblm",
+  "covers": [
+    "cblm10-p33-6ff87499",
+    "cblm10-p33-b789ada9",
+    "cblm10-p33-7919ae51",
+    "cblm10-p33-0731d5bc",
+    "cblm10-p33-9170981d"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Learning domains are cognitive (knowledge), affective (attitude) and psychomotor (skills).",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm10",
+        "page": 33,
+        "quote": "Learning Domains"
+      },
+      {
+        "src": "cblm10",
+        "page": 33,
+        "quote": "Cognitive: mental skills (Knowledge) Affective: growth in feelings or emotional areas (Attitude) Psychomotor: manual or physical skills (Skills)",
+        "passageId": "cblm10-p33-6ff87499"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Cognitive",
+      "bn": "জ্ঞান ও চিন্তার দিক (knowledge)"
+    },
+    {
+      "en": "Affective",
+      "bn": "অনুভূতি ও মনোভাবের দিক (attitude)"
+    },
+    {
+      "en": "Psychomotor",
+      "bn": "হাতে-কলমে শারীরিক দক্ষতা (skills)"
+    },
+    {
+      "en": "Domain",
+      "bn": "শেখার একটা ক্ষেত্র"
+    }
+  ],
+  "bangla_explanation": [
+    "শেখার তিনটা domain: Cognitive মানে knowledge, Affective মানে attitude, Psychomotor মানে skills।",
+    "Cognitive-এ facts আর concepts মনে রাখা ও বোঝা থাকে।",
+    "Affective-এ feelings, values আর motivations থাকে।",
+    "Psychomotor skills শিখতে practice লাগে, আর speed ও precision দিয়ে মাপা হয়।"
+  ],
+  "example": {
+    "en": "A food trainer teaches recipe steps (cognitive), cleanliness attitude (affective) and knife skills (psychomotor).",
+    "bn": "রান্নার ট্রেনিং-এ রেসিপি জানা, পরিচ্ছন্নতার মনোভাব আর ছুরি চালানোর দক্ষতা: তিনটা domain।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Cognitive: mental skills (knowledge); recall of facts, procedural patterns and concepts.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "Cognitive: mental skills (Knowledge)"
+          },
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "This includes the recall or recognition of specific facts, procedural patterns, and"
+          }
+        ]
+      },
+      {
+        "text": "Affective: feelings, values, appreciation, motivations and attitudes.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "Affective: growth in feelings or emotional areas (Attitude)"
+          },
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "feelings, values, appreciation, enthusiasms, motivations, and attitudes."
+          }
+        ]
+      },
+      {
+        "text": "Psychomotor: physical movement, coordination and motor skills; needs practice.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "Psychomotor: manual or physical skills (Skills)"
+          },
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "physical movement, coordination, and use of the motor-skill areas. Development of these skills requires practice",
+            "passageId": "cblm10-p33-9170981d"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Psychomotor skills are measured by speed, precision, distance, procedures or techniques.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 33,
+          "quote": "is measured in terms of speed, precision, distance, procedures, or techniques in execution."
+        }
+      ]
+    },
+    {
+      "text": "The affective domain is how we deal with things emotionally.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 33,
+          "quote": "The affective domain includes the manner in which we deal with things emotionally,",
+          "passageId": "cblm10-p33-7919ae51"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Name the three learning domains and explain each.",
+      "modelAnswer": "The three learning domains are:\n1. Cognitive: mental skills (knowledge); recall of facts and concepts.\n2. Affective: feelings, values, motivations and attitudes.\n3. Psychomotor: manual or physical skills; needs practice.",
+      "keyPoints": [
+        {
+          "text": "The cognitive domain involves knowledge and the development of intellectual skills.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 33,
+              "quote": "The cognitive domain involves knowledge and the development of intellectual skills.",
+              "passageId": "cblm10-p33-b789ada9"
+            }
+          ]
+        },
+        {
+          "text": "The affective domain includes feelings, values, appreciation, enthusiasms, motivations and attitudes.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 33,
+              "quote": "The affective domain includes the manner in which we deal with things emotionally,"
+            },
+            {
+              "src": "cblm10",
+              "page": 33,
+              "quote": "feelings, values, appreciation, enthusiasms, motivations, and attitudes.",
+              "passageId": "cblm10-p33-0731d5bc"
+            }
+          ]
+        },
+        {
+          "text": "Psychomotor skills development requires practice.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 33,
+              "quote": "Development of these skills requires practice"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which learning domain covers manual or physical skills?",
+      "options": [
+        "Psychomotor",
+        "Cognitive",
+        "Affective",
+        "Visual"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm10",
+        "page": 33,
+        "quote": "Psychomotor: manual or physical skills (Skills)"
+      }
+    },
+    "matching": {
+      "prompt": "Match each learning domain with what it covers.",
+      "pairs": [
+        {
+          "left": "Cognitive",
+          "right": "Mental skills (Knowledge)",
+          "cite": {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "Cognitive: mental skills (Knowledge)"
+          }
+        },
+        {
+          "left": "Affective",
+          "right": "Feelings or emotional areas (Attitude)",
+          "cite": {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "Affective: growth in feelings or emotional areas (Attitude)"
+          }
+        },
+        {
+          "left": "Psychomotor",
+          "right": "Manual or physical skills (Skills)",
+          "cite": {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "Psychomotor: manual or physical skills (Skills)"
+          }
+        },
+        {
+          "left": "Development of physical skills",
+          "right": "Requires practice",
+          "cite": {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "Development of these skills requires practice"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "How is psychomotor skill measured?",
+      "answer": {
+        "text": "In terms of speed, precision, distance, procedures or techniques in execution.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "is measured in terms of speed, precision, distance, procedures, or techniques in execution."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

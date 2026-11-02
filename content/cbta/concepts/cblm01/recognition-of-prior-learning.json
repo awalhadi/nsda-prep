@@ -1,0 +1,239 @@
+{
+  "id": "recognition-of-prior-learning",
+  "canonical_title": "Recognition of Prior Learning (RPL): Benefits and Evidence",
+  "aliases": [
+    "Recognition of Prior Learning",
+    "RPL",
+    "Benefits of RPL",
+    "RPL evidence"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p32-f3ba0d7b",
+    "cblm01-p33-b25b748a",
+    "cblm01-p33-54f9c5db"
+  ],
+  "questions": [
+    "cblm01-sc2-q6",
+    "paper-final-formative-01-q12",
+    "paper-final-formative-01-q17",
+    "paper-short-questions-q3",
+    "paper-short-questions-q71"
+  ],
+  "one_line_answer": {
+    "text": "RPL assesses current skills and knowledge, no matter how, when or where learning occurred.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm01", "page": 32, "quote": "Recognition of prior learning (RPL) is one way to have current skills and knowledge" },
+      { "src": "cblm01", "page": 32, "quote": "assessed by a registered training organisation (RTO) regardless of where and when" },
+      { "src": "cblm01", "page": 32, "quote": "RPL assessment recognizes skills and knowledge, no matter how, when or where the" },
+      { "src": "cblm01", "page": 32, "quote": "learning occurred." }
+    ]
+  },
+  "keywords": [
+    { "en": "Recognition of Prior Learning (RPL)", "bn": "আগে শেখা দক্ষতার স্বীকৃতি" },
+    { "en": "Current skills", "bn": "এখনকার দক্ষতা" },
+    { "en": "Evidence", "bn": "প্রমাণ" },
+    { "en": "Portfolio", "bn": "আগের কাজের নমুনার সংগ্রহ" },
+    { "en": "Appeal", "bn": "সিদ্ধান্তের বিরুদ্ধে আবেদন" }
+  ],
+  "bangla_explanation": [
+    "অনেকে কাজ করতে করতে দক্ষ হয়েছে, কিন্তু certificate নেই; RPL তাদের দক্ষতার স্বীকৃতি দেয়।",
+    "কোথায়, কখন, কীভাবে শিখেছে তা বিষয় নয়; দেখা হয় current industry standards পূরণ করে কিনা।",
+    "এতে একই training আবার করতে হয় না, সময় আর খরচ বাঁচে।",
+    "Evidence হিসেবে observation, portfolio, trade test ইত্যাদি লাগে।"
+  ],
+  "example": {
+    "en": "A tailor has sewn garments for ten years without a certificate. Through RPL, an RTO assesses and recognises his skills.",
+    "bn": "দশ বছরের অভিজ্ঞ দর্জি কোর্স না করেই RPL-এর মাধ্যমে qualification পেতে পারেন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Interview/professional conversation",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 33, "quote": "Interview/professional conversation", "passageId": "cblm01-p33-54f9c5db" }
+        ]
+      },
+      {
+        "text": "Observation and questioning including workplace visits",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 33, "quote": "Observation and questioning including workplace visits" }
+        ]
+      },
+      {
+        "text": "Portfolio of work, which may include completed assessment items from previous study",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 33, "quote": "Portfolio of work, which may include completed assessment items from previous study" }
+        ]
+      },
+      {
+        "text": "Supplementary assessment tasks or challenge test (oral, written or practical)",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 33, "quote": "Supplementary assessment tasks or challenge test (oral, written or practical)" }
+        ]
+      },
+      {
+        "text": "Assessment where no training is involved",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 33, "quote": "Assessment where no training is involved" }
+        ]
+      },
+      {
+        "text": "Trade test",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 33, "quote": "Assessment where no training is involved Trade test" }
+        ]
+      },
+      {
+        "text": "Authentication of evidence by supervisor or employer",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 33, "quote": "Authentication of evidence by supervisor or employer." }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "RPL looks at whether skills and knowledge meet current industry standards.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 32, "quote": "Recognition of prior learning (RPL) is one way to have current skills and knowledge" },
+        { "src": "cblm01", "page": 32, "quote": "regardless of where and when" },
+        { "src": "cblm01", "page": 32, "quote": "the learning occurred to see if they meet current industry standards." }
+      ]
+    },
+    {
+      "text": "Unsuccessful applicants have a right to formally appeal the RPL assessment.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 33, "quote": "Unsuccessful applicants have a right to formally appeal the RPL assessment," }
+      ]
+    },
+    {
+      "text": "To apply, students complete the RPL form and provide supporting evidence.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 33, "quote": "apply for recognition of prior learning students will need to complete the RPL form" },
+        { "src": "cblm01", "page": 33, "quote": "and provide supporting evidence." }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the benefits of Recognition of Prior Learning (RPL)?",
+      "modelAnswer": "RPL assesses current skills and knowledge, no matter how, when or where learning occurred. Benefits:\n1. Students can finish their courses earlier.\n2. Study loads and costs are reduced.\n3. The student can study for a second qualification.\n4. RPL can effectively target training requirements.\n5. It avoids duplication of training.\n6. It provides pathways to higher qualifications.\n7. It creates a learning culture by valuing workplace learning.",
+      "keyPoints": [
+        {
+          "text": "Students can finish their courses earlier.",
+          "fidelity": "verbatim",
+          "cites": [
+            { "src": "cblm01", "page": 32, "quote": "Students can finish their courses earlier", "passageId": "cblm01-p32-f3ba0d7b" }
+          ]
+        },
+        {
+          "text": "Study loads and costs are reduced.",
+          "fidelity": "verbatim",
+          "cites": [
+            { "src": "cblm01", "page": 32, "quote": "Study loads and costs are reduced" }
+          ]
+        },
+        {
+          "text": "The student can take on additional study leading to a second qualification.",
+          "fidelity": "verbatim",
+          "cites": [
+            { "src": "cblm01", "page": 32, "quote": "The student can take on additional study leading to a second qualification" }
+          ]
+        },
+        {
+          "text": "By identifying current competencies, RPL can effectively target training requirements.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 32, "quote": "By identifying an individual's current competencies, RPL can effectively target" },
+            { "src": "cblm01", "page": 32, "quote": "training requirements." }
+          ]
+        },
+        {
+          "text": "It avoids duplication of training and maximises the value of training expenditure.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 32, "quote": "Avoids duplication of training, maximising the value of vocational education" },
+            { "src": "cblm01", "page": 32, "quote": "and training expenditure" }
+          ]
+        },
+        {
+          "text": "It provides pathways to higher qualifications for people without access to further training.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 32, "quote": "Provides pathways to higher qualifications for people who may not have" },
+            { "src": "cblm01", "page": 32, "quote": "access to further training" }
+          ]
+        },
+        {
+          "text": "It creates a learning culture by valuing learning in the workplace.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 32, "quote": "Creates a learning culture by valuing and recognising learning that has" },
+            { "src": "cblm01", "page": 32, "quote": "occurred in the workplace." }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which of these is a benefit of Recognition of Prior Learning (RPL)?",
+      "options": [
+        "Avoids duplication of training",
+        "Return on investment",
+        "Earn and Learn",
+        "Supervised Training"
+      ],
+      "answerIndex": 0,
+      "answerCite": { "src": "cblm01", "page": 32, "quote": "Avoids duplication of training, maximising the value of vocational education" }
+    },
+    "matching": {
+      "prompt": "Match each RPL evidence type with its detail.",
+      "pairs": [
+        {
+          "left": "Portfolio of work",
+          "right": "Completed assessment items from previous study",
+          "cite": { "src": "cblm01", "page": 33, "quote": "Portfolio of work, which may include completed assessment items from previous study" }
+        },
+        {
+          "left": "Challenge test",
+          "right": "Oral, written or practical",
+          "cite": { "src": "cblm01", "page": 33, "quote": "Supplementary assessment tasks or challenge test (oral, written or practical)" }
+        },
+        {
+          "left": "Authentication of evidence",
+          "right": "By supervisor or employer",
+          "cite": { "src": "cblm01", "page": 33, "quote": "Authentication of evidence by supervisor or employer." }
+        },
+        {
+          "left": "Observation and questioning",
+          "right": "Including workplace visits",
+          "cite": { "src": "cblm01", "page": 33, "quote": "Observation and questioning including workplace visits" }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What can an applicant do if the RPL assessment is unsuccessful?",
+      "answer": {
+        "text": "The applicant can formally appeal through the institute academic appeals process.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 33, "quote": "Unsuccessful applicants have a right to formally appeal the RPL assessment," },
+          { "src": "cblm01", "page": 33, "quote": "through the institute academic appeals process." }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

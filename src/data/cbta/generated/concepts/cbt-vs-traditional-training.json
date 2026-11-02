@@ -1,0 +1,507 @@
+{
+  "aliases": [
+    "Managing Competency Based Training versus Traditional Programs",
+    "Differences between traditional training and CBT"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 10,
+      "pages": [
+        {
+          "pdf": 34,
+          "printed": 34
+        },
+        {
+          "pdf": 35,
+          "printed": 35
+        }
+      ],
+      "src": "cblm10"
+    }
+  ],
+  "banglaExplanation": [
+    "প্রচলিত training-এ instructor সব নিয়ন্ত্রণ করে: গতি, ক্রম, পরীক্ষা।",
+    "CBT-তে প্রত্যেক student নিজের গতিতে এগোয়, ready হলে পরীক্ষা দেয়।",
+    "CBT-তে retesting উৎসাহিত করা হয়, আর immediate feedback দেওয়া হয়।",
+    "পরীক্ষায় পার্থক্য লিখতে দুই কলাম বানান: Traditional বনাম CBT।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 10,
+  "errata": [],
+  "example": {
+    "bn": "CBT মোটরসাইকেল কোর্সে trainee ready হলে পরীক্ষা দেয়; না পারলে আবার দিতে পারে।",
+    "en": "In a CBT motorcycle repair course, a trainee is tested when ready. If he fails, he can retest."
+  },
+  "highlighted": true,
+  "id": "cbt-vs-traditional-training",
+  "importance": {
+    "bn": "CBLM 10 Self Check 2 (Q2)-এ এসেছে। CBLM 10-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in CBLM 10 Self Check 2 (Q2). Highlighted in CBLM 10. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "প্রচলিত, সবাই একসাথে একই গতিতে শেখা",
+      "en": "Traditional training"
+    },
+    {
+      "bn": "নিজের গতিতে",
+      "en": "Own pace"
+    },
+    {
+      "bn": "কাজে পুরো দক্ষতা অর্জন",
+      "en": "Mastery"
+    },
+    {
+      "bn": "আবার পরীক্ষা দেওয়া",
+      "en": "Retesting"
+    },
+    {
+      "bn": "সাথে সাথে মতামত",
+      "en": "Immediate feedback"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 34,
+            "printedPage": 34,
+            "quote": "1.Instructors focus on managing 1.Instructors focus on managing instruction. learning",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 34,
+            "printedPage": 34,
+            "quote": "Traditional training programs CBT training programs",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Traditional: instructors focus on managing instruction. CBT: on managing learning."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 34,
+            "printedPage": 34,
+            "quote": "2.Most students enter at about the same 2. Students enter at various times time. throughout the year.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Traditional: most students enter at the same time. CBT: students enter at various times."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 34,
+            "printedPage": 34,
+            "quote": "5. The instructor controls the learning 5. Each student progresses at his or her pace. own pace.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Traditional: the instructor controls the learning pace. CBT: each student progresses at own pace."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 34,
+            "printedPage": 34,
+            "quote": "6. All students are usually tested at 6.Each student is tested when ready to once. demonstrate mastery.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Traditional: all students tested at once. CBT: each tested when ready to demonstrate mastery."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 34,
+            "printedPage": 34,
+            "quote": "7.The Instructor is involved in teaching 7.The instructor must be able to answer only one topic at a time questions on many different tasks each day.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Traditional: instructor teaches one topic at a time. CBT: instructor answers questions on many tasks."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 34,
+            "printedPage": 34,
+            "quote": "8. Retesting is discouraged or not 8. Retesting is encouraged for mastery. allowed at all.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Traditional: retesting discouraged or not allowed. CBT: retesting encouraged for mastery."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 35,
+            "printedPage": 35,
+            "quote": "9. Very little continuous feedback is 9.Immediate feedback is given to each given. student at critical points in the learning",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Traditional: very little continuous feedback. CBT: immediate feedback at critical points."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 35,
+            "printedPage": 35,
+            "quote": "11. The number of students enrolled is 11. As vacancies are filled, student, maximum capacity at the beginning of enrollment remains at maximum capacity the year or term and declines to half or the year long. less toward the end.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Traditional: enrolled number declines to half or less. CBT: enrollment remains at maximum capacity."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 35,
+            "printedPage": 35,
+            "quote": "13. The program is usually closed down 13. The program usually operates year or shortened during the summer months. round.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Traditional: program closed down or shortened in summer months. CBT: operates year round."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 35,
+            "printedPage": 35,
+            "quote": "14. The instructor controls the sequence 14. If possible, students determine the in which topics will be covered. sequence of tasks.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Traditional: instructor controls the topic sequence. CBT: students determine the sequence of tasks."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 35,
+            "printedPage": 35,
+            "quote": "15. The evening program is usually 15. Day and evening programs both have separate and distinct from the day access to all learning guides and program. resources.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Traditional: evening program separate from day program. CBT: both access all learning guides."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 10,
+        "match": "exact",
+        "page": 34,
+        "passageId": "cblm10-p34-4dc77829",
+        "printedPage": 34,
+        "quote": "Traditional training programs CBT training programs",
+        "sourceTitle": "Deliver Competency Based Training",
+        "src": "cblm10"
+      },
+      {
+        "cblm": 10,
+        "match": "exact",
+        "page": 34,
+        "printedPage": 34,
+        "quote": "1.Instructors focus on managing 1.Instructors focus on managing instruction. learning",
+        "sourceTitle": "Deliver Competency Based Training",
+        "src": "cblm10"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "CBT instructors focus on managing learning; traditional instructors focus on managing instruction."
+  },
+  "openChecks": 2,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 10,
+            "match": "exact",
+            "page": 34,
+            "printedPage": 34,
+            "quote": "2.Most students enter at about the same 2. Students enter at various times time. throughout the year.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          "left": "Most students enter at the same time",
+          "right": "Students enter at various times"
+        },
+        {
+          "cite": {
+            "cblm": 10,
+            "match": "exact",
+            "page": 34,
+            "printedPage": 34,
+            "quote": "5. The instructor controls the learning 5. Each student progresses at his or her pace. own pace.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          "left": "Instructor controls the learning pace",
+          "right": "Each student progresses at own pace"
+        },
+        {
+          "cite": {
+            "cblm": 10,
+            "match": "exact",
+            "page": 34,
+            "printedPage": 34,
+            "quote": "6. All students are usually tested at 6.Each student is tested when ready to once. demonstrate mastery.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          "left": "All students tested at once",
+          "right": "Each tested when ready"
+        },
+        {
+          "cite": {
+            "cblm": 10,
+            "match": "exact",
+            "page": 34,
+            "printedPage": 34,
+            "quote": "8. Retesting is discouraged or not 8. Retesting is encouraged for mastery. allowed at all.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          "left": "Retesting discouraged",
+          "right": "Retesting encouraged for mastery"
+        },
+        {
+          "cite": {
+            "cblm": 10,
+            "match": "exact",
+            "page": 35,
+            "printedPage": 35,
+            "quote": "9. Very little continuous feedback is 9.Immediate feedback is given to each given. student at critical points in the learning",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          "left": "Very little continuous feedback",
+          "right": "Immediate feedback at critical points"
+        }
+      ],
+      "prompt": "Match each traditional feature with its CBT opposite."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 10,
+        "match": "exact",
+        "page": 34,
+        "printedPage": 34,
+        "quote": "6. All students are usually tested at 6.Each student is tested when ready to once. demonstrate mastery.",
+        "sourceTitle": "Deliver Competency Based Training",
+        "src": "cblm10"
+      },
+      "answerIndex": 0,
+      "options": [
+        "When ready to demonstrate mastery",
+        "All at once at the end of term",
+        "Only once a year",
+        "When the instructor finishes the topic"
+      ],
+      "prompt": "In a CBT program, when is each student tested?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "9. Very little continuous feedback is 9.Immediate feedback is given to each given. student at critical points in the learning",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "CBT: immediate feedback is given to each student at critical points."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "7.The Instructor is involved in teaching 7.The instructor must be able to answer only one topic at a time questions on many different tasks each day.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "CBT: the instructor must answer questions on many different tasks each day."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "14. The instructor controls the sequence 14. If possible, students determine the in which topics will be covered. sequence of tasks.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "CBT: if possible, students determine the sequence of tasks."
+        }
+      ],
+      "modelAnswer": "Traditional vs CBT:\n1. Instructors manage instruction vs instructors manage learning.\n2. Most students enter at the same time vs students enter at various times.\n3. Instructor controls the pace vs each student moves at own pace.\n4. All tested at once vs each tested when ready to show mastery.\n5. Retesting discouraged vs retesting encouraged for mastery.",
+      "prompt": "Outline five differences between traditional training and competency based training programs."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 34,
+            "printedPage": 34,
+            "quote": "5. The instructor controls the learning 5. Each student progresses at his or her pace. own pace.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Each student progresses at his or her own pace."
+      },
+      "prompt": "Who controls the pace of learning in CBT?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Traditional training programs\nCBT training programs\n1.Instructors focus on managing\n1.Instructors focus on managing\ninstruction.\nlearning\n2.Most students enter at about the same\n2. Students enter at various times\ntime.\nthroughout the year.\n3.Different students may be training for\n3.All students cover the same material\ndifferent occupations within the same\nprogram\n4. Each student moves on to the next\n4.Students all proceed from one topic to\ntask only after mastering the task he or\nthe next at the same time.\nshe is currently working on.\n5. The instructor controls the learning\n5. Each student progresses at his or her\npace.\nown pace.",
+      "flags": [],
+      "id": "cblm10-sc2-q2",
+      "kind": "selfcheck",
+      "label": "CBLM 10 Self Check 2 (Q2)",
+      "page": 62,
+      "printedPage": 62,
+      "question": "Outline five differences between traditional training and competency based\ntraining program",
+      "src": "cblm10",
+      "type": "short"
+    }
+  ],
+  "score": 5,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Traditional Training vs CBT Programs",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 34,
+          "printedPage": 34,
+          "quote": "8. Retesting is discouraged or not 8. Retesting is encouraged for mastery. allowed at all.",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        },
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 34,
+          "printedPage": 34,
+          "quote": "Traditional training programs CBT training programs",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "In CBT, retesting is encouraged for mastery; traditional programs discourage it."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 34,
+          "printedPage": 34,
+          "quote": "5. The instructor controls the learning 5. Each student progresses at his or her pace. own pace.",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        },
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 34,
+          "printedPage": 34,
+          "quote": "Traditional training programs CBT training programs",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "In traditional programs, the instructor controls the learning pace."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

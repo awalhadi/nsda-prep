@@ -8,7 +8,7 @@
 - Highlight annotations: **1409**; underline annotations: **27**. Each one is inside a merged passage or listed as an empty marking; derive stops with an error if any is unaccounted for.
 - Merged passages: **909**; markings over no text: **0**; very short passages: **1**.
 - Teacher notes (FreeText/Ink/Caret): **14**; strikeouts/redactions (ignored, listed): **6**.
-- Self Check ↔ Answer Key pairs: **125**, of which **8** are flagged for review.
+- Self Check ↔ Answer Key pairs: **125**, of which **12** are flagged for review.
 - Paper questions: **220** across 7 papers.
 
 ## CBLMs
@@ -22,7 +22,7 @@
 | 6 | 43 | 94 | 0 | 57 | 0 | 0 | 0 | 0 | 8 (0) | — |
 | 7 | 25 | 41 | 0 | 28 | 0 | 0 | 0 | 0 | 6 (0) | — |
 | 8 | 51 | 142 | 1 | 90 | 0 | 0 | 0 | 1 | 5 (0) | — |
-| 9 | 71 | 180 | 0 | 128 | 0 | 0 | 1 | 0 | 12 (0) | 31 |
+| 9 | 71 | 180 | 0 | 128 | 0 | 0 | 1 | 0 | 12 (4) | 31 |
 | 10 | 84 | 127 | 6 | 99 | 0 | 0 | 1 | 1 | 16 (1) | — |
 | 11 | 80 | 234 | 2 | 149 | 0 | 0 | 3 | 0 | 14 (1) | — |
 | 12 | 50 | 166 | 1 | 87 | 0 | 0 | 6 | 0 | 18 (2) | 10 |
@@ -70,7 +70,11 @@ No paper contains viva questions, so viva practice will be derived from short qu
 | cblm05-sc1-q1 | restated-question-differs | How do you model professional techniques and strategies? | Can I bring issues to the attention of others? / Do I stand up for my beliefs or do I allow… | 14 / 15 |
 | cblm05-sc2-q1 | restated-question-differs | How will you assess your current skills and determine the skills you may need / t… | • / What skills do you need now? / In a simple job analysis, you can break down functional ar… | 33 / 34 |
 | cblm05-sc2-q5 | no-answer-key-entry | How do you develop a Professional Development Plan? | — | 33 / — |
-| cblm10-sc2-q5 | restated-question-differs | How do you select appropriate technique for delivery? | • What do you want the activity to achieve? / • What can you do well? / • Can your learners u… | 62 / 63 |
+| cblm09-sc1-q2 | no-answer-key-entry | How can you determine the training requirements of a specific target group of / t… | — | 23 / — |
+| cblm09-sc1-q3 | no-answer-key-entry | Name at least three different persons/officers who can validate your trainees / t… | — | 23 / — |
+| cblm09-sc1-q4 | no-answer-key-entry | What does an competency standards include? | — | 23 / — |
+| cblm09-sc1-q5 | no-answer-key-entry | What is the difference between competency standard and curriculum / documents? | — | 23 / — |
+| cblm10-sc2-q5 | restated-question-differs | How do you select appropriate technique for delivery? | • What do you want the activity to achieve? / • What can you do well? / • Can your learners u… | 62 / 64 |
 | cblm11-sc4-q2 | restated-question-differs | Give an example of a contingency question | (equipment broke down or something malfunctioned) | 71 / 72 |
 | cblm12-sc1-q9 | restated-question-differs | How would you determine if the evidence collected is valid? | • / relevant to the elements and performance criteria in the standard? / • / consistent with th… | 35 / 38 |
 | cblm12-sc1-q11 | restated-question-differs | How would you determine the candidate is competent or not yet competent? | Does the evidence address the critical aspects of the competence, the underpinning / knowle… | 35 / 39 |

@@ -1,0 +1,184 @@
+{
+  "id": "managing-work-relationships",
+  "canonical_title": "Workplace Issues: Managing Work and Work Relationships",
+  "aliases": [
+    "Workplace issues a teacher needs to maintain",
+    "Managing work and work relationships",
+    "Maintain relationship with supervisor and colleagues"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p41-89d79a52",
+    "cblm01-p41-60ab3237",
+    "cblm01-p41-389b4f6e",
+    "cblm01-p41-27cfac71",
+    "cblm01-p45-862e2c66",
+    "cblm01-p45-29da9bc3",
+    "cblm01-p45-01d8d098",
+    "cblm01-p46-bad63afb"
+  ],
+  "questions": [
+    "cblm01-sc3-q1"
+  ],
+  "one_line_answer": {
+    "text": "A TVET teacher needs to manage work and work relationships properly.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm01", "page": 41, "quote": "To work in a TVET institute a", "passageId": "cblm01-p41-389b4f6e" },
+      { "src": "cblm01", "page": 41, "quote": "teacher needs to ensure that he can manage work and work relationships properly," }
+    ]
+  },
+  "keywords": [
+    { "en": "Workplace issues", "bn": "কর্মস্থলের বিষয়/সমস্যা" },
+    { "en": "Prioritizing", "bn": "কোন কাজ আগে, কোনটা পরে ঠিক করা" },
+    { "en": "Collaboratively", "bn": "সবাই মিলে একসাথে" },
+    { "en": "Feedback", "bn": "মতামত" },
+    { "en": "Client focus", "bn": "ক্লায়েন্টের প্রয়োজনকে গুরুত্ব দেওয়া" }
+  ],
+  "bangla_explanation": [
+    "TVET প্রতিষ্ঠানে ভালোভাবে কাজ করতে হলে teacher-কে নিজের কাজ আর সম্পর্ক দুটোই সামলাতে হয়।",
+    "চারটা বিষয়: কাজ planning ও prioritizing, colleagues-এর সাথে collaboratively কাজ, feedback নেওয়া, আর client focus।",
+    "Feedback নেওয়ার চেয়েও বেশি জরুরি হলো feedback evaluate করে সেই অনুযায়ী কাজ করা।",
+    "Teams ভালো চলে যখন সবাই committed, communicating, trusting আর flexible থাকে।"
+  ],
+  "example": {
+    "en": "Two welding trainers share session plans and ideas. They ask learners for feedback and then improve.",
+    "bn": "দুই trainer ideas শেয়ার করেন, learners-এর feedback নিয়ে নিজেদের কাজ উন্নত করেন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "planning, prioritizing and organizing your work",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 41, "quote": "planning, prioritizing and organizing your work;", "passageId": "cblm01-p41-27cfac71" }
+        ]
+      },
+      {
+        "text": "working collaboratively with colleagues",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 41, "quote": "working collaboratively with colleagues;" }
+        ]
+      },
+      {
+        "text": "seeking feedback on your work-management skills and professional relationships",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 41, "quote": "seeking feedback on your work-management skills and professional relationships" }
+        ]
+      },
+      {
+        "text": "adopting client focus approach",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 41, "quote": "adopting client focus approach" }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Evaluating and acting upon feedback is even more important than getting it.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 45, "quote": "what is even more important is your ability to evaluate and act", "passageId": "cblm01-p45-01d8d098" },
+        { "src": "cblm01", "page": 45, "quote": "upon the feedback you obtain from colleagues and clients" }
+      ]
+    },
+    {
+      "text": "Work collaboratively by sharing information and ideas and working together to achieve outcomes.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 45, "quote": "need to work collaboratively with your colleagues by:", "passageId": "cblm01-p45-862e2c66" },
+        { "src": "cblm01", "page": 45, "quote": "sharing information and ideas; and" },
+        { "src": "cblm01", "page": 45, "quote": "working together to achieve work outcomes" }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the workplace issues a teacher needs to maintain to work efficiently?",
+      "modelAnswer": "A teacher must manage work and work relationships properly. This includes:\n1. Planning, prioritizing and organizing your work\n2. Working collaboratively with colleagues\n3. Seeking feedback on your work-management skills and professional relationships\n4. Adopting client focus approach",
+      "keyPoints": [
+        {
+          "text": "Workplace issues include planning and prioritizing work, workloads and professional relationships.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 41, "quote": "Workplace issues such as planning and prioritizing of works,", "passageId": "cblm01-p41-60ab3237" },
+            { "src": "cblm01", "page": 41, "quote": "organizational guidelines on workloads" },
+            { "src": "cblm01", "page": 41, "quote": "managing work and professional relationship" }
+          ]
+        },
+        {
+          "text": "Feedback comes from colleagues, clients, learners and candidates for assessment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 45, "quote": "colleagues from within your training and/or assessment organization" },
+            { "src": "cblm01", "page": 45, "quote": "clients from enterprises and industry sectors" },
+            { "src": "cblm01", "page": 46, "quote": "individual learners, employees, apprentices and trainees; and", "passageId": "cblm01-p46-bad63afb" },
+            { "src": "cblm01", "page": 46, "quote": "candidates for assessment" }
+          ]
+        },
+        {
+          "text": "Teams work well when members are committed, cooperating, communicating, trusting and flexible.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 45, "quote": "Teams work well when all the team members work together. This involves being" },
+            { "src": "cblm01", "page": 45, "quote": "committed to the team goals, cooperating and communicating with each other," },
+            { "src": "cblm01", "page": 45, "quote": "trusting and supporting each other and being flexible." }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is one way a TVET teacher manages work and work relationships?",
+      "options": [
+        "Working collaboratively with colleagues",
+        "Endorsing the competency standards",
+        "Paying wages to apprentices",
+        "Accrediting training providers"
+      ],
+      "answerIndex": 0,
+      "answerCite": { "src": "cblm01", "page": 41, "quote": "working collaboratively with colleagues;" }
+    },
+    "matching": {
+      "prompt": "Match each workplace issue with what it involves.",
+      "pairs": [
+        {
+          "left": "Planning your work",
+          "right": "Prioritizing and organizing your work",
+          "cite": { "src": "cblm01", "page": 41, "quote": "planning, prioritizing and organizing your work;" }
+        },
+        {
+          "left": "Working collaboratively",
+          "right": "Sharing information and ideas with colleagues",
+          "cite": { "src": "cblm01", "page": 45, "quote": "need to work collaboratively with your colleagues by: sharing information and ideas" }
+        },
+        {
+          "left": "Seeking feedback",
+          "right": "On work-management skills and professional relationships",
+          "cite": { "src": "cblm01", "page": 45, "quote": "Seeking feedback on work-management skills and professional relationships", "passageId": "cblm01-p45-29da9bc3" }
+        },
+        {
+          "left": "Team building",
+          "right": "Committed to the team goals and being flexible",
+          "cite": { "src": "cblm01", "page": 45, "quote": "committed to the team goals, cooperating and communicating with each other, trusting and supporting each other and being flexible." }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What should you do with feedback from colleagues and clients?",
+      "answer": {
+        "text": "Evaluate and act upon the feedback you obtain from colleagues and clients.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 45, "quote": "your ability to evaluate and act" },
+          { "src": "cblm01", "page": 45, "quote": "upon the feedback you obtain from colleagues and clients" }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

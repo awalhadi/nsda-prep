@@ -5,6 +5,24 @@
   ],
   "appearsIn": [
     {
+      "cblm": 1,
+      "pages": [
+        {
+          "pdf": 15,
+          "printed": 15
+        },
+        {
+          "pdf": 16,
+          "printed": 16
+        },
+        {
+          "pdf": 36,
+          "printed": 36
+        }
+      ],
+      "src": "cblm01"
+    },
+    {
       "cblm": 9,
       "pages": [
         {
@@ -30,9 +48,9 @@
     "Range statement বলে কোন contexts and conditions-এ প্রযোজ্য; evidence guide দেয় assessment-এর guidance।"
   ],
   "breakdown": {
-    "exam": 10,
+    "exam": 12,
     "highlight": 3,
-    "repeat": 1
+    "repeat": 2
   },
   "cblmPrimary": 9,
   "errata": [],
@@ -43,8 +61,8 @@
   "highlighted": true,
   "id": "competency-standard-components",
   "importance": {
-    "bn": "Final Formative 01 (Short 16), Short Questions (Short 2, 31, Short 40), Unit 01 Answers (MCQ 8, Matching 13, Short 18, 24), Unit 01 Questions (MCQ 8, Matching 13, Short 18, 24) আর Unit 01 Short Questions (Short 9, 13): 5 জায়গায় এসেছে। CBLM 9-এ highlight করা আছে। পরীক্ষায় matching, MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
-    "en": "Asked in Final Formative 01 (Short 16), Short Questions (Short 2, 31, Short 40), Unit 01 Answers (MCQ 8, Matching 13, Short 18, 24), Unit 01 Questions (MCQ 8, Matching 13, Short 18, 24) and Unit 01 Short Questions (Short 9, 13). Highlighted in CBLM 9. Comes as matching, MCQ and short question."
+    "bn": "Final Formative 01 (Short 16), Short Questions (Short 2, 31, Short 40), Unit 01 Answers (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Questions (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Short Questions (Short 9, 13, Short 6) আর CBLM 1 Self Check 2 (Q1): 6 জায়গায় এসেছে। CBLM 9-এ highlight করা আছে। পরীক্ষায় matching, MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Final Formative 01 (Short 16), Short Questions (Short 2, 31, Short 40), Unit 01 Answers (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Questions (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Short Questions (Short 9, 13, Short 6) and CBLM 1 Self Check 2 (Q1). Highlighted in CBLM 9. Comes as matching, MCQ and short question."
   },
   "keywords": [
     {
@@ -181,6 +199,21 @@
       {
         "cites": [
           {
+            "cblm": 1,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "Skills and knowledge requirements refers to the essential skills and knowledge and their level, required for this unit.",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Skills and knowledge requirement: the essential skills and knowledge, and their level, for this unit."
+      },
+      {
+        "cites": [
+          {
             "cblm": 9,
             "match": "exact",
             "page": 14,
@@ -242,7 +275,7 @@
     "fidelity": "paraphrase",
     "text": "A competency standard details skills, knowledge, attitude, performance criteria and evidence to prove competency."
   },
-  "openChecks": 0,
+  "openChecks": 1,
   "practice": {
     "matching": {
       "pairs": [
@@ -778,14 +811,317 @@
       "question": "Which section of a competency standard should you consult to determine assessment guidelines?",
       "src": "paper-unit01-mcq",
       "type": "short"
+    },
+    {
+      "answer": "Competency standards have mainly 9 component; such as\n1. Unit code and title\n2. Nominal hours\n3. Unit descriptor\n4. Elements of competency\n5. Performance criteria\n6. Skills and knowledge requirement for the unit\n7. Range statement\n8. Evidence guide\n9. Accreditation requirements",
+      "flags": [],
+      "id": "cblm01-sc2-q1",
+      "kind": "selfcheck",
+      "label": "CBLM 1 Self Check 2 (Q1)",
+      "page": 34,
+      "printedPage": 34,
+      "question": "What are the different components of competency standards?",
+      "src": "cblm01",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-mcq-q12",
+      "kind": "paper",
+      "label": "Unit 01 Questions (Matching 12)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Describes the task within a unit",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Evidence Guide"
+        },
+        {
+          "letter": "B",
+          "text": "Range Statement"
+        },
+        {
+          "letter": "C",
+          "text": "Underpinning knowledge for UoC"
+        },
+        {
+          "letter": "D",
+          "text": "Element of Competency"
+        },
+        {
+          "letter": "E",
+          "text": "Competency standard"
+        },
+        {
+          "letter": "F",
+          "text": "Performance Criteria"
+        }
+      ],
+      "src": "paper-unit01-mcq",
+      "type": "matching"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": "D",
+      "flags": [],
+      "id": "paper-unit01-answer-q12",
+      "kind": "paper",
+      "label": "Unit 01 Answers (Matching 12)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Describes the task within a unit",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Evidence Guide"
+        },
+        {
+          "letter": "B",
+          "text": "Range Statement"
+        },
+        {
+          "letter": "C",
+          "text": "Underpinning knowledge for UoC"
+        },
+        {
+          "letter": "D",
+          "text": "Element of Competency"
+        },
+        {
+          "letter": "E",
+          "text": "Competency standard"
+        },
+        {
+          "letter": "F",
+          "text": "Performance Criteria"
+        }
+      ],
+      "src": "paper-unit01-answer",
+      "type": "matching"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-mcq-q14",
+      "kind": "paper",
+      "label": "Unit 01 Questions (Matching 14)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Contextual information detailing the conditions under which competency applies",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Evidence Guide"
+        },
+        {
+          "letter": "B",
+          "text": "Range Statement"
+        },
+        {
+          "letter": "C",
+          "text": "Underpinning knowledge for UoC"
+        },
+        {
+          "letter": "D",
+          "text": "Element of Competency"
+        },
+        {
+          "letter": "E",
+          "text": "Competency standard"
+        },
+        {
+          "letter": "F",
+          "text": "Performance Criteria"
+        }
+      ],
+      "src": "paper-unit01-mcq",
+      "type": "matching"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": "B",
+      "flags": [],
+      "id": "paper-unit01-answer-q14",
+      "kind": "paper",
+      "label": "Unit 01 Answers (Matching 14)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Contextual information detailing the conditions under which competency applies",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Evidence Guide"
+        },
+        {
+          "letter": "B",
+          "text": "Range Statement"
+        },
+        {
+          "letter": "C",
+          "text": "Underpinning knowledge for UoC"
+        },
+        {
+          "letter": "D",
+          "text": "Element of Competency"
+        },
+        {
+          "letter": "E",
+          "text": "Competency standard"
+        },
+        {
+          "letter": "F",
+          "text": "Performance Criteria"
+        }
+      ],
+      "src": "paper-unit01-answer",
+      "type": "matching"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-mcq-q15",
+      "kind": "paper",
+      "label": "Unit 01 Questions (Matching 15)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Provides guidance on the type and quality of evidence needed for competency",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Evidence Guide"
+        },
+        {
+          "letter": "B",
+          "text": "Range Statement"
+        },
+        {
+          "letter": "C",
+          "text": "Underpinning knowledge for UoC"
+        },
+        {
+          "letter": "D",
+          "text": "Element of Competency"
+        },
+        {
+          "letter": "E",
+          "text": "Competency standard"
+        },
+        {
+          "letter": "F",
+          "text": "Performance Criteria"
+        }
+      ],
+      "src": "paper-unit01-mcq",
+      "type": "matching"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": "A",
+      "flags": [],
+      "id": "paper-unit01-answer-q15",
+      "kind": "paper",
+      "label": "Unit 01 Answers (Matching 15)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Provides guidance on the type and quality of evidence needed for competency",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Evidence Guide"
+        },
+        {
+          "letter": "B",
+          "text": "Range Statement"
+        },
+        {
+          "letter": "C",
+          "text": "Underpinning knowledge for UoC"
+        },
+        {
+          "letter": "D",
+          "text": "Element of Competency"
+        },
+        {
+          "letter": "E",
+          "text": "Competency standard"
+        },
+        {
+          "letter": "F",
+          "text": "Performance Criteria"
+        }
+      ],
+      "src": "paper-unit01-answer",
+      "type": "matching"
+    },
+    {
+      "answer": "What purposes of evidence guide?\nThe evidence guide provides guidance to the interpretation and assessment of the unit of\ncompetency including\n•\nThe underpinning knowledge, skills and attitude requirements for the unit\n•\nThe aspects which need to be emphasized in assessment,\n•\nRelationships to other units, and\n•\nThe required evidence of competency.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit01-short-q6",
+      "kind": "paper",
+      "label": "Unit 01 Short Questions (Short 6)",
+      "page": 2,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "",
+      "src": "paper-unit01-short",
+      "type": "short"
     }
   ],
-  "score": 14,
+  "score": 17,
   "sourceType": "cblm",
   "stars": 3,
   "status": "draft",
   "title": "Components of a Competency Standard (Unit of Competency)",
   "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 36,
+          "printedPage": 36,
+          "quote": "Competency standards have mainly 9 component; such as",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        },
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 36,
+          "printedPage": 36,
+          "quote": "Skills and knowledge requirement for the unit",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Competency standards have mainly 9 components, including skills and knowledge requirement for the unit."
+    },
     {
       "cites": [
         {
@@ -853,5 +1189,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 0
+  "warnings": 1
 }

@@ -1,0 +1,315 @@
+{
+  "id": "why-review-training-delivery",
+  "canonical_title": "Why Review Training Delivery",
+  "aliases": [
+    "Why review?",
+    "Reasons to review your training delivery"
+  ],
+  "cblmPrimary": 10,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [
+    "cblm10-sc3-q1"
+  ],
+  "one_line_answer": {
+    "text": "Review training delivery to improve processes and check standards are up to date.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm10",
+        "page": 78,
+        "quote": "Review and Evaluate Training Session Delivery"
+      },
+      {
+        "src": "cblm10",
+        "page": 78,
+        "quote": "Improve: - existing processes and systems"
+      },
+      {
+        "src": "cblm10",
+        "page": 78,
+        "quote": "Check standards are up to date."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Review",
+      "bn": "পুনরায় যাচাই"
+    },
+    {
+      "en": "Benchmark",
+      "bn": "অন্যদের সাথে তুলনা করে মান দেখা"
+    },
+    {
+      "en": "Procedures",
+      "bn": "কাজের নিয়ম ও ধাপ"
+    },
+    {
+      "en": "Relevant",
+      "bn": "প্রাসঙ্গিক, এখনও কাজে লাগে"
+    },
+    {
+      "en": "Quality",
+      "bn": "মান"
+    }
+  ],
+  "bangla_explanation": [
+    "Training দেওয়ার পরে review করতে হয়, যাতে পরের বার আরও ভালো হয়।",
+    "Review দিয়ে processes, procedures আর কাজের ধরন improve করা যায়।",
+    "Standards up to date কিনা, procedures relevant আর followed কিনা দেখা হয়।",
+    "Outside ideas নেওয়া আর অন্যদের সাথে benchmark করাও review-এর উদ্দেশ্য।"
+  ],
+  "example": {
+    "en": "After a sewing course, the trainer compares her results with another institute. She adopts one new practice idea.",
+    "bn": "সেলাই কোর্স শেষে অন্য institute-এর সাথে benchmark করে একটা নতুন idea নেওয়া।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Improve existing processes and systems, procedures, and the way we do things.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Improve: - existing processes and systems - procedures - the way we do things."
+          }
+        ]
+      },
+      {
+        "text": "Check standards are up to date.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Check standards are up to date."
+          }
+        ]
+      },
+      {
+        "text": "Determine whether new systems need to be adopted.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Determine whether new systems need to be adopted."
+          }
+        ]
+      },
+      {
+        "text": "Ensure quality and confidence in current procedures.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Ensure quality and confidence in current procedures."
+          }
+        ]
+      },
+      {
+        "text": "Check procedures and approaches are still relevant.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Check procedures and approaches are still relevant."
+          }
+        ]
+      },
+      {
+        "text": "Check procedures and approaches are being followed.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Check procedures and approaches are being followed."
+          }
+        ]
+      },
+      {
+        "text": "Obtain outside ideas on the system.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Obtain outside ideas on the system."
+          }
+        ]
+      },
+      {
+        "text": "Benchmark the system against others.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Benchmark the system against others."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Check procedures are still relevant, and check they are being followed.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 78,
+          "quote": "Check procedures and approaches are still relevant."
+        },
+        {
+          "src": "cblm10",
+          "page": 78,
+          "quote": "Check procedures and approaches are being followed."
+        }
+      ]
+    },
+    {
+      "text": "Review also obtains outside ideas on the system.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 78,
+          "quote": "Review and Evaluate Training Session Delivery"
+        },
+        {
+          "src": "cblm10",
+          "page": 78,
+          "quote": "Obtain outside ideas on the system."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Why do you need to review your training delivery?",
+      "modelAnswer": "To:\n1. improve existing processes and systems, procedures and the way we do things\n2. check standards are up to date\n3. determine whether new systems need to be adopted\n4. ensure quality and confidence in current procedures\n5. check procedures are still relevant\n6. check procedures are being followed\n7. obtain outside ideas on the system\n8. benchmark the system against others",
+      "keyPoints": [
+        {
+          "text": "Determine whether new systems need to be adopted.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 78,
+              "quote": "Determine whether new systems need to be adopted."
+            }
+          ]
+        },
+        {
+          "text": "Ensure quality and confidence in current procedures.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 78,
+              "quote": "Ensure quality and confidence in current procedures."
+            }
+          ]
+        },
+        {
+          "text": "Obtain outside ideas on the system.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 78,
+              "quote": "Obtain outside ideas on the system."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a reason to review training delivery?",
+      "options": [
+        "Benchmark the system against others",
+        "Reduce training hours",
+        "Avoid learner feedback",
+        "Keep every procedure unchanged"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm10",
+        "page": 78,
+        "quote": "Benchmark the system against others."
+      }
+    },
+    "matching": {
+      "prompt": "Match the two halves of each reason to review.",
+      "pairs": [
+        {
+          "left": "Improve",
+          "right": "Existing processes and systems",
+          "cite": {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Improve: - existing processes and systems"
+          }
+        },
+        {
+          "left": "Check standards",
+          "right": "Are up to date",
+          "cite": {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Check standards are up to date."
+          }
+        },
+        {
+          "left": "Benchmark",
+          "right": "The system against others",
+          "cite": {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Benchmark the system against others."
+          }
+        },
+        {
+          "left": "Obtain",
+          "right": "Outside ideas on the system",
+          "cite": {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Obtain outside ideas on the system."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Give two reasons to review your training delivery.",
+      "answer": {
+        "text": "To check standards are up to date, and to benchmark the system against others.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Check standards are up to date."
+          },
+          {
+            "src": "cblm10",
+            "page": 78,
+            "quote": "Benchmark the system against others."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "questions",
+      "note": "cblm10-sc3-q1 has no highlighted passage. The same list is in Information Sheet 3 (p.71, not highlighted). Cites use answer key p.78."
+    }
+  ]
+}

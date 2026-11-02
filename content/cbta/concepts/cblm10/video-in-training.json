@@ -1,0 +1,307 @@
+{
+  "id": "video-in-training",
+  "canonical_title": "Using Video in Training",
+  "aliases": [
+    "Instructional videos and video clips",
+    "Areas where video is excellent",
+    "Video camera as a tool"
+  ],
+  "cblmPrimary": 10,
+  "source_type": "cblm",
+  "covers": [
+    "cblm10-p13-c201517f",
+    "cblm10-p13-66435217",
+    "cblm10-p13-4260e7ea",
+    "cblm10-p13-f33f7ae8"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Training video has two aspects: watching prepared programs and using the camera as a tool.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm10",
+        "page": 13,
+        "quote": "There are two important aspects to our use of video in training. The first is watching prepared programs and the second is actually using the camera as a tool.",
+        "passageId": "cblm10-p13-c201517f"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Video",
+      "bn": "ভিডিও, চলমান ছবি ও শব্দ"
+    },
+    {
+      "en": "Prepared program",
+      "bn": "আগে থেকে বানানো ভিডিও"
+    },
+    {
+      "en": "Preview",
+      "bn": "ক্লাসে দেখানোর আগে নিজে দেখে নেওয়া"
+    },
+    {
+      "en": "Attitude",
+      "bn": "মনোভাব, আচরণের ধরন"
+    },
+    {
+      "en": "Follow up activity",
+      "bn": "ভিডিওর পরে আলোচনা বা কাজ"
+    }
+  ],
+  "bangla_explanation": [
+    "ভিডিও দুইভাবে কাজে লাগে: তৈরি prepared program দেখা, আর নিজে camera দিয়ে ধারণ করা।",
+    "চারটি ক্ষেত্রে video খুব ভালো: knowledge, skills, problem solving আর attitudes।",
+    "ক্লাসে দেখানোর আগে অবশ্যই preview করুন।",
+    "দেখানোর পরে follow up activity দিন, যেমন প্রশ্ন বা আলোচনা।"
+  ],
+  "example": {
+    "en": "A driving trainer shows a video on changing a tyre. Then he asks: did the person jack the car safely?",
+    "bn": "ড্রাইভিং ট্রেনিং-এ চাকা বদলের ভিডিও দেখিয়ে পরে প্রশ্ন করা হয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Transferring knowledge: trainees view a lot of information in an interesting way.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "Transferring knowledge."
+          },
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "the trainee can view a lot of information in a very interesting"
+          }
+        ]
+      },
+      {
+        "text": "Learning skills: it describes motion, shown in close-up and watched repeatedly.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "Learning skills.",
+            "passageId": "cblm10-p13-66435217"
+          },
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "Because it is particularly useful in describing motion the"
+          },
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "can see assembly line steps and machinery workings in close-up and"
+          },
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "can watch repeatedly for practice and reinforcement."
+          }
+        ]
+      },
+      {
+        "text": "Problem solving: trainees observe and analyse human relations problems.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "Problem solving.",
+            "passageId": "cblm10-p13-4260e7ea"
+          },
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "The trainee can observe and analyse a whole range of"
+          },
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "human relations' problems relevant to work place communication."
+          }
+        ]
+      },
+      {
+        "text": "Changing attitudes: it acts on two senses and has emotional impact.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "Changing attitudes.",
+            "passageId": "cblm10-p13-f33f7ae8"
+          },
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "Because it acts on two senses at a time and can have"
+          },
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "significant emotional impact"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Always preview the video before using it in training.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 14,
+          "quote": "Always preview the video or forward to related segment before using it in training."
+        }
+      ]
+    },
+    {
+      "text": "Introduce the video first, and provide some follow up activity.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 14,
+          "quote": "Always prepare the individual learner or group by introducing the video."
+        },
+        {
+          "src": "cblm10",
+          "page": 14,
+          "quote": "It's also important to provide some follow up activity."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "In which areas is video excellent for training?",
+      "modelAnswer": "Video is excellent for:\n1. Transferring knowledge: a lot of information in an interesting way.\n2. Learning skills: motion and machinery shown in close-up, watched repeatedly.\n3. Problem solving: observe and analyse human relations problems.\n4. Changing attitudes: it acts on two senses and has emotional impact.",
+      "keyPoints": [
+        {
+          "text": "Is the material relevant to the training objectives?",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 14,
+              "quote": "Is the material relevant to the training objectives?"
+            }
+          ]
+        },
+        {
+          "text": "Is the information accurate?",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 14,
+              "quote": "Is the information accurate?"
+            }
+          ]
+        },
+        {
+          "text": "Is the language (e.g. level of vocabulary, use of jargon) appropriate for the group?",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 14,
+              "quote": "Is the language (e.g. level of vocabulary, use of jargon) appropriate for the group?"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Video acts on two senses and has emotional impact. So it is useful for:",
+      "options": [
+        "Changing attitudes",
+        "Transferring knowledge",
+        "Problem solving",
+        "Learning skills"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm10",
+        "page": 13,
+        "quote": "Changing attitudes. Because it acts on two senses at a time and can have"
+      }
+    },
+    "matching": {
+      "prompt": "Match each training area with why video helps.",
+      "pairs": [
+        {
+          "left": "Transferring knowledge",
+          "right": "View a lot of information in an interesting way",
+          "cite": {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "the trainee can view a lot of information in a very interesting"
+          }
+        },
+        {
+          "left": "Learning skills",
+          "right": "Useful in describing motion",
+          "cite": {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "Learning skills. Because it is particularly useful in describing motion",
+            "passageId": "cblm10-p13-66435217"
+          }
+        },
+        {
+          "left": "Problem solving",
+          "right": "Observe and analyse human relations problems",
+          "cite": {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "Problem solving. The trainee can observe and analyse a whole range of",
+            "passageId": "cblm10-p13-4260e7ea"
+          }
+        },
+        {
+          "left": "Changing attitudes",
+          "right": "Acts on two senses with emotional impact",
+          "cite": {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "Changing attitudes. Because it acts on two senses at a time and can have",
+            "passageId": "cblm10-p13-f33f7ae8"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why is video useful for learning skills?",
+      "answer": {
+        "text": "It describes motion. Trainees see machinery workings in close-up and can watch repeatedly.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "Because it is particularly useful in describing motion the"
+          },
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "can see assembly line steps and machinery workings in close-up and"
+          },
+          {
+            "src": "cblm10",
+            "page": 13,
+            "quote": "can watch repeatedly for practice and reinforcement."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

@@ -61,3 +61,15 @@ describe("definitionMismatch", () => {
     expect(definitionMismatch("List 4 hazards.", "Physical, chemical …")).toBe(false);
   });
 });
+
+describe("numbered lists inside answers", () => {
+  it("does not mistake a sub-list or a two-column table for the next questions", async () => {
+    const { pairSelfChecks: pair } = await import("../../../scripts/content/lib/selfcheck.ts");
+    const { readFileSync } = await import("node:fs");
+    const { join } = await import("node:path");
+    const qs = JSON.parse(readFileSync(join(import.meta.dirname, "../../../content/cbta/evidence/questions/cblm01.json"), "utf8")).selfChecks;
+    const q2 = qs.find((x: { id: string }) => x.id === "cblm01-sc2-q2");
+    expect(q2.answer).toMatch(/^Relationship between elements and learning outcomes/);
+    expect(typeof pair).toBe("function");
+  });
+});

@@ -1,0 +1,412 @@
+{
+  "id": "employability-skills",
+  "canonical_title": "Employability Skills",
+  "aliases": [
+    "Generic skills",
+    "Key competencies",
+    "Employability skills to progress within an enterprise"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p42-53c53c5d",
+    "cblm01-p42-d24b133e",
+    "cblm01-p42-afc97ea1",
+    "cblm01-p42-dd019039",
+    "cblm01-p43-9f6bf828",
+    "cblm01-p43-0477d720",
+    "cblm01-p43-1ccacea1",
+    "cblm01-p43-177dd4c6",
+    "cblm01-p43-9616856b",
+    "cblm01-p43-dc5a02ad",
+    "cblm01-p43-7475b94c",
+    "cblm01-p43-5959ddf7",
+    "cblm01-p44-b63c6a70"
+  ],
+  "questions": [
+    "paper-unit01-short-q8",
+    "paper-unit01-mcq-q25",
+    "paper-unit01-answer-q25"
+  ],
+  "one_line_answer": {
+    "text": "Employability skills are required to gain employment and to progress within an enterprise.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm01",
+        "page": 42,
+        "quote": "Employability skills are the skills required not only to gain employment, but also to progress within an enterprise.",
+        "passageId": "cblm01-p42-53c53c5d"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Employability",
+      "bn": "চাকরি পাওয়া ও টিকে থাকার যোগ্যতা"
+    },
+    {
+      "en": "Teamwork",
+      "bn": "দলবদ্ধভাবে কাজ"
+    },
+    {
+      "en": "Initiative and Enterprise",
+      "bn": "নিজে উদ্যোগ নেওয়া ও সৃজনশীলতা"
+    },
+    {
+      "en": "Self-management",
+      "bn": "নিজেকে ও নিজের কাজকে সামলানো"
+    },
+    {
+      "en": "Generic skills",
+      "bn": "সব কাজে লাগে এমন সাধারণ দক্ষতা"
+    }
+  ],
+  "bangla_explanation": [
+    "শুধু চাকরি পাওয়া নয়, প্রতিষ্ঠানে এগিয়ে যেতেও employability skills লাগে।",
+    "এগুলোকে generic skills, capabilities বা key competencies-ও বলা হয়।",
+    "তালিকায় সাতটা আছে: Communication, Teamwork, Problem Solving, Initiative and Enterprise, Self management, Learning, Technology।",
+    "প্রশ্নে চারটা চাইলে প্রথম চারটা লিখুন, পারলে সাতটাই।"
+  ],
+  "example": {
+    "en": "A trainer records assessments in the student information system. This shows the Technology skill.",
+    "bn": "Student information system-এ assessment record করা হলো Technology skill।"
+  },
+  "mnemonic": {
+    "text": "CT-PI-SLT: Communication, Teamwork, Problem solving, Initiative, Self-management, Learning, Technology",
+    "explain_bn": "প্রতিটা অক্ষর একটা skill-এর প্রথম অক্ষর, table-এর ক্রমে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Communication: interpret client needs; listen, question, read and write documents.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm01",
+            "page": 42,
+            "quote": "Communication",
+            "passageId": "cblm01-p42-afc97ea1"
+          },
+          {
+            "src": "cblm01",
+            "page": 42,
+            "quote": "interpreting the needs of the client"
+          },
+          {
+            "src": "cblm01",
+            "page": 42,
+            "quote": "listening, questioning, reading, interpreting and writing documents"
+          }
+        ]
+      },
+      {
+        "text": "Teamwork: working with colleagues and participating in assessment validation sessions.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm01",
+            "page": 42,
+            "quote": "Teamwork",
+            "passageId": "cblm01-p42-dd019039"
+          },
+          {
+            "src": "cblm01",
+            "page": 42,
+            "quote": "working with colleagues to compare, review and"
+          },
+          {
+            "src": "cblm01",
+            "page": 42,
+            "quote": "actively participating in assessment validation sessions"
+          }
+        ]
+      },
+      {
+        "text": "Problem Solving: identify hazards, assess risks and generate options to meet client needs.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "Problem Solving",
+            "passageId": "cblm01-p43-9f6bf828"
+          },
+          {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "identifying hazards and assessing risks in the learning"
+          },
+          {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "generating a range of options to meet client needs"
+          }
+        ]
+      },
+      {
+        "text": "Initiative and Enterprise: be creative to meet the training needs of clients.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "Initiative and",
+            "passageId": "cblm01-p43-0477d720"
+          },
+          {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "Enterprise delivery approaches that motivate and engage learners"
+          },
+          {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "being creative to meet the training needs of clients"
+          }
+        ]
+      },
+      {
+        "text": "Self-management: manage work and work relationships; follow ethical and legal responsibilities.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "Self-management",
+            "passageId": "cblm01-p43-1ccacea1"
+          },
+          {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "managing work and work relationships",
+            "passageId": "cblm01-p43-177dd4c6"
+          },
+          {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "adhering to ethical and legal responsibilities"
+          }
+        ]
+      },
+      {
+        "text": "Learning: undertake self evaluation and reflection; seek feedback from colleagues.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "Learning undertaking self evaluation and reflection practices",
+            "passageId": "cblm01-p43-9616856b"
+          },
+          {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "seeking feedback from colleagues",
+            "passageId": "cblm01-p43-dc5a02ad"
+          }
+        ]
+      },
+      {
+        "text": "Technology: use technology to enhance outcomes; record assessments in student information systems.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "Technology using technology to enhance outcomes",
+            "passageId": "cblm01-p43-7475b94c"
+          },
+          {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "using student information management systems to",
+            "passageId": "cblm01-p43-5959ddf7"
+          },
+          {
+            "src": "cblm01",
+            "page": 44,
+            "quote": "record assessments",
+            "passageId": "cblm01-p44-b63c6a70"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Employability skills are also called generic skills, capabilities or key competencies.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm01",
+          "page": 42,
+          "quote": "Employability skills are also sometimes referred to as generic skills, capabilities or key competencies.",
+          "passageId": "cblm01-p42-d24b133e"
+        }
+      ]
+    },
+    {
+      "text": "Managing work tasks, timelines and priorities is also one of the Employability Skills.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm01",
+          "page": 41,
+          "quote": "manage work tasks, timelines and priorities is actually one of the eight Employability Skills"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "List four key employability skills needed to progress within an enterprise.",
+      "modelAnswer": "Employability skills are needed to gain employment and to progress within an enterprise. They are:\n1. Communication\n2. Teamwork\n3. Problem Solving\n4. Initiative and Enterprise\n5. Self-management\n6. Learning\n7. Technology",
+      "keyPoints": [
+        {
+          "text": "Communication includes writing hazard and incident reports.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm01",
+              "page": 42,
+              "quote": "Communication"
+            },
+            {
+              "src": "cblm01",
+              "page": 42,
+              "quote": "writing hazard and incident reports"
+            }
+          ]
+        },
+        {
+          "text": "Self-management includes being a role model for inclusiveness and demonstrating professionalism.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm01",
+              "page": 43,
+              "quote": "Self-management working within policy and organizational frameworks"
+            },
+            {
+              "src": "cblm01",
+              "page": 43,
+              "quote": "being a role model for inclusiveness and demonstrating"
+            },
+            {
+              "src": "cblm01",
+              "page": 43,
+              "quote": "professionalism"
+            }
+          ]
+        },
+        {
+          "text": "Technology includes using a range of software, including presentation packages.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm01",
+              "page": 43,
+              "quote": "Technology using technology to enhance outcomes"
+            },
+            {
+              "src": "cblm01",
+              "page": 44,
+              "quote": "using a range of software (including presentation"
+            },
+            {
+              "src": "cblm01",
+              "page": 44,
+              "quote": "packages)"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which of these is an employability skill?",
+      "options": [
+        "Self-management",
+        "Nominal hours",
+        "Range statement",
+        "Earn and Learn"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm01",
+        "page": 43,
+        "quote": "Self-management working within policy and organizational frameworks"
+      }
+    },
+    "matching": {
+      "prompt": "Match each employability skill with a requirement.",
+      "pairs": [
+        {
+          "left": "Communication",
+          "right": "Writing hazard and incident reports",
+          "cite": {
+            "src": "cblm01",
+            "page": 42,
+            "quote": "documents writing hazard and incident reports"
+          }
+        },
+        {
+          "left": "Teamwork",
+          "right": "Participating in assessment validation sessions",
+          "cite": {
+            "src": "cblm01",
+            "page": 42,
+            "quote": "actively participating in assessment validation sessions"
+          }
+        },
+        {
+          "left": "Self-management",
+          "right": "Adhering to ethical and legal responsibilities",
+          "cite": {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "managing work and work relationships adhering to ethical and legal responsibilities"
+          }
+        },
+        {
+          "left": "Learning",
+          "right": "Self evaluation and reflection practices",
+          "cite": {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "Learning undertaking self evaluation and reflection practices"
+          }
+        },
+        {
+          "left": "Technology",
+          "right": "Student information management systems to record assessments",
+          "cite": {
+            "src": "cblm01",
+            "page": 43,
+            "quote": "using student information management systems to record assessments"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why are employability skills important?",
+      "answer": {
+        "text": "They are needed to gain employment and to progress within an enterprise.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm01",
+            "page": 42,
+            "quote": "Employability skills are the skills required not only to gain employment, but also to progress within an enterprise."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "traps[1]",
+      "note": "Count conflict inside CBLM 1: p.41 says 'one of the eight Employability Skills', but the p.42-44 table lists seven (Communication, Teamwork, Problem Solving, Initiative and Enterprise, Self management, Learning, Technology). The Unit 01 paper answers also list seven. p.41 implies planning and organizing (managing work tasks, timelines and priorities) is the eighth. The card teaches the seven in the table."
+    }
+  ]
+}

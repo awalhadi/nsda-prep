@@ -1,0 +1,285 @@
+{
+  "id": "cbt-program",
+  "canonical_title": "Competency Based Training (CBT) Program",
+  "aliases": [
+    "Competency based training program",
+    "Definition of CBT",
+    "CBT"
+  ],
+  "cblmPrimary": 10,
+  "source_type": "cblm",
+  "covers": [
+    "cblm10-p34-ac3e7b00",
+    "cblm10-p34-8c97e460",
+    "cblm10-p34-1b75f1a8",
+    "cblm10-p34-d24b133e",
+    "cblm10-p34-ca29faea",
+    "cblm10-p34-0bab1dd8",
+    "cblm10-p34-bd7c809d"
+  ],
+  "questions": [
+    "cblm10-sc2-q1"
+  ],
+  "one_line_answer": {
+    "text": "CBT places emphasis on what a person can do in the workplace after training.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm10",
+        "page": 34,
+        "quote": "Competency based training (CBT) places emphasis on what a person can do in the workplace as a result of completing a training program.",
+        "passageId": "cblm10-p34-ac3e7b00"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Competency Based Training (CBT)",
+      "bn": "দক্ষতাভিত্তিক প্রশিক্ষণ"
+    },
+    {
+      "en": "Module",
+      "bn": "কোর্সের একেকটা অংশ"
+    },
+    {
+      "en": "Learning outcomes",
+      "bn": "শেখার ফলাফল, module-এর ছোট অংশ"
+    },
+    {
+      "en": "Industry standards",
+      "bn": "ইন্ডাস্ট্রির ঠিক করা মান"
+    },
+    {
+      "en": "Fixed timeframe",
+      "bn": "নির্দিষ্ট সময়সীমা"
+    }
+  ],
+  "bangla_explanation": [
+    "CBT-তে আসল প্রশ্ন: training শেষে workplace-এ লোকটা কী করতে পারে।",
+    "Program modules দিয়ে তৈরি, আর modules ভাগ হয় learning outcomes-এ।",
+    "Modules industry standards-এর ওপর ভিত্তি করে বানানো।",
+    "Progress সময়ের ওপর নির্ভর করে না; module শেষ হলেই পরের module-এ যাওয়া যায়।"
+  ],
+  "example": {
+    "en": "A fast learner in a plumbing course finishes module 1 early. He moves straight to module 2.",
+    "bn": "প্লাম্বিং কোর্সে যে আগে module শেষ করে, সে আগেই পরের module-এ যায়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "CBT programs have modules broken into segments called learning outcomes.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "CBT programs are often comprised of modules broken into segments called learning",
+            "passageId": "cblm10-p34-8c97e460"
+          },
+          {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "outcomes. These modules are based",
+            "passageId": "cblm10-p34-1b75f1a8"
+          }
+        ]
+      },
+      {
+        "text": "Modules are based on standards set by industry.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "These modules are based on standards set by industry"
+          }
+        ]
+      },
+      {
+        "text": "Assessment ensures each student has achieved all module outcomes.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "assessment is designed to ensure each student has achieved all module outcomes."
+          }
+        ]
+      },
+      {
+        "text": "Progress within a CBT program is not based on time.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "Progress within a CBT program is not based on time.",
+            "passageId": "cblm10-p34-d24b133e"
+          }
+        ]
+      },
+      {
+        "text": "When students complete a module, they can move to the next module.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "When students complete the requirements in a module, they can move to the next module"
+          }
+        ]
+      },
+      {
+        "text": "Some programs have fixed timeframes; some have on the job and outside the job components.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "Some CBT programs will only be available within fixed timeframes and some have on",
+            "passageId": "cblm10-p34-ca29faea"
+          },
+          {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "the job and outside the job components.",
+            "passageId": "cblm10-p34-bd7c809d"
+          },
+          {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "some have on the job",
+            "passageId": "cblm10-p34-0bab1dd8"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Competency focuses on what is expected in the workplace, not on the learning process.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 34,
+          "quote": "It focuses on what is expected of an employee in the workplace rather than on the learning process."
+        }
+      ]
+    },
+    {
+      "text": "The learner gains more control of the learning process than before.",
+      "fidelity": "verbatim",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 34,
+          "quote": "The learner gains more control of the learning process than before."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "How do you define a competency based training program?",
+      "modelAnswer": "Competency based training (CBT) places emphasis on what a person can do in the workplace after a training program.\n1. CBT programs have modules broken into learning outcomes.\n2. Modules are based on industry standards.\n3. Assessment ensures each student achieves all module outcomes.\n4. Progress is not based on time.\n5. Some programs have fixed timeframes, and on and off the job parts.",
+      "keyPoints": [
+        {
+          "text": "Competency is a broad concept, not only narrow skills.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "Competency is a broad concept that includes all aspects of work performance and not only narrow skills."
+            }
+          ]
+        },
+        {
+          "text": "Students may be able to complete a program of study quickly.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "therefore they may be able to complete a program of study quickly."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "In a CBT program, what decides when a student moves to the next module?",
+      "options": [
+        "Completing the module requirements",
+        "Time spent in class",
+        "The trainer's timetable",
+        "The age of the student"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm10",
+        "page": 34,
+        "quote": "When students complete the requirements in a module, they can move to the next module"
+      }
+    },
+    "matching": {
+      "prompt": "Match each CBT program feature with its meaning.",
+      "pairs": [
+        {
+          "left": "Modules",
+          "right": "Broken into segments called learning outcomes",
+          "cite": {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "CBT programs are often comprised of modules broken into segments called learning outcomes.",
+            "passageId": "cblm10-p34-8c97e460"
+          }
+        },
+        {
+          "left": "Standards",
+          "right": "Set by industry",
+          "cite": {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "These modules are based on standards set by industry"
+          }
+        },
+        {
+          "left": "Assessment",
+          "right": "Each student achieves all module outcomes",
+          "cite": {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "assessment is designed to ensure each student has achieved all module outcomes."
+          }
+        },
+        {
+          "left": "Progress",
+          "right": "Not based on time",
+          "cite": {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "Progress within a CBT program is not based on time.",
+            "passageId": "cblm10-p34-d24b133e"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Is progress in a CBT program based on time?",
+      "answer": {
+        "text": "No. Progress within a CBT program is not based on time.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 34,
+            "quote": "Progress within a CBT program is not based on time."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

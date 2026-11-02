@@ -1,0 +1,307 @@
+{
+  "id": "vark-learning-styles",
+  "canonical_title": "VARK Learning Styles",
+  "aliases": [
+    "VARK model",
+    "Learning styles",
+    "Senses and learning styles",
+    "Visual, Aural, Read/write, Kinaesthetic"
+  ],
+  "cblmPrimary": 10,
+  "source_type": "cblm",
+  "covers": [
+    "cblm10-p32-9b41f9c0",
+    "cblm10-p32-16780e1f",
+    "cblm10-p32-e1f463f5",
+    "cblm10-p32-d69b923d",
+    "cblm10-p33-96edb332",
+    "cblm10-p33-de8627f7",
+    "cblm10-p33-ff5ae4a7",
+    "cblm10-p33-07b235bb"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "VARK is the most commonly used model of a person's learning style preferences.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm10",
+        "page": 32,
+        "quote": "VARK is the most commonly used model that attempts to deal with one dimension of the complex blend of preferences that make up a person's learning style.",
+        "passageId": "cblm10-p32-16780e1f"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Learning style",
+      "bn": "শেখার পছন্দের ধরন"
+    },
+    {
+      "en": "Visual",
+      "bn": "চোখে দেখে শেখা"
+    },
+    {
+      "en": "Aural",
+      "bn": "কানে শুনে শেখা"
+    },
+    {
+      "en": "Read / Write",
+      "bn": "পড়ে ও লিখে শেখা"
+    },
+    {
+      "en": "Kinaesthetic",
+      "bn": "হাতে ধরে, করে করে শেখা"
+    }
+  ],
+  "bangla_explanation": [
+    "সবাই একভাবে শেখে না; কেউ দেখে, কেউ শুনে, কেউ পড়ে, কেউ করে শেখে।",
+    "VARK মানে Visual, Aural, Read/write, Kinaesthetic।",
+    "প্রশ্ন হবে 'learner smart কিনা' নয়, বরং 'learner কীভাবে smart'।",
+    "তাই ক্লাসে নানা রকম কাজ রাখলে সব style-এর learners শিখতে পারে।"
+  ],
+  "example": {
+    "en": "In a garments class, show a diagram and explain it aloud. Then give a handout and let learners sew.",
+    "bn": "গার্মেন্টস ক্লাসে diagram দেখান, মুখে বলুন, handout দিন, তারপর নিজে সেলাই করতে দিন।"
+  },
+  "mnemonic": {
+    "text": "V-A-R-K: Visual, Aural, Read/write, Kinaesthetic",
+    "explain_bn": "চোখ (V), কান (A), পড়া-লেখা (R), হাত (K): চারটা ইন্দ্রিয়ের পথ।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Visual (V): information in visual form, such as charts, graphs, flow charts.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 32,
+            "quote": "learning styles",
+            "passageId": "cblm10-p32-9b41f9c0"
+          },
+          {
+            "src": "cblm10",
+            "page": 32,
+            "quote": "Visual (V):"
+          },
+          {
+            "src": "cblm10",
+            "page": 32,
+            "quote": "This learning preference includes the representation of information in a",
+            "passageId": "cblm10-p32-e1f463f5"
+          },
+          {
+            "src": "cblm10",
+            "page": 32,
+            "quote": "visual form i.e charts, graphs, flow charts",
+            "passageId": "cblm10-p32-d69b923d"
+          }
+        ]
+      },
+      {
+        "text": "Aural (A): learn by hearing, such as lectures, tutorials, group discussion.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "Aural / Auditory (A):"
+          },
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "a preference for information to learn through \"hearing information\".",
+            "passageId": "cblm10-p33-96edb332"
+          },
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "lectures, tutorials, tapes, group discussion,"
+          }
+        ]
+      },
+      {
+        "text": "Read / Write (R): learn through reading and writing; text-based input and output.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "Read / Write (R):"
+          },
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "they like to learn through reading & writing"
+          },
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "This preference emphasises text-based input and output",
+            "passageId": "cblm10-p33-07b235bb"
+          }
+        ]
+      },
+      {
+        "text": "Kinaesthetic (K): touch things and try things out; they need to do to learn.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "Kinaesthetic (K):"
+          },
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "Learners with this preference like to touch things (tactile) and try"
+          },
+          {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "things out. They need \"to do\" in order to learn."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Ask \"How is this learner smart?\" not \"Is this learner smart?\"",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 32,
+          "quote": "facilitators should not ask, \"Is this learner smart?\" but rather \"How is this learner smart?\""
+        }
+      ]
+    },
+    {
+      "text": "VARK deals with only one dimension of a person's learning style.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 32,
+          "quote": "VARK is the most commonly used model that attempts to deal with one dimension of the complex blend of preferences that make up a person's learning style."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Explain the VARK learning styles.",
+      "modelAnswer": "VARK is the most commonly used learning style model.\n1. Visual (V): charts, graphs, flow charts, symbols.\n2. Aural (A): learn by hearing: lectures, group discussion.\n3. Read / Write (R): reading and writing, text-based.\n4. Kinaesthetic (K): touch things and try things out; learn by doing.",
+      "keyPoints": [
+        {
+          "text": "VARK explores how we take in and give out information whilst learning.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 32,
+              "quote": "VARK provides a means for exploring our preferences in how we take-in and give-out information whilst learning."
+            }
+          ]
+        },
+        {
+          "text": "Individuals perceive and process information in different ways.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 32,
+              "quote": "Individuals perceive and process information in different ways."
+            }
+          ]
+        },
+        {
+          "text": "Fleming and Mills (1992) suggested four categories.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 32,
+              "quote": "Fleming and Mills (1992) suggested four categories"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "A learner needs \"to do\" in order to learn. Which learning style is this?",
+      "options": [
+        "Kinaesthetic",
+        "Visual",
+        "Aural",
+        "Read / Write"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm10",
+        "page": 33,
+        "quote": "Kinaesthetic (K): Learners with this preference like to touch things (tactile) and try"
+      }
+    },
+    "matching": {
+      "prompt": "Match each learning style with how the learner likes to learn.",
+      "pairs": [
+        {
+          "left": "Visual",
+          "right": "Charts, graphs, flow charts",
+          "cite": {
+            "src": "cblm10",
+            "page": 32,
+            "quote": "Visual (V): This learning preference includes the representation of information in a visual form i.e charts, graphs, flow charts"
+          }
+        },
+        {
+          "left": "Aural",
+          "right": "Lectures, tutorials, group discussion",
+          "cite": {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "lectures, tutorials, tapes, group discussion, speaking, web chat, talking things through.",
+            "passageId": "cblm10-p33-de8627f7"
+          }
+        },
+        {
+          "left": "Read / Write",
+          "right": "Learn through reading and writing",
+          "cite": {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "The learners with this preference say they like to learn through reading & writing",
+            "passageId": "cblm10-p33-ff5ae4a7"
+          }
+        },
+        {
+          "left": "Kinaesthetic",
+          "right": "Touch things and try things out",
+          "cite": {
+            "src": "cblm10",
+            "page": 33,
+            "quote": "Kinaesthetic (K): Learners with this preference like to touch things (tactile) and try things out."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What does VARK stand for?",
+      "answer": {
+        "text": "VARK stands for Visual, Aural, Read/write and Kinaesthetic.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 32,
+            "quote": "The acronym VARK stands for Visual, Aural, Read/write, and Kinaesthetic"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

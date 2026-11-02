@@ -10,7 +10,8 @@ import { effectiveStatus, type Ledger } from "../../../scripts/content/lib/ledge
 
 const ROOT = join(import.meta.dirname, "../../..");
 const dir = mkdtempSync(join(tmpdir(), "cbta-concepts-"));
-cpSync(join(ROOT, "content/cbta/concepts"), dir, { recursive: true });
+// Only the card under test, so each build stays fast as the content grows.
+cpSync(join(ROOT, "content/cbta/concepts/cblm03"), join(dir, "cblm03"), { recursive: true });
 const file = join(dir, "cblm03/hierarchy-of-controls.json");
 const evidence = loadEvidence();
 afterAll(() => rmSync(dir, { recursive: true, force: true }));

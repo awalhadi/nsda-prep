@@ -15,7 +15,7 @@
     "content:verify": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/verify.ts",
     "content:coverage": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/coverage.ts",
     "content:build": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/build.ts",
-    "content:check": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/build.ts --check --strict=cblm08,cblm09,cblm11,cblm12",
+    "content:check": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/build.ts --check --strict=cblm01,cblm02,cblm08,cblm09,cblm10,cblm11,cblm12",
     "content:approve": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/content/approve.ts",
     "content:proof": "bash scripts/cblm/run.sh render_proof.py",
     "content:all": "npm run content:extract && npm run content:derive && npm run content:proof && npm run content:build",

@@ -5,6 +5,20 @@
   ],
   "appearsIn": [
     {
+      "cblm": 1,
+      "pages": [
+        {
+          "pdf": 26,
+          "printed": 26
+        },
+        {
+          "pdf": 27,
+          "printed": 27
+        }
+      ],
+      "src": "cblm01"
+    },
+    {
       "cblm": 8,
       "pages": [
         {
@@ -32,9 +46,9 @@
     "কখনো একটি element একটি learning outcome-এর সমান, কখনো একটি element থেকে 3 বা 4টি outcome হয়।"
   ],
   "breakdown": {
-    "exam": 4,
+    "exam": 6,
     "highlight": 3,
-    "repeat": 2
+    "repeat": 3
   },
   "cblmPrimary": 8,
   "errata": [],
@@ -45,8 +59,8 @@
   "highlighted": true,
   "id": "learning-outcome-vs-element",
   "importance": {
-    "bn": "Short Questions (Short 31) আর Unit 01 Short Questions (Short 9, 5): 2 জায়গায় এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
-    "en": "Asked in Short Questions (Short 31) and Unit 01 Short Questions (Short 9, 5). Highlighted in CBLM 8. Comes as short question."
+    "bn": "Short Questions (Short 31), Unit 01 Short Questions (Short 9, 5) আর CBLM 1 Self Check 2 (Q2): 3 জায়গায় এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Short Questions (Short 31), Unit 01 Short Questions (Short 9, 5) and CBLM 1 Self Check 2 (Q2). Highlighted in CBLM 8. Comes as short question."
   },
   "keywords": [
     {
@@ -486,9 +500,21 @@
       "question": "",
       "src": "paper-unit01-short",
       "type": "short"
+    },
+    {
+      "answer": "Relationship between elements and learning outcomes\nA learning outcome\n•\nIs a curriculum term\n•\nStates what a learner should be able to do towards achieving the purpose of\nthe module/unit of competency\n•\nRelates to standards of competency identified by industry\n•\nIs written as an action statement from the learner's point of view.\nAn element of competency\n•\nIs a industry competency standards term\n•\nIs the basic building block of a unit of competence\n•\nDescribes the tasks that make up the broader function or job.",
+      "flags": [],
+      "id": "cblm01-sc2-q2",
+      "kind": "selfcheck",
+      "label": "CBLM 1 Self Check 2 (Q2)",
+      "page": 34,
+      "printedPage": 34,
+      "question": "What is the relationship between learning outcomes and elements?",
+      "src": "cblm01",
+      "type": "short"
     }
   ],
-  "score": 9,
+  "score": 12,
   "sourceType": "cblm",
   "stars": 3,
   "status": "draft",
@@ -572,5 +598,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 1
+  "warnings": 2
 }

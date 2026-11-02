@@ -1,0 +1,209 @@
+{
+  "id": "dimensions-of-competency",
+  "canonical_title": "Four Dimensions of Competency",
+  "aliases": [
+    "Dimensions of competency",
+    "Task skills, task management skills, contingency management skills and job/role environment skills"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p13-cfa1150f",
+    "cblm01-p13-4e9ce690",
+    "cblm01-p13-7340ca22",
+    "cblm01-p13-cb6c53bc",
+    "cblm01-p13-d24b40ad",
+    "cblm01-p13-574f8553",
+    "cblm01-p13-418e1915",
+    "cblm01-p13-2bfba6b3"
+  ],
+  "questions": [
+    "paper-unit01-short-q1",
+    "paper-unit01-short-q7",
+    "paper-unit01-short-q10",
+    "paper-final-formative-01-q2",
+    "paper-final-formative-01-q11",
+    "paper-short-questions-q25",
+    "paper-short-questions-q26",
+    "paper-short-questions-q27",
+    "paper-short-questions-q28",
+    "paper-short-questions-q32"
+  ],
+  "one_line_answer": {
+    "text": "Competency has four dimensions: task, task management, contingency management and job/role environment skills.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm01", "page": 13, "quote": "Dimensions of Competency", "passageId": "cblm01-p13-cfa1150f" },
+      { "src": "cblm01", "page": 14, "quote": "Photocopier Operator under 4 dimensions of Competency" },
+      { "src": "cblm01", "page": 13, "quote": "Task Skills" },
+      { "src": "cblm01", "page": 13, "quote": "Task Management Skills" },
+      { "src": "cblm01", "page": 13, "quote": "Contingency Management Skills" },
+      { "src": "cblm01", "page": 13, "quote": "Job/Role Environment Skills" }
+    ]
+  },
+  "keywords": [
+    { "en": "Dimension", "bn": "দিক বা মাত্রা" },
+    { "en": "Task skills", "bn": "নির্দিষ্ট মান অনুযায়ী একটা কাজ করা" },
+    { "en": "Task management skills", "bn": "একসাথে কয়েকটা কাজ পরিকল্পনা করে সামলানো" },
+    { "en": "Contingency management skills", "bn": "হঠাৎ সমস্যা বা ভাঙন হলে সামলানো" },
+    { "en": "Job/role environment skills", "bn": "অন্যদের সাথে কাজ করা ও পরিবেশের সাথে মানিয়ে চলা" }
+  ],
+  "bangla_explanation": [
+    "একজন কর্মীর competency আছে কিনা বুঝতে চারটা দিক দেখতে হয়।",
+    "Task skills = কাজটা standard অনুযায়ী করা; task management = কয়েকটা কাজ একসাথে সামলানো।",
+    "Contingency = হঠাৎ breakdowns বা অজানা সমস্যা হলে কী করবে।",
+    "Job/role environment = নির্দেশ মানা, অন্যদের সাথে communicating ও মানিয়ে চলা।"
+  ],
+  "example": {
+    "en": "A photocopier operator uses the machine and selects paper. He clears jams and liaises with the team.",
+    "bn": "Photocopy: মেশিন চালানো (task), কাগজ বাছাই (task management), paper jam ঠিক করা (contingency), team-এর সাথে কথা (job/role)।"
+  },
+  "mnemonic": {
+    "text": "T-TM-CM-JR: Task, Task Management, Contingency Management, Job/Role",
+    "explain_bn": "ছোট থেকে বড়: একটা task, অনেক task, সমস্যার সময়, আর পুরো কাজের পরিবেশ।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Task skills: perform the task to the set standard in the unit of competency.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 13, "quote": "Task Skills require performance of the task/s according to the set standard as described in the unit of competency", "passageId": "cblm01-p13-4e9ce690" }
+        ]
+      },
+      {
+        "text": "Task management skills: plan and integrate different tasks to achieve a complete work outcome.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 13, "quote": "Task Management Skills captures the skills people use to plan and integrate a number of potentially different tasks to achieve a complete work outcome." }
+        ]
+      },
+      {
+        "text": "Contingency management skills: respond to irregularities, breakdowns, imperfections and the unknown in routines.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 13, "quote": "Contingency Management Skills mean the ability to respond to irregularities and breakdowns, imperfections and even to unknown in routines.", "passageId": "cblm01-p13-574f8553" }
+        ]
+      },
+      {
+        "text": "Job/role environment skills: work with others and adapt to different situations.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 13, "quote": "Job/Role Environment Skills is the capacity to work with others and adapt to different situations", "passageId": "cblm01-p13-418e1915" }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Clear paper jams is contingency management, not task skills.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 14, "quote": "Contingency Management Clear paper jams" },
+        { "src": "cblm01", "page": 14, "quote": "Task Skills Use a photocopier" }
+      ]
+    },
+    {
+      "text": "Task management skills involve managing multiple tasks at the same time.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 13, "quote": "Task management skills involve carrying out tasks simultaneously or managing multiple tasks at the same time.", "passageId": "cblm01-p13-d24b40ad" }
+      ]
+    },
+    {
+      "text": "Job / role environment skills involve following instructions and communicating with others.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 13, "quote": "Job / role environment skills involve; following instructions and communicating with others.", "passageId": "cblm01-p13-2bfba6b3" }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the four dimensions of competency? Where are they found in a unit of competency?",
+      "modelAnswer": "Competency has four dimensions:\n1. Task skills: perform the task to the set standard. Found in elements and performance criteria.\n2. Task management skills: plan and manage multiple tasks. Found in performance criteria, underpinning skills and knowledge.\n3. Contingency management skills: respond to breakdowns and the unknown. Found in critical aspects of evidence.\n4. Job/role environment skills: work with others and adapt. Found in key competencies.",
+      "keyPoints": [
+        {
+          "text": "Task skills are usually described in the elements and performance criteria.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 13, "quote": "Task skills are usually described in the elements and performance criteria." }
+          ]
+        },
+        {
+          "text": "Task management skills are found in performance criteria, underpinning skills and knowledge.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 13, "quote": "Task management skills are found in the performance criteria, underpinning skills and knowledge." }
+          ]
+        },
+        {
+          "text": "Contingency skills are usually found in the critical aspects of evidence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 13, "quote": "Contingency skills are usually found in the critical aspects of evidence, performance criteria and underpinning skills and knowledge." }
+          ]
+        },
+        {
+          "text": "Job/role environment skills are mostly in key competencies and underpinning skills and knowledge.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 13, "quote": "Job / role environment skills are mostly covered in the key competencies and underpinning skills and knowledge." }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "For a Photocopy Machine Operator, 'clear paper jams' falls under which dimension of competency?",
+      "options": [
+        "Task skills",
+        "Task management skills",
+        "Contingency management skills",
+        "Job/role environment skills"
+      ],
+      "answerIndex": 2,
+      "answerCite": { "src": "cblm01", "page": 14, "quote": "Contingency Management Clear paper jams Skills" }
+    },
+    "matching": {
+      "prompt": "Match each dimension with the photocopier operator's task.",
+      "pairs": [
+        {
+          "left": "Task skills",
+          "right": "Use a photocopier",
+          "cite": { "src": "cblm01", "page": 14, "quote": "Task Skills Use a photocopier" }
+        },
+        {
+          "left": "Task management skills",
+          "right": "Select the right paper and functions",
+          "cite": { "src": "cblm01", "page": 14, "quote": "Task Management Skills Select the right paper and functions" }
+        },
+        {
+          "left": "Contingency management skills",
+          "right": "Clear paper jams",
+          "cite": { "src": "cblm01", "page": 14, "quote": "Contingency Management Clear paper jams Skills" }
+        },
+        {
+          "left": "Job/role environment skills",
+          "right": "Liaise with team members on print job requirements",
+          "cite": { "src": "cblm01", "page": 14, "quote": "Job/Role Environment Skills Liaise with team members on print job requirements" }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What are contingency management skills?",
+      "answer": {
+        "text": "They are the ability to respond to irregularities, breakdowns and the unknown in routines.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 13, "quote": "mean the ability to respond to irregularities and breakdowns, imperfections and even to unknown in routines." }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "questions",
+      "note": "paper-short-questions-q27 answer says job/role skills mean interacting with 'managers, supervisors, colleagues, customers or suppliers'. CBLM 1 p.13 says 'following instructions and communicating with others'. The card follows CBLM 1."
+    }
+  ]
+}

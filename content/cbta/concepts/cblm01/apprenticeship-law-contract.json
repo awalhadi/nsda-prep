@@ -1,0 +1,184 @@
+{
+  "id": "apprenticeship-law-contract",
+  "canonical_title": "Apprenticeship Laws and the Apprentice Contract",
+  "aliases": [
+    "Minimum requirements of national apprenticeship law",
+    "Apprenticeship law",
+    "Apprentice contract"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p31-cfe48252",
+    "cblm01-p32-d9c8a52b"
+  ],
+  "questions": [
+    "paper-unit01-mcq-q22",
+    "paper-unit01-answer-q22",
+    "paper-unit01-mcq-q10",
+    "paper-unit01-answer-q10"
+  ],
+  "one_line_answer": {
+    "text": "Apprenticeship laws establish minimum requirements for protecting the welfare of the apprentice.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm01", "page": 31, "quote": "These laws and", "passageId": "cblm01-p31-cfe48252" },
+      { "src": "cblm01", "page": 31, "quote": "regulations establish minimum requirements for protecting the welfare of the" },
+      { "src": "cblm01", "page": 31, "quote": "apprentice, such as:" }
+    ]
+  },
+  "keywords": [
+    { "en": "Apprenticeship law", "bn": "শিক্ষানবিশি আইন" },
+    { "en": "Welfare", "bn": "কল্যাণ, সুরক্ষা" },
+    { "en": "Ratio", "bn": "অনুপাত" },
+    { "en": "Contract", "bn": "লিখিত চুক্তি" },
+    { "en": "Related instruction", "bn": "সংশ্লিষ্ট তাত্ত্বিক ক্লাস" }
+  ],
+  "bangla_explanation": [
+    "Apprentice যেন শোষিত না হয়, তাই national laws ন্যূনতম শর্ত ঠিক করে দেয়।",
+    "যেমন: training কতদিন, কত related instruction, supervision, আর regular workers-এর তুলনায় apprentices-এর ratio।",
+    "Contract হলো apprentice, employer আর state-এর মধ্যে লিখিত agreement।",
+    "Contract-এ লেখা থাকে training-এর length, skills আর apprentice কত wages পাবে।"
+  ],
+  "example": {
+    "en": "A garments factory takes ten apprentices. The law limits how many apprentices it can have per regular worker.",
+    "bn": "গার্মেন্টসে regular workers-এর তুলনায় কতজন apprentices রাখা যাবে, তা আইন ঠিক করে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "The length of training",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 31, "quote": "a. The length of training," }
+        ]
+      },
+      {
+        "text": "Type and amount of related instruction",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 31, "quote": "b. Type and amount of related instruction" }
+        ]
+      },
+      {
+        "text": "Supervision of the apprentice",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 31, "quote": "c. Supervision of the apprentice" }
+        ]
+      },
+      {
+        "text": "Appropriate ratios of apprentices to regular workers",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 31, "quote": "d. Appropriate ratios of apprentices to regular workers" }
+        ]
+      },
+      {
+        "text": "Apprentice selection and recruitment procedures",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 31, "quote": "e. Apprentice selection and recruitment procedures, etc." }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Write the 4 minimum requirements of apprenticeship law: write any four of the five listed.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "paper-unit01-answer", "page": 5, "quote": "Write the 4 (four) minimum requirements of national apprenticeship law?" },
+        { "src": "cblm01", "page": 31, "quote": "e. Apprentice selection and recruitment procedures, etc." }
+      ]
+    },
+    {
+      "text": "Ratios of apprentices to regular workers belong to the law, not the written contract.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 31, "quote": "d. Appropriate ratios of apprentices to regular workers" },
+        { "src": "cblm01", "page": 31, "quote": "These laws and" },
+        { "src": "cblm01", "page": 32, "quote": "written agreement, or contract between the apprentice" }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Write four minimum requirements of national apprenticeship law. What does an apprentice contract specify?",
+      "modelAnswer": "Apprenticeship laws set minimum requirements to protect the apprentice's welfare:\n1. The length of training\n2. Type and amount of related instruction\n3. Supervision of the apprentice\n4. Appropriate ratios of apprentices to regular workers\n5. Apprentice selection and recruitment procedures\nThe apprentice contract specifies the length of training, school requirements, skills to be learned and wages.",
+      "keyPoints": [
+        {
+          "text": "The national legal framework should provide guidance from the policy level.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 31, "quote": "The national legal" },
+            { "src": "cblm01", "page": 31, "quote": "framework should provide the guidance from the policy level." }
+          ]
+        },
+        {
+          "text": "The contract is a written agreement between the apprentice, the employer and the state.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 32, "quote": "written agreement, or contract between the apprentice, the employer, and the state.", "passageId": "cblm01-p32-d9c8a52b" }
+          ]
+        },
+        {
+          "text": "The contract specifies training length, school requirements, trade skills and the apprentice's wages.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 32, "quote": "This agreement specifies the length of the training, the related school" },
+            { "src": "cblm01", "page": 32, "quote": "requirements, an outline of the skills of the trade to be learned, and the wages" },
+            { "src": "cblm01", "page": 32, "quote": "the apprentice will receive." }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "What is included in an apprenticeship contract?",
+      "options": [
+        "The list of theoretical topics to be studied",
+        "The wage the apprentice will receive",
+        "The number of apprentices the employer can hire",
+        "The government subsidy for the apprenticeship program"
+      ],
+      "answerIndex": 1,
+      "answerCite": { "src": "cblm01", "page": 32, "quote": "and the wages the apprentice will receive." }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "Apprenticeship laws",
+          "right": "Minimum requirements for protecting the apprentice's welfare",
+          "cite": { "src": "cblm01", "page": 31, "quote": "regulations establish minimum requirements for protecting the welfare of the" }
+        },
+        {
+          "left": "Apprentice contract",
+          "right": "Written agreement between apprentice, employer and state",
+          "cite": { "src": "cblm01", "page": 32, "quote": "written agreement, or contract between the apprentice, the employer, and the" }
+        },
+        {
+          "left": "Completion certificates",
+          "right": "Issued by designated national authorities",
+          "cite": { "src": "cblm01", "page": 31, "quote": "The contracts and completion certificates are issued by designated" }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Who are the parties to an apprentice contract?",
+      "answer": {
+        "text": "The apprentice, the employer and the state.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 32, "quote": "written agreement, or contract between the apprentice, the employer, and the state." }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "practice.mcq",
+      "note": "paper-unit01-answer-q10 has no marked answer. The card's answer (the wage) follows CBLM 1 p.32."
+    }
+  ]
+}

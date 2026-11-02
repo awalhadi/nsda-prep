@@ -1,0 +1,188 @@
+{
+  "id": "pre-in-training-support",
+  "canonical_title": "Pre-Training and In-Training Support for Clients",
+  "aliases": [
+    "Pre-training support",
+    "In-training support",
+    "Support to individual learners to address needs and interests"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [
+    "cblm01-sc4-q1"
+  ],
+  "one_line_answer": {
+    "text": "A TVET teacher gives pre-training and in-training supports to his clients.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm01", "page": 53, "quote": "The pre-training and in-training supports by a TVET teacher to his clients are:" }
+    ]
+  },
+  "keywords": [
+    { "en": "Pre-training support", "bn": "training শুরুর আগের সহায়তা" },
+    { "en": "In-training support", "bn": "training চলাকালীন সহায়তা" },
+    { "en": "Referral", "bn": "অন্য বিশেষ সেবার কাছে পাঠানো" },
+    { "en": "Adaptive technology", "bn": "প্রতিবন্ধী মানুষের জন্য বিশেষ প্রযুক্তি" }
+  ],
+  "bangla_explanation": [
+    "কিছু client-এর বাড়তি সহায়তা লাগে, যেমন ভাষা, প্রতিবন্ধিতা বা সংস্কৃতির কারণে।",
+    "Training শুরুর আগে: learning objectives-কে work trends-এর সাথে মেলানো, financial assistance-এর পরামর্শ দেওয়া।",
+    "Training চলাকালীন: appropriate delivery methods, clients-কে একে অপরের থেকে শিখতে দেওয়া, diversity activities।",
+    "প্রশ্নে যেকোনো পাঁচটা চাইলে দুই ভাগ থেকেই লিখুন।"
+  ],
+  "example": {
+    "en": "Before training, a centre gives a deaf learner materials in large print. During training, it organizes an interpreter.",
+    "bn": "শুরুর আগে large print materials, চলাকালীন interpreters রাখা।"
+  },
+  "traps": [
+    {
+      "text": "Pre-training support: provide advice on financial assistance.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 53, "quote": "Pre-Training Support" },
+        { "src": "cblm01", "page": 53, "quote": "Provide advice on financial assistance" }
+      ]
+    },
+    {
+      "text": "In-training support: organize for interpreters to be present.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 53, "quote": "In-Training Support" },
+        { "src": "cblm01", "page": 53, "quote": "Organize for interpreters to be Provide flexibility in training scheduling present" }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Discuss any five pre-training and in-training supports by a TVET teacher to his clients.",
+      "modelAnswer": "A TVET teacher gives pre-training and in-training supports.\nPre-training support:\n1. Ensure learning objectives relate to work trends\n2. Align training to organizational protocols\n3. Provide advice on financial assistance\nIn-training support:\n4. Incorporate appropriate delivery methods\n5. Allow clients to learn from each other\n6. Build in diversity activities",
+      "keyPoints": [
+        {
+          "text": "Pre-training: ensure learning objectives relate to work trends.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 53, "quote": "Pre-Training Support" },
+            { "src": "cblm01", "page": 53, "quote": "Ensure learning objectives relate to" },
+            { "src": "cblm01", "page": 53, "quote": "delivery work trends" }
+          ]
+        },
+        {
+          "text": "Pre-training: align training to organizational protocols.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 53, "quote": "Pre-Training Support" },
+            { "src": "cblm01", "page": 53, "quote": "Align training to organizational" },
+            { "src": "cblm01", "page": 53, "quote": "Ensure physical and protocols" }
+          ]
+        },
+        {
+          "text": "Pre-training: allow client representation on committees.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 53, "quote": "Pre-Training Support" },
+            { "src": "cblm01", "page": 53, "quote": "Allow client representation on" },
+            { "src": "cblm01", "page": 53, "quote": "other committees" }
+          ]
+        },
+        {
+          "text": "Pre-training: build underpinning knowledge into materials.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 53, "quote": "Pre-Training Support" },
+            { "src": "cblm01", "page": 53, "quote": "Build underpinning knowledge into" },
+            { "src": "cblm01", "page": 53, "quote": "Build in diversity activities materials" }
+          ]
+        },
+        {
+          "text": "In-training: incorporate appropriate delivery methods.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 53, "quote": "In-Training Support" },
+            { "src": "cblm01", "page": 53, "quote": "Incorporate appropriate delivery" },
+            { "src": "cblm01", "page": 53, "quote": "work trends methods" }
+          ]
+        },
+        {
+          "text": "In-training: ensure physical and communication support.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 53, "quote": "In-Training Support" },
+            { "src": "cblm01", "page": 53, "quote": "Ensure physical and" },
+            { "src": "cblm01", "page": 53, "quote": "communication support" }
+          ]
+        },
+        {
+          "text": "In-training: allow clients to learn from each other.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 53, "quote": "In-Training Support" },
+            { "src": "cblm01", "page": 53, "quote": "Allow clients to learn from each" }
+          ]
+        },
+        {
+          "text": "In-training: allow clients to provide direction, and build in diversity activities.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 53, "quote": "In-Training Support" },
+            { "src": "cblm01", "page": 53, "quote": "Allow clients to provide direction" },
+            { "src": "cblm01", "page": 53, "quote": "Build in diversity activities" }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which of these is an in-training support by a TVET teacher?",
+      "options": [
+        "Build in diversity activities",
+        "Provide advice on financial assistance",
+        "Align training to organizational protocols",
+        "Allow client representation on committees"
+      ],
+      "answerIndex": 0,
+      "answerCite": { "src": "cblm01", "page": 53, "quote": "Build in diversity activities" }
+    },
+    "matching": {
+      "prompt": "Complete each support by matching the two halves.",
+      "pairs": [
+        {
+          "left": "Develop materials",
+          "right": "In large print",
+          "cite": { "src": "cblm01", "page": 53, "quote": "Develop materials in large print" }
+        },
+        {
+          "left": "Organize for interpreters",
+          "right": "To be present",
+          "cite": { "src": "cblm01", "page": 53, "quote": "Organize for interpreters to be" }
+        },
+        {
+          "left": "Provide referrals",
+          "right": "To counseling support services",
+          "cite": { "src": "cblm01", "page": 53, "quote": "Provide referrals to counseling" }
+        },
+        {
+          "left": "Challenge",
+          "right": "Subtle discrimination",
+          "cite": { "src": "cblm01", "page": 53, "quote": "Challenge subtle discrimination" }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Name one support a teacher can give a client before training starts.",
+      "answer": {
+        "text": "Provide advice on financial assistance.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 53, "quote": "Pre-Training Support" },
+          { "src": "cblm01", "page": 53, "quote": "Provide advice on financial assistance" }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "practice.short",
+      "note": "The two-column table (PDF p.50, repeated in answer key p.53) is extracted line by line, so column membership below the first rows is unclear. The card only teaches the first rows: pre-training (work trends, organizational protocols, financial assistance, committees, underpinning knowledge) and in-training (delivery methods, physical and communication support, learn from each other, provide direction, diversity activities). A reviewer should confirm the column of the remaining items (large print, interpreters, referrals, adaptive technology, modify tasks, extend time, etc.) from the PDF. No list_answer is given for the same reason. Also, no CBLM 1 passage is highlighted for this table, so the pack only holds p.53."
+    }
+  ]
+}

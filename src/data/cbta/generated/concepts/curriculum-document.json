@@ -6,6 +6,20 @@
   ],
   "appearsIn": [
     {
+      "cblm": 1,
+      "pages": [
+        {
+          "pdf": 24,
+          "printed": 24
+        },
+        {
+          "pdf": 25,
+          "printed": 25
+        }
+      ],
+      "src": "cblm01"
+    },
+    {
       "cblm": 8,
       "pages": [
         {
@@ -40,7 +54,7 @@
   "breakdown": {
     "exam": 8,
     "highlight": 3,
-    "repeat": 2
+    "repeat": 3
   },
   "cblmPrimary": 8,
   "errata": [],
@@ -51,8 +65,8 @@
   "highlighted": true,
   "id": "curriculum-document",
   "importance": {
-    "bn": "Unit 01 Questions (MCQ 6, Short 21), Unit 01 Answers (MCQ 6, Short 21), Unit 01 Short Questions (Short 18) আর CBLM 9 Self Check 1 (Q5): 4 জায়গায় এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
-    "en": "Asked in Unit 01 Questions (MCQ 6, Short 21), Unit 01 Answers (MCQ 6, Short 21), Unit 01 Short Questions (Short 18) and CBLM 9 Self Check 1 (Q5). Highlighted in CBLM 8. Comes as MCQ and short question."
+    "bn": "Unit 01 Questions (MCQ 6, Short 21), Unit 01 Answers (MCQ 6, Short 21), Unit 01 Short Questions (Short 18, 4) আর CBLM 9 Self Check 1 (Q5): 4 জায়গায় এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Unit 01 Questions (MCQ 6, Short 21), Unit 01 Answers (MCQ 6, Short 21), Unit 01 Short Questions (Short 18, 4) and CBLM 9 Self Check 1 (Q5). Highlighted in CBLM 8. Comes as MCQ and short question."
   },
   "keywords": [
     {
@@ -547,8 +561,25 @@
       "type": "short"
     },
     {
-      "answer": "As mentioned above, a competency standard provides information about the\ncompetencies associated with different occupations within a particular industry. They\nideally lead to national qualifications and include assessment guidelines.\nA curriculum document serves as an implementation guide for a unit of competency\nor course or module of study. For a curriculum document to be accepted by the\nindustries, it must be 'mapped' against the competencies in competency standards.\nAt this stage though, there are still many industries that do not have industry\ncompetency standards developed.\nBasically, competency standards establish the skills, knowledge and attitude required\nfor a particular industry. A curriculum interprets the competency standards so that it\ncan be delivered as a course in TVET institutions.",
+      "answer": "Who endorses competency standards, and why are they important in curriculum\ndevelopment?\nCompetency standards are endorsed by the relevant Industry Skills Council (ISC).\nThey are important in curriculum development as they define the specific competencies and skills\nrequired in an industry, providing a foundation for designing training and assessment materials.",
+      "answerIndex": null,
+      "answerLetter": null,
       "flags": [],
+      "id": "paper-unit01-short-q4",
+      "kind": "paper",
+      "label": "Unit 01 Short Questions (Short 4)",
+      "page": 1,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "",
+      "src": "paper-unit01-short",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "flags": [
+        "no-answer-key-entry"
+      ],
       "id": "cblm09-sc1-q5",
       "kind": "selfcheck",
       "label": "CBLM 9 Self Check 1 (Q5)",
@@ -559,7 +590,7 @@
       "type": "short"
     }
   ],
-  "score": 13,
+  "score": 14,
   "sourceType": "cblm",
   "stars": 3,
   "status": "draft",
@@ -625,5 +656,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 1
+  "warnings": 2
 }

@@ -1,0 +1,197 @@
+{
+  "id": "client-needs-operational-limits",
+  "canonical_title": "Client Needs, Expectations and Operational Limits",
+  "aliases": [
+    "Needs and expectations of TVET clients",
+    "Operational limits of a training organisation"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p46-bc3f9e23",
+    "cblm01-p46-6371a563",
+    "cblm01-p47-229be39e",
+    "cblm01-p47-4cae5993"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Clients of the TVET sector have a wide variety of needs and expectations.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm01", "page": 46, "quote": "Clients of the TVET sector have a wide variety of needs and expectations, and these", "passageId": "cblm01-p46-bc3f9e23" }
+    ]
+  },
+  "keywords": [
+    { "en": "Needs and expectations", "bn": "প্রয়োজন ও প্রত্যাশা" },
+    { "en": "Learning styles", "bn": "শেখার পছন্দের ধরন" },
+    { "en": "Operational limits", "bn": "প্রতিষ্ঠানের কাজের সীমাবদ্ধতা" },
+    { "en": "Autonomy", "bn": "নিজে সিদ্ধান্ত নেওয়ার স্বাধীনতা" },
+    { "en": "Individualized", "bn": "প্রত্যেকের জন্য আলাদা করে সাজানো" }
+  ],
+  "bangla_explanation": [
+    "প্রত্যেক client-এর চাওয়া আলাদা: কেউ new skills চায়, কেউ career advancement।",
+    "কেউ নির্দিষ্ট learning styles পছন্দ করে, কারো individualized support লাগে।",
+    "সব চাওয়া পূরণের চেষ্টা করবেন, তবে প্রতিষ্ঠানের operational limits-এর মধ্যে থেকেই।",
+    "যেমন staffing, physical environment, cost, time ও OHS issues সীমা তৈরি করে।"
+  ],
+  "example": {
+    "en": "A learner wants weekend classes. The institute has no weekend staff, so this is a staffing limit.",
+    "bn": "Learner weekend class চায়, কিন্তু staff নেই; এটা staffing limit।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "A focus on individual learner objectives, such as new skills or target qualifications.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 46, "quote": "a focus on individual learner objectives, such as:" },
+          { "src": "cblm01", "page": 46, "quote": "new skills" },
+          { "src": "cblm01", "page": 46, "quote": "target qualifications" }
+        ]
+      },
+      {
+        "text": "Client-centered approaches",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 46, "quote": "client-centered approaches;" }
+        ]
+      },
+      {
+        "text": "Preferences for particular learning styles",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 46, "quote": "preferences for particular learning styles;", "passageId": "cblm01-p46-6371a563" }
+        ]
+      },
+      {
+        "text": "Individualized learning support systems",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 46, "quote": "individualized learning support systems;" }
+        ]
+      },
+      {
+        "text": "Individualized organizational training",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 47, "quote": "individualized organizational training; and" }
+        ]
+      },
+      {
+        "text": "Information and advice on courses, learning programs, qualifications and assessment",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 47, "quote": "information and advice on courses, learning programs, qualifications and assessment" }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Needs are met only within the operational limits of your training organisation.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 47, "quote": "and/or assessment organisation, and these limits can include:" },
+        { "src": "cblm01", "page": 47, "quote": "While you must do everything within your power to ensure these needs and", "passageId": "cblm01-p47-229be39e" },
+        { "src": "cblm01", "page": 47, "quote": "expectation are met, you can only do so within the operational limits of your training" }
+      ]
+    },
+    {
+      "text": "Learner objectives include new career, career advancement and improved language, literacy and numeracy skills.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 46, "quote": "a focus on individual learner objectives, such as:" },
+        { "src": "cblm01", "page": 46, "quote": "new career" },
+        { "src": "cblm01", "page": 46, "quote": "career advancement" },
+        { "src": "cblm01", "page": 46, "quote": "improved language, literacy and numeracy skills" }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What operational limits can restrict how a trainer meets client needs?",
+      "modelAnswer": "Client needs are met only within the operational limits of the training organisation. These limits include:\n1. Your level of responsibility, autonomy and classification\n2. Staffing resource limitations\n3. Physical environment limitations\n4. Cost, time and scheduling difficulties\n5. OHS issues, considerations and implications",
+      "keyPoints": [
+        {
+          "text": "Your level of responsibility, autonomy and classification.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 47, "quote": "and these limits can include:", "passageId": "cblm01-p47-4cae5993" },
+            { "src": "cblm01", "page": 47, "quote": "your level of responsibility, autonomy and classification;" }
+          ]
+        },
+        {
+          "text": "Staffing resource limitations.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 47, "quote": "staffing resource limitations;" }
+          ]
+        },
+        {
+          "text": "Physical environment limitations.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 47, "quote": "physical environment limitations;" }
+          ]
+        },
+        {
+          "text": "Cost, time and scheduling difficulties.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 47, "quote": "cost, time and scheduling difficulties; and" }
+          ]
+        },
+        {
+          "text": "OHS issues, considerations and implications.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 47, "quote": "OHS issues, considerations and implications." }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which of these is an operational limit of a training organisation?",
+      "options": [
+        "Staffing resource limitations",
+        "Client-centered approaches",
+        "Individualized learning support systems",
+        "Target qualifications"
+      ],
+      "answerIndex": 0,
+      "answerCite": { "src": "cblm01", "page": 47, "quote": "staffing resource limitations;" }
+    },
+    "matching": {
+      "prompt": "Match each item with its group.",
+      "pairs": [
+        {
+          "left": "Career advancement",
+          "right": "Individual learner objective",
+          "cite": { "src": "cblm01", "page": 46, "quote": "individual learner objectives, such as: o new skills o specific competencies o target qualifications o new career o career advancement" }
+        },
+        {
+          "left": "Cost, time and scheduling difficulties",
+          "right": "Operational limit",
+          "cite": { "src": "cblm01", "page": 47, "quote": "cost, time and scheduling difficulties; and" }
+        },
+        {
+          "left": "Preferences for particular learning styles",
+          "right": "Client need or expectation",
+          "cite": { "src": "cblm01", "page": 46, "quote": "preferences for particular learning styles;" }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Can a trainer meet every client need?",
+      "answer": {
+        "text": "Only within the operational limits of the training organisation.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 47, "quote": "you can only do so within the operational limits of your training" },
+          { "src": "cblm01", "page": 47, "quote": "and/or assessment organisation" }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

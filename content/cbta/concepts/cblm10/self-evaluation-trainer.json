@@ -1,0 +1,311 @@
+{
+  "id": "self-evaluation-trainer",
+  "canonical_title": "Self Evaluation of Training Performance",
+  "aliases": [
+    "Self evaluation",
+    "Self evaluation or reflection",
+    "Self evaluation template"
+  ],
+  "cblmPrimary": 10,
+  "source_type": "cblm",
+  "covers": [
+    "cblm10-p73-1d57ccdb",
+    "cblm10-p82-96086e4f"
+  ],
+  "questions": [
+    "cblm10-sc3-q3"
+  ],
+  "one_line_answer": {
+    "text": "Self evaluation is a productive exercise to improve your teaching/training performance.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm10",
+        "page": 73,
+        "quote": "Self evaluation is one of the most productive exercises that you can use to improve your teaching/training performance."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Self evaluation",
+      "bn": "নিজের কাজ নিজে মূল্যায়ন"
+    },
+    {
+      "en": "Reflection",
+      "bn": "নিজের কাজ নিয়ে গভীরভাবে ভাবা"
+    },
+    {
+      "en": "Tangible",
+      "bn": "চোখে দেখা যায় বা মাপা যায় এমন"
+    },
+    {
+      "en": "Intangible",
+      "bn": "মাপা যায় না, অনুভবের বিষয়"
+    },
+    {
+      "en": "Gut reaction",
+      "bn": "মনের ভেতরের তাৎক্ষণিক অনুভূতি"
+    }
+  ],
+  "bangla_explanation": [
+    "Self evaluation সবচেয়ে সহজ আর কার্যকর উপায় নিজের training উন্নত করার।",
+    "নিয়মিত reflect করুন: tangible (learner performance, feedback) আর intangible (gut reaction)।",
+    "Negative comments-এ রাগ করবেন না; ওগুলোই improvement দেখায়।",
+    "Evaluation-এর পরে results analyse করে ঠিক করুন পরের বার কী বদলাবেন।"
+  ],
+  "example": {
+    "en": "After a session, an IT trainer fills in a self evaluation form. She notes she gave little practice time.",
+    "bn": "সেশনের পরে IT trainer self evaluation ফর্ম পূরণ করে দেখেন practice সময় কম ছিল।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Did I encourage the learners to speak and contribute?",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 73,
+            "quote": "During the session did I"
+          },
+          {
+            "src": "cblm10",
+            "page": 73,
+            "quote": "Encourage the l earners to speak and contribute?",
+            "passageId": "cblm10-p73-1d57ccdb"
+          }
+        ]
+      },
+      {
+        "text": "Did I assist the learner to express their ideas?",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 73,
+            "quote": "Assist the learner articulate to express their ideas."
+          }
+        ]
+      },
+      {
+        "text": "Did I consider all contributions to be worthwhile?",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 73,
+            "quote": "Consider all contributions to be worthwhile?"
+          }
+        ]
+      },
+      {
+        "text": "Did I remain aware of non-verbal communication?",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 73,
+            "quote": "Remain aware of non-verbal communication?"
+          }
+        ]
+      },
+      {
+        "text": "Did I praise effort?",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 73,
+            "quote": "Praise effort."
+          }
+        ]
+      },
+      {
+        "text": "Did I provide opportunities for practice?",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 73,
+            "quote": "Provide opportunities for practice?"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Don't be offended by negative comments; they point out areas for improvement.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 74,
+          "quote": "Don't be offended by negative comments"
+        },
+        {
+          "src": "cblm10",
+          "page": 74,
+          "quote": "the comments that really help your teaching/training performance are the ones that point out areas for improvement."
+        }
+      ]
+    },
+    {
+      "text": "Don't try to change the world: change works better introduced slowly and monitored carefully.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 74,
+          "quote": "Don't try to change the world"
+        },
+        {
+          "src": "cblm10",
+          "page": 74,
+          "quote": "Change will be much more effective if it is introduced slowly and monitored carefully."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What do you understand by self evaluation?",
+      "modelAnswer": "Self evaluation is one of the most productive exercises to improve your teaching/training performance. It is also one of the easiest to implement.\n1. Reflect on your teaching on a regular basis.\n2. Look for tangible elements: learner performance and feedback.\n3. Look for intangible elements: your 'gut reaction' to the session.",
+      "keyPoints": [
+        {
+          "text": "It is also one of the easiest to implement.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 73,
+              "quote": "It is also one of the easiest to implement."
+            }
+          ]
+        },
+        {
+          "text": "You need to reflect on your teaching on a regular basis.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 73,
+              "quote": "You need to reflect on your teaching on a regular basis."
+            }
+          ]
+        },
+        {
+          "text": "Look for tangible elements, such as learner performance and feedback.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 73,
+              "quote": "tangible elements (such as learner performance and feedback)"
+            }
+          ]
+        },
+        {
+          "text": "Look for intangible elements, like your 'gut reaction' to the session.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 73,
+              "quote": "intangible elements (like your 'gut reaction' to the session"
+            }
+          ]
+        },
+        {
+          "text": "A self evaluation template guides you to self-evaluate your training session.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 82,
+              "quote": "Self evaluation Template",
+              "passageId": "cblm10-p82-96086e4f"
+            },
+            {
+              "src": "cblm10",
+              "page": 82,
+              "quote": "The purpose of this form is to guide you to self-evaluate your training session."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Your 'gut reaction' to a session is which kind of element in self evaluation?",
+      "options": [
+        "Intangible",
+        "Tangible",
+        "Formal",
+        "External"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm10",
+        "page": 73,
+        "quote": "intangible elements (like your 'gut reaction' to the session"
+      }
+    },
+    "matching": {
+      "prompt": "Match each self evaluation idea with its meaning.",
+      "pairs": [
+        {
+          "left": "Tangible elements",
+          "right": "Learner performance and feedback",
+          "cite": {
+            "src": "cblm10",
+            "page": 73,
+            "quote": "tangible elements (such as learner performance and feedback)"
+          }
+        },
+        {
+          "left": "Intangible elements",
+          "right": "Your 'gut reaction' to the session",
+          "cite": {
+            "src": "cblm10",
+            "page": 73,
+            "quote": "intangible elements (like your 'gut reaction' to the session"
+          }
+        },
+        {
+          "left": "Negative comments",
+          "right": "Point out areas for improvement",
+          "cite": {
+            "src": "cblm10",
+            "page": 74,
+            "quote": "the ones that point out areas for improvement"
+          }
+        },
+        {
+          "left": "Several people comment on the same things",
+          "right": "Work on it straight away",
+          "cite": {
+            "src": "cblm10",
+            "page": 74,
+            "quote": "If several people comment on the same things, then it is likely to be something that you need to work on straight away."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What must you do after an evaluation?",
+      "answer": {
+        "text": "Analyse the results and determine what you will change next time you deliver the session.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 73,
+            "quote": "Following the evaluation you must analyse the results and determine what you will change next time you deliver the session."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

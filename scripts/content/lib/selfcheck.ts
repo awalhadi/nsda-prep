@@ -25,6 +25,9 @@ export function numberedItems(
 ): NumberedItem[] {
   const items: NumberedItem[] = [];
   let expected = 1;
+  // An answer can contain its own numbered list ("1. Unit code … 9. Accreditation").
+  // While such a sub-list runs, its numbers are content, not the next question.
+  let sub = 0;
   for (const p of seg.pages) {
     if (p.section.kind !== kind || p.section.num !== num || p.section.part !== part) continue;
     for (const line of p.lines) {
@@ -32,9 +35,18 @@ export function numberedItems(
       if (!text || /^_+$/.test(text.replace(/\s/g, ""))) continue;
       if (headingLevel(line, seg.body) === 1) continue; // section title
       const m = ITEM.exec(text);
-      if (m && Number(m[1]) === expected) {
+      const n = m ? Number(m[1]) : NaN;
+      // Two-column tables number both columns (1. 1. 2. 2. …), so a repeat of the sub-list number is content too.
+      if (m && sub > 0 && (n === sub + 1 || n === sub)) {
+        sub = n;
+        items[items.length - 1].text += "\n" + text;
+      } else if (m && n === expected) {
         items.push({ num: expected, page: p.page, printedPage: p.printedPage, text: m[2] });
         expected++;
+        sub = 0;
+      } else if (m && n === 1 && items.length) {
+        sub = 1;
+        items[items.length - 1].text += "\n" + text;
       } else if (items.length) {
         items[items.length - 1].text += "\n" + text;
       }

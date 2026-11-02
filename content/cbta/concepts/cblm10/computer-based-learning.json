@@ -1,0 +1,306 @@
+{
+  "id": "computer-based-learning",
+  "canonical_title": "Computer Based Learning: Advantages and Limitations",
+  "aliases": [
+    "Computers in training",
+    "Advantages and limitations of computer based learning"
+  ],
+  "cblmPrimary": 10,
+  "source_type": "cblm",
+  "covers": [
+    "cblm10-p18-f1e75747",
+    "cblm10-p18-ccddaf62"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Computer based learning offers some advantages over traditional methods",
+    "fidelity": "verbatim",
+    "cites": [
+      {
+        "src": "cblm10",
+        "page": 18,
+        "quote": "Computer based learning offers some advantages over traditional methods",
+        "passageId": "cblm10-p18-f1e75747"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Computer based learning",
+      "bn": "কম্পিউটার দিয়ে শেখা"
+    },
+    {
+      "en": "Individualised learning",
+      "bn": "প্রত্যেকে নিজের গতিতে শেখা"
+    },
+    {
+      "en": "Immediate feedback",
+      "bn": "সাথে সাথে ফলাফল জানা"
+    },
+    {
+      "en": "Distance learning",
+      "bn": "দূরে থেকে শেখা"
+    },
+    {
+      "en": "Solitary",
+      "bn": "একা একা, অন্যদের ছাড়া"
+    }
+  ],
+  "bangla_explanation": [
+    "Computer based learning-এ learner নিজের rate আর sequence ঠিক করে শিখতে পারে।",
+    "বড় তথ্যভাণ্ডার আর distance learning-এর সুবিধা আছে।",
+    "কিন্তু affective, motor আর interpersonal skills কম্পিউটার ভালো শেখাতে পারে না।",
+    "কম্পিউটারের সাথে কাজ একটা solitary activity, তাই শুধু এর ওপর নির্ভর করা ঠিক না।"
+  ],
+  "example": {
+    "en": "An IT centre gives a typing package. Each learner practises at his own speed and sees mistakes at once.",
+    "bn": "IT সেন্টারে typing software-এ প্রত্যেকে নিজের গতিতে শেখে, ভুল সাথে সাথে দেখে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Individualised learning: learners control rate and sequence, and get immediate feedback.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "individualised learning-the learner can"
+          },
+          {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "control the rate and sequence of their"
+          },
+          {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "learning and get immediate feedback;"
+          }
+        ]
+      },
+      {
+        "text": "access to a very large store of information;",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "access to a very large store of information;"
+          }
+        ]
+      },
+      {
+        "text": "High quality interactive packages that integrate multiple purpose media.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "high quality interactive packages (using"
+          },
+          {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "integrate multiple purpose media and"
+          }
+        ]
+      },
+      {
+        "text": "Flexible delivery of training, ideal for distance learning.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "flexible delivery of training-ideal for a"
+          },
+          {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "dispersed workforce and distance learning;"
+          }
+        ]
+      },
+      {
+        "text": "encouragement of logical thinking.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "encouragement of logical thinking."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Computers do not train well in affective, motor and interpersonal skills.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 18,
+          "quote": "a limited range of skills can be taught by computers-they don't train"
+        },
+        {
+          "src": "cblm10",
+          "page": 18,
+          "quote": "effectively in the affective, motor and interpersonal skills;"
+        }
+      ]
+    },
+    {
+      "text": "Computers also help manage learning: processing student records and preparing teaching material.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 17,
+          "quote": "The first is to help manage learning by:"
+        },
+        {
+          "src": "cblm10",
+          "page": 17,
+          "quote": "processing student records;"
+        },
+        {
+          "src": "cblm10",
+          "page": 17,
+          "quote": "preparing teaching material."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the advantages and limitations of computer based learning?",
+      "modelAnswer": "Advantages:\n1. Individualised learning, with immediate feedback\n2. Access to a very large store of information\n3. High quality interactive packages\n4. Flexible delivery, ideal for distance learning\n5. Encouragement of logical thinking\nLimitations:\n1. Designing material is complex and expensive\n2. Limited range of skills taught\n3. Small companies rarely afford their own software\n4. It is a solitary activity",
+      "keyPoints": [
+        {
+          "text": "Designing instructional material is very complex, labour intensive and expensive.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "designing instructional material is very complex, labour intensive and expensive",
+              "passageId": "cblm10-p18-ccddaf62"
+            }
+          ]
+        },
+        {
+          "text": "A limited range of skills can be taught by computers.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "a limited range of skills can be taught by computers"
+            }
+          ]
+        },
+        {
+          "text": "Small companies can rarely afford to develop their own software.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "small companies can rarely afford to develop their own software"
+            }
+          ]
+        },
+        {
+          "text": "interaction with a computer is a solitary activity.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "interaction with a computer is a solitary activity."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a limitation of computer based learning?",
+      "options": [
+        "Interaction with a computer is a solitary activity",
+        "Access to a very large store of information",
+        "Encouragement of logical thinking",
+        "Flexible delivery of training"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm10",
+        "page": 18,
+        "quote": "interaction with a computer is a solitary activity."
+      }
+    },
+    "matching": {
+      "prompt": "Match each feature of computer based learning with its meaning.",
+      "pairs": [
+        {
+          "left": "Individualised learning",
+          "right": "Learner controls the rate and sequence",
+          "cite": {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "individualised learning-the learner can control the rate and sequence of their"
+          }
+        },
+        {
+          "left": "Flexible delivery of training",
+          "right": "Ideal for distance learning",
+          "cite": {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "flexible delivery of training-ideal for a dispersed workforce and distance learning;"
+          }
+        },
+        {
+          "left": "Interactive packages",
+          "right": "Integrate multiple purpose media",
+          "cite": {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "high quality interactive packages (using voice keyboard mouse touch screen graphic pen and joy stick) which can integrate multiple purpose media"
+          }
+        },
+        {
+          "left": "Interaction with a computer",
+          "right": "A solitary activity",
+          "cite": {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "interaction with a computer is a solitary activity."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why can't computers teach every skill?",
+      "answer": {
+        "text": "Computers don't train effectively in the affective, motor and interpersonal skills.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "they don't train"
+          },
+          {
+            "src": "cblm10",
+            "page": 18,
+            "quote": "effectively in the affective, motor and interpersonal skills;"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

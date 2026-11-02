@@ -1,0 +1,283 @@
+{
+  "id": "assessment-readiness",
+  "canonical_title": "Determining Learner Readiness for Assessment",
+  "aliases": [
+    "How do I determine learner readiness for assessment?",
+    "Learner readiness for assessment"
+  ],
+  "cblmPrimary": 10,
+  "source_type": "cblm",
+  "covers": [
+    "cblm10-p59-bf9e9998"
+  ],
+  "questions": [
+    "cblm10-sc2-q10"
+  ],
+  "one_line_answer": {
+    "text": "Determining whether a learner is ready for assessment is both a formal and informal process",
+    "fidelity": "verbatim",
+    "cites": [
+      {
+        "src": "cblm10",
+        "page": 59,
+        "quote": "Determining whether a learner is ready for assessment is both a formal and informal process",
+        "passageId": "cblm10-p59-bf9e9998"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Readiness",
+      "bn": "প্রস্তুতি"
+    },
+    {
+      "en": "Informal",
+      "bn": "অনানুষ্ঠানিক, পর্যবেক্ষণ করে"
+    },
+    {
+      "en": "Formal",
+      "bn": "আনুষ্ঠানিক, নিয়ম মেনে যাচাই"
+    },
+    {
+      "en": "Assessment criteria",
+      "bn": "মূল্যায়নের মানদণ্ড"
+    },
+    {
+      "en": "Gaps in competence",
+      "bn": "দক্ষতার ঘাটতি"
+    }
+  ],
+  "bangla_explanation": [
+    "Learner assessment-এর জন্য ready কিনা তা দুইভাবে দেখা হয়: informal আর formal।",
+    "Informal: ক্লাস বা simulation-এ কী করছে তা observe করা, learner-কে জিজ্ঞেস করা।",
+    "Formal: learning outcomes আর assessment criteria review করা।",
+    "Continuously monitor করলে gaps in competence আগেই ধরা পড়ে।"
+  ],
+  "example": {
+    "en": "A welding trainer watches a trainee practise and asks how confident he feels. Then she checks the assessment criteria.",
+    "bn": "ওয়েল্ডিং trainer practice দেখেন, trainee-কে জিজ্ঞেস করেন, তারপর criteria মিলিয়ে দেখেন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Informally: observe what learners do in classroom activities or a simulation exercise.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "Informally, the teacher/trainer can monitor the learner's readiness by observing what"
+          },
+          {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "they actually do either during classroom activities or in a simulation exercise"
+          }
+        ]
+      },
+      {
+        "text": "Informally: asking learners how confident they feel about being assessed.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "Informally, the teacher/trainer can monitor"
+          },
+          {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "asking for feedback from the learners themselves on how confident they feel"
+          },
+          {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "assessed at this stage"
+          }
+        ]
+      },
+      {
+        "text": "Informally: gather specific data on the learner's performance standard.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "gathering specific data which reflects the learner's performance standard"
+          }
+        ]
+      },
+      {
+        "text": "Formally: review the learning outcomes and assessment criteria.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "Formally, the teacher/trainer needs to review the learning outcomes and assessment"
+          },
+          {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "criteria, to determine whether the learner has achieved the required standard"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "A good teacher/trainer will continuously monitor progress and provide feedback.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 59,
+          "quote": "However, a good teacher/trainer will continuously monitor the learner's"
+        },
+        {
+          "src": "cblm10",
+          "page": 59,
+          "quote": "progress and provide feedback to the learner."
+        }
+      ]
+    },
+    {
+      "text": "Integrate assessment tasks for major components at various stages during the training.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm10",
+          "page": 59,
+          "quote": "integrate assessment tasks for major components at"
+        },
+        {
+          "src": "cblm10",
+          "page": 59,
+          "quote": "various stages during the training."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "How do you determine that learners are ready for assessment?",
+      "modelAnswer": "It is both a formal and informal process.\nInformally:\n1. observe what learners do in class or simulation\n2. ask learners how confident they feel\n3. gather data on their performance standard\nFormally: review the learning outcomes and assessment criteria.\nA good trainer continuously monitors progress and gives feedback, so gaps are found early.",
+      "keyPoints": [
+        {
+          "text": "This way, gaps in competence are identified and addressed as early as possible.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 59,
+              "quote": "This way, gaps in competence can be identified and addressed as early as possible"
+            }
+          ]
+        },
+        {
+          "text": "Assessment tasks during training give the trainee valuable information about their progress.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 59,
+              "quote": "integrate assessment tasks for major components"
+            },
+            {
+              "src": "cblm10",
+              "page": 59,
+              "quote": "various stages during the training."
+            },
+            {
+              "src": "cblm10",
+              "page": 59,
+              "quote": "also provides valuable information to the trainee about their progress."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Reviewing the learning outcomes and assessment criteria is which way of checking readiness?",
+      "options": [
+        "Formal",
+        "Informal",
+        "Peer review",
+        "Self check"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm10",
+        "page": 59,
+        "quote": "Formally, the teacher/trainer needs to review the learning outcomes and assessment"
+      }
+    },
+    "matching": {
+      "prompt": "Match each method with its readiness check.",
+      "pairs": [
+        {
+          "left": "Informal",
+          "right": "Observe learners in class or simulation",
+          "cite": {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "Informally, the teacher/trainer can monitor the learner's readiness by observing what they actually do either during classroom activities or in a simulation exercise"
+          }
+        },
+        {
+          "left": "Formal",
+          "right": "Review learning outcomes and assessment criteria",
+          "cite": {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "Formally, the teacher/trainer needs to review the learning outcomes and assessment criteria"
+          }
+        },
+        {
+          "left": "Learner feedback",
+          "right": "How confident they feel",
+          "cite": {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "asking for feedback from the learners themselves on how confident they feel"
+          }
+        },
+        {
+          "left": "Specific data",
+          "right": "Learner's performance standard",
+          "cite": {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "gathering specific data which reflects the learner's performance standard"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Is readiness for assessment checked formally or informally?",
+      "answer": {
+        "text": "Both. Informally by observing learners; formally by reviewing learning outcomes and assessment criteria.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "both a formal and informal process"
+          },
+          {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "Informally, the teacher/trainer can monitor the learner's readiness by observing what"
+          },
+          {
+            "src": "cblm10",
+            "page": 59,
+            "quote": "Formally, the teacher/trainer needs to review the learning outcomes and assessment"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

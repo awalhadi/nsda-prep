@@ -1,0 +1,662 @@
+{
+  "aliases": [
+    "Recognition of Prior Learning",
+    "RPL",
+    "Benefits of RPL",
+    "RPL evidence"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 1,
+      "pages": [
+        {
+          "pdf": 32,
+          "printed": 32
+        },
+        {
+          "pdf": 33,
+          "printed": 33
+        }
+      ],
+      "src": "cblm01"
+    }
+  ],
+  "banglaExplanation": [
+    "অনেকে কাজ করতে করতে দক্ষ হয়েছে, কিন্তু certificate নেই; RPL তাদের দক্ষতার স্বীকৃতি দেয়।",
+    "কোথায়, কখন, কীভাবে শিখেছে তা বিষয় নয়; দেখা হয় current industry standards পূরণ করে কিনা।",
+    "এতে একই training আবার করতে হয় না, সময় আর খরচ বাঁচে।",
+    "Evidence হিসেবে observation, portfolio, trade test ইত্যাদি লাগে।"
+  ],
+  "breakdown": {
+    "exam": 6,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 1,
+  "errata": [],
+  "example": {
+    "bn": "দশ বছরের অভিজ্ঞ দর্জি কোর্স না করেই RPL-এর মাধ্যমে qualification পেতে পারেন।",
+    "en": "A tailor has sewn garments for ten years without a certificate. Through RPL, an RTO assesses and recognises his skills."
+  },
+  "highlighted": true,
+  "id": "recognition-of-prior-learning",
+  "importance": {
+    "bn": "Final Formative 01 (Matching 12, Short 17), Short Questions (Short 3, 71) আর CBLM 1 Self Check 2 (Q6): 3 জায়গায় এসেছে। CBLM 1-এ highlight করা আছে। পরীক্ষায় matching আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Final Formative 01 (Matching 12, Short 17), Short Questions (Short 3, 71) and CBLM 1 Self Check 2 (Q6). Highlighted in CBLM 1. Comes as matching and short question."
+  },
+  "keywords": [
+    {
+      "bn": "আগে শেখা দক্ষতার স্বীকৃতি",
+      "en": "Recognition of Prior Learning (RPL)"
+    },
+    {
+      "bn": "এখনকার দক্ষতা",
+      "en": "Current skills"
+    },
+    {
+      "bn": "প্রমাণ",
+      "en": "Evidence"
+    },
+    {
+      "bn": "আগের কাজের নমুনার সংগ্রহ",
+      "en": "Portfolio"
+    },
+    {
+      "bn": "সিদ্ধান্তের বিরুদ্ধে আবেদন",
+      "en": "Appeal"
+    }
+  ],
+  "likelyTypes": [
+    "matching",
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 33,
+            "passageId": "cblm01-p33-54f9c5db",
+            "printedPage": 33,
+            "quote": "Interview/professional conversation",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Interview/professional conversation"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 33,
+            "printedPage": 33,
+            "quote": "Observation and questioning including workplace visits",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Observation and questioning including workplace visits"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 33,
+            "printedPage": 33,
+            "quote": "Portfolio of work, which may include completed assessment items from previous study",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Portfolio of work, which may include completed assessment items from previous study"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 33,
+            "printedPage": 33,
+            "quote": "Supplementary assessment tasks or challenge test (oral, written or practical)",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Supplementary assessment tasks or challenge test (oral, written or practical)"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 33,
+            "printedPage": 33,
+            "quote": "Assessment where no training is involved",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Assessment where no training is involved"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 33,
+            "printedPage": 33,
+            "quote": "Assessment where no training is involved Trade test",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Trade test"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 33,
+            "printedPage": 33,
+            "quote": "Authentication of evidence by supervisor or employer.",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Authentication of evidence by supervisor or employer"
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 1,
+        "match": "exact",
+        "page": 32,
+        "printedPage": 32,
+        "quote": "Recognition of prior learning (RPL) is one way to have current skills and knowledge",
+        "sourceTitle": "Work effectively within TVET Sector",
+        "src": "cblm01"
+      },
+      {
+        "cblm": 1,
+        "match": "exact",
+        "page": 32,
+        "printedPage": 32,
+        "quote": "assessed by a registered training organisation (RTO) regardless of where and when",
+        "sourceTitle": "Work effectively within TVET Sector",
+        "src": "cblm01"
+      },
+      {
+        "cblm": 1,
+        "match": "exact",
+        "page": 32,
+        "printedPage": 32,
+        "quote": "RPL assessment recognizes skills and knowledge, no matter how, when or where the",
+        "sourceTitle": "Work effectively within TVET Sector",
+        "src": "cblm01"
+      },
+      {
+        "cblm": 1,
+        "match": "exact",
+        "page": 32,
+        "printedPage": 32,
+        "quote": "learning occurred.",
+        "sourceTitle": "Work effectively within TVET Sector",
+        "src": "cblm01"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "RPL assesses current skills and knowledge, no matter how, when or where learning occurred."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 1,
+            "match": "exact",
+            "page": 33,
+            "printedPage": 33,
+            "quote": "Portfolio of work, which may include completed assessment items from previous study",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          "left": "Portfolio of work",
+          "right": "Completed assessment items from previous study"
+        },
+        {
+          "cite": {
+            "cblm": 1,
+            "match": "exact",
+            "page": 33,
+            "printedPage": 33,
+            "quote": "Supplementary assessment tasks or challenge test (oral, written or practical)",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          "left": "Challenge test",
+          "right": "Oral, written or practical"
+        },
+        {
+          "cite": {
+            "cblm": 1,
+            "match": "exact",
+            "page": 33,
+            "printedPage": 33,
+            "quote": "Authentication of evidence by supervisor or employer.",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          "left": "Authentication of evidence",
+          "right": "By supervisor or employer"
+        },
+        {
+          "cite": {
+            "cblm": 1,
+            "match": "exact",
+            "page": 33,
+            "printedPage": 33,
+            "quote": "Observation and questioning including workplace visits",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          "left": "Observation and questioning",
+          "right": "Including workplace visits"
+        }
+      ],
+      "prompt": "Match each RPL evidence type with its detail."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 1,
+        "match": "exact",
+        "page": 32,
+        "printedPage": 32,
+        "quote": "Avoids duplication of training, maximising the value of vocational education",
+        "sourceTitle": "Work effectively within TVET Sector",
+        "src": "cblm01"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Avoids duplication of training",
+        "Return on investment",
+        "Earn and Learn",
+        "Supervised Training"
+      ],
+      "prompt": "Which of these is a benefit of Recognition of Prior Learning (RPL)?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 32,
+              "passageId": "cblm01-p32-f3ba0d7b",
+              "printedPage": 32,
+              "quote": "Students can finish their courses earlier",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Students can finish their courses earlier."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Study loads and costs are reduced",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Study loads and costs are reduced."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "The student can take on additional study leading to a second qualification",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The student can take on additional study leading to a second qualification."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "By identifying an individual's current competencies, RPL can effectively target",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "training requirements.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "By identifying current competencies, RPL can effectively target training requirements."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Avoids duplication of training, maximising the value of vocational education",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "and training expenditure",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It avoids duplication of training and maximises the value of training expenditure."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Provides pathways to higher qualifications for people who may not have",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "access to further training",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It provides pathways to higher qualifications for people without access to further training."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Creates a learning culture by valuing and recognising learning that has",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "occurred in the workplace.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It creates a learning culture by valuing learning in the workplace."
+        }
+      ],
+      "modelAnswer": "RPL assesses current skills and knowledge, no matter how, when or where learning occurred. Benefits:\n1. Students can finish their courses earlier.\n2. Study loads and costs are reduced.\n3. The student can study for a second qualification.\n4. RPL can effectively target training requirements.\n5. It avoids duplication of training.\n6. It provides pathways to higher qualifications.\n7. It creates a learning culture by valuing workplace learning.",
+      "prompt": "What are the benefits of Recognition of Prior Learning (RPL)?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 33,
+            "printedPage": 33,
+            "quote": "Unsuccessful applicants have a right to formally appeal the RPL assessment,",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 33,
+            "printedPage": 33,
+            "quote": "through the institute academic appeals process.",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The applicant can formally appeal through the institute academic appeals process."
+      },
+      "prompt": "What can an applicant do if the RPL assessment is unsuccessful?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Recognition of prior learning (RPL)\nSome people have skills and knowledge that enable them to gain a qualification\nwithout completing a standard training program or course.\nRecognition of prior learning (RPL) is one way to have current skills and\nknowledge assessed by a registered training organisation (RTO) regardless of\nwhere and when the learning occurred to see if they meet current industry\nstandards. RPL assessment recognizes skills and knowledge, no matter how,\nwhen or where the learning occurred.\nRPL Evidence\nStudents will need to contact their institute for information on the RPL process. To\napply for recognition of prior learning students will need to complete the RPL form\nand provide supporting evidence.\nEvidence may include:\n•\nInterview/professional conversation\n•\nObservation and questioning including workplace visits\n•\nPortfolio of work, which may include completed assessment items from\nprevious study\n•\nSupplementary assessment tasks or challenge test (oral, written or practical)\n•\nAssessment where no training is involved\n•\nTrade test\n•\nAuthentication of evidence by supervisor or employer.",
+      "flags": [],
+      "id": "cblm01-sc2-q6",
+      "kind": "selfcheck",
+      "label": "CBLM 1 Self Check 2 (Q6)",
+      "page": 35,
+      "printedPage": 35,
+      "question": "What do we mean by Recognition of Prior Learning (RPL) and what are evidences\nfor RPL?",
+      "src": "cblm01",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-final-formative-01-q12",
+      "kind": "paper",
+      "label": "Final Formative 01 (Matching 12)",
+      "page": 2,
+      "paperClass": "formative",
+      "printedPage": null,
+      "question": "Recognition of Prior Learning (RPL)",
+      "right": [
+        {
+          "letter": "A",
+          "text": "A tool that maps every element and its performance criteria against appropriate assessment methods"
+        },
+        {
+          "letter": "B",
+          "text": "Makes sure machinery or equipment will not start and injure a worker during set-up or clean-up"
+        },
+        {
+          "letter": "C",
+          "text": "Kiss - Kick - Kiss: a positive point, an area to improve, then an encouraging statement"
+        },
+        {
+          "letter": "D",
+          "text": "Ability to respond to irregularities, breakdowns, imperfections and the unknown in routines"
+        },
+        {
+          "letter": "E",
+          "text": "Assessing current skills and knowledge, no matter how, when or where the learning occurred"
+        }
+      ],
+      "src": "paper-final-formative-01",
+      "type": "matching"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-final-formative-01-q17",
+      "kind": "paper",
+      "label": "Final Formative 01 (Short 17)",
+      "page": 2,
+      "paperClass": "formative",
+      "printedPage": null,
+      "question": "What are the benefits of Recognition of Prior Learning (RPL)?",
+      "src": "paper-final-formative-01",
+      "type": "short"
+    },
+    {
+      "answer": "RPL recognises skills and knowledge gained previously. It reduces\nunnecessary retraining, saves time and cost, and helps determine training based on\nskill gaps.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q3",
+      "kind": "paper",
+      "label": "Short Questions (Short 3)",
+      "page": 1,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "How does RPL support learners and the training system?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": "RPL assesses skills and knowledge gained through prior work,\neducation or training against current standards, regardless of where or when the\nlearning occurred.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q71",
+      "kind": "paper",
+      "label": "Short Questions (Short 71)",
+      "page": 9,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is Recognition of Prior Learning (RPL) in competency-based assessment?",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 10,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Recognition of Prior Learning (RPL): Benefits and Evidence",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 32,
+          "printedPage": 32,
+          "quote": "Recognition of prior learning (RPL) is one way to have current skills and knowledge",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        },
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 32,
+          "printedPage": 32,
+          "quote": "regardless of where and when",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        },
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 32,
+          "printedPage": 32,
+          "quote": "the learning occurred to see if they meet current industry standards.",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "RPL looks at whether skills and knowledge meet current industry standards."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 33,
+          "printedPage": 33,
+          "quote": "Unsuccessful applicants have a right to formally appeal the RPL assessment,",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Unsuccessful applicants have a right to formally appeal the RPL assessment."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 33,
+          "printedPage": 33,
+          "quote": "apply for recognition of prior learning students will need to complete the RPL form",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        },
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 33,
+          "printedPage": 33,
+          "quote": "and provide supporting evidence.",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "To apply, students complete the RPL form and provide supporting evidence."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

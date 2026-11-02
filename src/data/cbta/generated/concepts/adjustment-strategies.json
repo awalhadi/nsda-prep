@@ -5,6 +5,20 @@
   ],
   "appearsIn": [
     {
+      "cblm": 2,
+      "pages": [
+        {
+          "pdf": 8,
+          "printed": 8
+        },
+        {
+          "pdf": 9,
+          "printed": 9
+        }
+      ],
+      "src": "cblm02"
+    },
+    {
       "cblm": 12,
       "pages": [
         {
@@ -36,7 +50,7 @@
   "breakdown": {
     "exam": 7,
     "highlight": 3,
-    "repeat": 1
+    "repeat": 2
   },
   "cblmPrimary": 12,
   "errata": [],
@@ -47,8 +61,8 @@
   "highlighted": true,
   "id": "adjustment-strategies",
   "importance": {
-    "bn": "Short Questions (Short 7, 9), CBT&A L4 Written Test — Inclusivity & Maintenance (Short 4) আর CBLM 12 Self Check 1 (Q4): 3 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
-    "en": "Asked in Short Questions (Short 7, 9), CBT&A L4 Written Test — Inclusivity & Maintenance (Short 4) and CBLM 12 Self Check 1 (Q4). Highlighted in CBLM 12. Comes as short question."
+    "bn": "Short Questions (Short 7, 9), CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 4) আর CBLM 12 Self Check 1 (Q4): 3 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Short Questions (Short 7, 9), CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 4) and CBLM 12 Self Check 1 (Q4). Highlighted in CBLM 12. Comes as MCQ and short question."
   },
   "keywords": [
     {
@@ -77,6 +91,7 @@
     }
   ],
   "likelyTypes": [
+    "mcq",
     "short"
   ],
   "listAnswer": {
@@ -749,22 +764,28 @@
       "type": "short"
     },
     {
-      "answer": "Support persons assist learners to overcome barriers and participate fully in training and\nassessment.\nExamples and Roles:\nTeacher Aides / Learning Support Officers: 1. Help learners with disabilities during training or\nassessments. 2. Provide one-on-one guidance or assist with equipment.\nInterpreters / Translators: 1. Assist learners with limited English proficiency or hearing impairment. 2.\nTranslate instructions, questions, or responses.\nCounsellors / Student Advisors: 1. Provide emotional, social, or career support. 2. Help learners manage\nstress or personal issues affecting learning.\nMentors / Peer Support: 1. Guide learners through tasks or practical activities. 2. Encourage\nparticipation and build confidence.\nFamily Members / Carers (where appropriate): 1. Assist with mobility, communication, or personal care\nneeds during training.",
-      "answerIndex": null,
+      "answer": null,
+      "answerIndex": 2,
       "answerLetter": null,
       "flags": [],
-      "id": "paper-written-inclusivity-maintenance-q4",
+      "id": "paper-written-inclusivity-maintenance-mcq-q4",
       "kind": "paper",
-      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (Short 4)",
-      "page": 3,
+      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 4)",
+      "options": [
+        "Written multiple-choice test",
+        "Online questionnaire",
+        "Oral questioning and verbal responses",
+        "Essay writing task"
+      ],
+      "page": 1,
       "paperClass": "official",
       "printedPage": null,
-      "question": "Who are some support persons that may assist in inclusive learning? Give examples and their roles.",
+      "question": "Which of the following is the most appropriate assessment method for individuals with low literacy or numeracy skills?",
       "src": "paper-written-inclusivity-maintenance",
-      "type": "short"
+      "type": "mcq"
     }
   ],
-  "score": 11,
+  "score": 12,
   "sourceType": "cblm",
   "stars": 3,
   "status": "draft",
@@ -853,5 +874,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 0
+  "warnings": 1
 }

@@ -1,0 +1,600 @@
+{
+  "aliases": [
+    "Facilities in a CBT shop",
+    "CBT shop layout",
+    "Competency-based training room"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 10,
+      "pages": [
+        {
+          "pdf": 6,
+          "printed": 6
+        },
+        {
+          "pdf": 7,
+          "printed": 7
+        },
+        {
+          "pdf": 22,
+          "printed": 22
+        }
+      ],
+      "src": "cblm10"
+    }
+  ],
+  "banglaExplanation": [
+    "CBT shop মানে শুধু একটা ক্লাসরুম না, এখানে আলাদা আলাদা area থাকে।",
+    "কোন facility লাগবে তা Competency Standard বলে দেয়।",
+    "Practical Work Area হলো মূল জায়গা, যেখানে trainee skills শেখে।",
+    "Layout বানানোর সময় নিরাপত্তা, আলো-বাতাস আর কাজের সহজ চলাচল ভাবতে হয়।"
+  ],
+  "breakdown": {
+    "exam": 4,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 10,
+  "errata": [],
+  "example": {
+    "bn": "ওয়েল্ডিং শপে মেশিনের জায়গা আলাদা, আর CBLM রাখার জায়গা তার পাশেই।",
+    "en": "A welding shop has a practical work area with machines. Learning materials sit in a nearby resource area."
+  },
+  "highlighted": true,
+  "id": "cbt-shop-areas",
+  "importance": {
+    "bn": "CBLM 10 Self Check 1 (Q1, Q2)-এ এসেছে। CBLM 10-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in CBLM 10 Self Check 1 (Q1, Q2). Highlighted in CBLM 10. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "প্রশিক্ষণের ঘর, যন্ত্রপাতি ও অবকাঠামো",
+      "en": "Infrastructure facility"
+    },
+    {
+      "bn": "হাতে-কলমে কাজ শেখার জায়গা",
+      "en": "Practical Work Area"
+    },
+    {
+      "bn": "শেখার উপকরণ রাখা ও দেওয়ার জায়গা",
+      "en": "Learning Resource Area"
+    },
+    {
+      "bn": "ঘরের নকশা, কোন জায়গা কোথায় থাকবে",
+      "en": "Layout"
+    },
+    {
+      "bn": "ইন্ডাস্ট্রির ঠিক করা দক্ষতার মান",
+      "en": "Competency Standard"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "This is the area where the learner is supposed to acquire skills and knowledge",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 6,
+            "passageId": "cblm10-p6-5e5ad0b7",
+            "printedPage": 6,
+            "quote": "components of the competencies prescribed by the standard.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Practical Work Area: learners acquire the skills and knowledge of the competencies."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 6,
+            "passageId": "cblm10-p6-668f37d8",
+            "printedPage": 6,
+            "quote": "This is the area for the storage and release of learning materials to trainees.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Learning Resource Area: storage and release of learning materials to trainees."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "Institutional Assessment Area.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Institutional Assessment Area."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "Computer Laboratory",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Computer Laboratory."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "This houses the learning materials in the process of being designed and developed.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 7,
+            "passageId": "cblm10-p7-8665243e",
+            "printedPage": 7,
+            "quote": "The Skills Standards and curriculum materials are stored in this area.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Trainers Resource Area: learning materials being designed; standards and curriculum materials stored."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 7,
+            "passageId": "cblm10-p7-f8b5f622",
+            "printedPage": 7,
+            "quote": "This is a place for quality control of training.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Quality Control Area: a place for quality control of training."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 6,
+            "passageId": "cblm10-p6-07fd89a4",
+            "printedPage": 6,
+            "quote": "Contextual Learning Area",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "This facility ensures that the underpinning knowledge, the science and mathematics and",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "communication principles as applied to the technology are provided to the learner.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Contextual Learning Area: underpinning knowledge, science, mathematics and communication principles."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "Support Service Area",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Support Service Area."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 10,
+        "match": "exact",
+        "page": 6,
+        "passageId": "cblm10-p6-1579a525",
+        "printedPage": 6,
+        "quote": "A Competency Based Training Program must have an infrastructure facility that is accepted to industry standards and practices.",
+        "sourceTitle": "Deliver Competency Based Training",
+        "src": "cblm10"
+      },
+      {
+        "cblm": 10,
+        "match": "exact",
+        "page": 6,
+        "printedPage": 6,
+        "quote": "A room lay-out must have the following sections",
+        "sourceTitle": "Deliver Competency Based Training",
+        "src": "cblm10"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "A Competency Based Training Program must have an infrastructure facility accepted to industry standards."
+  },
+  "openChecks": 2,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 10,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "Practical Work Area This is the area where the learner is supposed to acquire skills and knowledge",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          "left": "Practical Work Area",
+          "right": "Learner acquires skills and knowledge"
+        },
+        {
+          "cite": {
+            "cblm": 10,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "Learning Resource Area • This is the area for the storage and release of learning materials to trainees.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          "left": "Learning Resource Area",
+          "right": "Storage and release of learning materials"
+        },
+        {
+          "cite": {
+            "cblm": 10,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Quality Control Area This is a place for quality control of training.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          "left": "Quality Control Area",
+          "right": "Quality control of training"
+        },
+        {
+          "cite": {
+            "cblm": 10,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "The Skills Standards and curriculum materials are stored in this area.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          "left": "Trainers Resource Area",
+          "right": "Skills Standards and curriculum materials are stored"
+        },
+        {
+          "cite": {
+            "cblm": 10,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "This facility ensures that the underpinning knowledge, the science and mathematics and",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          "left": "Contextual Learning Area",
+          "right": "Underpinning knowledge, science and mathematics"
+        }
+      ],
+      "prompt": "Match each CBT shop area with its use."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 10,
+        "match": "exact",
+        "page": 6,
+        "printedPage": 6,
+        "quote": "Learning Resource Area",
+        "sourceTitle": "Deliver Competency Based Training",
+        "src": "cblm10"
+      },
+      "answerIndex": 2,
+      "options": [
+        "Practical Work Area",
+        "Quality Control Area",
+        "Learning Resource Area",
+        "Contextual Learning Area"
+      ],
+      "prompt": "In a CBT shop, where are learning materials stored and released to trainees?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Areas are designed to facilitate smooth work flow of trainees and trainers.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Areas are designed for smooth work flow of trainees and trainers."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "The support materials and other aids for learning are readily available and",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Support materials and other learning aids are readily available and accessible."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Security, safety and well being of the trainee are prioritized.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Security, safety and well being of the trainee are prioritized."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Security and safety in the storage of materials, supplies, tools and equipment.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Security and safety in the storage of materials, supplies, tools and equipment."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Ventilation and illumination of each area should be considered.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Ventilation and illumination of each area should be considered."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Caution signs are placed.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Caution signs are placed."
+        }
+      ],
+      "modelAnswer": "When preparing a CBT shop layout, consider:\n1. Areas allow smooth work flow of trainees and trainers.\n2. Support materials and learning aids are readily available and accessible.\n3. Security, safety and well being of the trainee come first.\n4. Materials, supplies, tools and equipment are stored safely and securely.\n5. Ventilation and illumination of each area.\n6. Caution signs are placed.",
+      "prompt": "What factors should be considered when preparing a CBT shop layout?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "design of the area are therefore dependent upon the competencies which are the",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "focus of learning.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The competencies which are the focus of learning decide it."
+      },
+      "prompt": "What decides the content and design of the Practical Work Area?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "•\nPractical Work Area\n•\nLearning Resource Area\n•\nInstitutional Assessment Area.\n•\nComputer Laboratory\n•\nTrainers Resource Area\n•\nQuality Control Area\n•\nContextual Learning Area\n•\nSupport Service Area",
+      "flags": [],
+      "id": "cblm10-sc1-q1",
+      "kind": "selfcheck",
+      "label": "CBLM 10 Self Check 1 (Q1)",
+      "page": 21,
+      "printedPage": 21,
+      "question": "List the facilities you need to ensure in your CBT shop.",
+      "src": "cblm10",
+      "type": "short"
+    },
+    {
+      "answer": "When preparing a CBT Shop Layout, the following factors should be considered;\n• Areas are designed to facilitate smooth work flow of trainees and trainers.\n• The support materials and other aids for learning are readily available and\naccessible.\n• Security, safety and well being of the trainee are prioritized.\n• Security and safety in the storage of materials, supplies, tools and equipment.\n• Ventilation and illumination of each area should be considered.\n• Caution signs are placed.",
+      "flags": [],
+      "id": "cblm10-sc1-q2",
+      "kind": "selfcheck",
+      "label": "CBLM 10 Self Check 1 (Q2)",
+      "page": 21,
+      "printedPage": 21,
+      "question": "What factors should be considered when preparing a CBT shop layout",
+      "src": "cblm10",
+      "type": "short"
+    }
+  ],
+  "score": 8,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Areas of a CBT Shop (Training Room Layout)",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 6,
+          "printedPage": 6,
+          "quote": "The Competency Standard provides in detail what the infrastructure facilities and materials would be.",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The Competency Standard details the infrastructure facilities and materials needed."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 6,
+          "printedPage": 6,
+          "quote": "Practical Work Area",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        },
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 6,
+          "passageId": "cblm10-p6-7ed28031",
+          "printedPage": 6,
+          "quote": "design of the area are therefore dependent upon the competencies which are the",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        },
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 6,
+          "printedPage": 6,
+          "quote": "The content and",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Practical Work Area: its content and design depend upon the competencies."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 7,
+          "passageId": "cblm10-p7-038603b9",
+          "printedPage": 7,
+          "quote": "approval by the group of trainers before storage in the learning resource area.",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        },
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 7,
+          "printedPage": 7,
+          "quote": "It is where the trainees collectively ensure",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        },
+        {
+          "cblm": 10,
+          "match": "exact",
+          "page": 7,
+          "printedPage": 7,
+          "quote": "correctness, orderliness and maintenance of training delivery inputs and materials",
+          "sourceTitle": "Deliver Competency Based Training",
+          "src": "cblm10"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Trainees check materials in the Quality Control Area before storage in the Learning Resource Area."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

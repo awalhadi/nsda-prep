@@ -1,0 +1,167 @@
+{
+  "id": "competency-ksa",
+  "canonical_title": "Competency: Definition, Types and Key Features",
+  "aliases": [
+    "Competency",
+    "Key features of competency",
+    "Difference between competency and skills"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p12-2ef28d31"
+  ],
+  "questions": [
+    "paper-unit01-short-q2"
+  ],
+  "one_line_answer": {
+    "text": "Competency is measurable or observable knowledge, skills and attitude (KSA) for successful job performance.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm01", "page": 12, "quote": "Competencies refer to the measurable or observable knowledge, skills and attitude (KSAs), which are critical to successful job performance.", "passageId": "cblm01-p12-2ef28d31" }
+    ]
+  },
+  "keywords": [
+    { "en": "Competency", "bn": "যোগ্যতা: জ্ঞান, দক্ষতা ও মনোভাব একসাথে" },
+    { "en": "Knowledge (K)", "bn": "জ্ঞান" },
+    { "en": "Skills (S)", "bn": "হাতে-কলমে কাজ করার দক্ষতা" },
+    { "en": "Attitude (A)", "bn": "মনোভাব, আচরণ" },
+    { "en": "Observable", "bn": "চোখে দেখা যায় এমন" }
+  ],
+  "bangla_explanation": [
+    "Competency মানে শুধু হাতের skill নয়; knowledge, skill আর attitude তিনটাই লাগে (KSA)।",
+    "Skill হলো competency-র একটা অংশ মাত্র।",
+    "ভালো welder হলেই কেউ TVET trainer হতে পারে না; knowledge আর সঠিক attitude-ও লাগে।",
+    "Key features চারটা: কাজ করতে পারা, কেন-কীভাবে জানা, সমস্যা হলে কী করতে হবে জানা, আর safely কাজ করার সঠিক approach।"
+  ],
+  "example": {
+    "en": "A good welder joins a TVET institute. He also needs knowledge and the right attitude to be a competent trainer.",
+    "bn": "ভালো welder হলেই trainer হিসেবে competent নয়; পড়াশোনা/অভিজ্ঞতা আর ভালো আচরণও লাগবে।"
+  },
+  "mnemonic": {
+    "text": "KSA = Know it, Show it, Act right",
+    "explain_bn": "Knowledge = জানা, Skill = করে দেখানো, Attitude = সঠিক আচরণ।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "being able to do the job",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 12, "quote": "being able to do the job" }
+        ]
+      },
+      {
+        "text": "knowing how and why things are done",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 12, "quote": "knowing how and why things are done" }
+        ]
+      },
+      {
+        "text": "knowing what to do if things go wrong",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 12, "quote": "knowing what to do if things go wrong" }
+        ]
+      },
+      {
+        "text": "having the right approach to do a job properly and safely",
+        "fidelity": "verbatim",
+        "cites": [
+          { "src": "cblm01", "page": 12, "quote": "having the right approach to do a job properly and safely." }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Skill is a part of competency. Competency has three parameters: knowledge, skills and attitude.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 12, "quote": "Skill is a part of competency. Competency consists of three parameters (KSA) - Knowledge (K), Skills(S) and Attitude (A)." }
+      ]
+    },
+    {
+      "text": "Rating skills looks at practical abilities. Rating competency also needs knowledge and attitude.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm01", "page": 12, "quote": "While rating skills, you have to determine what abilities are required to perform a job" },
+        { "src": "cblm01", "page": 12, "quote": "practically but while rating competency, you have to determine the set of abilities/" },
+        { "src": "cblm01", "page": 12, "quote": "skills required along with the knowledge and attitude needed for the said job." }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the key features of competency?",
+      "modelAnswer": "Competency is the measurable or observable knowledge, skills and attitude (KSA) for successful job performance. Key features of competency:\n1. Being able to do the job\n2. Knowing how and why things are done\n3. Knowing what to do if things go wrong\n4. Having the right approach to do a job properly and safely",
+      "keyPoints": [
+        {
+          "text": "Knowledge competencies: practical or theoretical understanding of subjects.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 12, "quote": "Knowledge Competencies - practical or theoretical understanding of subjects." }
+          ]
+        },
+        {
+          "text": "Skill competencies: natural or learned capacities to perform acts.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 12, "quote": "Skill Competencies - natural or learned capacities to perform acts." }
+          ]
+        },
+        {
+          "text": "Attitude competencies: patterns of action or conduct.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm01", "page": 12, "quote": "Attitude Competencies - patterns of action or conduct." }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which statement about skill and competency is correct?",
+      "options": [
+        "Skill is a part of competency",
+        "Competency is a part of skill",
+        "Skill and competency are exactly the same",
+        "Competency needs only knowledge"
+      ],
+      "answerIndex": 0,
+      "answerCite": { "src": "cblm01", "page": 12, "quote": "Skill is a part of competency." }
+    },
+    "matching": {
+      "prompt": "Match each competency type with its meaning.",
+      "pairs": [
+        {
+          "left": "Knowledge competencies",
+          "right": "Practical or theoretical understanding of subjects",
+          "cite": { "src": "cblm01", "page": 12, "quote": "Knowledge Competencies - practical or theoretical understanding of subjects." }
+        },
+        {
+          "left": "Skill competencies",
+          "right": "Natural or learned capacities to perform acts",
+          "cite": { "src": "cblm01", "page": 12, "quote": "Skill Competencies - natural or learned capacities to perform acts." }
+        },
+        {
+          "left": "Attitude competencies",
+          "right": "Patterns of action or conduct",
+          "cite": { "src": "cblm01", "page": 12, "quote": "Attitude Competencies - patterns of action or conduct." }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Is a very good welder automatically competent to be a TVET trainer?",
+      "answer": {
+        "text": "No. He also needs adequate knowledge and the right attitude.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm01", "page": 12, "quote": "but s/he will not be competent to join a TVET Institute as TVET Teacher/Trainer unless s/he possesses" },
+          { "src": "cblm01", "page": 12, "quote": "adequate education/ experience (Knowledge) and the right temperament/ behaviour (attitude)." }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

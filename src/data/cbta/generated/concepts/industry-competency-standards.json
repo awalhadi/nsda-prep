@@ -5,6 +5,16 @@
   ],
   "appearsIn": [
     {
+      "cblm": 1,
+      "pages": [
+        {
+          "pdf": 14,
+          "printed": 14
+        }
+      ],
+      "src": "cblm01"
+    },
+    {
       "cblm": 8,
       "pages": [
         {
@@ -35,7 +45,7 @@
   "breakdown": {
     "exam": 12,
     "highlight": 3,
-    "repeat": 2
+    "repeat": 3
   },
   "cblmPrimary": 8,
   "errata": [],
@@ -46,8 +56,8 @@
   "highlighted": true,
   "id": "industry-competency-standards",
   "importance": {
-    "bn": "Short Questions (Short 29), Unit 01 Questions (MCQ 4), Unit 01 Answers (MCQ 4), Final Formative 01 (Short 16), CBLM 8 Self Check 1 (Q1) আর CBLM 9 Self Check 1 (Q4): 6 জায়গায় এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
-    "en": "Asked in Short Questions (Short 29), Unit 01 Questions (MCQ 4), Unit 01 Answers (MCQ 4), Final Formative 01 (Short 16), CBLM 8 Self Check 1 (Q1) and CBLM 9 Self Check 1 (Q4). Highlighted in CBLM 8. Comes as MCQ and short question."
+    "bn": "Short Questions (Short 29), Unit 01 Questions (MCQ 4, Matching 11), Unit 01 Answers (MCQ 4, Matching 11), Final Formative 01 (Short 16), CBLM 8 Self Check 1 (Q1) আর CBLM 9 Self Check 1 (Q4): 6 জায়গায় এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় matching, MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Short Questions (Short 29), Unit 01 Questions (MCQ 4, Matching 11), Unit 01 Answers (MCQ 4, Matching 11), Final Formative 01 (Short 16), CBLM 8 Self Check 1 (Q1) and CBLM 9 Self Check 1 (Q4). Highlighted in CBLM 8. Comes as matching, MCQ and short question."
   },
   "keywords": [
     {
@@ -72,6 +82,7 @@
     }
   ],
   "likelyTypes": [
+    "matching",
     "mcq",
     "short"
   ],
@@ -492,8 +503,94 @@
       "type": "short"
     },
     {
-      "answer": "A competency standard includes:\n•\nskills, knowledge and attitude requirements for the level of work\n•\nquality indicators\n•\nnational qualifications that a person can receive who has been assessed as\ncompetent against the national standards\n•\nlearning strategies that provide guidance about the organisation of training,\nincluding implementation guidelines and training/learning materials\n•\nassessment guidelines\n•\nassessment methods and materials",
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-unit01-mcq-q11",
+      "kind": "paper",
+      "label": "Unit 01 Questions (Matching 11)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Outlines specific skills and knowledge required for a job role.",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Evidence Guide"
+        },
+        {
+          "letter": "B",
+          "text": "Range Statement"
+        },
+        {
+          "letter": "C",
+          "text": "Underpinning knowledge for UoC"
+        },
+        {
+          "letter": "D",
+          "text": "Element of Competency"
+        },
+        {
+          "letter": "E",
+          "text": "Competency standard"
+        },
+        {
+          "letter": "F",
+          "text": "Performance Criteria"
+        }
+      ],
+      "src": "paper-unit01-mcq",
+      "type": "matching"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": "E",
       "flags": [],
+      "id": "paper-unit01-answer-q11",
+      "kind": "paper",
+      "label": "Unit 01 Answers (Matching 11)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Outlines specific skills and knowledge required for a job role.",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Evidence Guide"
+        },
+        {
+          "letter": "B",
+          "text": "Range Statement"
+        },
+        {
+          "letter": "C",
+          "text": "Underpinning knowledge for UoC"
+        },
+        {
+          "letter": "D",
+          "text": "Element of Competency"
+        },
+        {
+          "letter": "E",
+          "text": "Competency standard"
+        },
+        {
+          "letter": "F",
+          "text": "Performance Criteria"
+        }
+      ],
+      "src": "paper-unit01-answer",
+      "type": "matching"
+    },
+    {
+      "answer": null,
+      "flags": [
+        "no-answer-key-entry"
+      ],
       "id": "cblm09-sc1-q4",
       "kind": "selfcheck",
       "label": "CBLM 9 Self Check 1 (Q4)",
@@ -504,7 +601,7 @@
       "type": "short"
     }
   ],
-  "score": 17,
+  "score": 18,
   "sourceType": "cblm",
   "stars": 3,
   "status": "draft",
@@ -560,5 +657,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 1
+  "warnings": 2
 }
