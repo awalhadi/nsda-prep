@@ -213,7 +213,7 @@ export default function ConceptCard({ c }: { c: GenConcept }) {
 
       {/* ---------- Practice ---------- */}
       <Section id="practice" Icon={GraduationCap} title="Practice" titleBn="নিজেকে যাচাই করুন">
-        <PracticeTabs practice={c.practice} />
+        <PracticeTabs practice={c.practice} conceptId={c.id} />
         {c.realQuestions.length > 0 && (
           <details className="group mt-6 rounded-xl border border-line">
             <summary className="flex min-h-12 cursor-pointer list-none items-center gap-2 px-4 text-[15px] font-bold">

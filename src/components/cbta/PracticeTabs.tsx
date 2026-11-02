@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { Check, X, RotateCcw, Mic, Eye } from "lucide-react";
 import type { GenConcept } from "@/lib/cbta/types";
+import { recordPractice } from "@/lib/cbta/progress";
 
 type Tab = "mcq" | "short" | "matching" | "viva";
 
@@ -23,7 +24,7 @@ function Feedback({ ok, children }: { ok: boolean; children: React.ReactNode }) 
   );
 }
 
-function Mcq({ mcq }: { mcq: GenConcept["practice"]["mcq"] }) {
+function Mcq({ mcq, conceptId }: { mcq: GenConcept["practice"]["mcq"]; conceptId: string }) {
   const [picked, setPicked] = useState<number | null>(null);
   const done = picked !== null;
   return (
@@ -33,7 +34,7 @@ function Mcq({ mcq }: { mcq: GenConcept["practice"]["mcq"] }) {
         {mcq.options.map((o, i) => {
           const state = !done ? "idle" : i === mcq.answerIndex ? "right" : i === picked ? "wrong" : "dim";
           return (
-            <button key={o} type="button" disabled={done} onClick={() => setPicked(i)}
+            <button key={o} type="button" disabled={done} onClick={() => { setPicked(i); recordPractice(conceptId, "mcq", i === mcq.answerIndex); }}
               className={`${choiceBase} ${
                 state === "idle" ? "border-line border-b-line-strong bg-card hover:bg-paper" :
                 state === "right" ? "border-ok/50 border-b-ok bg-ok-soft text-ok" :
@@ -63,8 +64,9 @@ function Mcq({ mcq }: { mcq: GenConcept["practice"]["mcq"] }) {
   );
 }
 
-function Short({ short }: { short: GenConcept["practice"]["short"] }) {
+function Short({ short, conceptId }: { short: GenConcept["practice"]["short"]; conceptId: string }) {
   const [shown, setShown] = useState(false);
+  const [saved, setSaved] = useState(false);
   const [ticked, setTicked] = useState<Set<number>>(new Set());
   return (
     <div>
@@ -91,6 +93,16 @@ function Short({ short }: { short: GenConcept["practice"]["short"] }) {
               ))}
             </ul>
             <p className="mt-2 text-[14px] font-semibold text-ink-2">{ticked.size} of {short.keyPoints.length} key points</p>
+            {!saved ? (
+              <button type="button" onClick={() => { setSaved(true); recordPractice(conceptId, "short", ticked.size / short.keyPoints.length >= 0.6); }}
+                className="cbta-btn mt-3 inline-flex min-h-11 items-center rounded-xl border-2 border-line border-b-line-strong bg-card px-4 text-[14px] font-bold hover:bg-paper">
+                Save my result
+              </button>
+            ) : (
+              <p role="status" className="mt-3 text-[14px] font-semibold text-ok">
+                {ticked.size / short.keyPoints.length >= 0.6 ? "Saved. Good answer!" : "Saved. This topic will come back for revision tomorrow."}
+              </p>
+            )}
           </div>
         </div>
       )}
@@ -98,7 +110,7 @@ function Short({ short }: { short: GenConcept["practice"]["short"] }) {
   );
 }
 
-function Matching({ matching }: { matching: GenConcept["practice"]["matching"] }) {
+function Matching({ matching, conceptId }: { matching: GenConcept["practice"]["matching"]; conceptId: string }) {
   // Rotate the right column by half so no answer sits beside its term; deterministic for SSR.
   const rights = useMemo(() => {
     const n = matching.pairs.length;
@@ -110,12 +122,16 @@ function Matching({ matching }: { matching: GenConcept["practice"]["matching"] }
   const [left, setLeft] = useState<number | null>(null);
   const [paired, setPaired] = useState<Record<number, number>>({});
   const [wrong, setWrong] = useState<number | null>(null);
+  const [mistakes, setMistakes] = useState(0);
   const done = Object.keys(paired).length === matching.pairs.length;
 
   const pickRight = (ri: number) => {
     if (left === null || Object.values(paired).includes(ri)) return;
-    if (ri === left) { setPaired((p) => ({ ...p, [left]: ri })); setLeft(null); setWrong(null); }
-    else setWrong(ri);
+    if (ri === left) {
+      const next = { ...paired, [left]: ri };
+      setPaired(next); setLeft(null); setWrong(null);
+      if (Object.keys(next).length === matching.pairs.length) recordPractice(conceptId, "matching", mistakes === 0);
+    } else { setWrong(ri); setMistakes((m) => m + 1); }
   };
   const tile = "cbta-btn flex min-h-14 w-full items-center gap-2 rounded-xl border-2 px-3 py-2 text-left";
 
@@ -161,7 +177,7 @@ function Matching({ matching }: { matching: GenConcept["practice"]["matching"] }
         {done ? <span className="text-ok">সব মিলেছে! All matched.</span> : wrong !== null ? <span className="text-danger">Not a match. Try another.</span> : null}
       </div>
       {done && (
-        <button type="button" onClick={() => { setPaired({}); setLeft(null); }} className="inline-flex items-center gap-1 text-[13px] font-semibold text-ink-2 hover:text-ink">
+        <button type="button" onClick={() => { setPaired({}); setLeft(null); setMistakes(0); }} className="inline-flex items-center gap-1 text-[13px] font-semibold text-ink-2 hover:text-ink">
           <RotateCcw size={13} /> Play again
         </button>
       )}
@@ -169,8 +185,9 @@ function Matching({ matching }: { matching: GenConcept["practice"]["matching"] }
   );
 }
 
-function Viva({ viva }: { viva: GenConcept["practice"]["viva"] }) {
+function Viva({ viva, conceptId }: { viva: GenConcept["practice"]["viva"]; conceptId: string }) {
   const [flipped, setFlipped] = useState(false);
+  const [rated, setRated] = useState<boolean | null>(null);
   return (
     <div>
       <p className="mb-3 text-[14px] text-ink-3">Say the answer out loud, then flip the card. Viva questions are made from the CBLM, because the papers had no viva samples.</p>
@@ -187,11 +204,24 @@ function Viva({ viva }: { viva: GenConcept["practice"]["viva"] }) {
           </div>
         </div>
       </button>
+      {flipped && rated === null && (
+        <div className="mt-4 grid grid-cols-2 gap-2.5">
+          <button type="button" onClick={() => { setRated(true); recordPractice(conceptId, "viva", true); }}
+            className="cbta-btn min-h-12 rounded-xl border-2 border-ok/40 border-b-ok bg-ok-soft text-[15px] font-bold text-ok">I said it ✓</button>
+          <button type="button" onClick={() => { setRated(false); recordPractice(conceptId, "viva", false); }}
+            className="cbta-btn min-h-12 rounded-xl border-2 border-danger/30 border-b-danger bg-danger-soft text-[15px] font-bold text-danger">Missed it</button>
+        </div>
+      )}
+      {rated !== null && (
+        <p role="status" className={`mt-3 text-[14px] font-semibold ${rated ? "text-ok" : "text-danger"}`}>
+          {rated ? "Great. Saved." : "Saved. This topic will come back for revision tomorrow."}
+        </p>
+      )}
     </div>
   );
 }
 
-export default function PracticeTabs({ practice }: { practice: GenConcept["practice"] }) {
+export default function PracticeTabs({ practice, conceptId }: { practice: GenConcept["practice"]; conceptId: string }) {
   const [tab, setTab] = useState<Tab>("mcq");
   return (
     <div>
@@ -204,10 +234,10 @@ export default function PracticeTabs({ practice }: { practice: GenConcept["pract
         ))}
       </div>
       <div role="tabpanel" className="mt-5">
-        {tab === "mcq" && <Mcq mcq={practice.mcq} />}
-        {tab === "short" && <Short short={practice.short} />}
-        {tab === "matching" && <Matching matching={practice.matching} />}
-        {tab === "viva" && <Viva viva={practice.viva} />}
+        {tab === "mcq" && <Mcq mcq={practice.mcq} conceptId={conceptId} />}
+        {tab === "short" && <Short short={practice.short} conceptId={conceptId} />}
+        {tab === "matching" && <Matching matching={practice.matching} conceptId={conceptId} />}
+        {tab === "viva" && <Viva viva={practice.viva} conceptId={conceptId} />}
       </div>
     </div>
   );

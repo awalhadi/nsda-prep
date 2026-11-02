@@ -46,6 +46,8 @@ export interface StoreShape {
   streak: { lastDate: string | null; current: number; longest: number };
   xp: number;
   settings: UserSettings;
+  /** CBT&A L4 progress, kept separate from the Web Design modules (see src/lib/cbta/progress.ts). */
+  cbta?: import("./cbta/progress").CbtaState;
 }
 
 const KEY = "wdp3_store_v1";

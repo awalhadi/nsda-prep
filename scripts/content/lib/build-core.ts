@@ -355,6 +355,30 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
     });
   }
 
+  // ---------- mock-exam pool (card practice + real questions that have answers) ----------
+  const pool = { mcq: [] as unknown[], short: [] as unknown[], pairs: [] as unknown[] };
+  const seenReal = new Set<string>();
+  for (const r of valid) {
+    const c = r.concept!;
+    const meta = { conceptId: r.id, title: c.canonical_title, cblm: c.cblmPrimary, stars: r.stars };
+    pool.mcq.push({ ...meta, id: `${r.id}#mcq`, prompt: c.practice.mcq.prompt, options: c.practice.mcq.options, answerIndex: c.practice.mcq.answerIndex, real: null });
+    pool.short.push({ ...meta, id: `${r.id}#short`, prompt: c.practice.short.prompt, modelAnswer: c.practice.short.modelAnswer, keyPoints: c.practice.short.keyPoints.map((k) => k.text), real: null });
+    c.practice.matching.pairs.forEach((p, i) => pool.pairs.push({ ...meta, id: `${r.id}#pair${i}`, left: p.left, right: p.right }));
+    const realIds = [...new Set([...c.questions, ...(links.questions.get(r.id) ?? [])])];
+    for (const qid of realIds) {
+      const rq = realQuestion(ev, qid);
+      if (!rq || seenReal.has(qid)) continue;
+      if (rq.type === "mcq" && rq.options?.length === 4 && rq.answerIndex != null) {
+        seenReal.add(qid);
+        pool.mcq.push({ ...meta, id: qid, prompt: rq.question, options: rq.options, answerIndex: rq.answerIndex, real: rq.label });
+      } else if (rq.type === "short" && rq.answer) {
+        seenReal.add(qid);
+        pool.short.push({ ...meta, id: qid, prompt: rq.question, modelAnswer: rq.answer, keyPoints: [], real: rq.label });
+      }
+    }
+  }
+  gen("pool.json", pool);
+
   outputs.set(join(ROOT, "docs/plan/COVERAGE_REPORT.md"), renderCoverage(coverage, ev, results, conceptMap.unmapped ?? {}, [...links.questions.values()].flat()));
   outputs.set(join(ROOT, "docs/plan/REVIEW_QUEUE.md"), renderReviewQueue(results, globalIssues, errata, ev));
   outputs.set(join(ROOT, "docs/plan/PATTERN_ANALYSIS.md"), renderPatternAnalysis(ev, results));

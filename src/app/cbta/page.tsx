@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { ChevronRight } from "lucide-react";
 import ConceptTile from "@/components/cbta/ConceptTile";
+import HomeProgress from "@/components/cbta/HomeProgress";
 import { CBLMS, CONCEPT_INDEX } from "@/data/cbta/loader";
 
 export const metadata: Metadata = {
@@ -35,8 +36,13 @@ export default function CbtaHome() {
         <p className="mt-2 text-[12.5px] text-ink-3">Exam pattern = 10 MCQ, 5 matching, 10 short questions. Every fact links to the exact CBLM words.</p>
       </header>
 
+      <HomeProgress total={CONCEPT_INDEX.length} />
+
       <section aria-labelledby="top">
-        <h2 id="top" className="mb-1 text-[22px] font-extrabold tracking-tight">Most likely in the exam</h2>
+        <div className="mb-1 flex items-baseline justify-between gap-3">
+          <h2 id="top" className="text-[22px] font-extrabold tracking-tight">Most likely in the exam</h2>
+          <Link href="/cbta/guide" className="shrink-0 text-[14px] font-bold text-brand hover:underline">Full priority guide →</Link>
+        </div>
         <p lang="bn" className="mb-4 text-[15px] text-ink-3">পরীক্ষায় সবচেয়ে বেশি এসেছে, তাই আগে এগুলো পড়ুন।</p>
         <ul className="grid gap-2.5 md:grid-cols-2">
           {top.map((c) => <li key={c.id}><ConceptTile c={c} showCblm /></li>)}

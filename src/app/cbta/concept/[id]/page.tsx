@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft } from "lucide-react";
 import ConceptCard from "@/components/cbta/ConceptCard";
+import CardActions from "@/components/cbta/CardActions";
 import { CONCEPT_INDEX, getConcept, getIndexEntry } from "@/data/cbta/loader";
 
 export const dynamicParams = false;
@@ -27,6 +28,7 @@ export default async function ConceptPage({ params }: { params: Promise<{ id: st
         <ArrowLeft size={15} aria-hidden /> CBLM {c.cblmPrimary}
       </Link>
       <ConceptCard c={c} />
+      <div className="flex justify-center pt-2"><CardActions conceptId={c.id} /></div>
     </main>
   );
 }
