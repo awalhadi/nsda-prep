@@ -1,0 +1,257 @@
+{
+  "id": "osh-learning-outcomes",
+  "canonical_title": "Learning Outcomes of the OSH Unit",
+  "aliases": [
+    "Apply OSH practices in a CBT&A environment",
+    "OSH unit overview"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p3-ff33a8f1"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "This unit covers the skills, knowledge and attitudes to apply occupational health and safety.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 3,
+        "quote": "This unit covers the skills, knowledge and attitudes required to apply occupational"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "OSH",
+      "bn": "Occupational Health and Safety: কর্মক্ষেত্রে স্বাস্থ্য ও নিরাপত্তা"
+    },
+    {
+      "en": "Learning outcome",
+      "bn": "শেখার পরে যা পারতে হবে"
+    },
+    {
+      "en": "Emergency response",
+      "bn": "জরুরি অবস্থায় করণীয়"
+    },
+    {
+      "en": "Performance criteria",
+      "bn": "কাজ ঠিক হলো কিনা মাপার মানদণ্ড"
+    },
+    {
+      "en": "Training area",
+      "bn": "প্রশিক্ষণের জায়গা"
+    }
+  ],
+  "bangla_explanation": [
+    "OSH মানে Occupational Health and Safety, অর্থাৎ কাজের জায়গায় স্বাস্থ্য ও নিরাপত্তা।",
+    "এই unit-এর চারটি learning outcome: OSH issues identify, control ও report করা, safely কাজ করা, emergency procedures মানা, আর safety উন্নত করা।",
+    "প্রশিক্ষক হিসেবে training area-তে hazards খোঁজা আর report করা আপনার দায়িত্ব।"
+  ],
+  "example": {
+    "en": "Before a lathe class, the trainer checks the training area for hazards. She reports a broken guard to the right person.",
+    "bn": "লেদ ক্লাসের আগে প্রশিক্ষক training area পরীক্ষা করে ভাঙা guard-এর কথা report করেন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Identify, control and report OSH issues relating to immediate work environment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 3,
+            "quote": "Identify, control and report OSH issues relating to immediate work environment",
+            "passageId": "cblm03-p3-ff33a8f1"
+          }
+        ]
+      },
+      {
+        "text": "Conduct work safely",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 3,
+            "quote": "2. Conduct work safely"
+          }
+        ]
+      },
+      {
+        "text": "Follow emergency response procedures",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 3,
+            "quote": "3. Follow emergency response procedures"
+          }
+        ]
+      },
+      {
+        "text": "Maintain and improve health and safety in the work place",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 3,
+            "quote": "4. Maintain and improve health and safety in the work place"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Learning outcomes come with performance criteria you must demonstrate.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 3,
+          "quote": "Learning Outcomes"
+        },
+        {
+          "src": "cblm03",
+          "page": 3,
+          "quote": "You will be required to demonstrate your competency in the following performance criteria"
+        }
+      ]
+    },
+    {
+      "text": "Training area is routinely checked for OSH hazards before and during training.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 3,
+          "quote": "Training area is routinely checked for OSH hazards prior to commencing and during training."
+        }
+      ]
+    },
+    {
+      "text": "Appropriate PPE is selected and worn.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 3,
+          "quote": "Appropriate personal protective equipments (PPE) are selected and worn."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Write down the learning outcomes of the OSH unit.",
+      "modelAnswer": "The OSH unit has four learning outcomes:\n1. Identify, control and report OSH issues relating to immediate work environment\n2. Conduct work safely\n3. Follow emergency response procedures\n4. Maintain and improve health and safety in the work place",
+      "keyPoints": [
+        {
+          "text": "OSH hazards and incidents are reported to appropriate personnel according to procedures.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 3,
+              "quote": "OSH hazards and incidents are reported to appropriate personnel according to procedures."
+            }
+          ]
+        },
+        {
+          "text": "Safety signs and symbols are identified and followed.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 3,
+              "quote": "Safety Signs and symbols are identified and followed"
+            }
+          ]
+        },
+        {
+          "text": "Safety records are documented according to company policies.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 3,
+              "quote": "Safety records are documented according to company policies."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a learning outcome of the OSH unit?",
+      "options": [
+        "Follow emergency response procedures",
+        "Design competency based assessment",
+        "Prepare a session plan",
+        "Develop learning materials"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 3,
+        "quote": "3. Follow emergency response procedures"
+      }
+    },
+    "matching": {
+      "prompt": "Match each learning outcome number with its outcome.",
+      "pairs": [
+        {
+          "left": "Outcome 1",
+          "right": "Identify, control and report OSH issues",
+          "cite": {
+            "src": "cblm03",
+            "page": 3,
+            "quote": "1. Identify, control and report OSH issues relating to immediate work environment"
+          }
+        },
+        {
+          "left": "Outcome 2",
+          "right": "Conduct work safely",
+          "cite": {
+            "src": "cblm03",
+            "page": 3,
+            "quote": "2. Conduct work safely"
+          }
+        },
+        {
+          "left": "Outcome 3",
+          "right": "Follow emergency response procedures",
+          "cite": {
+            "src": "cblm03",
+            "page": 3,
+            "quote": "3. Follow emergency response procedures"
+          }
+        },
+        {
+          "left": "Outcome 4",
+          "right": "Maintain and improve health and safety",
+          "cite": {
+            "src": "cblm03",
+            "page": 3,
+            "quote": "4. Maintain and improve health and safety in the work place"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What does the OSH unit cover?",
+      "answer": {
+        "text": "It covers the skills, knowledge and attitudes to apply occupational health and safety.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 3,
+            "quote": "This unit covers the skills, knowledge and attitudes required to apply occupational"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

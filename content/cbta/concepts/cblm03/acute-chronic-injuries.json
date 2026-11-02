@@ -1,0 +1,235 @@
+{
+  "id": "acute-chronic-injuries",
+  "canonical_title": "Acute and Chronic Injuries and Illnesses",
+  "aliases": [
+    "Two types of injuries or illnesses in workplace hazard",
+    "Acute and chronic"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p19-1c602ebc"
+  ],
+  "questions": [
+    "paper-unit02-short-step-4-evaluate-the-results-q16"
+  ],
+  "one_line_answer": {
+    "text": "Injuries and illnesses are of two types: acute (immediate) and chronic (long-term).",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 19,
+        "quote": "Types of Injuries and Illness: Acute and Chronic"
+      },
+      {
+        "src": "cblm03",
+        "page": 19,
+        "quote": "Immediate injuries are called acute.",
+        "passageId": "cblm03-p19-1c602ebc"
+      },
+      {
+        "src": "cblm03",
+        "page": 19,
+        "quote": "Illnesses that develop over a long period of time are called chronic."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Acute",
+      "bn": "সাথে সাথে হওয়া আঘাত"
+    },
+    {
+      "en": "Chronic",
+      "bn": "দীর্ঘ সময়ে ধীরে ধীরে হওয়া অসুখ"
+    },
+    {
+      "en": "Injury",
+      "bn": "আঘাত"
+    },
+    {
+      "en": "Illness",
+      "bn": "অসুখ"
+    },
+    {
+      "en": "Repetitive strain",
+      "bn": "একই কাজ বারবার করায় পেশির ক্ষতি"
+    }
+  ],
+  "bangla_explanation": [
+    "কিছু hazards সাথে সাথে ক্ষতি করে, একে acute বলে; যেমন burns, fractures।",
+    "কিছু ক্ষতি ধীরে ধীরে অনেক দিনে হয়, একে chronic বলে; যেমন hearing loss, cancer।",
+    "সহজে মনে রাখুন: acute = এখনই, chronic = দীর্ঘ সময় পরে।"
+  ],
+  "example": {
+    "en": "A garments worker burns a hand on an iron. That is acute. Years of machine noise cause hearing loss. That is chronic.",
+    "bn": "ইস্ত্রিতে হাত পোড়া acute; বছরের পর বছর মেশিনের শব্দে hearing loss chronic।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Acute: immediate injuries, such as burns, fractures and bruises.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 19,
+            "quote": "Immediate injuries are called acute. Examples of acute injuries are burns, fractures, bruises."
+          }
+        ]
+      },
+      {
+        "text": "Chronic: illnesses that develop over a long time, such as hearing loss and cancer.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 19,
+            "quote": "Illnesses that develop over a long period of time are called chronic."
+          },
+          {
+            "src": "cblm03",
+            "page": 19,
+            "quote": "Examples of chronic illnesses include repetitive strain, hearing loss, and cancer."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Some hazards, like slippery floors, cause injuries right away. Others take longer.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 19,
+          "quote": "Some hazards - like slippery floors or boiling water - cause injuries right away."
+        },
+        {
+          "src": "cblm03",
+          "page": 19,
+          "quote": "But other hazards take longer."
+        }
+      ]
+    },
+    {
+      "text": "Hearing loss is a chronic illness. Acute means immediate injuries.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 19,
+          "quote": "Immediate injuries are called acute."
+        },
+        {
+          "src": "cblm03",
+          "page": 19,
+          "quote": "Examples of chronic illnesses include repetitive strain, hearing loss, and cancer."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Name the two types of injuries or illnesses in workplace hazard.",
+      "modelAnswer": "There are two types:\n1. Acute: immediate injuries, such as burns, fractures and bruises.\n2. Chronic: illnesses that develop over a long period of time, such as repetitive strain, hearing loss and cancer.",
+      "keyPoints": [
+        {
+          "text": "Immediate injuries are called acute.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 19,
+              "quote": "Immediate injuries are called acute."
+            }
+          ]
+        },
+        {
+          "text": "Illnesses that develop over a long period of time are called chronic.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 19,
+              "quote": "Illnesses that develop over a long period of time are called chronic."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Hearing loss that develops over many years is:",
+      "options": [
+        "Chronic illness",
+        "Acute injury",
+        "Ergonomic hazard",
+        "Near miss"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 19,
+        "quote": "Examples of chronic illnesses include repetitive strain, hearing loss, and cancer."
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning or examples.",
+      "pairs": [
+        {
+          "left": "Acute",
+          "right": "Immediate injuries",
+          "cite": {
+            "src": "cblm03",
+            "page": 19,
+            "quote": "Immediate injuries are called acute."
+          }
+        },
+        {
+          "left": "Chronic",
+          "right": "Illnesses that develop over a long period",
+          "cite": {
+            "src": "cblm03",
+            "page": 19,
+            "quote": "Illnesses that develop over a long period of time are called chronic."
+          }
+        },
+        {
+          "left": "Burns, fractures, bruises",
+          "right": "Examples of acute injuries",
+          "cite": {
+            "src": "cblm03",
+            "page": 19,
+            "quote": "Examples of acute injuries are burns, fractures, bruises."
+          }
+        },
+        {
+          "left": "Repetitive strain, hearing loss, cancer",
+          "right": "Examples of chronic illnesses",
+          "cite": {
+            "src": "cblm03",
+            "page": 19,
+            "quote": "Examples of chronic illnesses include repetitive strain, hearing loss, and cancer."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What is an acute injury? Give an example.",
+      "answer": {
+        "text": "An immediate injury is called acute. Burns are an example.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 19,
+            "quote": "Immediate injuries are called acute. Examples of acute injuries are burns"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

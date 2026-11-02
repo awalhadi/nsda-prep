@@ -1,0 +1,205 @@
+{
+  "id": "maintenance-definition",
+  "canonical_title": "Maintenance: Definition",
+  "aliases": [
+    "Definition of Maintenance",
+    "What is maintenance?",
+    "Define maintenance"
+  ],
+  "cblmPrimary": 6,
+  "source_type": "cblm",
+  "covers": [
+    "cblm06-p36-84a480e0",
+    "cblm06-p36-07181974"
+  ],
+  "questions": [
+    "cblm06-sc2-q1",
+    "paper-written-inclusivity-maintenance-short-q6"
+  ],
+  "one_line_answer": {
+    "text": "Maintenance is performing the routine actions which keep the device in working order, to keep in good condition, to preserve and protect the device.",
+    "fidelity": "verbatim",
+    "cites": [
+      {
+        "src": "cblm06",
+        "page": 36,
+        "quote": "Maintenance is performing the routine actions which keep the device in working order, to keep in good condition, to preserve and protect the device.",
+        "passageId": "cblm06-p36-07181974"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Maintenance",
+      "bn": "রক্ষণাবেক্ষণ"
+    },
+    {
+      "en": "Routine actions",
+      "bn": "নিয়মিত করা কাজ"
+    },
+    {
+      "en": "Working order",
+      "bn": "চালু ও কাজ করার মতো অবস্থা"
+    },
+    {
+      "en": "Preserve and protect",
+      "bn": "টিকিয়ে রাখা ও সুরক্ষা দেওয়া"
+    },
+    {
+      "en": "Repair",
+      "bn": "নষ্ট হলে ঠিক করা, মেরামত"
+    }
+  ],
+  "bangla_explanation": [
+    "Maintenance মানে device-কে নিয়মিত যত্ন করা, যাতে সেটা working order-এ থাকে।",
+    "এর কাজ চারটা: চালু রাখা, ভালো অবস্থায় রাখা, preserve করা আর protect করা।",
+    "Repair আলাদা জিনিস: জিনিস নষ্ট হলে তখন ঠিক করা, \"fix it when it breaks\"।",
+    "পরীক্ষায় \"Define maintenance\" এলে উপরের সংজ্ঞাটা হুবহু লিখুন।"
+  ],
+  "example": {
+    "en": "In an IT training centre, staff clean the computers every week. This keeps them in working order.",
+    "bn": "কম্পিউটার নষ্ট হওয়ার আগেই নিয়মিত পরিষ্কার করা হলো maintenance।"
+  },
+  "traps": [
+    {
+      "text": "Repair is different: it fixes a device that is out of order or broken.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 36,
+          "quote": "Repair is fixing any sort of mechanical or electrical device should it become out of"
+        },
+        {
+          "src": "cblm06",
+          "page": 36,
+          "quote": "order or broken: \"fix it when it breaks."
+        }
+      ]
+    },
+    {
+      "text": "Other definition: all actions to retain or restore an item to perform its required function.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 36,
+          "quote": "All actions which have as an objective to retain an item in or restore it to, a"
+        },
+        {
+          "src": "cblm06",
+          "page": 36,
+          "quote": "state in which it can perform the required function."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is maintenance?",
+      "modelAnswer": "Maintenance is performing the routine actions which keep the device in working order, to keep in good condition, to preserve and protect the device.\nSo maintenance:\n1. keeps the device in working order\n2. keeps it in good condition\n3. preserves and protects the device",
+      "keyPoints": [
+        {
+          "text": "Maintenance means performing routine actions.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 36,
+              "quote": "Maintenance is performing the routine actions which keep the device in working"
+            }
+          ]
+        },
+        {
+          "text": "It keeps the device in working order and in good condition.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 36,
+              "quote": "keep the device in working order, to keep in good condition"
+            }
+          ]
+        },
+        {
+          "text": "It preserves and protects the device.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 36,
+              "quote": "to preserve and protect the device."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which statement defines maintenance?",
+      "options": [
+        "Fixing a device only when it breaks",
+        "Performing routine actions which keep the device in working order",
+        "Throwing away surplus material and scrap",
+        "Building and restoring structures"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm06",
+        "page": 36,
+        "quote": "Maintenance is performing the routine actions which keep the device in working order"
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "Maintenance",
+          "right": "Routine actions which keep the device in working order",
+          "cite": {
+            "src": "cblm06",
+            "page": 36,
+            "quote": "Maintenance is performing the routine actions which keep the device in working order"
+          }
+        },
+        {
+          "left": "Repair",
+          "right": "Fix it when it breaks",
+          "cite": {
+            "src": "cblm06",
+            "page": 36,
+            "quote": "order or broken: \"fix it when it breaks."
+          }
+        },
+        {
+          "left": "Corrective maintenance",
+          "right": "Sometimes called \"repair\"",
+          "cite": {
+            "src": "cblm06",
+            "page": 36,
+            "quote": "Corrective Maintenance, is sometimes called \"repair\""
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Is maintenance the same as repair?",
+      "answer": {
+        "text": "No. Maintenance is routine actions to keep the device in working order. Repair is fixing it when it breaks.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 36,
+            "quote": "Maintenance is performing the routine actions which keep the device in working order"
+          },
+          {
+            "src": "cblm06",
+            "page": 36,
+            "quote": "order or broken: \"fix it when it breaks."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

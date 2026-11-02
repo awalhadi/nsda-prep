@@ -1,0 +1,308 @@
+{
+  "id": "workshop-storage-security",
+  "canonical_title": "Workshop Storage, Security and Access",
+  "aliases": [
+    "Storage requirements",
+    "Security in the workshop",
+    "Access to the workshop",
+    "Storage of flammable and poisonous materials"
+  ],
+  "cblmPrimary": 6,
+  "source_type": "cblm",
+  "covers": [
+    "cblm06-p10-831376f9",
+    "cblm06-p10-befa2b19",
+    "cblm06-p11-14b21325"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Storage should allow easy storage and retrieval, ease of stock control and security.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm06",
+        "page": 10,
+        "quote": "Storage requirements",
+        "passageId": "cblm06-p10-831376f9"
+      },
+      {
+        "src": "cblm06",
+        "page": 10,
+        "quote": "The main aspect of storage should be to"
+      },
+      {
+        "src": "cblm06",
+        "page": 10,
+        "quote": "allow easy storage and retrieval, ease of stock control (if applicable) and security."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Storage",
+      "bn": "জিনিসপত্র গুছিয়ে রাখার জায়গা"
+    },
+    {
+      "en": "Flammable",
+      "bn": "সহজে আগুন ধরে এমন"
+    },
+    {
+      "en": "Poisonous",
+      "bn": "বিষাক্ত"
+    },
+    {
+      "en": "Security",
+      "bn": "নিরাপত্তা"
+    },
+    {
+      "en": "Access",
+      "bn": "প্রবেশ ও ব্যবহারের সুযোগ"
+    }
+  ],
+  "bangla_explanation": [
+    "Flammable আর poisonous জিনিস লেবেল দিয়ে, তালাবদ্ধ ও বাতাস চলাচলের জায়গায় রাখতে হয়।",
+    "Poisonous জিনিস অন্য বিপজ্জনক জিনিস থেকে অন্তত তিন মিটার দূরে রাখতে হয়।",
+    "Security দরকার দুই কারণে: personal risk থেকে রক্ষা আর loss ঠেকানো।",
+    "শিক্ষার্থীরা কতটা access পাবে, তার ওপর storage কেমন হবে তা নির্ভর করে।"
+  ],
+  "example": {
+    "en": "In a chemistry lab, thinner is kept in a fireproof cabinet. A fire extinguisher hangs nearby.",
+    "bn": "Thinner-এর মতো flammable জিনিস fireproof cabinet-এ রাখতে হয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Storage space for materials/consumables.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 10,
+            "quote": "In addition to storage for dangerous materials, adequate and appropriate storage",
+            "passageId": "cblm06-p10-befa2b19"
+          },
+          {
+            "src": "cblm06",
+            "page": 10,
+            "quote": "space must be available for:"
+          },
+          {
+            "src": "cblm06",
+            "page": 10,
+            "quote": "materials/consumables"
+          }
+        ]
+      },
+      {
+        "text": "Storage space for tools and equipment.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 10,
+            "quote": "space must be available for:"
+          },
+          {
+            "src": "cblm06",
+            "page": 10,
+            "quote": "tools and equipment"
+          }
+        ]
+      },
+      {
+        "text": "Storage space for waste materials.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 10,
+            "quote": "space must be available for:"
+          },
+          {
+            "src": "cblm06",
+            "page": 10,
+            "quote": "waste materials"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Of the two security reasons, personal risk is the more critical.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 10,
+          "quote": "Security is necessary for two main reasons:"
+        },
+        {
+          "src": "cblm06",
+          "page": 10,
+          "quote": "Protection against personal risk and liability is the more critical of the two"
+        }
+      ]
+    },
+    {
+      "text": "Poisonous materials stay at least three meters from other dangerous materials.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 10,
+          "quote": "restricted areas that are at least three meters from other dangerous materials and"
+        }
+      ]
+    },
+    {
+      "text": "Free access without supervision is rarely possible in technical areas.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 11,
+          "quote": "A low personal risk and loss area may allow students to have totally free",
+          "passageId": "cblm06-p11-14b21325"
+        },
+        {
+          "src": "cblm06",
+          "page": 11,
+          "quote": "access without supervision. This is rarely the case"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Why is security necessary in a workshop? How should dangerous materials be stored?",
+      "modelAnswer": "Security is necessary for two main reasons:\n1. protection against personal risk (the more critical)\n2. prevention of loss\nDangerous materials:\n1. Flammable materials go in an indoor fireproof cabinet or room.\n2. Poisonous materials go in restricted areas, at least three meters from other dangerous materials.\n3. Fire extinguishers are provided near both.",
+      "keyPoints": [
+        {
+          "text": "Security protects against personal risk and prevents loss.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "protection against personal risk"
+            },
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "prevention of loss"
+            }
+          ]
+        },
+        {
+          "text": "Flammable materials are stored in an indoor fireproof cabinet or room.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "flames, and must be stored in an indoor fireproof cabinet or room."
+            }
+          ]
+        },
+        {
+          "text": "Poisonous materials are kept in restricted areas away from ignition or heat.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "These materials must be kept in"
+            },
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "restricted areas that are at least three meters from other dangerous materials and"
+            },
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "away from sources of ignition or heat."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Where must flammable materials be stored?",
+      "options": [
+        "On open shelving in the workshop",
+        "In an indoor fireproof cabinet or room",
+        "Next to poisonous materials",
+        "In the trainees' lockers"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm06",
+        "page": 10,
+        "quote": "must be stored in an indoor fireproof cabinet or room."
+      }
+    },
+    "matching": {
+      "prompt": "Match each item with the correct storage or security rule.",
+      "pairs": [
+        {
+          "left": "Flammable materials",
+          "right": "Indoor fireproof cabinet or room",
+          "cite": {
+            "src": "cblm06",
+            "page": 10,
+            "quote": "must be stored in an indoor fireproof cabinet or room."
+          }
+        },
+        {
+          "left": "Poisonous materials",
+          "right": "At least three meters from other dangerous materials",
+          "cite": {
+            "src": "cblm06",
+            "page": 10,
+            "quote": "restricted areas that are at least three meters from other dangerous materials and"
+          }
+        },
+        {
+          "left": "Shelf life of items",
+          "right": "Indicated clearly",
+          "cite": {
+            "src": "cblm06",
+            "page": 10,
+            "quote": "The shelf life of the items must be"
+          }
+        },
+        {
+          "left": "More critical security reason",
+          "right": "Protection against personal risk and liability",
+          "cite": {
+            "src": "cblm06",
+            "page": 10,
+            "quote": "Protection against personal risk and liability is the more critical of the two"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What decides how much free access students get to a workshop?",
+      "answer": {
+        "text": "The area involved. Free access suits only a low personal risk and loss area.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "Control of access to a workshop/laboratory by students will depend on the area"
+          },
+          {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "A low personal risk and loss area may allow students to have totally free"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

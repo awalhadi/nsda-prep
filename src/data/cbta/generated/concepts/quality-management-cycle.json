@@ -1,0 +1,469 @@
+{
+  "aliases": [
+    "Quality Management",
+    "Define Quality Management",
+    "Quality Management Cycle (QMC)",
+    "QMC in the maintenance program"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 37,
+          "printed": 37
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "Maintenance program বানানোর সময় Quality Management cycle মেনে চলা সবচেয়ে ভালো।",
+    "Cycle-টা চার ধাপের: Plan, Do, Check, Act।",
+    "Maintenance-এ Plan মানে program-এর সব details তৈরি, Do মানে schedule অনুযায়ী কাজ।",
+    "Check মানে নিয়মিত equipment পরীক্ষা করা, Act মানে inspection-এর result দেখে ব্যবস্থা নেওয়া।"
+  ],
+  "breakdown": {
+    "exam": 5,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "কম্পিউটার ল্যাবে plan, কাজ, inspect আর ব্যবস্থা: এটাই QMC।",
+    "en": "A computer lab plans weekly cleaning (Plan). IT staff clean on schedule (Do). The in-charge inspects (Check). He fixes gaps (Act)."
+  },
+  "highlighted": true,
+  "id": "quality-management-cycle",
+  "importance": {
+    "bn": "CBT&A L4 Written Test — Inclusivity & Maintenance (Matching 4) আর CBLM 6 Self Check 2 (Q2): 2 জায়গায় এসেছে। CBLM 6-এ highlight করা আছে। পরীক্ষায় matching আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Matching 4) and CBLM 6 Self Check 2 (Q2). Highlighted in CBLM 6. Comes as matching and short question."
+  },
+  "keywords": [
+    {
+      "bn": "মান ব্যবস্থাপনা",
+      "en": "Quality management"
+    },
+    {
+      "bn": "কাজ ঠিকমতো হয় এবং কম খরচে হয়",
+      "en": "Effective and efficient"
+    },
+    {
+      "bn": "পরিকল্পনা, বাস্তবায়ন, যাচাই, পদক্ষেপ",
+      "en": "Plan, Do, Check, Act"
+    },
+    {
+      "bn": "রক্ষণাবেক্ষণের পূর্ণ তালিকা ও পরিকল্পনা",
+      "en": "Maintenance Program"
+    },
+    {
+      "bn": "কোন কাজ কোন সময়ে, তার তালিকা",
+      "en": "Maintenance Schedule"
+    }
+  ],
+  "likelyTypes": [
+    "matching",
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "passageId": "cblm06-p37-64784bed",
+            "printedPage": 37,
+            "quote": "Plan: Design or revise business process components to improve results.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Plan: design or revise business process components to improve results."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "passageId": "cblm06-p37-de81d9d9",
+            "printedPage": 37,
+            "quote": "Do: Implement the plan and measure its performance.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Do: implement the plan and measure its performance."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "passageId": "cblm06-p37-3b928622",
+            "printedPage": 37,
+            "quote": "Check: Assess the measurements and report the results",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "to decision makers.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Check: assess the measurements and report the results to decision makers."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "passageId": "cblm06-p37-898d99d6",
+            "printedPage": 37,
+            "quote": "Act: Decide on changes needed to improve the process.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Act: decide on changes needed to improve the process."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 37,
+        "passageId": "cblm06-p37-a48f5d81",
+        "printedPage": 37,
+        "quote": "Quality management is a method for ensuring that all the activities necessary to design, develop and implement a product or service are effective and efficient with respect to system and performance.",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "verbatim",
+    "text": "Quality management is a method for ensuring that all the activities necessary to design, develop and implement a product or service are effective and efficient with respect to system and performance."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Plan: Design or revise business process components to improve results.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Plan",
+          "right": "Design or revise business process components"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Do: Implement the plan and measure its performance.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Do",
+          "right": "Implement the plan and measure its performance"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Check: Assess the measurements and report the results",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Check",
+          "right": "Assess the measurements and report the results"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Act: Decide on changes needed to improve the process.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Act",
+          "right": "Decide on changes needed to improve the process"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Maintenance Schedule is a list allocating specific maintenance",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Maintenance Schedule",
+          "right": "List allocating specific maintenance to a specific period"
+        }
+      ],
+      "prompt": "Match each QMC step with its action."
+    },
+    "mcq": {
+      "answerCite": {
+        "match": "exact",
+        "page": 5,
+        "printedPage": null,
+        "quote": "B) Quality management",
+        "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+        "src": "paper-written-inclusivity-maintenance"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Preventive Maintenance",
+        "Quality management",
+        "Corrective Maintenance",
+        "Maintenance Schedule"
+      ],
+      "prompt": "Which is \"a method for ensuring that all the activities necessary to design, develop and implement a product or service are effective and efficient\"?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "all the activities necessary to design, develop and implement a product or service are effective and efficient",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Activities to design, develop and implement a product or service are effective and efficient."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "The first step of the Quality Management cycle in maintenance is to PLAN by preparing all the details of the maintenance program",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "In maintenance, Plan means preparing all the details of the maintenance program."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "Then DO, wherein the organization implements the methods and strategies of maintenance based on the maintenance schedule.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Do means implementing maintenance methods and strategies based on the maintenance schedule."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "Finally ACT. here the organization acts on the result of the inspection conducted",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "ACT: the organization acts on the result of the inspection conducted."
+        }
+      ],
+      "modelAnswer": "Quality management is a method for ensuring that all the activities necessary to design, develop and implement a product or service are effective and efficient with respect to system and performance.\nSteps:\n1. Plan: design or revise business process components.\n2. Do: implement the plan and measure performance.\n3. Check: assess measurements and report results.\n4. Act: decide on changes needed to improve.",
+      "prompt": "Define Quality Management. Write the steps of the Quality Management Cycle."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Maintenance Program is a comprehensive list of maintenance",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "and its incidence. This would include all the maintenance",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "activities to be undertaken, manpower needed, maintenance",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "methods to be used, all the materials and supplies needed for",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "the maintenance and the costs involved in the maintenance.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "A comprehensive list of maintenance and its incidence. It includes activities, manpower, methods, materials and costs."
+      },
+      "prompt": "What is a Maintenance Program?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Define Quality Management\nQuality Management is a method for ensuring that all the activities necessary to\ndesign, develop and implement a product or service are effective and efficient with\nrespect to system and performance.",
+      "flags": [],
+      "id": "cblm06-sc2-q2",
+      "kind": "selfcheck",
+      "label": "CBLM 6 Self Check 2 (Q2)",
+      "page": 40,
+      "printedPage": 40,
+      "question": "Define Quality Management",
+      "src": "cblm06",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": "B",
+      "flags": [],
+      "id": "paper-written-inclusivity-maintenance-match-q4",
+      "kind": "paper",
+      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (Matching 4)",
+      "page": 2,
+      "paperClass": "official",
+      "printedPage": null,
+      "question": "It is a method for ensuring that all the activities necessary to design, develop and implement a product or service are effective and efficient with respect to system and performance.",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Preventive Maintenance"
+        },
+        {
+          "letter": "B",
+          "text": "Quality management"
+        },
+        {
+          "letter": "C",
+          "text": "Corrective Maintenance"
+        },
+        {
+          "letter": "D",
+          "text": "Text book"
+        },
+        {
+          "letter": "E",
+          "text": "Computer/printer"
+        },
+        {
+          "letter": "F",
+          "text": "Characteristics of well-organized workshops Page 2"
+        }
+      ],
+      "src": "paper-written-inclusivity-maintenance",
+      "type": "matching"
+    }
+  ],
+  "score": 8,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Quality Management Cycle (Plan-Do-Check-Act) in Maintenance",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 37,
+          "printedPage": 37,
+          "quote": "The Maintenance schedule is just a part of the Maintenance Program",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The Maintenance Schedule is just a part of the Maintenance Program."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 37,
+          "printedPage": 37,
+          "quote": "Then CHECK, here the organization regular inspects equipment to determine if the required maintenance procedures are conducted.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "In maintenance, CHECK means the organization regularly inspects equipment."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 1
+}

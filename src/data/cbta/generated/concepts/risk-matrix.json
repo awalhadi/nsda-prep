@@ -1,0 +1,401 @@
+{
+  "aliases": [
+    "Tool to define and classify likelihood and consequences of a risk",
+    "Risk assessment"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 9,
+          "printed": 9
+        },
+        {
+          "pdf": 10,
+          "printed": 10
+        },
+        {
+          "pdf": 17,
+          "printed": 17
+        },
+        {
+          "pdf": 18,
+          "printed": 18
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "Risk মাপতে দুটি জিনিস দেখা হয়: likelihood (কতটা ঘটতে পারে) আর consequence (কতটা গুরুতর)।",
+    "Risk matrix এই দুটিকে levels দিয়ে সাজায়: almost certain থেকে rare, insignificant থেকে catastrophic।",
+    "এতে বোঝা যায় কোন risk আগে কমাতে হবে।",
+    "নিজ যাচাই আর প্রশ্নপত্র, দুই জায়গায় উত্তর একটাই: Risk Matrix।"
+  ],
+  "breakdown": {
+    "exam": 6,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "ওয়েল্ডিং শপে পুড়ে যাওয়ার likelihood আর consequence দুটোই বেশি, তাই আগে এটা ঠিক করতে হবে।",
+    "en": "In a welding shop, burns are likely and serious. The risk matrix puts this risk high. The trainer fixes it first."
+  },
+  "highlighted": true,
+  "id": "risk-matrix",
+  "importance": {
+    "bn": "Unit 02 Short Questions (Short 14), Short Questions (Short 18) আর CBLM 3 Self Check 1 (Q3): 3 জায়গায় এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Unit 02 Short Questions (Short 14), Short Questions (Short 18) and CBLM 3 Self Check 1 (Q3). Highlighted in CBLM 3. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "ঝুঁকি মাপার ছক",
+      "en": "Risk matrix"
+    },
+    {
+      "bn": "ঘটার সম্ভাবনা কতটা",
+      "en": "Likelihood"
+    },
+    {
+      "bn": "ঘটলে ক্ষতি কতটা গুরুতর",
+      "en": "Consequence"
+    },
+    {
+      "bn": "মাত্রা বোঝানোর শব্দ, যেমন rare",
+      "en": "Descriptor"
+    },
+    {
+      "bn": "ঝুঁকি মূল্যায়ন",
+      "en": "Risk assessment"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": null,
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 9,
+        "passageId": "cblm03-p9-008e784e",
+        "printedPage": 9,
+        "quote": "A risk matrix serves well to define and classify likelihood and consequences of a risk.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "verbatim",
+    "text": "A risk matrix serves well to define and classify likelihood and consequences of a risk"
+  },
+  "openChecks": 1,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "likelihood (from almost certain to rare)",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Likelihood",
+          "right": "From almost certain to rare"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "consequence (from insignificant to catastrophic)",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Consequence",
+          "right": "From insignificant to catastrophic"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "All analysis and assessments made as well as all actions taken need to be recorded. A Risk Register",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Risk Register",
+          "right": "Records all analysis, assessments and actions"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "A risk matrix serves well to define and classify likelihood and consequences of a risk.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Risk matrix",
+          "right": "Classifies likelihood and consequences of a risk"
+        }
+      ],
+      "prompt": "Match each term with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 17,
+        "printedPage": 17,
+        "quote": "Ans: Risk Matrix",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Risk Matrix",
+        "Risk Register",
+        "Hierarchy of controls",
+        "Hazard inspection checklist"
+      ],
+      "prompt": "Which tool defines and classifies the likelihood and consequences of a risk?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Typically, a risk is assessed by its likelihood and its consequence.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A risk is assessed by its likelihood and its consequence."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "allow prioritizing risks for taking mitigating actions",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Risk assessment allows prioritizing risks for taking mitigating actions."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "A risk matrix makes use of descriptors to define levels of both likelihood",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "and consequence",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The matrix uses descriptors to define levels of likelihood and consequence."
+        }
+      ],
+      "modelAnswer": "Risk Matrix. A risk matrix defines and classifies the likelihood and consequences of a risk. It uses descriptors for levels:\n1. Likelihood: from almost certain to rare\n2. Consequence: from insignificant to catastrophic",
+      "prompt": "To define and classify likelihood and consequences of a risk, what tool do we use?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "Typically, a risk is assessed by its likelihood and its consequence.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Likelihood and consequence. A risk is assessed by both."
+      },
+      "prompt": "What two things decide the size of a risk?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Risk Matrix",
+      "flags": [],
+      "id": "cblm03-sc1-q3",
+      "kind": "selfcheck",
+      "label": "CBLM 3 Self Check 1 (Q3)",
+      "page": 16,
+      "printedPage": 16,
+      "question": "to define and classify likelihood and consequences of a risk, what tool we\nuse?",
+      "src": "cblm03",
+      "type": "short"
+    },
+    {
+      "answer": "➢\nRisk Matrix.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit02-short-step-4-evaluate-the-results-q14",
+      "kind": "paper",
+      "label": "Unit 02 Short Questions (Short 14)",
+      "page": 4,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What tool is used to define and classify the likelihood and consequences of a risk?",
+      "src": "paper-unit02-short",
+      "type": "short"
+    },
+    {
+      "answer": "A risk-analysis checklist.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q18",
+      "kind": "paper",
+      "label": "Short Questions (Short 18)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What tool can be used to define and classify the likelihood and consequences of a risk?",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 10,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Risk Matrix: Likelihood and Consequence",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 17,
+          "printedPage": 17,
+          "quote": "Ans: Risk Matrix",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "match": "exact",
+          "page": 3,
+          "printedPage": null,
+          "quote": "Answer guide: A risk-analysis checklist.",
+          "sourceTitle": "Short Questions",
+          "src": "paper-short-questions"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The CBLM answer is Risk Matrix, not a risk-analysis checklist."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 9,
+          "printedPage": 9,
+          "quote": "levels of both likelihood (from almost certain to rare)",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Likelihood levels go from almost certain to rare."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 9,
+          "printedPage": 9,
+          "quote": "consequence (from insignificant to catastrophic)",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Consequence levels go from insignificant to catastrophic."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 18,
+          "quote": "Job: 1- Workplace Hazards Risk Analysis",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 18,
+          "quote": "Risk analysis sheet for training workshop",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 18,
+          "quote": "Score as follows, for Likelihood and Impact: High = 3,",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 18,
+          "quote": "x Impact",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The Job sheet risk analysis scores Likelihood x Impact, with High = 3."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

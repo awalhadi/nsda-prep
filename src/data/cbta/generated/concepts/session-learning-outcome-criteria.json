@@ -7,6 +7,20 @@
   ],
   "appearsIn": [
     {
+      "cblm": 7,
+      "pages": [
+        {
+          "pdf": 11,
+          "printed": 10
+        },
+        {
+          "pdf": 12,
+          "printed": 11
+        }
+      ],
+      "src": "cblm07"
+    },
+    {
       "cblm": 9,
       "pages": [
         {
@@ -30,7 +44,7 @@
   "breakdown": {
     "exam": 0,
     "highlight": 3,
-    "repeat": 1
+    "repeat": 2
   },
   "cblmPrimary": 9,
   "errata": [],
@@ -160,7 +174,7 @@
     "fidelity": "paraphrase",
     "text": "Appropriate learning outcomes must be observable, measurable and written with clear verbs."
   },
-  "openChecks": 0,
+  "openChecks": 1,
   "practice": {
     "matching": {
       "pairs": [
@@ -361,12 +375,45 @@
     }
   },
   "realQuestions": [],
-  "score": 4,
+  "score": 5,
   "sourceType": "cblm",
   "stars": 2,
   "status": "draft",
   "title": "Criteria for Session Learning Outcomes (Observable, Measurable, Action Verbs)",
   "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 7,
+          "match": "exact",
+          "page": 11,
+          "printedPage": 10,
+          "quote": "Appropriate learning outcomes need to meet two criteria.",
+          "sourceTitle": "Maintain and Enhance Technical Competency",
+          "src": "cblm07"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 32,
+          "printedPage": 32,
+          "quote": "1. They must be observable. Can you actually see or observe the progress",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        },
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 32,
+          "printedPage": 32,
+          "quote": "2. They must be measurable. Can you measure the output or progress of",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "CBLM 7 says appropriate learning outcomes need to meet two criteria: observable and measurable."
+    },
     {
       "cites": [
         {
@@ -400,5 +447,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 0
+  "warnings": 1
 }

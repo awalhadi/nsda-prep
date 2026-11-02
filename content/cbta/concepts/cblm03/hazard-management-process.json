@@ -1,0 +1,391 @@
+{
+  "id": "hazard-management-process",
+  "canonical_title": "Four-Step Hazard Management Process",
+  "aliases": [
+    "Four-step Hazard Management process",
+    "SAFE (paper name)",
+    "Steps of hazard management"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p29-02db8e85",
+    "cblm03-p29-929f9640",
+    "cblm03-p29-54c1792c",
+    "cblm03-p29-d4e1aca5",
+    "cblm03-p29-2b669c92",
+    "cblm03-p29-b3ad32a3",
+    "cblm03-p31-578d9283",
+    "cblm03-p31-6dd367bb"
+  ],
+  "questions": [
+    "paper-unit02-short-q5",
+    "paper-unit02-short-step-4-evaluate-the-results-q6",
+    "paper-unit02-short-step-4-evaluate-the-results-q15",
+    "paper-final-formative-01-q18",
+    "paper-short-questions-q11"
+  ],
+  "one_line_answer": {
+    "text": "Hazard management is a four-step process to keep the workplace as safe as possible.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 29,
+        "quote": "A good way to do this is to use the four-step Hazard Management process.",
+        "passageId": "cblm03-p29-02db8e85"
+      },
+      {
+        "src": "cblm03",
+        "page": 29,
+        "quote": "keep the workplace as safe as possible"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Identify",
+      "bn": "খুঁজে বের করা"
+    },
+    {
+      "en": "Assess",
+      "bn": "ঝুঁকি মাপা"
+    },
+    {
+      "en": "Fix",
+      "bn": "নিয়ন্ত্রণ ব্যবস্থা নেওয়া"
+    },
+    {
+      "en": "Evaluate",
+      "bn": "ফলাফল যাচাই করা"
+    },
+    {
+      "en": "Likelihood",
+      "bn": "ঘটার সম্ভাবনা"
+    },
+    {
+      "en": "Consequence",
+      "bn": "ক্ষতির গুরুত্ব"
+    }
+  ],
+  "bangla_explanation": [
+    "OSH law-এর একটা বড় দায়িত্ব হলো workplace যতটা সম্ভব safe রাখা।",
+    "এর জন্য চারটি Step: Identify, Assess, Fix, Evaluate।",
+    "Assess করার সময় দুটি প্রশ্ন: likelihood কত, আর consequence কতটা গুরুতর।",
+    "Fix করার পরেও কাজ শেষ নয়; control কাজ করছে কিনা আর নতুন problems তৈরি হলো কিনা দেখতে হবে।"
+  ],
+  "example": {
+    "en": "A garments floor has an oil spill. The supervisor finds it and rates the risk. She cleans it and checks again later.",
+    "bn": "মেঝেতে তেল: খুঁজে পাওয়া (Identify), ঝুঁকি মাপা (Assess), পরিষ্কার করা (Fix), পরে আবার দেখা (Evaluate)।"
+  },
+  "mnemonic": {
+    "text": "I-A-F-E: Identify, Assess, Fix, Evaluate",
+    "explain_bn": "প্রশ্নপত্র এটাকে SAFE বলে, কিন্তু CBLM-এ SAFE শব্দ নেই। চারটি Step এই ক্রমে লিখুন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Identify the hazard: through injury reviews, workplace inspections or hazard reports.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "Step 1: Identify the hazard",
+            "passageId": "cblm03-p29-929f9640"
+          },
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "a review of illness and injuries occurring in the workplace identifies a problem"
+          },
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "a workplace inspection or safety audit identifies a problem"
+          },
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "a hazard is reported by someone at the workplace"
+          }
+        ]
+      },
+      {
+        "text": "Assess the hazard: rate its risk by likelihood and consequence.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "Step 2: Assess the hazard",
+            "passageId": "cblm03-p29-54c1792c"
+          },
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "Rating a risk will help you decide what hazards",
+            "passageId": "cblm03-p29-d4e1aca5"
+          },
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "how likely is it the hazard could cause an injury or illness? (likelihood)"
+          },
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "(consequence)"
+          }
+        ]
+      },
+      {
+        "text": "Fix the hazard: introduce controls to eliminate or reduce the risk.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "Step 3: Fix the hazard",
+            "passageId": "cblm03-p29-2b669c92"
+          },
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "controls must be introduced to eliminate or reduce it"
+          },
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "There are a number of ways to control risks"
+          }
+        ]
+      },
+      {
+        "text": "Evaluate the results: check the control works and creates no new problems.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 31,
+            "quote": "Step 4: Evaluate the results",
+            "passageId": "cblm03-p31-578d9283"
+          },
+          {
+            "src": "cblm03",
+            "page": 31,
+            "quote": "it is important to check the control is working, and has not created any new problems",
+            "passageId": "cblm03-p31-6dd367bb"
+          }
+        ]
+      }
+    ],
+    "declaredCount": {
+      "n": 4,
+      "cite": {
+        "src": "cblm03",
+        "page": 29,
+        "quote": "use the four-step Hazard Management process"
+      }
+    }
+  },
+  "traps": [
+    {
+      "text": "In the paper, SAFE means the four-step Hazard Management process.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "paper-unit02-short",
+          "page": 4,
+          "quote": "What does SAFE start for in terms of manage hazard in the workplace?"
+        },
+        {
+          "src": "cblm03",
+          "page": 29,
+          "quote": "use the four-step Hazard Management process"
+        }
+      ]
+    },
+    {
+      "text": "Another wording: identify hazards, assess risks, apply controls, review the results.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "paper-short-questions",
+          "page": 2,
+          "quote": "Identify hazards; assess risks; apply controls; and review the results."
+        }
+      ]
+    },
+    {
+      "text": "Implementing hazard control measures is not the end of the process.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 31,
+          "quote": "Deciding on and implementing hazard control measures is not the end of the process."
+        }
+      ]
+    },
+    {
+      "text": "There are a number of ways to control risks. Some are better than others.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 29,
+          "quote": "There are a number of ways to control risks. Some are better than others.",
+          "passageId": "cblm03-p29-b3ad32a3"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the four steps of the Hazard Management process?",
+      "modelAnswer": "Hazard management has four steps:\n1. Identify the hazard\n2. Assess the hazard (likelihood and consequence)\n3. Fix the hazard (introduce controls)\n4. Evaluate the results (check the control works and makes no new problems)",
+      "keyPoints": [
+        {
+          "text": "OSH law requires keeping the workplace as safe as possible.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 29,
+              "quote": "One of the most important safety duties required by OSH law is to keep the workplace as safe as possible."
+            }
+          ]
+        },
+        {
+          "text": "Risk is an estimate of the chance of an injury/illness happening in a hazardous situation.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 29,
+              "quote": "Risk is an estimate of the chance of an injury/illness happening in a hazardous situation."
+            }
+          ]
+        },
+        {
+          "text": "Rating a risk shows which hazards are more dangerous and should be corrected first.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 29,
+              "quote": "Rating a risk will help you decide what hazards are more dangerous and should be corrected first."
+            }
+          ]
+        },
+        {
+          "text": "Recheck a hazard occasionally, because a control may become less effective.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 31,
+              "quote": "It is also important to recheck a hazard occasionally, because after a while a chosen"
+            },
+            {
+              "src": "cblm03",
+              "page": 31,
+              "quote": "control measure may be less effective"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is Step 3 of the Hazard Management process?",
+      "options": [
+        "Fix the hazard",
+        "Assess the hazard",
+        "Evaluate the results",
+        "Identify the hazard"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 29,
+        "quote": "Step 3: Fix the hazard"
+      }
+    },
+    "matching": {
+      "prompt": "Match each step number with its step.",
+      "pairs": [
+        {
+          "left": "Step 1",
+          "right": "Identify the hazard",
+          "cite": {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "Step 1: Identify the hazard"
+          }
+        },
+        {
+          "left": "Step 2",
+          "right": "Assess the hazard",
+          "cite": {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "Step 2: Assess the hazard"
+          }
+        },
+        {
+          "left": "Step 3",
+          "right": "Fix the hazard",
+          "cite": {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "Step 3: Fix the hazard"
+          }
+        },
+        {
+          "left": "Step 4",
+          "right": "Evaluate the results",
+          "cite": {
+            "src": "cblm03",
+            "page": 31,
+            "quote": "Step 4: Evaluate the results"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What two things should you consider when rating a risk from a hazard?",
+      "answer": {
+        "text": "Likelihood and consequence: how likely is harm, and how serious would it be.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "how likely is it the hazard could cause an injury or illness? (likelihood)"
+          },
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "how serious would the consequences be if an accident or illness occurred?"
+          },
+          {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "(consequence)"
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "traps[0]",
+      "note": "paper-unit02-short Q15 calls the process 'SAFE'. CBLM 3 (p.29-31) never uses the word SAFE and does not say what S stands for. The paper answer lists the four CBLM steps, so the card teaches those."
+    },
+    {
+      "path": "practice.short",
+      "note": "paper-short-questions-q11 words the steps differently ('assess risks; apply controls; review the results'). Same meaning as CBLM 3 p.29-31."
+    }
+  ]
+}

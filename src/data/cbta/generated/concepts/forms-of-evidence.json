@@ -5,6 +5,16 @@
   ],
   "appearsIn": [
     {
+      "cblm": 7,
+      "pages": [
+        {
+          "pdf": 13,
+          "printed": 12
+        }
+      ],
+      "src": "cblm07"
+    },
+    {
       "cblm": 11,
       "pages": [
         {
@@ -32,9 +42,9 @@
     "পরীক্ষায় প্রায়ই জিজ্ঞেস করে কোনটা direct আর কোনটা indirect, তাই উদাহরণগুলো মুখস্থ রাখুন।"
   ],
   "breakdown": {
-    "exam": 6,
+    "exam": 8,
     "highlight": 3,
-    "repeat": 2
+    "repeat": 3
   },
   "cblmPrimary": 12,
   "errata": [],
@@ -45,8 +55,8 @@
   "highlighted": true,
   "id": "forms-of-evidence",
   "importance": {
-    "bn": "Short Questions (Short 67, 80), CBLM 12 Self Check 1 (Q6) আর CBLM 11 Self Check 1 (Q3): 3 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
-    "en": "Asked in Short Questions (Short 67, 80), CBLM 12 Self Check 1 (Q6) and CBLM 11 Self Check 1 (Q3). Highlighted in CBLM 12. Comes as short question."
+    "bn": "Short Questions (Short 67, 80), CBLM 12 Self Check 1 (Q6), CBLM 7 Self Check 1 (Q6) আর CBLM 11 Self Check 1 (Q3): 4 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Short Questions (Short 67, 80), CBLM 12 Self Check 1 (Q6), CBLM 7 Self Check 1 (Q6) and CBLM 11 Self Check 1 (Q3). Highlighted in CBLM 12. Comes as short question."
   },
   "keywords": [
     {
@@ -438,6 +448,18 @@
       "type": "short"
     },
     {
+      "answer": "Evidence required for competency can be classified in two types\na. Direct Evidence\nb. Indirect Evidence",
+      "flags": [],
+      "id": "cblm07-sc1-q6",
+      "kind": "selfcheck",
+      "label": "CBLM 7 Self Check 1 (Q6)",
+      "page": 20,
+      "printedPage": 19,
+      "question": "How can you classify evidence required for competency?",
+      "src": "cblm07",
+      "type": "short"
+    },
+    {
       "answer": "Direct Evidence: is evidence that can be observed or witnessed by the assessor.\nThese may include the following;\n•\nObservations by the assessor, of the candidate carrying out the activities.\n•\nOral questioning of the candidate.\n•\nDemonstration by the candidate of specific skills needed to complete the\ntask.\nIndirect Evidence: is evidence of the candidate's work that can be reviewed or\nexamined by the assessor.\nThis may include;\n•\nAssessment of finished product.\n•\nWritten test to determine underpinning knowledge.\n•\nReview of previous work performed.\n•\nTestimonials or reports from employers, colleagues or supervisors.\n•\nEvidence Training.",
       "flags": [],
       "id": "cblm11-sc1-q3",
@@ -450,7 +472,7 @@
       "type": "short"
     }
   ],
-  "score": 11,
+  "score": 14,
   "sourceType": "cblm",
   "stars": 3,
   "status": "draft",
@@ -548,5 +570,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 1
+  "warnings": 2
 }

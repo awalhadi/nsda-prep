@@ -6,6 +6,16 @@
   ],
   "appearsIn": [
     {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 5,
+          "printed": 5
+        }
+      ],
+      "src": "cblm06"
+    },
+    {
       "cblm": 8,
       "pages": [
         {
@@ -42,7 +52,7 @@
   "breakdown": {
     "exam": 2,
     "highlight": 3,
-    "repeat": 1
+    "repeat": 2
   },
   "cblmPrimary": 8,
   "errata": [],
@@ -502,7 +512,7 @@
       "type": "short"
     }
   ],
-  "score": 6,
+  "score": 7,
   "sourceType": "cblm",
   "stars": 2,
   "status": "draft",
@@ -600,5 +610,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 0
+  "warnings": 1
 }

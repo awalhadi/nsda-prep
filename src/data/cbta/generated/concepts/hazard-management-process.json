@@ -1,0 +1,602 @@
+{
+  "aliases": [
+    "Four-step Hazard Management process",
+    "SAFE (paper name)",
+    "Steps of hazard management"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 29,
+          "printed": 29
+        },
+        {
+          "pdf": 31,
+          "printed": 31
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "OSH law-এর একটা বড় দায়িত্ব হলো workplace যতটা সম্ভব safe রাখা।",
+    "এর জন্য চারটি Step: Identify, Assess, Fix, Evaluate।",
+    "Assess করার সময় দুটি প্রশ্ন: likelihood কত, আর consequence কতটা গুরুতর।",
+    "Fix করার পরেও কাজ শেষ নয়; control কাজ করছে কিনা আর নতুন problems তৈরি হলো কিনা দেখতে হবে।"
+  ],
+  "breakdown": {
+    "exam": 6,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "মেঝেতে তেল: খুঁজে পাওয়া (Identify), ঝুঁকি মাপা (Assess), পরিষ্কার করা (Fix), পরে আবার দেখা (Evaluate)।",
+    "en": "A garments floor has an oil spill. The supervisor finds it and rates the risk. She cleans it and checks again later."
+  },
+  "highlighted": true,
+  "id": "hazard-management-process",
+  "importance": {
+    "bn": "Unit 02 Short Questions (Short 5, 6, Short 15), Final Formative 01 (Short 18) আর Short Questions (Short 11): 3 জায়গায় এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Unit 02 Short Questions (Short 5, 6, Short 15), Final Formative 01 (Short 18) and Short Questions (Short 11). Highlighted in CBLM 3. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "খুঁজে বের করা",
+      "en": "Identify"
+    },
+    {
+      "bn": "ঝুঁকি মাপা",
+      "en": "Assess"
+    },
+    {
+      "bn": "নিয়ন্ত্রণ ব্যবস্থা নেওয়া",
+      "en": "Fix"
+    },
+    {
+      "bn": "ফলাফল যাচাই করা",
+      "en": "Evaluate"
+    },
+    {
+      "bn": "ঘটার সম্ভাবনা",
+      "en": "Likelihood"
+    },
+    {
+      "bn": "ক্ষতির গুরুত্ব",
+      "en": "Consequence"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": 4,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "passageId": "cblm03-p29-929f9640",
+            "printedPage": 29,
+            "quote": "Step 1: Identify the hazard",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "a review of illness and injuries occurring in the workplace identifies a problem",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "a workplace inspection or safety audit identifies a problem",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "a hazard is reported by someone at the workplace",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Identify the hazard: through injury reviews, workplace inspections or hazard reports."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "passageId": "cblm03-p29-54c1792c",
+            "printedPage": 29,
+            "quote": "Step 2: Assess the hazard",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "passageId": "cblm03-p29-d4e1aca5",
+            "printedPage": 29,
+            "quote": "Rating a risk will help you decide what hazards",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "how likely is it the hazard could cause an injury or illness? (likelihood)",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "(consequence)",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assess the hazard: rate its risk by likelihood and consequence."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "passageId": "cblm03-p29-2b669c92",
+            "printedPage": 29,
+            "quote": "Step 3: Fix the hazard",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "controls must be introduced to eliminate or reduce it",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "There are a number of ways to control risks",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Fix the hazard: introduce controls to eliminate or reduce the risk."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 31,
+            "passageId": "cblm03-p31-578d9283",
+            "printedPage": 31,
+            "quote": "Step 4: Evaluate the results",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 31,
+            "passageId": "cblm03-p31-6dd367bb",
+            "printedPage": 31,
+            "quote": "it is important to check the control is working, and has not created any new problems",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Evaluate the results: check the control works and creates no new problems."
+      }
+    ]
+  },
+  "mnemonic": {
+    "explain_bn": "প্রশ্নপত্র এটাকে SAFE বলে, কিন্তু CBLM-এ SAFE শব্দ নেই। চারটি Step এই ক্রমে লিখুন।",
+    "text": "I-A-F-E: Identify, Assess, Fix, Evaluate"
+  },
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 29,
+        "passageId": "cblm03-p29-02db8e85",
+        "printedPage": 29,
+        "quote": "A good way to do this is to use the four-step Hazard Management process.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 29,
+        "printedPage": 29,
+        "quote": "keep the workplace as safe as possible",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Hazard management is a four-step process to keep the workplace as safe as possible."
+  },
+  "openChecks": 2,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Step 1: Identify the hazard",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Step 1",
+          "right": "Identify the hazard"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Step 2: Assess the hazard",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Step 2",
+          "right": "Assess the hazard"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Step 3: Fix the hazard",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Step 3",
+          "right": "Fix the hazard"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 31,
+            "printedPage": 31,
+            "quote": "Step 4: Evaluate the results",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Step 4",
+          "right": "Evaluate the results"
+        }
+      ],
+      "prompt": "Match each step number with its step."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 29,
+        "printedPage": 29,
+        "quote": "Step 3: Fix the hazard",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Fix the hazard",
+        "Assess the hazard",
+        "Evaluate the results",
+        "Identify the hazard"
+      ],
+      "prompt": "Which is Step 3 of the Hazard Management process?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "One of the most important safety duties required by OSH law is to keep the workplace as safe as possible.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "OSH law requires keeping the workplace as safe as possible."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Risk is an estimate of the chance of an injury/illness happening in a hazardous situation.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Risk is an estimate of the chance of an injury/illness happening in a hazardous situation."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Rating a risk will help you decide what hazards are more dangerous and should be corrected first.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Rating a risk shows which hazards are more dangerous and should be corrected first."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "It is also important to recheck a hazard occasionally, because after a while a chosen",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "control measure may be less effective",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Recheck a hazard occasionally, because a control may become less effective."
+        }
+      ],
+      "modelAnswer": "Hazard management has four steps:\n1. Identify the hazard\n2. Assess the hazard (likelihood and consequence)\n3. Fix the hazard (introduce controls)\n4. Evaluate the results (check the control works and makes no new problems)",
+      "prompt": "What are the four steps of the Hazard Management process?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "how likely is it the hazard could cause an injury or illness? (likelihood)",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "how serious would the consequences be if an accident or illness occurred?",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "(consequence)",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Likelihood and consequence: how likely is harm, and how serious would it be."
+      },
+      "prompt": "What two things should you consider when rating a risk from a hazard?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "One of the most important safety duties required by OSH law is to keep the\nworkplace as safe as possible. A good way to do this is to use the four-step\nHazard Management process.\nThis process is represented by this diagram.\nStep 1: Identify the hazard\nStep 2: Assess the hazard\nStep 3: Fix the hazard",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit02-short-q5",
+      "kind": "paper",
+      "label": "Unit 02 Short Questions (Short 5)",
+      "page": 2,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Which way to do use the Hazard Management process?",
+      "src": "paper-unit02-short",
+      "type": "short"
+    },
+    {
+      "answer": "The two things are:\n1) Likelihood and\n2) Consequence",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit02-short-step-4-evaluate-the-results-q6",
+      "kind": "paper",
+      "label": "Unit 02 Short Questions (Short 6)",
+      "page": 2,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "To ensure the safety of personnel using the facilities, physical properties and the environment what are two things should be considered when rating a risk from a hazard?",
+      "src": "paper-unit02-short",
+      "type": "short"
+    },
+    {
+      "answer": "Step 1: Identify the hazard\nStep 2: Assess the hazard\nStep 3: Fix the hazard\nStep 4: Evaluate the results",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit02-short-step-4-evaluate-the-results-q15",
+      "kind": "paper",
+      "label": "Unit 02 Short Questions (Short 15)",
+      "page": 4,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What does SAFE start for in terms of manage hazard in the workplace?",
+      "src": "paper-unit02-short",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-final-formative-01-q18",
+      "kind": "paper",
+      "label": "Final Formative 01 (Short 18)",
+      "page": 3,
+      "paperClass": "formative",
+      "printedPage": null,
+      "question": "What are the four steps of the Hazard Management process?",
+      "src": "paper-final-formative-01",
+      "type": "short"
+    },
+    {
+      "answer": "Identify hazards; assess risks; apply controls; and review the\nresults.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q11",
+      "kind": "paper",
+      "label": "Short Questions (Short 11)",
+      "page": 2,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "List the steps of the hazard-management process.",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 10,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Four-Step Hazard Management Process",
+  "traps": [
+    {
+      "cites": [
+        {
+          "match": "exact",
+          "page": 4,
+          "printedPage": null,
+          "quote": "What does SAFE start for in terms of manage hazard in the workplace?",
+          "sourceTitle": "Unit 02 Short Questions",
+          "src": "paper-unit02-short"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 29,
+          "printedPage": 29,
+          "quote": "use the four-step Hazard Management process",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "In the paper, SAFE means the four-step Hazard Management process."
+    },
+    {
+      "cites": [
+        {
+          "match": "exact",
+          "page": 2,
+          "printedPage": null,
+          "quote": "Identify hazards; assess risks; apply controls; and review the results.",
+          "sourceTitle": "Short Questions",
+          "src": "paper-short-questions"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Another wording: identify hazards, assess risks, apply controls, review the results."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 31,
+          "printedPage": 31,
+          "quote": "Deciding on and implementing hazard control measures is not the end of the process.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Implementing hazard control measures is not the end of the process."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 29,
+          "passageId": "cblm03-p29-b3ad32a3",
+          "printedPage": 29,
+          "quote": "There are a number of ways to control risks. Some are better than others.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "There are a number of ways to control risks. Some are better than others."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

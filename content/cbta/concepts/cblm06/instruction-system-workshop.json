@@ -1,0 +1,295 @@
+{
+  "id": "instruction-system-workshop",
+  "canonical_title": "System of Instruction and Workshop Design (Teacher-Centred vs Student-Centred)",
+  "aliases": [
+    "Requirement for system of instruction",
+    "Teacher-centered instruction",
+    "Student-centered learning",
+    "Self-paced learning facility"
+  ],
+  "cblmPrimary": 6,
+  "source_type": "cblm",
+  "covers": [
+    "cblm06-p11-9ae17b15",
+    "cblm06-p11-e6ead8e3",
+    "cblm06-p12-49ae64f7",
+    "cblm06-p12-b124524c"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "The system of instruction used will determine the design and organization of the workshop.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm06",
+        "page": 11,
+        "quote": "The system of instruction used will determine the type of design and organization of"
+      },
+      {
+        "src": "cblm06",
+        "page": 11,
+        "quote": "the workshop."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Teacher-centered",
+      "bn": "শিক্ষক-কেন্দ্রিক, শিক্ষক পুরো ক্লাস চালান"
+    },
+    {
+      "en": "Student-centered",
+      "bn": "শিক্ষার্থী-কেন্দ্রিক"
+    },
+    {
+      "en": "Self-paced learning",
+      "bn": "নিজের গতিতে শেখা"
+    },
+    {
+      "en": "Resource area",
+      "bn": "শেখার উপকরণ রাখার আলাদা জায়গা"
+    },
+    {
+      "en": "Group demonstration",
+      "bn": "সবাইকে একসাথে হাতে-কলমে দেখানো"
+    }
+  ],
+  "bangla_explanation": [
+    "কীভাবে পড়ানো হবে, তার ওপর workshop-এর design নির্ভর করে।",
+    "শিক্ষক-কেন্দ্রিক পদ্ধতিতে classroom আর workshop থাকে, সবাই একই বিষয় একসাথে শেখে।",
+    "শিক্ষার্থী-কেন্দ্রিক বা নিজের গতিতে শেখার পদ্ধতিতে প্রত্যেকে নিজের গতিতে এগোয়।",
+    "তখন একটা equipped workshop আর একটা আলাদা resource area লাগে।"
+  ],
+  "example": {
+    "en": "In a CBT electrical course, trainees work at different tasks. Each reads the learning materials in the resource area first.",
+    "bn": "Self-paced ক্লাসে একেকজন একেক task করে, তাই resource area লাগে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Teacher-centered: classroom for theory, tutorials, group discussion and general activities.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "Teacher-centered instruction will normally take place in either a classroom, a",
+            "passageId": "cblm06-p11-e6ead8e3"
+          },
+          {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "The classroom would be used for theory lessons, tutorials, group discussion and general activities."
+          }
+        ]
+      },
+      {
+        "text": "Teacher-centered: each student has their own workspace in the workshop.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "In the workshop where teacher-centered training occurs, each student generally has"
+          },
+          {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "their own \"workspace\""
+          }
+        ]
+      },
+      {
+        "text": "Student-centered: responsibility for competence is largely with the individual student.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 12,
+            "quote": "Student-centered learning",
+            "passageId": "cblm06-p12-49ae64f7"
+          },
+          {
+            "src": "cblm06",
+            "page": 12,
+            "quote": "In this case the responsibility for achieving levels of competence is largely"
+          },
+          {
+            "src": "cblm06",
+            "page": 12,
+            "quote": "in the hands of the individual student."
+          }
+        ]
+      },
+      {
+        "text": "Student-centered training areas: an adequately-equipped workshop and a separate resource area.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 12,
+            "quote": "an adequately-equipped workshop where the work tasks are performed"
+          },
+          {
+            "src": "cblm06",
+            "page": 12,
+            "quote": "a separate resource area where the student has access to learning materials"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Teacher-centered: many in a class of thirty will not gain all the knowledge.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 11,
+          "quote": "teacher-centered, it is obvious that many in a class of thirty will not",
+          "passageId": "cblm06-p11-9ae17b15"
+        },
+        {
+          "src": "cblm06",
+          "page": 11,
+          "quote": "gain all of the knowledge expected from such a situation."
+        }
+      ]
+    },
+    {
+      "text": "Self-paced learning is a form of student-centered learning, not teacher-centered.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 12,
+          "quote": "Self-paced learning is a form of student-centered learning",
+          "passageId": "cblm06-p12-b124524c"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "How does the system of instruction affect the design of a workshop?",
+      "modelAnswer": "The system of instruction determines the design and organization of the workshop.\n1. Teacher-centered: theory in a classroom with movable chairs and desks. About 2.5 square meters per student. Each student has a workspace. An area for group demonstration is needed.\n2. Student-centered (self-paced): students progress independently. Needs an adequately-equipped workshop and a separate resource area.",
+      "keyPoints": [
+        {
+          "text": "The classroom allows approximately 2.5 square meters of space per student.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 11,
+              "quote": "It is suggested that the classroom should allow approximately 2.5 square meters of"
+            },
+            {
+              "src": "cblm06",
+              "page": 11,
+              "quote": "space per student."
+            }
+          ]
+        },
+        {
+          "text": "A teacher-centered workshop needs a suitable area for group demonstration.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 11,
+              "quote": "This type of workshop needs to have a suitable area for group demonstration."
+            }
+          ]
+        },
+        {
+          "text": "In self-paced learning, students progress independently of their peers.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 12,
+              "quote": "Self-paced learning is a form of student-centered learning, as students progress through the course independently of their peers."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Self-paced learning is a form of:",
+      "options": [
+        "Teacher-centered instruction",
+        "Student-centered learning",
+        "Group demonstration",
+        "Classroom theory lesson"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm06",
+        "page": 12,
+        "quote": "Self-paced learning is a form of student-centered learning"
+      }
+    },
+    "matching": {
+      "prompt": "Match each system of instruction with its feature.",
+      "pairs": [
+        {
+          "left": "Teacher-centered classroom",
+          "right": "Movable chairs and desks for teacher and students",
+          "cite": {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "The room should contain a movable chair and desk for the teacher and movable chairs and desks for the students."
+          }
+        },
+        {
+          "left": "Teacher-centered workshop",
+          "right": "Suitable area for group demonstration",
+          "cite": {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "This type of workshop needs to have a suitable area for group demonstration."
+          }
+        },
+        {
+          "left": "Self-paced learning",
+          "right": "Students progress independently of their peers",
+          "cite": {
+            "src": "cblm06",
+            "page": 12,
+            "quote": "Self-paced learning is a form of student-centered learning, as students progress through the course independently of their peers."
+          }
+        },
+        {
+          "left": "Student-centered training area",
+          "right": "Separate resource area for learning materials",
+          "cite": {
+            "src": "cblm06",
+            "page": 12,
+            "quote": "a separate resource area where the student has access to learning materials"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What two areas does a student-centered training facility need?",
+      "answer": {
+        "text": "An adequately-equipped workshop and a separate resource area.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 12,
+            "quote": "an adequately-equipped workshop where the work tasks are performed"
+          },
+          {
+            "src": "cblm06",
+            "page": 12,
+            "quote": "a separate resource area where the student has access to learning materials"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

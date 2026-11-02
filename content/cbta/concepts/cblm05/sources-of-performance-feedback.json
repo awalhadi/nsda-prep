@@ -1,0 +1,173 @@
+{
+  "id": "sources-of-performance-feedback",
+  "canonical_title": "Sources of Feedback on Your Performance (CBLM 5)",
+  "aliases": [
+    "What are the sources of getting feedback on your performance?",
+    "Identifying feedback from colleagues and clients",
+    "Feedback for personal learning needs"
+  ],
+  "cblmPrimary": 5,
+  "source_type": "cblm",
+  "covers": [
+    "cblm05-p23-b5a00f77",
+    "cblm05-p23-5b76d0d5",
+    "cblm05-p33-dc229a47"
+  ],
+  "questions": [
+    "cblm05-sc2-q2"
+  ],
+  "one_line_answer": {
+    "text": "Feedback from colleagues and clients is one of the most valuable resources you have.",
+    "fidelity": "verbatim",
+    "cites": [
+      {
+        "src": "cblm05",
+        "page": 23,
+        "quote": "Feedback from colleagues and clients is one of the most valuable resources you have."
+      },
+      {
+        "src": "cblm05",
+        "page": 23,
+        "quote": "Identifying feedback from colleagues & clients and personal",
+        "passageId": "cblm05-p23-b5a00f77"
+      }
+    ]
+  },
+  "keywords": [
+    { "en": "Feedback", "bn": "আপনার কাজ নিয়ে অন্যের মতামত" },
+    { "en": "Performance appraisal", "bn": "কাজের মান মূল্যায়ন" },
+    { "en": "Clients", "bn": "যাঁদের আপনি সেবা দেন, যেমন trainees" },
+    { "en": "Reflective", "bn": "নিজের কাজ নিয়ে ভেবে দেখা" },
+    { "en": "Service delivery", "bn": "সেবা প্রদান" }
+  ],
+  "bangla_explanation": [
+    "অন্যের fresh eyes এমন জিনিস দেখে, যা আপনি নিজে দেখতে পান না।",
+    "Feedback আসে ৫টি উৎস থেকে: appraisals, supervisors ও colleagues, clients, reflective strategies আর organisational methods।",
+    "সব মতামতের weight সমান নয়; কারো কারো নিজের agendas থাকে।",
+    "তবে বেশিরভাগ মানুষ আপনাকে সাহায্য করতে খুশি হন।"
+  ],
+  "example": {
+    "en": "A trainer at a TTC asks his supervisor and trainees for comments. He also reviews his own session notes.",
+    "bn": "Supervisor, trainees আর নিজের ভাবনা — তিন দিক থেকেই feedback নিন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Formal or informal performance appraisals",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 23, "quote": "formal or informal performance appraisals", "passageId": "cblm05-p23-5b76d0d5" }]
+      },
+      {
+        "text": "Obtaining comments from supervisors and colleagues",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 23, "quote": "obtaining comments from supervisors and colleagues" }]
+      },
+      {
+        "text": "Obtaining comments from clients",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 23, "quote": "obtaining comments from clients" }]
+      },
+      {
+        "text": "Using personal reflective behaviour strategies",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 23, "quote": "using personal reflective behaviour strategies" }]
+      },
+      {
+        "text": "Applying routine organisational methods for monitoring service delivery",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 23, "quote": "applying routine organisational methods for monitoring service delivery." }]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Do not mix the sources of feedback with the performance appraisal methods.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm05", "page": 33, "quote": "What are the sources of getting feedback on your performance?", "passageId": "cblm05-p33-dc229a47" },
+        { "src": "cblm05", "page": 24, "quote": "Different performance appraisal methods are illustrated below" }
+      ]
+    },
+    {
+      "text": "Decide what weight to give some opinions. Some people have their own agendas.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm05", "page": 23, "quote": "You will need to decide what weight to give some opinions." },
+        { "src": "cblm05", "page": 23, "quote": "Some people will have their own agendas and interest in mind" }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the sources of getting feedback on your performance?",
+      "modelAnswer": "You can get feedback on your performance from:\n1. Formal or informal performance appraisals\n2. Obtaining comments from supervisors and colleagues\n3. Obtaining comments from clients\n4. Using personal reflective behaviour strategies\n5. Applying routine organisational methods for monitoring service delivery",
+      "keyPoints": [
+        {
+          "text": "The fresh eyes of others can help you see things you otherwise would not.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm05", "page": 23, "quote": "the fresh eyes of others can help you see things you otherwise would not." }
+          ]
+        },
+        {
+          "text": "Some people have their own agendas, but most will be happy to assist you.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm05", "page": 23, "quote": "Some people will have their own agendas and interest in mind, but most will be happy to assist you." }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a source of feedback on your performance?",
+      "options": [
+        "Hierarchy of controls",
+        "Program delivery plan",
+        "Obtaining comments from clients",
+        "Range statement"
+      ],
+      "answerIndex": 2,
+      "answerCite": {
+        "src": "cblm05",
+        "page": 23,
+        "quote": "obtaining comments from clients"
+      }
+    },
+    "matching": {
+      "prompt": "Complete each source of feedback.",
+      "pairs": [
+        {
+          "left": "Formal or informal",
+          "right": "Performance appraisals",
+          "cite": { "src": "cblm05", "page": 23, "quote": "formal or informal performance appraisals" }
+        },
+        {
+          "left": "Supervisors and colleagues",
+          "right": "Obtaining comments",
+          "cite": { "src": "cblm05", "page": 23, "quote": "obtaining comments from supervisors and colleagues" }
+        },
+        {
+          "left": "Personal reflective",
+          "right": "Behaviour strategies",
+          "cite": { "src": "cblm05", "page": 23, "quote": "using personal reflective behaviour strategies" }
+        },
+        {
+          "left": "Routine organisational methods",
+          "right": "Monitoring service delivery",
+          "cite": { "src": "cblm05", "page": 23, "quote": "applying routine organisational methods for monitoring service delivery." }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why is feedback from colleagues and clients valuable?",
+      "answer": {
+        "text": "Their fresh eyes can help you see things you otherwise would not.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm05", "page": 23, "quote": "the fresh eyes of others can help you see things you otherwise would not." }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

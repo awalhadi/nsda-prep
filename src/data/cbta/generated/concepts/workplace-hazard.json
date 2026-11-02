@@ -1,0 +1,365 @@
+{
+  "aliases": [
+    "What is workplace hazard?",
+    "Hazard"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 7,
+          "printed": 7
+        },
+        {
+          "pdf": 9,
+          "printed": 9
+        },
+        {
+          "pdf": 16,
+          "printed": 16
+        },
+        {
+          "pdf": 17,
+          "printed": 17
+        },
+        {
+          "pdf": 19,
+          "printed": 19
+        },
+        {
+          "pdf": 29,
+          "printed": 29
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "Hazard মানে এমন কিছু বা এমন situation, যা ক্ষতি করতে পারে।",
+    "এই ক্ষতি মানুষের হতে পারে, আবার property damage-ও হতে পারে।",
+    "Workplace মানে যেখানে মানুষ তার পেশার কাজ করে।",
+    "Learning আর assessment environment-এও একই নিয়ম; কোনো environment hazard free নয়।",
+    "সাবধান: Self Check-এর answer key শুধু workplace-এর সংজ্ঞা দেয়, hazard-এর নয়।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "ওয়েল্ডিং ওয়ার্কশপে মেঝেতে পড়ে থাকা খোলা তার একটি workplace hazard।",
+    "en": "In a welding workshop, a loose cable lies on the floor. A trainee can trip on it. It is a workplace hazard."
+  },
+  "highlighted": true,
+  "id": "workplace-hazard",
+  "importance": {
+    "bn": "CBLM 3 Self Check 1 (Q1)-এ এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in CBLM 3 Self Check 1 (Q1). Highlighted in CBLM 3. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "ক্ষতির উৎস; যা ক্ষতি করতে পারে",
+      "en": "Hazard"
+    },
+    {
+      "bn": "কর্মক্ষেত্র; যেখানে মানুষ পেশার কাজ করে",
+      "en": "Workplace"
+    },
+    {
+      "bn": "সম্ভাব্য ক্ষতি",
+      "en": "Potential harm"
+    },
+    {
+      "bn": "সম্পদের ক্ষতি",
+      "en": "Property damage"
+    },
+    {
+      "bn": "ক্ষতি ঘটার সম্ভাবনা",
+      "en": "Risk"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": null,
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 7,
+        "passageId": "cblm03-p7-34f04385",
+        "printedPage": 7,
+        "quote": "So a workplace hazard would be any situation that has the potential to cause harm in a place where people practice their occupation",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 7,
+        "printedPage": 7,
+        "quote": "A hazard is a source of potential harm",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "A workplace hazard is any situation that can cause harm in a workplace."
+  },
+  "openChecks": 2,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "A hazard is a source of potential harm",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Hazard",
+          "right": "A source of potential harm"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "A workplace is a place where people practice their occupation",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Workplace",
+          "right": "A place where people practise their occupation"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Risk is an estimate of the chance of an injury/illness happening in a hazardous situation.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Risk",
+          "right": "The chance of an injury or illness happening"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "So a workplace hazard would be any situation that has the potential to cause harm",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Workplace hazard",
+          "right": "A situation that can cause harm where people work"
+        }
+      ],
+      "prompt": "Match each term with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 7,
+        "printedPage": 7,
+        "quote": "A hazard is a source of potential harm",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "A source of potential harm",
+        "A place where people practise their occupation",
+        "The chance of an injury happening",
+        "The control of last resort"
+      ],
+      "prompt": "What is a hazard?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "A hazard is a source of potential harm",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A hazard is a source of potential harm."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "This can be harm to people or property damage.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The harm can be to people or property damage."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "The same principle applies to learning and/or assessment environments.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The same principle applies to learning and assessment environments."
+        }
+      ],
+      "modelAnswer": "A hazard is a source of potential harm. It is any situation that can cause, or lead to, harm. The harm can be to people or property damage. So a workplace hazard is any situation that can cause harm where people practise their occupation.",
+      "prompt": "What is workplace hazard?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "clearly understand that hazards and risks resulting from hazards are something different!",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "No. Hazards and the risks resulting from hazards are different."
+      },
+      "prompt": "Is a hazard the same as a risk?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "A workplace is a place where people practice their occupation (or crafts,\nprofessions, trades)",
+      "flags": [
+        "suspect-definition-mismatch"
+      ],
+      "id": "cblm03-sc1-q1",
+      "kind": "selfcheck",
+      "label": "CBLM 3 Self Check 1 (Q1)",
+      "page": 16,
+      "printedPage": 16,
+      "question": "What is workplace hazard?",
+      "src": "cblm03",
+      "type": "short"
+    }
+  ],
+  "score": 6,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Workplace Hazard",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 16,
+          "printedPage": 16,
+          "quote": "Self Check: 1- Workplace Hazards",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 17,
+          "printedPage": 17,
+          "quote": "Answer Key: 1- Workplace Hazards",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 17,
+          "printedPage": 17,
+          "quote": "Ans: A workplace is a place where people practice their occupation",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The Self Check answer key defines a workplace, not a workplace hazard."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 9,
+          "printedPage": 9,
+          "quote": "clearly understand that hazards and risks resulting from hazards are something different!",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Hazards and risks are different things."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 7,
+          "printedPage": 7,
+          "quote": "Each environment has its own types of hazards - no environment is hazard free.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Every environment has its own types of hazards. No environment is hazard free."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "A workplace hazard is any condition, practice, or behavior that could cause injury or illness to a person",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Another wording: any condition, practice or behavior that could cause injury or illness."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

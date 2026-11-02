@@ -1,0 +1,351 @@
+{
+  "aliases": [
+    "Two types of injuries or illnesses in workplace hazard",
+    "Acute and chronic"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 19,
+          "printed": 19
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "কিছু hazards সাথে সাথে ক্ষতি করে, একে acute বলে; যেমন burns, fractures।",
+    "কিছু ক্ষতি ধীরে ধীরে অনেক দিনে হয়, একে chronic বলে; যেমন hearing loss, cancer।",
+    "সহজে মনে রাখুন: acute = এখনই, chronic = দীর্ঘ সময় পরে।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "ইস্ত্রিতে হাত পোড়া acute; বছরের পর বছর মেশিনের শব্দে hearing loss chronic।",
+    "en": "A garments worker burns a hand on an iron. That is acute. Years of machine noise cause hearing loss. That is chronic."
+  },
+  "highlighted": true,
+  "id": "acute-chronic-injuries",
+  "importance": {
+    "bn": "Unit 02 Short Questions (Short 16)-এ এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in Unit 02 Short Questions (Short 16). Highlighted in CBLM 3. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "সাথে সাথে হওয়া আঘাত",
+      "en": "Acute"
+    },
+    {
+      "bn": "দীর্ঘ সময়ে ধীরে ধীরে হওয়া অসুখ",
+      "en": "Chronic"
+    },
+    {
+      "bn": "আঘাত",
+      "en": "Injury"
+    },
+    {
+      "bn": "অসুখ",
+      "en": "Illness"
+    },
+    {
+      "bn": "একই কাজ বারবার করায় পেশির ক্ষতি",
+      "en": "Repetitive strain"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Immediate injuries are called acute. Examples of acute injuries are burns, fractures, bruises.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Acute: immediate injuries, such as burns, fractures and bruises."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Illnesses that develop over a long period of time are called chronic.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Examples of chronic illnesses include repetitive strain, hearing loss, and cancer.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Chronic: illnesses that develop over a long time, such as hearing loss and cancer."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 19,
+        "printedPage": 19,
+        "quote": "Types of Injuries and Illness: Acute and Chronic",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 19,
+        "passageId": "cblm03-p19-1c602ebc",
+        "printedPage": 19,
+        "quote": "Immediate injuries are called acute.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 19,
+        "printedPage": 19,
+        "quote": "Illnesses that develop over a long period of time are called chronic.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Injuries and illnesses are of two types: acute (immediate) and chronic (long-term)."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Immediate injuries are called acute.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Acute",
+          "right": "Immediate injuries"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Illnesses that develop over a long period of time are called chronic.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Chronic",
+          "right": "Illnesses that develop over a long period"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Examples of acute injuries are burns, fractures, bruises.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Burns, fractures, bruises",
+          "right": "Examples of acute injuries"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Examples of chronic illnesses include repetitive strain, hearing loss, and cancer.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Repetitive strain, hearing loss, cancer",
+          "right": "Examples of chronic illnesses"
+        }
+      ],
+      "prompt": "Match each term with its meaning or examples."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 19,
+        "printedPage": 19,
+        "quote": "Examples of chronic illnesses include repetitive strain, hearing loss, and cancer.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Chronic illness",
+        "Acute injury",
+        "Ergonomic hazard",
+        "Near miss"
+      ],
+      "prompt": "Hearing loss that develops over many years is:"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Immediate injuries are called acute.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Immediate injuries are called acute."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Illnesses that develop over a long period of time are called chronic.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Illnesses that develop over a long period of time are called chronic."
+        }
+      ],
+      "modelAnswer": "There are two types:\n1. Acute: immediate injuries, such as burns, fractures and bruises.\n2. Chronic: illnesses that develop over a long period of time, such as repetitive strain, hearing loss and cancer.",
+      "prompt": "Name the two types of injuries or illnesses in workplace hazard."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Immediate injuries are called acute. Examples of acute injuries are burns",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "An immediate injury is called acute. Burns are an example."
+      },
+      "prompt": "What is an acute injury? Give an example."
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "mmediate injuries are called acute. Examples of acute injuries are burns, fractures, bruises.\nIllnesses that develop over a long period of time are called chronic. Examples of chronic illnesses\ninclude repetitive strain, hearing loss, and cancer.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit02-short-step-4-evaluate-the-results-q16",
+      "kind": "paper",
+      "label": "Unit 02 Short Questions (Short 16)",
+      "page": 4,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Name the two types of injuries or illnesses in workplace hazard?",
+      "src": "paper-unit02-short",
+      "type": "short"
+    }
+  ],
+  "score": 5,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Acute and Chronic Injuries and Illnesses",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "Some hazards - like slippery floors or boiling water - cause injuries right away.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "But other hazards take longer.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Some hazards, like slippery floors, cause injuries right away. Others take longer."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "Immediate injuries are called acute.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "Examples of chronic illnesses include repetitive strain, hearing loss, and cancer.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Hearing loss is a chronic illness. Acute means immediate injuries."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

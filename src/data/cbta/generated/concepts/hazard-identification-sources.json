@@ -1,0 +1,462 @@
+{
+  "aliases": [
+    "How can you identify hazards?",
+    "Sources for identifying workplace hazards"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 8,
+          "printed": 8
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "Hazard খুঁজে না পেলে তা নিয়ন্ত্রণ করা যায় না, তাই identification প্রথম কাজ।",
+    "প্রত্যেক কর্মীকেই নিজের workplace-এ hazards খুঁজতে সাহায্য করতে হয়।",
+    "Hazard শুধু equipment বা material নয়; processes আর procedures-ও hazard হতে পারে।",
+    "ছয়টি sources মনে রাখুন: past incidents, employees, examining, review, brainstorming, advice।"
+  ],
+  "breakdown": {
+    "exam": 4,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "গত বছরের দুর্ঘটনার রেকর্ড আর trainee-দের রিপোর্ট দুটোই hazard খোঁজার উৎস।",
+    "en": "An electrical workshop looks at last year's accidents. Trainees also report a broken socket. Both are sources for hazard identification."
+  },
+  "highlighted": true,
+  "id": "hazard-identification-sources",
+  "importance": {
+    "bn": "Unit 02 Short Questions (Short 2) আর Short Questions (Short 76): 2 জায়গায় এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in Unit 02 Short Questions (Short 2) and Short Questions (Short 76). Highlighted in CBLM 3. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "বিপদের উৎস খুঁজে বের করা",
+      "en": "Hazard identification"
+    },
+    {
+      "bn": "ঘটে যাওয়া দুর্ঘটনা বা প্রায়-দুর্ঘটনা",
+      "en": "Incident"
+    },
+    {
+      "bn": "সবাই মিলে চিন্তা করে ধারণা বের করা",
+      "en": "Brainstorming"
+    },
+    {
+      "bn": "আইন",
+      "en": "Legislation"
+    },
+    {
+      "bn": "বাইরের বিশেষজ্ঞ পরামর্শক",
+      "en": "Consultant"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "passageId": "cblm03-p8-047e0d8c",
+            "printedPage": 8,
+            "quote": "Past incidents and accidents",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Past incidents and accidents"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Input by employees",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Input by employees"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Examining workplaces or work areas",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Examining workplaces or work areas"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Review of safety instruction for equipment and materials",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Review of safety instruction for equipment and materials"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Any kind of creative thinking such as brainstorming",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Any kind of creative thinking such as brainstorming"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Advice from legislation, standards, checklists or external consultants.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Advice from legislation, standards, checklists or external consultants"
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 8,
+        "passageId": "cblm03-p8-5994e39b",
+        "printedPage": 8,
+        "quote": "Sources for hazard identification can be:",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 8,
+        "printedPage": 8,
+        "quote": "Past incidents and accidents",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 8,
+        "printedPage": 8,
+        "quote": "Input by employees",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 8,
+        "printedPage": 8,
+        "quote": "Examining workplaces or work areas",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Sources for hazard identification include past incidents, employee input and examining workplaces."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Any kind of creative thinking such as brainstorming",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Creative thinking",
+          "right": "Brainstorming"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Advice from legislation, standards, checklists or external consultants.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Advice",
+          "right": "Legislation, standards, checklists or external consultants"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Review of safety instruction for equipment and materials",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Review",
+          "right": "Safety instruction for equipment and materials"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Input by employees",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Input",
+          "right": "By employees"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Examining workplaces or work areas",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Examining",
+          "right": "Workplaces or work areas"
+        }
+      ],
+      "prompt": "Match each source with its detail."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 8,
+        "printedPage": 8,
+        "quote": "Input by employees",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Input by employees",
+        "Job rotation",
+        "Risk register",
+        "Muster point"
+      ],
+      "prompt": "Which is a source for hazard identification?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "A hazard is anything that is a threat to health and safety in an organization.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "A hazard is anything that is a threat to health and safety in an organization."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "everybody has to contribute to finding hazards at his or her workplace",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Everybody has to contribute to finding hazards at his or her workplace."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "but has to include processes and procedures that determine the work at the workplace",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "A hazard is not just linked to technical equipment",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A hazard includes processes and procedures, not just equipment."
+        }
+      ],
+      "modelAnswer": "Hazards can be identified from these sources:\n1. Past incidents and accidents\n2. Input by employees\n3. Examining workplaces or work areas\n4. Review of safety instruction for equipment and materials\n5. Creative thinking such as brainstorming\n6. Advice from legislation, standards, checklists or external consultants",
+      "prompt": "You have to keep the workplace as safe as possible. How can you identify hazards of your workplace?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "everybody has to contribute to finding hazards at his or her workplace",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Everybody has to contribute to finding hazards at his or her workplace."
+      },
+      "prompt": "Who should help find hazards at work?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "• Past incidents and accidents\n•\nInput by employees\n•\nExamining workplaces or work areas\n•\nReview of safety instruction for equipment and materials\n•\nAny kind of creative thinking such as brainstorming\n•\nAdvice from legislation, standards, checklists or external consultants.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit02-short-q2",
+      "kind": "paper",
+      "label": "Unit 02 Short Questions (Short 2)",
+      "page": 1,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "",
+      "src": "paper-unit02-short",
+      "type": "short"
+    },
+    {
+      "answer": "Previous incidents or accidents; workers' feedback; workplace\ninspections; reviews of equipment/material safety instructions; brainstorming;\nlegislation, standards or checklists; and advice from external consultants.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q76",
+      "kind": "paper",
+      "label": "Short Questions (Short 76)",
+      "page": 10,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What are some sources for identifying workplace hazards?",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 7,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Sources for Hazard Identification",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 8,
+          "printedPage": 8,
+          "quote": "A hazard is not just linked to technical equipment or a material used at a workplace but has to include processes and procedures",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "A hazard includes processes and procedures, not just equipment or material."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 8,
+          "printedPage": 8,
+          "quote": "everybody has to contribute to finding hazards at his or her workplace",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Everybody has to contribute to finding hazards at his or her workplace."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 8,
+          "printedPage": 8,
+          "quote": "It is a legal requirement in some countries that employers have to consult their employees.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "In some countries, employers must legally consult their employees."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

@@ -1,0 +1,190 @@
+{
+  "id": "quality-plan-components",
+  "canonical_title": "Components of a Quality Plan (CBLM 5)",
+  "aliases": [
+    "Components in Quality Plans",
+    "Components of a typical quality plan",
+    "Institution's quality plan"
+  ],
+  "cblmPrimary": 5,
+  "source_type": "cblm",
+  "covers": [
+    "cblm05-p10-aca6d6e0",
+    "cblm05-p10-a93cf93d"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "An institution's strategic plan is supported by a quality plan.",
+    "fidelity": "verbatim",
+    "cites": [
+      {
+        "src": "cblm05",
+        "page": 10,
+        "quote": "An institution's strategic plan is supported by a quality plan."
+      },
+      {
+        "src": "cblm05",
+        "page": 10,
+        "quote": "components of a typical quality plan below.",
+        "passageId": "cblm05-p10-aca6d6e0"
+      }
+    ]
+  },
+  "keywords": [
+    { "en": "Quality plan", "bn": "মান বজায় রাখার পরিকল্পনা" },
+    { "en": "Strategic plan", "bn": "প্রতিষ্ঠানের দীর্ঘমেয়াদি পরিকল্পনা" },
+    { "en": "Organisational chart", "bn": "প্রতিষ্ঠানে কে কার অধীনে, তার চিত্র" },
+    { "en": "Critical Success Factors (CSFs)", "bn": "সাফল্যের জন্য অবশ্যই ভালো করতে হবে এমন মূল কাজ" },
+    { "en": "Audit", "bn": "নিরীক্ষা, কাজ নিয়ম মেনে হচ্ছে কি না যাচাই" }
+  ],
+  "bangla_explanation": [
+    "Quality plan প্রতিষ্ঠানের strategic plan-কে পেছন থেকে শক্তি দেয়।",
+    "একটি typical quality plan-এ ৭টি components থাকে: objectives and policy থেকে audit and review procedures পর্যন্ত।",
+    "নিজের প্রতিষ্ঠানের quality plan পড়ে vision, objectives, responsibilities আর CSFs খুঁজে বের করুন।",
+    "Quality plan সব staff জানলে সবাই মিলে quantifiable targets-এর দিকে কাজ করতে পারে।"
+  ],
+  "example": {
+    "en": "A garments training centre's quality plan sets audit dates. Each trainer keeps records ready for the audit.",
+    "bn": "Quality plan-এ audit-এর সময় লেখা থাকে, তাই trainer আগে থেকেই records গুছিয়ে রাখেন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Quality objectives and policy",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 10, "quote": "Quality objectives and policy", "passageId": "cblm05-p10-a93cf93d" }]
+      },
+      {
+        "text": "Organisational chart",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 10, "quote": "Organisational chart" }]
+      },
+      {
+        "text": "Authorisations and responsibilities",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 10, "quote": "Authorisations and responsibilities" }]
+      },
+      {
+        "text": "Critical Success Factors (CSFs)",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 10, "quote": "Critical Success Factors (CSFs)" }]
+      },
+      {
+        "text": "Methods of measurement",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 10, "quote": "Methods of measurement" }]
+      },
+      {
+        "text": "Frequency and method of quality control",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 10, "quote": "Frequency and method of quality control" }]
+      },
+      {
+        "text": "Inspection, audit and review procedures",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 10, "quote": "Inspection, audit and review procedures." }]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "A quality plan is not the strategic plan. It supports the strategic plan.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm05",
+          "page": 10,
+          "quote": "An institution's strategic plan is supported by a quality plan."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "List the components of a typical quality plan.",
+      "modelAnswer": "A quality plan supports the institution's strategic plan. Its components are:\n1. Quality objectives and policy\n2. Organisational chart\n3. Authorisations and responsibilities\n4. Critical Success Factors (CSFs)\n5. Methods of measurement\n6. Frequency and method of quality control\n7. Inspection, audit and review procedures",
+      "keyPoints": [
+        {
+          "text": "Research your quality plan for its vision, objectives, CSFs and methods of measurement.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm05", "page": 10, "quote": "Research your institution's quality plan to identify:" },
+            { "src": "cblm05", "page": 10, "quote": "quality vision and objectives" },
+            { "src": "cblm05", "page": 10, "quote": "critical success factors and methods of measurement in the quality plan." }
+          ]
+        },
+        {
+          "text": "Quality plans communicated to all staff can be supported.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm05", "page": 10, "quote": "Quality plans that are communicated to all staff can be supported" }
+          ]
+        },
+        {
+          "text": "People can then work towards the quantifiable targets for improvement.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm05", "page": 10, "quote": "people can work towards the quantifiable targets for improvement." }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which plan supports an institution's strategic plan?",
+      "options": [
+        "Session plan",
+        "Assessment plan",
+        "Quality plan",
+        "Program delivery plan"
+      ],
+      "answerIndex": 2,
+      "answerCite": {
+        "src": "cblm05",
+        "page": 10,
+        "quote": "An institution's strategic plan is supported by a quality plan."
+      }
+    },
+    "matching": {
+      "prompt": "Complete each quality plan item.",
+      "pairs": [
+        {
+          "left": "Quality objectives",
+          "right": "and policy",
+          "cite": { "src": "cblm05", "page": 10, "quote": "Quality objectives and policy" }
+        },
+        {
+          "left": "Authorisations",
+          "right": "and responsibilities",
+          "cite": { "src": "cblm05", "page": 10, "quote": "Authorisations and responsibilities" }
+        },
+        {
+          "left": "Frequency and method",
+          "right": "of quality control",
+          "cite": { "src": "cblm05", "page": 10, "quote": "Frequency and method of quality control" }
+        },
+        {
+          "left": "Inspection, audit",
+          "right": "and review procedures",
+          "cite": { "src": "cblm05", "page": 10, "quote": "Inspection, audit and review procedures." }
+        },
+        {
+          "left": "Methods",
+          "right": "of measurement",
+          "cite": { "src": "cblm05", "page": 10, "quote": "Methods of measurement" }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why should a quality plan be communicated to all staff?",
+      "answer": {
+        "text": "Then staff can support it and work towards its quantifiable targets for improvement.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm05", "page": 10, "quote": "Quality plans that are communicated to all staff can be supported" },
+          { "src": "cblm05", "page": 10, "quote": "people can work towards the quantifiable targets for improvement." }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

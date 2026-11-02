@@ -1,0 +1,607 @@
+{
+  "aliases": [
+    "What salvage would involve",
+    "Organization by operation",
+    "Inspection, maintenance, repair, overhaul, construction, housekeeping and salvage"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 27,
+          "printed": 27
+        },
+        {
+          "pdf": 31,
+          "printed": 31
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "Maintenance department-এর কাজ সাত ভাগে ভাগ করা যায়।",
+    "প্রতিটা ভাগের আলাদা group বা লোক থাকে, একে organization by operation বলে।",
+    "পরীক্ষায় housekeeping আর salvage-এর অর্থ চাওয়া হয়, তাই এ দুটো ভালো করে মুখস্থ রাখুন।",
+    "Inspection-এর উদ্দেশ্য: equipment যেন safe ও proper ভাবে চলে।"
+  ],
+  "breakdown": {
+    "exam": 7,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "পরিষ্কার রাখা housekeeping; পুরনো মাল কাজে লাগানো বা নিষ্পত্তি salvage।",
+    "en": "In a polytechnic, cleaners keep the workshop and grounds tidy. That is housekeeping. Old printer cartridges kept for other printers is salvage."
+  },
+  "highlighted": true,
+  "id": "maintenance-activities",
+  "importance": {
+    "bn": "CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 10) আর CBLM 6 Self Check 1 (Q4, Q5): 2 জায়গায় এসেছে। CBLM 6-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 10) and CBLM 6 Self Check 1 (Q4, Q5). Highlighted in CBLM 6. Comes as MCQ and short question."
+  },
+  "keywords": [
+    {
+      "bn": "পরিদর্শন, যন্ত্র ঠিকমতো ও নিরাপদে চলছে কিনা দেখা",
+      "en": "Inspection"
+    },
+    {
+      "bn": "খুলে, বদলে, আবার জোড়া দিয়ে test করা",
+      "en": "Overhaul"
+    },
+    {
+      "bn": "পরিষ্কার-পরিচ্ছন্নতা ও মাঠ-চত্বর দেখাশোনা",
+      "en": "Housekeeping"
+    },
+    {
+      "bn": "বাড়তি মাল ও scrap উদ্ধার করে নিষ্পত্তি করা",
+      "en": "Salvage"
+    },
+    {
+      "bn": "যন্ত্রাংশ বদলে পুরো চালু অবস্থায় ফেরানো",
+      "en": "Repair"
+    }
+  ],
+  "likelyTypes": [
+    "mcq",
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Inspection would involve periodic inspection of equipment to insure",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "safe and proper operation",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Inspection: periodic inspection of equipment to insure safe and proper operation."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Maintenance would consist of the lubricating, adjusting, and routine",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "replacement usually classified as preventive maintenance",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Maintenance: lubricating, adjusting and routine replacement (preventive maintenance)."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Repair would consist of replacing parts to restore a piece of equipment to full",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "operating condition",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Repair: replacing parts to restore equipment to full operating condition."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Overhaul would involve the reconditioning of equipment teardown,",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "replacement, reassembly, and testing",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Overhaul: reconditioning of equipment: teardown, replacement, reassembly and testing."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Construction and rehabilitation would",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "consist of building, modifying, and restoring structures.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Construction and rehabilitation: building, modifying and restoring structures."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Housekeeping would cover those janitorial and grounds keeping activities",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "necessary to provide clean and orderly facilities and grounds",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Housekeeping: janitorial and grounds keeping activities for clean, orderly facilities."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Salvage would involve the reclamation and disposition of surplus material and scrap",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Salvage: reclamation and disposition of surplus material and scrap."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 27,
+        "printedPage": 27,
+        "quote": "Organizing in a maintenance department is the grouping of activities",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 27,
+        "printedPage": 27,
+        "quote": "group (or individual for inspection, maintenance. repair, overhaul,",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 27,
+        "printedPage": 27,
+        "quote": "construction, housekeeping, and salvage.",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "A maintenance department groups its work into inspection, maintenance, repair, overhaul, construction, housekeeping and salvage."
+  },
+  "openChecks": 2,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Inspection would involve periodic inspection of equipment to insure",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Inspection",
+          "right": "Periodic inspection to insure safe and proper operation"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Repair would consist of replacing parts to restore a piece of equipment to full",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Repair",
+          "right": "Replacing parts to restore full operating condition"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "replacement, reassembly, and testing",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Overhaul",
+          "right": "Teardown, replacement, reassembly and testing"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "consist of building, modifying, and restoring structures.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Construction and rehabilitation",
+          "right": "Building, modifying and restoring structures"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Housekeeping would cover those janitorial and grounds keeping activities",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Housekeeping",
+          "right": "Janitorial and grounds keeping activities"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Salvage would involve the reclamation and disposition of surplus material and",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Salvage",
+          "right": "Reclamation and disposition of surplus material and scrap"
+        }
+      ],
+      "prompt": "Match each activity with what it involves."
+    },
+    "mcq": {
+      "answerCite": {
+        "match": "exact",
+        "page": 5,
+        "printedPage": null,
+        "quote": "C) To ensure safety and functionality",
+        "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+        "src": "paper-written-inclusivity-maintenance"
+      },
+      "answerIndex": 2,
+      "options": [
+        "To reduce training hours",
+        "To minimize documentation work",
+        "To ensure safety and functionality",
+        "To promote trainer comfort only"
+      ],
+      "prompt": "Why is it important to conduct regular inspections of training facilities?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Housekeeping would cover those janitorial and grounds keeping activities",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "necessary to provide clean and orderly facilities and grounds",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Housekeeping covers janitorial and grounds keeping activities for clean and orderly facilities and grounds."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Salvage would involve the reclamation and disposition of surplus material and scrap",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Salvage involves the reclamation and disposition of surplus material and scrap."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Inspection would involve periodic inspection of equipment to insure",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "safe and proper operation",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Regular inspection of equipment ensures safe and proper operation."
+        }
+      ],
+      "modelAnswer": "Housekeeping covers janitorial and grounds keeping activities necessary to provide clean and orderly facilities and grounds.\nSalvage involves the reclamation and disposition of surplus material and scrap.\nOther maintenance activities:\n1. Inspection\n2. Maintenance\n3. Repair\n4. Overhaul\n5. Construction and rehabilitation",
+      "prompt": "What does housekeeping cover? What would salvage involve?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Organizing in a maintenance department is the grouping of activities",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "necessary to achieve the mission of the department and the assignment",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "of each group to a supervisor.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Grouping the activities needed to achieve the department's mission. Each group is assigned to a supervisor."
+      },
+      "prompt": "What is organizing in a maintenance department?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "a) Repair or replacing parts to restore a piece of equipment to full\noperating condition, and to alleviate undesirable conditions found\nduring periodic maintenance or breakdown\nb) Construction and rehabilitation of building, modifying, and restoring\nstructures;",
+      "flags": [],
+      "id": "cblm06-sc1-q4",
+      "kind": "selfcheck",
+      "label": "CBLM 6 Self Check 1 (Q4)",
+      "page": 30,
+      "printedPage": 30,
+      "question": "What housekeeping covers?",
+      "src": "cblm06",
+      "type": "short"
+    },
+    {
+      "answer": "a) Overhaul or the reconditioning of equipment.\nb) The reclamation and disposition of surplus material and scrap repair to\nfull operating condition.",
+      "flags": [],
+      "id": "cblm06-sc1-q5",
+      "kind": "selfcheck",
+      "label": "CBLM 6 Self Check 1 (Q5)",
+      "page": 30,
+      "printedPage": 30,
+      "question": "What salvage would involve?",
+      "src": "cblm06",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": 2,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-written-inclusivity-maintenance-mcq-q10",
+      "kind": "paper",
+      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 10)",
+      "options": [
+        "To reduce training hours for to ensure safety",
+        "To minimize documentation work",
+        "To ensure safety and functionality",
+        "To promote trainer comfort only"
+      ],
+      "page": 2,
+      "paperClass": "official",
+      "printedPage": null,
+      "question": "Why is it important to conduct regular inspections of training facilities?",
+      "src": "paper-written-inclusivity-maintenance",
+      "type": "mcq"
+    }
+  ],
+  "score": 10,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Maintenance Department Activities (Inspection to Salvage)",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 27,
+          "printedPage": 27,
+          "quote": "Housekeeping would cover those janitorial and grounds keeping activities",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Housekeeping covers janitorial and grounds keeping activities, not repair or construction."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 31,
+          "printedPage": 31,
+          "quote": "What housekeeping covers?",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 31,
+          "printedPage": 31,
+          "quote": "a) Repair or replacing parts to restore a piece of equipment to full",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 31,
+          "printedPage": 31,
+          "quote": "b) Construction and rehabilitation of building, modifying, and restoring",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "\"What housekeeping covers?\" key gives: repair or replacing parts; construction and rehabilitation of building."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 27,
+          "printedPage": 27,
+          "quote": "Salvage would involve the reclamation and disposition of surplus material and",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 27,
+          "printedPage": 27,
+          "quote": "Overhaul would involve the reconditioning of equipment teardown,",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Salvage is reclamation and disposition of surplus material and scrap. Overhaul is reconditioning equipment."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

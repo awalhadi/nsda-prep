@@ -1,0 +1,349 @@
+{
+  "id": "toxic-waste-disposal",
+  "canonical_title": "Disposal of Toxic Waste and Recycling",
+  "aliases": [
+    "Disposal of toxic waste",
+    "Recycling workshop waste",
+    "Materials that can be recycled"
+  ],
+  "cblmPrimary": 6,
+  "source_type": "cblm",
+  "covers": [
+    "cblm06-p24-ff33a8f1",
+    "cblm06-p25-301f839b"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "First positively identify toxic materials; identification enables the correct disposal procedure.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm06",
+        "page": 24,
+        "quote": "Disposal of toxic waste",
+        "passageId": "cblm06-p24-ff33a8f1"
+      },
+      {
+        "src": "cblm06",
+        "page": 24,
+        "quote": "positively identify"
+      },
+      {
+        "src": "cblm06",
+        "page": 24,
+        "quote": "any toxic materials that must be disposed of."
+      },
+      {
+        "src": "cblm06",
+        "page": 24,
+        "quote": "Identification enables the use of the correct procedure for disposal."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Toxic waste",
+      "bn": "বিষাক্ত বর্জ্য"
+    },
+    {
+      "en": "Disposal",
+      "bn": "ফেলে দেওয়া বা নিষ্পত্তি"
+    },
+    {
+      "en": "Sewerage",
+      "bn": "ড্রেন বা নর্দমা ব্যবস্থা"
+    },
+    {
+      "en": "Spills",
+      "bn": "ছলকে পড়া তরল"
+    },
+    {
+      "en": "Recycled",
+      "bn": "আবার ব্যবহারের জন্য প্রক্রিয়া করা"
+    }
+  ],
+  "bangla_explanation": [
+    "Toxic waste ফেলার আগে প্রথমে চিনে নিতে হবে এটা কী জিনিস।",
+    "চিনলে তবেই সঠিক disposal পদ্ধতি বেছে নেওয়া যায়।",
+    "Toxic তরল কখনো sewerage-এ ঢালা যাবে না, স্থানীয় আইন মানতে হবে।",
+    "যা recycled করা যায়, যেমন glass, plastic, metal, paper, batteries, সেগুলো আলাদা পাত্রে জমিয়ে রাখুন।"
+  ],
+  "example": {
+    "en": "A motor workshop collects used batteries in a bin. Local authorities collect them for recycling.",
+    "bn": "পুরনো batteries আলাদা পাত্রে রেখে recycling-এর জন্য দেওয়া।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Positively identify any toxic materials that must be disposed of.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "positively identify"
+          },
+          {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "any toxic materials that must be disposed of."
+          }
+        ]
+      },
+      {
+        "text": "Follow specific recommendations for disposal, for environmental reasons.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "Specific recommendations for disposal should be available and must be"
+          },
+          {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "followed for environmental reasons."
+          }
+        ]
+      },
+      {
+        "text": "Do not dispose of toxic liquids into sewerage systems.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "Do not dispose of toxic liquids into sewerage systems."
+          }
+        ]
+      },
+      {
+        "text": "Check local laws for disposal of solid waste containers in a landfill.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "Local laws must be checked for any special precautions for disposal of solid"
+          },
+          {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "waste containers and closures in a landfill."
+          }
+        ]
+      },
+      {
+        "text": "Contact local authorities about waste collection and depots.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "Local authorities should be contacted to determine their provision for"
+          },
+          {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "collection of wastes and location of depots."
+          }
+        ]
+      },
+      {
+        "text": "If incineration is recommended, observe conditions, especially for hazardous fumes or smoke.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "If incineration is recommended, conditions must be observed"
+          },
+          {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "emission of hazardous fumes or smoke."
+          }
+        ]
+      },
+      {
+        "text": "Safe transport of toxic substances must meet local regulatory requirements.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 25,
+            "quote": "Safe transport of toxic substances must meet local regulatory requirements."
+          }
+        ]
+      },
+      {
+        "text": "Observe recommendations for neutralizing spills.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 25,
+            "quote": "Recommendations for neutralizing spills must be observed."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Disposal procedures also affect the design and organization of the workshop.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 24,
+          "quote": "Procedures for disposal of waste have implications for the design and organization of the workshop."
+        }
+      ]
+    },
+    {
+      "text": "Recycle: glass, plastic, metal, newsprint, other paper and cardboard, batteries. Six examples.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 25,
+          "quote": "Examples of materials that can be recycled include:",
+          "passageId": "cblm06-p25-301f839b"
+        },
+        {
+          "src": "cblm06",
+          "page": 25,
+          "quote": "glass • plastic • metal • paper - newsprint • other paper and cardboard • batteries"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Give examples of materials that can be recycled.",
+      "modelAnswer": "Many waste materials are collected, treated and used repeatedly. Examples of materials that can be recycled:\n1. Glass\n2. Plastic\n3. Metal\n4. Paper - newsprint\n5. Other paper and cardboard\n6. Batteries\nStore them in suitable receptacles or bins ready for collection.",
+      "keyPoints": [
+        {
+          "text": "Many waste materials are collected, treated and processed to be used repeatedly.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 25,
+              "quote": "Many waste materials are regularly collected, treated and processed to be used"
+            },
+            {
+              "src": "cblm06",
+              "page": 25,
+              "quote": "repeatedly."
+            }
+          ]
+        },
+        {
+          "text": "Examples: glass, plastic, metal, paper, cardboard and batteries.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 25,
+              "quote": "glass • plastic • metal • paper - newsprint • other paper and cardboard • batteries"
+            }
+          ]
+        },
+        {
+          "text": "Workshop waste that can be recycled is stored in suitable receptacles or bins for collection.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 25,
+              "quote": "Any workshop waste materials that can be recycled in accordance with local"
+            },
+            {
+              "src": "cblm06",
+              "page": 25,
+              "quote": "can be stored in suitable receptacles, bins or flexible containers ready for"
+            },
+            {
+              "src": "cblm06",
+              "page": 25,
+              "quote": "collection."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Where must toxic liquids NOT be disposed of?",
+      "options": [
+        "Into sewerage systems",
+        "Into labelled waste containers",
+        "Through local authority collection",
+        "At approved depots"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm06",
+        "page": 24,
+        "quote": "Do not dispose of toxic liquids into sewerage systems."
+      }
+    },
+    "matching": {
+      "prompt": "Match each disposal point with what to do.",
+      "pairs": [
+        {
+          "left": "Toxic materials",
+          "right": "Positively identify before disposal",
+          "cite": {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "to positively identify any toxic materials that must be disposed of."
+          }
+        },
+        {
+          "left": "Local authorities",
+          "right": "Contact about collection of wastes and depots",
+          "cite": {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "collection of wastes and location of depots."
+          }
+        },
+        {
+          "left": "Incineration",
+          "right": "Observe conditions for hazardous fumes or smoke",
+          "cite": {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "emission of hazardous fumes or smoke."
+          }
+        },
+        {
+          "left": "Spills",
+          "right": "Observe recommendations for neutralizing",
+          "cite": {
+            "src": "cblm06",
+            "page": 25,
+            "quote": "Recommendations for neutralizing spills must be observed."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why must toxic waste be identified before disposal?",
+      "answer": {
+        "text": "Identification enables the use of the correct procedure for disposal.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 24,
+            "quote": "Identification enables the use of the correct procedure for disposal."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

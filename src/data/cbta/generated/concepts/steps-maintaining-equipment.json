@@ -1,0 +1,575 @@
+{
+  "aliases": [
+    "What are the steps involved in maintaining training equipment and tools?",
+    "Tool maintenance activities",
+    "What to do with damaged or unsafe equipment"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 18,
+          "printed": 18
+        },
+        {
+          "pdf": 29,
+          "printed": 29
+        },
+        {
+          "pdf": 35,
+          "printed": 35
+        },
+        {
+          "pdf": 38,
+          "printed": 38
+        },
+        {
+          "pdf": 39,
+          "printed": 39
+        },
+        {
+          "pdf": 42,
+          "printed": 42
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "Equipment ঠিক রাখার ধাপ মনে রাখলে safety আর longevity দুটোই নিশ্চিত হয়।",
+    "শুরু Regular Inspection দিয়ে, শেষ Training and Awareness দিয়ে, মোট সাত ধাপ।",
+    "নষ্ট বা unsafe equipment পেলে সাথে সাথে report করুন, আর ব্যবহার বন্ধ করে আলাদা রাখুন।",
+    "যেকোনো tool ব্যবহারের আগে manufacturer's manual পড়ুন, এটাই proper use-এর ভিত্তি।"
+  ],
+  "breakdown": {
+    "exam": 3,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "ভাঙা জ্যাক tag করে সরিয়ে রাখা আর report করা: এটাই সঠিক কাজ।",
+    "en": "In a motor mechanic workshop, a trainer finds a cracked jack. He tags it, removes it from use and reports it."
+  },
+  "highlighted": false,
+  "id": "steps-maintaining-equipment",
+  "importance": {
+    "bn": "CBT&A L4 Written Test — Inclusivity & Maintenance (Short 9, MCQ 8)-এ এসেছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 9, MCQ 8). Comes as MCQ and short question."
+  },
+  "keywords": [
+    {
+      "bn": "নিয়মিত পরিদর্শন",
+      "en": "Regular Inspection"
+    },
+    {
+      "bn": "সঠিক জায়গায় গুছিয়ে রাখা",
+      "en": "Proper Storage"
+    },
+    {
+      "bn": "লিখে রেকর্ড রাখা",
+      "en": "Documentation"
+    },
+    {
+      "bn": "নষ্ট যন্ত্রে চিহ্ন বা ট্যাগ লাগানো",
+      "en": "Tagging of defective tools"
+    },
+    {
+      "bn": "কোম্পানির দেওয়া ব্যবহার-নির্দেশিকা",
+      "en": "Manufacturer's manual"
+    }
+  ],
+  "likelyTypes": [
+    "mcq",
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "match": "exact",
+            "page": 7,
+            "printedPage": null,
+            "quote": "Regular Inspection.",
+            "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+            "src": "paper-written-inclusivity-maintenance"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Regular Inspection."
+      },
+      {
+        "cites": [
+          {
+            "match": "exact",
+            "page": 7,
+            "printedPage": null,
+            "quote": "Regular Inspection. Cleaning.",
+            "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+            "src": "paper-written-inclusivity-maintenance"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Cleaning."
+      },
+      {
+        "cites": [
+          {
+            "match": "exact",
+            "page": 7,
+            "printedPage": null,
+            "quote": "Proper Storage.",
+            "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+            "src": "paper-written-inclusivity-maintenance"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Proper Storage."
+      },
+      {
+        "cites": [
+          {
+            "match": "exact",
+            "page": 7,
+            "printedPage": null,
+            "quote": "Preventive Maintenance.",
+            "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+            "src": "paper-written-inclusivity-maintenance"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Preventive Maintenance."
+      },
+      {
+        "cites": [
+          {
+            "match": "exact",
+            "page": 7,
+            "printedPage": null,
+            "quote": "Repair and Replacement.",
+            "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+            "src": "paper-written-inclusivity-maintenance"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Repair and Replacement."
+      },
+      {
+        "cites": [
+          {
+            "match": "exact",
+            "page": 7,
+            "printedPage": null,
+            "quote": "Repair and Replacement. Documentation.",
+            "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+            "src": "paper-written-inclusivity-maintenance"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Documentation."
+      },
+      {
+        "cites": [
+          {
+            "match": "exact",
+            "page": 7,
+            "printedPage": null,
+            "quote": "Training and Awareness.",
+            "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+            "src": "paper-written-inclusivity-maintenance"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Training and Awareness."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "match": "exact",
+        "page": 7,
+        "printedPage": null,
+        "quote": "Maintaining training equipment and tools is essential for safety, efficiency, and longevity.",
+        "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+        "src": "paper-written-inclusivity-maintenance"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Maintaining training equipment and tools is essential for safety, efficiency, and longevity."
+  },
+  "openChecks": 1,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "Regular inspections are conducted to assure that the maintenance activities are done",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Regular inspections",
+          "right": "Assure maintenance activities are done on the planned date and time"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 35,
+            "printedPage": 35,
+            "quote": "Faulty equipment is removed",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Faulty equipment",
+          "right": "Is removed from service"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "This would indicate the parts of the equipment, the",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Manufacturer's manual",
+          "right": "Indicates the parts of the equipment and their functions"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Prepare and submit inspection report.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Inspection report",
+          "right": "Prepare and submit it"
+        }
+      ],
+      "prompt": "Match each item with what it does."
+    },
+    "mcq": {
+      "answerCite": {
+        "match": "exact",
+        "page": 5,
+        "printedPage": null,
+        "quote": "A) Immediately report the issue and isolate the equipment from use",
+        "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+        "src": "paper-written-inclusivity-maintenance"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Immediately report the issue and isolate the equipment from use",
+        "Proceed with use until a replacement is available",
+        "Relocate it to another area to avoid detection",
+        "Dispose of or sell the equipment without informing others"
+      ],
+      "prompt": "What should be done with damaged or unsafe equipment?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Any faults identified in operation must be reported",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "to the appropriate authority.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Faults found in operation must be reported to the appropriate authority."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Faulty equipment is removed",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "from service",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Faulty equipment is removed from service."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "They must be able to use them in accordance to the",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "manufacturer's manuals as this would evidently extend the life of the equipment and",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Use tools according to the manufacturer's manuals. This extends their life."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "The users manuals must be kept handy and within the area where the",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "equipment is kept for immediate reference.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Users manuals must be kept handy where the equipment is kept."
+        }
+      ],
+      "modelAnswer": "Maintaining training equipment and tools is essential for safety, efficiency and longevity. Steps:\n1. Regular Inspection\n2. Cleaning\n3. Proper Storage\n4. Preventive Maintenance\n5. Repair and Replacement\n6. Documentation\n7. Training and Awareness",
+      "prompt": "What are the steps involved in maintaining training equipment and tools?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "One best source",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "of the list of maintenance activities of an equipment is its manufacturer's manual In",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "the absence of it, the plan can be derived from the known maintenance methods of",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The best source is its manufacturer's manual. Without it, use known maintenance methods."
+      },
+      "prompt": "Where do you find the maintenance activities for a piece of equipment?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Maintaining training equipment and tools is essential for safety, efficiency, and longevity. Here\nare the key steps involved:\nRegular Inspection.\nCleaning.\nProper Storage.\nPreventive Maintenance.\nRepair and Replacement.\nDocumentation.\nTraining and Awareness.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-written-inclusivity-maintenance-short-q9",
+      "kind": "paper",
+      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (Short 9)",
+      "page": 4,
+      "paperClass": "official",
+      "printedPage": null,
+      "question": "What are the steps involved in maintaining training equipment and tools?",
+      "src": "paper-written-inclusivity-maintenance",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": 0,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-written-inclusivity-maintenance-mcq-q8",
+      "kind": "paper",
+      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 8)",
+      "options": [
+        "Immediately report the issue and isolate the equipment from use",
+        "Proceed with use until a replacement is available",
+        "Relocate it to another area to avoid detection",
+        "Dispose of or sell the equipment without informing others"
+      ],
+      "page": 2,
+      "paperClass": "official",
+      "printedPage": null,
+      "question": "What should be done with damaged or unsafe equipment?",
+      "src": "paper-written-inclusivity-maintenance",
+      "type": "mcq"
+    }
+  ],
+  "score": 4,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Steps in Maintaining Training Equipment and Tools",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "1.5\nRepair",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Tool maintenance activities checklist",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Inspections of facilities and",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Cleaning and lubricating of",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Tagging of defective tools and",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Disinfecting tools and",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Tool maintenance activities checklist: inspections, cleaning and lubricating, tagging, disinfecting, repair."
+    },
+    {
+      "cites": [
+        {
+          "match": "exact",
+          "page": 5,
+          "printedPage": null,
+          "quote": "A) Immediately report the issue and isolate the equipment from use",
+          "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+          "src": "paper-written-inclusivity-maintenance"
+        },
+        {
+          "match": "exact",
+          "page": 2,
+          "printedPage": null,
+          "quote": "B) Proceed with use until a replacement is available",
+          "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+          "src": "paper-written-inclusivity-maintenance"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Immediately report the issue and isolate the equipment from use. Do not proceed with use."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 39,
+          "printedPage": 39,
+          "quote": "The proper use of the training tools and equipment is the first and foremost task in",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 39,
+          "printedPage": 39,
+          "quote": "the maintenance",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Proper use of tools and equipment is the first and foremost task in maintenance."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

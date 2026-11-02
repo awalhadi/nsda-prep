@@ -30,7 +30,7 @@
     "PPE সবার শেষে আসে, তাই একে last resort বলে।"
   ],
   "breakdown": {
-    "exam": 4,
+    "exam": 8,
     "highlight": 3,
     "repeat": 1
   },
@@ -43,8 +43,8 @@
   "highlighted": true,
   "id": "hierarchy-of-controls",
   "importance": {
-    "bn": "Final Formative 01 (MCQ 3) আর CBLM 3 Self Check 1 (Q4): 2 জায়গায় এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
-    "en": "Asked in Final Formative 01 (MCQ 3) and CBLM 3 Self Check 1 (Q4). Highlighted in CBLM 3. Comes as MCQ and short question."
+    "bn": "Final Formative 01 (MCQ 3), Unit 02 Short Questions (Short 17), Short Questions (Short 12) আর CBLM 3 Self Check 1 (Q4): 4 জায়গায় এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Final Formative 01 (MCQ 3), Unit 02 Short Questions (Short 17), Short Questions (Short 12) and CBLM 3 Self Check 1 (Q4). Highlighted in CBLM 3. Comes as MCQ and short question."
   },
   "keywords": [
     {
@@ -501,9 +501,39 @@
       "question": "According to the hierarchy of controls, which control is always considered the control of last resort?",
       "src": "paper-final-formative-01",
       "type": "mcq"
+    },
+    {
+      "answer": "• PPE\n• Admin\n• Engineering\n• Isolation\n• Substitutions\n• Elimination",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit02-short-step-4-evaluate-the-results-q17",
+      "kind": "paper",
+      "label": "Unit 02 Short Questions (Short 17)",
+      "page": 4,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Write down the steps of hierarchy of Control from bottom to top?",
+      "src": "paper-unit02-short",
+      "type": "short"
+    },
+    {
+      "answer": "From lowest to highest: PPE → administrative controls →\nengineering controls → isolation → substitution → elimination.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q12",
+      "kind": "paper",
+      "label": "Short Questions (Short 12)",
+      "page": 2,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What is the hierarchy of controls from bottom to top?",
+      "src": "paper-short-questions",
+      "type": "short"
     }
   ],
-  "score": 8,
+  "score": 12,
   "sourceType": "cblm",
   "stars": 3,
   "status": "draft",

@@ -1,0 +1,294 @@
+{
+  "id": "types-of-emergency",
+  "canonical_title": "Types of Emergency",
+  "aliases": [
+    "Types of emergencies in a CBT&A environment",
+    "Emergencies"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p40-c3c23828",
+    "cblm03-p41-7fcdb7ba"
+  ],
+  "questions": [
+    "paper-unit02-short-step-4-evaluate-the-results-q7"
+  ],
+  "one_line_answer": {
+    "text": "You can also stay safe at work by knowing what to do in an emergency.",
+    "fidelity": "verbatim",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 40,
+        "quote": "You can also stay safe at work by knowing what to do in an emergency.",
+        "passageId": "cblm03-p40-c3c23828"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Emergency",
+      "bn": "জরুরি অবস্থা"
+    },
+    {
+      "en": "Explosion",
+      "bn": "বিস্ফোরণ"
+    },
+    {
+      "en": "Hazardous material spill",
+      "bn": "বিপজ্জনক পদার্থ ছড়িয়ে পড়া"
+    },
+    {
+      "en": "Severe weather",
+      "bn": "প্রবল ঝড়-বৃষ্টি"
+    },
+    {
+      "en": "Violence",
+      "bn": "সহিংসতা"
+    }
+  ],
+  "bangla_explanation": [
+    "Emergency-তে কী করতে হবে জানা থাকলে নিজেকে ও অন্যকে safe রাখা যায়।",
+    "পাঁচ ধরনের emergency: fire বা explosion, injury, hazardous material spill, violence, severe weather।",
+    "প্রশ্নে চারটি চাইলেও পাঁচটিই লিখতে পারেন।",
+    "Emergency Response Plan-এ আরও আছে bomb threat, gas leak, medical emergency।"
+  ],
+  "example": {
+    "en": "Heavy rain floods a ground-floor workshop in a TTC. This is severe weather. Everyone follows the emergency plan.",
+    "bn": "টিটিসির নিচতলার ওয়ার্কশপে ভারী বৃষ্টিতে পানি ঢুকলে তা severe weather emergency।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Fire, Explosion",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "Fire, Explosion • Injury"
+          }
+        ]
+      },
+      {
+        "text": "Injury",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "Fire, Explosion • Injury"
+          }
+        ]
+      },
+      {
+        "text": "Hazardous Material Spill",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "Hazardous Material Spill"
+          }
+        ]
+      },
+      {
+        "text": "Violence",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Violence • Severe Weather",
+            "passageId": "cblm03-p41-7fcdb7ba"
+          }
+        ]
+      },
+      {
+        "text": "Severe Weather",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Violence • Severe Weather"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "List 4 types of emergencies? CBLM 3 lists five types of emergency.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "paper-unit02-short",
+          "page": 2,
+          "quote": "List 4 types of emergencies in a CIII&A environment?"
+        },
+        {
+          "src": "cblm03",
+          "page": 40,
+          "quote": "Types of Emergency"
+        }
+      ]
+    },
+    {
+      "text": "The Emergency Response Plan list is different: bomb threat, fire, gas leak, medical emergency.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Bomb Threat"
+        },
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Fire • Gas Leak • Medical Emergency"
+        },
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Emergency Response Plans"
+        }
+      ]
+    },
+    {
+      "text": "It's important that everyone knows what to do in an emergency.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 40,
+          "quote": "It's important that everyone knows what to do in these situations."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "List 4 types of emergencies in a CBT&A environment.",
+      "modelAnswer": "Types of emergency:\n1. Fire, Explosion\n2. Injury\n3. Hazardous Material Spill\n4. Violence\n5. Severe Weather",
+      "keyPoints": [
+        {
+          "text": "Make sure you know the emergency procedures in your workplace.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 41,
+              "quote": "Make sure you know the emergency procedures in your workplace."
+            }
+          ]
+        },
+        {
+          "text": "Before using a fire extinguisher, make sure you're trained on its proper use.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 41,
+              "quote": "Before using a fire extinguisher or other emergency equipment, make sure"
+            },
+            {
+              "src": "cblm03",
+              "page": 41,
+              "quote": "you're trained on its proper use."
+            }
+          ]
+        },
+        {
+          "text": "Emergency equipment includes fire extinguishers, fire blankets, stretchers and spill kits.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 41,
+              "quote": "Your workplace may have emergency equipment available, including:"
+            },
+            {
+              "src": "cblm03",
+              "page": 41,
+              "quote": "fire extinguishers • fire blankets • stretchers"
+            },
+            {
+              "src": "cblm03",
+              "page": 41,
+              "quote": "spill kits"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a type of emergency in CBLM 3?",
+      "options": [
+        "Hazardous Material Spill",
+        "Job rotation",
+        "Risk register",
+        "Lockout"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 40,
+        "quote": "Hazardous Material Spill"
+      }
+    },
+    "matching": {
+      "prompt": "Match each emergency with something that helps.",
+      "pairs": [
+        {
+          "left": "Fire, Explosion",
+          "right": "Fire extinguishers and fire blankets",
+          "cite": {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "fire extinguishers • fire blankets"
+          }
+        },
+        {
+          "left": "Hazardous material spill",
+          "right": "Spill kits",
+          "cite": {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "flashlights • spill kits"
+          }
+        },
+        {
+          "left": "Injury",
+          "right": "First aid treatment",
+          "cite": {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "If you get hurt 1. Get first aid treatment"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why should everyone know what to do in an emergency?",
+      "answer": {
+        "text": "Knowing what to do in an emergency helps you stay safe at work.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "You can also stay safe at work by knowing what to do in an emergency."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "traps[0]",
+      "note": "paper-unit02-short Q7 asks for 4 types ('CIII&A' is an OCR/typing error for CBT&A); CBLM 3 p.40-41 lists five. Paper answer also lists five."
+    }
+  ]
+}

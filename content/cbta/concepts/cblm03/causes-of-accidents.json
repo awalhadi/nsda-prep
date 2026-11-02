@@ -1,0 +1,305 @@
+{
+  "id": "causes-of-accidents",
+  "canonical_title": "Causes of Accidents",
+  "aliases": [
+    "Causes for accidents",
+    "Four causes of workplace accidents"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p20-7110eda4",
+    "cblm03-p21-89ca91e6"
+  ],
+  "questions": [
+    "paper-short-questions-q14"
+  ],
+  "one_line_answer": {
+    "text": "Normally, accidents do not just happen. They are caused.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 20,
+        "quote": "Causes for accidents:",
+        "passageId": "cblm03-p20-7110eda4"
+      },
+      {
+        "src": "cblm03",
+        "page": 20,
+        "quote": "Normally accidents do not just happen. They are caused"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Negligence",
+      "bn": "অবহেলা"
+    },
+    {
+      "en": "Unawareness",
+      "bn": "না জানা"
+    },
+    {
+      "en": "Disregard",
+      "bn": "গুরুত্ব না দেওয়া"
+    },
+    {
+      "en": "Untidy",
+      "bn": "অগোছালো"
+    },
+    {
+      "en": "Ventilation",
+      "bn": "বাতাস চলাচল"
+    }
+  ],
+  "bangla_explanation": [
+    "Accident এমনি এমনি হয় না, এর পেছনে কারণ থাকে।",
+    "বেশিরভাগ কারণ মানুষের আচরণ: danger না জানা, safety-কে গুরুত্ব না দেওয়া, negligence।",
+    "কিছু কারণ পরিবেশের: untidy workplace, কম light ও ventilation, unsafe conditions।",
+    "Hazard দেখেও কিছু না করলে আপনিও accident-এর জন্য দায়ী।"
+  ],
+  "example": {
+    "en": "In a carpentry shop, tools lie on the floor and the light is poor. A trainee trips and falls.",
+    "bn": "কাঠের ওয়ার্কশপে মেঝেতে tools পড়ে আছে, আলোও কম: untidy workplace আর কম light দুটোই কারণ।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Unawareness of danger",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 21,
+            "quote": "Unawareness of danger",
+            "passageId": "cblm03-p21-89ca91e6"
+          }
+        ]
+      },
+      {
+        "text": "Disregard for safety",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 21,
+            "quote": "Disregard for safety"
+          }
+        ]
+      },
+      {
+        "text": "Negligence",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 21,
+            "quote": "Negligence 9 Lack of"
+          }
+        ]
+      },
+      {
+        "text": "Lack of understanding of proper safety procedures",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 21,
+            "quote": "Lack of understanding of proper safety procedures"
+          }
+        ]
+      },
+      {
+        "text": "Untidy condition of workplace",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 21,
+            "quote": "Untidy condition of workplace"
+          }
+        ]
+      },
+      {
+        "text": "Inadequate light and ventilation",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 21,
+            "quote": "Inadequate light and ventilation"
+          }
+        ]
+      },
+      {
+        "text": "Improper use of tools",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 21,
+            "quote": "Improper use of tools"
+          }
+        ]
+      },
+      {
+        "text": "Unsafe conditions",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 21,
+            "quote": "Unsafe conditions"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Anybody who sees a hazard and does nothing contributes to an accident.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 21,
+          "quote": "Anybody who sees a hazard and does nothing about it is contributing to the possibility of an accident."
+        }
+      ]
+    },
+    {
+      "text": "Poor housekeeping is the same as untidy condition of workplace.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "paper-short-questions",
+          "page": 2,
+          "quote": "poor housekeeping; inadequate lighting or"
+        },
+        {
+          "src": "cblm03",
+          "page": 21,
+          "quote": "Untidy condition of workplace"
+        }
+      ]
+    },
+    {
+      "text": "People's attitudes govern what they do or fail to do.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 21,
+          "quote": "People's attitudes govern what they do or fail to do."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "List four causes of workplace accidents.",
+      "modelAnswer": "Causes for accidents (write any four):\n1. Unawareness of danger\n2. Disregard for safety\n3. Negligence\n4. Lack of understanding of proper safety procedures\n5. Untidy condition of workplace\n6. Inadequate light and ventilation\n7. Improper use of tools\n8. Unsafe conditions",
+      "keyPoints": [
+        {
+          "text": "Most accidents are caused by people, like leaving tools lying about.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 21,
+              "quote": "Most accidents don't just happen; they are caused by people who"
+            },
+            {
+              "src": "cblm03",
+              "page": 21,
+              "quote": "leave tools and equipment lying about for other people to trip over"
+            }
+          ]
+        },
+        {
+          "text": "Anybody who sees a hazard and does nothing contributes to an accident.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 21,
+              "quote": "Anybody who sees a hazard and does nothing about it is contributing to the possibility of an accident."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a cause of accidents?",
+      "options": [
+        "Improper use of tools",
+        "Regular drills",
+        "Job rotation",
+        "Induction training"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 21,
+        "quote": "Improper use of tools"
+      }
+    },
+    "matching": {
+      "prompt": "Match each cause with its detail.",
+      "pairs": [
+        {
+          "left": "Unawareness",
+          "right": "Of danger",
+          "cite": {
+            "src": "cblm03",
+            "page": 21,
+            "quote": "Unawareness of danger"
+          }
+        },
+        {
+          "left": "Disregard",
+          "right": "For safety",
+          "cite": {
+            "src": "cblm03",
+            "page": 21,
+            "quote": "Disregard for safety"
+          }
+        },
+        {
+          "left": "Improper use",
+          "right": "Of tools",
+          "cite": {
+            "src": "cblm03",
+            "page": 21,
+            "quote": "Improper use of tools"
+          }
+        },
+        {
+          "left": "Untidy condition",
+          "right": "Of workplace",
+          "cite": {
+            "src": "cblm03",
+            "page": 21,
+            "quote": "Untidy condition of workplace"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Can a worker cause an accident by doing nothing?",
+      "answer": {
+        "text": "Yes. Anybody who sees a hazard and does nothing contributes to an accident.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 21,
+            "quote": "Anybody who sees a hazard and does nothing about it is contributing to the possibility of an accident."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

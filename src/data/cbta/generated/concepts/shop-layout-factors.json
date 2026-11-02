@@ -1,0 +1,851 @@
+{
+  "aliases": [
+    "Shop layout factors",
+    "Factors in laying out a workshop",
+    "Workshop layout"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 20,
+          "printed": 20
+        },
+        {
+          "pdf": 21,
+          "printed": 21
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "Shop বা workshop সাজানোর আগে অনেকগুলো বিষয় ভাবতে হয়।",
+    "শুরু হয় floor plan দিয়ে: কতটুকু জায়গা আছে।",
+    "তারপর আলো, ventilation, power supply আর machine placement।",
+    "চলাচলের পথ, storage, first aid আর future expansion ভুললে পরে বিপদ আর খরচ দুটোই বাড়ে।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "ওয়েল্ডিং শপে মেশিন বসানোর আগে চলাচলের পথ আর scrap bins-এর জায়গা ঠিক করা।",
+    "en": "A welding shop plans machine places first. It keeps lanes of travel clear and scrap bins near."
+  },
+  "highlighted": true,
+  "id": "shop-layout-factors",
+  "importance": {
+    "bn": "CBLM 6-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 6."
+  },
+  "keywords": [
+    {
+      "bn": "কোথায় কী বসানো হবে তার নকশা",
+      "en": "Layout"
+    },
+    {
+      "bn": "ঘরের মেঝের নকশা, মোট জায়গা",
+      "en": "Floor plan"
+    },
+    {
+      "bn": "মেশিন বসানোর জায়গা",
+      "en": "Machine placement"
+    },
+    {
+      "bn": "চলাচলের পথ",
+      "en": "Lanes of travel"
+    },
+    {
+      "bn": "ভবিষ্যতে বাড়ানোর সুযোগ",
+      "en": "Future expansion"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "passageId": "cblm06-p20-91baba1a",
+            "printedPage": 20,
+            "quote": "Floor plan of the building or shop (available space)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Floor plan of the building or shop (available space)"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Amount and source of light (natural and artificial)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Amount and source of light (natural and artificial)"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Ventilation",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Ventilation"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Electrical outlet and power supply",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Electrical outlet and power supply"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Machine placement (space allowed and accessibility)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Machine placement (space allowed and accessibility)"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Production work organization sequence",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Production work organization sequence"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Wash rack and restroom facilities",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Wash rack and restroom facilities"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Shop departments (space for each)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Shop departments (space for each)"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Location of chalkboard, bulletin boards",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Location of chalkboard, bulletin boards"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Instructor's desk, filing cabinets",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Instructor's desk, filing cabinets"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Assembly space",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Assembly space"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Location of classroom within shop",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Location of classroom within shop"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Demonstration bench and facilities",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Demonstration bench and facilities"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Arrangement of reference material",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Arrangement of reference material"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Time keeping facilities",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Time keeping facilities"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Locker facilities",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Locker facilities"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Storage room and facilities (arrangement and location)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Storage room and facilities (arrangement and location)"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Scrap bins",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Scrap bins"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Lanes of travel",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Lanes of travel"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Pillars • Partitions",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Pillars"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Partitions",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Partitions"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 21,
+            "passageId": "cblm06-p21-0e29220a",
+            "printedPage": 21,
+            "quote": "Future expansion",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Future expansion"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Shop hazards",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Shop hazards"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Student capacity required",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Student capacity required"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "First aid supplies",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "First aid supplies"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Project storage, lockers",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Project storage, lockers"
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 20,
+        "printedPage": 20,
+        "quote": "Factors to consider in laying out a shop",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 20,
+        "printedPage": 20,
+        "quote": "Floor plan of the building or shop (available space)",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 20,
+        "printedPage": 20,
+        "quote": "Amount and source of light (natural and artificial)",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 20,
+        "printedPage": 20,
+        "quote": "Ventilation",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 20,
+        "printedPage": 20,
+        "quote": "Electrical outlet and power supply",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Shop layout starts with the floor plan, light, ventilation and power supply."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Floor plan of the building or shop (available space)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Floor plan",
+          "right": "Available space"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Amount and source of light (natural and artificial)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Light",
+          "right": "Natural and artificial"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Machine placement (space allowed and accessibility)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Machine placement",
+          "right": "Space allowed and accessibility"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Shop departments (space for each)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Shop departments",
+          "right": "Space for each"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Storage room and facilities (arrangement and location)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Storage room and facilities",
+          "right": "Arrangement and location"
+        }
+      ],
+      "prompt": "Match each layout factor with its detail."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 20,
+        "printedPage": 20,
+        "quote": "Lanes of travel",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Trainee's family income",
+        "Lanes of travel",
+        "Colour of trainees' uniforms",
+        "Number of holidays"
+      ],
+      "prompt": "Which of these is a factor to consider in laying out a shop?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Floor plan of the building or shop (available space)",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Floor plan of the building or shop shows the available space."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Machine placement (space allowed and accessibility)",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Machine placement needs space allowed and accessibility."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Lanes of travel",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Storage room and facilities (arrangement and location)",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Scrap bins",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Plan lanes of travel, storage and scrap bins."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Shop hazards",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Student capacity required",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Future expansion",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Consider shop hazards, student capacity and future expansion."
+        }
+      ],
+      "modelAnswer": "Factors to consider in laying out a shop:\n1. Floor plan (available space)\n2. Amount and source of light\n3. Ventilation\n4. Electrical outlet and power supply\n5. Machine placement\n6. Production work organization sequence\n7. Storage room and facilities\n8. Lanes of travel\n9. Shop hazards\n10. Student capacity required\n11. First aid supplies\n12. Future expansion",
+      "prompt": "Write down the factors to consider in laying out a shop."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Floor plan of the building or shop (available space)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Ventilation",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Machine placement (space allowed and accessibility)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Floor plan, ventilation and machine placement."
+      },
+      "prompt": "Name three factors you consider when laying out a shop."
+    }
+  },
+  "realQuestions": [],
+  "score": 4,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Factors to Consider in Laying Out a Shop",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 21,
+          "printedPage": 21,
+          "quote": "Future expansion",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 21,
+          "printedPage": 21,
+          "quote": "Shop hazards",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 21,
+          "printedPage": 21,
+          "quote": "Student capacity required",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 21,
+          "printedPage": 21,
+          "quote": "First aid supplies",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 21,
+          "printedPage": 21,
+          "quote": "Project storage, lockers",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Last five: future expansion, shop hazards, student capacity, first aid, project storage."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 20,
+          "printedPage": 20,
+          "quote": "Factors to consider in laying out a shop",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 21,
+          "printedPage": 21,
+          "quote": "Shop hazards",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 21,
+          "printedPage": 21,
+          "quote": "First aid supplies",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 20,
+          "printedPage": 20,
+          "quote": "Floor plan of the building or shop (available space)",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Shop hazards and first aid supplies are factors too, not only space."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

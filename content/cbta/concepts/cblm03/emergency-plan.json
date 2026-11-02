@@ -1,0 +1,371 @@
+{
+  "id": "emergency-plan",
+  "canonical_title": "Workplace Emergency Plan",
+  "aliases": [
+    "What a workplace emergency plan should include",
+    "Emergency Response Plan",
+    "Reporting procedure"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p41-2c0509f8",
+    "cblm03-p42-9ae17b15",
+    "cblm03-p44-f5608b4f"
+  ],
+  "questions": [
+    "cblm03-sc3-q2",
+    "paper-unit02-short-step-4-evaluate-the-results-q10"
+  ],
+  "one_line_answer": {
+    "text": "A workplace emergency procedure includes an emergency plan and emergency equipment.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 41,
+        "quote": "The procedure"
+      },
+      {
+        "src": "cblm03",
+        "page": 41,
+        "quote": "will include an emergency plan and emergency equipment."
+      },
+      {
+        "src": "cblm03",
+        "page": 41,
+        "quote": "A workplace emergency plan should include:",
+        "passageId": "cblm03-p41-2c0509f8"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Emergency plan",
+      "bn": "জরুরি অবস্থার পরিকল্পনা"
+    },
+    {
+      "en": "Alarm system",
+      "bn": "সতর্ক সংকেত ব্যবস্থা"
+    },
+    {
+      "en": "Escape route",
+      "bn": "বের হওয়ার পথ"
+    },
+    {
+      "en": "Drill",
+      "bn": "মহড়া"
+    },
+    {
+      "en": "Muster point",
+      "bn": "জরুরি সমাবেশের জায়গা"
+    }
+  ],
+  "bangla_explanation": [
+    "Emergency হলে কী করতে হবে তা আগে plan করা থাকলে মানুষ নিরাপদে বের হতে পারে।",
+    "Plan-এ আটটি বিষয়: reporting procedure, alarm, duties, escape routes, communication, key people, drills, building map।",
+    "Drills নিয়মিত করতে হয় আর তার record রাখতে হয়।",
+    "Emergency Response Plan workplace-এ সবার চোখে পড়ে এমন জায়গায় টাঙিয়ে রাখতে হয়।"
+  ],
+  "example": {
+    "en": "A technical training centre puts a building map near each door. It shows escape routes and the safe meeting area.",
+    "bn": "কারিগরি প্রশিক্ষণ কেন্দ্রের প্রতিটি দরজার পাশে building map: escape routes আর safe meeting area দেখানো।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Reporting Procedure",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Reporting Procedure • Description"
+          },
+          {
+            "src": "cblm03",
+            "page": 44,
+            "quote": "02. A workplace emergency plan should include: • Reporting Procedure",
+            "passageId": "cblm03-p44-f5608b4f"
+          }
+        ]
+      },
+      {
+        "text": "Description of alarm system",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Description of alarm system"
+          }
+        ]
+      },
+      {
+        "text": "Duties and responsibilities",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Duties and responsibilities"
+          }
+        ]
+      },
+      {
+        "text": "Escape routes and safe meeting area",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Escape routes and safe meeting area"
+          }
+        ]
+      },
+      {
+        "text": "Communication method",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Communication method"
+          }
+        ]
+      },
+      {
+        "text": "Names and numbers of key people",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Names and numbers of key people"
+          }
+        ]
+      },
+      {
+        "text": "Regular drills",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Regular drills • Map"
+          }
+        ]
+      },
+      {
+        "text": "Map of the building",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Map of the building"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "The Emergency Response Plan list differs: location, muster point, personnel, alarm, evacuation.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Emergency Response Plans must take into account all aspects of any foreseeable",
+          "passageId": "cblm03-p42-9ae17b15"
+        },
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Workplace location and layout"
+        },
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Muster point(s) or emergency assembly location(s)"
+        },
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Identification of all personnel appointed"
+        },
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Arrangements for raising the alarm"
+        },
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Emergency evacuation arrangements"
+        }
+      ]
+    },
+    {
+      "text": "Managers having control of a workplace develop the site Emergency Response Plan.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Managers having control of a workplace are responsible for developing a site specific Emergency Response Plan."
+        }
+      ]
+    },
+    {
+      "text": "The Emergency Response Plan must be displayed prominently throughout the workplace.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "The Emergency Response Plan must be displayed prominently throughout the"
+        }
+      ]
+    },
+    {
+      "text": "Emergency arrangements should be practised periodically, and a record kept.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Emergency arrangements should be tested / practised periodically, and a record kept"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What should a workplace emergency plan include?",
+      "modelAnswer": "A workplace emergency plan should include:\n1. Reporting Procedure\n2. Description of alarm system\n3. Duties and responsibilities\n4. Escape routes and safe meeting area\n5. Communication method\n6. Names and numbers of key people\n7. Regular drills\n8. Map of the building",
+      "keyPoints": [
+        {
+          "text": "Employees and visitors must know the emergency arrangements, usually at induction.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Employees and visitors to site must be aware of the emergency arrangements for the"
+            },
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "this is usually part of the induction"
+            }
+          ]
+        },
+        {
+          "text": "Anybody with an emergency response role must get the necessary training.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Anybody who has an emergency response role must be aware of their responsibility"
+            },
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "provided with the necessary training"
+            }
+          ]
+        },
+        {
+          "text": "A reporting procedure says what to do when an emergency happens.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Reporting procedure is the process to what to do when the"
+            },
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "emergency situation happened"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which should a workplace emergency plan include?",
+      "options": [
+        "Escape routes and safe meeting area",
+        "Job rotation",
+        "Risk matrix",
+        "Hierarchy of controls"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 41,
+        "quote": "Escape routes and safe meeting area"
+      }
+    },
+    "matching": {
+      "prompt": "Match each 'Be prepared' question with the plan item that answers it.",
+      "pairs": [
+        {
+          "left": "Where are the emergency exits?",
+          "right": "Escape routes",
+          "cite": {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Where are the emergency exits?"
+          }
+        },
+        {
+          "left": "Who do I report an emergency to?",
+          "right": "Reporting Procedure",
+          "cite": {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Who do I report an emergency to?"
+          }
+        },
+        {
+          "left": "Where are the fire alarms?",
+          "right": "Description of alarm system",
+          "cite": {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Where are the fire alarms?"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Who develops the Emergency Response Plan?",
+      "answer": {
+        "text": "Managers having control of a workplace develop it.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "Managers having control of a workplace are responsible for developing a site"
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "traps[0]",
+      "note": "CBLM 3 p.42 lists 'Emergency telephone number - 000' in the Emergency Response Plan. The card does not teach this number; a reviewer should confirm the local emergency number before adding it."
+    },
+    {
+      "path": "traps[0]",
+      "note": "Two lists exist: 'workplace emergency plan' (p.41, 8 items, used by Self Check and paper) and 'Emergency Response Plan' information (p.42, 7 items). Card teaches p.41 and shows p.42 as a trap."
+    }
+  ]
+}

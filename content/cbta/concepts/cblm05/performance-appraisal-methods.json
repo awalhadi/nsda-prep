@@ -1,0 +1,199 @@
+{
+  "id": "performance-appraisal-methods",
+  "canonical_title": "Performance Appraisal Methods (CBLM 5)",
+  "aliases": [
+    "Evaluation and Feedback",
+    "Different performance appraisal methods",
+    "Self-assessment, statistical, peer or team, formal appraisal"
+  ],
+  "cblmPrimary": 5,
+  "source_type": "cblm",
+  "covers": [
+    "cblm05-p24-4aa83fb5",
+    "cblm05-p24-3a06fc9d",
+    "cblm05-p24-e4d3d3f0",
+    "cblm05-p24-8102ceb4",
+    "cblm05-p24-09bc3286",
+    "cblm05-p24-7026d0f1"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Performance appraisal methods are self-assessment, statistical, peer or team assessment, and formal appraisal.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm05", "page": 24, "quote": "Evaluation and Feedback", "passageId": "cblm05-p24-4aa83fb5" },
+      { "src": "cblm05", "page": 24, "quote": "Different performance appraisal methods are illustrated below" },
+      { "src": "cblm05", "page": 24, "quote": "Method Description Self-assessment", "passageId": "cblm05-p24-3a06fc9d" },
+      { "src": "cblm05", "page": 24, "quote": "goal achievement. Statistical" },
+      { "src": "cblm05", "page": 24, "quote": "Peer or team Team members provide performance Assessment" },
+      { "src": "cblm05", "page": 24, "quote": "Formal appraisal Usually conducted" }
+    ]
+  },
+  "keywords": [
+    { "en": "Performance appraisal", "bn": "কাজের মান মূল্যায়ন" },
+    { "en": "Self-assessment", "bn": "নিজের রেকর্ড দেখে নিজেই মূল্যায়ন" },
+    { "en": "Statistical", "bn": "সংখ্যা ও তথ্যভিত্তিক" },
+    { "en": "Peer", "bn": "সমপর্যায়ের সহকর্মী" },
+    { "en": "Set criteria", "bn": "আগে থেকে ঠিক করা মানদণ্ড" }
+  ],
+  "bangla_explanation": [
+    "Performance appraisal মানে আপনার কাজ কেমন হচ্ছে তার মূল্যায়ন; এখানে ৪টি methods আছে।",
+    "Self assessment-এ নিজের diaries বা action plans দেখে নিজেই performance review করেন।",
+    "Statistical-এ objective তথ্য লাগে, যেমন client numbers আর client ratings।",
+    "Peer or team assessment-এ team members মিটিংয়ে goals আর outcomes মিলিয়ে feedback দেন; formal appraisal প্রতিষ্ঠান নিয়মিত set criteria দিয়ে করে।",
+    "Feedback পেলে defensive না হয়ে constructive মনোভাব রাখুন।"
+  ],
+  "example": {
+    "en": "A computer trainer counts how many trainees finish and their ratings. This is a statistical appraisal.",
+    "bn": "কতজন course শেষ করল আর কত rating দিল — এই সংখ্যা দেখা হলো statistical method।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Self-assessment: uses diaries, action plans or other personal records to review performance.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 24,
+            "quote": "Self-assessment Uses records of work activities such as diaries, action plans or other personal records to review performance",
+            "passageId": "cblm05-p24-e4d3d3f0"
+          }
+        ]
+      },
+      {
+        "text": "Statistical: uses objective information, for example client numbers and client ratings.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 24,
+            "quote": "Statistical Uses objective information to monitor task achievement, for example client numbers and client ratings.",
+            "passageId": "cblm05-p24-8102ceb4"
+          }
+        ]
+      },
+      {
+        "text": "Peer or team assessment: team members give feedback, comparing goals with performance or outcomes.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 24,
+            "quote": "Team members provide performance Assessment feedback, such as in a group meeting where goals or objectives are compared with performance or outcomes.",
+            "passageId": "cblm05-p24-09bc3286"
+          }
+        ]
+      },
+      {
+        "text": "Formal appraisal: usually conducted on a routine basis by the organisation, using set criteria.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 24,
+            "quote": "Formal appraisal Usually conducted on a routine basis by the organisation, using set criteria.",
+            "passageId": "cblm05-p24-7026d0f1"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Self-assessment uses your own records. Peer or team assessment uses feedback from team members.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm05", "page": 24, "quote": "Self-assessment Uses records of work activities such as diaries, action plans or other personal records" },
+        { "src": "cblm05", "page": 24, "quote": "Peer or team Team members provide performance Assessment feedback" }
+      ]
+    },
+    {
+      "text": "Clarify the feedback by paraphrasing and asking questions.",
+      "fidelity": "verbatim",
+      "cites": [
+        { "src": "cblm05", "page": 24, "quote": "Clarify the feedback by paraphrasing and asking questions" }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Describe the different performance appraisal methods.",
+      "modelAnswer": "There are four performance appraisal methods:\n1. Self-assessment: uses diaries, action plans or personal records to review performance.\n2. Statistical: uses objective information, e.g. client numbers and client ratings.\n3. Peer or team assessment: team members give feedback in a group meeting.\n4. Formal appraisal: done routinely by the organisation, using set criteria.",
+      "keyPoints": [
+        {
+          "text": "All forms of appraisal are valuable if received in a constructive, non-defensive spirit.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm05", "page": 24, "quote": "All of these forms of performance appraisal are valuable to you, particularly if you receive them in a constructive, non-defensive spirit." }
+          ]
+        },
+        {
+          "text": "Self-assessment identifies strengths or weaknesses and the progress of goal achievement.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm05", "page": 24, "quote": "identifying strengths or weaknesses and the progress of goal achievement." }
+          ]
+        },
+        {
+          "text": "Clarify the feedback by paraphrasing and asking questions.",
+          "fidelity": "verbatim",
+          "cites": [
+            { "src": "cblm05", "page": 24, "quote": "Clarify the feedback by paraphrasing and asking questions" }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which appraisal method uses client numbers and client ratings?",
+      "options": [
+        "Self-assessment",
+        "Statistical",
+        "Peer or team assessment",
+        "Formal appraisal"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm05",
+        "page": 24,
+        "quote": "Statistical Uses objective information to monitor task achievement, for example client numbers and client ratings."
+      }
+    },
+    "matching": {
+      "prompt": "Match each appraisal method with its description.",
+      "pairs": [
+        {
+          "left": "Self-assessment",
+          "right": "Uses diaries, action plans or other personal records",
+          "cite": { "src": "cblm05", "page": 24, "quote": "Self-assessment Uses records of work activities such as diaries, action plans or other personal records" }
+        },
+        {
+          "left": "Statistical",
+          "right": "Uses objective information like client ratings",
+          "cite": { "src": "cblm05", "page": 24, "quote": "Statistical Uses objective information to monitor task achievement, for example client numbers and client ratings." }
+        },
+        {
+          "left": "Peer or team",
+          "right": "Team members provide performance feedback",
+          "cite": { "src": "cblm05", "page": 24, "quote": "Peer or team Team members provide performance" }
+        },
+        {
+          "left": "Formal appraisal",
+          "right": "Routine, by the organisation, using set criteria",
+          "cite": { "src": "cblm05", "page": 24, "quote": "Formal appraisal Usually conducted on a routine basis by the organisation, using set criteria." }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "How is a formal appraisal conducted?",
+      "answer": {
+        "text": "It is usually conducted on a routine basis by the organisation, using set criteria.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm05", "page": 24, "quote": "Usually conducted on a routine basis by the organisation, using set criteria." }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

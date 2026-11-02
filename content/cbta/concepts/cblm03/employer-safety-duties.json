@@ -1,0 +1,283 @@
+{
+  "id": "employer-safety-duties",
+  "canonical_title": "Employer's Safety Duties",
+  "aliases": [
+    "Responsibility of an employer in terms of safety",
+    "Employer's role"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p12-69fa6513",
+    "cblm03-p12-42220fe1"
+  ],
+  "questions": [
+    "cblm03-sc1-q5"
+  ],
+  "one_line_answer": {
+    "text": "Your employer is responsible for your health and safety at work, and everyone else's.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 12,
+        "quote": "Your employer is responsible for your health and safety at work, as well as every- one else's."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Employer",
+      "bn": "মালিক বা নিয়োগকর্তা"
+    },
+    {
+      "en": "Policy",
+      "bn": "নীতিমালা"
+    },
+    {
+      "en": "Training",
+      "bn": "প্রশিক্ষণ"
+    },
+    {
+      "en": "Supervision",
+      "bn": "তত্ত্বাবধান"
+    },
+    {
+      "en": "Safety equipment",
+      "bn": "নিরাপত্তা সরঞ্জাম"
+    }
+  ],
+  "bangla_explanation": [
+    "Employer-এর দায়িত্ব শুধু আপনার নয়, সবার health and safety।",
+    "পাঁচটি দায়িত্ব: policy তৈরি, training, information, instruction ও supervision, safety equipment, আর hazards সম্পর্কে information।",
+    "নিজ যাচাই প্রশ্নে তিনটি চায়; প্রথম তিনটি লিখলে answer key-এর সাথে মিলবে।",
+    "Employer-কে Health and Safety Policy সবার চোখে পড়ে এমন জায়গায় রাখতে হয়।"
+  ],
+  "example": {
+    "en": "A polytechnic institute writes a safety policy. It trains new lab staff and gives them gloves and goggles.",
+    "bn": "পলিটেকনিক ইনস্টিটিউট safety policy লেখে, training দেয়, আর safety equipment দেয়।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Establish a health and safety policy and program",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 12,
+            "quote": "Establish a health and safety policy and program",
+            "passageId": "cblm03-p12-42220fe1"
+          }
+        ]
+      },
+      {
+        "text": "Provide required training",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 12,
+            "quote": "Provide required training"
+          }
+        ]
+      },
+      {
+        "text": "Provide the information, instruction and supervision you need to do your job safely",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 12,
+            "quote": "Provide the information, instruction and supervision you need to do your job"
+          }
+        ]
+      },
+      {
+        "text": "Make sure you have necessary safety equipment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 12,
+            "quote": "Make sure you have necessary safety equipment"
+          }
+        ]
+      },
+      {
+        "text": "Provide information on hazards in the workplace",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 12,
+            "quote": "Provide information on hazards in the workplace"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Write down 03 responsibilities of an employer: write the first three duties.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 16,
+          "quote": "Write down 03 responsibility of a employer in terms of Safety"
+        },
+        {
+          "src": "cblm03",
+          "page": 12,
+          "quote": "This responsibility involves several specific duties"
+        }
+      ]
+    },
+    {
+      "text": "The employer must also display the Health and Safety Policy and the Act.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 12,
+          "quote": "your employer must also display important information where"
+        },
+        {
+          "src": "cblm03",
+          "page": 12,
+          "quote": "The Health and Safety Policy"
+        },
+        {
+          "src": "cblm03",
+          "page": 12,
+          "quote": "The Occupational Safety and Health Act"
+        }
+      ]
+    },
+    {
+      "text": "You, your employer and your supervisor all have safety responsibilities.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 12,
+          "quote": "You, your employer and your supervisor all have responsibilities when it comes to",
+          "passageId": "cblm03-p12-69fa6513"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Write down 03 responsibilities of an employer in terms of safety.",
+      "modelAnswer": "An employer is responsible for everyone's health and safety. Duties:\n1. Establish a health and safety policy and program\n2. Provide required training\n3. Provide the information, instruction and supervision you need to do your job safely\n4. Make sure you have necessary safety equipment\n5. Provide information on hazards in the workplace",
+      "keyPoints": [
+        {
+          "text": "Both your employer and supervisor must make sure you have safety training.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "Both your employer and supervisor are responsible for"
+            },
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "making sure you have the safety training you need"
+            }
+          ]
+        },
+        {
+          "text": "The answer key gives: policy and program, required training, and information, instruction and supervision.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 17,
+              "quote": "Establish a health and safety policy and program"
+            },
+            {
+              "src": "cblm03",
+              "page": 17,
+              "quote": "Provide required training"
+            },
+            {
+              "src": "cblm03",
+              "page": 17,
+              "quote": "Provide the information, instruction and supervision you need to do"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is an employer's safety duty?",
+      "options": [
+        "Establish a health and safety policy and program",
+        "Report hazards to your boss",
+        "Work safely and don't fool around",
+        "Refuse unsafe work"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 12,
+        "quote": "Establish a health and safety policy and program"
+      }
+    },
+    "matching": {
+      "prompt": "Match each person with one safety duty.",
+      "pairs": [
+        {
+          "left": "Employer",
+          "right": "Establish a health and safety policy",
+          "cite": {
+            "src": "cblm03",
+            "page": 12,
+            "quote": "Establish a health and safety policy and program"
+          }
+        },
+        {
+          "left": "Supervisor",
+          "right": "Tell you about any job hazards",
+          "cite": {
+            "src": "cblm03",
+            "page": 13,
+            "quote": "Tell you about any job hazards or dangers"
+          }
+        },
+        {
+          "left": "Worker",
+          "right": "Report hazards to your boss",
+          "cite": {
+            "src": "cblm03",
+            "page": 14,
+            "quote": "Report hazards to your boss"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Who is responsible for your health and safety at work?",
+      "answer": {
+        "text": "Your employer is responsible. You and your supervisor also have responsibilities.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 12,
+            "quote": "Your employer is responsible for your health and safety at work"
+          },
+          {
+            "src": "cblm03",
+            "page": 12,
+            "quote": "You, your employer and your supervisor all have responsibilities when it comes to"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

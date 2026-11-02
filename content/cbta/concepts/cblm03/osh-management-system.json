@@ -1,0 +1,333 @@
+{
+  "id": "osh-management-system",
+  "canonical_title": "Occupational Health and Safety Management System",
+  "aliases": [
+    "OSH management",
+    "Elements of OSH management system"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p8-f737548b"
+  ],
+  "questions": [
+    "cblm03-sc1-q2"
+  ],
+  "one_line_answer": {
+    "text": "Occupational health and safety management manages health and safety in a systematic manner.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 7,
+        "quote": "Therefore health and safety need to be managed in a systematic manner."
+      },
+      {
+        "src": "cblm03",
+        "page": 7,
+        "quote": "This is the job of occupational health and safety management."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Management system element",
+      "bn": "ব্যবস্থাপনা পদ্ধতির একটি অংশ"
+    },
+    {
+      "en": "OSH strategy",
+      "bn": "OSH-এর মূল পরিকল্পনা"
+    },
+    {
+      "en": "Corrective action",
+      "bn": "ভুল সংশোধনের পদক্ষেপ"
+    },
+    {
+      "en": "Continual improvement",
+      "bn": "ধারাবাহিক উন্নতি"
+    },
+    {
+      "en": "Legal requirement",
+      "bn": "আইনি বাধ্যবাধকতা"
+    }
+  ],
+  "bangla_explanation": [
+    "Hazards থাকলে কর্মীদের injury-র ঝুঁকি থাকে, তাই health and safety systematic উপায়ে পরিচালনা করতে হয়।",
+    "এই কাজটাই occupational health and safety management।",
+    "Bangladesh-এ OSH এখন একটি legal requirement, তাই নিজ যাচাই প্রশ্নের উত্তর True।",
+    "ছয়টি element মনে রাখুন: Strategy, Planning, Implementation, Checking, Review, Improvement।"
+  ],
+  "example": {
+    "en": "A garments factory writes an OSH strategy and plans fire safety. It checks the plan and keeps improving it.",
+    "bn": "গার্মেন্টস কারখানা OSH strategy লিখে, plan করে, check করে, আর নিয়মিত উন্নতি করে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Defining the OSH Strategy",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Defining the OSH Strategy",
+            "passageId": "cblm03-p8-f737548b"
+          }
+        ]
+      },
+      {
+        "text": "Planning",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Planning Implementation and Operation"
+          }
+        ]
+      },
+      {
+        "text": "Implementation and Operation",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Implementation and Operation"
+          }
+        ]
+      },
+      {
+        "text": "Checking and Corrective Action",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Checking and Corrective Action"
+          }
+        ]
+      },
+      {
+        "text": "Management Review",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Management Review"
+          }
+        ]
+      },
+      {
+        "text": "Continual Improvement",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Continual Improvement"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "True: occupational health and safety already is a legal requirement in Bangladesh.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 16,
+          "quote": "Occupational health and safety already is a legal requirement in Bangladesh. True or False"
+        },
+        {
+          "src": "cblm03",
+          "page": 17,
+          "quote": "Ans: True"
+        },
+        {
+          "src": "cblm03",
+          "page": 7,
+          "quote": "Occupational health and safety already is a legal requirement in several countries like Bangladesh."
+        }
+      ]
+    },
+    {
+      "text": "Some other countries have the system, but its application is still optional.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 7,
+          "quote": "Others have established such system but the application is still optional."
+        }
+      ]
+    },
+    {
+      "text": "The OSH system conforms to the quality management model (ISO9000).",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 7,
+          "quote": "it conforms to the kind of management system as it was developed for quality management (ISO9000)"
+        }
+      ]
+    },
+    {
+      "text": "Elements differ from the risk process: identifying, assessing, taking action, monitoring.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 8,
+          "quote": "Identifying hazards"
+        },
+        {
+          "src": "cblm03",
+          "page": 8,
+          "quote": "Assessing associated risks"
+        },
+        {
+          "src": "cblm03",
+          "page": 8,
+          "quote": "Taking action to mitigate risks"
+        },
+        {
+          "src": "cblm03",
+          "page": 8,
+          "quote": "Monitoring the effectiveness"
+        },
+        {
+          "src": "cblm03",
+          "page": 8,
+          "quote": "The following are the elements of a management system for Occupational"
+        },
+        {
+          "src": "cblm03",
+          "page": 8,
+          "quote": "This gives the frame for the process in occupational health and safety"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Write the elements of a management system for occupational health and safety.",
+      "modelAnswer": "An OSH management system has these elements:\n1. Defining the OSH Strategy\n2. Planning\n3. Implementation and Operation\n4. Checking and Corrective Action\n5. Management Review\n6. Continual Improvement",
+      "keyPoints": [
+        {
+          "text": "Hazards put employees at risk of injury or harm to health.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 7,
+              "quote": "Hazards put employees at risk of injury or harm to health."
+            }
+          ]
+        },
+        {
+          "text": "Risk management is an integral part of occupational health and safety.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 7,
+              "quote": "Risk management is an integral part of performing occupational health and safety."
+            }
+          ]
+        },
+        {
+          "text": "The system is a framework to identify hazards, assess risks, act and review.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 7,
+              "quote": "The management system provides the framework for the process of identifying hazards, assessing associated risks, taking action and reviewing the outcome."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is an element of an OSH management system?",
+      "options": [
+        "Continual Improvement",
+        "Job rotation",
+        "Risk matrix",
+        "Induction"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 8,
+        "quote": "Continual Improvement"
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with the correct fact.",
+      "pairs": [
+        {
+          "left": "OSH in Bangladesh",
+          "right": "A legal requirement",
+          "cite": {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "Occupational health and safety already is a legal requirement in several countries like Bangladesh."
+          }
+        },
+        {
+          "left": "Risk management",
+          "right": "An integral part of OSH",
+          "cite": {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "Risk management is an integral part of performing occupational health and safety."
+          }
+        },
+        {
+          "left": "ISO9000",
+          "right": "Quality management",
+          "cite": {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "developed for quality management (ISO9000)"
+          }
+        },
+        {
+          "left": "Hazards",
+          "right": "Put employees at risk of injury",
+          "cite": {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "Hazards put employees at risk of injury or harm to health."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Is OSH a legal requirement in Bangladesh?",
+      "answer": {
+        "text": "Yes, true. OSH already is a legal requirement in Bangladesh.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "Occupational health and safety already is a legal requirement in several countries like Bangladesh."
+          },
+          {
+            "src": "cblm03",
+            "page": 17,
+            "quote": "Ans: True"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

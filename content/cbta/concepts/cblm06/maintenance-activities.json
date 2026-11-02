@@ -1,0 +1,392 @@
+{
+  "id": "maintenance-activities",
+  "canonical_title": "Maintenance Department Activities (Inspection to Salvage)",
+  "aliases": [
+    "What salvage would involve",
+    "Organization by operation",
+    "Inspection, maintenance, repair, overhaul, construction, housekeeping and salvage"
+  ],
+  "cblmPrimary": 6,
+  "source_type": "cblm",
+  "covers": [
+    "cblm06-p31-78bad334"
+  ],
+  "questions": [
+    "cblm06-sc1-q4",
+    "cblm06-sc1-q5",
+    "paper-written-inclusivity-maintenance-mcq-q10"
+  ],
+  "one_line_answer": {
+    "text": "A maintenance department groups its work into inspection, maintenance, repair, overhaul, construction, housekeeping and salvage.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm06",
+        "page": 27,
+        "quote": "Organizing in a maintenance department is the grouping of activities"
+      },
+      {
+        "src": "cblm06",
+        "page": 27,
+        "quote": "group (or individual for inspection, maintenance. repair, overhaul,"
+      },
+      {
+        "src": "cblm06",
+        "page": 27,
+        "quote": "construction, housekeeping, and salvage."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Inspection",
+      "bn": "পরিদর্শন, যন্ত্র ঠিকমতো ও নিরাপদে চলছে কিনা দেখা"
+    },
+    {
+      "en": "Overhaul",
+      "bn": "খুলে, বদলে, আবার জোড়া দিয়ে test করা"
+    },
+    {
+      "en": "Housekeeping",
+      "bn": "পরিষ্কার-পরিচ্ছন্নতা ও মাঠ-চত্বর দেখাশোনা"
+    },
+    {
+      "en": "Salvage",
+      "bn": "বাড়তি মাল ও scrap উদ্ধার করে নিষ্পত্তি করা"
+    },
+    {
+      "en": "Repair",
+      "bn": "যন্ত্রাংশ বদলে পুরো চালু অবস্থায় ফেরানো"
+    }
+  ],
+  "bangla_explanation": [
+    "Maintenance department-এর কাজ সাত ভাগে ভাগ করা যায়।",
+    "প্রতিটা ভাগের আলাদা group বা লোক থাকে, একে organization by operation বলে।",
+    "পরীক্ষায় housekeeping আর salvage-এর অর্থ চাওয়া হয়, তাই এ দুটো ভালো করে মুখস্থ রাখুন।",
+    "Inspection-এর উদ্দেশ্য: equipment যেন safe ও proper ভাবে চলে।"
+  ],
+  "example": {
+    "en": "In a polytechnic, cleaners keep the workshop and grounds tidy. That is housekeeping. Old printer cartridges kept for other printers is salvage.",
+    "bn": "পরিষ্কার রাখা housekeeping; পুরনো মাল কাজে লাগানো বা নিষ্পত্তি salvage।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Inspection: periodic inspection of equipment to insure safe and proper operation.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Inspection would involve periodic inspection of equipment to insure"
+          },
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "safe and proper operation"
+          }
+        ]
+      },
+      {
+        "text": "Maintenance: lubricating, adjusting and routine replacement (preventive maintenance).",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Maintenance would consist of the lubricating, adjusting, and routine"
+          },
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "replacement usually classified as preventive maintenance"
+          }
+        ]
+      },
+      {
+        "text": "Repair: replacing parts to restore equipment to full operating condition.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Repair would consist of replacing parts to restore a piece of equipment to full"
+          },
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "operating condition"
+          }
+        ]
+      },
+      {
+        "text": "Overhaul: reconditioning of equipment: teardown, replacement, reassembly and testing.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Overhaul would involve the reconditioning of equipment teardown,"
+          },
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "replacement, reassembly, and testing"
+          }
+        ]
+      },
+      {
+        "text": "Construction and rehabilitation: building, modifying and restoring structures.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Construction and rehabilitation would"
+          },
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "consist of building, modifying, and restoring structures."
+          }
+        ]
+      },
+      {
+        "text": "Housekeeping: janitorial and grounds keeping activities for clean, orderly facilities.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Housekeeping would cover those janitorial and grounds keeping activities"
+          },
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "necessary to provide clean and orderly facilities and grounds"
+          }
+        ]
+      },
+      {
+        "text": "Salvage: reclamation and disposition of surplus material and scrap.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Salvage would involve the reclamation and disposition of surplus material and scrap"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Housekeeping covers janitorial and grounds keeping activities, not repair or construction.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 27,
+          "quote": "Housekeeping would cover those janitorial and grounds keeping activities"
+        }
+      ]
+    },
+    {
+      "text": "\"What housekeeping covers?\" key gives: repair or replacing parts; construction and rehabilitation of building.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 31,
+          "quote": "What housekeeping covers?"
+        },
+        {
+          "src": "cblm06",
+          "page": 31,
+          "quote": "a) Repair or replacing parts to restore a piece of equipment to full"
+        },
+        {
+          "src": "cblm06",
+          "page": 31,
+          "quote": "b) Construction and rehabilitation of building, modifying, and restoring"
+        }
+      ]
+    },
+    {
+      "text": "Salvage is reclamation and disposition of surplus material and scrap. Overhaul is reconditioning equipment.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 27,
+          "quote": "Salvage would involve the reclamation and disposition of surplus material and"
+        },
+        {
+          "src": "cblm06",
+          "page": 27,
+          "quote": "Overhaul would involve the reconditioning of equipment teardown,"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What does housekeeping cover? What would salvage involve?",
+      "modelAnswer": "Housekeeping covers janitorial and grounds keeping activities necessary to provide clean and orderly facilities and grounds.\nSalvage involves the reclamation and disposition of surplus material and scrap.\nOther maintenance activities:\n1. Inspection\n2. Maintenance\n3. Repair\n4. Overhaul\n5. Construction and rehabilitation",
+      "keyPoints": [
+        {
+          "text": "Housekeeping covers janitorial and grounds keeping activities for clean and orderly facilities and grounds.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "Housekeeping would cover those janitorial and grounds keeping activities"
+            },
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "necessary to provide clean and orderly facilities and grounds"
+            }
+          ]
+        },
+        {
+          "text": "Salvage involves the reclamation and disposition of surplus material and scrap.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "Salvage would involve the reclamation and disposition of surplus material and scrap"
+            }
+          ]
+        },
+        {
+          "text": "Regular inspection of equipment ensures safe and proper operation.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "Inspection would involve periodic inspection of equipment to insure"
+            },
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "safe and proper operation"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Why is it important to conduct regular inspections of training facilities?",
+      "options": [
+        "To reduce training hours",
+        "To minimize documentation work",
+        "To ensure safety and functionality",
+        "To promote trainer comfort only"
+      ],
+      "answerIndex": 2,
+      "answerCite": {
+        "src": "paper-written-inclusivity-maintenance",
+        "page": 5,
+        "quote": "C) To ensure safety and functionality"
+      }
+    },
+    "matching": {
+      "prompt": "Match each activity with what it involves.",
+      "pairs": [
+        {
+          "left": "Inspection",
+          "right": "Periodic inspection to insure safe and proper operation",
+          "cite": {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Inspection would involve periodic inspection of equipment to insure"
+          }
+        },
+        {
+          "left": "Repair",
+          "right": "Replacing parts to restore full operating condition",
+          "cite": {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Repair would consist of replacing parts to restore a piece of equipment to full"
+          }
+        },
+        {
+          "left": "Overhaul",
+          "right": "Teardown, replacement, reassembly and testing",
+          "cite": {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "replacement, reassembly, and testing"
+          }
+        },
+        {
+          "left": "Construction and rehabilitation",
+          "right": "Building, modifying and restoring structures",
+          "cite": {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "consist of building, modifying, and restoring structures."
+          }
+        },
+        {
+          "left": "Housekeeping",
+          "right": "Janitorial and grounds keeping activities",
+          "cite": {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Housekeeping would cover those janitorial and grounds keeping activities"
+          }
+        },
+        {
+          "left": "Salvage",
+          "right": "Reclamation and disposition of surplus material and scrap",
+          "cite": {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Salvage would involve the reclamation and disposition of surplus material and"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What is organizing in a maintenance department?",
+      "answer": {
+        "text": "Grouping the activities needed to achieve the department's mission. Each group is assigned to a supervisor.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Organizing in a maintenance department is the grouping of activities"
+          },
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "necessary to achieve the mission of the department and the assignment"
+          },
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "of each group to a supervisor."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "questions",
+      "note": "cblm06-sc1-q4 answer key (p.31) gives the p.27 definitions of Repair and Construction/rehabilitation, not housekeeping. Info sheet p.27: housekeeping covers janitorial and grounds keeping activities. Card follows p.27."
+    },
+    {
+      "path": "questions",
+      "note": "cblm06-sc1-q5 answer key (p.31): option a) 'Overhaul or the reconditioning of equipment' is the p.27 definition of Overhaul, not salvage. Option b) matches p.27 but adds 'repair to full operating condition', which belongs to Repair. Card writes p.27: reclamation and disposition of surplus material and scrap."
+    }
+  ]
+}

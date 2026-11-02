@@ -1,0 +1,309 @@
+{
+  "id": "hazard-identification-sources",
+  "canonical_title": "Sources for Hazard Identification",
+  "aliases": [
+    "How can you identify hazards?",
+    "Sources for identifying workplace hazards"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p8-5994e39b",
+    "cblm03-p8-047e0d8c"
+  ],
+  "questions": [
+    "paper-unit02-short-q2",
+    "paper-short-questions-q76"
+  ],
+  "one_line_answer": {
+    "text": "Sources for hazard identification include past incidents, employee input and examining workplaces.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 8,
+        "quote": "Sources for hazard identification can be:",
+        "passageId": "cblm03-p8-5994e39b"
+      },
+      {
+        "src": "cblm03",
+        "page": 8,
+        "quote": "Past incidents and accidents"
+      },
+      {
+        "src": "cblm03",
+        "page": 8,
+        "quote": "Input by employees"
+      },
+      {
+        "src": "cblm03",
+        "page": 8,
+        "quote": "Examining workplaces or work areas"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Hazard identification",
+      "bn": "বিপদের উৎস খুঁজে বের করা"
+    },
+    {
+      "en": "Incident",
+      "bn": "ঘটে যাওয়া দুর্ঘটনা বা প্রায়-দুর্ঘটনা"
+    },
+    {
+      "en": "Brainstorming",
+      "bn": "সবাই মিলে চিন্তা করে ধারণা বের করা"
+    },
+    {
+      "en": "Legislation",
+      "bn": "আইন"
+    },
+    {
+      "en": "Consultant",
+      "bn": "বাইরের বিশেষজ্ঞ পরামর্শক"
+    }
+  ],
+  "bangla_explanation": [
+    "Hazard খুঁজে না পেলে তা নিয়ন্ত্রণ করা যায় না, তাই identification প্রথম কাজ।",
+    "প্রত্যেক কর্মীকেই নিজের workplace-এ hazards খুঁজতে সাহায্য করতে হয়।",
+    "Hazard শুধু equipment বা material নয়; processes আর procedures-ও hazard হতে পারে।",
+    "ছয়টি sources মনে রাখুন: past incidents, employees, examining, review, brainstorming, advice।"
+  ],
+  "example": {
+    "en": "An electrical workshop looks at last year's accidents. Trainees also report a broken socket. Both are sources for hazard identification.",
+    "bn": "গত বছরের দুর্ঘটনার রেকর্ড আর trainee-দের রিপোর্ট দুটোই hazard খোঁজার উৎস।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Past incidents and accidents",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Past incidents and accidents",
+            "passageId": "cblm03-p8-047e0d8c"
+          }
+        ]
+      },
+      {
+        "text": "Input by employees",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Input by employees"
+          }
+        ]
+      },
+      {
+        "text": "Examining workplaces or work areas",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Examining workplaces or work areas"
+          }
+        ]
+      },
+      {
+        "text": "Review of safety instruction for equipment and materials",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Review of safety instruction for equipment and materials"
+          }
+        ]
+      },
+      {
+        "text": "Any kind of creative thinking such as brainstorming",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Any kind of creative thinking such as brainstorming"
+          }
+        ]
+      },
+      {
+        "text": "Advice from legislation, standards, checklists or external consultants",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Advice from legislation, standards, checklists or external consultants."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "A hazard includes processes and procedures, not just equipment or material.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 8,
+          "quote": "A hazard is not just linked to technical equipment or a material used at a workplace but has to include processes and procedures"
+        }
+      ]
+    },
+    {
+      "text": "Everybody has to contribute to finding hazards at his or her workplace.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 8,
+          "quote": "everybody has to contribute to finding hazards at his or her workplace"
+        }
+      ]
+    },
+    {
+      "text": "In some countries, employers must legally consult their employees.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 8,
+          "quote": "It is a legal requirement in some countries that employers have to consult their employees."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "You have to keep the workplace as safe as possible. How can you identify hazards of your workplace?",
+      "modelAnswer": "Hazards can be identified from these sources:\n1. Past incidents and accidents\n2. Input by employees\n3. Examining workplaces or work areas\n4. Review of safety instruction for equipment and materials\n5. Creative thinking such as brainstorming\n6. Advice from legislation, standards, checklists or external consultants",
+      "keyPoints": [
+        {
+          "text": "A hazard is anything that is a threat to health and safety in an organization.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 8,
+              "quote": "A hazard is anything that is a threat to health and safety in an organization."
+            }
+          ]
+        },
+        {
+          "text": "Everybody has to contribute to finding hazards at his or her workplace.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 8,
+              "quote": "everybody has to contribute to finding hazards at his or her workplace"
+            }
+          ]
+        },
+        {
+          "text": "A hazard includes processes and procedures, not just equipment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 8,
+              "quote": "but has to include processes and procedures that determine the work at the workplace"
+            },
+            {
+              "src": "cblm03",
+              "page": 8,
+              "quote": "A hazard is not just linked to technical equipment"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a source for hazard identification?",
+      "options": [
+        "Input by employees",
+        "Job rotation",
+        "Risk register",
+        "Muster point"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 8,
+        "quote": "Input by employees"
+      }
+    },
+    "matching": {
+      "prompt": "Match each source with its detail.",
+      "pairs": [
+        {
+          "left": "Creative thinking",
+          "right": "Brainstorming",
+          "cite": {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Any kind of creative thinking such as brainstorming"
+          }
+        },
+        {
+          "left": "Advice",
+          "right": "Legislation, standards, checklists or external consultants",
+          "cite": {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Advice from legislation, standards, checklists or external consultants."
+          }
+        },
+        {
+          "left": "Review",
+          "right": "Safety instruction for equipment and materials",
+          "cite": {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Review of safety instruction for equipment and materials"
+          }
+        },
+        {
+          "left": "Input",
+          "right": "By employees",
+          "cite": {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Input by employees"
+          }
+        },
+        {
+          "left": "Examining",
+          "right": "Workplaces or work areas",
+          "cite": {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Examining workplaces or work areas"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Who should help find hazards at work?",
+      "answer": {
+        "text": "Everybody has to contribute to finding hazards at his or her workplace.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "everybody has to contribute to finding hazards at his or her workplace"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

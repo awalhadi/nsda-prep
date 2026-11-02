@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "cblm03-sc1-q1-workplace-hazard",
+    "kind": "answer-key-error",
+    "questionId": "cblm03-sc1-q1",
+    "source": {
+      "src": "cblm03",
+      "page": 17,
+      "quote": "A workplace is a place where people practice their occupation (or crafts, professions, trades)"
+    },
+    "issue": "The answer key defines a workplace, but the question asks what a workplace hazard is.",
+    "proposed": "A workplace hazard is any situation that can cause harm in a place where people work. A hazard is a source of potential harm to people or property.",
+    "proposedCites": [
+      {
+        "src": "cblm03",
+        "page": 7,
+        "quote": "A hazard is a source of potential harm or any situation that has the potential to cause, or lead to, harm."
+      },
+      {
+        "src": "cblm03",
+        "page": 7,
+        "quote": "So a workplace hazard would be any situation that has the potential to cause harm in a place where people practice their occupation."
+      }
+    ],
+    "status": "open",
+    "conceptIds": [
+      "workplace-hazard"
+    ]
+  }
+]

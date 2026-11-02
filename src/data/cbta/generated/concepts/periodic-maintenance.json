@@ -1,0 +1,483 @@
+{
+  "aliases": [
+    "What is periodic maintenance?",
+    "Periodic maintenance program",
+    "Historical record of equipment"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 26,
+          "printed": 26
+        },
+        {
+          "pdf": 27,
+          "printed": 27
+        },
+        {
+          "pdf": 30,
+          "printed": 30
+        },
+        {
+          "pdf": 31,
+          "printed": 31
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "Periodic maintenance-কে preventive maintenance-এর চেয়ে ভালো ধরা হয়।",
+    "কারণ এটা শুধু breakdown ঠেকায় না, তার বাইরেও অনেক কাজ ধরে।",
+    "প্রতিটা কাজের জন্য আলাদা schedule আর আলাদা work order থাকে।",
+    "সব maintenance আর মেরামত লিখে রাখতে হয় historical record-এ, যাতে যন্ত্রের পুরো ইতিহাস জানা যায়।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "একই মেশিনের lubrication আর electrical check-এর আলাদা schedule ও work order।",
+    "en": "A lathe machine has separate schedules for lubrication and electrical checks. Each gets its own work order."
+  },
+  "highlighted": true,
+  "id": "periodic-maintenance",
+  "importance": {
+    "bn": "CBLM 6 Self Check 1 (Q3)-এ এসেছে। CBLM 6-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in CBLM 6 Self Check 1 (Q3). Highlighted in CBLM 6. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "নির্দিষ্ট সময় পরপর নিয়মিত রক্ষণাবেক্ষণ",
+      "en": "Periodic maintenance"
+    },
+    {
+      "bn": "নষ্ট হওয়ার আগেই প্রতিরোধমূলক রক্ষণাবেক্ষণ",
+      "en": "Preventive maintenance"
+    },
+    {
+      "bn": "কাজের লিখিত আদেশ",
+      "en": "Work order"
+    },
+    {
+      "bn": "সময়সূচি",
+      "en": "Schedule"
+    },
+    {
+      "bn": "যন্ত্রের পুরো রক্ষণাবেক্ষণের ইতিহাস",
+      "en": "Historical record"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "An identification number of the piece of equipment. (What).",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "An identification number of the piece of equipment (What)."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "The location of the maintenance work (Where).",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The location of the maintenance work (Where)."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "A determination of what operations are to be performed and how often ( why,",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "when, how)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "What operations are to be performed and how often (why, when, how)."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "A judgment as to what craft skill is required to perform the operation (Who.)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "What craft skill is required to perform the operation (Who)."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 26,
+        "passageId": "cblm06-p26-8625b37c",
+        "printedPage": 26,
+        "quote": "periodic maintenance",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 26,
+        "printedPage": 26,
+        "quote": "comprehensive periodic program encompasses maintenance operations that go",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 26,
+        "printedPage": 26,
+        "quote": "beyond the prevention of equipment breakdown",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Periodic maintenance encompasses maintenance operations that go beyond the prevention of equipment breakdown."
+  },
+  "openChecks": 1,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "An identification number of the piece of equipment. (What).",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Identification number of the equipment",
+          "right": "What"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "The location of the maintenance work (Where).",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Location of the maintenance work",
+          "right": "Where"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "A determination of what operations are to be performed and how often ( why,",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Operations and how often",
+          "right": "Why, when, how"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "A judgment as to what craft skill is required to perform the operation (Who.)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Craft skill required",
+          "right": "Who"
+        }
+      ],
+      "prompt": "Match each record item with its question word."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 26,
+        "printedPage": 26,
+        "quote": "beyond the prevention of equipment breakdown",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "answerIndex": 1,
+      "options": [
+        "It is cheaper because it needs no records",
+        "It goes beyond the prevention of equipment breakdown",
+        "It is done only after a breakdown",
+        "It is the same as preventive maintenance"
+      ],
+      "prompt": "Why is periodic maintenance preferred over preventive maintenance?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Properly planned, a periodic",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "maintenance program can effectively identify who, what. when, where, why, and",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "how specific repetitive operations are to be performed",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A planned periodic program identifies who, what, when, where, why and how."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "A specific work order is prepared to accomplish each of these types of periodic",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A specific work order is prepared for each type of periodic maintenance."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "separate schedule is established for each operation.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A separate schedule is established for each operation."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "A historical record is a basic component for any maintenance system",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A historical record is a basic component of any maintenance system."
+        }
+      ],
+      "modelAnswer": "Periodic maintenance encompasses maintenance operations that go beyond the prevention of equipment breakdown. It is preferred over preventive maintenance.\n1. It identifies who, what, when, where, why and how repetitive operations are done.\n2. Each operation has a separate schedule and work order.\n3. All maintenance and repair is kept in a historical record.",
+      "prompt": "What is periodic maintenance?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "A single record that contains the complete",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "maintenance history of the item or equipment.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "A single record containing the complete maintenance history of the item or equipment."
+      },
+      "prompt": "What is a historical record in maintenance?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "a) is the same as preventive maintenance\nb) encompasses maintenance operations that go beyond the prevention\nof equipment breakdown\nc) is the result of combining preventive maintenance with corrective\nmaintenance",
+      "flags": [],
+      "id": "cblm06-sc1-q3",
+      "kind": "selfcheck",
+      "label": "CBLM 6 Self Check 1 (Q3)",
+      "page": 30,
+      "printedPage": 30,
+      "question": "What is periodic maintenance?",
+      "src": "cblm06",
+      "type": "short"
+    }
+  ],
+  "score": 6,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Periodic Maintenance and the Historical Record",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 31,
+          "printedPage": 31,
+          "quote": "Answer Key No: 1- Implement housekeeping activity",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 31,
+          "passageId": "cblm06-p31-f395e7bb",
+          "printedPage": 31,
+          "quote": "a) is the same as preventive maintenance",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 26,
+          "printedPage": 26,
+          "quote": "Periodic maintenance is preferred over preventive maintenance",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Answer key (a) says same as preventive maintenance. But periodic is preferred over preventive."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 31,
+          "printedPage": 31,
+          "quote": "Answer Key No: 1- Implement housekeeping activity",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 31,
+          "printedPage": 31,
+          "quote": "c) is the result of combining preventive maintenance with corrective",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 31,
+          "printedPage": 31,
+          "quote": "maintenance",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Avoid answer key (c): combining preventive maintenance with corrective maintenance."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 26,
+          "printedPage": 26,
+          "quote": "Periodic maintenance is preferred over preventive maintenance because",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Periodic maintenance is preferred over preventive maintenance."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

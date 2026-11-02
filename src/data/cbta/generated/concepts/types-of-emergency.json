@@ -1,0 +1,431 @@
+{
+  "aliases": [
+    "Types of emergencies in a CBT&A environment",
+    "Emergencies"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 40,
+          "printed": 40
+        },
+        {
+          "pdf": 41,
+          "printed": 41
+        },
+        {
+          "pdf": 42,
+          "printed": 42
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "Emergency-তে কী করতে হবে জানা থাকলে নিজেকে ও অন্যকে safe রাখা যায়।",
+    "পাঁচ ধরনের emergency: fire বা explosion, injury, hazardous material spill, violence, severe weather।",
+    "প্রশ্নে চারটি চাইলেও পাঁচটিই লিখতে পারেন।",
+    "Emergency Response Plan-এ আরও আছে bomb threat, gas leak, medical emergency।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "টিটিসির নিচতলার ওয়ার্কশপে ভারী বৃষ্টিতে পানি ঢুকলে তা severe weather emergency।",
+    "en": "Heavy rain floods a ground-floor workshop in a TTC. This is severe weather. Everyone follows the emergency plan."
+  },
+  "highlighted": true,
+  "id": "types-of-emergency",
+  "importance": {
+    "bn": "Unit 02 Short Questions (Short 7)-এ এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in Unit 02 Short Questions (Short 7). Highlighted in CBLM 3. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "জরুরি অবস্থা",
+      "en": "Emergency"
+    },
+    {
+      "bn": "বিস্ফোরণ",
+      "en": "Explosion"
+    },
+    {
+      "bn": "বিপজ্জনক পদার্থ ছড়িয়ে পড়া",
+      "en": "Hazardous material spill"
+    },
+    {
+      "bn": "প্রবল ঝড়-বৃষ্টি",
+      "en": "Severe weather"
+    },
+    {
+      "bn": "সহিংসতা",
+      "en": "Violence"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 40,
+            "printedPage": 40,
+            "quote": "Fire, Explosion • Injury",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Fire, Explosion"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 40,
+            "printedPage": 40,
+            "quote": "Fire, Explosion • Injury",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Injury"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 40,
+            "printedPage": 40,
+            "quote": "Hazardous Material Spill",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Hazardous Material Spill"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "passageId": "cblm03-p41-7fcdb7ba",
+            "printedPage": 41,
+            "quote": "Violence • Severe Weather",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Violence"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "Violence • Severe Weather",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Severe Weather"
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 40,
+        "passageId": "cblm03-p40-c3c23828",
+        "printedPage": 40,
+        "quote": "You can also stay safe at work by knowing what to do in an emergency.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "verbatim",
+    "text": "You can also stay safe at work by knowing what to do in an emergency."
+  },
+  "openChecks": 1,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "fire extinguishers • fire blankets",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Fire, Explosion",
+          "right": "Fire extinguishers and fire blankets"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "flashlights • spill kits",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Hazardous material spill",
+          "right": "Spill kits"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "If you get hurt 1. Get first aid treatment",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Injury",
+          "right": "First aid treatment"
+        }
+      ],
+      "prompt": "Match each emergency with something that helps."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 40,
+        "printedPage": 40,
+        "quote": "Hazardous Material Spill",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Hazardous Material Spill",
+        "Job rotation",
+        "Risk register",
+        "Lockout"
+      ],
+      "prompt": "Which is a type of emergency in CBLM 3?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Make sure you know the emergency procedures in your workplace.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Make sure you know the emergency procedures in your workplace."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Before using a fire extinguisher or other emergency equipment, make sure",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "you're trained on its proper use.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Before using a fire extinguisher, make sure you're trained on its proper use."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Your workplace may have emergency equipment available, including:",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "fire extinguishers • fire blankets • stretchers",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "spill kits",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Emergency equipment includes fire extinguishers, fire blankets, stretchers and spill kits."
+        }
+      ],
+      "modelAnswer": "Types of emergency:\n1. Fire, Explosion\n2. Injury\n3. Hazardous Material Spill\n4. Violence\n5. Severe Weather",
+      "prompt": "List 4 types of emergencies in a CBT&A environment."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 40,
+            "printedPage": 40,
+            "quote": "You can also stay safe at work by knowing what to do in an emergency.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Knowing what to do in an emergency helps you stay safe at work."
+      },
+      "prompt": "Why should everyone know what to do in an emergency?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Types of Emergencies\n➢ Fire Explosion\n➢ Injury\n➢ Hazardous Material Spill\n➢ Violence\n➢ Severe Weather",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit02-short-step-4-evaluate-the-results-q7",
+      "kind": "paper",
+      "label": "Unit 02 Short Questions (Short 7)",
+      "page": 2,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "List 4 types of emergencies in a CIII&A environment?",
+      "src": "paper-unit02-short",
+      "type": "short"
+    }
+  ],
+  "score": 6,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Types of Emergency",
+  "traps": [
+    {
+      "cites": [
+        {
+          "match": "exact",
+          "page": 2,
+          "printedPage": null,
+          "quote": "List 4 types of emergencies in a CIII&A environment?",
+          "sourceTitle": "Unit 02 Short Questions",
+          "src": "paper-unit02-short"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 40,
+          "printedPage": 40,
+          "quote": "Types of Emergency",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "List 4 types of emergencies? CBLM 3 lists five types of emergency."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Bomb Threat",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Fire • Gas Leak • Medical Emergency",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Emergency Response Plans",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The Emergency Response Plan list is different: bomb threat, fire, gas leak, medical emergency."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 40,
+          "printedPage": 40,
+          "quote": "It's important that everyone knows what to do in these situations.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "It's important that everyone knows what to do in an emergency."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

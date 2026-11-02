@@ -1,0 +1,424 @@
+{
+  "aliases": [
+    "What is accident?",
+    "Accident vs incident",
+    "Four elements of an accident"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 19,
+          "printed": 19
+        },
+        {
+          "pdf": 20,
+          "printed": 20
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "Accident হলো হঠাৎ, অপরিকল্পিত ঘটনা, যাতে মানুষ আহত হয় বা property ও environmental damage হয়।",
+    "Incident মানে near miss: এবার ক্ষতি হয়নি, কিন্তু হতে পারত।",
+    "চারটি elements: মানুষের কাজ, যন্ত্র, উপকরণ আর পদ্ধতি; এদের action বা reaction থেকে accident হয়।",
+    "বেশিরভাগ accident human error থেকে হয়, তাই এগুলো prevented করা যায়।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "তাক থেকে বাক্স পড়ল, কেউ আহত হলো না: এটা incident বা near miss।",
+    "en": "A box falls from a shelf in a store room. Nobody is hurt. That is an incident, a near miss."
+  },
+  "highlighted": true,
+  "id": "accident-definition",
+  "importance": {
+    "bn": "CBLM 3-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 3."
+  },
+  "keywords": [
+    {
+      "bn": "দুর্ঘটনা",
+      "en": "Accident"
+    },
+    {
+      "bn": "অল্পের জন্য বেঁচে যাওয়া ঘটনা",
+      "en": "Incident (near miss)"
+    },
+    {
+      "bn": "অপরিকল্পিত",
+      "en": "Unplanned"
+    },
+    {
+      "bn": "মানুষের ভুল",
+      "en": "Human error"
+    },
+    {
+      "bn": "চারটি উপাদান",
+      "en": "Four elements"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": 4,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Human Activities",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Human Activities"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Equipment/Machines",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Equipment/Machines"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Materials/Substances and",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Materials/Substances"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Process/System",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Process/System"
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 20,
+        "passageId": "cblm03-p20-4fd505f8",
+        "printedPage": 20,
+        "quote": "An accident is an unplanned and uncontrolled event",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 20,
+        "printedPage": 20,
+        "quote": "results in personal injury or/and property or/and environmental damage",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "An accident is an unplanned and uncontrolled event that results in injury or damage."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "An accident is an unplanned and uncontrolled event",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Accident",
+          "right": "An unplanned and uncontrolled event"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Incidents are related term with accident and may be defined as a near miss",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Incident",
+          "right": "A near miss"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Most accidents however occur as a result of human error",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Human error",
+          "right": "Cause of most accidents"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "is an all-important factor in the chain of events",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Attitude",
+          "right": "An all-important factor"
+        }
+      ],
+      "prompt": "Match each term with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 20,
+        "printedPage": 20,
+        "quote": "Incidents are related term with accident and may be defined as a near miss",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Incident",
+        "Accident",
+        "Hazard",
+        "Risk"
+      ],
+      "prompt": "A near miss that could have caused injury is called:"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 20,
+              "passageId": "cblm03-p20-30bd28ee",
+              "printedPage": 20,
+              "quote": "Accident happen due to the action or reaction between four elements",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Accidents happen due to action or reaction between four elements."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Nobody deliberately has an accident;",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Nobody deliberately has an accident."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Normally accidents do not just happen. They are caused",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Normally accidents do not just happen. They are caused."
+        }
+      ],
+      "modelAnswer": "An accident is an unplanned and uncontrolled event that results in personal injury, property damage or environmental damage.\nIt happens due to action or reaction between four elements:\n1. Human Activities\n2. Equipment/Machines\n3. Materials/Substances\n4. Process/System",
+      "prompt": "What is an accident? Name the four elements involved."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "results in personal injury or/and property or/and environmental damage",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "may be defined as a near miss",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "An accident results in injury or damage. An incident is a near miss."
+      },
+      "prompt": "What is the difference between an accident and an incident?"
+    }
+  },
+  "realQuestions": [],
+  "score": 3,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Accident and Incident",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 20,
+          "printedPage": 20,
+          "quote": "Incidents are related term with accident and may be defined as a near miss, which under different circumstances could have resulted in personal injury, equipment damage",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "An incident is a near miss that could have caused injury or damage."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "Most accidents however occur as a result of human error",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 19,
+          "printedPage": 19,
+          "quote": "These accidents can be prevented.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Most accidents come from human error. These accidents can be prevented."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 20,
+          "printedPage": 20,
+          "quote": "Accidents result in",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 20,
+          "printedPage": 20,
+          "quote": "Loss of life/harm to human or",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 20,
+          "printedPage": 20,
+          "quote": "Property or environmental damage.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Accidents result in harm to humans, or property or environmental damage."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 20,
+          "printedPage": 20,
+          "quote": "They have a different attitude to safety",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 20,
+          "printedPage": 20,
+          "quote": "is an all-important factor in the chain of events which leads to someone causing",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Attitude is an all-important factor in the chain of events."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

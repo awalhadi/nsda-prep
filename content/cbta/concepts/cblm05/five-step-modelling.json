@@ -1,0 +1,202 @@
+{
+  "id": "five-step-modelling",
+  "canonical_title": "Five-Step Process of Modelling (CBLM 5)",
+  "aliases": [
+    "Steps of modelling",
+    "Five Step process of modeling",
+    "Model of excellence"
+  ],
+  "cblmPrimary": 5,
+  "source_type": "cblm",
+  "covers": [
+    "cblm05-p11-e9e977a7",
+    "cblm05-p11-bc0020db"
+  ],
+  "questions": [
+    "cblm05-sc1-q2"
+  ],
+  "one_line_answer": {
+    "text": "The five step process of modeling: select, observe, practice, test and teach.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm05",
+        "page": 11,
+        "quote": "Five Step process of modeling",
+        "passageId": "cblm05-p11-e9e977a7"
+      },
+      {
+        "src": "cblm05",
+        "page": 11,
+        "quote": "Select a model of excellence."
+      },
+      {
+        "src": "cblm05",
+        "page": 11,
+        "quote": "Observe and ideally record the model via video or other medium."
+      },
+      {
+        "src": "cblm05",
+        "page": 11,
+        "quote": "Practice the skill until the same set of responses is received."
+      },
+      {
+        "src": "cblm05",
+        "page": 11,
+        "quote": "test your skill against the model."
+      },
+      {
+        "src": "cblm05",
+        "page": 11,
+        "quote": "Teach (transfer) the skill to someone else."
+      }
+    ]
+  },
+  "keywords": [
+    { "en": "Model of excellence", "bn": "যিনি কাজটা সবচেয়ে ভালো করেন, আদর্শ উদাহরণ" },
+    { "en": "Observe", "bn": "মনোযোগ দিয়ে দেখা" },
+    { "en": "Record", "bn": "video বা অন্য মাধ্যমে ধরে রাখা" },
+    { "en": "Practice", "bn": "বারবার অনুশীলন" },
+    { "en": "Transfer", "bn": "অন্যকে শিখিয়ে দেওয়া" }
+  ],
+  "bangla_explanation": [
+    "Modelling-এর ৫টি ধাপ আছে, আর ক্রমটা মনে রাখা জরুরি।",
+    "প্রথমে একজন model of excellence বেছে নিন, কবে কী outcomes চান তা ঠিক করুন।",
+    "তাঁকে observe করুন, সম্ভব হলে video-তে record করুন।",
+    "একই ফল না আসা পর্যন্ত practice করুন, তারপর model-এর সাথে test করুন।",
+    "শেষ ধাপে skill-টা অন্য কাউকে teach করুন, মানে transfer করুন।"
+  ],
+  "example": {
+    "en": "A student keeps challenging you in class. Observe a colleague who handles this well. Practice, video yourself, then teach others.",
+    "bn": "ভালো সামলাতে পারেন এমন সহকর্মীকে দেখুন, অনুশীলন করুন, video করে মিলিয়ে নিন, শেষে অন্যকে শেখান।"
+  },
+  "mnemonic": {
+    "text": "Select → Observe → Practice → Test → Teach (S-O-P-T-T)",
+    "explain_bn": "বেছে নিন, দেখুন, অনুশীলন করুন, যাচাই করুন, শেখান।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Select a model of excellence. Determine what outcomes you would like to achieve, by when.",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 11, "quote": "Select a model of excellence. Determine what outcomes you would like to achieve, by when.", "passageId": "cblm05-p11-bc0020db" }]
+      },
+      {
+        "text": "Observe and ideally record the model via video or other medium.",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 11, "quote": "Observe and ideally record the model via video or other medium." }]
+      },
+      {
+        "text": "Practice the skill until the same set of responses is received.",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 11, "quote": "Practice the skill until the same set of responses is received." }]
+      },
+      {
+        "text": "Using video or other medium, test your skill against the model.",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 11, "quote": "Using video or other medium, test your skill against the model." }]
+      },
+      {
+        "text": "Teach (transfer) the skill to someone else.",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 11, "quote": "Teach (transfer) the skill to someone else." }]
+      }
+    ],
+    "declaredCount": {
+      "n": 5,
+      "cite": { "src": "cblm05", "page": 11, "quote": "Five Step process of modeling" }
+    }
+  },
+  "traps": [
+    {
+      "text": "The last step is to teach (transfer) the skill to someone else.",
+      "fidelity": "paraphrase",
+      "cites": [{ "src": "cblm05", "page": 11, "quote": "Teach (transfer) the skill to someone else." }]
+    },
+    {
+      "text": "Select a model, and also determine what outcomes you would like to achieve, by when.",
+      "fidelity": "paraphrase",
+      "cites": [{ "src": "cblm05", "page": 11, "quote": "Select a model of excellence. Determine what outcomes you would like to achieve, by when." }]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the steps of modelling?",
+      "modelAnswer": "Five Step process of modelling:\n1. Select a model of excellence. Decide what outcomes you want, by when.\n2. Observe and ideally record the model via video or other medium.\n3. Practice the skill until the same set of responses is received.\n4. Using video or other medium, test your skill against the model.\n5. Teach (transfer) the skill to someone else.",
+      "keyPoints": [
+        {
+          "text": "Practice over and over, using different scenarios.",
+          "fidelity": "paraphrase",
+          "cites": [{ "src": "cblm05", "page": 11, "quote": "Then, you could practice this yourself, over and over, using different scenarios." }]
+        },
+        {
+          "text": "Videoing yourself is useful, or someone whose opinion you value can evaluate you.",
+          "fidelity": "paraphrase",
+          "cites": [{ "src": "cblm05", "page": 11, "quote": "Videoing yourself would be useful, or having someone whose opinion you value evaluate you." }]
+        },
+        {
+          "text": "Once you are confident, pass your new skill onto someone else.",
+          "fidelity": "paraphrase",
+          "cites": [{ "src": "cblm05", "page": 11, "quote": "Once you are confident, you could pass your new skill onto someone else." }]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "What is the final step of the Five Step process of modelling?",
+      "options": [
+        "Select a model of excellence",
+        "Observe and record the model",
+        "Test your skill against the model",
+        "Teach (transfer) the skill to someone else"
+      ],
+      "answerIndex": 3,
+      "answerCite": {
+        "src": "cblm05",
+        "page": 11,
+        "quote": "Teach (transfer) the skill to someone else."
+      }
+    },
+    "matching": {
+      "prompt": "Match each step with what you do.",
+      "pairs": [
+        {
+          "left": "Select",
+          "right": "A model of excellence",
+          "cite": { "src": "cblm05", "page": 11, "quote": "Select a model of excellence." }
+        },
+        {
+          "left": "Observe",
+          "right": "Ideally record the model via video",
+          "cite": { "src": "cblm05", "page": 11, "quote": "Observe and ideally record the model via video or other medium." }
+        },
+        {
+          "left": "Practice",
+          "right": "Until the same set of responses is received",
+          "cite": { "src": "cblm05", "page": 11, "quote": "Practice the skill until the same set of responses is received." }
+        },
+        {
+          "left": "Test",
+          "right": "Your skill against the model",
+          "cite": { "src": "cblm05", "page": 11, "quote": "Using video or other medium, test your skill against the model." }
+        },
+        {
+          "left": "Teach",
+          "right": "Transfer the skill to someone else",
+          "cite": { "src": "cblm05", "page": 11, "quote": "Teach (transfer) the skill to someone else." }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why do you record the model on video?",
+      "answer": {
+        "text": "So you can later test your skill against the model, using the video.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm05", "page": 11, "quote": "Observe and ideally record the model via video or other medium." },
+          { "src": "cblm05", "page": 11, "quote": "Using video or other medium, test your skill against the model." }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

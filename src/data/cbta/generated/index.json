@@ -1459,10 +1459,413 @@
     },
     {
       "aliases": [
+        "What is accident?",
+        "Accident vs incident",
+        "Four elements of an accident"
+      ],
+      "asked": 0,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "accident-definition",
+      "keywords": [
+        {
+          "bn": "দুর্ঘটনা",
+          "en": "Accident"
+        },
+        {
+          "bn": "অল্পের জন্য বেঁচে যাওয়া ঘটনা",
+          "en": "Incident (near miss)"
+        },
+        {
+          "bn": "অপরিকল্পিত",
+          "en": "Unplanned"
+        },
+        {
+          "bn": "মানুষের ভুল",
+          "en": "Human error"
+        },
+        {
+          "bn": "চারটি উপাদান",
+          "en": "Four elements"
+        }
+      ],
+      "oneLine": "An accident is an unplanned and uncontrolled event that results in injury or damage.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Accident and Incident",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Two types of injuries or illnesses in workplace hazard",
+        "Acute and chronic"
+      ],
+      "asked": 1,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "acute-chronic-injuries",
+      "keywords": [
+        {
+          "bn": "সাথে সাথে হওয়া আঘাত",
+          "en": "Acute"
+        },
+        {
+          "bn": "দীর্ঘ সময়ে ধীরে ধীরে হওয়া অসুখ",
+          "en": "Chronic"
+        },
+        {
+          "bn": "আঘাত",
+          "en": "Injury"
+        },
+        {
+          "bn": "অসুখ",
+          "en": "Illness"
+        },
+        {
+          "bn": "একই কাজ বারবার করায় পেশির ক্ষতি",
+          "en": "Repetitive strain"
+        }
+      ],
+      "oneLine": "Injuries and illnesses are of two types: acute (immediate) and chronic (long-term).",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Acute and Chronic Injuries and Illnesses",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Causes for accidents",
+        "Four causes of workplace accidents"
+      ],
+      "asked": 1,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "causes-of-accidents",
+      "keywords": [
+        {
+          "bn": "অবহেলা",
+          "en": "Negligence"
+        },
+        {
+          "bn": "না জানা",
+          "en": "Unawareness"
+        },
+        {
+          "bn": "গুরুত্ব না দেওয়া",
+          "en": "Disregard"
+        },
+        {
+          "bn": "অগোছালো",
+          "en": "Untidy"
+        },
+        {
+          "bn": "বাতাস চলাচল",
+          "en": "Ventilation"
+        }
+      ],
+      "oneLine": "Normally, accidents do not just happen. They are caused.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Causes of Accidents",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "At the source, along the path, at the worker",
+        "Strategies for controlling hazards"
+      ],
+      "asked": 0,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "controlling-hazards",
+      "keywords": [
+        {
+          "bn": "বিপদের উৎসেই",
+          "en": "At the source"
+        },
+        {
+          "bn": "উৎস আর কর্মীর মাঝের পথে",
+          "en": "Along the path"
+        },
+        {
+          "bn": "কর্মীর কাছে, শেষ উপায়",
+          "en": "At the worker"
+        },
+        {
+          "bn": "মেশিন যেন চালু না হয় তার ব্যবস্থা",
+          "en": "Lockout"
+        },
+        {
+          "bn": "বাতাস চলাচল ব্যবস্থা",
+          "en": "Ventilation"
+        }
+      ],
+      "oneLine": "Workplace hazards can be controlled so they don't injure you or make you sick.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Controlling Hazards: Source, Path, Worker",
+      "types": []
+    },
+    {
+      "aliases": [
+        "What a workplace emergency plan should include",
+        "Emergency Response Plan",
+        "Reporting procedure"
+      ],
+      "asked": 2,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "emergency-plan",
+      "keywords": [
+        {
+          "bn": "জরুরি অবস্থার পরিকল্পনা",
+          "en": "Emergency plan"
+        },
+        {
+          "bn": "সতর্ক সংকেত ব্যবস্থা",
+          "en": "Alarm system"
+        },
+        {
+          "bn": "বের হওয়ার পথ",
+          "en": "Escape route"
+        },
+        {
+          "bn": "মহড়া",
+          "en": "Drill"
+        },
+        {
+          "bn": "জরুরি সমাবেশের জায়গা",
+          "en": "Muster point"
+        }
+      ],
+      "oneLine": "A workplace emergency procedure includes an emergency plan and emergency equipment.",
+      "score": 8,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Workplace Emergency Plan",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Responsibility of an employer in terms of safety",
+        "Employer's role"
+      ],
+      "asked": 1,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "employer-safety-duties",
+      "keywords": [
+        {
+          "bn": "মালিক বা নিয়োগকর্তা",
+          "en": "Employer"
+        },
+        {
+          "bn": "নীতিমালা",
+          "en": "Policy"
+        },
+        {
+          "bn": "প্রশিক্ষণ",
+          "en": "Training"
+        },
+        {
+          "bn": "তত্ত্বাবধান",
+          "en": "Supervision"
+        },
+        {
+          "bn": "নিরাপত্তা সরঞ্জাম",
+          "en": "Safety equipment"
+        }
+      ],
+      "oneLine": "Your employer is responsible for your health and safety at work, and everyone else's.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Employer's Safety Duties",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Possible health effects of biological hazards",
+        "Hazard examples, effects and workplaces"
+      ],
+      "asked": 1,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "hazard-effects",
+      "keywords": [
+        {
+          "bn": "প্রভাব বা ক্ষতি",
+          "en": "Effect"
+        },
+        {
+          "bn": "শ্রবণশক্তি কমে যাওয়া",
+          "en": "Hearing loss"
+        },
+        {
+          "bn": "বিদ্যুতের শক",
+          "en": "Electric shock"
+        },
+        {
+          "bn": "চামড়ার প্রদাহ",
+          "en": "Dermatitis"
+        },
+        {
+          "bn": "পেশি, হাড় ও স্নায়ুর সমস্যা",
+          "en": "Musculoskeletal disorder"
+        },
+        {
+          "bn": "অ্যালার্জি",
+          "en": "Allergy"
+        }
+      ],
+      "oneLine": "Hazards can cause serious, immediate injuries, or injuries that develop over time.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Effects of Physical, Biological, Chemical and Ergonomic Hazards",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "How can you identify hazards?",
+        "Sources for identifying workplace hazards"
+      ],
+      "asked": 2,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "hazard-identification-sources",
+      "keywords": [
+        {
+          "bn": "বিপদের উৎস খুঁজে বের করা",
+          "en": "Hazard identification"
+        },
+        {
+          "bn": "ঘটে যাওয়া দুর্ঘটনা বা প্রায়-দুর্ঘটনা",
+          "en": "Incident"
+        },
+        {
+          "bn": "সবাই মিলে চিন্তা করে ধারণা বের করা",
+          "en": "Brainstorming"
+        },
+        {
+          "bn": "আইন",
+          "en": "Legislation"
+        },
+        {
+          "bn": "বাইরের বিশেষজ্ঞ পরামর্শক",
+          "en": "Consultant"
+        }
+      ],
+      "oneLine": "Sources for hazard identification include past incidents, employee input and examining workplaces.",
+      "score": 7,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Sources for Hazard Identification",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Four-step Hazard Management process",
+        "SAFE (paper name)",
+        "Steps of hazard management"
+      ],
+      "asked": 5,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "hazard-management-process",
+      "keywords": [
+        {
+          "bn": "খুঁজে বের করা",
+          "en": "Identify"
+        },
+        {
+          "bn": "ঝুঁকি মাপা",
+          "en": "Assess"
+        },
+        {
+          "bn": "নিয়ন্ত্রণ ব্যবস্থা নেওয়া",
+          "en": "Fix"
+        },
+        {
+          "bn": "ফলাফল যাচাই করা",
+          "en": "Evaluate"
+        },
+        {
+          "bn": "ঘটার সম্ভাবনা",
+          "en": "Likelihood"
+        },
+        {
+          "bn": "ক্ষতির গুরুত্ব",
+          "en": "Consequence"
+        }
+      ],
+      "oneLine": "Hazard management is a four-step process to keep the workplace as safe as possible.",
+      "score": 10,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Four-Step Hazard Management Process",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
         "Safety decision hierarchy",
         "Hierarchy of control"
       ],
-      "asked": 2,
+      "asked": 4,
       "cblmPrimary": 3,
       "cblms": [
         3
@@ -1492,13 +1895,2425 @@
         }
       ],
       "oneLine": "The hierarchy of controls is the preferred order of options for controlling risk.",
-      "score": 8,
+      "score": 12,
       "sourceType": "cblm",
       "stars": 3,
       "status": "draft",
       "title": "Hierarchy of Controls",
       "types": [
         "mcq",
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "If you get hurt in the workplace, what should you do?",
+        "Reporting injuries"
+      ],
+      "asked": 2,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "if-you-get-hurt",
+      "keywords": [
+        {
+          "bn": "প্রাথমিক চিকিৎসা",
+          "en": "First aid"
+        },
+        {
+          "bn": "তত্ত্বাবধায়ক",
+          "en": "Supervisor"
+        },
+        {
+          "bn": "ডাক্তারি চিকিৎসা",
+          "en": "Medical care"
+        },
+        {
+          "bn": "যাতায়াতের ব্যবস্থা",
+          "en": "Transportation"
+        },
+        {
+          "bn": "মজুরি",
+          "en": "Wages"
+        }
+      ],
+      "oneLine": "If you get hurt: get first aid, tell your supervisor, get medical care if necessary.",
+      "score": 8,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "If You Get Hurt at Work",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Apply OSH practices in a CBT&A environment",
+        "OSH unit overview"
+      ],
+      "asked": 0,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "osh-learning-outcomes",
+      "keywords": [
+        {
+          "bn": "Occupational Health and Safety: কর্মক্ষেত্রে স্বাস্থ্য ও নিরাপত্তা",
+          "en": "OSH"
+        },
+        {
+          "bn": "শেখার পরে যা পারতে হবে",
+          "en": "Learning outcome"
+        },
+        {
+          "bn": "জরুরি অবস্থায় করণীয়",
+          "en": "Emergency response"
+        },
+        {
+          "bn": "কাজ ঠিক হলো কিনা মাপার মানদণ্ড",
+          "en": "Performance criteria"
+        },
+        {
+          "bn": "প্রশিক্ষণের জায়গা",
+          "en": "Training area"
+        }
+      ],
+      "oneLine": "This unit covers the skills, knowledge and attitudes to apply occupational health and safety.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Learning Outcomes of the OSH Unit",
+      "types": []
+    },
+    {
+      "aliases": [
+        "OSH management",
+        "Elements of OSH management system"
+      ],
+      "asked": 1,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "osh-management-system",
+      "keywords": [
+        {
+          "bn": "ব্যবস্থাপনা পদ্ধতির একটি অংশ",
+          "en": "Management system element"
+        },
+        {
+          "bn": "OSH-এর মূল পরিকল্পনা",
+          "en": "OSH strategy"
+        },
+        {
+          "bn": "ভুল সংশোধনের পদক্ষেপ",
+          "en": "Corrective action"
+        },
+        {
+          "bn": "ধারাবাহিক উন্নতি",
+          "en": "Continual improvement"
+        },
+        {
+          "bn": "আইনি বাধ্যবাধকতা",
+          "en": "Legal requirement"
+        }
+      ],
+      "oneLine": "Occupational health and safety management manages health and safety in a systematic manner.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Occupational Health and Safety Management System",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "PPE",
+        "Essential criteria for the selection and use of PPE",
+        "Name the PPE"
+      ],
+      "asked": 3,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "personal-protective-equipment",
+      "keywords": [
+        {
+          "bn": "Personal Protective Equipment: ব্যক্তিগত সুরক্ষা সরঞ্জাম",
+          "en": "PPE"
+        },
+        {
+          "bn": "গায়ে ঠিকমতো লাগে",
+          "en": "Fit properly"
+        },
+        {
+          "bn": "শক্ত হেলমেট",
+          "en": "Hard hat"
+        },
+        {
+          "bn": "শ্বাসের সাথে ধুলা আটকানোর মাস্ক",
+          "en": "Respirator"
+        },
+        {
+          "bn": "নিরাপত্তা জুতা",
+          "en": "Safety shoes"
+        }
+      ],
+      "oneLine": "When other methods aren't available, you may need to wear personal protective equipment (PPE).",
+      "score": 10,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Personal Protective Equipment (PPE)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Tool to define and classify likelihood and consequences of a risk",
+        "Risk assessment"
+      ],
+      "asked": 3,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "risk-matrix",
+      "keywords": [
+        {
+          "bn": "ঝুঁকি মাপার ছক",
+          "en": "Risk matrix"
+        },
+        {
+          "bn": "ঘটার সম্ভাবনা কতটা",
+          "en": "Likelihood"
+        },
+        {
+          "bn": "ঘটলে ক্ষতি কতটা গুরুতর",
+          "en": "Consequence"
+        },
+        {
+          "bn": "মাত্রা বোঝানোর শব্দ, যেমন rare",
+          "en": "Descriptor"
+        },
+        {
+          "bn": "ঝুঁকি মূল্যায়ন",
+          "en": "Risk assessment"
+        }
+      ],
+      "oneLine": "A risk matrix serves well to define and classify likelihood and consequences of a risk",
+      "score": 10,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Risk Matrix: Likelihood and Consequence",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Hazard classified symbols",
+        "PPE symbols",
+        "What the following symbol define"
+      ],
+      "asked": 2,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "safety-symbols",
+      "keywords": [
+        {
+          "bn": "চিহ্ন",
+          "en": "Symbol"
+        },
+        {
+          "bn": "সহজে আগুন ধরে এমন",
+          "en": "Flammable"
+        },
+        {
+          "bn": "ক্ষয়কারী, চামড়া পুড়িয়ে দেয়",
+          "en": "Corrosive"
+        },
+        {
+          "bn": "বিষাক্ত",
+          "en": "Toxic"
+        },
+        {
+          "bn": "চাপ দিয়ে ভরা গ্যাস",
+          "en": "Compressed gas"
+        },
+        {
+          "bn": "মুখ ঢাকার ঢাল",
+          "en": "Face shield"
+        }
+      ],
+      "oneLine": "Hazard symbols show the class of a dangerous material. PPE symbols show what PPE must be worn.",
+      "score": 7,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Hazard and PPE Symbols",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Supervisor's OSH responsibilities toward workers",
+        "A good supervisor"
+      ],
+      "asked": 1,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "supervisor-safety-responsibilities",
+      "keywords": [
+        {
+          "bn": "তত্ত্বাবধায়ক, যিনি প্রতিদিন কাজ দেখেন",
+          "en": "Supervisor"
+        },
+        {
+          "bn": "আইনি দায়িত্ব",
+          "en": "Legal responsibility"
+        },
+        {
+          "bn": "কাজ কেমন হচ্ছে তা জানানো",
+          "en": "Feedback"
+        },
+        {
+          "bn": "হাতে-কলমে প্রশিক্ষণ",
+          "en": "Hands-on training"
+        },
+        {
+          "bn": "নজরে রাখা",
+          "en": "Monitor"
+        }
+      ],
+      "oneLine": "Your supervisor works closely with you and has legal safety responsibilities too.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Supervisor's Safety Responsibilities",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Types of emergencies in a CBT&A environment",
+        "Emergencies"
+      ],
+      "asked": 1,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "types-of-emergency",
+      "keywords": [
+        {
+          "bn": "জরুরি অবস্থা",
+          "en": "Emergency"
+        },
+        {
+          "bn": "বিস্ফোরণ",
+          "en": "Explosion"
+        },
+        {
+          "bn": "বিপজ্জনক পদার্থ ছড়িয়ে পড়া",
+          "en": "Hazardous material spill"
+        },
+        {
+          "bn": "প্রবল ঝড়-বৃষ্টি",
+          "en": "Severe weather"
+        },
+        {
+          "bn": "সহিংসতা",
+          "en": "Violence"
+        }
+      ],
+      "oneLine": "You can also stay safe at work by knowing what to do in an emergency.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Types of Emergency",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Four basic types of hazards",
+        "Write the types of hazards with examples",
+        "Psychosocial hazards"
+      ],
+      "asked": 3,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "types-of-hazards",
+      "keywords": [
+        {
+          "bn": "ভৌত: মেশিন, শব্দ, রোদ-ঠান্ডা",
+          "en": "Physical"
+        },
+        {
+          "bn": "জীবাণু ও জীবজন্তু থেকে",
+          "en": "Biological"
+        },
+        {
+          "bn": "রাসায়নিক পদার্থ থেকে",
+          "en": "Chemical"
+        },
+        {
+          "bn": "খারাপ ডিজাইনের কাজের জায়গা থেকে",
+          "en": "Ergonomic"
+        },
+        {
+          "bn": "মানসিক ও সামাজিক কারণ",
+          "en": "Psychosocial"
+        }
+      ],
+      "oneLine": "Hazards are generally grouped into four basic types: physical, biological, chemical and ergonomic.",
+      "score": 10,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Types of Hazards",
+      "types": [
+        "mcq",
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "What should be your role as individual to work safely?",
+        "Ensure safety as an employee",
+        "You're Role"
+      ],
+      "asked": 3,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "worker-safety-role",
+      "keywords": [
+        {
+          "bn": "মেনে চলা",
+          "en": "Obey"
+        },
+        {
+          "bn": "জানানো",
+          "en": "Report"
+        },
+        {
+          "bn": "ব্যক্তিগত সুরক্ষা সরঞ্জাম",
+          "en": "PPE"
+        },
+        {
+          "bn": "বিভাগীয় প্রধান",
+          "en": "Head of the department"
+        },
+        {
+          "bn": "কাজের সময় হাসি-তামাশা বা খামখেয়ালি করা",
+          "en": "Fool around"
+        }
+      ],
+      "oneLine": "Like your employer and supervisor, you have legal responsibilities. You must do your part.",
+      "score": 10,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Worker's Role in Safety",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Three important rights of workers",
+        "Right to Know, Participate and Refuse",
+        "Right to Refuse"
+      ],
+      "asked": 4,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "workers-three-rights",
+      "keywords": [
+        {
+          "bn": "বিপদ সম্পর্কে জানার অধিকার",
+          "en": "Right to know"
+        },
+        {
+          "bn": "নিরাপত্তার কাজে অংশ নেওয়ার অধিকার",
+          "en": "Right to participate"
+        },
+        {
+          "bn": "অনিরাপদ কাজ না করার অধিকার",
+          "en": "Right to refuse"
+        },
+        {
+          "bn": "প্রতিশোধমূলক শাস্তি",
+          "en": "Reprisal"
+        },
+        {
+          "bn": "মালিক-শ্রমিক যৌথ নিরাপত্তা কমিটি",
+          "en": "Joint Health and Safety Committee"
+        }
+      ],
+      "oneLine": "As a worker, the law gives you three important rights: know, participate and refuse.",
+      "score": 10,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Workers' Three Safety Rights",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "What is workplace hazard?",
+        "Hazard"
+      ],
+      "asked": 1,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "workplace-hazard",
+      "keywords": [
+        {
+          "bn": "ক্ষতির উৎস; যা ক্ষতি করতে পারে",
+          "en": "Hazard"
+        },
+        {
+          "bn": "কর্মক্ষেত্র; যেখানে মানুষ পেশার কাজ করে",
+          "en": "Workplace"
+        },
+        {
+          "bn": "সম্ভাব্য ক্ষতি",
+          "en": "Potential harm"
+        },
+        {
+          "bn": "সম্পদের ক্ষতি",
+          "en": "Property damage"
+        },
+        {
+          "bn": "ক্ষতি ঘটার সম্ভাবনা",
+          "en": "Risk"
+        }
+      ],
+      "oneLine": "A workplace hazard is any situation that can cause harm in a workplace.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Workplace Hazard",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Factors contributing to injuries of young workers",
+        "Why so many young workers get hurt"
+      ],
+      "asked": 2,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "young-worker-injury-factors",
+      "keywords": [
+        {
+          "bn": "যে কারণ ঘটনায় ভূমিকা রাখে",
+          "en": "Contributing factor"
+        },
+        {
+          "bn": "প্রশিক্ষণ",
+          "en": "Training"
+        },
+        {
+          "bn": "অভিজ্ঞতা",
+          "en": "Experience"
+        },
+        {
+          "bn": "আইনি অধিকার",
+          "en": "Legal rights"
+        },
+        {
+          "bn": "ক্লান্ত",
+          "en": "Tired"
+        }
+      ],
+      "oneLine": "Young workers get hurt for a number of contributing factors, like little training or experience.",
+      "score": 7,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Why Young Workers Get Hurt",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Assess your skills, determine the impact of change and identify future career options",
+        "How will you assess your current skills and determine the skills you may need to develop?",
+        "Typical job functions of a professional trainer and assessor"
+      ],
+      "asked": 1,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": true,
+      "id": "assessing-own-professional-skills",
+      "keywords": [
+        {
+          "bn": "যোগ্যতার একক — যার সাথে নিজের দক্ষতা মিলিয়ে দেখবেন",
+          "en": "Units of competency"
+        },
+        {
+          "bn": "তুলনার মানদণ্ড",
+          "en": "Benchmarks"
+        },
+        {
+          "bn": "নিজের কাজকে ভেঙে কোন কোন skills লাগে তা বের করা",
+          "en": "Job analysis"
+        },
+        {
+          "bn": "ভবিষ্যৎ পেশাগত পথ",
+          "en": "Career options"
+        },
+        {
+          "bn": "চাকরির প্রধান কাজের ক্ষেত্র",
+          "en": "Job function"
+        }
+      ],
+      "oneLine": "Assess current skills against units of competency and benchmarks. Ask others for feedback. Identify future career options.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Assessing Your Professional Skills and Future Career Options (CBLM 5)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "What are the development opportunities that support continuous learning?",
+        "Development opportunities may include"
+      ],
+      "asked": 1,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": false,
+      "id": "development-opportunities",
+      "keywords": [
+        {
+          "bn": "দক্ষতা বাড়ানোর সুযোগ",
+          "en": "Development opportunities"
+        },
+        {
+          "bn": "কিছুদিন শিল্প-কারখানায় যুক্ত থেকে কাজ শেখা",
+          "en": "Industry attachment"
+        },
+        {
+          "bn": "যে দক্ষতার ঘাটতি আছে, তা পূরণের প্রশিক্ষণ",
+          "en": "Skills gap training"
+        },
+        {
+          "bn": "পেশাগত পত্রিকা ও লেখা",
+          "en": "Journals"
+        },
+        {
+          "bn": "অভিজ্ঞ কারো নির্দেশনায় শেখা",
+          "en": "Mentoring"
+        }
+      ],
+      "oneLine": "Development opportunities include further study, industry attachment, training programs, conferences, reading, networking and mentoring.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Development Opportunities that Support Continuous Learning (CBLM 5)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Steps of modelling",
+        "Five Step process of modeling",
+        "Model of excellence"
+      ],
+      "asked": 1,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": true,
+      "id": "five-step-modelling",
+      "keywords": [
+        {
+          "bn": "যিনি কাজটা সবচেয়ে ভালো করেন, আদর্শ উদাহরণ",
+          "en": "Model of excellence"
+        },
+        {
+          "bn": "মনোযোগ দিয়ে দেখা",
+          "en": "Observe"
+        },
+        {
+          "bn": "video বা অন্য মাধ্যমে ধরে রাখা",
+          "en": "Record"
+        },
+        {
+          "bn": "বারবার অনুশীলন",
+          "en": "Practice"
+        },
+        {
+          "bn": "অন্যকে শিখিয়ে দেওয়া",
+          "en": "Transfer"
+        }
+      ],
+      "oneLine": "The five step process of modeling: select, observe, practice, test and teach.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Five-Step Process of Modelling (CBLM 5)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Aspects to consider to analyse institutional goals and objectives",
+        "Finding out goals and objectives",
+        "Organisation's goals and objectives"
+      ],
+      "asked": 1,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": true,
+      "id": "institutional-goals-objectives",
+      "keywords": [
+        {
+          "bn": "লক্ষ্য ও উদ্দেশ্য — প্রতিষ্ঠান কী অর্জন করতে চায়",
+          "en": "Goals and objectives"
+        },
+        {
+          "bn": "দীর্ঘমেয়াদি পরিকল্পনা (১ থেকে ৫ বছর বা তার বেশি)",
+          "en": "Strategic plan"
+        },
+        {
+          "bn": "যে মূল কাজগুলো ভালোভাবে না করলে লক্ষ্য পূরণ হয় না",
+          "en": "Critical success factors (CSFs)"
+        },
+        {
+          "bn": "তত্ত্বাবধায়ক, যাঁর অধীনে আপনি কাজ করেন",
+          "en": "Supervisor"
+        },
+        {
+          "bn": "মিল, সামঞ্জস্য",
+          "en": "Harmony"
+        }
+      ],
+      "oneLine": "Goals and objectives may relate to all aspects of an institution, or just some.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Analysing Your Institution's Goals and Objectives (CBLM 5)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "How do you model professional techniques and strategies?",
+        "Model professional techniques and strategies",
+        "Example of Modelling"
+      ],
+      "asked": 1,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": true,
+      "id": "modelling-professional-techniques",
+      "keywords": [
+        {
+          "bn": "যে কৌশল ভালো কাজ করে, তা দেখে নিজে অনুসরণ করা",
+          "en": "Modelling"
+        },
+        {
+          "bn": "উন্নতি করার দৃঢ় প্রতিজ্ঞা",
+          "en": "Commitment"
+        },
+        {
+          "bn": "নিজেকে সৎভাবে যাচাই করার তালিকা",
+          "en": "Checklist for self evaluation"
+        },
+        {
+          "bn": "কাজের দুর্বল দিক বা সমস্যা",
+          "en": "Performance issues"
+        },
+        {
+          "bn": "সহকর্মী",
+          "en": "Colleagues"
+        }
+      ],
+      "oneLine": "Make the commitment to improve, identify areas you are lacking, then model strategies that work.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Modelling Professional Techniques and Strategies (CBLM 5)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Organizational/legal requirements for a training institute",
+        "Work in accordance with requirements",
+        "Responsibilities and accountabilities in personal work goals"
+      ],
+      "asked": 1,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": true,
+      "id": "organisational-legal-requirements",
+      "keywords": [
+        {
+          "bn": "প্রতিষ্ঠানের নিয়মকানুন ও পদ্ধতি",
+          "en": "Organisational requirements"
+        },
+        {
+          "bn": "আইনগত বাধ্যবাধকতা",
+          "en": "Legal requirements"
+        },
+        {
+          "bn": "জবাবদিহিতা — নিজের কাজের দায় নেওয়া",
+          "en": "Accountability"
+        },
+        {
+          "bn": "আপনার জন্য নির্ধারিত কাজের সীমা",
+          "en": "Brief"
+        },
+        {
+          "bn": "কর্মক্ষেত্রের স্বাস্থ্য ও নিরাপত্তা",
+          "en": "OHS"
+        }
+      ],
+      "oneLine": "Work within the organisation's requirements, so you are sure you work within your brief.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Organisational and Legal Requirements for Personal Work Goals (CBLM 5)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Evaluation and Feedback",
+        "Different performance appraisal methods",
+        "Self-assessment, statistical, peer or team, formal appraisal"
+      ],
+      "asked": 0,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": true,
+      "id": "performance-appraisal-methods",
+      "keywords": [
+        {
+          "bn": "কাজের মান মূল্যায়ন",
+          "en": "Performance appraisal"
+        },
+        {
+          "bn": "নিজের রেকর্ড দেখে নিজেই মূল্যায়ন",
+          "en": "Self-assessment"
+        },
+        {
+          "bn": "সংখ্যা ও তথ্যভিত্তিক",
+          "en": "Statistical"
+        },
+        {
+          "bn": "সমপর্যায়ের সহকর্মী",
+          "en": "Peer"
+        },
+        {
+          "bn": "আগে থেকে ঠিক করা মানদণ্ড",
+          "en": "Set criteria"
+        }
+      ],
+      "oneLine": "Performance appraisal methods are self-assessment, statistical, peer or team assessment, and formal appraisal.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Performance Appraisal Methods (CBLM 5)",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Personal Professional Skill Development Plan",
+        "Personal Development Plan",
+        "How do you develop a Professional Development Plan?",
+        "Who can approve your personal development plan?"
+      ],
+      "asked": 2,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": true,
+      "id": "professional-development-plan",
+      "keywords": [
+        {
+          "bn": "পেশাগত দক্ষতা বাড়ানোর ব্যক্তিগত পরিকল্পনা",
+          "en": "Professional Development Plan"
+        },
+        {
+          "bn": "যে যোগ্যতাগুলো অর্জন করতে চান",
+          "en": "Competencies"
+        },
+        {
+          "bn": "কাজ শেষ করার সময়সীমা",
+          "en": "Time frame"
+        },
+        {
+          "bn": "যোগ্যতা অর্জনের প্রমাণ",
+          "en": "Evidence of competency"
+        },
+        {
+          "bn": "প্রতিষ্ঠান প্রধান, যিনি plan অনুমোদন করেন",
+          "en": "Principal"
+        }
+      ],
+      "oneLine": "A Professional Development Plan is a plan to achieve your prioritised goals and objectives.",
+      "score": 8,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Professional Development Plan (CBLM 5)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Is there any association for TVET professionals in Bangladesh?",
+        "Informal and formal networks",
+        "Networking",
+        "BPTA and BPTC"
+      ],
+      "asked": 1,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": true,
+      "id": "professional-networks",
+      "keywords": [
+        {
+          "bn": "পেশাগত যোগাযোগ গড়ে তোলা ও ধরে রাখা",
+          "en": "Networking"
+        },
+        {
+          "bn": "অনানুষ্ঠানিক যোগাযোগ — সহকর্মী, industry-র লোক",
+          "en": "Informal networks"
+        },
+        {
+          "bn": "আনুষ্ঠানিক যোগাযোগ — সংগঠন ও association",
+          "en": "Formal networks"
+        },
+        {
+          "bn": "পেশাজীবী সংগঠন",
+          "en": "Associations"
+        },
+        {
+          "bn": "উপকারের বদলে উপকার করা",
+          "en": "Reciprocate"
+        }
+      ],
+      "oneLine": "Networking is an important part of your professional development.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Professional Networks for Continuous Learning (CBLM 5)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Components in Quality Plans",
+        "Components of a typical quality plan",
+        "Institution's quality plan"
+      ],
+      "asked": 0,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": true,
+      "id": "quality-plan-components",
+      "keywords": [
+        {
+          "bn": "মান বজায় রাখার পরিকল্পনা",
+          "en": "Quality plan"
+        },
+        {
+          "bn": "প্রতিষ্ঠানের দীর্ঘমেয়াদি পরিকল্পনা",
+          "en": "Strategic plan"
+        },
+        {
+          "bn": "প্রতিষ্ঠানে কে কার অধীনে, তার চিত্র",
+          "en": "Organisational chart"
+        },
+        {
+          "bn": "সাফল্যের জন্য অবশ্যই ভালো করতে হবে এমন মূল কাজ",
+          "en": "Critical Success Factors (CSFs)"
+        },
+        {
+          "bn": "নিরীক্ষা, কাজ নিয়ম মেনে হচ্ছে কি না যাচাই",
+          "en": "Audit"
+        }
+      ],
+      "oneLine": "An institution's strategic plan is supported by a quality plan.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Components of a Quality Plan (CBLM 5)",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Developing SMART Goals",
+        "Document and prioritise personal learning needs",
+        "Specific, Measurable, Achievable, Relevant/Realistic, Time-referenced"
+      ],
+      "asked": 0,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": true,
+      "id": "smart-goals",
+      "keywords": [
+        {
+          "bn": "নির্দিষ্ট — ঠিক কী করবেন",
+          "en": "Specific"
+        },
+        {
+          "bn": "মাপা যায় এমন",
+          "en": "Measurable"
+        },
+        {
+          "bn": "অর্জন করা সম্ভব",
+          "en": "Achievable"
+        },
+        {
+          "bn": "প্রাসঙ্গিক ও বাস্তবসম্মত",
+          "en": "Relevant/Realistic"
+        },
+        {
+          "bn": "নির্দিষ্ট সময়সীমা আছে এমন",
+          "en": "Time-referenced"
+        }
+      ],
+      "oneLine": "SMART goals are: S- Specific, M- Measurable, A- Achievable, R- Relevant/Realistic, T- Time-referenced.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "SMART Goals for Personal Development (CBLM 5)",
+      "types": []
+    },
+    {
+      "aliases": [
+        "What are the sources of getting feedback on your performance?",
+        "Identifying feedback from colleagues and clients",
+        "Feedback for personal learning needs"
+      ],
+      "asked": 1,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": true,
+      "id": "sources-of-performance-feedback",
+      "keywords": [
+        {
+          "bn": "আপনার কাজ নিয়ে অন্যের মতামত",
+          "en": "Feedback"
+        },
+        {
+          "bn": "কাজের মান মূল্যায়ন",
+          "en": "Performance appraisal"
+        },
+        {
+          "bn": "যাঁদের আপনি সেবা দেন, যেমন trainees",
+          "en": "Clients"
+        },
+        {
+          "bn": "নিজের কাজ নিয়ে ভেবে দেখা",
+          "en": "Reflective"
+        },
+        {
+          "bn": "সেবা প্রদান",
+          "en": "Service delivery"
+        }
+      ],
+      "oneLine": "Feedback from colleagues and clients is one of the most valuable resources you have.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Sources of Feedback on Your Performance (CBLM 5)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "What are the developments and trends that can impact on professional practice?",
+        "Development and trends in TVET policy and operating environment",
+        "Changes in TVET"
+      ],
+      "asked": 1,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": false,
+      "id": "tvet-developments-trends",
+      "keywords": [
+        {
+          "bn": "নতুন উন্নয়ন ও পরিবর্তনের ধারা",
+          "en": "Development and trends"
+        },
+        {
+          "bn": "competency standards, qualifications ও assessment guidelines-এর সেট",
+          "en": "Training Packages"
+        },
+        {
+          "bn": "নিয়ম-নীতির আইনি পরিবর্তন",
+          "en": "Regulatory changes"
+        },
+        {
+          "bn": "নীতির পরিবর্তন",
+          "en": "Policy changes"
+        },
+        {
+          "bn": "কারিগরি ও বৃত্তিমূলক শিক্ষা ও প্রশিক্ষণ",
+          "en": "TVET"
+        }
+      ],
+      "oneLine": "TVET is undergoing enormous change, so teachers must continue to update their skills.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Developments and Trends Impacting Professional Practice (CBLM 5)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "What are the some ways to professional development?",
+        "Some ways to professional development",
+        "Continuous Learning",
+        "Maintaining currency of professional practice"
+      ],
+      "asked": 1,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": true,
+      "id": "ways-of-professional-development",
+      "keywords": [
+        {
+          "bn": "একজন শিক্ষক আরেকজনকে শেখাতে সাহায্য করেন",
+          "en": "Mentoring"
+        },
+        {
+          "bn": "চাকরিরত অবস্থায় প্রশিক্ষণ",
+          "en": "In-service training"
+        },
+        {
+          "bn": "শিল্প-কারখানা ঘুরে দেখা",
+          "en": "Industry visit"
+        },
+        {
+          "bn": "সবসময় শিখতে থাকা ও পরিবর্তনের সাথে মানিয়ে নেওয়া",
+          "en": "Continuous learning"
+        },
+        {
+          "bn": "নিজের জ্ঞান ও দক্ষতা হালনাগাদ রাখা",
+          "en": "Currency"
+        }
+      ],
+      "oneLine": "Professional development comes through mentoring, in-service training, industry visit and working with other teachers.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Continuous Learning and Four Ways to Professional Development (CBLM 5)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Planning the Facility - a system of competency-based training",
+        "Curriculum for competency-based training",
+        "Characteristics of CBT the workshop must accommodate"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6,
+        10
+      ],
+      "highlighted": true,
+      "id": "cbt-facility-curriculum",
+      "keywords": [
+        {
+          "bn": "দক্ষতাভিত্তিক প্রশিক্ষণ (CBT)",
+          "en": "Competency-based training"
+        },
+        {
+          "bn": "নিজের গতিতে শেখা",
+          "en": "Self-paced"
+        },
+        {
+          "bn": "ছোট ছোট স্বয়ংসম্পূর্ণ ইউনিটে ভাগ করা",
+          "en": "Modular"
+        },
+        {
+          "bn": "পাঠ্যক্রম",
+          "en": "Curriculum"
+        },
+        {
+          "bn": "আগের শেখা দক্ষতার স্বীকৃতি (Recognition of Prior Learning)",
+          "en": "RPL"
+        }
+      ],
+      "oneLine": "Competency-based instruction can be delivered from teacher-centered to self-paced or student-centered delivery.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Planning a Facility for Competency-Based Training (CBT Curriculum)",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Implications of using learning resources",
+        "Resources and equipment in a learning facility",
+        "Storage of paper-based resources and slides"
+      ],
+      "asked": 2,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "facility-resources-equipment",
+      "keywords": [
+        {
+          "bn": "শেখার উপকরণ, যেমন text books, videos",
+          "en": "Resources"
+        },
+        {
+          "bn": "উপকরণ চালানোর যন্ত্র, যেমন computer/printer",
+          "en": "Equipment"
+        },
+        {
+          "bn": "সংরক্ষণ বা রাখার ব্যবস্থা",
+          "en": "Storage"
+        },
+        {
+          "bn": "শিক্ষার্থীদের হাতের নাগালে পাওয়া",
+          "en": "Student access"
+        },
+        {
+          "bn": "কাগজপত্র রাখার আলমারি",
+          "en": "Filing cabinets"
+        }
+      ],
+      "oneLine": "Equipment is required to utilize resources; both require specific storage and student access.",
+      "score": 7,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Learning Resources, Equipment and Their Storage in a Training Facility",
+      "types": [
+        "matching"
+      ]
+    },
+    {
+      "aliases": [
+        "Contents of a first aid kit",
+        "Basic first aid kit contents"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "first-aid-kit",
+      "keywords": [
+        {
+          "bn": "প্রাথমিক চিকিৎসার বাক্স",
+          "en": "First aid kit"
+        },
+        {
+          "bn": "জীবাণুমুক্ত",
+          "en": "Sterile"
+        },
+        {
+          "bn": "ধুলা ঢুকতে পারে না এমন বাক্স",
+          "en": "Dust-proof container"
+        },
+        {
+          "bn": "ক্ষতে লাগানোর পট্টি/গজ",
+          "en": "Dressings"
+        },
+        {
+          "bn": "একবার ব্যবহারের গ্লাভস",
+          "en": "Disposable gloves"
+        }
+      ],
+      "oneLine": "A basic first aid kit is a sturdy dust-proof container, identified by a large cross.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Basic First Aid Kit",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "5'S Approach in Workshop Keeping",
+        "5S",
+        "Sort, Set in order, Shine, Standardize, Sustain"
+      ],
+      "asked": 1,
+      "cblmPrimary": 6,
+      "cblms": [],
+      "highlighted": false,
+      "id": "five-s-workshop",
+      "keywords": [
+        {
+          "bn": "অপ্রয়োজনীয় জিনিস সরিয়ে ফেলা",
+          "en": "Sort (Seiri)"
+        },
+        {
+          "bn": "প্রতিটি জিনিসের নির্দিষ্ট জায়গা",
+          "en": "Set in order (Seiton)"
+        },
+        {
+          "bn": "নিয়মিত পরিষ্কার করা",
+          "en": "Shine (Seiso)"
+        },
+        {
+          "bn": "প্রথম তিনটা S-এর জন্য নিয়ম ঠিক করা",
+          "en": "Standardize (Seiketsu)"
+        },
+        {
+          "bn": "শৃঙ্খলা দিয়ে অভ্যাস ধরে রাখা",
+          "en": "Sustain (Shitsuke)"
+        }
+      ],
+      "oneLine": "5S is a Japanese workplace-organisation approach to keep the workshop clean, safe and efficient.",
+      "score": 4,
+      "sourceType": "question-paper-only",
+      "stars": 3,
+      "status": "draft",
+      "title": "5S Approach in Workshop Keeping",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Housekeeping",
+        "Good housekeeping",
+        "What housekeeping covers?"
+      ],
+      "asked": 1,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "housekeeping-workshop",
+      "keywords": [
+        {
+          "bn": "ঘরবাড়ি বা কর্মস্থল গুছিয়ে পরিষ্কার রাখা",
+          "en": "Housekeeping"
+        },
+        {
+          "bn": "পরিচ্ছন্নতা",
+          "en": "Cleanliness"
+        },
+        {
+          "bn": "ঝাড়ু-মোছা, পরিষ্কারের কাজ",
+          "en": "Janitorial"
+        },
+        {
+          "bn": "বাইরের মাঠ ও চত্বর দেখাশোনা",
+          "en": "Grounds keeping"
+        },
+        {
+          "bn": "প্রশিক্ষণের কারখানা বা ওয়ার্কশপ",
+          "en": "Workshop"
+        }
+      ],
+      "oneLine": "Housekeeping is a process of keeping a place clean, beautiful and well maintained.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Housekeeping in the Training Workshop",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Requirement for system of instruction",
+        "Teacher-centered instruction",
+        "Student-centered learning",
+        "Self-paced learning facility"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "instruction-system-workshop",
+      "keywords": [
+        {
+          "bn": "শিক্ষক-কেন্দ্রিক, শিক্ষক পুরো ক্লাস চালান",
+          "en": "Teacher-centered"
+        },
+        {
+          "bn": "শিক্ষার্থী-কেন্দ্রিক",
+          "en": "Student-centered"
+        },
+        {
+          "bn": "নিজের গতিতে শেখা",
+          "en": "Self-paced learning"
+        },
+        {
+          "bn": "শেখার উপকরণ রাখার আলাদা জায়গা",
+          "en": "Resource area"
+        },
+        {
+          "bn": "সবাইকে একসাথে হাতে-কলমে দেখানো",
+          "en": "Group demonstration"
+        }
+      ],
+      "oneLine": "The system of instruction used will determine the design and organization of the workshop.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "System of Instruction and Workshop Design (Teacher-Centred vs Student-Centred)",
+      "types": []
+    },
+    {
+      "aliases": [
+        "What salvage would involve",
+        "Organization by operation",
+        "Inspection, maintenance, repair, overhaul, construction, housekeeping and salvage"
+      ],
+      "asked": 3,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "maintenance-activities",
+      "keywords": [
+        {
+          "bn": "পরিদর্শন, যন্ত্র ঠিকমতো ও নিরাপদে চলছে কিনা দেখা",
+          "en": "Inspection"
+        },
+        {
+          "bn": "খুলে, বদলে, আবার জোড়া দিয়ে test করা",
+          "en": "Overhaul"
+        },
+        {
+          "bn": "পরিষ্কার-পরিচ্ছন্নতা ও মাঠ-চত্বর দেখাশোনা",
+          "en": "Housekeeping"
+        },
+        {
+          "bn": "বাড়তি মাল ও scrap উদ্ধার করে নিষ্পত্তি করা",
+          "en": "Salvage"
+        },
+        {
+          "bn": "যন্ত্রাংশ বদলে পুরো চালু অবস্থায় ফেরানো",
+          "en": "Repair"
+        }
+      ],
+      "oneLine": "A maintenance department groups its work into inspection, maintenance, repair, overhaul, construction, housekeeping and salvage.",
+      "score": 10,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Maintenance Department Activities (Inspection to Salvage)",
+      "types": [
+        "mcq",
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Definition of Maintenance",
+        "What is maintenance?",
+        "Define maintenance"
+      ],
+      "asked": 2,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "maintenance-definition",
+      "keywords": [
+        {
+          "bn": "রক্ষণাবেক্ষণ",
+          "en": "Maintenance"
+        },
+        {
+          "bn": "নিয়মিত করা কাজ",
+          "en": "Routine actions"
+        },
+        {
+          "bn": "চালু ও কাজ করার মতো অবস্থা",
+          "en": "Working order"
+        },
+        {
+          "bn": "টিকিয়ে রাখা ও সুরক্ষা দেওয়া",
+          "en": "Preserve and protect"
+        },
+        {
+          "bn": "নষ্ট হলে ঠিক করা, মেরামত",
+          "en": "Repair"
+        }
+      ],
+      "oneLine": "Maintenance is performing the routine actions which keep the device in working order, to keep in good condition, to preserve and protect the device.",
+      "score": 8,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Maintenance: Definition",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "What is planning?",
+        "Ultimate goals of the maintenance department",
+        "Responsibilities of the maintenance department",
+        "Methods of identifying work"
+      ],
+      "asked": 2,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "maintenance-planning-goals",
+      "keywords": [
+        {
+          "bn": "পরিকল্পনা: লক্ষ্য ঠিক করা ও পথ বাছাই",
+          "en": "Planning"
+        },
+        {
+          "bn": "কোন কাজ কখন হবে তার সময়সূচি",
+          "en": "Scheduling"
+        },
+        {
+          "bn": "রক্ষণাবেক্ষণ বিভাগ",
+          "en": "Maintenance department"
+        },
+        {
+          "bn": "যন্ত্র বন্ধ থাকার সময়",
+          "en": "Downtime"
+        },
+        {
+          "bn": "বিভাগের মূল দায়িত্ব বা লক্ষ্য",
+          "en": "Mission"
+        }
+      ],
+      "oneLine": "Planning involves selecting objectives and determining the policies, programs and procedures to achieve them.",
+      "score": 7,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Planning, Scheduling and Goals of the Maintenance Department",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "What is periodic maintenance?",
+        "Periodic maintenance program",
+        "Historical record of equipment"
+      ],
+      "asked": 1,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "periodic-maintenance",
+      "keywords": [
+        {
+          "bn": "নির্দিষ্ট সময় পরপর নিয়মিত রক্ষণাবেক্ষণ",
+          "en": "Periodic maintenance"
+        },
+        {
+          "bn": "নষ্ট হওয়ার আগেই প্রতিরোধমূলক রক্ষণাবেক্ষণ",
+          "en": "Preventive maintenance"
+        },
+        {
+          "bn": "কাজের লিখিত আদেশ",
+          "en": "Work order"
+        },
+        {
+          "bn": "সময়সূচি",
+          "en": "Schedule"
+        },
+        {
+          "bn": "যন্ত্রের পুরো রক্ষণাবেক্ষণের ইতিহাস",
+          "en": "Historical record"
+        }
+      ],
+      "oneLine": "Periodic maintenance encompasses maintenance operations that go beyond the prevention of equipment breakdown.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Periodic Maintenance and the Historical Record",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Types of maintenance",
+        "Difference between preventive maintenance and corrective maintenance",
+        "Proactive maintenance"
+      ],
+      "asked": 4,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "preventive-corrective-maintenance",
+      "keywords": [
+        {
+          "bn": "সমস্যা হওয়ার আগেই নিয়মিত যত্ন",
+          "en": "Preventive maintenance"
+        },
+        {
+          "bn": "নষ্ট হওয়ার পরে ঠিক করা (repair)",
+          "en": "Corrective maintenance"
+        },
+        {
+          "bn": "যন্ত্র বিকল হয়ে যাওয়া",
+          "en": "Breakdown"
+        },
+        {
+          "bn": "নিয়মমাফিক যন্ত্রাংশ বদলানো",
+          "en": "Routine replacement"
+        },
+        {
+          "bn": "আগে থেকেই ব্যবস্থা নেওয়া",
+          "en": "Proactive"
+        }
+      ],
+      "oneLine": "Preventive maintenance keeps equipment working or extends its life. Corrective maintenance gets equipment working.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Preventive vs Corrective Maintenance",
+      "types": [
+        "matching",
+        "mcq",
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Quality Management",
+        "Define Quality Management",
+        "Quality Management Cycle (QMC)",
+        "QMC in the maintenance program"
+      ],
+      "asked": 2,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "quality-management-cycle",
+      "keywords": [
+        {
+          "bn": "মান ব্যবস্থাপনা",
+          "en": "Quality management"
+        },
+        {
+          "bn": "কাজ ঠিকমতো হয় এবং কম খরচে হয়",
+          "en": "Effective and efficient"
+        },
+        {
+          "bn": "পরিকল্পনা, বাস্তবায়ন, যাচাই, পদক্ষেপ",
+          "en": "Plan, Do, Check, Act"
+        },
+        {
+          "bn": "রক্ষণাবেক্ষণের পূর্ণ তালিকা ও পরিকল্পনা",
+          "en": "Maintenance Program"
+        },
+        {
+          "bn": "কোন কাজ কোন সময়ে, তার তালিকা",
+          "en": "Maintenance Schedule"
+        }
+      ],
+      "oneLine": "Quality management is a method for ensuring that all the activities necessary to design, develop and implement a product or service are effective and efficient with respect to system and performance.",
+      "score": 8,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Quality Management Cycle (Plan-Do-Check-Act) in Maintenance",
+      "types": [
+        "matching",
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Shadow board",
+        "Purpose of shadow boards in workshops",
+        "Tool boards and tool racks"
+      ],
+      "asked": 1,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": false,
+      "id": "shadow-board",
+      "keywords": [
+        {
+          "bn": "দেয়ালের বোর্ড, যেখানে প্রতিটি tool-এর আকার আঁকা থাকে",
+          "en": "Shadow board"
+        },
+        {
+          "bn": "হাতে চালানো যন্ত্রপাতি",
+          "en": "Hand tools"
+        },
+        {
+          "bn": "এক নজরে মিলিয়ে দেখা",
+          "en": "Quick check"
+        },
+        {
+          "bn": "যন্ত্রপাতি ঝোলানোর বোর্ড",
+          "en": "Tool boards"
+        },
+        {
+          "bn": "হারানো বা ফেরত না আসা যন্ত্র",
+          "en": "Missing tools"
+        }
+      ],
+      "oneLine": "A shadow board is a fixed wall board showing the shapes of individual hand tools.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Shadow Board and Tool Boards",
+      "types": [
+        "mcq"
+      ]
+    },
+    {
+      "aliases": [
+        "Shop layout factors",
+        "Factors in laying out a workshop",
+        "Workshop layout"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "shop-layout-factors",
+      "keywords": [
+        {
+          "bn": "কোথায় কী বসানো হবে তার নকশা",
+          "en": "Layout"
+        },
+        {
+          "bn": "ঘরের মেঝের নকশা, মোট জায়গা",
+          "en": "Floor plan"
+        },
+        {
+          "bn": "মেশিন বসানোর জায়গা",
+          "en": "Machine placement"
+        },
+        {
+          "bn": "চলাচলের পথ",
+          "en": "Lanes of travel"
+        },
+        {
+          "bn": "ভবিষ্যতে বাড়ানোর সুযোগ",
+          "en": "Future expansion"
+        }
+      ],
+      "oneLine": "Shop layout starts with the floor plan, light, ventilation and power supply.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Factors to Consider in Laying Out a Shop",
+      "types": []
+    },
+    {
+      "aliases": [
+        "What are the steps involved in maintaining training equipment and tools?",
+        "Tool maintenance activities",
+        "What to do with damaged or unsafe equipment"
+      ],
+      "asked": 2,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": false,
+      "id": "steps-maintaining-equipment",
+      "keywords": [
+        {
+          "bn": "নিয়মিত পরিদর্শন",
+          "en": "Regular Inspection"
+        },
+        {
+          "bn": "সঠিক জায়গায় গুছিয়ে রাখা",
+          "en": "Proper Storage"
+        },
+        {
+          "bn": "লিখে রেকর্ড রাখা",
+          "en": "Documentation"
+        },
+        {
+          "bn": "নষ্ট যন্ত্রে চিহ্ন বা ট্যাগ লাগানো",
+          "en": "Tagging of defective tools"
+        },
+        {
+          "bn": "কোম্পানির দেওয়া ব্যবহার-নির্দেশিকা",
+          "en": "Manufacturer's manual"
+        }
+      ],
+      "oneLine": "Maintaining training equipment and tools is essential for safety, efficiency, and longevity.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Steps in Maintaining Training Equipment and Tools",
+      "types": [
+        "mcq",
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Disposal of toxic waste",
+        "Recycling workshop waste",
+        "Materials that can be recycled"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "toxic-waste-disposal",
+      "keywords": [
+        {
+          "bn": "বিষাক্ত বর্জ্য",
+          "en": "Toxic waste"
+        },
+        {
+          "bn": "ফেলে দেওয়া বা নিষ্পত্তি",
+          "en": "Disposal"
+        },
+        {
+          "bn": "ড্রেন বা নর্দমা ব্যবস্থা",
+          "en": "Sewerage"
+        },
+        {
+          "bn": "ছলকে পড়া তরল",
+          "en": "Spills"
+        },
+        {
+          "bn": "আবার ব্যবহারের জন্য প্রক্রিয়া করা",
+          "en": "Recycled"
+        }
+      ],
+      "oneLine": "First positively identify toxic materials; identification enables the correct disposal procedure.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Disposal of Toxic Waste and Recycling",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Characteristics of well-organised workshops",
+        "Characteristics of well-organized workshops",
+        "Indicators of a well-organized training workshop"
+      ],
+      "asked": 1,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "well-organised-workshop",
+      "keywords": [
+        {
+          "bn": "সুন্দরভাবে গোছানো ওয়ার্কশপ",
+          "en": "Well-organised workshop"
+        },
+        {
+          "bn": "লক্ষণ, যা দেখে বোঝা যায়",
+          "en": "Indicator"
+        },
+        {
+          "bn": "দুর্ঘটনায় কী করতে হবে তার নিয়ম",
+          "en": "Emergency procedures"
+        },
+        {
+          "bn": "চলাচলের পথ",
+          "en": "Aisles"
+        },
+        {
+          "bn": "আগুন নেভানোর যন্ত্র",
+          "en": "Fire extinguishers"
+        }
+      ],
+      "oneLine": "A well-organised workshop is safe, clean, well stored and has clear emergency procedures.",
+      "score": 7,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Characteristics of a Well-Organised Workshop",
+      "types": [
+        "matching"
+      ]
+    },
+    {
+      "aliases": [
+        "Why maintain equipment?",
+        "Why maintain your equipment?",
+        "What can we gain from maintaining our facilities?",
+        "How maintaining facilities creates a positive image for an organization"
+      ],
+      "asked": 2,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "why-maintain-facilities",
+      "keywords": [
+        {
+          "bn": "মূল উদ্দেশ্য",
+          "en": "General Objective"
+        },
+        {
+          "bn": "সবচেয়ে ভালো অবস্থা",
+          "en": "Optimum condition"
+        },
+        {
+          "bn": "সবচেয়ে কম খরচ",
+          "en": "Minimum cost"
+        },
+        {
+          "bn": "কর্মীদের মনোবল",
+          "en": "MORALE"
+        },
+        {
+          "bn": "যেকোনো সময় চালানোর জন্য প্রস্তুত থাকা",
+          "en": "Operational readiness"
+        }
+      ],
+      "oneLine": "To maintain the optimum condition of physical facilities at acceptable levels and minimum cost to satisfy the expected demands of TVET programs and activities.",
+      "score": 9,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Why Maintain Equipment and Facilities: Objectives and Gains",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Workshop environmental factors",
+        "Temperature, ventilation and lighting",
+        "Good lighting in the workshop"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "workshop-environmental-factors",
+      "keywords": [
+        {
+          "bn": "তাপমাত্রা",
+          "en": "Temperature"
+        },
+        {
+          "bn": "বাতাস চলাচল",
+          "en": "Ventilation"
+        },
+        {
+          "bn": "আলোর ব্যবস্থা",
+          "en": "Lighting"
+        },
+        {
+          "bn": "অতিরিক্ত গরম বা ঠান্ডায় শরীরের কষ্ট",
+          "en": "Thermal stress"
+        },
+        {
+          "bn": "চোখ ধাঁধানো তীব্র আলো",
+          "en": "Glare"
+        }
+      ],
+      "oneLine": "Temperature, ventilation and lighting are three environment elements we can control.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Workshop Environmental Factors: Temperature, Ventilation and Lighting",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Safety factors",
+        "Procedures that assist in providing a safe working environment",
+        "Safe work practices in the training workshop"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "workshop-safety-procedures",
+      "keywords": [
+        {
+          "bn": "নিরাপদ কাজের পরিবেশ",
+          "en": "Safe working environment"
+        },
+        {
+          "bn": "সুরক্ষা পোশাক",
+          "en": "Protective clothing"
+        },
+        {
+          "bn": "বিপজ্জনক রাসায়নিক",
+          "en": "Hazardous chemicals"
+        },
+        {
+          "bn": "হাতে ভারী জিনিস তোলা, টানা বা ঠেলা",
+          "en": "Manual handling"
+        },
+        {
+          "bn": "যথাযথ কর্তৃপক্ষ",
+          "en": "Appropriate authority"
+        }
+      ],
+      "oneLine": "Simple safety rules let all trainees work safely and confidently in the workshop.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Safety Factors: Procedures for a Safe Workshop",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Storage requirements",
+        "Security in the workshop",
+        "Access to the workshop",
+        "Storage of flammable and poisonous materials"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": true,
+      "id": "workshop-storage-security",
+      "keywords": [
+        {
+          "bn": "জিনিসপত্র গুছিয়ে রাখার জায়গা",
+          "en": "Storage"
+        },
+        {
+          "bn": "সহজে আগুন ধরে এমন",
+          "en": "Flammable"
+        },
+        {
+          "bn": "বিষাক্ত",
+          "en": "Poisonous"
+        },
+        {
+          "bn": "নিরাপত্তা",
+          "en": "Security"
+        },
+        {
+          "bn": "প্রবেশ ও ব্যবহারের সুযোগ",
+          "en": "Access"
+        }
+      ],
+      "oneLine": "Storage should allow easy storage and retrieval, ease of stock control and security.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Workshop Storage, Security and Access",
+      "types": []
+    },
+    {
+      "aliases": [
+        "What are the main sources of Competency Standards Document?",
+        "Identify relevant competency standards for own technical field",
+        "12 occupational sub sectors of the TVET Reform Project"
+      ],
+      "asked": 1,
+      "cblmPrimary": 7,
+      "cblms": [
+        7
+      ],
+      "highlighted": true,
+      "id": "competency-standard-sources",
+      "keywords": [
+        {
+          "bn": "কোনো trade-এ কী কী দক্ষতা লাগবে তার সরকারি মানদণ্ড",
+          "en": "Competency Standard Document"
+        },
+        {
+          "bn": "বাংলাদেশ কারিগরি শিক্ষা বোর্ড (Bangladesh Technical Education Board)",
+          "en": "BTEB"
+        },
+        {
+          "bn": "আন্তর্জাতিক শ্রম সংস্থা (International Labor Organization)",
+          "en": "ILO"
+        },
+        {
+          "bn": "টেকনিক্যাল ট্রেনিং সেন্টার / টেকনিক্যাল স্কুল অ্যান্ড কলেজ",
+          "en": "TTC / TSC"
+        },
+        {
+          "bn": "একটা খাতের ভেতরের আলাদা পেশা",
+          "en": "Occupational sub sectors"
+        }
+      ],
+      "oneLine": "A trainer first accesses the competency standard for his own technical field. Sources: BTEB, ILO, TTC, TSC.",
+      "score": 5,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Sources of Competency Standards Documents (CBLM 7)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Maintain technical competency",
+        "Why is it important for a TVET trainer to maintain technical competency?",
+        "Technical skills upgrading of TVET teachers"
+      ],
+      "asked": 2,
+      "cblmPrimary": 7,
+      "cblms": [
+        7
+      ],
+      "highlighted": true,
+      "id": "maintaining-technical-competency",
+      "keywords": [
+        {
+          "bn": "নিজের trade-এর কারিগরি দক্ষতা",
+          "en": "Technical competency"
+        },
+        {
+          "bn": "যে খাত সবসময় বদলায়",
+          "en": "Dynamic industry"
+        },
+        {
+          "bn": "দক্ষতা বাড়িয়ে হালনাগাদ করা",
+          "en": "Upgrade"
+        },
+        {
+          "bn": "জাতীয় কারিগরি ও বৃত্তিমূলক যোগ্যতা কাঠামো (National Technical and Vocational Qualification Framework)",
+          "en": "NTVQF"
+        },
+        {
+          "bn": "শিল্প খাতের দক্ষতা পরিষদ, যারা institution আর industry-কে যুক্ত করে",
+          "en": "Industry Skill Councils"
+        }
+      ],
+      "oneLine": "TVET is a dynamic industry. Trainers maintain and enhance technical competency to cope with change.",
+      "score": 8,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Why Maintain and Enhance Technical Competency (CBLM 7)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Develop personal training plan for development of technical competency",
+        "Technical competency development plan",
+        "TVET Teacher/Trainer Technical Competency Development Planner",
+        "Who will authorize the technical competency enhancement plan?"
+      ],
+      "asked": 1,
+      "cblmPrimary": 7,
+      "cblms": [
+        7
+      ],
+      "highlighted": true,
+      "id": "technical-competency-development-plan",
+      "keywords": [
+        {
+          "bn": "নিজের কারিগরি দক্ষতা বাড়ানোর লিখিত পরিকল্পনা",
+          "en": "Technical competency development plan"
+        },
+        {
+          "bn": "training শেষে কী কী করতে পারবেন",
+          "en": "Learning outcomes"
+        },
+        {
+          "bn": "competent হওয়ার প্রমাণ",
+          "en": "Evidence"
+        },
+        {
+          "bn": "কর্তৃপক্ষের অনুমোদন",
+          "en": "Approval"
+        },
+        {
+          "bn": "কাজের জায়গার বাইরে / কাজের জায়গায় training",
+          "en": "Off-The-Job / On-The-Job training"
+        }
+      ],
+      "oneLine": "After finding skill and knowledge gaps, the trainer develops a technical competency development plan. It details the additional skills or competencies to be acquired.",
+      "score": 6,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Personal Plan for Technical Competency (CBLM 7)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Plan and conduct self assessment",
+        "Assess own technical skills against relevant industry competency standards",
+        "The four steps of self-assessment"
+      ],
+      "asked": 0,
+      "cblmPrimary": 7,
+      "cblms": [
+        7
+      ],
+      "highlighted": true,
+      "id": "technical-self-assessment",
+      "keywords": [
+        {
+          "bn": "নিজের দক্ষতা নিজেই যাচাই করা",
+          "en": "Self assessment"
+        },
+        {
+          "bn": "আগে থেকে ঠিক করা মানদণ্ড (competency standard)",
+          "en": "Predefined standard"
+        },
+        {
+          "bn": "যা লাগবে আর যা আছে, তার মাঝের ঘাটতি",
+          "en": "Gap"
+        },
+        {
+          "bn": "মিলিয়ে দেখার তালিকা",
+          "en": "Checklist"
+        },
+        {
+          "bn": "দক্ষতা আরও বাড়ানো",
+          "en": "Up skilling"
+        }
+      ],
+      "oneLine": "Self assessment means assessing own skills, knowledge and competencies against a predefined standard. It determines the gap to plan future training and up skilling.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Self-Assessment of Own Technical Skills: Four Steps (CBLM 7)",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Underpinning skills and knowledge",
+        "Identifying skills gaps",
+        "Identifying knowledge gaps"
+      ],
+      "asked": 0,
+      "cblmPrimary": 7,
+      "cblms": [
+        7
+      ],
+      "highlighted": true,
+      "id": "technical-skills-knowledge-gaps",
+      "keywords": [
+        {
+          "bn": "ভিত্তির মতো নিচ থেকে ধরে রাখা",
+          "en": "Underpinning"
+        },
+        {
+          "bn": "কাজটা করতে যা অবশ্যই জানতে হবে (MUST KNOW)",
+          "en": "Underpinning knowledge"
+        },
+        {
+          "bn": "কাজটা করতে যা অবশ্যই করতে পারতে হবে",
+          "en": "Underpinning skills"
+        },
+        {
+          "bn": "দরকারি দক্ষতা আর বর্তমান দক্ষতার ঘাটতি",
+          "en": "Skills gap"
+        },
+        {
+          "bn": "competency standard-এর একটা ইউনিট",
+          "en": "Unit of Competency (UoC)"
+        }
+      ],
+      "oneLine": "Underpinning skills and knowledge are essential skills and MUST KNOW knowledge for a task.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Underpinning Skills and Knowledge: Finding Own Skills and Knowledge Gaps (CBLM 7)",
+      "types": []
+    },
+    {
+      "aliases": [
+        "What are the 2 strategies for technical competency enhancement?",
+        "Learning strategy to learn new technology or industry demand",
+        "Location, duration and cost of technical competency training"
+      ],
+      "asked": 2,
+      "cblmPrimary": 7,
+      "cblms": [
+        7
+      ],
+      "highlighted": true,
+      "id": "technical-training-strategy",
+      "keywords": [
+        {
+          "bn": "gap পূরণের জন্য কোন পথে শিখবেন",
+          "en": "Learning/training strategy"
+        },
+        {
+          "bn": "industry-তে গিয়ে হাতে-কলমে শেখা",
+          "en": "Industrial attachment"
+        },
+        {
+          "bn": "কোনো institute-এর প্রশিক্ষণ কোর্স",
+          "en": "Training course"
+        },
+        {
+          "bn": "training কত দিনের (short-term বা long-term)",
+          "en": "Duration"
+        },
+        {
+          "bn": "বিভিন্ন institute-এর খরচের প্রস্তাব",
+          "en": "Quotations"
+        }
+      ],
+      "oneLine": "The two strategies for technical competency enhancement are training course/program and industrial attachment.",
+      "score": 8,
+      "sourceType": "cblm",
+      "stars": 3,
+      "status": "draft",
+      "title": "Learning/Training Strategy for Technical Competency: Course or Industrial Attachment (CBLM 7)",
+      "types": [
         "short"
       ]
     },
@@ -2038,6 +4853,7 @@
       "asked": 1,
       "cblmPrimary": 8,
       "cblms": [
+        6,
         8
       ],
       "highlighted": true,
@@ -2069,7 +4885,7 @@
         }
       ],
       "oneLine": "CBLM's major parts: information sheet, self check sheet, answer sheet, job sheet, specification sheet.",
-      "score": 6,
+      "score": 7,
       "sourceType": "cblm",
       "stars": 2,
       "status": "draft",
@@ -2751,6 +5567,7 @@
       "asked": 0,
       "cblmPrimary": 9,
       "cblms": [
+        7,
         9
       ],
       "highlighted": true,
@@ -2778,7 +5595,7 @@
         }
       ],
       "oneLine": "Appropriate learning outcomes must be observable, measurable and written with clear verbs.",
-      "score": 4,
+      "score": 5,
       "sourceType": "cblm",
       "stars": 2,
       "status": "draft",
@@ -5322,6 +8139,7 @@
       "asked": 0,
       "cblmPrimary": 11,
       "cblms": [
+        7,
         11
       ],
       "highlighted": true,
@@ -5353,7 +8171,7 @@
         }
       ],
       "oneLine": "Evidence is information gathered and matched against a unit of competency to prove competence.",
-      "score": 3,
+      "score": 5,
       "sourceType": "cblm",
       "stars": 2,
       "status": "draft",
@@ -6446,6 +9264,7 @@
       "asked": 3,
       "cblmPrimary": 12,
       "cblms": [
+        7,
         11,
         12
       ],
@@ -6474,7 +9293,7 @@
         }
       ],
       "oneLine": "Evidence has two forms: direct evidence and indirect evidence.",
-      "score": 11,
+      "score": 14,
       "sourceType": "cblm",
       "stars": 3,
       "status": "draft",
@@ -6933,5 +9752,5 @@
       ]
     }
   ],
-  "contentVersion": "5d8293ba5024"
+  "contentVersion": "6403d3bb78c8"
 }

@@ -1,0 +1,420 @@
+{
+  "id": "safety-symbols",
+  "canonical_title": "Hazard and PPE Symbols",
+  "aliases": [
+    "Hazard classified symbols",
+    "PPE symbols",
+    "What the following symbol define"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p33-662791b5"
+  ],
+  "questions": [
+    "cblm03-sc2-q1",
+    "cblm03-sc2-q2"
+  ],
+  "one_line_answer": {
+    "text": "Hazard symbols show the class of a dangerous material. PPE symbols show what PPE must be worn.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 32,
+        "quote": "Hazard Classified Symbol"
+      },
+      {
+        "src": "cblm03",
+        "page": 32,
+        "quote": "Class A Compressed Gas Classifying material"
+      },
+      {
+        "src": "cblm03",
+        "page": 33,
+        "quote": "PPE Symbol"
+      },
+      {
+        "src": "cblm03",
+        "page": 33,
+        "quote": "indicate what Personal Protective Equipment (P.P.E) must be worn",
+        "passageId": "cblm03-p33-662791b5"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Symbol",
+      "bn": "চিহ্ন"
+    },
+    {
+      "en": "Flammable",
+      "bn": "সহজে আগুন ধরে এমন"
+    },
+    {
+      "en": "Corrosive",
+      "bn": "ক্ষয়কারী, চামড়া পুড়িয়ে দেয়"
+    },
+    {
+      "en": "Toxic",
+      "bn": "বিষাক্ত"
+    },
+    {
+      "en": "Compressed gas",
+      "bn": "চাপ দিয়ে ভরা গ্যাস"
+    },
+    {
+      "en": "Face shield",
+      "bn": "মুখ ঢাকার ঢাল"
+    }
+  ],
+  "bangla_explanation": [
+    "Symbol দেখে বোঝা যায় কোন material বিপজ্জনক আর কোন PPE পরতে হবে।",
+    "Hazard symbol-এর ছয়টি Class: A compressed gas, B flammable, C oxidizing, D toxic, E corrosive, F reactive।",
+    "PPE symbol বলে কী পরতে হবে, যেমন apron, goggles, face shield, gloves।",
+    "কোনো symbol না চিনলে Safety Office-এ জিজ্ঞেস করুন।"
+  ],
+  "example": {
+    "en": "A chemistry lab bottle shows a flame symbol and a goggles symbol. The trainee wears goggles and keeps fire away.",
+    "bn": "ল্যাবের বোতলে আগুনের চিহ্ন (Class B) আর goggles-এর চিহ্ন: goggles পরুন, আগুন দূরে রাখুন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Class A Compressed Gas: a gas packaged under pressure in a cylinder.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "Class A Compressed Gas Classifying material which is a gas"
+          },
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "packaged under pressure in"
+          },
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "a cylinder or other container"
+          }
+        ]
+      },
+      {
+        "text": "Class B Flammable and Combustible Materials: will ignite and continue to burn.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "Class B Flammable and Combustible Materials Classifying"
+          },
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "material that will ignite and continue to burn in air"
+          }
+        ]
+      },
+      {
+        "text": "Class C Oxidizing Materials: release oxygen and add to the combustion of flammable materials.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "Class C Oxidizing Materials This symbol identifies material"
+          },
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "that releases oxygen or other oxidizing substances"
+          },
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "contributing to the combustion of other flammable materials"
+          }
+        ]
+      },
+      {
+        "text": "Class D toxic and infectious materials: the greatest potential hazard to life and health.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "Class D These symbols represent the class of materials that"
+          },
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "pose the greatest potential hazard to our life and health."
+          },
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "Toxic Effects The skull and cross bones identifies acutely toxic"
+          },
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "Division 3: Biohazardous Infectious Material"
+          }
+        ]
+      },
+      {
+        "text": "Class E Corrosive Material: attacks metals and damages human tissues.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "Class E Corrosive Material Corrosive material can attack metals"
+          },
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "can cause permanent damage to human"
+          },
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "tissues and organs"
+          }
+        ]
+      },
+      {
+        "text": "Class F Dangerously Reactive Material: may react violently, even with water.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "Class F Dangerously Reactive Material"
+          },
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "These materials may react"
+          },
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "violently under certain conditions or react violently with water"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Self Check symbol answer: Class B Flammable and Combustible Materials.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 35,
+          "quote": "Answer Key: 2 - Work Hazards 01. What the following symbol define"
+        },
+        {
+          "src": "cblm03",
+          "page": 35,
+          "quote": "Class B Flammable and Combustible Materials Classifying material that will ignite"
+        }
+      ]
+    },
+    {
+      "text": "Self Check PPE symbols: Apron, Goggles, Face Shield, Hand Protection.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 35,
+          "quote": "Write down the meaning of the PPE symbols Apron Goggles Face Shield Hand Protection"
+        }
+      ]
+    },
+    {
+      "text": "A face shield needs safety glasses or goggles worn with it.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 33,
+          "quote": "Face Shield - Face shield must be worn."
+        },
+        {
+          "src": "cblm03",
+          "page": 33,
+          "quote": "safety glasses or goggles must also be worn with this"
+        }
+      ]
+    },
+    {
+      "text": "Respirators require specialized training before use.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 33,
+          "quote": "Use of this type of respirator requires specialized"
+        },
+        {
+          "src": "cblm03",
+          "page": 33,
+          "quote": "training"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Write down the meaning of the PPE symbols.",
+      "modelAnswer": "1. Apron: an apron resistant to the hazardous material must be worn.\n2. Goggles: chemical-resistant, splash-proof goggles must be worn.\n3. Face Shield: must be worn, with safety glasses or goggles too.\n4. Hand Protection: gloves suitable for the hazard must be worn.",
+      "keyPoints": [
+        {
+          "text": "Apron: an apron resistant to the hazardous material must be worn.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "Apron - An apron made of material resistant to the hazardous material"
+            },
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "must be worn"
+            }
+          ]
+        },
+        {
+          "text": "Goggles: chemical-resistant, splash-proof goggles must be worn.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "Goggles - Chemical-resistant, splash-proof goggles must be worn."
+            }
+          ]
+        },
+        {
+          "text": "Hand Protection: gloves offering appropriate protection must be worn.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "Hand Protection - Gloves offering appropriate protection to the"
+            },
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "hazard must be worn."
+            }
+          ]
+        },
+        {
+          "text": "If you are unsure of a symbol, contact the Safety Office.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "if you encounter a symbol you are unsure of"
+            },
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "contact the Safety Office for clarification"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "A symbol marks material that will ignite and keep burning in air. Which class is it?",
+      "options": [
+        "Class B Flammable and Combustible Materials",
+        "Class A Compressed Gas",
+        "Class C Oxidizing Materials",
+        "Class E Corrosive Material"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 32,
+        "quote": "Class B Flammable and Combustible Materials Classifying"
+      }
+    },
+    "matching": {
+      "prompt": "Match each PPE symbol with its meaning.",
+      "pairs": [
+        {
+          "left": "Dust mask",
+          "right": "A dust mask must be used",
+          "cite": {
+            "src": "cblm03",
+            "page": 33,
+            "quote": "Dust mask required - A dust mask must be used."
+          }
+        },
+        {
+          "left": "Apron",
+          "right": "Resistant to the hazardous material",
+          "cite": {
+            "src": "cblm03",
+            "page": 33,
+            "quote": "Apron - An apron made of material resistant to the hazardous material"
+          }
+        },
+        {
+          "left": "Goggles",
+          "right": "Chemical-resistant, splash-proof",
+          "cite": {
+            "src": "cblm03",
+            "page": 33,
+            "quote": "Goggles - Chemical-resistant, splash-proof goggles must be worn."
+          }
+        },
+        {
+          "left": "Foot Protection",
+          "right": "Protective footwear",
+          "cite": {
+            "src": "cblm03",
+            "page": 33,
+            "quote": "Foot Protection - Protective footwear appropriate to the hazard must"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What does the skull and cross bones symbol mean?",
+      "answer": {
+        "text": "It identifies acutely toxic material, Class D Division 1.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "The skull and cross bones identifies acutely toxic"
+          },
+          {
+            "src": "cblm03",
+            "page": 32,
+            "quote": "Division 1: Materials Causing Immediate and Serious"
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "traps[0]",
+      "note": "cblm03-sc2-q1 and sc2-q2 are picture questions (p.34). The symbol images are not in the extracted text; the answers come from the answer key (p.35). A reviewer should confirm the pictures match."
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "id": "accident-definition",
+  "canonical_title": "Accident and Incident",
+  "aliases": [
+    "What is accident?",
+    "Accident vs incident",
+    "Four elements of an accident"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p20-4fd505f8",
+    "cblm03-p20-30bd28ee"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "An accident is an unplanned and uncontrolled event that results in injury or damage.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 20,
+        "quote": "An accident is an unplanned and uncontrolled event",
+        "passageId": "cblm03-p20-4fd505f8"
+      },
+      {
+        "src": "cblm03",
+        "page": 20,
+        "quote": "results in personal injury or/and property or/and environmental damage"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Accident",
+      "bn": "দুর্ঘটনা"
+    },
+    {
+      "en": "Incident (near miss)",
+      "bn": "অল্পের জন্য বেঁচে যাওয়া ঘটনা"
+    },
+    {
+      "en": "Unplanned",
+      "bn": "অপরিকল্পিত"
+    },
+    {
+      "en": "Human error",
+      "bn": "মানুষের ভুল"
+    },
+    {
+      "en": "Four elements",
+      "bn": "চারটি উপাদান"
+    }
+  ],
+  "bangla_explanation": [
+    "Accident হলো হঠাৎ, অপরিকল্পিত ঘটনা, যাতে মানুষ আহত হয় বা property ও environmental damage হয়।",
+    "Incident মানে near miss: এবার ক্ষতি হয়নি, কিন্তু হতে পারত।",
+    "চারটি elements: মানুষের কাজ, যন্ত্র, উপকরণ আর পদ্ধতি; এদের action বা reaction থেকে accident হয়।",
+    "বেশিরভাগ accident human error থেকে হয়, তাই এগুলো prevented করা যায়।"
+  ],
+  "example": {
+    "en": "A box falls from a shelf in a store room. Nobody is hurt. That is an incident, a near miss.",
+    "bn": "তাক থেকে বাক্স পড়ল, কেউ আহত হলো না: এটা incident বা near miss।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Human Activities",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 20,
+            "quote": "Human Activities"
+          }
+        ]
+      },
+      {
+        "text": "Equipment/Machines",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 20,
+            "quote": "Equipment/Machines"
+          }
+        ]
+      },
+      {
+        "text": "Materials/Substances",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 20,
+            "quote": "Materials/Substances and"
+          }
+        ]
+      },
+      {
+        "text": "Process/System",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 20,
+            "quote": "Process/System"
+          }
+        ]
+      }
+    ],
+    "declaredCount": {
+      "n": 4,
+      "cite": {
+        "src": "cblm03",
+        "page": 20,
+        "quote": "Accident happen due to the action or reaction between four elements"
+      }
+    }
+  },
+  "traps": [
+    {
+      "text": "An incident is a near miss that could have caused injury or damage.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 20,
+          "quote": "Incidents are related term with accident and may be defined as a near miss, which under different circumstances could have resulted in personal injury, equipment damage"
+        }
+      ]
+    },
+    {
+      "text": "Most accidents come from human error. These accidents can be prevented.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 19,
+          "quote": "Most accidents however occur as a result of human error"
+        },
+        {
+          "src": "cblm03",
+          "page": 19,
+          "quote": "These accidents can be prevented."
+        }
+      ]
+    },
+    {
+      "text": "Accidents result in harm to humans, or property or environmental damage.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 20,
+          "quote": "Accidents result in"
+        },
+        {
+          "src": "cblm03",
+          "page": 20,
+          "quote": "Loss of life/harm to human or"
+        },
+        {
+          "src": "cblm03",
+          "page": 20,
+          "quote": "Property or environmental damage."
+        }
+      ]
+    },
+    {
+      "text": "Attitude is an all-important factor in the chain of events.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 20,
+          "quote": "They have a different attitude to safety"
+        },
+        {
+          "src": "cblm03",
+          "page": 20,
+          "quote": "is an all-important factor in the chain of events which leads to someone causing"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is an accident? Name the four elements involved.",
+      "modelAnswer": "An accident is an unplanned and uncontrolled event that results in personal injury, property damage or environmental damage.\nIt happens due to action or reaction between four elements:\n1. Human Activities\n2. Equipment/Machines\n3. Materials/Substances\n4. Process/System",
+      "keyPoints": [
+        {
+          "text": "Accidents happen due to action or reaction between four elements.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 20,
+              "quote": "Accident happen due to the action or reaction between four elements",
+              "passageId": "cblm03-p20-30bd28ee"
+            }
+          ]
+        },
+        {
+          "text": "Nobody deliberately has an accident.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 19,
+              "quote": "Nobody deliberately has an accident;"
+            }
+          ]
+        },
+        {
+          "text": "Normally accidents do not just happen. They are caused.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 20,
+              "quote": "Normally accidents do not just happen. They are caused"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "A near miss that could have caused injury is called:",
+      "options": [
+        "Incident",
+        "Accident",
+        "Hazard",
+        "Risk"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 20,
+        "quote": "Incidents are related term with accident and may be defined as a near miss"
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "Accident",
+          "right": "An unplanned and uncontrolled event",
+          "cite": {
+            "src": "cblm03",
+            "page": 20,
+            "quote": "An accident is an unplanned and uncontrolled event"
+          }
+        },
+        {
+          "left": "Incident",
+          "right": "A near miss",
+          "cite": {
+            "src": "cblm03",
+            "page": 20,
+            "quote": "Incidents are related term with accident and may be defined as a near miss"
+          }
+        },
+        {
+          "left": "Human error",
+          "right": "Cause of most accidents",
+          "cite": {
+            "src": "cblm03",
+            "page": 19,
+            "quote": "Most accidents however occur as a result of human error"
+          }
+        },
+        {
+          "left": "Attitude",
+          "right": "An all-important factor",
+          "cite": {
+            "src": "cblm03",
+            "page": 20,
+            "quote": "is an all-important factor in the chain of events"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What is the difference between an accident and an incident?",
+      "answer": {
+        "text": "An accident results in injury or damage. An incident is a near miss.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 20,
+            "quote": "results in personal injury or/and property or/and environmental damage"
+          },
+          {
+            "src": "cblm03",
+            "page": 20,
+            "quote": "may be defined as a near miss"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

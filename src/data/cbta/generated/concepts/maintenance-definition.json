@@ -1,0 +1,315 @@
+{
+  "aliases": [
+    "Definition of Maintenance",
+    "What is maintenance?",
+    "Define maintenance"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 36,
+          "printed": 36
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "Maintenance মানে device-কে নিয়মিত যত্ন করা, যাতে সেটা working order-এ থাকে।",
+    "এর কাজ চারটা: চালু রাখা, ভালো অবস্থায় রাখা, preserve করা আর protect করা।",
+    "Repair আলাদা জিনিস: জিনিস নষ্ট হলে তখন ঠিক করা, \"fix it when it breaks\"।",
+    "পরীক্ষায় \"Define maintenance\" এলে উপরের সংজ্ঞাটা হুবহু লিখুন।"
+  ],
+  "breakdown": {
+    "exam": 5,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "কম্পিউটার নষ্ট হওয়ার আগেই নিয়মিত পরিষ্কার করা হলো maintenance।",
+    "en": "In an IT training centre, staff clean the computers every week. This keeps them in working order."
+  },
+  "highlighted": true,
+  "id": "maintenance-definition",
+  "importance": {
+    "bn": "CBT&A L4 Written Test — Inclusivity & Maintenance (Short 6) আর CBLM 6 Self Check 2 (Q1): 2 জায়গায় এসেছে। CBLM 6-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 6) and CBLM 6 Self Check 2 (Q1). Highlighted in CBLM 6. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "রক্ষণাবেক্ষণ",
+      "en": "Maintenance"
+    },
+    {
+      "bn": "নিয়মিত করা কাজ",
+      "en": "Routine actions"
+    },
+    {
+      "bn": "চালু ও কাজ করার মতো অবস্থা",
+      "en": "Working order"
+    },
+    {
+      "bn": "টিকিয়ে রাখা ও সুরক্ষা দেওয়া",
+      "en": "Preserve and protect"
+    },
+    {
+      "bn": "নষ্ট হলে ঠিক করা, মেরামত",
+      "en": "Repair"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": null,
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 36,
+        "passageId": "cblm06-p36-07181974",
+        "printedPage": 36,
+        "quote": "Maintenance is performing the routine actions which keep the device in working order, to keep in good condition, to preserve and protect the device.",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "verbatim",
+    "text": "Maintenance is performing the routine actions which keep the device in working order, to keep in good condition, to preserve and protect the device."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 36,
+            "printedPage": 36,
+            "quote": "Maintenance is performing the routine actions which keep the device in working order",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Maintenance",
+          "right": "Routine actions which keep the device in working order"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 36,
+            "printedPage": 36,
+            "quote": "order or broken: \"fix it when it breaks.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Repair",
+          "right": "Fix it when it breaks"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 36,
+            "printedPage": 36,
+            "quote": "Corrective Maintenance, is sometimes called \"repair\"",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Corrective maintenance",
+          "right": "Sometimes called \"repair\""
+        }
+      ],
+      "prompt": "Match each term with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 36,
+        "printedPage": 36,
+        "quote": "Maintenance is performing the routine actions which keep the device in working order",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Fixing a device only when it breaks",
+        "Performing routine actions which keep the device in working order",
+        "Throwing away surplus material and scrap",
+        "Building and restoring structures"
+      ],
+      "prompt": "Which statement defines maintenance?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "Maintenance is performing the routine actions which keep the device in working",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Maintenance means performing routine actions."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "keep the device in working order, to keep in good condition",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It keeps the device in working order and in good condition."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "to preserve and protect the device.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It preserves and protects the device."
+        }
+      ],
+      "modelAnswer": "Maintenance is performing the routine actions which keep the device in working order, to keep in good condition, to preserve and protect the device.\nSo maintenance:\n1. keeps the device in working order\n2. keeps it in good condition\n3. preserves and protects the device",
+      "prompt": "What is maintenance?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 36,
+            "printedPage": 36,
+            "quote": "Maintenance is performing the routine actions which keep the device in working order",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 36,
+            "printedPage": 36,
+            "quote": "order or broken: \"fix it when it breaks.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "No. Maintenance is routine actions to keep the device in working order. Repair is fixing it when it breaks."
+      },
+      "prompt": "Is maintenance the same as repair?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Maintenance is performing the routine actions which keep the device in working\norder, to keep in good condition, to preserve and protect the device.",
+      "flags": [],
+      "id": "cblm06-sc2-q1",
+      "kind": "selfcheck",
+      "label": "CBLM 6 Self Check 2 (Q1)",
+      "page": 40,
+      "printedPage": 40,
+      "question": "Define Maintenance?",
+      "src": "cblm06",
+      "type": "short"
+    },
+    {
+      "answer": "Maintenance is performing the routine actions which keep the device in working order, to keep\nin good condition, to preserve and protect the device.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-written-inclusivity-maintenance-short-q6",
+      "kind": "paper",
+      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (Short 6)",
+      "page": 3,
+      "paperClass": "official",
+      "printedPage": null,
+      "question": "What is maintenance?",
+      "src": "paper-written-inclusivity-maintenance",
+      "type": "short"
+    }
+  ],
+  "score": 8,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Maintenance: Definition",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 36,
+          "printedPage": 36,
+          "quote": "Repair is fixing any sort of mechanical or electrical device should it become out of",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 36,
+          "printedPage": 36,
+          "quote": "order or broken: \"fix it when it breaks.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Repair is different: it fixes a device that is out of order or broken."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 36,
+          "printedPage": 36,
+          "quote": "All actions which have as an objective to retain an item in or restore it to, a",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 36,
+          "printedPage": 36,
+          "quote": "state in which it can perform the required function.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Other definition: all actions to retain or restore an item to perform its required function."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 1
+}

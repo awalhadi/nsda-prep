@@ -1,0 +1,245 @@
+{
+  "id": "workplace-hazard",
+  "canonical_title": "Workplace Hazard",
+  "aliases": [
+    "What is workplace hazard?",
+    "Hazard"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p7-b124524c",
+    "cblm03-p7-34f04385",
+    "cblm03-p16-d2d718b4"
+  ],
+  "questions": [
+    "cblm03-sc1-q1"
+  ],
+  "one_line_answer": {
+    "text": "A workplace hazard is any situation that can cause harm in a workplace.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 7,
+        "quote": "So a workplace hazard would be any situation that has the potential to cause harm in a place where people practice their occupation",
+        "passageId": "cblm03-p7-34f04385"
+      },
+      {
+        "src": "cblm03",
+        "page": 7,
+        "quote": "A hazard is a source of potential harm"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Hazard",
+      "bn": "ক্ষতির উৎস; যা ক্ষতি করতে পারে"
+    },
+    {
+      "en": "Workplace",
+      "bn": "কর্মক্ষেত্র; যেখানে মানুষ পেশার কাজ করে"
+    },
+    {
+      "en": "Potential harm",
+      "bn": "সম্ভাব্য ক্ষতি"
+    },
+    {
+      "en": "Property damage",
+      "bn": "সম্পদের ক্ষতি"
+    },
+    {
+      "en": "Risk",
+      "bn": "ক্ষতি ঘটার সম্ভাবনা"
+    }
+  ],
+  "bangla_explanation": [
+    "Hazard মানে এমন কিছু বা এমন situation, যা ক্ষতি করতে পারে।",
+    "এই ক্ষতি মানুষের হতে পারে, আবার property damage-ও হতে পারে।",
+    "Workplace মানে যেখানে মানুষ তার পেশার কাজ করে।",
+    "Learning আর assessment environment-এও একই নিয়ম; কোনো environment hazard free নয়।",
+    "সাবধান: Self Check-এর answer key শুধু workplace-এর সংজ্ঞা দেয়, hazard-এর নয়।"
+  ],
+  "example": {
+    "en": "In a welding workshop, a loose cable lies on the floor. A trainee can trip on it. It is a workplace hazard.",
+    "bn": "ওয়েল্ডিং ওয়ার্কশপে মেঝেতে পড়ে থাকা খোলা তার একটি workplace hazard।"
+  },
+  "traps": [
+    {
+      "text": "The Self Check answer key defines a workplace, not a workplace hazard.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 16,
+          "quote": "Self Check: 1- Workplace Hazards"
+        },
+        {
+          "src": "cblm03",
+          "page": 17,
+          "quote": "Answer Key: 1- Workplace Hazards"
+        },
+        {
+          "src": "cblm03",
+          "page": 17,
+          "quote": "Ans: A workplace is a place where people practice their occupation"
+        }
+      ]
+    },
+    {
+      "text": "Hazards and risks are different things.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 9,
+          "quote": "clearly understand that hazards and risks resulting from hazards are something different!"
+        }
+      ]
+    },
+    {
+      "text": "Every environment has its own types of hazards. No environment is hazard free.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 7,
+          "quote": "Each environment has its own types of hazards - no environment is hazard free."
+        }
+      ]
+    },
+    {
+      "text": "Another wording: any condition, practice or behavior that could cause injury or illness.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 19,
+          "quote": "A workplace hazard is any condition, practice, or behavior that could cause injury or illness to a person"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is workplace hazard?",
+      "modelAnswer": "A hazard is a source of potential harm. It is any situation that can cause, or lead to, harm. The harm can be to people or property damage. So a workplace hazard is any situation that can cause harm where people practise their occupation.",
+      "keyPoints": [
+        {
+          "text": "A hazard is a source of potential harm.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 7,
+              "quote": "A hazard is a source of potential harm"
+            }
+          ]
+        },
+        {
+          "text": "The harm can be to people or property damage.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 7,
+              "quote": "This can be harm to people or property damage."
+            }
+          ]
+        },
+        {
+          "text": "The same principle applies to learning and assessment environments.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 7,
+              "quote": "The same principle applies to learning and/or assessment environments."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "What is a hazard?",
+      "options": [
+        "A source of potential harm",
+        "A place where people practise their occupation",
+        "The chance of an injury happening",
+        "The control of last resort"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 7,
+        "quote": "A hazard is a source of potential harm"
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "Hazard",
+          "right": "A source of potential harm",
+          "cite": {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "A hazard is a source of potential harm"
+          }
+        },
+        {
+          "left": "Workplace",
+          "right": "A place where people practise their occupation",
+          "cite": {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "A workplace is a place where people practice their occupation"
+          }
+        },
+        {
+          "left": "Risk",
+          "right": "The chance of an injury or illness happening",
+          "cite": {
+            "src": "cblm03",
+            "page": 29,
+            "quote": "Risk is an estimate of the chance of an injury/illness happening in a hazardous situation."
+          }
+        },
+        {
+          "left": "Workplace hazard",
+          "right": "A situation that can cause harm where people work",
+          "cite": {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "So a workplace hazard would be any situation that has the potential to cause harm"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Is a hazard the same as a risk?",
+      "answer": {
+        "text": "No. Hazards and the risks resulting from hazards are different.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 9,
+            "quote": "clearly understand that hazards and risks resulting from hazards are something different!"
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "one_line_answer",
+      "note": "cblm03-sc1-q1: the answer key (p.17) defines only a workplace, not a hazard. The card teaches the p.7 information-sheet definition. Errata: cblm03-sc1-q1-workplace-hazard."
+    },
+    {
+      "path": "traps[3]",
+      "note": "CBLM 3 gives three more hazard wordings (p.8 'anything that is a threat to health and safety', p.19 'any condition, practice, or behavior', p.29 'something with the potential to harm'). They agree in meaning; the card uses p.7 as the main definition."
+    }
+  ]
+}

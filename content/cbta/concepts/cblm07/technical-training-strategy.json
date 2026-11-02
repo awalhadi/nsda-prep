@@ -1,0 +1,184 @@
+{
+  "id": "technical-training-strategy",
+  "canonical_title": "Learning/Training Strategy for Technical Competency: Course or Industrial Attachment (CBLM 7)",
+  "aliases": [
+    "What are the 2 strategies for technical competency enhancement?",
+    "Learning strategy to learn new technology or industry demand",
+    "Location, duration and cost of technical competency training"
+  ],
+  "cblmPrimary": 7,
+  "source_type": "cblm",
+  "covers": [
+    "cblm07-p13-0b7f5ada",
+    "cblm07-p14-3c331613"
+  ],
+  "questions": [
+    "cblm07-sc1-q3",
+    "cblm07-sc1-q5"
+  ],
+  "one_line_answer": {
+    "text": "The two strategies for technical competency enhancement are training course/program and industrial attachment.",
+    "fidelity": "paraphrase",
+    "cites": [
+      { "src": "cblm07", "page": 21, "quote": "The major 2 strategies for technical competency enhancement are:" },
+      { "src": "cblm07", "page": 21, "quote": "Training course/program" },
+      { "src": "cblm07", "page": 21, "quote": "Industrial Attachment" }
+    ]
+  },
+  "keywords": [
+    { "en": "Learning/training strategy", "bn": "gap পূরণের জন্য কোন পথে শিখবেন" },
+    { "en": "Industrial attachment", "bn": "industry-তে গিয়ে হাতে-কলমে শেখা" },
+    { "en": "Training course", "bn": "কোনো institute-এর প্রশিক্ষণ কোর্স" },
+    { "en": "Duration", "bn": "training কত দিনের (short-term বা long-term)" },
+    { "en": "Quotations", "bn": "বিভিন্ন institute-এর খরচের প্রস্তাব" }
+  ],
+  "bangla_explanation": [
+    "Gap পূরণের দুটো পথ: training course-এ ভর্তি হওয়া, অথবা industrial attachment করা।",
+    "Industry-তে এখন চলা new technology শিখতে চাইলে industrial attachment বেশি relevant।",
+    "শুধু skills improvement দরকার হলে training course-ই যথেষ্ট।",
+    "Strategy ঠিক করার পর location, duration আর cost ঠিক করতে হয়; local industries আগে।",
+    "Strategy চূড়ান্ত করতে supervisor-এর সাথে consult করতে হয়।"
+  ],
+  "example": {
+    "en": "A leather machine trainer needs a new stitching technology. He chooses a three-month attachment at a local leather factory.",
+    "bn": "নতুন technology শিখতে local factory-তে industrial attachment সবচেয়ে ভালো।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Training course/program: attend it for skills improvement.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm07", "page": 21, "quote": "Training course/program" },
+          { "src": "cblm07", "page": 13, "quote": "for the case of skills improvement one can attend training program/courses." }
+        ]
+      },
+      {
+        "text": "Industrial attachment: more relevant to learn new technology practised in industry.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm07", "page": 21, "quote": "Industrial Attachment" },
+          { "src": "cblm07", "page": 13, "quote": "needs to learn new technology currently practising in the industry then industrial attachment is more relevant" }
+        ]
+      }
+    ],
+    "declaredCount": {
+      "n": 2,
+      "cite": { "src": "cblm07", "page": 21, "quote": "The major 2 strategies for technical competency enhancement are:" }
+    }
+  },
+  "traps": [
+    {
+      "text": "To learn new technology and industry demand, choose industrial attachment, not a course.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm07", "page": 21, "quote": "Industrial Attachment is more helpful to understand and learn new technology and industry demand" }
+      ]
+    },
+    {
+      "text": "Location: look close first. Local industries get initial preference.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm07", "page": 13, "quote": "One should first look for the technical competency development facilities in the close location." },
+        { "src": "cblm07", "page": 14, "quote": "industries should get initial preference to start with" }
+      ]
+    },
+    {
+      "text": "Duration: two types of training program, short-term and long-term.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm07", "page": 14, "quote": "There can be mainly two types of training program based on timeframe." },
+        { "src": "cblm07", "page": 14, "quote": "1. Short-term Program 2. Long-term Program", "passageId": "cblm07-p14-3c331613" }
+      ]
+    },
+    {
+      "text": "Cost: collect quotations and consult the supervisor. Cost may be institutional or personal.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm07", "page": 14, "quote": "It is required for the trainer to collect quotations for different institutes and consult the supervisor." },
+        { "src": "cblm07", "page": 14, "quote": "It can be either institutional or personal effort" }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the 2 strategies for technical competency enhancement?",
+      "modelAnswer": "The two strategies for technical competency enhancement are:\n1. Training course/program: attend it for skills improvement.\n2. Industrial attachment: more relevant to learn new technology used in industry.\nThe trainer consults the supervisor to finalize the strategy. Then he decides location, duration and cost.",
+      "keyPoints": [
+        {
+          "text": "One can get admitted to training courses or arrange an industrial attachment program.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm07", "page": 13, "quote": "One can either get admitted to some training courses or arrange industrial attachment program.", "passageId": "cblm07-p13-0b7f5ada" }
+          ]
+        },
+        {
+          "text": "The trainer consults the supervisor to finalize the learning strategy.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm07", "page": 13, "quote": "TVET teacher/trainer should consult his/her supervisor to finalize the learning strategy." }
+          ]
+        },
+        {
+          "text": "Decide the strategy based on the nature of the skills and relevance with industry.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm07", "page": 13, "quote": "Based on the nature of the skills need to acquire and its relevance with the industry one can decide what kind of training strategy s/he should accept." }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which learning strategy is best to learn new technology or industry demand?",
+      "options": [
+        "Short-term program",
+        "Training course/program",
+        "Industrial attachment",
+        "Self assessment"
+      ],
+      "answerIndex": 2,
+      "answerCite": { "src": "cblm07", "page": 21, "quote": "Industrial Attachment is more helpful to understand and learn new technology and industry demand" }
+    },
+    "matching": {
+      "prompt": "Match each planning issue with what CBLM 7 says.",
+      "pairs": [
+        {
+          "left": "Location",
+          "right": "Local industries get initial preference",
+          "cite": { "src": "cblm07", "page": 14, "quote": "industries should get initial preference to start with" }
+        },
+        {
+          "left": "Duration",
+          "right": "Short-term or long-term program",
+          "cite": { "src": "cblm07", "page": 14, "quote": "1. Short-term Program 2. Long-term Program" }
+        },
+        {
+          "left": "Cost",
+          "right": "Collect quotations and consult the supervisor",
+          "cite": { "src": "cblm07", "page": 14, "quote": "It is required for the trainer to collect quotations for different institutes and consult the supervisor." }
+        },
+        {
+          "left": "Industrial attachment",
+          "right": "Learn new technology practised in industry",
+          "cite": { "src": "cblm07", "page": 13, "quote": "needs to learn new technology currently practising in the industry then industrial attachment is more relevant" }
+        },
+        {
+          "left": "Training course",
+          "right": "Skills improvement",
+          "cite": { "src": "cblm07", "page": 13, "quote": "for the case of skills improvement one can attend training program/courses." }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why should local industries get first preference for training?",
+      "answer": {
+        "text": "The trainer first learns technology used in local industries. Then he spreads it among students.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm07", "page": 14, "quote": "a TVET teacher/trainer first need to learn the technology used in local industries and spread those skills and knowledge among the students" }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

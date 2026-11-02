@@ -1,0 +1,195 @@
+{
+  "id": "maintaining-technical-competency",
+  "canonical_title": "Why Maintain and Enhance Technical Competency (CBLM 7)",
+  "aliases": [
+    "Maintain technical competency",
+    "Why is it important for a TVET trainer to maintain technical competency?",
+    "Technical skills upgrading of TVET teachers"
+  ],
+  "cblmPrimary": 7,
+  "source_type": "cblm",
+  "covers": [
+    "cblm07-p6-dabaaf73",
+    "cblm07-p6-61188f24",
+    "cblm07-p7-752ae7bd"
+  ],
+  "questions": [
+    "cblm07-sc1-q1",
+    "paper-short-questions-q30"
+  ],
+  "one_line_answer": {
+    "text": "TVET is a dynamic industry. Trainers maintain and enhance technical competency to cope with change.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm07",
+        "page": 6,
+        "quote": "Technical Vocational Education and Training (TVET) is a dynamic industry.",
+        "passageId": "cblm07-p6-dabaaf73"
+      },
+      {
+        "src": "cblm07",
+        "page": 6,
+        "quote": "TVET teachers/trainers also need to maintain and enhance their technical competency to cope up with this change."
+      }
+    ]
+  },
+  "keywords": [
+    { "en": "Technical competency", "bn": "নিজের trade-এর কারিগরি দক্ষতা" },
+    { "en": "Dynamic industry", "bn": "যে খাত সবসময় বদলায়" },
+    { "en": "Upgrade", "bn": "দক্ষতা বাড়িয়ে হালনাগাদ করা" },
+    { "en": "NTVQF", "bn": "জাতীয় কারিগরি ও বৃত্তিমূলক যোগ্যতা কাঠামো (National Technical and Vocational Qualification Framework)" },
+    { "en": "Industry Skill Councils", "bn": "শিল্প খাতের দক্ষতা পরিষদ, যারা institution আর industry-কে যুক্ত করে" }
+  ],
+  "bangla_explanation": [
+    "TVET একটা dynamic industry, কারণ technology প্রতিদিন বদলাচ্ছে।",
+    "Industry এমন লোক চায়, যারা updated technologies ব্যবহার করতে পারে।",
+    "Trainer নিজে নতুন equipment চালাতে না পারলে trainees-কে শেখাবেন কীভাবে? তাই upgrade দরকার।",
+    "এই কাজে NTVQF মেনে নিজের field-এর competency standard খুঁজে বের করতে হয়।",
+    "Industry Skill Councils TVET institutions আর industry-র মধ্যে linkages তৈরি করে।"
+  ],
+  "example": {
+    "en": "A welding trainer at a TTC sees new welding machines in local industry. He upgrades his own skills first. Then he teaches his trainees.",
+    "bn": "নিজে আগে নতুন machine শিখুন, তারপর trainee-কে শেখান।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Technology is changing everyday.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm07", "page": 6, "quote": "Technology is changing everyday" }
+        ]
+      },
+      {
+        "text": "Industries demand skilled manpower competent in using updated technologies.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm07", "page": 6, "quote": "different industries are demanding skilled manpower competent in using updated technologies" }
+        ]
+      },
+      {
+        "text": "Trainers must upgrade technical skills to operate and maintain new equipment and tools.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm07", "page": 6, "quote": "There is a need to upgrade the technical skills of TVET Teachers to operate and maintain new equipment and tools" }
+        ]
+      },
+      {
+        "text": "Then they can train the trainees to operate and maintain this new equipment.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm07", "page": 6, "quote": "be able to train the trainees in the operation and maintenance of these new equipment" }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "The framework is NTVQF. It is not PTQF or AQTF.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm07", "page": 21, "quote": "Framework (NTVQF) to plan their technical competency development." },
+        { "src": "cblm07", "page": 19, "quote": "The Philippine TVET Qualification" },
+        { "src": "cblm07", "page": 19, "quote": "Framework (AQTF)" }
+      ]
+    },
+    {
+      "text": "Technical skills of TVET trainers are both institution based and industry based.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm07", "page": 6, "quote": "Technical Skills of TVET teachers/trainers shall be both Institution based and Industry based." }
+      ]
+    },
+    {
+      "text": "Upgrading training takes place at the premises of selected industrial establishments.",
+      "fidelity": "paraphrase",
+      "cites": [
+        { "src": "cblm07", "page": 6, "quote": "TVET teachers/trainers will undergo Technical Skills upgrading training at the premises of selected industrial establishment." }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Why is it important for a TVET trainer to maintain technical competency?",
+      "modelAnswer": "TVET is a dynamic industry, so trainers must maintain technical competency.\n1. Technology is changing every day.\n2. Industries demand skilled manpower competent in updated technologies.\n3. Trainers must upgrade skills to operate and maintain new equipment and tools.\n4. Then they can train trainees on this new equipment.\nTrainers follow NTVQF and find the relevant competency standard for their field.",
+      "keyPoints": [
+        {
+          "text": "TVET is a dynamic industry, and technology is changing every day.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm07", "page": 6, "quote": "Technical Vocational Education and Training (TVET) is a dynamic industry." },
+            { "src": "cblm07", "page": 6, "quote": "Technology is changing everyday" }
+          ]
+        },
+        {
+          "text": "Trainers upgrade skills to operate new equipment and train trainees on it.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm07", "page": 6, "quote": "There is a need to upgrade the technical skills of TVET Teachers to operate and maintain new equipment and tools" },
+            { "src": "cblm07", "page": 6, "quote": "be able to train the trainees in the operation and maintenance of these new equipment" }
+          ]
+        },
+        {
+          "text": "Trainers follow NTVQF and find the relevant competency standard for their field.",
+          "fidelity": "paraphrase",
+          "cites": [
+            { "src": "cblm07", "page": 6, "quote": "Vocational Qualification Framework (NTVQF) a TVET teacher/trainer needs to follow certain procedure and find out relevant competency standard for his field." }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which framework should a TVET trainer follow to plan technical competency development?",
+      "options": [
+        "The Philippine TVET Qualification Framework (PTQF)",
+        "National Technical and Vocational Qualification Framework (NTVQF)",
+        "Australian Quality Training Framework (AQTF)",
+        "None of the above"
+      ],
+      "answerIndex": 1,
+      "answerCite": { "src": "cblm07", "page": 21, "quote": "Framework (NTVQF) to plan their technical competency development." }
+    },
+    "matching": {
+      "prompt": "Match each body with its role in trainer skills upgrading.",
+      "pairs": [
+        {
+          "left": "Industry Skill Councils",
+          "right": "Facilitate linkages of training with industry",
+          "cite": { "src": "cblm07", "page": 7, "quote": "facilitate linkages of training with industry and coordinate implementation of the", "passageId": "cblm07-p7-752ae7bd" }
+        },
+        {
+          "left": "Regional Coordinators",
+          "right": "Identify and select willing industrial establishments",
+          "cite": { "src": "cblm07", "page": 6, "quote": "Regional Coordinators shall also identify and select those industrial establishments" }
+        },
+        {
+          "left": "Staff of Regional Offices",
+          "right": "Coordinate and supervise implementation of the programs",
+          "cite": { "src": "cblm07", "page": 6, "quote": "Staff of Regional Offices shall also coordinate and supervise implementation of the programs." }
+        },
+        {
+          "left": "NTVQF",
+          "right": "Framework to plan technical competency development",
+          "cite": { "src": "cblm07", "page": 21, "quote": "Framework (NTVQF) to plan their technical competency development." }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Who links TVET institutions with industry for trainer skills upgrading?",
+      "answer": {
+        "text": "Industry Skill Councils. They establish linkages between TVET institutions and industry.",
+        "fidelity": "paraphrase",
+        "cites": [
+          { "src": "cblm07", "page": 6, "quote": "Industry Skill Councils in selected sectors will play an important role in establishing linkages between TVET Institutions and Industry", "passageId": "cblm07-p6-61188f24" }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "practice.short",
+      "note": "Short Questions Q30 has no answer guide: the paper says the question is merged with the next MCQ. The model answer is built only from CBLM 7 p.6. Check the original paper wording."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "risk-matrix",
+  "canonical_title": "Risk Matrix: Likelihood and Consequence",
+  "aliases": [
+    "Tool to define and classify likelihood and consequences of a risk",
+    "Risk assessment"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p9-008e784e",
+    "cblm03-p17-6ebf9176"
+  ],
+  "questions": [
+    "cblm03-sc1-q3",
+    "paper-unit02-short-step-4-evaluate-the-results-q14",
+    "paper-short-questions-q18"
+  ],
+  "one_line_answer": {
+    "text": "A risk matrix serves well to define and classify likelihood and consequences of a risk",
+    "fidelity": "verbatim",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 9,
+        "quote": "A risk matrix serves well to define and classify likelihood and consequences of a risk.",
+        "passageId": "cblm03-p9-008e784e"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Risk matrix",
+      "bn": "ঝুঁকি মাপার ছক"
+    },
+    {
+      "en": "Likelihood",
+      "bn": "ঘটার সম্ভাবনা কতটা"
+    },
+    {
+      "en": "Consequence",
+      "bn": "ঘটলে ক্ষতি কতটা গুরুতর"
+    },
+    {
+      "en": "Descriptor",
+      "bn": "মাত্রা বোঝানোর শব্দ, যেমন rare"
+    },
+    {
+      "en": "Risk assessment",
+      "bn": "ঝুঁকি মূল্যায়ন"
+    }
+  ],
+  "bangla_explanation": [
+    "Risk মাপতে দুটি জিনিস দেখা হয়: likelihood (কতটা ঘটতে পারে) আর consequence (কতটা গুরুতর)।",
+    "Risk matrix এই দুটিকে levels দিয়ে সাজায়: almost certain থেকে rare, insignificant থেকে catastrophic।",
+    "এতে বোঝা যায় কোন risk আগে কমাতে হবে।",
+    "নিজ যাচাই আর প্রশ্নপত্র, দুই জায়গায় উত্তর একটাই: Risk Matrix।"
+  ],
+  "example": {
+    "en": "In a welding shop, burns are likely and serious. The risk matrix puts this risk high. The trainer fixes it first.",
+    "bn": "ওয়েল্ডিং শপে পুড়ে যাওয়ার likelihood আর consequence দুটোই বেশি, তাই আগে এটা ঠিক করতে হবে।"
+  },
+  "traps": [
+    {
+      "text": "The CBLM answer is Risk Matrix, not a risk-analysis checklist.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 17,
+          "quote": "Ans: Risk Matrix"
+        },
+        {
+          "src": "paper-short-questions",
+          "page": 3,
+          "quote": "Answer guide: A risk-analysis checklist."
+        }
+      ]
+    },
+    {
+      "text": "Likelihood levels go from almost certain to rare.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 9,
+          "quote": "levels of both likelihood (from almost certain to rare)"
+        }
+      ]
+    },
+    {
+      "text": "Consequence levels go from insignificant to catastrophic.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 9,
+          "quote": "consequence (from insignificant to catastrophic)"
+        }
+      ]
+    },
+    {
+      "text": "The Job sheet risk analysis scores Likelihood x Impact, with High = 3.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 18,
+          "quote": "Job: 1- Workplace Hazards Risk Analysis"
+        },
+        {
+          "src": "cblm03",
+          "page": 18,
+          "quote": "Risk analysis sheet for training workshop"
+        },
+        {
+          "src": "cblm03",
+          "page": 18,
+          "quote": "Score as follows, for Likelihood and Impact: High = 3,"
+        },
+        {
+          "src": "cblm03",
+          "page": 18,
+          "quote": "x Impact"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "To define and classify likelihood and consequences of a risk, what tool do we use?",
+      "modelAnswer": "Risk Matrix. A risk matrix defines and classifies the likelihood and consequences of a risk. It uses descriptors for levels:\n1. Likelihood: from almost certain to rare\n2. Consequence: from insignificant to catastrophic",
+      "keyPoints": [
+        {
+          "text": "A risk is assessed by its likelihood and its consequence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 9,
+              "quote": "Typically, a risk is assessed by its likelihood and its consequence."
+            }
+          ]
+        },
+        {
+          "text": "Risk assessment allows prioritizing risks for taking mitigating actions.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 9,
+              "quote": "allow prioritizing risks for taking mitigating actions"
+            }
+          ]
+        },
+        {
+          "text": "The matrix uses descriptors to define levels of likelihood and consequence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 9,
+              "quote": "A risk matrix makes use of descriptors to define levels of both likelihood"
+            },
+            {
+              "src": "cblm03",
+              "page": 9,
+              "quote": "and consequence"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which tool defines and classifies the likelihood and consequences of a risk?",
+      "options": [
+        "Risk Matrix",
+        "Risk Register",
+        "Hierarchy of controls",
+        "Hazard inspection checklist"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 17,
+        "quote": "Ans: Risk Matrix"
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "Likelihood",
+          "right": "From almost certain to rare",
+          "cite": {
+            "src": "cblm03",
+            "page": 9,
+            "quote": "likelihood (from almost certain to rare)"
+          }
+        },
+        {
+          "left": "Consequence",
+          "right": "From insignificant to catastrophic",
+          "cite": {
+            "src": "cblm03",
+            "page": 9,
+            "quote": "consequence (from insignificant to catastrophic)"
+          }
+        },
+        {
+          "left": "Risk Register",
+          "right": "Records all analysis, assessments and actions",
+          "cite": {
+            "src": "cblm03",
+            "page": 10,
+            "quote": "All analysis and assessments made as well as all actions taken need to be recorded. A Risk Register"
+          }
+        },
+        {
+          "left": "Risk matrix",
+          "right": "Classifies likelihood and consequences of a risk",
+          "cite": {
+            "src": "cblm03",
+            "page": 9,
+            "quote": "A risk matrix serves well to define and classify likelihood and consequences of a risk."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What two things decide the size of a risk?",
+      "answer": {
+        "text": "Likelihood and consequence. A risk is assessed by both.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 9,
+            "quote": "Typically, a risk is assessed by its likelihood and its consequence."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "traps[0]",
+      "note": "paper-short-questions-q18 answers 'A risk-analysis checklist' (Short Questions p.3). CBLM 3 Self Check (p.17) and paper-unit02-short Q14 answer 'Risk Matrix'. Card follows the CBLM."
+    }
+  ]
+}

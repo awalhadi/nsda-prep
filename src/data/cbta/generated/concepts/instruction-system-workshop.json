@@ -1,0 +1,424 @@
+{
+  "aliases": [
+    "Requirement for system of instruction",
+    "Teacher-centered instruction",
+    "Student-centered learning",
+    "Self-paced learning facility"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 11,
+          "printed": 11
+        },
+        {
+          "pdf": 12,
+          "printed": 12
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "কীভাবে পড়ানো হবে, তার ওপর workshop-এর design নির্ভর করে।",
+    "শিক্ষক-কেন্দ্রিক পদ্ধতিতে classroom আর workshop থাকে, সবাই একই বিষয় একসাথে শেখে।",
+    "শিক্ষার্থী-কেন্দ্রিক বা নিজের গতিতে শেখার পদ্ধতিতে প্রত্যেকে নিজের গতিতে এগোয়।",
+    "তখন একটা equipped workshop আর একটা আলাদা resource area লাগে।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "Self-paced ক্লাসে একেকজন একেক task করে, তাই resource area লাগে।",
+    "en": "In a CBT electrical course, trainees work at different tasks. Each reads the learning materials in the resource area first."
+  },
+  "highlighted": true,
+  "id": "instruction-system-workshop",
+  "importance": {
+    "bn": "CBLM 6-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 6."
+  },
+  "keywords": [
+    {
+      "bn": "শিক্ষক-কেন্দ্রিক, শিক্ষক পুরো ক্লাস চালান",
+      "en": "Teacher-centered"
+    },
+    {
+      "bn": "শিক্ষার্থী-কেন্দ্রিক",
+      "en": "Student-centered"
+    },
+    {
+      "bn": "নিজের গতিতে শেখা",
+      "en": "Self-paced learning"
+    },
+    {
+      "bn": "শেখার উপকরণ রাখার আলাদা জায়গা",
+      "en": "Resource area"
+    },
+    {
+      "bn": "সবাইকে একসাথে হাতে-কলমে দেখানো",
+      "en": "Group demonstration"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 11,
+            "passageId": "cblm06-p11-e6ead8e3",
+            "printedPage": 11,
+            "quote": "Teacher-centered instruction will normally take place in either a classroom, a",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "The classroom would be used for theory lessons, tutorials, group discussion and general activities.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Teacher-centered: classroom for theory, tutorials, group discussion and general activities."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "In the workshop where teacher-centered training occurs, each student generally has",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "their own \"workspace\"",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Teacher-centered: each student has their own workspace in the workshop."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 12,
+            "passageId": "cblm06-p12-49ae64f7",
+            "printedPage": 12,
+            "quote": "Student-centered learning",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "In this case the responsibility for achieving levels of competence is largely",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "in the hands of the individual student.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Student-centered: responsibility for competence is largely with the individual student."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "an adequately-equipped workshop where the work tasks are performed",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "a separate resource area where the student has access to learning materials",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Student-centered training areas: an adequately-equipped workshop and a separate resource area."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 11,
+        "printedPage": 11,
+        "quote": "The system of instruction used will determine the type of design and organization of",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 11,
+        "printedPage": 11,
+        "quote": "the workshop.",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "The system of instruction used will determine the design and organization of the workshop."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "The room should contain a movable chair and desk for the teacher and movable chairs and desks for the students.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Teacher-centered classroom",
+          "right": "Movable chairs and desks for teacher and students"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "This type of workshop needs to have a suitable area for group demonstration.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Teacher-centered workshop",
+          "right": "Suitable area for group demonstration"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Self-paced learning is a form of student-centered learning, as students progress through the course independently of their peers.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Self-paced learning",
+          "right": "Students progress independently of their peers"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "a separate resource area where the student has access to learning materials",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Student-centered training area",
+          "right": "Separate resource area for learning materials"
+        }
+      ],
+      "prompt": "Match each system of instruction with its feature."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 12,
+        "printedPage": 12,
+        "quote": "Self-paced learning is a form of student-centered learning",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Teacher-centered instruction",
+        "Student-centered learning",
+        "Group demonstration",
+        "Classroom theory lesson"
+      ],
+      "prompt": "Self-paced learning is a form of:"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "It is suggested that the classroom should allow approximately 2.5 square meters of",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "space per student.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The classroom allows approximately 2.5 square meters of space per student."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "This type of workshop needs to have a suitable area for group demonstration.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A teacher-centered workshop needs a suitable area for group demonstration."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Self-paced learning is a form of student-centered learning, as students progress through the course independently of their peers.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "In self-paced learning, students progress independently of their peers."
+        }
+      ],
+      "modelAnswer": "The system of instruction determines the design and organization of the workshop.\n1. Teacher-centered: theory in a classroom with movable chairs and desks. About 2.5 square meters per student. Each student has a workspace. An area for group demonstration is needed.\n2. Student-centered (self-paced): students progress independently. Needs an adequately-equipped workshop and a separate resource area.",
+      "prompt": "How does the system of instruction affect the design of a workshop?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "an adequately-equipped workshop where the work tasks are performed",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "a separate resource area where the student has access to learning materials",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "An adequately-equipped workshop and a separate resource area."
+      },
+      "prompt": "What two areas does a student-centered training facility need?"
+    }
+  },
+  "realQuestions": [],
+  "score": 4,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "System of Instruction and Workshop Design (Teacher-Centred vs Student-Centred)",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 11,
+          "passageId": "cblm06-p11-9ae17b15",
+          "printedPage": 11,
+          "quote": "teacher-centered, it is obvious that many in a class of thirty will not",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 11,
+          "printedPage": 11,
+          "quote": "gain all of the knowledge expected from such a situation.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Teacher-centered: many in a class of thirty will not gain all the knowledge."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 12,
+          "passageId": "cblm06-p12-b124524c",
+          "printedPage": 12,
+          "quote": "Self-paced learning is a form of student-centered learning",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Self-paced learning is a form of student-centered learning, not teacher-centered."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

@@ -1,0 +1,325 @@
+{
+  "id": "periodic-maintenance",
+  "canonical_title": "Periodic Maintenance and the Historical Record",
+  "aliases": [
+    "What is periodic maintenance?",
+    "Periodic maintenance program",
+    "Historical record of equipment"
+  ],
+  "cblmPrimary": 6,
+  "source_type": "cblm",
+  "covers": [
+    "cblm06-p26-8625b37c",
+    "cblm06-p30-2b653bc5",
+    "cblm06-p31-f395e7bb"
+  ],
+  "questions": [
+    "cblm06-sc1-q3"
+  ],
+  "one_line_answer": {
+    "text": "Periodic maintenance encompasses maintenance operations that go beyond the prevention of equipment breakdown.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm06",
+        "page": 26,
+        "quote": "periodic maintenance",
+        "passageId": "cblm06-p26-8625b37c"
+      },
+      {
+        "src": "cblm06",
+        "page": 26,
+        "quote": "comprehensive periodic program encompasses maintenance operations that go"
+      },
+      {
+        "src": "cblm06",
+        "page": 26,
+        "quote": "beyond the prevention of equipment breakdown"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Periodic maintenance",
+      "bn": "নির্দিষ্ট সময় পরপর নিয়মিত রক্ষণাবেক্ষণ"
+    },
+    {
+      "en": "Preventive maintenance",
+      "bn": "নষ্ট হওয়ার আগেই প্রতিরোধমূলক রক্ষণাবেক্ষণ"
+    },
+    {
+      "en": "Work order",
+      "bn": "কাজের লিখিত আদেশ"
+    },
+    {
+      "en": "Schedule",
+      "bn": "সময়সূচি"
+    },
+    {
+      "en": "Historical record",
+      "bn": "যন্ত্রের পুরো রক্ষণাবেক্ষণের ইতিহাস"
+    }
+  ],
+  "bangla_explanation": [
+    "Periodic maintenance-কে preventive maintenance-এর চেয়ে ভালো ধরা হয়।",
+    "কারণ এটা শুধু breakdown ঠেকায় না, তার বাইরেও অনেক কাজ ধরে।",
+    "প্রতিটা কাজের জন্য আলাদা schedule আর আলাদা work order থাকে।",
+    "সব maintenance আর মেরামত লিখে রাখতে হয় historical record-এ, যাতে যন্ত্রের পুরো ইতিহাস জানা যায়।"
+  ],
+  "example": {
+    "en": "A lathe machine has separate schedules for lubrication and electrical checks. Each gets its own work order.",
+    "bn": "একই মেশিনের lubrication আর electrical check-এর আলাদা schedule ও work order।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "An identification number of the piece of equipment (What).",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "An identification number of the piece of equipment. (What)."
+          }
+        ]
+      },
+      {
+        "text": "The location of the maintenance work (Where).",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "The location of the maintenance work (Where)."
+          }
+        ]
+      },
+      {
+        "text": "What operations are to be performed and how often (why, when, how).",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "A determination of what operations are to be performed and how often ( why,"
+          },
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "when, how)"
+          }
+        ]
+      },
+      {
+        "text": "What craft skill is required to perform the operation (Who).",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "A judgment as to what craft skill is required to perform the operation (Who.)"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Answer key (a) says same as preventive maintenance. But periodic is preferred over preventive.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 31,
+          "quote": "Answer Key No: 1- Implement housekeeping activity"
+        },
+        {
+          "src": "cblm06",
+          "page": 31,
+          "quote": "a) is the same as preventive maintenance",
+          "passageId": "cblm06-p31-f395e7bb"
+        },
+        {
+          "src": "cblm06",
+          "page": 26,
+          "quote": "Periodic maintenance is preferred over preventive maintenance"
+        }
+      ]
+    },
+    {
+      "text": "Avoid answer key (c): combining preventive maintenance with corrective maintenance.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 31,
+          "quote": "Answer Key No: 1- Implement housekeeping activity"
+        },
+        {
+          "src": "cblm06",
+          "page": 31,
+          "quote": "c) is the result of combining preventive maintenance with corrective"
+        },
+        {
+          "src": "cblm06",
+          "page": 31,
+          "quote": "maintenance"
+        }
+      ]
+    },
+    {
+      "text": "Periodic maintenance is preferred over preventive maintenance.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 26,
+          "quote": "Periodic maintenance is preferred over preventive maintenance because"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is periodic maintenance?",
+      "modelAnswer": "Periodic maintenance encompasses maintenance operations that go beyond the prevention of equipment breakdown. It is preferred over preventive maintenance.\n1. It identifies who, what, when, where, why and how repetitive operations are done.\n2. Each operation has a separate schedule and work order.\n3. All maintenance and repair is kept in a historical record.",
+      "keyPoints": [
+        {
+          "text": "A planned periodic program identifies who, what, when, where, why and how.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 26,
+              "quote": "Properly planned, a periodic"
+            },
+            {
+              "src": "cblm06",
+              "page": 26,
+              "quote": "maintenance program can effectively identify who, what. when, where, why, and"
+            },
+            {
+              "src": "cblm06",
+              "page": 26,
+              "quote": "how specific repetitive operations are to be performed"
+            }
+          ]
+        },
+        {
+          "text": "A specific work order is prepared for each type of periodic maintenance.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 26,
+              "quote": "A specific work order is prepared to accomplish each of these types of periodic"
+            }
+          ]
+        },
+        {
+          "text": "A separate schedule is established for each operation.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 26,
+              "quote": "separate schedule is established for each operation."
+            }
+          ]
+        },
+        {
+          "text": "A historical record is a basic component of any maintenance system.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 26,
+              "quote": "A historical record is a basic component for any maintenance system"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Why is periodic maintenance preferred over preventive maintenance?",
+      "options": [
+        "It is cheaper because it needs no records",
+        "It goes beyond the prevention of equipment breakdown",
+        "It is done only after a breakdown",
+        "It is the same as preventive maintenance"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm06",
+        "page": 26,
+        "quote": "beyond the prevention of equipment breakdown"
+      }
+    },
+    "matching": {
+      "prompt": "Match each record item with its question word.",
+      "pairs": [
+        {
+          "left": "Identification number of the equipment",
+          "right": "What",
+          "cite": {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "An identification number of the piece of equipment. (What)."
+          }
+        },
+        {
+          "left": "Location of the maintenance work",
+          "right": "Where",
+          "cite": {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "The location of the maintenance work (Where)."
+          }
+        },
+        {
+          "left": "Operations and how often",
+          "right": "Why, when, how",
+          "cite": {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "A determination of what operations are to be performed and how often ( why,"
+          }
+        },
+        {
+          "left": "Craft skill required",
+          "right": "Who",
+          "cite": {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "A judgment as to what craft skill is required to perform the operation (Who.)"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What is a historical record in maintenance?",
+      "answer": {
+        "text": "A single record containing the complete maintenance history of the item or equipment.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 26,
+            "quote": "A single record that contains the complete"
+          },
+          {
+            "src": "cblm06",
+            "page": 26,
+            "quote": "maintenance history of the item or equipment."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "traps",
+      "note": "cblm06-sc1-q3: answer key p.31 gives three options: (a) 'is the same as preventive maintenance', (b) 'encompasses maintenance operations that go beyond the prevention of equipment breakdown', (c) 'is the result of combining preventive maintenance with corrective maintenance'. Only (b) matches the information sheet p.26, which says periodic maintenance is PREFERRED OVER preventive (so not the same); (c) is not in the information sheet. Card writes the p.26 version."
+    }
+  ]
+}

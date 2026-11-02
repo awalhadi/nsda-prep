@@ -1,0 +1,531 @@
+{
+  "aliases": [
+    "Types of maintenance",
+    "Difference between preventive maintenance and corrective maintenance",
+    "Proactive maintenance"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 27,
+          "printed": 27
+        },
+        {
+          "pdf": 36,
+          "printed": 36
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "Maintenance দুই ধরনের: Preventive আর Corrective।",
+    "Preventive হয় fault আসার আগে: তেল দেওয়া, adjusting, routine replacement।",
+    "Corrective-কে \"repair\" বলে, breakdown হওয়ার পরে equipment আবার চালু করতে হয়।",
+    "মূল কথা: Proactive হোন, মানে সমস্যা আসার আগেই যত্ন নিন।"
+  ],
+  "breakdown": {
+    "exam": 3,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "নিয়মিত তেল দেওয়া preventive; ভাঙা অংশ ঠিক করা corrective।",
+    "en": "In a garments training centre, a trainer oils the sewing machines every week. That is preventive. Fixing a broken needle bar is corrective."
+  },
+  "highlighted": true,
+  "id": "preventive-corrective-maintenance",
+  "importance": {
+    "bn": "CBT&A L4 Written Test — Inclusivity & Maintenance (Short 7, MCQ 6, 7, Matching 3)-এ এসেছে। CBLM 6-এ highlight করা আছে। পরীক্ষায় matching, MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 7, MCQ 6, 7, Matching 3). Highlighted in CBLM 6. Comes as matching, MCQ and short question."
+  },
+  "keywords": [
+    {
+      "bn": "সমস্যা হওয়ার আগেই নিয়মিত যত্ন",
+      "en": "Preventive maintenance"
+    },
+    {
+      "bn": "নষ্ট হওয়ার পরে ঠিক করা (repair)",
+      "en": "Corrective maintenance"
+    },
+    {
+      "bn": "যন্ত্র বিকল হয়ে যাওয়া",
+      "en": "Breakdown"
+    },
+    {
+      "bn": "নিয়মমাফিক যন্ত্রাংশ বদলানো",
+      "en": "Routine replacement"
+    },
+    {
+      "bn": "আগে থেকেই ব্যবস্থা নেওয়া",
+      "en": "Proactive"
+    }
+  ],
+  "likelyTypes": [
+    "matching",
+    "mcq",
+    "short"
+  ],
+  "listAnswer": null,
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 36,
+        "printedPage": 36,
+        "quote": "Preventive Maintenance is conducted to keep equipment working or extend the life of the equipment.",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 36,
+        "passageId": "cblm06-p36-53dd976c",
+        "printedPage": 36,
+        "quote": "Corrective Maintenance, is sometimes called \"repair\", is conducted to get equipment working.",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Preventive maintenance keeps equipment working or extends its life. Corrective maintenance gets equipment working."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 36,
+            "printedPage": 36,
+            "quote": "Preventive Maintenance is conducted to keep equipment working or extend the life of the equipment.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Preventive Maintenance",
+          "right": "Keeps equipment working or extends its life"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 36,
+            "printedPage": 36,
+            "quote": "Corrective Maintenance, is sometimes called \"repair\", is conducted to get equipment working.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Corrective Maintenance",
+          "right": "Gets equipment working; sometimes called \"repair\""
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 36,
+            "printedPage": 36,
+            "quote": "Adopting a proactive approach to maintenance will improve maintenance effectiveness dramatically",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Proactive approach",
+          "right": "Improves maintenance effectiveness dramatically"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "lubricating, adjusting, and routine replacement usually classified as preventive maintenance",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Lubricating, adjusting and routine replacement",
+          "right": "Usually classified as preventive maintenance"
+        }
+      ],
+      "prompt": "Match each term with its description."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 27,
+        "printedPage": 27,
+        "quote": "Maintenance would consist of the lubricating, adjusting, and routine replacement usually classified as preventive maintenance",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Adjusting, and routine replacement",
+        "Fixing a broken part",
+        "Replacing a part after a breakdown",
+        "Ignoring small faults"
+      ],
+      "prompt": "Which of the following is considered preventive maintenance?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "Preventive Maintenance is conducted to keep equipment working or extend the life of the equipment.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Preventive maintenance is conducted to keep equipment working or extend its life."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "Corrective Maintenance, is sometimes called \"repair\", is conducted to get equipment working.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Corrective maintenance is sometimes called repair. It is conducted to get equipment working."
+        },
+        {
+          "cites": [
+            {
+              "match": "exact",
+              "page": 6,
+              "printedPage": null,
+              "quote": "Meaning: Preventive - Planned maintenance done before a fault occurs; Corrective -",
+              "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+              "src": "paper-written-inclusivity-maintenance"
+            },
+            {
+              "match": "exact",
+              "page": 6,
+              "printedPage": null,
+              "quote": "Maintenance done after a fault or breakdown occurs",
+              "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+              "src": "paper-written-inclusivity-maintenance"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Preventive is done before a fault occurs. Corrective is done after a fault or breakdown."
+        },
+        {
+          "cites": [
+            {
+              "match": "exact",
+              "page": 7,
+              "printedPage": null,
+              "quote": "Timing: Preventive - Scheduled / regular (daily, weekly, monthly); Corrective - Unscheduled, when a",
+              "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+              "src": "paper-written-inclusivity-maintenance"
+            },
+            {
+              "match": "exact",
+              "page": 7,
+              "printedPage": null,
+              "quote": "failure happens",
+              "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+              "src": "paper-written-inclusivity-maintenance"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Preventive is scheduled and regular. Corrective is unscheduled, when a failure happens."
+        },
+        {
+          "cites": [
+            {
+              "match": "exact",
+              "page": 7,
+              "printedPage": null,
+              "quote": "Examples: Preventive - Cleaning, oiling, adjusting, routine replacement of parts; Corrective - Fixing a",
+              "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+              "src": "paper-written-inclusivity-maintenance"
+            },
+            {
+              "match": "exact",
+              "page": 7,
+              "printedPage": null,
+              "quote": "broken part, replacing a part after breakdown",
+              "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+              "src": "paper-written-inclusivity-maintenance"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Preventive examples: cleaning, oiling, adjusting, routine replacement of parts. Corrective: fixing a broken part."
+        },
+        {
+          "cites": [
+            {
+              "match": "exact",
+              "page": 7,
+              "printedPage": null,
+              "quote": "Cost / downtime: Preventive - Lower cost, less downtime; Corrective - Higher cost, more downtime",
+              "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+              "src": "paper-written-inclusivity-maintenance"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Preventive has lower cost and less downtime. Corrective has higher cost and more downtime."
+        }
+      ],
+      "modelAnswer": "Preventive maintenance is conducted to keep equipment working or extend its life. Corrective maintenance, sometimes called repair, is conducted to get equipment working.\n1. Meaning: preventive is done before a fault; corrective after a fault or breakdown.\n2. Purpose: preventive prevents breakdown; corrective restores working condition.\n3. Timing: preventive is scheduled; corrective is unscheduled.\n4. Examples: preventive is cleaning, oiling, adjusting; corrective is fixing a broken part.\n5. Cost: preventive is lower cost, less downtime.",
+      "prompt": "What is the difference between Preventive Maintenance and Corrective Maintenance?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 36,
+            "printedPage": 36,
+            "quote": "providing for systematic inspection, detection, and correction of",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 36,
+            "printedPage": 36,
+            "quote": "incipient failures either before they occur or before they develop into major defects.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 36,
+            "printedPage": 36,
+            "quote": "Maintenance, including tests. measurements, adjustments, and parts replacement, performed specifically to prevent faults from occurring.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Through systematic inspection, detection and correction of failures before they become major defects. Also tests, measurements, adjustments and parts replacement."
+      },
+      "prompt": "How is preventive maintenance done?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Meaning: Preventive - Planned maintenance done before a fault occurs; Corrective -\nMaintenance done after a fault or breakdown occurs\nPage 6\nPurpose: Preventive - To prevent breakdown and extend equipment life; Corrective - To repair the fault\nand restore the equipment to working condition\nTiming: Preventive - Scheduled / regular (daily, weekly, monthly); Corrective - Unscheduled, when a\nfailure happens\nExamples: Preventive - Cleaning, oiling, adjusting, routine replacement of parts; Corrective - Fixing a\nbroken part, replacing a part after breakdown\nCost / downtime: Preventive - Lower cost, less downtime; Corrective - Higher cost, more downtime",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-written-inclusivity-maintenance-short-q7",
+      "kind": "paper",
+      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (Short 7)",
+      "page": 3,
+      "paperClass": "official",
+      "printedPage": null,
+      "question": "What is the difference between Preventive Maintenance and Corrective Maintenance?",
+      "src": "paper-written-inclusivity-maintenance",
+      "type": "short"
+    },
+    {
+      "answer": null,
+      "answerIndex": 0,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-written-inclusivity-maintenance-mcq-q6",
+      "kind": "paper",
+      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 6)",
+      "options": [
+        "Adjusting, and routine replacement",
+        "Fixing a broken part",
+        "Replacing a part after a breakdown",
+        "Ignoring small faults Page 1"
+      ],
+      "page": 1,
+      "paperClass": "official",
+      "printedPage": null,
+      "question": "Which of the following is considered preventive maintenance?",
+      "src": "paper-written-inclusivity-maintenance",
+      "type": "mcq"
+    },
+    {
+      "answer": null,
+      "answerIndex": 2,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-written-inclusivity-maintenance-mcq-q7",
+      "kind": "paper",
+      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 7)",
+      "options": [
+        "Maintenance actions conducted to keep equipment operational.",
+        "Inspection and adjustment to prevent equipment from malfunctioning.",
+        "Repairing equipment only after a problem has occurred.",
+        "Replacement of equipment based on age, not condition."
+      ],
+      "page": 2,
+      "paperClass": "official",
+      "printedPage": null,
+      "question": "Which of the following describes corrective maintenance?",
+      "src": "paper-written-inclusivity-maintenance",
+      "type": "mcq"
+    },
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": "A",
+      "flags": [],
+      "id": "paper-written-inclusivity-maintenance-match-q3",
+      "kind": "paper",
+      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (Matching 3)",
+      "page": 2,
+      "paperClass": "official",
+      "printedPage": null,
+      "question": "This maintenance is conducted to keep equipment working or extend the life of the equipment.",
+      "right": [
+        {
+          "letter": "A",
+          "text": "Preventive Maintenance"
+        },
+        {
+          "letter": "B",
+          "text": "Quality management"
+        },
+        {
+          "letter": "C",
+          "text": "Corrective Maintenance"
+        },
+        {
+          "letter": "D",
+          "text": "Text book"
+        },
+        {
+          "letter": "E",
+          "text": "Computer/printer"
+        },
+        {
+          "letter": "F",
+          "text": "Characteristics of well-organized workshops Page 2"
+        }
+      ],
+      "src": "paper-written-inclusivity-maintenance",
+      "type": "matching"
+    }
+  ],
+  "score": 6,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Preventive vs Corrective Maintenance",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 36,
+          "printedPage": 36,
+          "quote": "Preventive Maintenance is conducted to keep equipment working or extend the life of the equipment.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "match": "exact",
+          "page": 5,
+          "printedPage": null,
+          "quote": "This maintenance is conducted to keep",
+          "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+          "src": "paper-written-inclusivity-maintenance"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Keep equipment working or extend the life of the equipment = Preventive Maintenance, not Corrective."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 36,
+          "printedPage": 36,
+          "quote": "Corrective Maintenance, is sometimes called \"repair\", is conducted to get",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "match": "exact",
+          "page": 2,
+          "printedPage": null,
+          "quote": "A) Maintenance actions conducted to keep equipment operational.",
+          "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+          "src": "paper-written-inclusivity-maintenance"
+        },
+        {
+          "match": "exact",
+          "page": 5,
+          "printedPage": null,
+          "quote": "C) Repairing equipment only after a problem has occurred.",
+          "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+          "src": "paper-written-inclusivity-maintenance"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Corrective maintenance is not keeping equipment operational. It is repairing equipment after a problem has occurred."
+    },
+    {
+      "cites": [
+        {
+          "match": "exact",
+          "page": 7,
+          "printedPage": null,
+          "quote": "Timing: Preventive - Scheduled / regular (daily, weekly, monthly); Corrective - Unscheduled, when a",
+          "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+          "src": "paper-written-inclusivity-maintenance"
+        },
+        {
+          "match": "exact",
+          "page": 7,
+          "printedPage": null,
+          "quote": "Cost / downtime: Preventive - Lower cost, less downtime; Corrective - Higher cost, more downtime",
+          "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+          "src": "paper-written-inclusivity-maintenance"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Paper key only: preventive is scheduled, lower cost; corrective is unscheduled, higher cost."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 36,
+          "printedPage": 36,
+          "quote": "there are risks such as equipment failure or human error involved when performing PM.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Preventive maintenance also has risks, such as equipment failure or human error."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

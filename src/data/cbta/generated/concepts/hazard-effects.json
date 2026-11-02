@@ -1,0 +1,774 @@
+{
+  "aliases": [
+    "Possible health effects of biological hazards",
+    "Hazard examples, effects and workplaces"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 23,
+          "printed": 23
+        },
+        {
+          "pdf": 24,
+          "printed": 24
+        },
+        {
+          "pdf": 25,
+          "printed": 25
+        },
+        {
+          "pdf": 26,
+          "printed": 26
+        },
+        {
+          "pdf": 27,
+          "printed": 27
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "প্রতিটি hazard-এর আলাদা effect আছে; কিছু সাথে সাথে, কিছু ধীরে ধীরে।",
+    "Physical hazards থেকে cuts, hearing loss, electric shock; biological থেকে diseases, allergies, infections।",
+    "Chemical থেকে dermatitis, burning eyes, headaches; ergonomic থেকে strain injuries আর back injuries।",
+    "Effect জানলে শিক্ষার্থীকে বিপদের গুরুত্ব বোঝানো সহজ হয়।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "ওয়েল্ডিংয়ের fumes প্রতিদিন নিঃশ্বাসে গেলে শ্বাসতন্ত্রের ক্ষতি হতে পারে।",
+    "en": "A welding trainee breathes fumes every day. Fumes can cause respiratory effects. So the shop needs good ventilation."
+  },
+  "highlighted": true,
+  "id": "hazard-effects",
+  "importance": {
+    "bn": "Short Questions (Short 17)-এ এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in Short Questions (Short 17). Highlighted in CBLM 3. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "প্রভাব বা ক্ষতি",
+      "en": "Effect"
+    },
+    {
+      "bn": "শ্রবণশক্তি কমে যাওয়া",
+      "en": "Hearing loss"
+    },
+    {
+      "bn": "বিদ্যুতের শক",
+      "en": "Electric shock"
+    },
+    {
+      "bn": "চামড়ার প্রদাহ",
+      "en": "Dermatitis"
+    },
+    {
+      "bn": "পেশি, হাড় ও স্নায়ুর সমস্যা",
+      "en": "Musculoskeletal disorder"
+    },
+    {
+      "bn": "অ্যালার্জি",
+      "en": "Allergy"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Cuts or amputations",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Hearing loss",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Burns to skin and",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "• Broken bones",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 24,
+            "passageId": "cblm03-p24-45ce120f",
+            "printedPage": 24,
+            "quote": "Heat stroke",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 24,
+            "printedPage": 24,
+            "quote": "Hypothermia",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 24,
+            "printedPage": 24,
+            "quote": "• Skin cancer",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Physical: cuts, hearing loss, burns and broken bones. Heat stroke, hypothermia and skin cancer."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 25,
+            "passageId": "cblm03-p25-e0f05ed4",
+            "printedPage": 25,
+            "quote": "Can cause various",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 25,
+            "printedPage": 25,
+            "quote": "diseases and",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 25,
+            "printedPage": 25,
+            "quote": "allergies",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 25,
+            "printedPage": 25,
+            "quote": "o or asthma",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 25,
+            "printedPage": 25,
+            "quote": "cause skin, eye,",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 25,
+            "printedPage": 25,
+            "quote": "o infections, cold",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Biological: diseases, allergies or asthma, skin and eye infections, and colds."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 26,
+            "passageId": "cblm03-p26-02849383",
+            "printedPage": 26,
+            "quote": "Respiratory problems such",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "Dermatitis from contact",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "Burning eyes",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "Headaches",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "cause burns or",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "explosions",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Chemical: respiratory problems, dermatitis, burning eyes, headaches, burns or explosions."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 27,
+            "passageId": "cblm03-p27-8fe39cae",
+            "printedPage": 27,
+            "quote": "Cause injury to",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "muscles, bones, Blood",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Strain injuries such as",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Eyestrain in dark",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Neck and back injuries",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Ergonomic: injury to muscles and bones, strain injuries, eyestrain, neck and back injuries."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 23,
+        "passageId": "cblm03-p23-685df181",
+        "printedPage": 23,
+        "quote": "Serious, immediate",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 23,
+        "printedPage": 23,
+        "quote": "injuries such as",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 23,
+        "printedPage": 23,
+        "quote": "Injuries can develop",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 23,
+        "printedPage": 23,
+        "quote": "over time from",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Hazards can cause serious, immediate injuries, or injuries that develop over time."
+  },
+  "openChecks": 2,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Noise is unwanted • Hearing loss",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Noise",
+          "right": "Hearing loss"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Electricity causes • Death from",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Electricity",
+          "right": "Death from electrocution"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 24,
+            "printedPage": 24,
+            "quote": "Vibration is a hazard • Back disorders",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Vibration",
+          "right": "Back disorders"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 24,
+            "printedPage": 24,
+            "quote": "Radiation is energy and • Damages cells of the",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Radiation",
+          "right": "Damages cells of the body"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "Pneumoconiosis (dust in",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Dusts",
+          "right": "Pneumoconiosis (dust in the lungs)"
+        }
+      ],
+      "prompt": "Match each hazard with one effect."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 23,
+        "printedPage": 23,
+        "quote": "Noise is unwanted • Hearing loss",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Noise",
+        "Vibration",
+        "Radiation",
+        "Dust"
+      ],
+      "prompt": "Hearing loss and ringing in the ears are effects of which hazard?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "Bacteria are found in",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "the air, water and soil",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Bacteria are found in the air, water and soil."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "o Viruses can",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "cause skin, eye,",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "o infections, cold",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Viruses can cause skin, eye and ear infections, and colds."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "Bee stings can cause",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "anaphylactic",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "reactions",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Bee stings can cause anaphylactic reactions."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "Tick bites can result in",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "Lyme disease",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Tick bites can result in Lyme disease."
+        }
+      ],
+      "modelAnswer": "Biological hazards (bacteria, viruses, fungi, animal bites, infectious diseases) can cause:\n1. Various diseases and illnesses\n2. Allergies or asthma\n3. Skin, eye and ear infections, and colds\n4. Rabies, Lyme disease, hepatitis and AIDS",
+      "prompt": "What are possible health effects of biological hazards?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Noise is unwanted",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "sound. It can interfere",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Excessive noise levels or",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "damage the nerves in the",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Noise is unwanted sound. Excessive noise can damage the nerves in the ear."
+      },
+      "prompt": "What is noise, and how can it harm you?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Biological hazards may cause diseases or infections, allergies or\nasthma, skin, eye or ear infections, colds or flu, and foodborne illness.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q17",
+      "kind": "paper",
+      "label": "Short Questions (Short 17)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What are possible health effects of biological hazards?",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 6,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Effects of Physical, Biological, Chemical and Ergonomic Hazards",
+  "traps": [
+    {
+      "cites": [
+        {
+          "match": "exact",
+          "page": 3,
+          "printedPage": null,
+          "quote": "Answer guide: Biological hazards may cause diseases or infections",
+          "sourceTitle": "Short Questions",
+          "src": "paper-short-questions"
+        },
+        {
+          "match": "exact",
+          "page": 3,
+          "printedPage": null,
+          "quote": "colds or flu, and foodborne illness.",
+          "sourceTitle": "Short Questions",
+          "src": "paper-short-questions"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 25,
+          "printedPage": 25,
+          "quote": "o Salmonella and E",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Foodborne illness in the answer guide; Salmonella in the CBLM table."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "Noise is unwanted",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "Hearing loss may be temporary or permanent.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Noise is unwanted sound. Hearing loss may be temporary or permanent."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "electric shock when a",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "Person becomes part of",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "the electrical circuit",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Electric shock happens when a person becomes part of the electrical circuit."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 26,
+          "printedPage": 26,
+          "quote": "Pneumoconiosis (dust in",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 26,
+          "printedPage": 26,
+          "quote": "the lungs)",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Pneumoconiosis means dust in the lungs."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

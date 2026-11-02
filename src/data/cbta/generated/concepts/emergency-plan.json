@@ -1,0 +1,551 @@
+{
+  "aliases": [
+    "What a workplace emergency plan should include",
+    "Emergency Response Plan",
+    "Reporting procedure"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 41,
+          "printed": 41
+        },
+        {
+          "pdf": 42,
+          "printed": 42
+        },
+        {
+          "pdf": 44,
+          "printed": 44
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "Emergency হলে কী করতে হবে তা আগে plan করা থাকলে মানুষ নিরাপদে বের হতে পারে।",
+    "Plan-এ আটটি বিষয়: reporting procedure, alarm, duties, escape routes, communication, key people, drills, building map।",
+    "Drills নিয়মিত করতে হয় আর তার record রাখতে হয়।",
+    "Emergency Response Plan workplace-এ সবার চোখে পড়ে এমন জায়গায় টাঙিয়ে রাখতে হয়।"
+  ],
+  "breakdown": {
+    "exam": 4,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "কারিগরি প্রশিক্ষণ কেন্দ্রের প্রতিটি দরজার পাশে building map: escape routes আর safe meeting area দেখানো।",
+    "en": "A technical training centre puts a building map near each door. It shows escape routes and the safe meeting area."
+  },
+  "highlighted": true,
+  "id": "emergency-plan",
+  "importance": {
+    "bn": "Unit 02 Short Questions (Short 10) আর CBLM 3 Self Check 3 (Q2): 2 জায়গায় এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Unit 02 Short Questions (Short 10) and CBLM 3 Self Check 3 (Q2). Highlighted in CBLM 3. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "জরুরি অবস্থার পরিকল্পনা",
+      "en": "Emergency plan"
+    },
+    {
+      "bn": "সতর্ক সংকেত ব্যবস্থা",
+      "en": "Alarm system"
+    },
+    {
+      "bn": "বের হওয়ার পথ",
+      "en": "Escape route"
+    },
+    {
+      "bn": "মহড়া",
+      "en": "Drill"
+    },
+    {
+      "bn": "জরুরি সমাবেশের জায়গা",
+      "en": "Muster point"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "Reporting Procedure • Description",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 44,
+            "passageId": "cblm03-p44-f5608b4f",
+            "printedPage": 44,
+            "quote": "02. A workplace emergency plan should include: • Reporting Procedure",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Reporting Procedure"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "Description of alarm system",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Description of alarm system"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "Duties and responsibilities",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Duties and responsibilities"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "Escape routes and safe meeting area",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Escape routes and safe meeting area"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "Communication method",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Communication method"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "Names and numbers of key people",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Names and numbers of key people"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "Regular drills • Map",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Regular drills"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "Map of the building",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Map of the building"
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 41,
+        "printedPage": 41,
+        "quote": "The procedure",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 41,
+        "printedPage": 41,
+        "quote": "will include an emergency plan and emergency equipment.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 41,
+        "passageId": "cblm03-p41-2c0509f8",
+        "printedPage": 41,
+        "quote": "A workplace emergency plan should include:",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "A workplace emergency procedure includes an emergency plan and emergency equipment."
+  },
+  "openChecks": 2,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "Where are the emergency exits?",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Where are the emergency exits?",
+          "right": "Escape routes"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "Who do I report an emergency to?",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Who do I report an emergency to?",
+          "right": "Reporting Procedure"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 41,
+            "printedPage": 41,
+            "quote": "Where are the fire alarms?",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Where are the fire alarms?",
+          "right": "Description of alarm system"
+        }
+      ],
+      "prompt": "Match each 'Be prepared' question with the plan item that answers it."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 41,
+        "printedPage": 41,
+        "quote": "Escape routes and safe meeting area",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Escape routes and safe meeting area",
+        "Job rotation",
+        "Risk matrix",
+        "Hierarchy of controls"
+      ],
+      "prompt": "Which should a workplace emergency plan include?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Employees and visitors to site must be aware of the emergency arrangements for the",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "this is usually part of the induction",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Employees and visitors must know the emergency arrangements, usually at induction."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Anybody who has an emergency response role must be aware of their responsibility",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "provided with the necessary training",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Anybody with an emergency response role must get the necessary training."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Reporting procedure is the process to what to do when the",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "emergency situation happened",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A reporting procedure says what to do when an emergency happens."
+        }
+      ],
+      "modelAnswer": "A workplace emergency plan should include:\n1. Reporting Procedure\n2. Description of alarm system\n3. Duties and responsibilities\n4. Escape routes and safe meeting area\n5. Communication method\n6. Names and numbers of key people\n7. Regular drills\n8. Map of the building",
+      "prompt": "What should a workplace emergency plan include?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "Managers having control of a workplace are responsible for developing a site",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Managers having control of a workplace develop it."
+      },
+      "prompt": "Who develops the Emergency Response Plan?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "A workplace emergency plan should include:\n•\nReporting Procedure\n•\nDescription of alarm system\n•\nDuties and responsibilities\n•\nEscape routes and safe meeting area\n•\nCommunication method\n•\nNames and numbers of key people\n•\nRegular drills\n•\nMap of the building",
+      "flags": [],
+      "id": "cblm03-sc3-q2",
+      "kind": "selfcheck",
+      "label": "CBLM 3 Self Check 3 (Q2)",
+      "page": 43,
+      "printedPage": 43,
+      "question": "What a workplace emergency plan should include?",
+      "src": "cblm03",
+      "type": "short"
+    },
+    {
+      "answer": "A workplace emergency plan should include:\n• Reporting Procedure\n• Description of alarm system\n• Duties and responsibilities\n• Escape routes and safe meeting area\n• Communication method\n• Names and numbers of key people\n• Regular drills\n• Map of the building",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit02-short-step-4-evaluate-the-results-q10",
+      "kind": "paper",
+      "label": "Unit 02 Short Questions (Short 10)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What a workplace emergency plan should include?",
+      "src": "paper-unit02-short",
+      "type": "short"
+    }
+  ],
+  "score": 8,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Workplace Emergency Plan",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "passageId": "cblm03-p42-9ae17b15",
+          "printedPage": 42,
+          "quote": "Emergency Response Plans must take into account all aspects of any foreseeable",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Workplace location and layout",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Muster point(s) or emergency assembly location(s)",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Identification of all personnel appointed",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Arrangements for raising the alarm",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Emergency evacuation arrangements",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The Emergency Response Plan list differs: location, muster point, personnel, alarm, evacuation."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Managers having control of a workplace are responsible for developing a site specific Emergency Response Plan.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Managers having control of a workplace develop the site Emergency Response Plan."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "The Emergency Response Plan must be displayed prominently throughout the",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The Emergency Response Plan must be displayed prominently throughout the workplace."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Emergency arrangements should be tested / practised periodically, and a record kept",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Emergency arrangements should be practised periodically, and a record kept."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

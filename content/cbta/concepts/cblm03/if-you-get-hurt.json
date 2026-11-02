@@ -1,0 +1,261 @@
+{
+  "id": "if-you-get-hurt",
+  "canonical_title": "If You Get Hurt at Work",
+  "aliases": [
+    "If you get hurt in the workplace, what should you do?",
+    "Reporting injuries"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p41-8caef7cf",
+    "cblm03-p43-69dd0d17"
+  ],
+  "questions": [
+    "cblm03-sc3-q1",
+    "paper-unit02-short-step-4-evaluate-the-results-q11"
+  ],
+  "one_line_answer": {
+    "text": "If you get hurt: get first aid, tell your supervisor, get medical care if necessary.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 41,
+        "quote": "If you get hurt 1. Get first aid treatment 2. Tell your supervisor 3. Get medical care if necessary",
+        "passageId": "cblm03-p41-8caef7cf"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "First aid",
+      "bn": "প্রাথমিক চিকিৎসা"
+    },
+    {
+      "en": "Supervisor",
+      "bn": "তত্ত্বাবধায়ক"
+    },
+    {
+      "en": "Medical care",
+      "bn": "ডাক্তারি চিকিৎসা"
+    },
+    {
+      "en": "Transportation",
+      "bn": "যাতায়াতের ব্যবস্থা"
+    },
+    {
+      "en": "Wages",
+      "bn": "মজুরি"
+    }
+  ],
+  "bangla_explanation": [
+    "কাজে আহত হলে তিনটি ধাপ, এই ক্রমে: first aid, supervisor-কে জানানো, দরকার হলে medical care।",
+    "Employer আপনাকে medical care-এ নেওয়ার transportation দেবে আর সেদিনের wages দেবে।",
+    "কোথায় first aid পাওয়া যায় তা আগে থেকেই জেনে রাখুন।"
+  ],
+  "example": {
+    "en": "A trainee cuts a finger on a lathe. He gets first aid, then tells his supervisor. The cut is deep, so he sees a doctor.",
+    "bn": "লেদে আঙুল কাটলে: আগে first aid, তারপর supervisor-কে জানানো, গভীর হলে ডাক্তার।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Get first aid treatment",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "1. Get first aid treatment"
+          },
+          {
+            "src": "cblm03",
+            "page": 43,
+            "quote": "01. If you get hurt, what should you do",
+            "passageId": "cblm03-p43-69dd0d17"
+          }
+        ]
+      },
+      {
+        "text": "Tell your supervisor",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "2. Tell your supervisor"
+          }
+        ]
+      },
+      {
+        "text": "Get medical care if necessary",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "3. Get medical care if necessary"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Keep the order: first aid, then tell your supervisor, then medical care.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 41,
+          "quote": "1. Get first aid treatment 2. Tell your supervisor 3. Get medical care"
+        }
+      ]
+    },
+    {
+      "text": "Your employer must arrange transportation to medical care and pay wages for that day.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 41,
+          "quote": "Arrange for transportation for you to get medical care Pay your wages for the day of"
+        },
+        {
+          "src": "cblm03",
+          "page": 41,
+          "quote": "Your employer must"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "If you get hurt in the workplace, what should you do?",
+      "modelAnswer": "If I get hurt in the workplace, I should:\n1. Get first aid treatment\n2. Tell my supervisor\n3. Get medical care if necessary",
+      "keyPoints": [
+        {
+          "text": "Be prepared: ask where you can get first aid.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 41,
+              "quote": "Where can I get first aid?"
+            },
+            {
+              "src": "cblm03",
+              "page": 41,
+              "quote": "Be Prepared. Ask yourself these questions."
+            }
+          ]
+        },
+        {
+          "text": "Learn how to get first aid in general safety training.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "General training can include topics like"
+            },
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "How to get first aid"
+            }
+          ]
+        },
+        {
+          "text": "The Workplace Safety and Insurance Act (WSIA) likely covers you if hurt at work.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 41,
+              "quote": "If you do get hurt at work or made sick by your job, the Workplace Safety and"
+            },
+            {
+              "src": "cblm03",
+              "page": 41,
+              "quote": "Insurance Act (WSIA) likely covers you"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "You get hurt at work. What should you do first?",
+      "options": [
+        "Get first aid treatment",
+        "Tell your supervisor",
+        "Get medical care",
+        "Report to the Ministry of Labour"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 41,
+        "quote": "1. Get first aid treatment"
+      }
+    },
+    "matching": {
+      "prompt": "Match each step number with what to do.",
+      "pairs": [
+        {
+          "left": "Step 1",
+          "right": "Get first aid treatment",
+          "cite": {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "1. Get first aid treatment"
+          }
+        },
+        {
+          "left": "Step 2",
+          "right": "Tell your supervisor",
+          "cite": {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "2. Tell your supervisor"
+          }
+        },
+        {
+          "left": "Step 3",
+          "right": "Get medical care if necessary",
+          "cite": {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "3. Get medical care if necessary"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What must your employer do if you get hurt?",
+      "answer": {
+        "text": "Arrange transportation to medical care and pay your wages for the day of the injury.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "Arrange for transportation for you to get medical care Pay your wages for the day of"
+          },
+          {
+            "src": "cblm03",
+            "page": 41,
+            "quote": "the injury"
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "practice.short.keyPoints[2]",
+      "note": "CBLM 3 p.41 names the 'Workplace Safety and Insurance Act (WSIA)' and p.15 the 'Occupational Health and Safety Act'. A reviewer should confirm these law names apply in Bangladesh."
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "aliases": [
+    "What should be your role as individual to work safely?",
+    "Ensure safety as an employee",
+    "You're Role"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 14,
+          "printed": 14
+        },
+        {
+          "pdf": 17,
+          "printed": 17
+        },
+        {
+          "pdf": 28,
+          "printed": 28
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "Safety শুধু employer আর supervisor-এর দায়িত্ব নয়, আপনারও legal দায়িত্ব আছে।",
+    "পাঁচটি কাজ: law মানা, machines safely চালানো, PPE পরা, hazards report করা, আর কাজে fool around না করা।",
+    "Institute-এ শিক্ষক report করেন Head of the department-কে, আর তিনি report করেন Principal-কে।"
+  ],
+  "breakdown": {
+    "exam": 6,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "ওয়েল্ডিং শপে trainee নষ্ট তার দেখে কাজ থামিয়ে প্রশিক্ষককে report করে।",
+    "en": "A trainee in a welding shop sees a damaged cable. He wears his gloves, stops work and reports it to the trainer."
+  },
+  "highlighted": true,
+  "id": "worker-safety-role",
+  "importance": {
+    "bn": "Unit 02 Short Questions (Short 4) আর CBLM 3 Self Check 1 (Q6, Q7): 2 জায়গায় এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Unit 02 Short Questions (Short 4) and CBLM 3 Self Check 1 (Q6, Q7). Highlighted in CBLM 3. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "মেনে চলা",
+      "en": "Obey"
+    },
+    {
+      "bn": "জানানো",
+      "en": "Report"
+    },
+    {
+      "bn": "ব্যক্তিগত সুরক্ষা সরঞ্জাম",
+      "en": "PPE"
+    },
+    {
+      "bn": "বিভাগীয় প্রধান",
+      "en": "Head of the department"
+    },
+    {
+      "bn": "কাজের সময় হাসি-তামাশা বা খামখেয়ালি করা",
+      "en": "Fool around"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 14,
+            "passageId": "cblm03-p14-08c1e699",
+            "printedPage": 14,
+            "quote": "Obey the law Use machines",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 17,
+            "passageId": "cblm03-p17-1368d271",
+            "printedPage": 17,
+            "quote": "What should be your role as individual to work safely",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Obey the law"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Use machines and equipment safely",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Use machines and equipment safely"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Wear required personal protective equipment (PPE)",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Wear required personal protective equipment (PPE)"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Report hazards to your boss",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Report hazards to your boss"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Work safely and don't fool around",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Work safely and don't fool around"
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 14,
+        "passageId": "cblm03-p14-2f080ce5",
+        "printedPage": 14,
+        "quote": "Your employer and supervisor aren't the only ones with legal responsibilities.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 14,
+        "printedPage": 14,
+        "quote": "You have to do your part too.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Like your employer and supervisor, you have legal responsibilities. You must do your part."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Obey the law",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Obey",
+          "right": "The law"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Use machines and equipment safely",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Use safely",
+          "right": "Machines and equipment"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Wear required personal protective equipment (PPE)",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Wear",
+          "right": "Required personal protective equipment (PPE)"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Report hazards to your boss",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Report",
+          "right": "Hazards to your boss"
+        }
+      ],
+      "prompt": "Match each action with what it applies to."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 17,
+        "printedPage": 17,
+        "quote": "Ans: Head of the department.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Head of the department",
+        "Principal",
+        "Safety Office",
+        "Ministry of Labour and Employment"
+      ],
+      "prompt": "Who is the responsible person for reporting in an institute?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "You have a legal responsibility to report hazards.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "You have a legal responsibility to report hazards."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "Reporting hazards will help your employer meet their responsibility for your health and safety.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Reporting hazards helps your employer meet their responsibility for your safety."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "If you're not sure, ask someone.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "If you're not sure, ask someone."
+        }
+      ],
+      "modelAnswer": "My role as an individual to work safely:\n1. Obey the law\n2. Use machines and equipment safely\n3. Wear required personal protective equipment (PPE)\n4. Report hazards to your boss\n5. Work safely and don't fool around",
+      "prompt": "What should be your role as an individual to work safely?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "the head of the department report to Principal",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The head of the department reports to the Principal."
+      },
+      "prompt": "Whom does the head of the department report to?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "What should be your role as individual to work safely\n•\nObey the law\n•\nUse machines and equipment safely\n•\nWear required personal protective equipment (PPE)\n•\nReport hazards to your boss\n•\nWork safely and don't fool around",
+      "flags": [],
+      "id": "cblm03-sc1-q6",
+      "kind": "selfcheck",
+      "label": "CBLM 3 Self Check 1 (Q6)",
+      "page": 16,
+      "printedPage": 16,
+      "question": "What should be your role as individual to work safely?",
+      "src": "cblm03",
+      "type": "short"
+    },
+    {
+      "answer": "Head of the department.",
+      "flags": [],
+      "id": "cblm03-sc1-q7",
+      "kind": "selfcheck",
+      "label": "CBLM 3 Self Check 1 (Q7)",
+      "page": 16,
+      "printedPage": 16,
+      "question": "Who is the responsible person for reporting in a institute?",
+      "src": "cblm03",
+      "type": "short"
+    },
+    {
+      "answer": "• Obey the law\n• Use machines and equipment safely\n• Wear required personal protective equipment (PPE)\n• Report hazards to your boss\n• Work safely and don't fool around",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit02-short-q4",
+      "kind": "paper",
+      "label": "Unit 02 Short Questions (Short 4)",
+      "page": 1,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "",
+      "src": "paper-unit02-short",
+      "type": "short"
+    }
+  ],
+  "score": 10,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Worker's Role in Safety",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 17,
+          "printedPage": 17,
+          "quote": "Ans: Head of the department.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 28,
+          "printedPage": 28,
+          "quote": "Generally in Bangladesh a teacher report to the head of the department",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "In an institute, report to the Head of the department."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 28,
+          "printedPage": 28,
+          "quote": "the head of the department report to Principal",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The head of the department reports to the Principal."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 14,
+          "printedPage": 14,
+          "quote": "Here's what the law says you must do:",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 14,
+          "printedPage": 14,
+          "quote": "As a worker, the law also gives you three important rights:",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 14,
+          "printedPage": 14,
+          "quote": "1. The Right to Know 2. The Right to Participate 3. The Right to Refuse",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The law says what you must do, and also gives you three rights."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

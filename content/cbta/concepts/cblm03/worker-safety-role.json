@@ -1,0 +1,297 @@
+{
+  "id": "worker-safety-role",
+  "canonical_title": "Worker's Role in Safety",
+  "aliases": [
+    "What should be your role as individual to work safely?",
+    "Ensure safety as an employee",
+    "You're Role"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p14-2f080ce5",
+    "cblm03-p14-08c1e699",
+    "cblm03-p17-1368d271"
+  ],
+  "questions": [
+    "cblm03-sc1-q6",
+    "cblm03-sc1-q7",
+    "paper-unit02-short-q4"
+  ],
+  "one_line_answer": {
+    "text": "Like your employer and supervisor, you have legal responsibilities. You must do your part.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 14,
+        "quote": "Your employer and supervisor aren't the only ones with legal responsibilities.",
+        "passageId": "cblm03-p14-2f080ce5"
+      },
+      {
+        "src": "cblm03",
+        "page": 14,
+        "quote": "You have to do your part too."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Obey",
+      "bn": "মেনে চলা"
+    },
+    {
+      "en": "Report",
+      "bn": "জানানো"
+    },
+    {
+      "en": "PPE",
+      "bn": "ব্যক্তিগত সুরক্ষা সরঞ্জাম"
+    },
+    {
+      "en": "Head of the department",
+      "bn": "বিভাগীয় প্রধান"
+    },
+    {
+      "en": "Fool around",
+      "bn": "কাজের সময় হাসি-তামাশা বা খামখেয়ালি করা"
+    }
+  ],
+  "bangla_explanation": [
+    "Safety শুধু employer আর supervisor-এর দায়িত্ব নয়, আপনারও legal দায়িত্ব আছে।",
+    "পাঁচটি কাজ: law মানা, machines safely চালানো, PPE পরা, hazards report করা, আর কাজে fool around না করা।",
+    "Institute-এ শিক্ষক report করেন Head of the department-কে, আর তিনি report করেন Principal-কে।"
+  ],
+  "example": {
+    "en": "A trainee in a welding shop sees a damaged cable. He wears his gloves, stops work and reports it to the trainer.",
+    "bn": "ওয়েল্ডিং শপে trainee নষ্ট তার দেখে কাজ থামিয়ে প্রশিক্ষককে report করে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Obey the law",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 14,
+            "quote": "Obey the law Use machines",
+            "passageId": "cblm03-p14-08c1e699"
+          },
+          {
+            "src": "cblm03",
+            "page": 17,
+            "quote": "What should be your role as individual to work safely",
+            "passageId": "cblm03-p17-1368d271"
+          }
+        ]
+      },
+      {
+        "text": "Use machines and equipment safely",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 14,
+            "quote": "Use machines and equipment safely"
+          }
+        ]
+      },
+      {
+        "text": "Wear required personal protective equipment (PPE)",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 14,
+            "quote": "Wear required personal protective equipment (PPE)"
+          }
+        ]
+      },
+      {
+        "text": "Report hazards to your boss",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 14,
+            "quote": "Report hazards to your boss"
+          }
+        ]
+      },
+      {
+        "text": "Work safely and don't fool around",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 14,
+            "quote": "Work safely and don't fool around"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "In an institute, report to the Head of the department.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 17,
+          "quote": "Ans: Head of the department."
+        },
+        {
+          "src": "cblm03",
+          "page": 28,
+          "quote": "Generally in Bangladesh a teacher report to the head of the department"
+        }
+      ]
+    },
+    {
+      "text": "The head of the department reports to the Principal.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 28,
+          "quote": "the head of the department report to Principal"
+        }
+      ]
+    },
+    {
+      "text": "The law says what you must do, and also gives you three rights.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 14,
+          "quote": "Here's what the law says you must do:"
+        },
+        {
+          "src": "cblm03",
+          "page": 14,
+          "quote": "As a worker, the law also gives you three important rights:"
+        },
+        {
+          "src": "cblm03",
+          "page": 14,
+          "quote": "1. The Right to Know 2. The Right to Participate 3. The Right to Refuse"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What should be your role as an individual to work safely?",
+      "modelAnswer": "My role as an individual to work safely:\n1. Obey the law\n2. Use machines and equipment safely\n3. Wear required personal protective equipment (PPE)\n4. Report hazards to your boss\n5. Work safely and don't fool around",
+      "keyPoints": [
+        {
+          "text": "You have a legal responsibility to report hazards.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 28,
+              "quote": "You have a legal responsibility to report hazards."
+            }
+          ]
+        },
+        {
+          "text": "Reporting hazards helps your employer meet their responsibility for your safety.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 28,
+              "quote": "Reporting hazards will help your employer meet their responsibility for your health and safety."
+            }
+          ]
+        },
+        {
+          "text": "If you're not sure, ask someone.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 28,
+              "quote": "If you're not sure, ask someone."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Who is the responsible person for reporting in an institute?",
+      "options": [
+        "Head of the department",
+        "Principal",
+        "Safety Office",
+        "Ministry of Labour and Employment"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 17,
+        "quote": "Ans: Head of the department."
+      }
+    },
+    "matching": {
+      "prompt": "Match each action with what it applies to.",
+      "pairs": [
+        {
+          "left": "Obey",
+          "right": "The law",
+          "cite": {
+            "src": "cblm03",
+            "page": 14,
+            "quote": "Obey the law"
+          }
+        },
+        {
+          "left": "Use safely",
+          "right": "Machines and equipment",
+          "cite": {
+            "src": "cblm03",
+            "page": 14,
+            "quote": "Use machines and equipment safely"
+          }
+        },
+        {
+          "left": "Wear",
+          "right": "Required personal protective equipment (PPE)",
+          "cite": {
+            "src": "cblm03",
+            "page": 14,
+            "quote": "Wear required personal protective equipment (PPE)"
+          }
+        },
+        {
+          "left": "Report",
+          "right": "Hazards to your boss",
+          "cite": {
+            "src": "cblm03",
+            "page": 14,
+            "quote": "Report hazards to your boss"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Whom does the head of the department report to?",
+      "answer": {
+        "text": "The head of the department reports to the Principal.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 28,
+            "quote": "the head of the department report to Principal"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

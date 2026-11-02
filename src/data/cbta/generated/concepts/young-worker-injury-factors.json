@@ -1,0 +1,527 @@
+{
+  "aliases": [
+    "Factors contributing to injuries of young workers",
+    "Why so many young workers get hurt"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 12,
+          "printed": 12
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "নতুন বা কম বয়সী কর্মীরা বেশি আহত হয়; কারণ একটা নয়, কয়েকটা।",
+    "Training কম, experience কম, নিজের legal rights জানে না, প্রশ্ন করতে ভয় পায়, আর পড়াশোনার সাথে কাজ করে tired থাকে।",
+    "Injury হলে শুধু নিজের নয়, family, employer আর community-রও ক্ষতি হয়।",
+    "প্রশ্নে চারটি চাইলেও CBLM-এ পাঁচটি আছে; পাঁচটিই লিখলে নিরাপদ।"
+  ],
+  "breakdown": {
+    "exam": 4,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "ঈদের চাপে নতুন helper training পায়নি, প্রশ্ন করতেও ভয় পেয়েছে, তাই আহত হয়েছে।",
+    "en": "A new helper joins a garments factory in Eid rush. Nobody trains him. He is afraid to ask questions and gets hurt."
+  },
+  "highlighted": true,
+  "id": "young-worker-injury-factors",
+  "importance": {
+    "bn": "Unit 02 Short Questions (Short 13) আর Short Questions (Short 16): 2 জায়গায় এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in Unit 02 Short Questions (Short 13) and Short Questions (Short 16). Highlighted in CBLM 3. Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "যে কারণ ঘটনায় ভূমিকা রাখে",
+      "en": "Contributing factor"
+    },
+    {
+      "bn": "প্রশিক্ষণ",
+      "en": "Training"
+    },
+    {
+      "bn": "অভিজ্ঞতা",
+      "en": "Experience"
+    },
+    {
+      "bn": "আইনি অধিকার",
+      "en": "Legal rights"
+    },
+    {
+      "bn": "ক্লান্ত",
+      "en": "Tired"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "passageId": "cblm03-p12-4b19229e",
+            "printedPage": 12,
+            "quote": "Not enough training:",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Since they might be employed on a temporary basis",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "working in a very busy workplace",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "young workers may not receive proper training",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Not enough training: temporary or busy jobs may give no proper training."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "passageId": "cblm03-p12-93e35532",
+            "printedPage": 12,
+            "quote": "Not enough experience:",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "are not familiar with the hazards in their new workplace",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Not enough experience: new workers are not familiar with the hazards."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "passageId": "cblm03-p12-31e32558",
+            "printedPage": 12,
+            "quote": "Don't know their legal rights:",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "the rights to know, participate and refuse unsafe work.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Don't know their legal rights: to know, participate and refuse unsafe work."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "passageId": "cblm03-p12-be98fbb5",
+            "printedPage": 12,
+            "quote": "Afraid to ask questions:",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "They do not want to appear incompetent by asking",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Afraid to ask questions: they do not want to appear incompetent."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "passageId": "cblm03-p12-83ec73d6",
+            "printedPage": 12,
+            "quote": "Tired from trying to balance work with school and other activities:",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Tired from trying to balance work with school and other activities."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 12,
+        "passageId": "cblm03-p12-23e24d90",
+        "printedPage": 12,
+        "quote": "There could be a number of contributing factors.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 12,
+        "printedPage": 12,
+        "quote": "so many young workers are getting hurt",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 12,
+        "printedPage": 12,
+        "quote": "1. Not enough training:",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 12,
+        "printedPage": 12,
+        "quote": "2. Not enough experience:",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Young workers get hurt for a number of contributing factors, like little training or experience."
+  },
+  "openChecks": 1,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Family and friends - it's very hard to see someone you love in pain",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Family and friends",
+          "right": "Hard to see someone you love in pain"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Employer - loss of a valuable employee will hurt production",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Employer",
+          "right": "Loss of a valuable employee hurts production"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Co-workers - staff morale may drop",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Co-workers",
+          "right": "Staff morale may drop"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Community - you may not be able to take part in community events",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Community",
+          "right": "You may not take part in community events"
+        }
+      ],
+      "prompt": "Match who is affected with how an injury affects them."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 12,
+        "printedPage": 12,
+        "quote": "4. Afraid to ask questions:",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Afraid to ask questions",
+        "Too much training",
+        "Using PPE properly",
+        "Knowing their legal rights"
+      ],
+      "prompt": "Which is a reason young workers get hurt?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Workers new to a job, regardless of age, are not",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "tend to have more injuries than experienced workers",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Workers new to a job tend to have more injuries than experienced workers."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "And there is a risk of permanent injury or death.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "There is a risk of permanent injury or death."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Young workers may not realize they have",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "They may also hesitate trying to exercise these",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "legal rights that protect their health and safety",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Young workers may hesitate to use their safety rights."
+        }
+      ],
+      "modelAnswer": "There is no single reason. The contributing factors are:\n1. Not enough training\n2. Not enough experience\n3. Don't know their legal rights\n4. Afraid to ask questions\n5. Tired from trying to balance work with school and other activities",
+      "prompt": "List four factors contributing to high injury rates among industrial workers."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "are not familiar with the hazards in their new workplace",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "They are not familiar with the hazards in their new workplace."
+      },
+      "prompt": "Why do new workers get hurt more often?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "1.\nNot enough training\n2.\nNot enough experience\n3.\nDon't know their legal rights:\n4.\nAfraid to ask questions\n5.\nTired from trying to balance work with school and other activities",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-unit02-short-step-4-evaluate-the-results-q13",
+      "kind": "paper",
+      "label": "Unit 02 Short Questions (Short 13)",
+      "page": 4,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "List the 4 (four) primary factors contributing to the high rate of injuries among the Bangladeshi industry worker There's no single reason why so many young workers are getting hurt. There could be a number of contributing factors.",
+      "src": "paper-unit02-short",
+      "type": "short"
+    },
+    {
+      "answer": "Any four: inadequate training or experience; lack of awareness of\nlegal rights; fear of asking questions; and fatigue from work, study or other\nresponsibilities.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q16",
+      "kind": "paper",
+      "label": "Short Questions (Short 16)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "List four factors contributing to high injury rates among industrial workers.",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 7,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Why Young Workers Get Hurt",
+  "traps": [
+    {
+      "cites": [
+        {
+          "match": "exact",
+          "page": 4,
+          "printedPage": null,
+          "quote": "List the 4 (four) primary factors contributing to the high rate of injuries",
+          "sourceTitle": "Unit 02 Short Questions",
+          "src": "paper-unit02-short"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 12,
+          "printedPage": 12,
+          "quote": "5. Tired from trying to balance work with school and other activities",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "List the 4 (four) primary factors contributing to injuries? CBLM 3 lists five."
+    },
+    {
+      "cites": [
+        {
+          "match": "exact",
+          "page": 4,
+          "printedPage": null,
+          "quote": "among the Bangladeshi industry worker",
+          "sourceTitle": "Unit 02 Short Questions",
+          "src": "paper-unit02-short"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 12,
+          "printedPage": 12,
+          "quote": "so many young workers are getting hurt",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The CBLM is about young workers, not only Bangladeshi industry workers."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 12,
+          "passageId": "cblm03-p12-e5cb6755",
+          "printedPage": 12,
+          "quote": "getting hurt also affects your family, friends, employer, co-workers and community.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Injury also affects your family, friends, employer, co-workers and community."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

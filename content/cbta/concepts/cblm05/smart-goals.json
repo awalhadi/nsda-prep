@@ -1,0 +1,293 @@
+{
+  "id": "smart-goals",
+  "canonical_title": "SMART Goals for Personal Development (CBLM 5)",
+  "aliases": [
+    "Developing SMART Goals",
+    "Document and prioritise personal learning needs",
+    "Specific, Measurable, Achievable, Relevant/Realistic, Time-referenced"
+  ],
+  "cblmPrimary": 5,
+  "source_type": "cblm",
+  "covers": [
+    "cblm05-p7-ef632290",
+    "cblm05-p25-363078bc",
+    "cblm05-p25-029d1387"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "SMART goals are: S- Specific, M- Measurable, A- Achievable, R- Relevant/Realistic, T- Time-referenced.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm05",
+        "page": 25,
+        "quote": "Developing SMART Goals",
+        "passageId": "cblm05-p25-363078bc"
+      },
+      {
+        "src": "cblm05",
+        "page": 25,
+        "quote": "S- Specific. M- Measurable. A- Achievable.",
+        "passageId": "cblm05-p25-029d1387"
+      },
+      {
+        "src": "cblm05",
+        "page": 25,
+        "quote": "R- Relevant/Realistic."
+      },
+      {
+        "src": "cblm05",
+        "page": 25,
+        "quote": "T- Time-referenced."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Specific",
+      "bn": "নির্দিষ্ট — ঠিক কী করবেন"
+    },
+    {
+      "en": "Measurable",
+      "bn": "মাপা যায় এমন"
+    },
+    {
+      "en": "Achievable",
+      "bn": "অর্জন করা সম্ভব"
+    },
+    {
+      "en": "Relevant/Realistic",
+      "bn": "প্রাসঙ্গিক ও বাস্তবসম্মত"
+    },
+    {
+      "en": "Time-referenced",
+      "bn": "নির্দিষ্ট সময়সীমা আছে এমন"
+    }
+  ],
+  "bangla_explanation": [
+    "শুধু 'আমি করব' বললে goal হয় না; professional হিসেবে goal হতে হবে specific আর focused।",
+    "প্রতিষ্ঠানের goals থেকে নিজের personal performance goals বানান, সেগুলোও SMART হবে।",
+    "Achievable মানে নিজের ওপর অবাস্তব চাপ দেবেন না; Time referenced মানে সময়সীমা দিয়ে progress মাপবেন।",
+    "সাধারণত short term goals, long term goals-এর আগে priority পায়।"
+  ],
+  "example": {
+    "en": "A trainer wants to speak better in public. She works with a colleague one hour a week. She rates her skill before and after, by August.",
+    "bn": "কী (specific), কীভাবে মাপবেন (measurable), সময় আছে কি না (achievable), কেন দরকার (relevant), কবে শেষ (time)।"
+  },
+  "mnemonic": {
+    "text": "SMART = Specific, Measurable, Achievable, Relevant/Realistic, Time-referenced",
+    "explain_bn": "প্রতিটি অক্ষর goal-এর একটি গুণ।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "S- Specific.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 25,
+            "quote": "S- Specific."
+          }
+        ]
+      },
+      {
+        "text": "M- Measurable.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 25,
+            "quote": "M- Measurable."
+          }
+        ]
+      },
+      {
+        "text": "A- Achievable: you shouldn't place unrealistic demands on yourself.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 25,
+            "quote": "A- Achievable. You shouldn't place unrealistic demands on yourself"
+          }
+        ]
+      },
+      {
+        "text": "R- Relevant/Realistic: aligned with your responsibilities, accountabilities and aspirations.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 25,
+            "quote": "R- Relevant/Realistic. Any goal should be aligned with your individual responsibilities and accountabilities as well as your own aspirations."
+          }
+        ]
+      },
+      {
+        "text": "T- Time-referenced: time limits help measure the goal's progress.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 25,
+            "quote": "T- Time-referenced. Time limits help with the measurement of the goal's progress."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Achievable also means: take account of other demands on your time.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm05",
+          "page": 25,
+          "quote": "remember to take account of other demands on your time and factors that may affect achievement."
+        }
+      ]
+    },
+    {
+      "text": "Goals for your current position come before goals for future positions.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm05",
+          "page": 26,
+          "quote": "Goals related to your current position would be given priority over those related to future positions."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are SMART goals?",
+      "modelAnswer": "SMART goals are:\n1. S- Specific\n2. M- Measurable\n3. A- Achievable: no unrealistic demands on yourself\n4. R- Relevant/Realistic: aligned with your responsibilities, accountabilities and aspirations\n5. T- Time-referenced: time limits help measure progress\nPersonal performance goals should also be expressed as SMART goals.",
+      "keyPoints": [
+        {
+          "text": "Use institutional goals to devise personal performance goals. Express them as SMART goals.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 7,
+              "quote": "You can use these institutional level goals to devise your own personal performance goals."
+            },
+            {
+              "src": "cblm05",
+              "page": 7,
+              "quote": "These should also be expressed as SMART goals.",
+              "passageId": "cblm05-p7-ef632290"
+            }
+          ]
+        },
+        {
+          "text": "As a professional, you need to be specific and focused.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 25,
+              "quote": "As a professional, you need to be more specific and focused than that."
+            }
+          ]
+        },
+        {
+          "text": "Short-term goals would be given priority over long-term ones.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 26,
+              "quote": "short-term goals would be given priority over long-term ones."
+            }
+          ]
+        },
+        {
+          "text": "SMART goals do not need to be just about formal courses.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 26,
+              "quote": "SMART goals do not need to be just about formal courses."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "In SMART goals, what does T stand for?",
+      "options": [
+        "Targeted",
+        "Tested",
+        "Time-referenced",
+        "Teachable"
+      ],
+      "answerIndex": 2,
+      "answerCite": {
+        "src": "cblm05",
+        "page": 25,
+        "quote": "T- Time-referenced."
+      }
+    },
+    "matching": {
+      "prompt": "Match each SMART word with what it means.",
+      "pairs": [
+        {
+          "left": "Specific",
+          "right": "Be specific and focused as a professional",
+          "cite": {
+            "src": "cblm05",
+            "page": 25,
+            "quote": "As a professional, you need to be more specific and focused than that."
+          }
+        },
+        {
+          "left": "Achievable",
+          "right": "No unrealistic demands on yourself",
+          "cite": {
+            "src": "cblm05",
+            "page": 25,
+            "quote": "You shouldn't place unrealistic demands on yourself"
+          }
+        },
+        {
+          "left": "Relevant/Realistic",
+          "right": "Aligned with your responsibilities and aspirations",
+          "cite": {
+            "src": "cblm05",
+            "page": 25,
+            "quote": "Any goal should be aligned with your individual responsibilities and accountabilities as well as your own aspirations."
+          }
+        },
+        {
+          "left": "Time-referenced",
+          "right": "Time limits help measure the goal's progress",
+          "cite": {
+            "src": "cblm05",
+            "page": 25,
+            "quote": "Time limits help with the measurement of the goal's progress."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why should a goal be time-referenced?",
+      "answer": {
+        "text": "Time limits help with the measurement of the goal's progress.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 25,
+            "quote": "Time limits help with the measurement of the goal's progress."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

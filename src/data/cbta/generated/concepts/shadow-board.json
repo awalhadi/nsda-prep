@@ -1,0 +1,344 @@
+{
+  "aliases": [
+    "Shadow board",
+    "Purpose of shadow boards in workshops",
+    "Tool boards and tool racks"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 13,
+          "printed": 13
+        },
+        {
+          "pdf": 21,
+          "printed": 21
+        },
+        {
+          "pdf": 22,
+          "printed": 22
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "Shadow board-এ প্রতিটা tool-এর আকার আঁকা থাকে, হুকে tool ঝুলিয়ে রাখা হয়।",
+    "কোন জায়গা খালি, তা দেখেই বোঝা যায় কোন tool ব্যবহার হচ্ছে।",
+    "Session শেষে এক নজরে quick check করা যায়, সব tool ফেরত এসেছে কিনা।",
+    "তাই পরীক্ষায় purpose লিখুন: tools দেখে দেখে গুছিয়ে রাখা আর ব্যবহার track করা।"
+  ],
+  "breakdown": {
+    "exam": 3,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "খালি shadow দেখলেই বোঝা যায় কোন tool ফেরত আসেনি।",
+    "en": "In a carpentry workshop, each saw hangs on its painted shape. An empty shape shows a missing saw."
+  },
+  "highlighted": false,
+  "id": "shadow-board",
+  "importance": {
+    "bn": "CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 9)-এ এসেছে। পরীক্ষায় MCQ হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 9). Comes as MCQ."
+  },
+  "keywords": [
+    {
+      "bn": "দেয়ালের বোর্ড, যেখানে প্রতিটি tool-এর আকার আঁকা থাকে",
+      "en": "Shadow board"
+    },
+    {
+      "bn": "হাতে চালানো যন্ত্রপাতি",
+      "en": "Hand tools"
+    },
+    {
+      "bn": "এক নজরে মিলিয়ে দেখা",
+      "en": "Quick check"
+    },
+    {
+      "bn": "যন্ত্রপাতি ঝোলানোর বোর্ড",
+      "en": "Tool boards"
+    },
+    {
+      "bn": "হারানো বা ফেরত না আসা যন্ত্র",
+      "en": "Missing tools"
+    }
+  ],
+  "likelyTypes": [
+    "mcq"
+  ],
+  "listAnswer": null,
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 21,
+        "printedPage": 21,
+        "quote": "the shadow board.",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 21,
+        "printedPage": 21,
+        "quote": "This is a fixed board situated along the wall of the workshop on which the shapes of",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 21,
+        "printedPage": 21,
+        "quote": "individual hand tools are clearly shown.",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "A shadow board is a fixed wall board showing the shapes of individual hand tools."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "The shadow board enables you to do a quick check on which tools are in use",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Shadow board",
+          "right": "Quick check on which tools are in use"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "The use of portable tool boards can save space in the storage area and, being",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Portable tool boards",
+          "right": "Save space and can be taken to the work site"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Displaying tools and equipment on tool racks and boards makes it easier to check for",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Tool racks and boards",
+          "right": "Easier to check for missing tools"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "it would be practical and sensible to use mechanical aids, such as trolleys or tool carts.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Trolleys or tool carts",
+          "right": "Mechanical aids to transport heavy equipment"
+        }
+      ],
+      "prompt": "Match each storage aid with what it does."
+    },
+    "mcq": {
+      "answerCite": {
+        "match": "exact",
+        "page": 5,
+        "printedPage": null,
+        "quote": "B) To visually organize and track tool usage",
+        "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+        "src": "paper-written-inclusivity-maintenance"
+      },
+      "answerIndex": 1,
+      "options": [
+        "To randomly store tools",
+        "To visually organize and track tool usage",
+        "To store tools in safe environment",
+        "To replace traditional shelves for store tools in good condition"
+      ],
+      "prompt": "What is the purpose of shadow boards in workshops?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "individual hand tools are clearly shown.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The shapes of individual hand tools are clearly shown on the board."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "The shadow board enables you to do a quick check on which tools are in use",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It gives a quick check on which tools are in use."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "whether all tools in the kit have been returned at the end of training",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It shows whether all tools have been returned at the end of training."
+        }
+      ],
+      "modelAnswer": "A shadow board is a fixed board along the workshop wall. The shapes of individual hand tools are shown on it.\nPurpose:\n1. Tools hang on hooks so they fit their shadows.\n2. It gives a quick check on which tools are in use.\n3. It shows whether all tools are returned at the end of training.",
+      "prompt": "What is a shadow board? What is its purpose?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "A secure, permanent, clearly marked storage place for each item allows for easy",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "checking of missing equipment at the end of each session",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "It allows easy checking of missing equipment at the end of each session."
+      },
+      "prompt": "Why give each item a clearly marked storage place?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": null,
+      "answerIndex": 1,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-written-inclusivity-maintenance-mcq-q9",
+      "kind": "paper",
+      "label": "CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 9)",
+      "options": [
+        "To randomly store tools",
+        "To visually organize and track tool usage",
+        "To store tools in safe environment",
+        "To replace traditional shelves for store tools in good condition"
+      ],
+      "page": 2,
+      "paperClass": "official",
+      "printedPage": null,
+      "question": "What is the purpose of shadow boards in workshops?",
+      "src": "paper-written-inclusivity-maintenance",
+      "type": "mcq"
+    }
+  ],
+  "score": 4,
+  "sourceType": "cblm",
+  "stars": 3,
+  "status": "draft",
+  "title": "Shadow Board and Tool Boards",
+  "traps": [
+    {
+      "cites": [
+        {
+          "match": "exact",
+          "page": 5,
+          "printedPage": null,
+          "quote": "B) To visually organize and track tool usage",
+          "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+          "src": "paper-written-inclusivity-maintenance"
+        },
+        {
+          "match": "exact",
+          "page": 2,
+          "printedPage": null,
+          "quote": "C) To store tools in safe environment",
+          "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+          "src": "paper-written-inclusivity-maintenance"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Answer: visually organize and track tool usage. Not: store tools in safe environment."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 21,
+          "printedPage": 21,
+          "quote": "Hooks or pegs enable the tools to be hung",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 21,
+          "printedPage": 21,
+          "quote": "so that they fit their \"shadows\".",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Tools hang on hooks or pegs so that they fit their shadows."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

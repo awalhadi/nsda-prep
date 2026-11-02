@@ -1,0 +1,444 @@
+{
+  "aliases": [
+    "Workshop environmental factors",
+    "Temperature, ventilation and lighting",
+    "Good lighting in the workshop"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 22,
+          "printed": 22
+        },
+        {
+          "pdf": 23,
+          "printed": 23
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "শিক্ষার্থী আরাম পেলে বেশি শেখে, তাই workshop-এর পরিবেশ গুরুত্বপূর্ণ।",
+    "তিনটা জিনিস control করা যায়: temperature, ventilation আর lighting।",
+    "হাতের কাজ যেখানে হয়, সেখানে অন্তত ১৫ ডিগ্রি সেলসিয়াস রাখার কথা বলা আছে।",
+    "Lighting ঠিক করার তিনটা প্রধান ধাপ: নকশা, সমস্যা খোঁজা, সমাধান বের করা।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 3,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "AC না থাকলে জানালা-দরজা খুলে ঠান্ডা বাতাস ঢোকানো।",
+    "en": "A garments training room is too hot. The trainer opens windows and doors for cooler air."
+  },
+  "highlighted": true,
+  "id": "workshop-environmental-factors",
+  "importance": {
+    "bn": "CBLM 6-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 6."
+  },
+  "keywords": [
+    {
+      "bn": "তাপমাত্রা",
+      "en": "Temperature"
+    },
+    {
+      "bn": "বাতাস চলাচল",
+      "en": "Ventilation"
+    },
+    {
+      "bn": "আলোর ব্যবস্থা",
+      "en": "Lighting"
+    },
+    {
+      "bn": "অতিরিক্ত গরম বা ঠান্ডায় শরীরের কষ্ট",
+      "en": "Thermal stress"
+    },
+    {
+      "bn": "চোখ ধাঁধানো তীব্র আলো",
+      "en": "Glare"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 23,
+            "passageId": "cblm06-p23-00fd4b45",
+            "printedPage": 23,
+            "quote": "1. Design the workshop to avoid lighting problems.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Design the workshop to avoid lighting problems."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "2. Identify and assess lighting problems and difficulties in the workshop.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Identify and assess lighting problems and difficulties in the workshop."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "3. Identify solutions to lighting problems.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Identify solutions to lighting problems."
+      }
+    ]
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 22,
+        "printedPage": 22,
+        "quote": "Temperature, ventilation and lighting are three elements of the environment that can",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 22,
+        "printedPage": 22,
+        "quote": "be controlled by artificial means",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Temperature, ventilation and lighting are three environment elements we can control."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "temperature range to protect trainees from thermal stress",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Temperature",
+          "right": "Protect trainees from thermal stress"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "Ventilation and mechanical cooling systems should be arranged to counteract",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Ventilation and mechanical cooling",
+          "right": "Counteract excessive heat"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Individual or task lights improve the intensity of light in",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Task lights",
+          "right": "Improve light intensity where light is insufficient"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Glass area should equal 30 percent of the floor area",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Glass area",
+          "right": "30 percent of the floor area"
+        }
+      ],
+      "prompt": "Match each point with its environmental factor."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 22,
+        "printedPage": 22,
+        "quote": "A temperature of at least 15 degrees Celsius is recommended where manual work is",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "answerIndex": 2,
+      "options": [
+        "At least 5 degrees Celsius",
+        "At least 10 degrees Celsius",
+        "At least 15 degrees Celsius",
+        "At least 30 degrees Celsius"
+      ],
+      "prompt": "What temperature is recommended where manual work is performed?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "Lighting where people work should be sufficient to allow the work to be performed",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "safely and without eyestrain",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Lighting should let work be done safely and without eyestrain."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "Make maximum use of natural light",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Make maximum use of natural light."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "Assess lighting levels required and minimize glare, reflections and",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assess lighting levels and minimize glare, reflections and shadows."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "Alter the lighting system by:",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "lowering or raising the lights",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "changing the position of the lights",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "increasing or decreasing the number of lights",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Alter the lighting system by lowering, raising, changing the position or number of lights."
+        }
+      ],
+      "modelAnswer": "Good lighting means seeing what needs to be seen without affecting health and safety. Three main steps:\n1. Design the workshop to avoid lighting problems.\n2. Identify and assess lighting problems and difficulties in the workshop.\n3. Identify solutions to lighting problems, e.g. lower, raise or move the lights.",
+      "prompt": "What are the three main steps for good lighting in a workshop?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "Temperature, ventilation and lighting are three elements of the environment that can",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Temperature, ventilation and lighting."
+      },
+      "prompt": "Which three environment elements can be controlled in a workshop?"
+    }
+  },
+  "realQuestions": [],
+  "score": 4,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Workshop Environmental Factors: Temperature, Ventilation and Lighting",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "If a capacity does not exist to control the temperature and ventilation by air",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "ensure enough windows and doors are fitted to take advantage of any cooler",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "insulate ceilings/roof where appropriate",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "use external awnings to protect window",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Without air conditioning: use windows and doors, insulate ceilings, use external awnings."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "Good lighting means:",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "being able to see what needs to be seen",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "doing this without affecting health and safety",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Good lighting: see what needs to be seen, without affecting health and safety."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 23,
+          "printedPage": 23,
+          "quote": "Overhead windows are preferable to wall windows.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Overhead windows are preferable to wall windows."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

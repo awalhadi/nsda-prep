@@ -116,6 +116,27 @@
   },
   "traps": [
     {
+      "text": "CBLM 7 says appropriate learning outcomes need to meet two criteria: observable and measurable.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm07",
+          "page": 11,
+          "quote": "Appropriate learning outcomes need to meet two criteria."
+        },
+        {
+          "src": "cblm09",
+          "page": 32,
+          "quote": "1. They must be observable. Can you actually see or observe the progress"
+        },
+        {
+          "src": "cblm09",
+          "page": 32,
+          "quote": "2. They must be measurable. Can you measure the output or progress of"
+        }
+      ]
+    },
+    {
       "text": "Do not use: understand, realise, be aware of, show interest in, know.",
       "fidelity": "paraphrase",
       "cites": [
@@ -286,5 +307,10 @@
       }
     }
   },
-  "checks": []
+  "checks": [
+    {
+      "path": "list_answer",
+      "note": "CBLM 9 teaches three criteria (observable, measurable, clear verbs); CBLM 7 p.11 says two (observable, measurable). Owner to decide which count learners write."
+    }
+  ]
 }

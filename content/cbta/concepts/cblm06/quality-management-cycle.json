@@ -1,0 +1,300 @@
+{
+  "id": "quality-management-cycle",
+  "canonical_title": "Quality Management Cycle (Plan-Do-Check-Act) in Maintenance",
+  "aliases": [
+    "Quality Management",
+    "Define Quality Management",
+    "Quality Management Cycle (QMC)",
+    "QMC in the maintenance program"
+  ],
+  "cblmPrimary": 6,
+  "source_type": "cblm",
+  "covers": [
+    "cblm06-p37-a48f5d81",
+    "cblm06-p37-64784bed",
+    "cblm06-p37-de81d9d9",
+    "cblm06-p37-3b928622",
+    "cblm06-p37-898d99d6"
+  ],
+  "questions": [
+    "cblm06-sc2-q2",
+    "paper-written-inclusivity-maintenance-match-q4"
+  ],
+  "one_line_answer": {
+    "text": "Quality management is a method for ensuring that all the activities necessary to design, develop and implement a product or service are effective and efficient with respect to system and performance.",
+    "fidelity": "verbatim",
+    "cites": [
+      {
+        "src": "cblm06",
+        "page": 37,
+        "quote": "Quality management is a method for ensuring that all the activities necessary to design, develop and implement a product or service are effective and efficient with respect to system and performance.",
+        "passageId": "cblm06-p37-a48f5d81"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Quality management",
+      "bn": "মান ব্যবস্থাপনা"
+    },
+    {
+      "en": "Effective and efficient",
+      "bn": "কাজ ঠিকমতো হয় এবং কম খরচে হয়"
+    },
+    {
+      "en": "Plan, Do, Check, Act",
+      "bn": "পরিকল্পনা, বাস্তবায়ন, যাচাই, পদক্ষেপ"
+    },
+    {
+      "en": "Maintenance Program",
+      "bn": "রক্ষণাবেক্ষণের পূর্ণ তালিকা ও পরিকল্পনা"
+    },
+    {
+      "en": "Maintenance Schedule",
+      "bn": "কোন কাজ কোন সময়ে, তার তালিকা"
+    }
+  ],
+  "bangla_explanation": [
+    "Maintenance program বানানোর সময় Quality Management cycle মেনে চলা সবচেয়ে ভালো।",
+    "Cycle-টা চার ধাপের: Plan, Do, Check, Act।",
+    "Maintenance-এ Plan মানে program-এর সব details তৈরি, Do মানে schedule অনুযায়ী কাজ।",
+    "Check মানে নিয়মিত equipment পরীক্ষা করা, Act মানে inspection-এর result দেখে ব্যবস্থা নেওয়া।"
+  ],
+  "example": {
+    "en": "A computer lab plans weekly cleaning (Plan). IT staff clean on schedule (Do). The in-charge inspects (Check). He fixes gaps (Act).",
+    "bn": "কম্পিউটার ল্যাবে plan, কাজ, inspect আর ব্যবস্থা: এটাই QMC।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Plan: design or revise business process components to improve results.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "Plan: Design or revise business process components to improve results.",
+            "passageId": "cblm06-p37-64784bed"
+          }
+        ]
+      },
+      {
+        "text": "Do: implement the plan and measure its performance.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "Do: Implement the plan and measure its performance.",
+            "passageId": "cblm06-p37-de81d9d9"
+          }
+        ]
+      },
+      {
+        "text": "Check: assess the measurements and report the results to decision makers.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "Check: Assess the measurements and report the results",
+            "passageId": "cblm06-p37-3b928622"
+          },
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "to decision makers."
+          }
+        ]
+      },
+      {
+        "text": "Act: decide on changes needed to improve the process.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "Act: Decide on changes needed to improve the process.",
+            "passageId": "cblm06-p37-898d99d6"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "The Maintenance Schedule is just a part of the Maintenance Program.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 37,
+          "quote": "The Maintenance schedule is just a part of the Maintenance Program"
+        }
+      ]
+    },
+    {
+      "text": "In maintenance, CHECK means the organization regularly inspects equipment.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 37,
+          "quote": "Then CHECK, here the organization regular inspects equipment to determine if the required maintenance procedures are conducted."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Define Quality Management. Write the steps of the Quality Management Cycle.",
+      "modelAnswer": "Quality management is a method for ensuring that all the activities necessary to design, develop and implement a product or service are effective and efficient with respect to system and performance.\nSteps:\n1. Plan: design or revise business process components.\n2. Do: implement the plan and measure performance.\n3. Check: assess measurements and report results.\n4. Act: decide on changes needed to improve.",
+      "keyPoints": [
+        {
+          "text": "Activities to design, develop and implement a product or service are effective and efficient.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 37,
+              "quote": "all the activities necessary to design, develop and implement a product or service are effective and efficient"
+            }
+          ]
+        },
+        {
+          "text": "In maintenance, Plan means preparing all the details of the maintenance program.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 37,
+              "quote": "The first step of the Quality Management cycle in maintenance is to PLAN by preparing all the details of the maintenance program"
+            }
+          ]
+        },
+        {
+          "text": "Do means implementing maintenance methods and strategies based on the maintenance schedule.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 37,
+              "quote": "Then DO, wherein the organization implements the methods and strategies of maintenance based on the maintenance schedule."
+            }
+          ]
+        },
+        {
+          "text": "ACT: the organization acts on the result of the inspection conducted.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 37,
+              "quote": "Finally ACT. here the organization acts on the result of the inspection conducted"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is \"a method for ensuring that all the activities necessary to design, develop and implement a product or service are effective and efficient\"?",
+      "options": [
+        "Preventive Maintenance",
+        "Quality management",
+        "Corrective Maintenance",
+        "Maintenance Schedule"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "paper-written-inclusivity-maintenance",
+        "page": 5,
+        "quote": "B) Quality management"
+      }
+    },
+    "matching": {
+      "prompt": "Match each QMC step with its action.",
+      "pairs": [
+        {
+          "left": "Plan",
+          "right": "Design or revise business process components",
+          "cite": {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "Plan: Design or revise business process components to improve results."
+          }
+        },
+        {
+          "left": "Do",
+          "right": "Implement the plan and measure its performance",
+          "cite": {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "Do: Implement the plan and measure its performance."
+          }
+        },
+        {
+          "left": "Check",
+          "right": "Assess the measurements and report the results",
+          "cite": {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "Check: Assess the measurements and report the results"
+          }
+        },
+        {
+          "left": "Act",
+          "right": "Decide on changes needed to improve the process",
+          "cite": {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "Act: Decide on changes needed to improve the process."
+          }
+        },
+        {
+          "left": "Maintenance Schedule",
+          "right": "List allocating specific maintenance to a specific period",
+          "cite": {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "Maintenance Schedule is a list allocating specific maintenance"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What is a Maintenance Program?",
+      "answer": {
+        "text": "A comprehensive list of maintenance and its incidence. It includes activities, manpower, methods, materials and costs.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "Maintenance Program is a comprehensive list of maintenance"
+          },
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "and its incidence. This would include all the maintenance"
+          },
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "activities to be undertaken, manpower needed, maintenance"
+          },
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "methods to be used, all the materials and supplies needed for"
+          },
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "the maintenance and the costs involved in the maintenance."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

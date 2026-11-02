@@ -1,0 +1,290 @@
+{
+  "id": "housekeeping-workshop",
+  "canonical_title": "Housekeeping in the Training Workshop",
+  "aliases": [
+    "Housekeeping",
+    "Good housekeeping",
+    "What housekeeping covers?"
+  ],
+  "cblmPrimary": 6,
+  "source_type": "cblm",
+  "covers": [
+    "cblm06-p7-12835113",
+    "cblm06-p7-1966e694"
+  ],
+  "questions": [
+    "cblm06-sc1-q4"
+  ],
+  "one_line_answer": {
+    "text": "Housekeeping is a process of keeping a place clean, beautiful and well maintained.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm06",
+        "page": 7,
+        "quote": "housekeeping is a process of keeping a place"
+      },
+      {
+        "src": "cblm06",
+        "page": 7,
+        "quote": "clean, beautiful and well maintained so that it looks and feels pleasant and inviting to"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Housekeeping",
+      "bn": "ঘরবাড়ি বা কর্মস্থল গুছিয়ে পরিষ্কার রাখা"
+    },
+    {
+      "en": "Cleanliness",
+      "bn": "পরিচ্ছন্নতা"
+    },
+    {
+      "en": "Janitorial",
+      "bn": "ঝাড়ু-মোছা, পরিষ্কারের কাজ"
+    },
+    {
+      "en": "Grounds keeping",
+      "bn": "বাইরের মাঠ ও চত্বর দেখাশোনা"
+    },
+    {
+      "en": "Workshop",
+      "bn": "প্রশিক্ষণের কারখানা বা ওয়ার্কশপ"
+    }
+  ],
+  "bangla_explanation": [
+    "Housekeeping মানে জায়গাটা clean, সুন্দর আর ভালোভাবে maintained রাখা।",
+    "আমাদের কাজে এই শব্দটা training workshop-এর জন্য ব্যবহার হয়।",
+    "রক্ষণাবেক্ষণের কাজে housekeeping মানে janitorial আর grounds keeping কাজ।",
+    "পরিষ্কার workshop-এ কাজ সহজ হয়, আর সবার কাছে জায়গাটা আরামদায়ক লাগে।"
+  ],
+  "example": {
+    "en": "In a garments training workshop, staff remove waste from the floor and benches every day.",
+    "bn": "প্রতিদিন মেঝে আর bench থেকে ময়লা সরানো housekeeping-এর অংশ।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Remove dirt, refuse and waste at least daily from floors, benches, desks, stairways and passageways.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "removing dirt, refuse and waste at least daily from any floor, benches and"
+          },
+          {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "desks, and from any stairways and passageways"
+          }
+        ]
+      },
+      {
+        "text": "Clean windows and skylights so that natural light is not restricted.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "cleaning windows and skylights so that natural light is not restricted"
+          }
+        ]
+      },
+      {
+        "text": "Clean change rooms at least once a day; wash down once a week.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "cleaning change rooms at least once a day and washing down at least once a"
+          },
+          {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "week when in use"
+          }
+        ]
+      },
+      {
+        "text": "Sanitize showers and washing facilities each day they are used.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "Sanitizing any showers and washing facilities each day they are used."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Housekeeping covers janitorial and grounds keeping work, not repair or construction.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 27,
+          "quote": "Housekeeping would cover those janitorial and grounds keeping activities"
+        },
+        {
+          "src": "cblm06",
+          "page": 27,
+          "quote": "Repair would consist of replacing parts to restore a piece of equipment to full"
+        },
+        {
+          "src": "cblm06",
+          "page": 27,
+          "quote": "Construction and rehabilitation would"
+        }
+      ]
+    },
+    {
+      "text": "The answer key lists repair and construction for housekeeping.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 31,
+          "quote": "Answer Key No: 1- Implement housekeeping activity"
+        },
+        {
+          "src": "cblm06",
+          "page": 31,
+          "quote": "a) Repair or replacing parts to restore a piece of equipment to full"
+        },
+        {
+          "src": "cblm06",
+          "page": 31,
+          "quote": "b) Construction and rehabilitation of building, modifying, and restoring"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What does housekeeping cover? How is a workshop kept clean?",
+      "modelAnswer": "Housekeeping covers the janitorial and grounds keeping activities needed for clean and orderly facilities and grounds.\nThe workshop is kept clean by:\n1. removing dirt, refuse and waste at least daily\n2. cleaning windows and skylights\n3. cleaning change rooms daily and washing them weekly\n4. sanitizing showers and washing facilities each day they are used",
+      "keyPoints": [
+        {
+          "text": "Housekeeping covers janitorial and grounds keeping activities.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "Housekeeping would cover those janitorial and grounds keeping activities"
+            }
+          ]
+        },
+        {
+          "text": "These activities provide clean and orderly facilities and grounds.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "necessary to provide clean and orderly facilities and grounds"
+            }
+          ]
+        },
+        {
+          "text": "Housekeeping keeps a place pleasant and inviting to all.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 7,
+              "quote": "housekeeping is a process of keeping a place"
+            },
+            {
+              "src": "cblm06",
+              "page": 7,
+              "quote": "clean, beautiful and well maintained so that it looks and feels pleasant and inviting to"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "What would housekeeping cover in a maintenance department?",
+      "options": [
+        "Replacing parts to restore equipment",
+        "Janitorial and grounds keeping activities",
+        "Building, modifying and restoring structures",
+        "Reclamation of surplus material and scrap"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm06",
+        "page": 27,
+        "quote": "Housekeeping would cover those janitorial and grounds keeping activities"
+      }
+    },
+    "matching": {
+      "prompt": "Match each cleaning task with how often it is done.",
+      "pairs": [
+        {
+          "left": "Remove dirt, refuse and waste",
+          "right": "At least daily",
+          "cite": {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "removing dirt, refuse and waste at least daily from any floor, benches and"
+          }
+        },
+        {
+          "left": "Clean change rooms",
+          "right": "At least once a day",
+          "cite": {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "cleaning change rooms at least once a day and washing down at least once a"
+          }
+        },
+        {
+          "left": "Wash down change rooms",
+          "right": "At least once a week",
+          "cite": {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "washing down at least once a week when in use"
+          }
+        },
+        {
+          "left": "Sanitize showers and washing facilities",
+          "right": "Each day they are used",
+          "cite": {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "Sanitizing any showers and washing facilities each day they are used."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why do we clean windows and skylights in the workshop?",
+      "answer": {
+        "text": "So that natural light is not restricted.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 11,
+            "quote": "cleaning windows and skylights so that natural light is not restricted"
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "questions",
+      "note": "cblm06-sc1-q4 answer key (p.31) lists 'Repair or replacing parts...' and 'Construction and rehabilitation...'. Information sheet p.27 says housekeeping covers janitorial and grounds keeping activities; those two lines are the p.27 definitions of Repair and Construction. Card follows p.27."
+    }
+  ]
+}

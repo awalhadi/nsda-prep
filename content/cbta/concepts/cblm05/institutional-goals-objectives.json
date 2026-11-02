@@ -1,0 +1,227 @@
+{
+  "id": "institutional-goals-objectives",
+  "canonical_title": "Analysing Your Institution's Goals and Objectives (CBLM 5)",
+  "aliases": [
+    "Aspects to consider to analyse institutional goals and objectives",
+    "Finding out goals and objectives",
+    "Organisation's goals and objectives"
+  ],
+  "cblmPrimary": 5,
+  "source_type": "cblm",
+  "covers": [
+    "cblm05-p6-53a6593e",
+    "cblm05-p7-74c8aab1"
+  ],
+  "questions": [
+    "cblm05-sc1-q3"
+  ],
+  "one_line_answer": {
+    "text": "Goals and objectives may relate to all aspects of an institution, or just some.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm05",
+        "page": 6,
+        "quote": "Goals and objectives may be related to all aspects of an institution, or just some.",
+        "passageId": "cblm05-p6-53a6593e"
+      }
+    ]
+  },
+  "keywords": [
+    { "en": "Goals and objectives", "bn": "লক্ষ্য ও উদ্দেশ্য — প্রতিষ্ঠান কী অর্জন করতে চায়" },
+    { "en": "Strategic plan", "bn": "দীর্ঘমেয়াদি পরিকল্পনা (১ থেকে ৫ বছর বা তার বেশি)" },
+    { "en": "Critical success factors (CSFs)", "bn": "যে মূল কাজগুলো ভালোভাবে না করলে লক্ষ্য পূরণ হয় না" },
+    { "en": "Supervisor", "bn": "তত্ত্বাবধায়ক, যাঁর অধীনে আপনি কাজ করেন" },
+    { "en": "Harmony", "bn": "মিল, সামঞ্জস্য" }
+  ],
+  "bangla_explanation": [
+    "প্রতিষ্ঠানের goals and objectives জানলে বোঝা যায় আপনার কাছে কী আশা করা হচ্ছে।",
+    "নিজের goals আর প্রতিষ্ঠানের goals-এর মধ্যে harmony থাকলে দুটোই পূরণ হওয়ার সম্ভাবনা বেশি।",
+    "Goals খুঁজে পাওয়ার উপায় দুটো: research করুন, আর ask করুন।",
+    "কোনো তথ্য না পেলে আপনার supervisor বা manager-কে জিজ্ঞেস করুন।"
+  ],
+  "example": {
+    "en": "An IT training centre wants 95% of trainees to rate courses 'exceeds expectations'. So each trainer aims for this rating.",
+    "bn": "প্রতিষ্ঠানের লক্ষ্য ৯৫% ভালো rating হলে, প্রত্যেক trainer নিজের ক্লাসেও সেটাই লক্ষ্য রাখেন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Strategic plans",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 6, "quote": "strategic plans" }]
+      },
+      {
+        "text": "Operational plans",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 6, "quote": "operational plans" }]
+      },
+      {
+        "text": "Codes of conduct",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 6, "quote": "codes of conduct" }]
+      },
+      {
+        "text": "Flexibility and client responsiveness",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 6, "quote": "flexibility and client responsiveness" }]
+      },
+      {
+        "text": "Client satisfaction",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 6, "quote": "client satisfaction" }]
+      },
+      {
+        "text": "Financial performance",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 6, "quote": "financial performance" }]
+      },
+      {
+        "text": "People management",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 6, "quote": "people management" }]
+      },
+      {
+        "text": "Marketing and client service",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 6, "quote": "marketing and client service" }]
+      },
+      {
+        "text": "Quality and quality assurance",
+        "fidelity": "verbatim",
+        "cites": [{ "src": "cblm05", "page": 6, "quote": "quality and quality assurance." }]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "CSFs are also called key performance indicators (KPIs) or measures of performance (MOPs).",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm05",
+          "page": 7,
+          "quote": "Critical success factors (CSFs are the essential areas of activity that must be performed"
+        },
+        {
+          "src": "cblm05",
+          "page": 7,
+          "quote": "also sometimes referred to as Key performance indicators (KPIs) or measures of performance (MOPs)."
+        }
+      ]
+    },
+    {
+      "text": "A strategic plan is long-term: usually one year and up to five years or more.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm05",
+          "page": 7,
+          "quote": "Strategic plans are long-term, usually one year and up to five years or more."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the aspects you may consider to analyse your institutional goals and objectives?",
+      "modelAnswer": "Goals and objectives may relate to all aspects of an institution, or just some. They may relate to:\n1. Strategic plans\n2. Operational plans\n3. Codes of conduct\n4. Flexibility and client responsiveness\n5. Client satisfaction\n6. Financial performance\n7. People management\n8. Marketing and client service\n9. Quality and quality assurance",
+      "keyPoints": [
+        {
+          "text": "Goals in harmony with the organisation's goals are more likely to be realised.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 6,
+              "quote": "If you make certain your own goals and those of the organisation are in harmony, they are more likely to be realised."
+            }
+          ]
+        },
+        {
+          "text": "Find out the goals and objectives by research. Ask.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 7,
+              "quote": "How do you find out what the organisation's goals and objectives are? Research. Ask.",
+              "passageId": "cblm05-p7-74c8aab1"
+            }
+          ]
+        },
+        {
+          "text": "If you cannot find some information, ask your supervisor or manager.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 7,
+              "quote": "If you cannot find some information, ask your supervisor or manager."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is one aspect that institutional goals and objectives may relate to?",
+      "options": [
+        "Hazard identification",
+        "Client satisfaction",
+        "Learning styles",
+        "Session sequencing"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "cblm05",
+        "page": 6,
+        "quote": "client satisfaction"
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "Strategic plan",
+          "right": "Long-term, usually one year up to five years or more",
+          "cite": { "src": "cblm05", "page": 7, "quote": "Strategic plans are long-term, usually one year and up to five years or more." }
+        },
+        {
+          "left": "Critical success factors (CSFs)",
+          "right": "Essential areas of activity that must be performed well",
+          "cite": { "src": "cblm05", "page": 7, "quote": "Critical success factors (CSFs are the essential areas of activity that must be performed" }
+        },
+        {
+          "left": "Research. Ask.",
+          "right": "How to find out the organisation's goals and objectives",
+          "cite": { "src": "cblm05", "page": 7, "quote": "How do you find out what the organisation's goals and objectives are? Research. Ask." }
+        },
+        {
+          "left": "Supervisor or manager",
+          "right": "Ask when you cannot find some information",
+          "cite": { "src": "cblm05", "page": 7, "quote": "If you cannot find some information, ask your supervisor or manager." }
+        },
+        {
+          "left": "Quality plan",
+          "right": "Goals at an institutional level",
+          "cite": { "src": "cblm05", "page": 7, "quote": "In a quality plan, the goals are at an institutional level" }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why should you know your institution's goals and objectives?",
+      "answer": {
+        "text": "Then you can more accurately determine what is expected of you.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 6,
+            "quote": "If you know what the goals and objectives of your organisation are, you can more accurately determine what is expected of you."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

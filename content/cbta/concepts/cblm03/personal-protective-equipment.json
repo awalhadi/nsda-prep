@@ -1,0 +1,326 @@
+{
+  "id": "personal-protective-equipment",
+  "canonical_title": "Personal Protective Equipment (PPE)",
+  "aliases": [
+    "PPE",
+    "Essential criteria for the selection and use of PPE",
+    "Name the PPE"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p39-49ca4919",
+    "cblm03-p39-7b5d9727",
+    "cblm03-p40-e0837d45"
+  ],
+  "questions": [
+    "cblm03-sc3-q3",
+    "paper-unit02-short-step-4-evaluate-the-results-q12",
+    "paper-short-questions-q19"
+  ],
+  "one_line_answer": {
+    "text": "When other methods aren't available, you may need to wear personal protective equipment (PPE).",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 39,
+        "quote": "PPE When other methods of keeping you safe aren't available",
+        "passageId": "cblm03-p39-49ca4919"
+      },
+      {
+        "src": "cblm03",
+        "page": 39,
+        "quote": "you may need to wear personal protective equipment (PPE).",
+        "passageId": "cblm03-p39-7b5d9727"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "PPE",
+      "bn": "Personal Protective Equipment: ব্যক্তিগত সুরক্ষা সরঞ্জাম"
+    },
+    {
+      "en": "Fit properly",
+      "bn": "গায়ে ঠিকমতো লাগে"
+    },
+    {
+      "en": "Hard hat",
+      "bn": "শক্ত হেলমেট"
+    },
+    {
+      "en": "Respirator",
+      "bn": "শ্বাসের সাথে ধুলা আটকানোর মাস্ক"
+    },
+    {
+      "en": "Safety shoes",
+      "bn": "নিরাপত্তা জুতা"
+    }
+  ],
+  "bangla_explanation": [
+    "PPE শেষ উপায়: অন্য পদ্ধতিতে নিরাপদ রাখা না গেলে PPE পরতে হয়।",
+    "PPE hazard দূর করে না, শুধু properly used হলে আপনাকে protect করে।",
+    "ভালো PPE-র চারটি শর্ত: comfortable ও fit properly, maintained, hazard-এর জন্য appropriate, আর নতুন hazards তৈরি করবে না।",
+    "Employer PPE দেবে আর train করবে; আপনাকে তা পরতে হবে।"
+  ],
+  "example": {
+    "en": "A garments cutting master wears metal gloves. The gloves fit well and are kept in good condition.",
+    "bn": "গার্মেন্টসের কাটিং মাস্টার ঠিক মাপের, ভালো অবস্থার metal gloves পরেন।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Be comfortable and fit properly",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "Be comfortable and fit properly",
+            "passageId": "cblm03-p40-e0837d45"
+          }
+        ]
+      },
+      {
+        "text": "Be maintained and kept in good condition",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "Be maintained and kept in good condition"
+          }
+        ]
+      },
+      {
+        "text": "Be appropriate for the hazard",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "Be appropriate for the hazard"
+          }
+        ]
+      },
+      {
+        "text": "Not cause new hazards",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "Not cause new hazards"
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "PPE won't eliminate the hazard. It protects you if used properly.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 40,
+          "quote": "Your PPE won't eliminate the hazard but it will help protect you if used properly."
+        }
+      ]
+    },
+    {
+      "text": "Write down the name of the PPE: safety shoes and gloves.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 44,
+          "quote": "Write down the name of the PPE Safety shoes Gloves"
+        }
+      ]
+    },
+    {
+      "text": "Employer must provide PPE and train you. You must wear it and report problems.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 40,
+          "quote": "Your employer must ensure you have PPE and train you how to use it."
+        },
+        {
+          "src": "cblm03",
+          "page": 40,
+          "quote": "You must"
+        },
+        {
+          "src": "cblm03",
+          "page": 40,
+          "quote": "wear it and let your boss know if there are any problems with it."
+        }
+      ]
+    },
+    {
+      "text": "Each type of PPE is designed to protect against specific hazards.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 39,
+          "quote": "Each type is"
+        },
+        {
+          "src": "cblm03",
+          "page": 39,
+          "quote": "designed to protect against specific hazards."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the essential criteria for the selection and use of PPE?",
+      "modelAnswer": "PPE must:\n1. Be comfortable and fit properly\n2. Be maintained and kept in good condition\n3. Be appropriate for the hazard\n4. Not cause new hazards",
+      "keyPoints": [
+        {
+          "text": "Hard hats provide protection from falling objects.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 39,
+              "quote": "Hard Hats provide protection from falling objects."
+            }
+          ]
+        },
+        {
+          "text": "Respirators prevent you from inhaling tiny particles in the air.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 40,
+              "quote": "Respirators prevent you from inhaling tiny particles in the air"
+            }
+          ]
+        },
+        {
+          "text": "Footwear should be non-slip.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 40,
+              "quote": "Footwear should be non-slip."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a criterion that PPE must meet?",
+      "options": [
+        "Be appropriate for the hazard",
+        "Eliminate the hazard",
+        "Be the first control choice",
+        "Be used without training"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 40,
+        "quote": "Be appropriate for the hazard"
+      }
+    },
+    "matching": {
+      "prompt": "Match each PPE with what it protects against.",
+      "pairs": [
+        {
+          "left": "Hard hats",
+          "right": "Falling objects",
+          "cite": {
+            "src": "cblm03",
+            "page": 39,
+            "quote": "Hard Hats provide protection from falling objects."
+          }
+        },
+        {
+          "left": "Goggles and face shields",
+          "right": "Splashing liquids and flying objects",
+          "cite": {
+            "src": "cblm03",
+            "page": 39,
+            "quote": "Goggles and face shields protect the eyes from splashing liquids"
+          }
+        },
+        {
+          "left": "Ear muffs and plugs",
+          "right": "Loud noises",
+          "cite": {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "Ear muffs and plugs protect your hearing from loud noises"
+          }
+        },
+        {
+          "left": "Safety shoes and boots",
+          "right": "Sharp or heavy objects",
+          "cite": {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "Safety shoes and boots protect your feet from sharp or"
+          }
+        },
+        {
+          "left": "Gloves",
+          "right": "Chemicals and sharp objects",
+          "cite": {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "Gloves protect hands from chemicals and sharp objects."
+          }
+        },
+        {
+          "left": "Respirators",
+          "right": "Tiny particles in the air",
+          "cite": {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "Respirators prevent you from inhaling tiny particles in the air"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Name three items of PPE relevant to your occupation.",
+      "answer": {
+        "text": "For example: hard hats, safety shoes and gloves.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 39,
+            "quote": "Hard Hats provide protection from falling objects."
+          },
+          {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "Safety shoes and boots protect your feet"
+          },
+          {
+            "src": "cblm03",
+            "page": 40,
+            "quote": "Gloves protect hands from chemicals and sharp objects."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "practice.viva",
+      "note": "paper-short-questions-q19 answer guide names 'safety helmet' and 'ear protection'; CBLM 3 p.39-40 says 'Hard Hats' and 'Ear muffs and plugs'. Same items, different words."
+    }
+  ]
+}
