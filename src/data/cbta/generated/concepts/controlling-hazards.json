@@ -29,7 +29,7 @@
     "যেকোনো control-কে তিনটি কাজ করতে হবে: hazard control, নতুন hazards তৈরি না করা, আর আরামে কাজ করতে দেওয়া।"
   ],
   "breakdown": {
-    "exam": 0,
+    "exam": 2,
     "highlight": 2,
     "repeat": 1
   },
@@ -42,8 +42,8 @@
   "highlighted": true,
   "id": "controlling-hazards",
   "importance": {
-    "bn": "CBLM 3-এ highlight করা আছে।",
-    "en": "Highlighted in CBLM 3."
+    "bn": "Final Formative 01 (Matching 13)-এ এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় matching হিসেবে আসে।",
+    "en": "Asked in Final Formative 01 (Matching 13). Highlighted in CBLM 3. Comes as matching."
   },
   "keywords": [
     {
@@ -67,7 +67,9 @@
       "en": "Ventilation"
     }
   ],
-  "likelyTypes": [],
+  "likelyTypes": [
+    "matching"
+  ],
   "listAnswer": {
     "declaredCount": null,
     "items": [
@@ -404,8 +406,48 @@
       "prompt": "What three things must every hazard control do?"
     }
   },
-  "realQuestions": [],
-  "score": 3,
+  "realQuestions": [
+    {
+      "answer": null,
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [
+        "no-answer-in-paper"
+      ],
+      "id": "paper-final-formative-01-q13",
+      "kind": "paper",
+      "label": "Final Formative 01 (Matching 13)",
+      "page": 2,
+      "paperClass": "formative",
+      "printedPage": null,
+      "question": "Lockout procedure",
+      "right": [
+        {
+          "letter": "A",
+          "text": "A tool that maps every element and its performance criteria against appropriate assessment methods"
+        },
+        {
+          "letter": "B",
+          "text": "Makes sure machinery or equipment will not start and injure a worker during set-up or clean-up"
+        },
+        {
+          "letter": "C",
+          "text": "Kiss - Kick - Kiss: a positive point, an area to improve, then an encouraging statement"
+        },
+        {
+          "letter": "D",
+          "text": "Ability to respond to irregularities, breakdowns, imperfections and the unknown in routines"
+        },
+        {
+          "letter": "E",
+          "text": "Assessing current skills and knowledge, no matter how, when or where the learning occurred"
+        }
+      ],
+      "src": "paper-final-formative-01",
+      "type": "matching"
+    }
+  ],
+  "score": 5,
   "sourceType": "cblm",
   "stars": 2,
   "status": "draft",
@@ -509,5 +551,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 0
+  "warnings": 1
 }

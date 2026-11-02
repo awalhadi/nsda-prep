@@ -39,8 +39,8 @@
   "highlighted": true,
   "id": "informing-candidates",
   "importance": {
-    "bn": "Short Questions (Short 60) আর CBLM 12 Self Check 1 (Q2): 2 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
-    "en": "Asked in Short Questions (Short 60) and CBLM 12 Self Check 1 (Q2). Highlighted in CBLM 12. Comes as short question."
+    "bn": "Short Questions (Short 60, 81) আর CBLM 12 Self Check 1 (Q2): 2 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in Short Questions (Short 60, 81) and CBLM 12 Self Check 1 (Q2). Highlighted in CBLM 12. Comes as short question."
   },
   "keywords": [
     {
@@ -458,6 +458,21 @@
       "question": "What information should candidates receive before an assessment event?",
       "src": "paper-short-questions",
       "type": "short"
+    },
+    {
+      "answer": "The paper refers to six points but does not provide a specific list.\nA typical briefing covers purpose/context, process/method, evidence/criteria,\ntiming/conditions, candidate rights/adjustment/appeal, and consent/recording.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q81",
+      "kind": "paper",
+      "label": "Short Questions (Short 81)",
+      "page": 10,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What are the six points in an assessment agreement/process briefing?",
+      "src": "paper-short-questions",
+      "type": "short"
     }
   ],
   "score": 7,
@@ -516,5 +531,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 0
+  "warnings": 1
 }

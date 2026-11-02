@@ -26,7 +26,7 @@
     "Workplace-এ assessment করলে production-এর ক্ষতি হলে থামাতে হয়।"
   ],
   "breakdown": {
-    "exam": 4,
+    "exam": 6,
     "highlight": 2,
     "repeat": 1
   },
@@ -39,8 +39,8 @@
   "highlighted": true,
   "id": "stopping-an-assessment",
   "importance": {
-    "bn": "Final Formative 01 (Short 24) আর CBLM 12 Self Check 1 (Q5): 2 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
-    "en": "Asked in Final Formative 01 (Short 24) and CBLM 12 Self Check 1 (Q5). Highlighted in CBLM 12. Comes as short question."
+    "bn": "Final Formative 01 (Short 24), Short Questions (Short 66) আর CBLM 12 Self Check 1 (Q5): 3 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Final Formative 01 (Short 24), Short Questions (Short 66) and CBLM 12 Self Check 1 (Q5). Highlighted in CBLM 12. Comes as short question."
   },
   "keywords": [
     {
@@ -439,11 +439,26 @@
       "question": "When should an assessor stop an assessment?",
       "src": "paper-final-formative-01",
       "type": "short"
+    },
+    {
+      "answer": "If assessment disrupts workplace operations, pause it and arrange\nto resume at a suitable time or under suitable conditions.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q66",
+      "kind": "paper",
+      "label": "Short Questions (Short 66)",
+      "page": 8,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What should an assessor do if workplace production is affected by assessment?",
+      "src": "paper-short-questions",
+      "type": "short"
     }
   ],
-  "score": 7,
+  "score": 9,
   "sourceType": "cblm",
-  "stars": 2,
+  "stars": 3,
   "status": "draft",
   "title": "When to Stop an Assessment",
   "traps": [
@@ -494,5 +509,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 0
+  "warnings": 1
 }

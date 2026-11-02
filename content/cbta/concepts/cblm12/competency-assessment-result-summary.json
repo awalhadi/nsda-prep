@@ -1,0 +1,230 @@
+{
+  "id": "competency-assessment-result-summary",
+  "canonical_title": "Competency Assessment Result Summary (CARS)",
+  "aliases": [
+    "CARS",
+    "Assessment result summary"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "question-paper-only",
+  "covers": [],
+  "questions": [
+    "paper-short-questions-q75"
+  ],
+  "one_line_answer": {
+    "text": "CARS is a concise summary of assessment outcomes.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "paper-short-questions",
+        "page": 10,
+        "quote": "What is competency assessment result summary (CARS)?"
+      },
+      {
+        "src": "paper-short-questions",
+        "page": 10,
+        "quote": "A concise summary of assessment outcomes"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "CARS",
+      "bn": "competency assessment-এর ফলাফলের সারাংশ"
+    },
+    {
+      "en": "Concise summary",
+      "bn": "ছোট করে সারাংশ"
+    },
+    {
+      "en": "Assessment outcomes",
+      "bn": "assessment-এর ফলাফল"
+    },
+    {
+      "en": "Criteria",
+      "bn": "যে মানদণ্ড দিয়ে বিচার হয়"
+    },
+    {
+      "en": "Improvement",
+      "bn": "উন্নতির জায়গা"
+    }
+  ],
+  "bangla_explanation": [
+    "CARS মানে Competency Assessment Result Summary।",
+    "এটা assessment outcomes-এর একটা concise summary।",
+    "এতে দেখা যায় কোন competencies assessed হলো আর কোন criteria met হলো।",
+    "কোথায় improvement দরকার, সেটাও CARS-এ থাকে; তাই পরের প্রস্তুতি কোথায় দরকার, সেটা পরিষ্কার হয়।"
+  ],
+  "example": {
+    "en": "After a welding assessment, the CARS shows the competencies assessed. It also shows where improvement is needed.",
+    "bn": "Welding assessment-এর পর CARS দেখে বোঝা যায় কোন criteria met হয়েছে আর কোথায় improvement লাগবে।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Which competencies were assessed.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "paper-short-questions",
+            "page": 10,
+            "quote": "competencies were assessed"
+          }
+        ]
+      },
+      {
+        "text": "Which criteria were met.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "paper-short-questions",
+            "page": 10,
+            "quote": "which criteria were met"
+          }
+        ]
+      },
+      {
+        "text": "Where improvement is needed.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "paper-short-questions",
+            "page": 10,
+            "quote": "where improvement is needed."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "Recording means documenting assessment results. CARS is a concise summary of outcomes.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "paper-short-questions",
+          "page": 10,
+          "quote": "Recording means documenting assessment results."
+        },
+        {
+          "src": "paper-short-questions",
+          "page": 10,
+          "quote": "A concise summary of assessment outcomes"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is competency assessment result summary (CARS)?",
+      "modelAnswer": "CARS (Competency Assessment Result Summary) is a concise summary of assessment outcomes. It shows:\n1. Which competencies were assessed.\n2. Which criteria were met.\n3. Where improvement is needed.\nRecording documents the assessment results; CARS summarises the outcomes.",
+      "keyPoints": [
+        {
+          "text": "A concise summary of assessment outcomes.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "paper-short-questions",
+              "page": 10,
+              "quote": "A concise summary of assessment outcomes"
+            }
+          ]
+        },
+        {
+          "text": "It shows which competencies were assessed and which criteria were met.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "paper-short-questions",
+              "page": 10,
+              "quote": "showing which competencies were assessed, which criteria were met"
+            }
+          ]
+        },
+        {
+          "text": "Where improvement is needed.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "paper-short-questions",
+              "page": 10,
+              "quote": "where improvement is needed."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "What does a competency assessment result summary (CARS) show?",
+      "options": [
+        "Which competencies were assessed and which criteria were met",
+        "The candidate's fees and attendance",
+        "The trainer's session plan",
+        "The workshop maintenance schedule"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "paper-short-questions",
+        "page": 10,
+        "quote": "showing which competencies were assessed, which criteria were met"
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "CARS",
+          "right": "A concise summary of assessment outcomes",
+          "cite": {
+            "src": "paper-short-questions",
+            "page": 10,
+            "quote": "competency assessment result summary (CARS)? Answer guide: A concise summary of assessment outcomes"
+          }
+        },
+        {
+          "left": "Recording",
+          "right": "Documenting assessment results",
+          "cite": {
+            "src": "paper-short-questions",
+            "page": 10,
+            "quote": "Recording means documenting assessment results."
+          }
+        },
+        {
+          "left": "Reporting",
+          "right": "Communicating the outcome to an appropriate person",
+          "cite": {
+            "src": "paper-short-questions",
+            "page": 10,
+            "quote": "Reporting means communicating the outcome to an appropriate person"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What is CARS?",
+      "answer": {
+        "text": "CARS is a concise summary of assessment outcomes. It shows where improvement is needed.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "paper-short-questions",
+            "page": 10,
+            "quote": "A concise summary of assessment outcomes"
+          },
+          {
+            "src": "paper-short-questions",
+            "page": 10,
+            "quote": "where improvement is needed."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "source_type",
+      "note": "Built from a paper answer guide, not a CBLM; owner to confirm. CBLM 12 does not name CARS (p.26 lists what an assessment record includes, e.g. summary of evidence and assessment decisions). Source is paper-short-questions p.10 (Q75, with Q74 for recording/reporting)."
+    }
+  ]
+}

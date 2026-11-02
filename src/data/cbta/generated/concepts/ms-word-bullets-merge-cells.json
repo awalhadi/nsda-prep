@@ -1,0 +1,287 @@
+{
+  "aliases": [
+    "Add bullets to a paragraph in MS Word",
+    "Merge cells in an MS Word table"
+  ],
+  "appearsIn": [],
+  "banglaExplanation": [
+    "Bullets দিতে আগে paragraph-টা select করুন, তারপর Home tab-এর Paragraph group থেকে Bullets চাপুন।",
+    "Table-এর কয়েকটা cells এক করতে চাইলে সেগুলো select করে right click করুন, তারপর Merge Cells বেছে নিন।",
+    "আরেকটা উপায়: Table Tools > Layout থেকেও Merge Cells পাওয়া যায়।",
+    "দুই কাজেই নিয়ম একই: আগে select, পরে কাজ; পরীক্ষায় এই ক্রমটাই লিখুন।"
+  ],
+  "breakdown": {
+    "exam": 2,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 4,
+  "errata": [],
+  "example": {
+    "bn": "Trainee list-এর table-এ উপরের সারির cells select করে Merge Cells দিলে title-এর জন্য একটা বড় ঘর হয়।",
+    "en": "At an IT training centre, a trainer makes a trainee list in MS Word. She merges the top row cells for the title."
+  },
+  "highlighted": false,
+  "id": "ms-word-bullets-merge-cells",
+  "importance": {
+    "bn": "Short Questions (Short 20, 21)-এ এসেছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in Short Questions (Short 20, 21). Comes as short question."
+  },
+  "keywords": [
+    {
+      "bn": "লাইনের শুরুতে বসানো চিহ্ন (•)",
+      "en": "Bullets"
+    },
+    {
+      "bn": "Home tab-এর ভেতরে paragraph সাজানোর অংশ",
+      "en": "Paragraph group"
+    },
+    {
+      "bn": "MS Word-এর উপরের প্রথম প্রধান tab",
+      "en": "Home tab"
+    },
+    {
+      "bn": "table-এর কয়েকটা cells জুড়ে একটা cell বানানো",
+      "en": "Merge Cells"
+    },
+    {
+      "bn": "table select করলে আসা Layout tab",
+      "en": "Table Tools > Layout"
+    }
+  ],
+  "likelyTypes": [
+    "short"
+  ],
+  "listAnswer": null,
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "match": "exact",
+        "page": 3,
+        "printedPage": null,
+        "quote": "Select the paragraph, then choose Bullets in the Paragraph group on the Home tab.",
+        "sourceTitle": "Short Questions",
+        "src": "paper-short-questions"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "To add bullets, select the paragraph and choose Bullets on the Home tab."
+  },
+  "openChecks": 1,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "match": "exact",
+            "page": 3,
+            "printedPage": null,
+            "quote": "choose Bullets in the Paragraph group on the Home tab.",
+            "sourceTitle": "Short Questions",
+            "src": "paper-short-questions"
+          },
+          "left": "Bullets",
+          "right": "Paragraph group on the Home tab"
+        },
+        {
+          "cite": {
+            "match": "exact",
+            "page": 3,
+            "printedPage": null,
+            "quote": "Select the paragraph, then choose Bullets",
+            "sourceTitle": "Short Questions",
+            "src": "paper-short-questions"
+          },
+          "left": "Before adding bullets",
+          "right": "Select the paragraph"
+        },
+        {
+          "cite": {
+            "match": "exact",
+            "page": 3,
+            "printedPage": null,
+            "quote": "Select the cells, right-click and choose Merge Cells",
+            "sourceTitle": "Short Questions",
+            "src": "paper-short-questions"
+          },
+          "left": "Before merging cells",
+          "right": "Select the cells"
+        },
+        {
+          "cite": {
+            "match": "exact",
+            "page": 3,
+            "printedPage": null,
+            "quote": "or use Merge Cells on Table Tools > Layout.",
+            "sourceTitle": "Short Questions",
+            "src": "paper-short-questions"
+          },
+          "left": "Merge Cells on the ribbon",
+          "right": "Table Tools > Layout"
+        }
+      ],
+      "prompt": "Match each MS Word task with the right step."
+    },
+    "mcq": {
+      "answerCite": {
+        "match": "exact",
+        "page": 3,
+        "printedPage": null,
+        "quote": "choose Bullets in the Paragraph group on the Home tab.",
+        "sourceTitle": "Short Questions",
+        "src": "paper-short-questions"
+      },
+      "answerIndex": 1,
+      "options": [
+        "Table Tools > Layout",
+        "Paragraph group on the Home tab",
+        "Right-click menu of a table cell",
+        "Slide transition menu"
+      ],
+      "prompt": "In MS Word, where do you find the Bullets command?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "match": "exact",
+              "page": 3,
+              "printedPage": null,
+              "quote": "Select the paragraph, then choose Bullets in the Paragraph group on the Home tab.",
+              "sourceTitle": "Short Questions",
+              "src": "paper-short-questions"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Select the paragraph, then choose Bullets in the Paragraph group on the Home tab."
+        },
+        {
+          "cites": [
+            {
+              "match": "exact",
+              "page": 3,
+              "printedPage": null,
+              "quote": "Select the cells, right-click and choose Merge Cells",
+              "sourceTitle": "Short Questions",
+              "src": "paper-short-questions"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Select the cells, right-click and choose Merge Cells."
+        },
+        {
+          "cites": [
+            {
+              "match": "exact",
+              "page": 3,
+              "printedPage": null,
+              "quote": "or use Merge Cells on Table Tools > Layout.",
+              "sourceTitle": "Short Questions",
+              "src": "paper-short-questions"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Or use Merge Cells on Table Tools > Layout."
+        }
+      ],
+      "modelAnswer": "Adding bullets in MS Word:\n1. Select the paragraph.\n2. Go to the Paragraph group on the Home tab.\n3. Choose Bullets.\n\nMerging cells in an MS Word table:\n1. Select the cells.\n2. Right-click and choose Merge Cells.\n3. Or use Merge Cells on Table Tools > Layout.",
+      "prompt": "How do you add bullets to a paragraph in MS Word? Explain how to merge cells in an MS Word table."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "match": "exact",
+            "page": 3,
+            "printedPage": null,
+            "quote": "Select the cells, right-click and choose Merge Cells, or use Merge Cells on Table Tools > Layout.",
+            "sourceTitle": "Short Questions",
+            "src": "paper-short-questions"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Select the cells, right-click and choose Merge Cells. Or use Table Tools > Layout."
+      },
+      "prompt": "How do you merge cells in an MS Word table?"
+    }
+  },
+  "realQuestions": [
+    {
+      "answer": "Select the paragraph, then choose Bullets in the Paragraph group\non the Home tab.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q20",
+      "kind": "paper",
+      "label": "Short Questions (Short 20)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "How do you add bullets to a paragraph in MS Word?",
+      "src": "paper-short-questions",
+      "type": "short"
+    },
+    {
+      "answer": "Select the cells, right-click and choose Merge Cells, or use Merge\nCells on Table Tools > Layout.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q21",
+      "kind": "paper",
+      "label": "Short Questions (Short 21)",
+      "page": 3,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "Explain how to merge cells in an MS Word table.",
+      "src": "paper-short-questions",
+      "type": "short"
+    }
+  ],
+  "score": 3,
+  "sourceType": "question-paper-only",
+  "stars": 1,
+  "status": "draft",
+  "title": "MS Word Basics: Bullets and Merging Table Cells",
+  "traps": [
+    {
+      "cites": [
+        {
+          "match": "exact",
+          "page": 3,
+          "printedPage": null,
+          "quote": "Select the cells, right-click and choose Merge Cells",
+          "sourceTitle": "Short Questions",
+          "src": "paper-short-questions"
+        },
+        {
+          "match": "exact",
+          "page": 3,
+          "printedPage": null,
+          "quote": "Select the paragraph, then choose Bullets",
+          "sourceTitle": "Short Questions",
+          "src": "paper-short-questions"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Select the cells first, then choose Merge Cells. Select the paragraph first, then choose Bullets."
+    },
+    {
+      "cites": [
+        {
+          "match": "exact",
+          "page": 3,
+          "printedPage": null,
+          "quote": "Select the cells, right-click and choose Merge Cells, or use Merge Cells on Table Tools > Layout.",
+          "sourceTitle": "Short Questions",
+          "src": "paper-short-questions"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Merge Cells has two routes: right-click, or Table Tools > Layout."
+    }
+  ],
+  "vivaDerived": true,
+  "warnings": 0
+}

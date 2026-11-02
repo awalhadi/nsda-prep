@@ -6,7 +6,7 @@
 
 | CBLM | Passages | Covered | Uncovered | Concepts |
 |---|---|---|---|---|
-| 1 | 95 | 95 | 0 | 18 |
+| 1 | 95 | 95 | 0 | 19 |
 | 2 | 63 | 63 | 0 | 15 |
 | 3 | 74 | 74 | 0 | 23 |
 | 5 | 39 | 39 | 0 | 14 |
@@ -16,7 +16,7 @@
 | 9 | 128 | 128 | 0 | 18 |
 | 10 | 99 | 99 | 0 | 33 |
 | 11 | 149 | 149 | 0 | 31 |
-| 12 | 87 | 87 | 0 | 21 |
+| 12 | 87 | 87 | 0 | 22 |
 
 CBLM 4 (Apply ICT to facilitate in training and assessment) has no PDF, so it has no highlights.
 
@@ -35,8 +35,8 @@ CBLM 4 (Apply ICT to facilitate in training and assessment) has no PDF, so it ha
 | cblm10 | 16 | 16 |
 | cblm11 | 14 | 14 |
 | cblm12 | 18 | 18 |
-| paper-final-formative-01 | 25 | 20 |
-| paper-short-questions | 83 | 73 |
+| paper-final-formative-01 | 25 | 25 |
+| paper-short-questions | 83 | 83 |
 | paper-unit01-answer | 25 | 25 |
 | paper-unit01-mcq | 25 | 25 |
 | paper-unit01-short | 19 | 19 |

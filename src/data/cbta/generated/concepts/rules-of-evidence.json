@@ -53,8 +53,8 @@
   "highlighted": true,
   "id": "rules-of-evidence",
   "importance": {
-    "bn": "Short Questions (Short 45, 48) আর CBLM 12 Self Check 1 (Q9, Q10): 2 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
-    "en": "Asked in Short Questions (Short 45, 48) and CBLM 12 Self Check 1 (Q9, Q10). Highlighted in CBLM 12. Comes as short question."
+    "bn": "Short Questions (Short 45, 48, Short 58) আর CBLM 12 Self Check 1 (Q9, Q10): 2 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Short Questions (Short 45, 48, Short 58) and CBLM 12 Self Check 1 (Q9, Q10). Highlighted in CBLM 12. Comes as short question."
   },
   "keywords": [
     {
@@ -482,6 +482,21 @@
       "question": "What are the requirements of valid evidence?",
       "src": "paper-short-questions",
       "type": "short"
+    },
+    {
+      "answer": "Is the evidence relevant and valid? Is it accurate? Is it the\ncandidate's own work and authentic? Is it consistent with other evidence? Is it\nsufficient and current?",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q58",
+      "kind": "paper",
+      "label": "Short Questions (Short 58)",
+      "page": 7,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What should an assessor ask when evaluating evidence?",
+      "src": "paper-short-questions",
+      "type": "short"
     }
   ],
   "score": 11,
@@ -583,5 +598,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 1
+  "warnings": 2
 }

@@ -447,6 +447,48 @@
     },
     {
       "aliases": [
+        "Functions of NSDA",
+        "NSDA functions"
+      ],
+      "asked": 1,
+      "cblmPrimary": 1,
+      "cblms": [],
+      "highlighted": false,
+      "id": "nsda-functions",
+      "keywords": [
+        {
+          "bn": "দেশের skills development দেখাশোনার জাতীয় সংস্থা",
+          "en": "NSDA"
+        },
+        {
+          "bn": "সমন্বয় করা",
+          "en": "Coordinate"
+        },
+        {
+          "bn": "খাতভিত্তিক দক্ষতার তথ্য",
+          "en": "Sector-based skills information"
+        },
+        {
+          "bn": "নজরদারি করা",
+          "en": "Monitor"
+        },
+        {
+          "bn": "তদারকি করা",
+          "en": "Oversee"
+        }
+      ],
+      "oneLine": "The main functions of the NSDA are coordinating, maintaining skills information, monitoring and overseeing.",
+      "score": 3,
+      "sourceType": "question-paper-only",
+      "stars": 1,
+      "status": "draft",
+      "title": "Main Functions of the NSDA",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
         "National Technical and Vocational Qualification Framework",
         "NTVQ levels",
         "Pre-Voc 1 and Pre-Voc 2"
@@ -1623,12 +1665,14 @@
         }
       ],
       "oneLine": "Workplace hazards can be controlled so they don't injure you or make you sick.",
-      "score": 3,
+      "score": 5,
       "sourceType": "cblm",
       "stars": 2,
       "status": "draft",
       "title": "Controlling Hazards: Source, Path, Worker",
-      "types": []
+      "types": [
+        "matching"
+      ]
     },
     {
       "aliases": [
@@ -2481,6 +2525,90 @@
       "stars": 2,
       "status": "draft",
       "title": "Why Young Workers Get Hurt",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Add bullets to a paragraph in MS Word",
+        "Merge cells in an MS Word table"
+      ],
+      "asked": 2,
+      "cblmPrimary": 4,
+      "cblms": [],
+      "highlighted": false,
+      "id": "ms-word-bullets-merge-cells",
+      "keywords": [
+        {
+          "bn": "লাইনের শুরুতে বসানো চিহ্ন (•)",
+          "en": "Bullets"
+        },
+        {
+          "bn": "Home tab-এর ভেতরে paragraph সাজানোর অংশ",
+          "en": "Paragraph group"
+        },
+        {
+          "bn": "MS Word-এর উপরের প্রথম প্রধান tab",
+          "en": "Home tab"
+        },
+        {
+          "bn": "table-এর কয়েকটা cells জুড়ে একটা cell বানানো",
+          "en": "Merge Cells"
+        },
+        {
+          "bn": "table select করলে আসা Layout tab",
+          "en": "Table Tools > Layout"
+        }
+      ],
+      "oneLine": "To add bullets, select the paragraph and choose Bullets on the Home tab.",
+      "score": 3,
+      "sourceType": "question-paper-only",
+      "stars": 1,
+      "status": "draft",
+      "title": "MS Word Basics: Bullets and Merging Table Cells",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Difference between worksheet and workbook",
+        "Difference between animation and transition in PowerPoint"
+      ],
+      "asked": 2,
+      "cblmPrimary": 4,
+      "cblms": [],
+      "highlighted": false,
+      "id": "workbook-worksheet-animation-transition",
+      "keywords": [
+        {
+          "bn": "পুরো spreadsheet file",
+          "en": "Workbook"
+        },
+        {
+          "bn": "workbook-এর ভেতরের একটা আলাদা page",
+          "en": "Worksheet"
+        },
+        {
+          "bn": "slide-এর ভেতরে text বা objects-এর effect",
+          "en": "Animation"
+        },
+        {
+          "bn": "এক slide থেকে আরেক slide-এ যাওয়ার effect",
+          "en": "Transition"
+        },
+        {
+          "bn": "PowerPoint-এর একটা পাতা",
+          "en": "Slide"
+        }
+      ],
+      "oneLine": "A workbook is a spreadsheet file; a worksheet is a page within that workbook.",
+      "score": 3,
+      "sourceType": "question-paper-only",
+      "stars": 1,
+      "status": "draft",
+      "title": "Excel and PowerPoint Terms: Workbook vs Worksheet, Animation vs Transition",
       "types": [
         "short"
       ]
@@ -9072,6 +9200,48 @@
     },
     {
       "aliases": [
+        "CARS",
+        "Assessment result summary"
+      ],
+      "asked": 1,
+      "cblmPrimary": 12,
+      "cblms": [],
+      "highlighted": false,
+      "id": "competency-assessment-result-summary",
+      "keywords": [
+        {
+          "bn": "competency assessment-এর ফলাফলের সারাংশ",
+          "en": "CARS"
+        },
+        {
+          "bn": "ছোট করে সারাংশ",
+          "en": "Concise summary"
+        },
+        {
+          "bn": "assessment-এর ফলাফল",
+          "en": "Assessment outcomes"
+        },
+        {
+          "bn": "যে মানদণ্ড দিয়ে বিচার হয়",
+          "en": "Criteria"
+        },
+        {
+          "bn": "উন্নতির জায়গা",
+          "en": "Improvement"
+        }
+      ],
+      "oneLine": "CARS is a concise summary of assessment outcomes.",
+      "score": 3,
+      "sourceType": "question-paper-only",
+      "stars": 1,
+      "status": "draft",
+      "title": "Competency Assessment Result Summary (CARS)",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
         "Assessment context",
         "Assessment setting"
       ],
@@ -9742,9 +9912,9 @@
         }
       ],
       "oneLine": "The assessment should be stopped when safety, equipment, the trainee or production is in danger.",
-      "score": 7,
+      "score": 9,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "When to Stop an Assessment",
       "types": [
@@ -9752,5 +9922,5 @@
       ]
     }
   ],
-  "contentVersion": "6403d3bb78c8"
+  "contentVersion": "bf154f248a1d"
 }

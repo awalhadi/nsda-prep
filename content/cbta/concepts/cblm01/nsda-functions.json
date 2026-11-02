@@ -1,0 +1,260 @@
+{
+  "id": "nsda-functions",
+  "canonical_title": "Main Functions of the NSDA",
+  "aliases": [
+    "Functions of NSDA",
+    "NSDA functions"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "question-paper-only",
+  "covers": [],
+  "questions": [
+    "paper-short-questions-q5"
+  ],
+  "one_line_answer": {
+    "text": "The main functions of the NSDA are coordinating, maintaining skills information, monitoring and overseeing.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "paper-short-questions",
+        "page": 1,
+        "quote": "What are the main functions of the NSDA?"
+      },
+      {
+        "src": "paper-short-questions",
+        "page": 1,
+        "quote": "Coordinating skills-development activities and linkages; maintaining sector-based skills information; monitoring relevant skills"
+      },
+      {
+        "src": "paper-short-questions",
+        "page": 1,
+        "quote": "and overseeing national competency, qualification and quality-assurance arrangements."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "NSDA",
+      "bn": "দেশের skills development দেখাশোনার জাতীয় সংস্থা"
+    },
+    {
+      "en": "Coordinate",
+      "bn": "সমন্বয় করা"
+    },
+    {
+      "en": "Sector-based skills information",
+      "bn": "খাতভিত্তিক দক্ষতার তথ্য"
+    },
+    {
+      "en": "Monitor",
+      "bn": "নজরদারি করা"
+    },
+    {
+      "en": "Oversee",
+      "bn": "তদারকি করা"
+    }
+  ],
+  "bangla_explanation": [
+    "NSDA দেশের skills development activities আর linkages coordinate করে।",
+    "প্রতিটা sector-এর skills information NSDA রাখে (maintaining)।",
+    "চলমান skills development projects NSDA monitor করে।",
+    "National competency, qualification আর quality assurance arrangements NSDA oversee করে।",
+    "চারটা কাজের প্রথম শব্দ মনে রাখলেই উত্তর লেখা সহজ: Coordinating, Maintaining, Monitoring, Overseeing।"
+  ],
+  "example": {
+    "en": "A skills project for garments workers runs in Gazipur. Monitoring such skills-development projects is an NSDA function.",
+    "bn": "Garments কর্মীদের skills project ঠিকমতো চলছে কিনা দেখা NSDA-র monitoring কাজের উদাহরণ।"
+  },
+  "mnemonic": {
+    "text": "C-M-M-O: Coordinating, Maintaining, Monitoring, Overseeing",
+    "explain_bn": "প্রতিটা অক্ষর NSDA-র একটা কাজের প্রথম অক্ষর।"
+  },
+  "list_answer": {
+    "items": [
+      {
+        "text": "Coordinating skills-development activities and linkages.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "paper-short-questions",
+            "page": 1,
+            "quote": "Coordinating skills-development activities and linkages;"
+          }
+        ]
+      },
+      {
+        "text": "Maintaining sector-based skills information.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "paper-short-questions",
+            "page": 1,
+            "quote": "maintaining sector-based skills information;"
+          }
+        ]
+      },
+      {
+        "text": "Monitoring relevant skills-development projects.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "paper-short-questions",
+            "page": 1,
+            "quote": "monitoring relevant skills"
+          },
+          {
+            "src": "paper-short-questions",
+            "page": 1,
+            "quote": "development projects; and overseeing"
+          }
+        ]
+      },
+      {
+        "text": "Overseeing national competency, qualification and quality-assurance arrangements.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "paper-short-questions",
+            "page": 1,
+            "quote": "overseeing national competency, qualification and quality-assurance arrangements."
+          }
+        ]
+      }
+    ]
+  },
+  "traps": [
+    {
+      "text": "NSDA functions are not the key features of the National Skills Development Policy.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "paper-short-questions",
+          "page": 1,
+          "quote": "What are the main functions of the NSDA?"
+        },
+        {
+          "src": "paper-short-questions",
+          "page": 1,
+          "quote": "What are four key features of the National Skills Development Policy?"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What are the main functions of the NSDA?",
+      "modelAnswer": "The main functions of the NSDA are:\n1. Coordinating skills-development activities and linkages.\n2. Maintaining sector-based skills information.\n3. Monitoring relevant skills-development projects.\n4. Overseeing national competency, qualification and quality-assurance arrangements.",
+      "keyPoints": [
+        {
+          "text": "Coordinating skills-development activities and linkages.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "paper-short-questions",
+              "page": 1,
+              "quote": "Coordinating skills-development activities and linkages;"
+            }
+          ]
+        },
+        {
+          "text": "Maintaining sector-based skills information.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "paper-short-questions",
+              "page": 1,
+              "quote": "maintaining sector-based skills information;"
+            }
+          ]
+        },
+        {
+          "text": "Overseeing national competency, qualification and quality-assurance arrangements.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "paper-short-questions",
+              "page": 1,
+              "quote": "overseeing national competency, qualification and quality-assurance arrangements."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a main function of the NSDA?",
+      "options": [
+        "Replacing apprenticeship training in industry",
+        "Monitoring relevant skills-development projects",
+        "Writing session plans for trainers",
+        "Certifying middle level managers"
+      ],
+      "answerIndex": 1,
+      "answerCite": {
+        "src": "paper-short-questions",
+        "page": 1,
+        "quote": "monitoring relevant skills"
+      }
+    },
+    "matching": {
+      "prompt": "Match each NSDA function with what it covers.",
+      "pairs": [
+        {
+          "left": "Coordinating",
+          "right": "Skills-development activities and linkages",
+          "cite": {
+            "src": "paper-short-questions",
+            "page": 1,
+            "quote": "Coordinating skills-development activities and linkages;"
+          }
+        },
+        {
+          "left": "Maintaining",
+          "right": "Sector-based skills information",
+          "cite": {
+            "src": "paper-short-questions",
+            "page": 1,
+            "quote": "maintaining sector-based skills information;"
+          }
+        },
+        {
+          "left": "Monitoring",
+          "right": "Relevant skills-development projects",
+          "cite": {
+            "src": "paper-short-questions",
+            "page": 1,
+            "quote": "monitoring relevant skills"
+          }
+        },
+        {
+          "left": "Overseeing",
+          "right": "National competency, qualification and quality-assurance arrangements",
+          "cite": {
+            "src": "paper-short-questions",
+            "page": 1,
+            "quote": "overseeing national competency, qualification and quality-assurance arrangements."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Name two functions of the NSDA.",
+      "answer": {
+        "text": "Coordinating skills-development activities and linkages. Maintaining sector-based skills information.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "paper-short-questions",
+            "page": 1,
+            "quote": "Coordinating skills-development activities and linkages; maintaining sector-based skills information;"
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "source_type",
+      "note": "Built from a paper answer guide, not a CBLM; owner to confirm. No CBLM lists NSDA functions (CBLM 9 p.21 and CBLM 12 p.7 only name NSDA). Source is paper-short-questions p.1 (Q5). The full form of NSDA is not printed in any source, so the card does not give it."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "id": "workbook-worksheet-animation-transition",
+  "canonical_title": "Excel and PowerPoint Terms: Workbook vs Worksheet, Animation vs Transition",
+  "aliases": [
+    "Difference between worksheet and workbook",
+    "Difference between animation and transition in PowerPoint"
+  ],
+  "cblmPrimary": 4,
+  "source_type": "question-paper-only",
+  "covers": [],
+  "questions": [
+    "paper-short-questions-q22",
+    "paper-short-questions-q23"
+  ],
+  "one_line_answer": {
+    "text": "A workbook is a spreadsheet file; a worksheet is a page within that workbook.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "paper-short-questions",
+        "page": 3,
+        "quote": "A workbook is a spreadsheet file; a worksheet is an individual spreadsheet or page within that workbook."
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Workbook",
+      "bn": "পুরো spreadsheet file"
+    },
+    {
+      "en": "Worksheet",
+      "bn": "workbook-এর ভেতরের একটা আলাদা page"
+    },
+    {
+      "en": "Animation",
+      "bn": "slide-এর ভেতরে text বা objects-এর effect"
+    },
+    {
+      "en": "Transition",
+      "bn": "এক slide থেকে আরেক slide-এ যাওয়ার effect"
+    },
+    {
+      "en": "Slide",
+      "bn": "PowerPoint-এর একটা পাতা"
+    }
+  ],
+  "bangla_explanation": [
+    "Excel-এ পুরো file-টাকে বলে workbook।",
+    "Workbook-এর ভেতরের প্রতিটা আলাদা page বা spreadsheet হলো worksheet।",
+    "PowerPoint-এ slide-এর ভেতরের text বা objects-এ যে effect দেওয়া হয়, সেটা animation।",
+    "এক slide থেকে আরেক slide-এ যাওয়ার সময়ের effect হলো transition।",
+    "সহজে মনে রাখুন: animation slide-এর ভেতরে, transition দুই slide-এর মাঝে।"
+  ],
+  "example": {
+    "en": "At an IT training centre, one Excel workbook holds trainee marks. Each batch has its own worksheet.",
+    "bn": "একটা marks file (workbook)-এর ভেতরে প্রতিটা batch-এর আলাদা sheet (worksheet)।"
+  },
+  "mnemonic": {
+    "text": "Book has sheets: workbook = whole file, worksheet = one page.",
+    "explain_bn": "বইয়ের ভেতরে পাতা থাকে; তেমনি workbook-এর ভেতরে worksheet থাকে।"
+  },
+  "traps": [
+    {
+      "text": "The workbook is the file. The worksheet is one page within that workbook.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "paper-short-questions",
+          "page": 3,
+          "quote": "A workbook is a spreadsheet file; a worksheet is an individual spreadsheet or page within that workbook."
+        }
+      ]
+    },
+    {
+      "text": "Animation applies to text or objects within a slide. Transition is between slides.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "paper-short-questions",
+          "page": 3,
+          "quote": "Animation effects apply to text or objects within a slide; a transition is the effect used when moving from one slide to another."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is the difference between (a) a worksheet and a workbook, and (b) animation and transition in PowerPoint?",
+      "modelAnswer": "(a) Worksheet vs workbook:\n1. A workbook is a spreadsheet file.\n2. A worksheet is an individual spreadsheet or page within that workbook.\n\n(b) Animation vs transition:\n1. Animation effects apply to text or objects within a slide.\n2. A transition is the effect used when moving from one slide to another.",
+      "keyPoints": [
+        {
+          "text": "A workbook is a spreadsheet file.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "paper-short-questions",
+              "page": 3,
+              "quote": "A workbook is a spreadsheet file;"
+            }
+          ]
+        },
+        {
+          "text": "A worksheet is an individual spreadsheet or page within that workbook.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "paper-short-questions",
+              "page": 3,
+              "quote": "a worksheet is an individual spreadsheet or page within that workbook."
+            }
+          ]
+        },
+        {
+          "text": "Animation effects apply to text or objects within a slide.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "paper-short-questions",
+              "page": 3,
+              "quote": "Animation effects apply to text or objects within a slide;"
+            }
+          ]
+        },
+        {
+          "text": "A transition is the effect used when moving from one slide to another.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "paper-short-questions",
+              "page": 3,
+              "quote": "a transition is the effect used when moving from one slide to another."
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "In PowerPoint, what is the effect used when moving from one slide to another?",
+      "options": [
+        "Animation",
+        "Worksheet",
+        "Transition",
+        "Bullets"
+      ],
+      "answerIndex": 2,
+      "answerCite": {
+        "src": "paper-short-questions",
+        "page": 3,
+        "quote": "a transition is the effect used when moving from one slide to another."
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "Workbook",
+          "right": "A spreadsheet file",
+          "cite": {
+            "src": "paper-short-questions",
+            "page": 3,
+            "quote": "A workbook is a spreadsheet file;"
+          }
+        },
+        {
+          "left": "Worksheet",
+          "right": "An individual page within a workbook",
+          "cite": {
+            "src": "paper-short-questions",
+            "page": 3,
+            "quote": "a worksheet is an individual spreadsheet or page within that workbook."
+          }
+        },
+        {
+          "left": "Animation",
+          "right": "Effect on text or objects within a slide",
+          "cite": {
+            "src": "paper-short-questions",
+            "page": 3,
+            "quote": "Animation effects apply to text or objects within a slide;"
+          }
+        },
+        {
+          "left": "Transition",
+          "right": "Effect when moving from one slide to another",
+          "cite": {
+            "src": "paper-short-questions",
+            "page": 3,
+            "quote": "a transition is the effect used when moving from one slide to another."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What is the difference between animation and transition?",
+      "answer": {
+        "text": "Animation applies to text or objects within a slide. Transition is used when moving between slides.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "paper-short-questions",
+            "page": 3,
+            "quote": "Animation effects apply to text or objects within a slide; a transition is the effect used when moving from one slide to another."
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "source_type",
+      "note": "Built from a paper answer guide, not a CBLM; owner to confirm. CBLM 4 (Apply ICT) has no PDF; source is paper-short-questions p.3 (Q22, Q23)."
+    }
+  ]
+}

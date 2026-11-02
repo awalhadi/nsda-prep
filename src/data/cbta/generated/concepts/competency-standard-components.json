@@ -61,8 +61,8 @@
   "highlighted": true,
   "id": "competency-standard-components",
   "importance": {
-    "bn": "Final Formative 01 (Short 16), Short Questions (Short 2, 31, Short 40), Unit 01 Answers (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Questions (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Short Questions (Short 9, 13, Short 6) আর CBLM 1 Self Check 2 (Q1): 6 জায়গায় এসেছে। CBLM 9-এ highlight করা আছে। পরীক্ষায় matching, MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
-    "en": "Asked in Final Formative 01 (Short 16), Short Questions (Short 2, 31, Short 40), Unit 01 Answers (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Questions (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Short Questions (Short 9, 13, Short 6) and CBLM 1 Self Check 2 (Q1). Highlighted in CBLM 9. Comes as matching, MCQ and short question."
+    "bn": "Final Formative 01 (Short 16), Short Questions (Short 2, 31, Short 40, 56), Unit 01 Answers (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Questions (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Short Questions (Short 9, 13, Short 6) আর CBLM 1 Self Check 2 (Q1): 6 জায়গায় এসেছে। CBLM 9-এ highlight করা আছে। পরীক্ষায় matching, MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
+    "en": "Asked in Final Formative 01 (Short 16), Short Questions (Short 2, 31, Short 40, 56), Unit 01 Answers (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Questions (MCQ 8, Matching 13, Short 18, 24, Matching 12, 14, Matching 15), Unit 01 Short Questions (Short 9, 13, Short 6) and CBLM 1 Self Check 2 (Q1). Highlighted in CBLM 9. Comes as matching, MCQ and short question."
   },
   "keywords": [
     {
@@ -1090,6 +1090,21 @@
       "question": "",
       "src": "paper-unit01-short",
       "type": "short"
+    },
+    {
+      "answer": "Relevant items include critical aspects of competency;\nunderpinning knowledge and skills; required attitudes; resource implications;\nassessment methods; and context of assessment.",
+      "answerIndex": null,
+      "answerLetter": null,
+      "flags": [],
+      "id": "paper-short-questions-q56",
+      "kind": "paper",
+      "label": "Short Questions (Short 56)",
+      "page": 7,
+      "paperClass": "unit",
+      "printedPage": null,
+      "question": "What does the evidence guide contain?",
+      "src": "paper-short-questions",
+      "type": "short"
     }
   ],
   "score": 17,
@@ -1189,5 +1204,5 @@
     }
   ],
   "vivaDerived": true,
-  "warnings": 1
+  "warnings": 2
 }
