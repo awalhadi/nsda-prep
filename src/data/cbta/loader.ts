@@ -1,11 +1,11 @@
 // Server-side access to the generated CBT&A bundles. Pages using this are
 // statically generated, so the files are only read at build time.
 
-import { readFileSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import index from "./generated/index.json";
 import cblms from "./generated/cblms.json";
-import type { GenCblm, GenConcept, GenIndexEntry } from "@/lib/cbta/types";
+import type { GenCblm, GenConcept, GenGuide, GenIndexEntry, GenTopicRef } from "@/lib/cbta/types";
 
 const GENERATED = join(process.cwd(), "src/data/cbta/generated");
 
@@ -24,4 +24,20 @@ export function getConcept(id: string): GenConcept | null {
 
 export function getIndexEntry(id: string): GenIndexEntry | undefined {
   return CONCEPT_INDEX.find((c) => c.id === id);
+}
+
+export function getGuide(n: number): GenGuide | null {
+  const p = join(GENERATED, "guides", `cblm${String(n).padStart(2, "0")}.json`);
+  return existsSync(p) ? (JSON.parse(readFileSync(p, "utf8")) as GenGuide) : null;
+}
+
+export function topicHref(cblm: number, t: GenTopicRef): string {
+  return t.concept ? `/cbta/concept/${t.concept}` : `/cbta/cblm/${cblm}/topic/${t.id}`;
+}
+
+/** Where a topic sits in its CBLM's list: neighbours for Previous / Next. */
+export function topicPlace(cblm: number, match: (t: GenTopicRef) => boolean) {
+  const all = getCblm(cblm)?.groups.flatMap((g) => g.topics) ?? [];
+  const i = all.findIndex(match);
+  return i < 0 ? null : { index: i, total: all.length, prev: all[i - 1] ?? null, next: all[i + 1] ?? null };
 }

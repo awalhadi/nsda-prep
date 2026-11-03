@@ -37,6 +37,130 @@
     "bn": "রং করা লাইন আর হাতের কাছে fire extinguishers থাকা গোছানো workshop-এর লক্ষণ।",
     "en": "In an electrical workshop, painted lines mark the aisles. Labeled fire extinguishers hang near the door."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Here are some indicators that should be evident in a well planned and organized",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "The workshop must be safe to work in",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Aisles of travel and safety zones designated by painted lines.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "There should be sufficient space for each person",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "The working area must be clean",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Tools and other small equipment are stored correctly.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Indicators: safe workshop, painted aisles, sufficient space, clean working area, tools stored correctly."
+      },
+      "kind": "qa",
+      "outline": [
+        "c06-p7-well-organised-workshops"
+      ],
+      "q": "What indicators show that a workshop is well organised?",
+      "q_bn": "একটা workshop ভালোভাবে সাজানো কি না, কোন লক্ষণ দেখে বুঝবেন?",
+      "tip": "The card lists all 14 indicators: 9 on p.7 and 5 on p.8.",
+      "tip_bn": "১৪টি লক্ষণ: p.7-এ ৯টি, p.8-এ ৫টি।"
+    },
+    {
+      "bn": [
+        "প্রতিটি trade-এর workshop আলাদা: welding আর garments-এর equipment ও consumables আলাদা, তাই সাজানোও আলাদা।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "The way your workshop is organised will depend on the specialist equipment and consumables of your field.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Workshop organisation depends on the specialist equipment and consumables of your field."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p8-well-organised-workshops-2"
+      ]
+    },
+    {
+      "bn": "p.8-এর ছবি: safety signs — বিপজ্জনক জায়গায় safety rules আর signs লাগানো থাকবে।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "Safety rules and signs posted in hazardous areas.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Safety rules and signs posted in hazardous areas."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c06-p8-figure-signs-safety"
+      ],
+      "text": "Page 8 shows a picture titled 'Figure: Signs and Safety'. It supports the indicator 'Safety rules and signs posted in hazardous areas'.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "well-organised-workshop",
   "importance": {
@@ -352,7 +476,25 @@
         "fidelity": "verbatim",
         "text": "Safety rules and signs posted in hazardous areas."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Workshop কাজের জন্য নিরাপদ, আর দুর্ঘটনা হলে কী করতে হবে তার পরিষ্কার emergency procedures আছে।",
+      "আঘাত বা অসুস্থতায় first aid কীভাবে দিতে হয়, তা সবাই জানে।",
+      "রং করা লাইন দিয়ে চলাচলের পথ (aisles) আর safety zones আলাদা করে চিহ্নিত।",
+      "প্রত্যেকের কাজের যথেষ্ট জায়গা আছে, আর দরকারি tools, equipment ও materials হাতের নাগালে।",
+      "কাজের জায়গা পরিষ্কার ও গোছানো, তাই চলাফেরা সহজ আর কাজের ফলও পরিষ্কার হয়।",
+      "বিষাক্ত (poisonous) আর দাহ্য (flammable) জিনিসে লেবেল দেওয়া, আর সঠিকভাবে রাখা।",
+      "Tools আর ছোট equipment সঠিক জায়গায় রাখা।",
+      "Workshop-এ ঢোকার নিয়ম আর জিনিসপত্রের নিরাপত্তা নিয়ে পরিষ্কার তথ্য দেওয়া থাকে।",
+      "Fire extinguishers আর hoses নিয়মিত পরীক্ষা করা হয়, আর সহজে হাতের কাছে পাওয়া যায়।",
+      "Electrical leads আর connections-এ লেবেল আছে, ভালো অবস্থায় আছে, নিয়মিত পরীক্ষা হয়।",
+      "Smoking নিয়ে নিয়ম আর notices পরিষ্কার ও স্পষ্ট।",
+      "যথেষ্ট প্রাকৃতিক বা বৈদ্যুতিক আলো আর বাতাস চলাচলের (ventilation) ব্যবস্থা আছে।",
+      "বর্জ্য আর recycling-এর পাত্র সুবিধাজনক জায়গায় বসানো।",
+      "ঝুঁকিপূর্ণ জায়গায় safety rules আর signs টাঙানো।"
+    ],
+    "title": "Characteristics of a well-organised workshop",
+    "titleBn": "সুসংগঠিত workshop-এর বৈশিষ্ট্য"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -669,6 +811,7 @@
       "text": "Workshop organisation depends on the specialist equipment and consumables of your field."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

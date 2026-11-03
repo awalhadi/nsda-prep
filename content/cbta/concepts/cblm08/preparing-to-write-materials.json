@@ -57,6 +57,8 @@
     "bn": "IT trainer handout লেখার জন্য দুই ঘণ্টা বিরক্তিহীন সময় রাখেন।"
   },
   "list_answer": {
+    "title": "What you need in preparation for writing learning materials",
+    "title_bn": "Learning materials লেখার প্রস্তুতিতে যা দরকার",
     "items": [
       {
         "text": "To enjoy writing.",
@@ -113,6 +115,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "লিখতে ভালো লাগা — লেখার কাজটা উপভোগ করতে পারা।",
+      "নিজের বিষয়ের জ্ঞান, আর research-এর জন্য সময় দিতে পারা।",
+      "নিজের প্রাসঙ্গিক অভিজ্ঞতা, যা থেকে উদাহরণ টেনে লেখা যায়।",
+      "Instructional design, adult learning আর training সম্পর্কে উপযুক্ত জ্ঞান।",
+      "কোনো বাধা ছাড়া লম্বা সময় মনোযোগ দিয়ে কাজ করতে পারা।"
     ]
   },
   "traps": [
@@ -252,5 +261,68 @@
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "table",
+    "title": "Things to consider in designing materials (p.19)",
+    "title_bn": "Material ডিজাইনের সময় তিনটি বিবেচনা",
+    "columns": [
+      "Consider",
+      "Why"
+    ],
+    "rows": [
+      [
+        "Adult learning principles",
+        {
+          "text": "Their implications for how writers structure their materials.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 19,
+              "quote": "Adult learning principles and their implications for how writers structure their"
+            },
+            {
+              "src": "cblm08",
+              "page": 19,
+              "quote": "materials"
+            }
+          ]
+        }
+      ],
+      [
+        "Learning style preferences",
+        {
+          "text": "They inform our selection of learning materials and our use of language.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 19,
+              "quote": "Learning style preferences and how these can inform our selection of learning"
+            },
+            {
+              "src": "cblm08",
+              "page": 19,
+              "quote": "materials and our use of language as we write"
+            }
+          ]
+        }
+      ],
+      [
+        "Potential barriers to learning",
+        {
+          "text": "How these can be overcome.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 19,
+              "quote": "Potential barriers to learning and how these can be overcome"
+            }
+          ]
+        }
+      ]
+    ]
+  }
 }

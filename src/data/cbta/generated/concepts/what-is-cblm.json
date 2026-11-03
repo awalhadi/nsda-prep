@@ -18,7 +18,7 @@
   ],
   "banglaExplanation": [
     "CBLM হলো একটা learning guide, যা learner-কে একটার পর একটা activities করিয়ে শেখায়।",
-    "ক্লাসে বসে বা নিজের গতিতে (own pace) দুইভাবেই CBLM ব্যবহার করা যায়।",
+    "ক্লাসে বসে বা নিজের গতিতে দুইভাবেই CBLM ব্যবহার করা যায়।",
     "প্রতিটি unit of competency-র জন্য একটি করে CBLM থাকে।",
     "CBLM শুধু তথ্য দেয় না, workplace-এ দরকারি competency মাপার instrument হিসেবেও কাজ করে।"
   ],
@@ -33,6 +33,45 @@
     "bn": "Welding trainee নিজে CBLM পড়ে, self check করে, তারপর কাজটা হাতে-কলমে করে।",
     "en": "A welding trainee reads the CBLM, does the self checks, then practises the job."
   },
+  "extra": [
+    {
+      "bn": [
+        "একটি UoC = একটি Module = একটি CBLM।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "each unit of competency have one",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Competency Based Learning Material (CBLM).",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Each unit of competency has one Competency Based Learning Material (CBLM)."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p27-cblm-definition",
+        "c08-p27-cblm-is",
+        "c08-p27-reasons-cblm"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "what-is-cblm",
   "importance": {
@@ -135,7 +174,15 @@
         "fidelity": "verbatim",
         "text": "Instrument that measure the competency required in the workplace."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Media — কাজের প্রয়োজন (work requirement) সম্পর্কিত তথ্য বহন করে।",
+      "Guided learning — workplace-এ দরকারি competency অর্জনের দিকে শেখাকে এগিয়ে নেয়।",
+      "Tool — প্রত্যেক learner-এর নিজের শেখার process সহজ করে।",
+      "Instrument — workplace-এ দরকারি competency মাপার যন্ত্র হিসেবেও কাজ করে।"
+    ],
+    "title": "Overall we can say that CBLM is",
+    "titleBn": "সব মিলিয়ে CBLM হলো (৪টি দিক)"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -391,6 +438,158 @@
       "text": "These activities may be completed in structured classroom activities or at your pace."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Media that contain information related to work requirement",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Media with information related to work requirement."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Learning that is guided towards achieving the competency required in the",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Learning guided towards the competency required in the workplace."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Tools that facilitate individual learning process",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Tools that facilitate individual learning process."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Instrument that measure the competency required in the workplace.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Instrument that measure the competency required in the workplace."
+        }
+      ],
+      "title": "Overall, CBLM is",
+      "title_bn": "CBLM হলো"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Learning is self-paced;",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Learning is self-paced."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Learning is student-centered;",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Learning is student-centered."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Develop learning mastery;",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Develop learning mastery."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Immediate feedback on the achievement of learning; and",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Immediate feedback on the achievement of learning."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Training is well-planned",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Training is well-planned."
+        }
+      ],
+      "title": "Reasons for Using CBLM",
+      "title_bn": "CBLM ব্যবহারের ৫টি কারণ"
+    },
+    "title": "What CBLM is vs Reasons for using CBLM (p.27)",
+    "title_bn": "CBLM কী বনাম কেন CBLM ব্যবহার করি"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

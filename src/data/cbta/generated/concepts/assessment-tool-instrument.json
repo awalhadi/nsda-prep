@@ -40,6 +40,110 @@
     "bn": "ড্রাইভিং টেস্টে কাজের তালিকা হলো instrument, আর নিয়মকানুন হলো procedures।",
     "en": "For a driving test, the instrument is the list of tasks. The procedures tell the candidate the test conditions."
   },
+  "extra": [
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 64,
+                "printedPage": 64,
+                "quote": "the specific questions or activity developed from the selected assessment method/s",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "The specific questions or activity developed from the selected assessment method."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 64,
+                "printedPage": 64,
+                "quote": "A profile of acceptable performance and the decision making rules for the assessor may also be included",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "It may include a profile of acceptable performance and decision making rules."
+          }
+        ],
+        "title": "Assessment instrument",
+        "title_bn": "Instrument: প্রশ্ন বা কাজ"
+      },
+      "outline": [
+        "c11-p64-assessment-tool"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 64,
+                "printedPage": 64,
+                "quote": "procedures - the information/instructions given to the participant and/or the assessor regarding conditions under which the assessment should be conducted and recorded",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Instructions to the participant or assessor on conditions for conducting and recording assessment."
+          }
+        ],
+        "title": "Procedures",
+        "title_bn": "Procedure: নির্দেশনা"
+      },
+      "title": "Instrument vs procedures (the two parts of a tool)",
+      "title_bn": "Instrument বনাম Procedure"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "look over the tools that already exist",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "This may save you and your time and money",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Look over the tools that already exist first. This may save time and money."
+      },
+      "concept": "assessment-tool-instrument",
+      "example": {
+        "bn": "চাকা নতুন করে বানিও না; আগে দেখো কী আছে।",
+        "en": "A TTC already has a BTEB checklist for the unit; adapt it instead of starting fresh."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p64-existing-tools"
+      ],
+      "q": "Why check existing assessment tools first?",
+      "q_bn": "আগে পুরনো tool কেন দেখবে?"
+    }
+  ],
   "highlighted": true,
   "id": "assessment-tool-instrument",
   "importance": {
@@ -104,7 +208,13 @@
         "fidelity": "paraphrase",
         "text": "Procedures: instructions on conditions for conducting and recording the assessment."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Instrument মানে আসল প্রশ্ন বা activity, যা বেছে নেওয়া assessment method থেকে তৈরি হয়।",
+      "Procedures মানে নির্দেশনা — কোন অবস্থায় assessment হবে আর কীভাবে record করা হবে।"
+    ],
+    "title": "Parts of an assessment tool",
+    "titleBn": "Assessment tool-এর দুটি অংশ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -382,6 +492,7 @@
       "text": "Check for existing assessment tools first. This may save time and money."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

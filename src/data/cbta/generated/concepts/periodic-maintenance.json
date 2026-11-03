@@ -45,6 +45,262 @@
     "bn": "একই মেশিনের lubrication আর electrical check-এর আলাদা schedule ও work order।",
     "en": "A lathe machine has separate schedules for lubrication and electrical checks. Each gets its own work order."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "comprehensive periodic program encompasses maintenance operations that go",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "beyond the prevention of equipment breakdown",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "A comprehensive periodic program encompasses maintenance operations beyond the prevention of equipment breakdown."
+      },
+      "kind": "qa",
+      "outline": [
+        "c06-p26-periodic-maintenance"
+      ],
+      "q": "What is periodic maintenance?",
+      "q_bn": "Periodic maintenance কী?",
+      "tip": "It identifies who, what, when, where, why and how repetitive operations are done.",
+      "tip_bn": "ভালো পরিকল্পিত periodic program বলে দেয় কে, কী, কখন, কোথায়, কেন, কীভাবে।"
+    },
+    {
+      "bn": [
+        "শুধু যন্ত্র নয় — ভবন, utility, পরিচ্ছন্নতা, বাগান আর রং করাও periodic maintenance-এর আওতায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "schedule repetitive inspection and maintenance of building equipment, utility",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "distribution systems, janitorial services, and gardening activities, and the painting of",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "buildings",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It schedules repetitive inspection and maintenance of building equipment, utilities, janitorial services, gardening and painting."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p26-periodic-maintenance"
+      ]
+    },
+    {
+      "bn": "Answer key-এর (a) ভুল — p.26 বলে periodic, preventive-এর চেয়ে ভালো; আপনি (b) আর p.26-এর ব্যাখ্যা লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "a) is the same as preventive maintenance",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "a) is the same as preventive maintenance"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Periodic maintenance is preferred over preventive maintenance",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Periodic maintenance is preferred over preventive maintenance"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c06-p30-self-check-1",
+        "c06-p31-answer-key-1"
+      ],
+      "text": "Self Check 1 Q3 key gives three options. Only (b) matches p.26. Option (a) 'same as preventive' contradicts p.26, which says periodic is preferred over preventive.",
+      "tone": "caution"
+    },
+    {
+      "bn": [
+        "একই মেশিনের lubrication, electrical, mechanical কাজের আলাদা schedule আর আলাদা work order।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "A specific work order is prepared to accomplish each of these types of periodic",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A specific work order is prepared for each type of periodic maintenance."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "a machine tool",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "may have separate schedules for lubrication, electrical l checks, mechanical checks,",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "and tolerance checks",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A machine tool may have separate schedules for lubrication, electrical, mechanical and tolerance checks."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "a separate work order is generated",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "at the prescribed time and distributed to the appropriate craft skill.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A work order is generated at the prescribed time for the appropriate craft skill."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p26-work-order"
+      ]
+    },
+    {
+      "bn": [
+        "প্রতিটি যন্ত্রের একটা history card: কবে কী maintenance বা repair হলো, সব এক record-এ।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "A historical record is a basic component for any maintenance system",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "A historical record is a basic component for any maintenance system"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "maintenance and repair activity of an equipment item should be reported for",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "inclusion in a historical record.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "All maintenance and repair activity of an equipment item should be reported for the record."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p26-historical-record",
+        "c06-p27-minimum-record-info"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "periodic-maintenance",
   "importance": {
@@ -148,7 +404,15 @@
         "fidelity": "paraphrase",
         "text": "What craft skill is required to perform the operation (Who)."
       }
-    ]
+    ],
+    "itemsBn": [
+      "যন্ত্রের identification number — কোন যন্ত্র (What), তা আলাদা করে চেনার জন্য।",
+      "Maintenance কাজটা কোথায় করতে হবে (Where), মানে যন্ত্রের অবস্থান।",
+      "কী কী কাজ করতে হবে আর কত পরপর (why, when, how) — এটাই schedule-এর ভিত্তি।",
+      "কাজটা করতে কোন craft skill লাগবে, মানে কে করবে (Who)।"
+    ],
+    "title": "Minimum information to establish an equipment record in a periodic maintenance system",
+    "titleBn": "Periodic maintenance-এ যন্ত্রের record খুলতে ন্যূনতম যে তথ্য লাগে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -478,6 +742,89 @@
       "text": "Periodic maintenance is preferred over preventive maintenance."
     }
   ],
+  "visual": {
+    "columns": [
+      "Question",
+      "Record item"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "What?",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "An identification number of the piece of equipment. (What).",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "An identification number of the piece of equipment."
+        }
+      ],
+      [
+        "Where?",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "The location of the maintenance work (Where).",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The location of the maintenance work."
+        }
+      ],
+      [
+        "Why, when, how?",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "A determination of what operations are to be performed and how often ( why,",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "What operations are to be performed and how often."
+        }
+      ],
+      [
+        "Who?",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "A judgment as to what craft skill is required to perform the operation (Who.)",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "What craft skill is required to perform the operation."
+        }
+      ]
+    ],
+    "title": "Minimal information to establish a record (p.27)",
+    "title_bn": "Record খোলার ন্যূনতম তথ্য"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

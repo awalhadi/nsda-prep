@@ -22,6 +22,10 @@
         {
           "pdf": 18,
           "printed": 18
+        },
+        {
+          "pdf": 29,
+          "printed": 29
         }
       ],
       "src": "cblm03"
@@ -44,6 +48,104 @@
     "bn": "ওয়েল্ডিং শপে পুড়ে যাওয়ার likelihood আর consequence দুটোই বেশি, তাই আগে এটা ঠিক করতে হবে।",
     "en": "In a welding shop, burns are likely and serious. The risk matrix puts this risk high. The trainer fixes it first."
   },
+  "extra": [
+    {
+      "bn": [
+        "Hazard আর risk এক নয়: hazard হলো উৎস, risk হলো সেই উৎস থেকে ক্ষতির সম্ভাবনা ও মাত্রা।",
+        "Risk matrix দিয়ে likelihood ও consequence মেপে কোন risk আগে কমাতে হবে তা ঠিক হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Prior to assessing risks these risks associated to",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "the identified hazards have to be determined.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "First determine the risks associated with the identified hazards."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Risk assessment",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "will provide you with an insight in your risks and",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "allow prioritizing risks for taking mitigating actions.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Risk assessment gives insight into your risks and allows prioritizing them."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Risk assessment will be completed with prioritization of risks and assigned risk",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "factors to understand the scope of mitigating actions required.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessment ends with prioritization of risks and assigned risk factors."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p9-assessing-risks",
+        "c03-p9-risk-matrix",
+        "c03-p9-likelihood-aspects",
+        "c03-p9-consequences"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "risk-matrix",
   "importance": {
@@ -75,7 +177,111 @@
   "likelyTypes": [
     "short"
   ],
-  "listAnswer": null,
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "Other risks that add to the increase of likelihood",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Other risks that add to the increase of likelihood"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "Frequency of occurrence",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Frequency of occurrence"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "Duration of risk occurrence",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Duration of risk occurrence"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "Number of people being exposed",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Number of people being exposed"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "Likely dose of exposure",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Likely dose of exposure"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "Required exposure levels",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Required exposure levels"
+      }
+    ],
+    "itemsBn": [
+      "অন্য risks যেগুলো likelihood আরও বাড়িয়ে দেয়।",
+      "ঘটনাটি কত ঘন ঘন ঘটে (frequency)।",
+      "Risk কতক্ষণ ধরে থাকে (duration)।",
+      "কতজন মানুষ exposed হচ্ছে।",
+      "সম্ভাব্য কতটা dose-এর exposure হবে।",
+      "কোন মাত্রার exposure হলে ক্ষতি হয় (required exposure levels)।"
+    ],
+    "title": "Aspects that may help determine the likelihood of a risk",
+    "titleBn": "Risk-এর likelihood ঠিক করতে যে বিষয়গুলো সাহায্য করে"
+  },
   "mnemonic": null,
   "oneLineAnswer": {
     "cites": [
@@ -396,6 +602,113 @@
       "text": "The Job sheet risk analysis scores Likelihood x Impact, with High = 3."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "levels of both likelihood (from almost certain to rare)",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Levels go from almost certain to rare."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "how likely is it the hazard could cause an injury or illness? (likelihood)",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Ask: how likely is it the hazard could cause an injury or illness?"
+        }
+      ],
+      "title": "Likelihood",
+      "title_bn": "ঘটার সম্ভাবনা"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "to define levels of both likelihood (from almost certain to rare) and consequence (from insignificant to catastrophic)",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Levels go from insignificant to catastrophic."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "With regard to property and environmental damage these consequences can be expressed in terms of money.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Property and environmental damage can be expressed in terms of money."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Whenever people are harmed the consequences can be expressed in terms of seriousness of the illness or injury.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "When people are harmed, express the seriousness of the illness or injury."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "put in relation to who is harmed, especially people at a particular risk such as expectant mothers or young people",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Consider who is harmed, like expectant mothers or young people."
+        }
+      ],
+      "title": "Consequence",
+      "title_bn": "ক্ষতির মাত্রা"
+    },
+    "title": "Likelihood vs consequence of a risk (p.9)",
+    "title_bn": "Likelihood বনাম consequence"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

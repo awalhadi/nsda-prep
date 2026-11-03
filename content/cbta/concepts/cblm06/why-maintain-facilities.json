@@ -73,6 +73,8 @@
     "explain_bn": "বড় হাতের শব্দগুলো মনে রাখুন: SAFE, MORALE, COST, PRODUCTION, LIFE, তারপর Prompt delivery।"
   },
   "list_answer": {
+    "title": "Gains from maintaining equipment and facilities",
+    "title_bn": "Equipment ও facilities রক্ষণাবেক্ষণের লাভ",
     "items": [
       {
         "text": "Ensured SAFE environment.",
@@ -141,6 +143,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "নিরাপদ (SAFE) পরিবেশ নিশ্চিত হয়, কারণ facilities ভালো অবস্থায় থাকে।",
+      "কর্মীদের মনোবল (MORALE) বাড়ে; গোছানো, সচল পরিবেশে কাজ করতে ভালো লাগে।",
+      "চালানোর খরচ (operational COST) কমে।",
+      "উৎপাদন (PRODUCTION) বাড়ে, কারণ যন্ত্র ঠিকমতো চলে।",
+      "Facilities-এর আয়ু (LIFE) বাড়ে, অনেক দিন ব্যবহার করা যায়।",
+      "সেবা আর পণ্য দ্রুত, সময়মতো (prompt) পৌঁছে দেওয়া যায়।"
     ]
   },
   "traps": [

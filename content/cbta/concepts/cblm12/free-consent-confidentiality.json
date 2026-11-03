@@ -75,6 +75,8 @@
     "bn": "আগে জানানো, details দেওয়া, জোর না করা = free consent; ফলাফল তালাবন্ধ রাখা = confidentiality।"
   },
   "list_answer": {
+    "title": "What free consent means for the people you assess",
+    "title_bn": "Free consent মানে candidate-এর যা প্রাপ্য",
     "items": [
       {
         "text": "Be informed if an assessment is planned",
@@ -109,6 +111,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Assessment পরিকল্পনা করা হলে candidate-কে আগেই জানাতে হবে, হঠাৎ করে নয়।",
+      "Assessment-এর details candidate-কে দিতে হবে, যাতে সে বুঝে-শুনে রাজি হয়।",
+      "Assessment দিতে candidate-কে কোনো pressure দেওয়া যাবে না; সে নিজের ইচ্ছায় রাজি হবে।"
     ]
   },
   "traps": [
@@ -145,6 +152,78 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Free consent vs confidentiality (p.8-9)",
+    "title_bn": "স্বাধীন সম্মতি বনাম গোপনীয়তা",
+    "left": {
+      "title": "Free consent",
+      "title_bn": "জেনে, চাপ ছাড়া রাজি হওয়া",
+      "points": [
+        {
+          "text": "be informed if an assessment is planned",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 8,
+              "quote": "be informed if an assessment is planned"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "be given details of the assessment",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 8,
+              "quote": "be given details of the assessment"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "not be pressured to undertake the assessment",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 8,
+              "quote": "not be pressured to undertake the assessment"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "right": {
+      "title": "Confidentiality",
+      "title_bn": "তথ্য গোপন ও নিরাপদ রাখা",
+      "points": [
+        {
+          "text": "made available only to authorized personnel",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 9,
+              "quote": "made available only to authorized personnel"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "kept secure",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 9,
+              "quote": "kept secure"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What is free consent in assessment?",

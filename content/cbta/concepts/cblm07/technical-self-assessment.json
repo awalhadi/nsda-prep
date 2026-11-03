@@ -29,11 +29,26 @@
     ]
   },
   "keywords": [
-    { "en": "Self assessment", "bn": "নিজের দক্ষতা নিজেই যাচাই করা" },
-    { "en": "Predefined standard", "bn": "আগে থেকে ঠিক করা মানদণ্ড (competency standard)" },
-    { "en": "Gap", "bn": "যা লাগবে আর যা আছে, তার মাঝের ঘাটতি" },
-    { "en": "Checklist", "bn": "মিলিয়ে দেখার তালিকা" },
-    { "en": "Up skilling", "bn": "দক্ষতা আরও বাড়ানো" }
+    {
+      "en": "Self assessment",
+      "bn": "নিজের দক্ষতা নিজেই যাচাই করা"
+    },
+    {
+      "en": "Predefined standard",
+      "bn": "আগে থেকে ঠিক করা মানদণ্ড (competency standard)"
+    },
+    {
+      "en": "Gap",
+      "bn": "যা লাগবে আর যা আছে, তার মাঝের ঘাটতি"
+    },
+    {
+      "en": "Checklist",
+      "bn": "মিলিয়ে দেখার তালিকা"
+    },
+    {
+      "en": "Up skilling",
+      "bn": "দক্ষতা আরও বাড়ানো"
+    }
   ],
   "bangla_explanation": [
     "Competency standard হাতে পাওয়ার পর trainer নিজেই নিজের skills আর knowledge যাচাই করেন।",
@@ -50,39 +65,72 @@
     "explain_bn": "চার ধাপের প্রথম অক্ষর: Identify own skills, Assess against checklist, Discuss results, Identify further needs।"
   },
   "list_answer": {
+    "title": "Steps of self-assessment of own technical skills",
+    "title_bn": "নিজের কারিগরি দক্ষতার self assessment-এর ধাপ",
     "items": [
       {
         "text": "Identify own skills and knowledge relating to trade/occupation",
         "fidelity": "verbatim",
         "cites": [
-          { "src": "cblm07", "page": 8, "quote": "Identify own skills and knowledge relating to trade/occupation", "passageId": "cblm07-p8-81ecfd43" }
+          {
+            "src": "cblm07",
+            "page": 8,
+            "quote": "Identify own skills and knowledge relating to trade/occupation",
+            "passageId": "cblm07-p8-81ecfd43"
+          }
         ]
       },
       {
         "text": "Assess current skills and knowledge against a checklist of relevant competency standards",
         "fidelity": "verbatim",
         "cites": [
-          { "src": "cblm07", "page": 8, "quote": "Assess current skills and knowledge against a checklist of relevant competency standards", "passageId": "cblm07-p8-c439c60b" }
+          {
+            "src": "cblm07",
+            "page": 8,
+            "quote": "Assess current skills and knowledge against a checklist of relevant competency standards",
+            "passageId": "cblm07-p8-c439c60b"
+          }
         ]
       },
       {
         "text": "Discuss results of self-assessment with supervisor/principal",
         "fidelity": "verbatim",
         "cites": [
-          { "src": "cblm07", "page": 9, "quote": "Discuss results of self-assessment with supervisor/principal", "passageId": "cblm07-p9-f333160e" }
+          {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "Discuss results of self-assessment with supervisor/principal",
+            "passageId": "cblm07-p9-f333160e"
+          }
         ]
       },
       {
         "text": "Identify further skills, knowledge development needs",
         "fidelity": "verbatim",
         "cites": [
-          { "src": "cblm07", "page": 9, "quote": "Identify further skills, knowledge development needs", "passageId": "cblm07-p9-f0a4acfc" }
+          {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "Identify further skills, knowledge development needs",
+            "passageId": "cblm07-p9-f0a4acfc"
+          }
         ]
       }
     ],
+    "items_bn": [
+      "নিজের পেশায় এখন কী skills আর knowledge আছে, তা চিহ্নিত করা।",
+      "প্রাসঙ্গিক competency standards-এর checklist দিয়ে নিজের বর্তমান skills আর knowledge মিলিয়ে দেখা।",
+      "Self-assessment-এর ফলাফল নিয়ে supervisor বা principal-এর সাথে আলোচনা করা।",
+      "আর কোন skills ও knowledge শিখতে হবে, মানে development needs খুঁজে বের করা।"
+    ],
     "declaredCount": {
       "n": 4,
-      "cite": { "src": "cblm07", "page": 8, "quote": "The four steps of Self-Assessment", "passageId": "cblm07-p8-ea954f12" }
+      "cite": {
+        "src": "cblm07",
+        "page": 8,
+        "quote": "The four steps of Self-Assessment",
+        "passageId": "cblm07-p8-ea954f12"
+      }
     }
   },
   "traps": [
@@ -90,14 +138,22 @@
       "text": "Self assessment comes after accessing the relevant competency standard document.",
       "fidelity": "paraphrase",
       "cites": [
-        { "src": "cblm07", "page": 8, "quote": "After accessing the relevant competency standard document at desired level, now it is required for the TVET teacher/trainer to plan his self assessment" }
+        {
+          "src": "cblm07",
+          "page": 8,
+          "quote": "After accessing the relevant competency standard document at desired level, now it is required for the TVET teacher/trainer to plan his self assessment"
+        }
       ]
     },
     {
       "text": "Step 3: discuss results of self-assessment with supervisor/principal.",
       "fidelity": "paraphrase",
       "cites": [
-        { "src": "cblm07", "page": 9, "quote": "Discuss results of self-assessment with supervisor/principal" }
+        {
+          "src": "cblm07",
+          "page": 9,
+          "quote": "Discuss results of self-assessment with supervisor/principal"
+        }
       ]
     }
   ],
@@ -110,21 +166,34 @@
           "text": "Self assessment helps the trainer identify skills and knowledge gaps.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm07", "page": 8, "quote": "This self assessment will be helpful for the teacher/trainer to identify his/her skills and/or knowledge gaps.", "passageId": "cblm07-p8-a165fbd6" }
+            {
+              "src": "cblm07",
+              "page": 8,
+              "quote": "This self assessment will be helpful for the teacher/trainer to identify his/her skills and/or knowledge gaps.",
+              "passageId": "cblm07-p8-a165fbd6"
+            }
           ]
         },
         {
           "text": "Based on the feedback, the trainer plans technical skills development.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm07", "page": 8, "quote": "Based on the feedback received from the assessment s/he can then plan and ensure technical skills development." }
+            {
+              "src": "cblm07",
+              "page": 8,
+              "quote": "Based on the feedback received from the assessment s/he can then plan and ensure technical skills development."
+            }
           ]
         },
         {
           "text": "It helps trainers teach the latest technologies to fulfil industry demand.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm07", "page": 8, "quote": "teach TVET students the current and latest technologies and techniques to fulfil industry demand." }
+            {
+              "src": "cblm07",
+              "page": 8,
+              "quote": "teach TVET students the current and latest technologies and techniques to fulfil industry demand."
+            }
           ]
         }
       ]
@@ -138,7 +207,11 @@
         "Identify further development needs"
       ],
       "answerIndex": 1,
-      "answerCite": { "src": "cblm07", "page": 9, "quote": "Discuss results of self-assessment with supervisor/principal" }
+      "answerCite": {
+        "src": "cblm07",
+        "page": 9,
+        "quote": "Discuss results of self-assessment with supervisor/principal"
+      }
     },
     "matching": {
       "prompt": "Match each self-assessment step with its action.",
@@ -146,22 +219,38 @@
         {
           "left": "Step 1",
           "right": "Identify own skills and knowledge",
-          "cite": { "src": "cblm07", "page": 8, "quote": "Identify own skills and knowledge relating to trade/occupation" }
+          "cite": {
+            "src": "cblm07",
+            "page": 8,
+            "quote": "Identify own skills and knowledge relating to trade/occupation"
+          }
         },
         {
           "left": "Step 2",
           "right": "Assess against a checklist of competency standards",
-          "cite": { "src": "cblm07", "page": 8, "quote": "Assess current skills and knowledge against a checklist of relevant competency standards" }
+          "cite": {
+            "src": "cblm07",
+            "page": 8,
+            "quote": "Assess current skills and knowledge against a checklist of relevant competency standards"
+          }
         },
         {
           "left": "Step 3",
           "right": "Discuss results with supervisor/principal",
-          "cite": { "src": "cblm07", "page": 9, "quote": "Discuss results of self-assessment with supervisor/principal" }
+          "cite": {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "Discuss results of self-assessment with supervisor/principal"
+          }
         },
         {
           "left": "Step 4",
           "right": "Identify further development needs",
-          "cite": { "src": "cblm07", "page": 9, "quote": "Identify further skills, knowledge development needs" }
+          "cite": {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "Identify further skills, knowledge development needs"
+          }
         }
       ]
     },
@@ -171,11 +260,76 @@
         "text": "It identifies his skills and knowledge gaps. Then he can plan technical skills development.",
         "fidelity": "paraphrase",
         "cites": [
-          { "src": "cblm07", "page": 8, "quote": "This self assessment will be helpful for the teacher/trainer to identify his/her skills and/or knowledge gaps." },
-          { "src": "cblm07", "page": 8, "quote": "s/he can then plan and ensure technical skills development." }
+          {
+            "src": "cblm07",
+            "page": 8,
+            "quote": "This self assessment will be helpful for the teacher/trainer to identify his/her skills and/or knowledge gaps."
+          },
+          {
+            "src": "cblm07",
+            "page": 8,
+            "quote": "s/he can then plan and ensure technical skills development."
+          }
         ]
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "steps",
+    "title": "The four steps of Self-Assessment (p.8-9)",
+    "title_bn": "Self-Assessment-এর চার ধাপ",
+    "items": [
+      {
+        "text": "Identify own skills and knowledge relating to trade/occupation",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm07",
+            "page": 8,
+            "quote": "Identify own skills and knowledge relating to trade/occupation"
+          }
+        ]
+      },
+      {
+        "text": "Assess current skills and knowledge against a checklist of relevant competency standards",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm07",
+            "page": 8,
+            "quote": "Assess current skills and knowledge against a checklist of relevant competency standards"
+          }
+        ]
+      },
+      {
+        "text": "Discuss results of self-assessment with supervisor/principal",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "Discuss results of self-assessment with supervisor/principal"
+          }
+        ]
+      },
+      {
+        "text": "Identify further skills, knowledge development needs",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "Identify further skills, knowledge development needs"
+          }
+        ]
+      }
+    ],
+    "labels_bn": [
+      "নিজের trade-এ এখন কী skills আর knowledge আছে, লিখে ফেলুন।",
+      "Competency standards-এর checklist ধরে নিজের বর্তমান অবস্থা মিলিয়ে দেখুন।",
+      "ফলাফল নিয়ে supervisor বা principal-এর সাথে আলোচনা করুন।",
+      "আর কী শিখতে হবে — development needs — চিহ্নিত করুন।"
+    ]
+  }
 }

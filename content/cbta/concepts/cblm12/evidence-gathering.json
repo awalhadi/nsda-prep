@@ -74,6 +74,8 @@
     "bn": "IT ট্রেনিং সেন্টারে assessor observation checklist হাতে নিয়ে trainee-র প্রতিটি ধাপে টিক দেন।"
   },
   "list_answer": {
+    "title": "Evidence gathering tools",
+    "title_bn": "Evidence সংগ্রহের tools",
     "items": [
       {
         "text": "Observation checklist",
@@ -142,6 +144,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Observation checklist — কাজ দেখার সময় কী কী দেখতে হবে তার তালিকা; এতে assessor-এর focus ঠিক থাকে।",
+      "Third party report — candidate-এর কাজ দেখেছেন এমন অন্য কারো লিখিত report।",
+      "Demonstration — candidate assessor-এর সামনে কাজটা করে দেখায়।",
+      "Work related project — কাজের সাথে সম্পর্কিত একটা project করে candidate দক্ষতার প্রমাণ দেয়।",
+      "Questioning — প্রশ্ন করে জ্ঞান যাচাই; তবে leading questions দেবেন না, এতে assessment invalid হতে পারে।",
+      "Portfolio — candidate-এর জমা করা evidence-এর সংগ্রহ, যা assessor যাচাই করেন।"
     ]
   },
   "traps": [
@@ -194,6 +204,106 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Techniques to observe when questioning a candidate (p.18)",
+    "title_bn": "প্রশ্ন করার ছয়টি কৌশল",
+    "columns": [
+      "#",
+      "Questioning technique"
+    ],
+    "rows": [
+      [
+        "1",
+        {
+          "text": "Involve the candidate as much as possible and encourage him/her to participate in the discussion.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "Involve the candidate as much as possible and encourage him/her to participate in the discussion."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "2",
+        {
+          "text": "Avoid ambiguous and unclear questions that may make the candidate feel unsure or confused.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "Avoid ambiguous and unclear questions that may make the candidate feel unsure or confused."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "3",
+        {
+          "text": "Avoid leading questions that may influence the candidate's response and make the assessment invalid.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "Avoid leading questions that may influence the candidate's response and make the assessment invalid."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "4",
+        {
+          "text": "Plan the structure and order of questions before the assessment",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "Plan the structure and order of questions before the assessment"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "5",
+        {
+          "text": "Use follow-up questions to identify the range and depth of experience of the candidate",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "Use follow-up questions to identify the range and depth of experience of the candidate"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "6",
+        {
+          "text": "Ask the right questions. Your phrasing can determine the quality of the information you get.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "Ask the right questions. The way you phrase and ask a question can determine"
+            },
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "the quality of the information you get"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "List five examples of evidence gathering tools.",
@@ -298,6 +408,17 @@
               "quote": "Weigh the evidence and take time to make an informed decision."
             }
           ]
+        },
+        {
+          "text": "Skilful questioning invites discussion.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "Skilful questioning invites discussion."
+            }
+          ],
+          "fidelity": "verbatim"
         }
       ]
     },

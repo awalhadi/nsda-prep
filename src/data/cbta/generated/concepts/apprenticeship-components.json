@@ -41,6 +41,523 @@
     "bn": "Motor workshop-এ দক্ষ mechanic-এর অধীনে কাজ শিখছে, wages পাচ্ছে, ক্লাসও করছে।",
     "en": "A young apprentice works in a motor workshop under a skilled mechanic. He earns wages and attends classes."
   },
+  "extra": [
+    {
+      "bn": [
+        "আগে ওস্তাদ-সাগরেদ (master-apprentice) পদ্ধতি — খাবার, থাকা, কাপড়ের বিনিময়ে কাজ শেখা।",
+        "এখন: on and off the job training দিয়ে industry standards অনুযায়ী কাজ শেখা।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "The apprenticeship method of training",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "is almost as old as recorded history",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The apprenticeship method of training is almost as old as recorded history."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Since the middle ages, skills",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "passed on through a master-apprentice system",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Since the middle ages, skills were passed on through a master-apprentice system."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "The indenture",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "(contract)",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "was contracted",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "legally binding",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "but there was no oversight or regulation",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The indenture (contract) was legally binding, but there was no oversight or regulation."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "In the modern world apprenticeship is considered training and learning strategy.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "In the modern world apprenticeship is considered training and learning strategy."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p30-apprenticeship"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "A single employer or a group of employers may",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "sponsor an apprenticeship program",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "must be aligned",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "with industry competency standards",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A single employer or a group of employers may sponsor an apprenticeship program; it must align with industry competency standards."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Sponsors'",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "standards",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "also define",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "selection",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "wages earned",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "on-the-job training",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "time the",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "classroom instruction hours",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Sponsors' standards also define selection, wages, on-the-job training time and classroom instruction hours."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Sponsors",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "provide classroom instruction privately or",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "through a",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "local training provider",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "select apprentices",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "criteria",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Sponsors provide classroom instruction privately or through a local training provider; they select apprentices by criteria."
+        }
+      ],
+      "items_bn": [
+        "এক বা একাধিক employer program sponsor করতে পারে; তবে industry competency standards মানতেই হবে।",
+        "Sponsor-এর standards-এ নির্বাচন, মজুরি, OJT-র সময় আর ক্লাসের ঘণ্টা ঠিক থাকে।",
+        "Sponsor নিজে বা স্থানীয় training provider দিয়ে ক্লাস করায় আর নির্দিষ্ট criteria দিয়ে apprentice বাছাই করে।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c01-p30-apprenticeship-today"
+      ],
+      "title": "Apprenticeship in today's world (p.30)",
+      "title_bn": "আজকের apprenticeship (৩টি বৈশিষ্ট্য)"
+    },
+    {
+      "columns": [
+        "Component",
+        "Key detail"
+      ],
+      "kind": "table",
+      "outline": [
+        "c01-p30-apprenticeship-components"
+      ],
+      "rows": [
+        [
+          "1. Structured Training",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 30,
+                "printedPage": 30,
+                "quote": "Combines supervised, structured on-the job training with related instruction",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "on the job training may",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "approximately 90% of the program",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Combines supervised, structured on-the job training with related instruction; on the job training may be approximately 90% of the program."
+          }
+        ],
+        [
+          "2. Skilled Training",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "The content of training, both on-the-job and related instruction, is defined by the industry.",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "The content of training, both on-the-job and related instruction, is defined by the industry."
+          }
+        ],
+        [
+          "3. Apprenticeship Laws",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "Requirements",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "should be clearly stated in national laws and regulations",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Requirements should be clearly stated in national laws and regulations."
+          }
+        ],
+        [
+          "4. Credentials",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "Contracts and completion certificates are issued by designated national authorities.",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Contracts and completion certificates are issued by designated national authorities."
+          }
+        ],
+        [
+          "5. Investment in Training",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "The apprentice may also be required to pay for tuition or books.",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "The apprentice may also be required to pay for tuition or books."
+          }
+        ],
+        [
+          "6. Earn and Learn",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "wages while",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "in accordance with a predetermined wage scale",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Wages increase in accordance with a predetermined wage scale."
+          }
+        ],
+        [
+          "7. Supervised Training",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "Learn by working directly under the supervision of skilled workers.",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Learn by working directly under the supervision of skilled workers."
+          }
+        ],
+        [
+          "8. Apprentice Contract",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "A written agreement, or contract between the apprentice, the employer, and the state.",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "A written agreement, or contract between the apprentice, the employer, and the state."
+          }
+        ]
+      ],
+      "title": "Eight essential components: key details (p.30-32)",
+      "title_bn": "আটটি component-এর মূল কথা"
+    }
+  ],
   "highlighted": true,
   "id": "apprenticeship-components",
   "importance": {
@@ -298,7 +815,19 @@
         "fidelity": "paraphrase",
         "text": "Apprentice Contract: a written agreement between the apprentice, the employer and the state."
       }
-    ]
+    ],
+    "itemsBn": [
+      "পরিকল্পিত, তদারকিতে চলা প্রশিক্ষণ — কাজের জায়গায় on the job training-এর সাথে related instruction-ও থাকে।",
+      "দক্ষ কাজের জন্য প্রস্তুতি — প্রশিক্ষণ শেষে মানুষ নথিভুক্ত (documented) কর্মক্ষেত্রে skilled employment পাওয়ার উপযোগী হয়।",
+      "আইনি সুরক্ষা — national laws ন্যূনতম শর্ত ঠিক করে দেয়, যাতে apprentice-এর welfare রক্ষা হয়।",
+      "স্বীকৃত সনদ — legal contract অনুযায়ী training শেষ করলে certificate of completion পাওয়া যায়।",
+      "সবার বিনিয়োগ — apprentice, sponsor আর employer তিন পক্ষই training-এ বাস্তব (tangible) investment করে।",
+      "উপার্জন করতে করতে শেখা — শেখার সময়েও apprentice wages পায়, তাই আয় বন্ধ রেখে শিখতে হয় না।",
+      "দক্ষ কর্মীর তত্ত্বাবধানে শেখা — skilled workers-এর সরাসরি supervision-এ কাজ করে হাতে-কলমে শেখে।",
+      "লিখিত চুক্তি — apprentice, employer আর state-এর মধ্যে written agreement হয়, তাই কার কী দায়িত্ব তা পরিষ্কার থাকে।"
+    ],
+    "title": "Essential components of apprenticeship training",
+    "titleBn": "Apprenticeship training-এর অপরিহার্য উপাদানসমূহ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -607,6 +1136,7 @@
       "text": "Apprentice wages must not be less than minimum wage."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

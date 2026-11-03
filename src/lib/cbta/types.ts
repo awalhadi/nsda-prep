@@ -61,8 +61,11 @@ export interface GenConcept {
   banglaExplanation: string[];
   example: { en: string; bn?: string };
   mnemonic: { text: string; explain_bn?: string } | null;
-  listAnswer: { items: GenClaim[]; declaredCount: number | null } | null;
+  listAnswer: { title: string | null; titleBn: string | null; items: GenClaim[]; itemsBn: string[]; declaredCount: number | null } | null;
   traps: GenClaim[];
+  visual: GenVisual | null;
+  /** Extra blocks from the CBLM study guide (forms, longer tables) shown under the card. */
+  extra: GenGuideBlock[];
   practice: {
     short: { prompt: string; modelAnswer: string; keyPoints: GenClaim[]; marks?: number };
     mcq: { prompt: string; options: string[]; answerIndex: number; answerCite: GenCite };
@@ -101,4 +104,86 @@ export interface GenCblm {
   conceptIds: string[];
   highlights: number;
   covered: number;
+  /** The topic list, in CBLM order. */
+  groups: GenTopicGroup[];
+  guide: { sections: number; outline: { total: number; covered: number } | null } | null;
+}
+
+export interface GenTopicRef {
+  id: string;
+  /** Card id, or null for a guide-only topic (/cbta/cblm/[n]/topic/[id]). */
+  concept: string | null;
+  title: string;
+  title_bn: string | null;
+}
+
+export interface GenTopicGroup {
+  label: string;
+  title: string;
+  title_bn: string | null;
+  topics: GenTopicRef[];
+}
+
+// ---------- visual blocks + study guide ----------
+
+export type GenCell = string | GenClaim;
+type Outlined = { outline?: string[] };
+
+export type GenTable = Outlined & { kind: "table"; title?: string; title_bn?: string; columns: string[]; rows: GenCell[][] };
+export type GenSteps = Outlined & { kind: "steps"; title: string; title_bn?: string; items: GenClaim[]; labels_bn?: string[]; cycle?: boolean };
+export type GenCompareSide = { title: string; title_bn?: string; points: GenClaim[] };
+export type GenCompare = Outlined & { kind: "compare"; title: string; title_bn?: string; left: GenCompareSide; right: GenCompareSide };
+export type GenVisual = GenTable | GenSteps | GenCompare;
+
+export type GenGuideBlock =
+  | GenVisual
+  | (Outlined & { kind: "qa"; q: string; q_bn: string; answer: GenClaim; example?: { en: string; bn?: string }; tip?: string; tip_bn?: string; concept?: string })
+  | (Outlined & { kind: "list"; title: string; title_bn?: string; items: GenClaim[]; items_bn?: string[]; ordered?: boolean })
+  | (Outlined & { kind: "text"; title?: string; claims?: GenClaim[]; bn?: string[] })
+  | (Outlined & { kind: "form"; title: string; title_bn?: string; cite: GenCite; morePages?: number[]; fields?: string[]; columns?: string[]; rows?: string[][]; footer?: string[]; note_bn?: string })
+  | (Outlined & { kind: "note"; tone: "caution" | "tip"; claims?: GenClaim[]; text?: string; bn?: string });
+
+export interface GenGuideTopic {
+  id: string;
+  concept?: string;
+  title?: string;
+  title_bn: string;
+  blocks: GenGuideBlock[];
+}
+
+export interface GenGuideSection {
+  id: string;
+  kind: "overview" | "info" | "practical" | "review";
+  label: string;
+  title: string;
+  title_bn: string;
+  pages: [number, number];
+  topics: GenGuideTopic[];
+}
+
+export interface GenGuideSelfCheck {
+  question: string;
+  q_bn: string;
+  modelAnswer: string;
+  keyPoints: GenClaim[];
+  tip?: string;
+  concept?: string;
+  real: (GenRealQuestion & { page: number; printedPage: number | null }) | null;
+}
+
+export interface GenGuide {
+  cblm: number;
+  title: string;
+  title_bn: string;
+  intro_bn: string[];
+  sections: GenGuideSection[];
+  selfChecks: GenGuideSelfCheck[];
+  practice: {
+    mcq: { prompt: string; options: string[]; answerIndex: number; answerCite: GenCite; concept?: string }[];
+    matching: { prompt: string; pairs: { left: string; right: string; cite: GenCite }[] };
+    viva: { q: string; q_bn?: string; answer: GenClaim }[];
+  };
+  revision: { topic: string; answer: GenClaim; concept?: string }[];
+  outline: { total: number; covered: number; missing: string[] } | null;
+  warnings: number;
 }

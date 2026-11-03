@@ -1,0 +1,567 @@
+{
+  "id": "training-support-people",
+  "canonical_title": "People Involved in a Training Program and How They Help",
+  "aliases": [
+    "Briefing all relevant people involved in the training program",
+    "People who help plan, deliver and follow up training"
+  ],
+  "cblmPrimary": 9,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Very few training programs are single handedly run by one person.",
+    "cites": [
+      {
+        "src": "cblm09",
+        "page": 60,
+        "quote": "Very few training programs are single handedly run by one person."
+      }
+    ],
+    "fidelity": "verbatim"
+  },
+  "keywords": [
+    {
+      "en": "Briefing",
+      "bn": "কাজ শুরুর আগে সংশ্লিষ্টদের জানানো"
+    },
+    {
+      "en": "Administrative staff",
+      "bn": "অফিসের প্রশাসনিক কর্মী"
+    },
+    {
+      "en": "Consumables",
+      "bn": "খরচ হয়ে যায় এমন সামগ্রী"
+    },
+    {
+      "en": "Debriefing",
+      "bn": "কাজ শেষে আলোচনা ও পর্যালোচনা"
+    },
+    {
+      "en": "Supervisors",
+      "bn": "trainee-র কর্মস্থলের তত্ত্বাবধায়ক"
+    }
+  ],
+  "bangla_explanation": [
+    "একজন trainer একা কোনো training program চালাতে পারে না — সামনে ও পেছনে অনেক লোক কাজ করে।",
+    "Planning, delivering আর following up — আগে, চলাকালীন ও পরে নানা কাজে এদের সাহায্য লাগে।",
+    "তাই সবাইকে briefing দিন: কে কী কাজে সাহায্য করবে, আগেই ঠিক করুন।",
+    "আপনার প্রতিষ্ঠানে পদের নাম আলাদা হতে পারে, কিছু কাজ প্রযোজ্য নাও হতে পারে।"
+  ],
+  "example": {
+    "en": "In a TTC welding course, the admin officer books the room. A technician sets up the projector.",
+    "bn": "Welding কোর্সে admin officer room booking করেন, technician projector set up করেন, finance staff guest speaker-এর payment দেন।"
+  },
+  "list_answer": {
+    "title": "People who might help with a training program, and how they help",
+    "title_bn": "Training program-এ যারা সাহায্য করে এবং কীভাবে",
+    "items": [
+      {
+        "text": "Administrative staff: administration details, enrolments, enquiries, training records, room bookings.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "Administrative staff help with"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "recording administration details before, during and after;"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "taking enrolments;"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "handling general enquiries and correspondence for training;"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "maintaining training records;"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "coordinating room bookings."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Finance staffs: costing the programs, financial records, payments and reimbursements.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "Finance staffs"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "costing the training programs;"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "maintaining financial records;"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "organising payments and reimbursements for"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Typist/word processor operators: producing handouts and exercises, photocopying materials.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "Typist/word processor operators"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "producing handouts, exercises;"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "photocopying materials for trainers."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Technicians and computer experts: advise on, set up and operate technical equipment; fix problems.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "Technicians and computer experts help with"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "advising on how to use technical equipment;"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "setting up any technical equipment before the training sessions;"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "operating the equipment;"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "attending to problems or maintenance during the program."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Physical resources and maintenance staff: emergency situations and providing consumables.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "Physical resources and maintenance staff"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "handling emergency situations (eg air conditioning malfunction, lost keys);"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "providing consumables."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Consultants: planning, costing, record keeping systems, evaluating your training skills.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "Consultants (internal or external) help with"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "planning the program;"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "establishing record keeping systems;"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "evaluating your own training skills."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Assessors: clarify outcomes and criteria, suggest assessment methods, prepare trainees, discuss feedback.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "Assessors help with"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "clarifying the learning outcomes, assessment criteria and assessment"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "suggesting assessment methods trainees will nees to be familiar"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "preparing trainees for the assessment process;"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "discussing giving trainees feedback about their performance."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Subject experts and guest speakers: giving demonstrations, presenting specialist information.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "Subject experts and guest speakers (internal or external)"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "giving demonstrations;"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "presenting specialist information."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Seniors in training department: approval, costing, planning, evaluating and debriefing.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "Seniors in training department"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "giving approval of program;"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "planning before and evaluating during and after the program;"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "debriefing after the program."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Other trainers: running session components, receiving trainee feedback, debriefing after sessions.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "Other trainers"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "running components of the sessions;"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "receiving feedback from trainees;"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "debriefing after sessions."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Trainees' supervisors, managers or coordinators: training needs, standards, current competencies, practice, feedback.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "Trainees' supervisors, managers or coordinators"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "determining training needs;"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "providing information on company or industry standards;"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "determining trainees' current competencies;"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "organising ongoing practice during and after sessions;"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "giving feedback about trainees' improvement in work tasks;"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Trainees' co-workers: feedback heard from trainees; supporting trainees' learning and practice.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "Trainees' co-workers"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "giving you feedback about the program that they have heard from the trainees;"
+          },
+          {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "supporting the trainees in their learning and ongoing practice."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    ],
+    "items_bn": [
+      "Administrative staff ভর্তি, খোঁজখবর, training records আর room booking সামলায়।",
+      "Finance staffs খরচের হিসাব, financial records আর speakers ও trainees-এর payments দেখে।",
+      "Typist handouts ও exercises তৈরি করে, trainer-এর জন্য photocopy করে।",
+      "Technicians technical equipment কীভাবে চালাতে হয় বলে, আগে set up করে, চালায় আর সমস্যা হলে ঠিক করে।",
+      "Maintenance staff জরুরি অবস্থা (যেমন AC নষ্ট, চাবি হারানো) সামলায় আর consumables দেয়।",
+      "Consultants program planning, costing, record keeping systems আর আপনার training skills মূল্যায়নে সাহায্য করে।",
+      "Assessors learning outcomes ও assessment criteria স্পষ্ট করে, methods সাজেস্ট করে, trainees-কে প্রস্তুত করে আর feedback নিয়ে আলোচনা করে।",
+      "Subject experts ও guest speakers demonstrations দেয় আর specialist information উপস্থাপন করে।",
+      "Seniors program-এর approval দেয়, costing, planning, evaluating আর শেষে debriefing করে।",
+      "অন্য trainers session-এর কিছু অংশ চালায়, trainees-এর feedback নেয়, শেষে debriefing করে।",
+      "Supervisors training needs ও trainees-এর current competencies নির্ধারণ করে, standards জানায়, practice-এর ব্যবস্থা ও feedback দেয়।",
+      "সহকর্মীরা trainees-এর কাছে শোনা feedback জানায় আর তাদের learning ও practice-এ সহায়তা করে।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "Actual position titles may differ in your organisation. Some tasks may not be relevant.",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 60,
+          "quote": "In your organisation the actual titles of the positions"
+        },
+        {
+          "src": "cblm09",
+          "page": 61,
+          "quote": "may differ and some tasks may not be relevant."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Trainees' supervisors help determine training needs and trainees' current competencies.",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 62,
+          "quote": "determining training needs;"
+        },
+        {
+          "src": "cblm09",
+          "page": 62,
+          "quote": "determining trainees' current competencies;"
+        }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Name the people who might help you with a training program. How do they help?",
+      "modelAnswer": "Very few training programs are run by one person. People who help:\n1. Administrative staff: enrolments, records, room bookings.\n2. Finance staffs: costing, payments.\n3. Typists: handouts, photocopying.\n4. Technicians: set up and operate equipment.\n5. Maintenance staff: emergencies, consumables.\n6. Consultants: planning, costing.\n7. Assessors: assessment criteria and methods.\n8. Subject experts: demonstrations.\n9. Seniors: approval.\n10. Other trainers: run components.\n11. Supervisors: training needs.\n12. Co-workers: support practice.",
+      "keyPoints": [
+        {
+          "text": "Very few training programs are single handedly run by one person.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 60,
+              "quote": "Very few training programs are single handedly run by one person."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "People help with planning, delivering and following up your training program.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 60,
+              "quote": "helping you with planning, delivering and"
+            },
+            {
+              "src": "cblm09",
+              "page": 60,
+              "quote": "following up your training program;"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Tasks need attending to before, during and after the training program.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 60,
+              "quote": "wide range of tasks that need attending to"
+            },
+            {
+              "src": "cblm09",
+              "page": 60,
+              "quote": "before, during and after the training program."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Who helps with 'giving approval of program'?",
+      "options": [
+        "Seniors in training department",
+        "Typist/word processor operators",
+        "Trainees' co-workers",
+        "Technicians and computer experts"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm09",
+        "page": 62,
+        "quote": "Seniors in training department help with • giving approval of program;"
+      }
+    },
+    "matching": {
+      "prompt": "Match each person with how they help.",
+      "pairs": [
+        {
+          "left": "Administrative staff",
+          "right": "Taking enrolments",
+          "cite": {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "Administrative staff help with • recording administration details before, during and after; • taking enrolments;"
+          }
+        },
+        {
+          "left": "Finance staffs",
+          "right": "Costing the training programs",
+          "cite": {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "Finance staffs help with • costing the training programs;"
+          }
+        },
+        {
+          "left": "Typist/word processor operators",
+          "right": "Producing handouts, exercises",
+          "cite": {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "Typist/word processor operators help with • producing handouts, exercises;"
+          }
+        },
+        {
+          "left": "Subject experts and guest speakers",
+          "right": "Giving demonstrations",
+          "cite": {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "Subject experts and guest speakers (internal or external) help with • giving demonstrations;"
+          }
+        },
+        {
+          "left": "Trainees' co-workers",
+          "right": "Supporting trainees in ongoing practice",
+          "cite": {
+            "src": "cblm09",
+            "page": 62,
+            "quote": "supporting the trainees in their learning and ongoing practice."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "How do physical resources and maintenance staff help a training program?",
+      "answer": {
+        "text": "They handle emergency situations and provide consumables.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "handling emergency situations (eg air conditioning malfunction, lost keys);"
+          },
+          {
+            "src": "cblm09",
+            "page": 61,
+            "quote": "providing consumables."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": []
+}

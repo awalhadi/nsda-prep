@@ -39,6 +39,165 @@
     "bn": "ওয়েল্ডিং শপে local ventilation আর welding screen দুটোই along the path control।",
     "en": "In a welding shop, local ventilation removes fumes. Welding screens protect co-workers. Both work along the path."
   },
+  "extra": [
+    {
+      "bn": [
+        "Information sheet 3-এর মূল কথা: hazard থাকলেও control করে নিরাপদ থাকা যায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "While your workplace may have many hazards, they can be controlled so that they",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "don't injure you or make you sick.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Workplace hazards can be controlled so they don't injure you or make you sick."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p38-information-sheet-3",
+        "c03-p38-controlling-hazards"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "The best way to prevent injury is to use controls right at the source of the hazard.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "At the source: the best way to prevent injury."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "hazards can be controlled \"along the path\" before they reach the",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Along the path: before hazards reach the worker."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "The last choice is to use hazard controls at the worker.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "At the worker: the last choice."
+        }
+      ],
+      "kind": "steps",
+      "labels_bn": [
+        "উৎসেই (source) hazard বন্ধ করা — সবচেয়ে ভালো।",
+        "Hazard কর্মী পর্যন্ত পৌঁছানোর পথে (path) আটকানো।",
+        "কর্মীর কাছে (worker) — rules, সময় সীমা, PPE — শেষ উপায়।"
+      ],
+      "outline": [
+        "c03-p39-source-path-worker"
+      ],
+      "title": "Where to control a hazard, from best to last choice (p.39)",
+      "title_bn": "কোথায় control: সবচেয়ে ভালো থেকে শেষ উপায়"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Control the hazard",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Control the hazard"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Not create any new hazards",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Not create any new hazards"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Allow you to do your job comfortably",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Allow you to do your job comfortably"
+        }
+      ],
+      "items_bn": [
+        "Hazard-কে আসলেই নিয়ন্ত্রণ করবে।",
+        "নতুন কোনো hazard তৈরি করবে না।",
+        "আরামে কাজ করতে দেবে।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c03-p39-three-musts"
+      ],
+      "title": "Whatever control method is used, it must do three things (p.39)",
+      "title_bn": "যেকোনো control-কে তিনটি কাজ করতেই হবে"
+    }
+  ],
   "highlighted": true,
   "id": "controlling-hazards",
   "importance": {
@@ -199,7 +358,14 @@
         "fidelity": "paraphrase",
         "text": "At the worker: rules and procedures, limiting how long, and personal protective equipment."
       }
-    ]
+    ],
+    "itemsBn": [
+      "উৎসে (at the source) — hazard যেখান থেকে আসে সেখানেই থামানো: processes redesign, guards বসানো, isolate করা বা hazardous substances বদলানো।",
+      "পথে (along the path) — hazard যেন worker পর্যন্ত না পৌঁছায়, যেমন local ventilation ও welding screens।",
+      "কর্মীর কাছে (at the worker) — rules ও procedures, কতক্ষণ কাজ করবে তা সীমিত রাখা, আর personal protective equipment; এটাই শেষ উপায়।"
+    ],
+    "title": "Strategies for controlling hazards",
+    "titleBn": "Hazard নিয়ন্ত্রণের কৌশল: কোথায় control করা হয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -532,7 +698,7 @@
         }
       ],
       "fidelity": "paraphrase",
-      "text": "Like the hierarchy of controls, personal protective equipment is the last choice."
+      "text": "Like the hierarchy of controls, personal protective equipment (PPE) is the last choice."
     },
     {
       "cites": [
@@ -550,6 +716,143 @@
       "text": "Lockout makes sure machinery won't start during set-up or clean-up."
     }
   ],
+  "visual": {
+    "columns": [
+      "Hazard type",
+      "Control strategy"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Physical",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Physical Guards protect you from moving parts on machinery",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Physical guards protect you from moving parts on machinery."
+        }
+      ],
+      [
+        "Physical",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Lockout procedures make sure machinery or equipment won't start and injure a worker during set-up, clean-up or similar work.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Lockout procedures make sure machinery won't start during set-up or clean-up."
+        }
+      ],
+      [
+        "Chemical",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Ventilation systems remove harmful vapours from the air.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Ventilation systems remove harmful vapours from the air."
+        }
+      ],
+      [
+        "Chemical",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Substitution involves replacing a dangerous chemical or material with a safer one.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Substitution replaces a dangerous chemical or material with a safer one."
+        }
+      ],
+      [
+        "Biological",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Safe work procedures such as washing hands can help prevent the spread of germs.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Safe work procedures, such as washing hands, help prevent the spread of germs."
+        }
+      ],
+      [
+        "Ergonomic",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Redesigning workstations or the way work is done can help control ergonomic hazards.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Redesigning workstations or the way work is done helps control ergonomic hazards."
+        }
+      ],
+      [
+        "Psychosocial",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Violence prevention, anti-bullying and stress reduction programs will help lower stress.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Violence prevention, anti-bullying and stress reduction programs help lower stress."
+        }
+      ]
+    ],
+    "title": "Strategies for controlling each type of hazard (p.38)",
+    "title_bn": "Hazard-এর ধরন অনুযায়ী control"
+  },
   "vivaDerived": true,
   "warnings": 1
 }

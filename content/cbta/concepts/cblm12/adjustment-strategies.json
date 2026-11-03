@@ -72,6 +72,8 @@
     "bn": "বয়স্ক গার্মেন্টস কর্মী ছোট লেখা পড়তে পারেন না, তাই assessor প্রশ্ন পড়ে শোনান আর ছোট ছোট সেশন নেন।"
   },
   "list_answer": {
+    "title": "Strategies for adjusting the assessment process for candidate groups",
+    "title_bn": "বিভিন্ন candidate group-এর জন্য assessment process adjust করার কৌশল",
     "items": [
       {
         "text": "Indigenous: learn about the community. Be culturally sensitive. Identify events like funerals. Allow alternative ways of demonstrating competence.",
@@ -246,6 +248,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Indigenous candidate-এর community সম্পর্কে জানুন, সংস্কৃতির প্রতি সংবেদনশীল থাকুন, funerals-এর মতো ঘটনা মাথায় রাখুন, আর competence দেখানোর বিকল্প উপায় দিন।",
+      "বয়সের দিক মাথায় রেখে printed information পড়ে শোনান, font size যেন ছোট না হয়; যথেষ্ট সময় আর shorter assessments দিন।",
+      "দরকার হলে উপযুক্ত gender-এর assessor দিন, মানানসই assessment strategies নিন, আর child care-এর সমস্যা আছে কি না দেখুন।",
+      "Candidate ও supervisor-এর সাথে ভাষা, literacy আর numeracy নিয়ে কথা বলুন; তথ্য পড়ে শোনান, graphics ব্যবহার করুন, মুখে বলা উত্তর লিখে দিন।",
+      "Disability কাজে কী প্রভাব ফেলে তা candidate ও supervisor-এর সাথে আলোচনা করুন; support person, ছোট বাক্য, rephrasing আর shorter assessments ব্যবহার করুন।",
+      "Job role-এ যতটুকু literacy লাগে, তার বেশি লাগে এমন methods নেবেন না; জোড়ায় বা দলে কাজ করান।"
     ]
   },
   "traps": [
@@ -303,6 +313,478 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Possible strategies for adjusting the assessment process (p.11-13)",
+    "title_bn": "কোন গ্রুপে কী সমস্যা, কী কৌশল",
+    "columns": [
+      "Category",
+      "Possible issue",
+      "Key strategies"
+    ],
+    "rows": [
+      [
+        "Indigenous",
+        {
+          "text": "Cultural background, speaking, reading, writing, numeracy, confidence.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "Indigenous • Cultural"
+            },
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "background"
+            },
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "Speaking"
+            },
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "• Reading"
+            },
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "• Writing"
+            },
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "Numeracy"
+            },
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "Confidence"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Learn about the community. Be culturally sensitive. Allow for events like funerals. Use alternative ways to show competence.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "Allow enough time to learn about the"
+            },
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "community and how this may impact on the"
+            },
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "inclusive and culturally sensitive"
+            },
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "Identify any events and obligations"
+            },
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "affect the timing of the assessment, for example funerals"
+            },
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "Encourage participants to use alternative"
+            },
+            {
+              "src": "cblm12",
+              "page": 11,
+              "quote": "ways of demonstrating competence"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Age",
+        {
+          "text": "Educational background, age of the assessor, limited study skills and/or learning strategies.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Age • Educational"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "background"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Age of the"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "assessor"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Limited study"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "skills and/or"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "learning"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "strategies"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Read printed information. Make sure font size is not too small. Acknowledge age. Allow time. Have shorter assessments.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Read any printed information to the"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Make sure font size is not too small"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Assessor should acknowledge age"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Ensure that the time available to complete"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Have a number of shorter assessments"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Gender",
+        {
+          "text": "Gender of the assessor, timing of the assessments.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Gender • Gender of the"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "assessor"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Timing of the"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "assessments"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Use an assessor of the appropriate gender. Use appropriate strategies. Check child care issues.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Use an assessor of the appropriate gender"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Use appropriate assessment strategies"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Check whether there are child care issues"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Educational background",
+        {
+          "text": "Reading, writing, numeracy, limited study skills and/or learning strategies.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Educational • Reading"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Writing are likely"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Numeracy"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Limited study"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "skills and/or"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "learning"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "strategies"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Discuss language, literacy and numeracy with the candidate and supervisor. Use methods needing no higher literacy than the job role. Read information, use graphics and write down oral responses.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Discuss with the candidate and supervisor"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "whether language, literacy and numeracy"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Use methods that do not require a higher"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "level of language or literacy than is required"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "to perform the job role"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Read any printed information to the"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Use graphics, pictures and colour coding"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "Offer to write down, or have someone else"
+            },
+            {
+              "src": "cblm12",
+              "page": 12,
+              "quote": "write, oral responses given by the candidate"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Disability",
+        {
+          "text": "Speaking, reading, writing, numeracy, limited study skills and/or learning strategies.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Disability • Speaking"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "likely to impact on Reading"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "• Writing"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Numeracy"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Limited study"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "skills and/or"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "learning"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "strategies"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Discuss the disability's impact with the candidate and supervisor. Use a support person, short sentences and rephrasing. Read information and have shorter assessments.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Discuss with the candidate and supervisor"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "whether the disability is likely to impact on"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Use support person and other support"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Use short sentences that do not contain"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Clarify information by rephrasing"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Read any printed information to the"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Have a number of shorter assessments"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Low levels of literacy",
+        {
+          "text": "Speaking, reading, writing, cultural background, confidence.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Low levels • Speaking"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Reading to perform"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "• Writing"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Cultural background"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Confidence"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Use methods needing no higher literacy than the job role. Use pair/group work.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Use methods that do not require a higher"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "level of language or literacy than is required"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "to perform the job role"
+            },
+            {
+              "src": "cblm12",
+              "page": 13,
+              "quote": "Use pair/group work"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What can an assessor do to accommodate the needs of trainees who have a disability?",

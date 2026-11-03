@@ -9,6 +9,14 @@
       "cblm": 2,
       "pages": [
         {
+          "pdf": 25,
+          "printed": 25
+        },
+        {
+          "pdf": 26,
+          "printed": 26
+        },
+        {
           "pdf": 30,
           "printed": 30
         }
@@ -33,6 +41,311 @@
     "bn": "TVET centre enrollment form সহজ করে, প্রত্যেকের specific needs জেনে নেয়, আর wheelchair ব্যবহারকারীর নিরাপত্তা দেখে।",
     "en": "A TVET centre makes enrollment forms clear and asks each learner about specific needs. It also checks safety for a wheelchair user."
   },
+  "extra": [
+    {
+      "bn": [
+        "Information Sheet 2-এ PC 2.1-2.4 আর 3.1-3.3 দুটোই আছে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "Information Sheet 2 Develop & Implement Work",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "2. Develop and implement work strategies to support inclusivity",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "3. Monitor and improve work practices",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Information Sheet 2: develop and implement work strategies; monitor and improve work practices."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c02-p24-information-sheet-2"
+      ],
+      "title": "Information Sheet 2 at a glance"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "Providing information to learners",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Providing information to learners"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "Enrollment processes- are they clear and accessible",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Enrollment processes- are they clear and accessible"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "Induction processes",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Induction processes"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "Finding out about specific needs",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Finding out about specific needs"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "Identifying and confirming support needs",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Identifying and confirming support needs"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "Catering for diversity in learning style",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Catering for diversity in learning style"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "Respecting individuals' rights and confidentiality",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Respecting individuals' rights and confidentiality"
+        }
+      ],
+      "items_bn": [
+        "Learner-দের দরকারি তথ্য দেওয়া।",
+        "ভর্তি (enrollment) প্রক্রিয়া পরিষ্কার ও সবার জন্য সহজলভ্য কি না দেখা।",
+        "শুরুর পরিচিতি (induction) প্রক্রিয়া।",
+        "কার কী নির্দিষ্ট প্রয়োজন, তা জেনে নেওয়া।",
+        "কী support লাগবে, তা চিহ্নিত ও নিশ্চিত করা।",
+        "শেখার ভিন্ন ভিন্ন ধরন (learning style)-এর ব্যবস্থা রাখা।",
+        "প্রত্যেকের অধিকার ও গোপনীয়তা (confidentiality)-কে সম্মান করা।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c02-p24-plan-inclusiveness"
+      ],
+      "title": "Things to consider when planning for inclusiveness",
+      "title_bn": "Inclusiveness পরিকল্পনায় যা বিবেচনা করবেন"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "You need to develop a plan for inclusiveness.",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Develop a plan for inclusiveness."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "using documented resources to support and guide inclusive practices",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "using documented resources to support and guide inclusive practices"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "identifying and accessing support services",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "identifying and accessing support services"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "incorporating physical environment support needs into work practices",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "incorporating physical environment support needs into work practices"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "addressing OHS issues associated with inclusivity",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "addressing OHS issues associated with inclusivity"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "you now need to monitor and improve your own work practices",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Monitor and improve your own work practices."
+        }
+      ],
+      "kind": "steps",
+      "labels_bn": [
+        "প্রথমে inclusiveness-এর plan।",
+        "2.1 লিখিত resources দেখে strategy ঠিক করা।",
+        "2.2 support services ও support persons খুঁজে যুক্ত করা।",
+        "2.3 physical environment-এর প্রয়োজন কাজে যুক্ত করা।",
+        "2.4 OHS issues মোকাবিলা করা।",
+        "শেষে 3.x — নিজের কাজ monitor ও উন্নত করা।"
+      ],
+      "outline": [
+        "c02-p24-work-strategies"
+      ],
+      "title": "Road map of Information Sheet 2",
+      "title_bn": "Information Sheet 2-এর পথ"
+    },
+    {
+      "bn": "মূল পাঠে 'continues' ছাপা হয়েছে; আপনি লিখবেন 'continuous improvement process'।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "it is a continues improvement process",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "it is a continues improvement process"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c02-p24-plan-inclusiveness"
+      ],
+      "text": "The CBLM prints 'continues improvement process' (p.24 and answer key p.30). Write 'continuous improvement process'.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": false,
   "id": "inclusive-work-strategies",
   "importance": {
@@ -127,7 +440,15 @@
         "fidelity": "verbatim",
         "text": "Addressing OHS issues associated with inclusivity"
       }
-    ]
+    ],
+    "itemsBn": [
+      "লিখিত (documented) resources ব্যবহার করা — এগুলো দেখে inclusive practices ঠিকভাবে চালানো যায়।",
+      "Support services চিহ্নিত করা ও কাজে লাগানো — কার কী সহায়তা লাগবে আর তা কোথায় পাওয়া যায়, জেনে ব্যবস্থা করা।",
+      "Physical environment-এর support needs নিজের work practices-এ রাখা — জায়গা ও সুবিধা যেন সবার ব্যবহারের উপযোগী হয়।",
+      "Inclusivity-র সাথে জড়িত OHS issues সমাধান করা — যাতে পরিবেশ সবার জন্য নিরাপদ থাকে।"
+    ],
+    "title": "Work strategies to support inclusiveness",
+    "titleBn": "Inclusiveness-কে সহায়তা করার work strategies"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -376,7 +697,7 @@
   ],
   "score": 3,
   "sourceType": "cblm",
-  "stars": 1,
+  "stars": 2,
   "status": "draft",
   "title": "Planning for Inclusiveness and Work Strategies to Support It",
   "traps": [
@@ -429,6 +750,188 @@
       "text": "Develop a plan for inclusiveness and implement work strategies; write both."
     }
   ],
+  "visual": {
+    "columns": [
+      "Work strategy",
+      "What it includes"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "2.1 Documented resources",
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "National and institutional policies on access and equity",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "National guidelines and support materials on inclusive practice",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "National and institutional access and equity policies; national inclusive practice guidelines."
+        }
+      ],
+      [
+        "2.2 Support services",
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "The support people available to you may",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "family members;",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "interpreters;",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "note takers;",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "career counsellors;",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Support people such as family members, interpreters, note takers and career counsellors."
+        }
+      ],
+      [
+        "2.3 Physical environment",
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "modifications to the layout of premises;",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "equipment modifications;",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "use of adaptive technologies;",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "changes to work schedules; and",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "modifications to job design",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Layout of premises, equipment, adaptive technologies, work schedules and job design."
+        }
+      ],
+      [
+        "2.4 OHS issues",
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "OHS laws impose a duty of care on employers to provide a safe",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "working environment",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "have a duty of care for your learners",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Duty of care: provide a safe working environment for learners."
+        }
+      ]
+    ],
+    "title": "The four work strategies and what each includes (pp.25-26)",
+    "title_bn": "চারটি work strategy, প্রতিটিতে কী থাকে"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

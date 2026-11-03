@@ -37,6 +37,52 @@
     "bn": "Welding ক্লাসে ভিডিও আর chart দেখালে trainee ধাপগুলো ভালো মনে রাখে।",
     "en": "In a welding class, a short video and a chart help learners remember the steps."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Learning materials are an aid to the learning process.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "They must",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "facilitate the students' learning.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "They are an aid to the learning process. They must facilitate the students' learning."
+      },
+      "concept": "why-use-learning-materials",
+      "kind": "qa",
+      "outline": [
+        "c08-p7-why-learning-materials"
+      ],
+      "q": "Why we use learning materials?",
+      "q_bn": "আমরা কেন learning materials ব্যবহার করি?",
+      "tip": "This is Self Check Q02. Write the aid line, then all five points.",
+      "tip_bn": "এটা Self Check Q02 — প্রথমে 'aid to the learning process', তারপর ৫টি পয়েন্ট লিখুন।"
+    }
+  ],
   "highlighted": true,
   "id": "why-use-learning-materials",
   "importance": {
@@ -146,7 +192,16 @@
         "fidelity": "verbatim",
         "text": "Accelerate learning as more senses are involved."
       }
-    ]
+    ],
+    "itemsBn": [
+      "আগ্রহ জাগায় আর ধরে রাখে, ফলে শিক্ষার্থী মনোযোগ হারায় না।",
+      "শেখানোকে সহজ করে, কঠিন বিষয়ও সহজে বোঝা যায়।",
+      "মনে রাখতে (retention) সাহায্য করে।",
+      "সক্রিয়ভাবে চিন্তা করতে উৎসাহ দেয়।",
+      "বেশি senses কাজে লাগে বলে শেখা দ্রুত হয়।"
+    ],
+    "title": "Purposes of using learning materials",
+    "titleBn": "Learning materials ব্যবহারের উদ্দেশ্য"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -377,6 +432,7 @@
       "text": "They are not something that must be used all the time."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

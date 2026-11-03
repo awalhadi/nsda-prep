@@ -45,6 +45,171 @@
     "bn": "প্রতিদিন মেঝে আর bench থেকে ময়লা সরানো housekeeping-এর অংশ।",
     "en": "In a garments training workshop, staff remove waste from the floor and benches every day."
   },
+  "extra": [
+    {
+      "bn": [
+        "বাড়ির মতোই: সব কিছু পরিষ্কার, গোছানো আর ব্যবহারযোগ্য রাখা — কিছু ভাঙা নয়, তার বা কল নষ্ট নয়।",
+        "এই module-এ housekeeping মানে institute-এর training workshop গুছিয়ে, পরিষ্কার আর নিরাপদ রাখা।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Housekeeping in simple words means maintaining a house on a daily or long term",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "basis or looking after its cleanliness, tidiness, upkeep and smooth running.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Housekeeping means maintaining a house daily or long term, and looking after its cleanliness."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "the different procedures followed to keep and maintain everything in the house",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "in a good and presentable order, are collectively known as good housekeeping.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The procedures to keep everything in good and presentable order are called good housekeeping."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "In our term you will use the housekeeping term for the training workshop we will use",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Here you will use the housekeeping term for the training workshop."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p7-information-sheet-1",
+        "c06-p7-housekeeping-definition"
+      ]
+    },
+    {
+      "bn": [
+        "Card-এর চারটি পরিষ্কারের উপায় p.11-এর 'Cleanliness' অংশ থেকে: মেঝে-বেঞ্চ রোজ, জানালা-skylight, change room, shower।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "The workshop environment should be maintained in a clean condition by:",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The workshop environment should be maintained in a clean condition by:"
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p11-cleanliness"
+      ],
+      "title": "Cleanliness (p.11)"
+    },
+    {
+      "bn": "Answer key-এ housekeeping-এর জায়গায় repair আর construction-এর সংজ্ঞা; আপনি p.27-এর housekeeping লাইন লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "a) Repair or replacing parts to restore a piece of equipment to full",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "b) Construction and rehabilitation of building, modifying, and restoring",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Answer key Q4: repair or replacing parts; construction and rehabilitation."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Housekeeping would cover those janitorial and grounds keeping activities",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "necessary to provide clean and orderly facilities and grounds",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Housekeeping would cover janitorial and grounds keeping activities for clean and orderly facilities and grounds."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c06-p30-self-check-1",
+        "c06-p31-answer-key-1"
+      ],
+      "text": "Self Check 1 Q4 asks what housekeeping covers. The answer key gives the p.27 meanings of repair and construction. Write the p.27 housekeeping line.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "housekeeping-workshop",
   "importance": {
@@ -157,7 +322,15 @@
         "fidelity": "paraphrase",
         "text": "Sanitize showers and washing facilities each day they are used."
       }
-    ]
+    ],
+    "itemsBn": [
+      "মেঝে, benches, desks, সিঁড়ি আর চলাচলের পথ থেকে অন্তত প্রতিদিন ময়লা ও বর্জ্য সরানো।",
+      "জানালা আর skylights পরিষ্কার রাখা, যাতে প্রাকৃতিক আলো ঢুকতে বাধা না পায়।",
+      "পোশাক বদলানোর ঘর (change rooms) দিনে অন্তত একবার পরিষ্কার করা, আর সপ্তাহে অন্তত একবার ধুয়ে ফেলা।",
+      "Showers আর ধোয়ার জায়গা যেদিন ব্যবহার হয়, সেদিনই জীবাণুমুক্ত (sanitize) করা।"
+    ],
+    "title": "Ways to keep the workshop clean",
+    "titleBn": "Workshop পরিষ্কার রাখার উপায়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -428,6 +601,7 @@
       "text": "The answer key lists repair and construction for housekeeping."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

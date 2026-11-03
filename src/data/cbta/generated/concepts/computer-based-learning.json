@@ -36,6 +36,188 @@
     "bn": "IT সেন্টারে typing software-এ প্রত্যেকে নিজের গতিতে শেখে, ভুল সাথে সাথে দেখে।",
     "en": "An IT centre gives a typing package. Each learner practises at his own speed and sees mistakes at once."
   },
+  "extra": [
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "processing student records;",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "processing student records;"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "preparing teaching material.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "preparing teaching material."
+        }
+      ],
+      "items_bn": [
+        "Students-এর records process করা।",
+        "শেখানোর material তৈরি করা।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c10-p17-computers-two-ways"
+      ],
+      "title": "Computers help manage learning by",
+      "title_bn": "Computer যেভাবে শেখা manage করে"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "practise problem solving and discovery techniques;",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "practise problem solving and discovery techniques;"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "play educational games;",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "play educational games;"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "simulate real life situations;",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "simulate real life situations;"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "perform drill and practice exercises.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "perform drill and practice exercises."
+        }
+      ],
+      "items_bn": [
+        "সমস্যা সমাধান আর নিজে খুঁজে বের করার (discovery) কৌশল অনুশীলন।",
+        "শিক্ষামূলক games খেলা।",
+        "বাস্তব পরিস্থিতির simulation।",
+        "বারবার drill ও practice exercises।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c10-p17-computers-two-ways"
+      ],
+      "title": "With interactive software, the learner can",
+      "title_bn": "Interactive software দিয়ে learner যা করতে পারে"
+    },
+    {
+      "bn": [
+        "ভালো trainer সবসময় journals আর নতুন idea খোঁজেন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Trade and professional journals often feature practical helpful articles by",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Trade and professional journals often feature practical helpful articles."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "good trainers should always be on the",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "look out for interesting and relevant ideas",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Good trainers always look out for interesting and relevant ideas."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p18-journals"
+      ]
+    },
+    {
+      "bn": "সুবিধা ৫টি, সীমাবদ্ধতা ৪টি — card-এ আছে।",
+      "kind": "note",
+      "outline": [
+        "c10-p18-computer-advantages",
+        "c10-p18-computer-limitations"
+      ],
+      "text": "The five advantages and four limitations are on the card above. Limitation 2 is an exam favourite: no affective, motor or interpersonal skills.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "computer-based-learning",
   "importance": {
@@ -179,7 +361,16 @@
         "fidelity": "verbatim",
         "text": "encouragement of logical thinking."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Individualised learning — learner নিজেই শেখার গতি (rate) আর ক্রম (sequence) ঠিক করে, আর সাথে সাথে feedback পায়।",
+      "খুব বড় তথ্যভাণ্ডারে (store of information) সহজে প্রবেশ করা যায়।",
+      "উন্নত মানের interactive packages নানা ধরনের media একসাথে মিলিয়ে শেখায়।",
+      "Training নমনীয়ভাবে (flexible delivery) দেওয়া যায়, তাই দূরে থেকে শেখার (distance learning) জন্য আদর্শ।",
+      "যুক্তি দিয়ে ভাবতে (logical thinking) উৎসাহ দেয়।"
+    ],
+    "title": "Advantages of computer based learning",
+    "titleBn": "Computer based learning-এর সুবিধা"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -436,6 +627,173 @@
       "text": "Computers also help manage learning: processing student records and preparing teaching material."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "individualised learning-the learner can",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "get immediate feedback;",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Individualised learning with immediate feedback."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "flexible delivery of training-ideal for a",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "dispersed workforce and distance learning;",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Flexible delivery, ideal for distance learning."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "encouragement of logical thinking.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "encouragement of logical thinking."
+        }
+      ],
+      "title": "Advantages",
+      "title_bn": "সুবিধা"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "designing instructional material is very complex, labour intensive and",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "expensive and there is a lack of high quality software",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Designing material is complex, labour intensive and expensive. Quality software is lacking."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "a limited range of skills can be taught by computers-they don't train",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "effectively in the affective, motor and interpersonal skills;",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Computers don't train affective, motor and interpersonal skills effectively."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "small companies can rarely afford to develop their own software and the",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "prepared products often don't meet individual needs;",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Small companies rarely afford own software; products often don't meet individual needs."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "interaction with a computer is a solitary activity.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "interaction with a computer is a solitary activity."
+        }
+      ],
+      "title": "Limitations",
+      "title_bn": "সীমাবদ্ধতা"
+    },
+    "title": "Computer based learning: advantages vs limitations",
+    "title_bn": "Computer based learning: সুবিধা বনাম সীমাবদ্ধতা"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

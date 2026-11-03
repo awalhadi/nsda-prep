@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Workplace issues a teacher needs to maintain",
-    "Managing work and work relationships",
-    "Maintain relationship with supervisor and colleagues"
+    "Managing work and work relationships"
   ],
   "appearsIn": [
     {
@@ -32,7 +31,7 @@
   ],
   "breakdown": {
     "exam": 2,
-    "highlight": 3,
+    "highlight": 2,
     "repeat": 1
   },
   "cblmPrimary": 1,
@@ -41,6 +40,169 @@
     "bn": "দুই trainer ideas শেয়ার করেন, learners-এর feedback নিয়ে নিজেদের কাজ উন্নত করেন।",
     "en": "Two welding trainers share session plans and ideas. They ask learners for feedback and then improve."
   },
+  "extra": [
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "planning and prioritizing of works",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "planning and prioritizing of works"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "organizational guidelines on workloads",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "organizational guidelines on workloads"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "maintain relevant technological skills",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "maintain relevant technological skills"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "employees relationship",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "employees relationship"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "managing work and professional relationship",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "managing work and professional relationship"
+        }
+      ],
+      "items_bn": [
+        "কাজের পরিকল্পনা আর অগ্রাধিকার ঠিক করা।",
+        "কাজের চাপ (workload) নিয়ে প্রতিষ্ঠানের নির্দেশনা।",
+        "প্রযুক্তিগত দক্ষতা হালনাগাদ রাখা।",
+        "কর্মীদের পারস্পরিক সম্পর্ক।",
+        "কাজ আর পেশাগত সম্পর্ক সামলানো।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c01-p41-information-3",
+        "c01-p41-workplace-issues"
+      ],
+      "title": "Workplace issues TVET institutes face (p.41)",
+      "title_bn": "কর্মস্থলের কিছু issue (৫টি)"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Managing",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "these utilizing",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "issues many",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "will discuss",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "increase the efficiency of the institutes and ensure client focus approach",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "which will eventually increase the efficiency",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Managing these issues will increase the efficiency of the institutes and ensure client focus approach."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p41-workplace-issues"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "managing-work-relationships",
   "importance": {
@@ -136,7 +298,15 @@
         "fidelity": "verbatim",
         "text": "adopting client focus approach"
       }
-    ]
+    ],
+    "itemsBn": [
+      "নিজের কাজের planning, prioritizing ও organizing — কোনটা আগে করবেন ঠিক করে গুছিয়ে কাজ করা।",
+      "Colleagues-এর সাথে collaboratively কাজ করা — সবাই মিলে কাজ করলে দলের কাজ সহজে এগোয়।",
+      "নিজের work management skills আর professional relationships নিয়ে feedback চাওয়া — অন্যের মতামত থেকে নিজের দুর্বলতা বোঝা যায়।",
+      "Client focus approach নেওয়া — নিজের সুবিধা নয়, client-এর প্রয়োজনকে কাজের কেন্দ্রে রাখা।"
+    ],
+    "title": "Ways to manage work and work relationships",
+    "titleBn": "কাজ ও কাজের সম্পর্ক সামলানোর উপায়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -401,7 +571,7 @@
       "type": "short"
     }
   ],
-  "score": 6,
+  "score": 5,
   "sourceType": "cblm",
   "stars": 2,
   "status": "draft",
@@ -467,6 +637,7 @@
       "text": "Work collaboratively by sharing information and ideas and working together to achieve outcomes."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

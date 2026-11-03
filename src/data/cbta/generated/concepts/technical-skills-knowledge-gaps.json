@@ -33,6 +33,146 @@
     "bn": "কোদালের ধরন জানা = knowledge; ঠিক কোদাল বেছে নেওয়া = skill।",
     "en": "Unit: \"Use equipment for building and maintaining a garden\". Knowing types of spades is knowledge. Choosing the right spade is a skill."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 8,
+            "quote": "Underpinning means to support something from below like a foundation.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 8,
+            "quote": "It is\ncommonly used to describe any knowledge or skills that are foundational",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Underpinning means to support something from below like a foundation. It describes foundational knowledge or skills for a job."
+      },
+      "concept": "technical-skills-knowledge-gaps",
+      "kind": "qa",
+      "outline": [
+        "c07-p9-underpinning"
+      ],
+      "q": "What does underpinning mean?",
+      "q_bn": "Underpinning মানে কী?"
+    },
+    {
+      "bn": [
+        "জানা (types of spades) = knowledge; করা (choosing the right spade) = skills — card-এর compare দেখুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 8,
+              "quote": "One of\nthe units of competency is \"Use equipment for building and maintaining a\ngarden\"",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 8,
+              "quote": "Unit of Competency (UoC) includes some skills and knowledge",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Example unit: \"Use equipment for building and maintaining a garden\". It has underpinning knowledge and skills."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p9-gardening-example"
+      ]
+    },
+    {
+      "bn": [
+        "যা লাগবে (UoC-তে লেখা) বিয়োগ যা আছে = skills gap।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 8,
+              "quote": "One can easily compare his\nexistence competency and required competency.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 8,
+              "quote": "Required Underpinning\nSkills can be found out with each Unit of Competency (UoC)",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Skills gap: compare existing competency with required competency. Required skills are in each UoC."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p9-skills-gaps"
+      ]
+    },
+    {
+      "bn": [
+        "Knowledge gap-ও একইভাবে: প্রতিটি UoC-এর Required Underpinning Knowledge দেখে মিলিয়ে নিন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 8,
+              "quote": "Underpinning knowledge required for\nsuch task can be found in each Unit of Competency (UoC).",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 9,
+              "quote": "can look for Required Underpinning Knowledge and proceed accordingly.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Knowledge gap: look for the Required Underpinning Knowledge in each UoC."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p9-knowledge-gaps"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "technical-skills-knowledge-gaps",
   "importance": {
@@ -106,7 +246,13 @@
         "fidelity": "paraphrase",
         "text": "Knowledge gap: find the underpinning knowledge required in each Unit of Competency (UoC)."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Skills gap — নিজের বর্তমান competency-কে required competency-র সাথে মেলানো; প্রতিটি UoC-তে Required Underpinning Skills লেখা থাকে।",
+      "Knowledge gap — প্রতিটি Unit of Competency-তে দরকারি underpinning knowledge দেখে, নিজের কী জানা নেই তা বের করা।"
+    ],
+    "title": "Identifying own skills gap and knowledge gap",
+    "titleBn": "নিজের skills gap ও knowledge gap চিহ্নিত করা"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -382,6 +528,113 @@
       "text": "Required skills are a vital part of the Unit of Competency (UoC)."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 8,
+              "quote": "types of spades",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "types of spades"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 8,
+              "quote": "types of garden forks",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "types of garden forks"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 8,
+              "quote": "safe handling of spades and garden forks",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "safe handling of spades and garden forks"
+        }
+      ],
+      "title": "Underpinning Knowledge",
+      "title_bn": "কী জানতে হবে"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 8,
+              "quote": "choosing the right spade for the job",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "choosing the right spade for the job"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 8,
+              "quote": "choosing the right garden fork for the job",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "choosing the right garden fork for the job"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 8,
+              "quote": "handling the equipment safely",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "handling the equipment safely"
+        }
+      ],
+      "title": "Underpinning Skills",
+      "title_bn": "কী করতে পারতে হবে"
+    },
+    "title": "Gardening unit: underpinning knowledge vs underpinning skills (p.9)",
+    "title_bn": "বাগানের উদাহরণ: knowledge বনাম skills"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

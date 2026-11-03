@@ -1,0 +1,763 @@
+{
+  "aliases": [
+    "Reporting process",
+    "Documentation process",
+    "Inspection report",
+    "Breakdown/repair report",
+    "Salvage report"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 27,
+          "printed": 27
+        },
+        {
+          "pdf": 28,
+          "printed": 28
+        },
+        {
+          "pdf": 29,
+          "printed": 29
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "Inspection report হাতে পেলে চারটা কাজ: report analyse করা, facilities-এর অবস্থা যাচাই, repair improvement schedule বানানো, আর continuous maintenance চালু রাখা।",
+    "Documentation process-এর assessment অংশে পাঁচটা ধাপ: standards যাচাই, standard value ঠিক করা, check list বানানো, অবস্থা assess করা, report জমা দেওয়া।",
+    "এই অংশে তিনটা নমুনা ফর্ম আছে: Inspection Report, Breakdown/repair report আর Salvage Report।",
+    "এগুলো PC 1.5 ও 2.5 পূরণে সাহায্য করে: কাগজপত্র রাখা আর maintenance-এর report করা।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "Computer lab-এর printer over heating হলে in-charge breakdown report লেখেন: service center-এ পাঠাও।",
+    "en": "A lab in-charge finds an overheating printer. He writes a breakdown report: send it to the service center."
+  },
+  "extra": [
+    {
+      "bn": [
+        "চারটি করণীয় card-এর তালিকায়: analyse → investigate → repair schedule → continuous maintenance।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "You act based on the inspection report by;",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "You act based on the inspection report by;"
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p27-reporting-process"
+      ]
+    },
+    {
+      "cite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 28,
+        "printedPage": 28,
+        "quote": "Inspection Report Template",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "columns": [
+        "FACILITY TYPE",
+        "INCIDENT",
+        "ACTION TAKEN",
+        "PROGRESS/REMARKS"
+      ],
+      "fields": [
+        "Area/Section: Practical Work Area/Computer Laboratory",
+        "In-Charge Name:"
+      ],
+      "footer": [
+        "Reported by:",
+        "Date:",
+        "Signature over printed name:"
+      ],
+      "kind": "form",
+      "note_bn": "কোন facility, কী ঘটনা, কী ব্যবস্থা নেওয়া হলো, অগ্রগতি কী — চারটি column; শেষে নাম, স্বাক্ষর, তারিখ।",
+      "outline": [
+        "c06-p28-inspection-report-template"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "title": "Inspection Report Template",
+      "title_bn": "Inspection Report ফর্ম"
+    },
+    {
+      "bn": [
+        "Assessment-এর পাঁচ ধাপ card-এর ছবিতে; শেষ ধাপ inspection report তৈরি ও জমা।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Prepare and submit inspection report.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Prepare and submit inspection report."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p29-documentation-assessment"
+      ],
+      "title": "Documentation process: Assessment (p.29)"
+    },
+    {
+      "cite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 29,
+        "printedPage": 29,
+        "quote": "Sample Template; Breakdown /repair report.",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "columns": [
+        "Facility Type",
+        "Nature of break down",
+        "Recommendations"
+      ],
+      "fields": [
+        "Area/Section: Practical work area/ laboratory area",
+        "In-Charge Name:"
+      ],
+      "footer": [
+        "Reported by: Signature over printed name:",
+        "Date reported:"
+      ],
+      "kind": "form",
+      "note_bn": "নমুনা: HP printer over heating হচ্ছে, সুপারিশ — service center-এ পাঠান।",
+      "outline": [
+        "c06-p29-breakdown-report"
+      ],
+      "rows": [
+        [
+          "Printer HP desk jet 200",
+          "Over heating",
+          "Send HP to service center"
+        ]
+      ],
+      "title": "Sample Template: Breakdown/repair report",
+      "title_bn": "Breakdown/repair report-এর নমুনা"
+    },
+    {
+      "cite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 29,
+        "printedPage": 29,
+        "quote": "Sample Template: for Salvage Report",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "columns": [
+        "Facility Type",
+        "PART ID",
+        "RECOMMENDATION"
+      ],
+      "fields": [
+        "Area/Section: Practical Work Area/Laboratory",
+        "Personnel Name:"
+      ],
+      "footer": [
+        "Reported by: Name:",
+        "Date Reported:"
+      ],
+      "kind": "form",
+      "note_bn": "নমুনা: printer-এর ink cartridge আলাদা করে রাখা, অন্য printer-এ ব্যবহারের জন্য।",
+      "outline": [
+        "c06-p29-salvage-report"
+      ],
+      "rows": [
+        [
+          "Floor Model-High Speed Color Printer",
+          "Ink cartridge",
+          "Store ask up cartridge for other for other floor model printers."
+        ]
+      ],
+      "title": "Sample Template: Salvage Report",
+      "title_bn": "Salvage Report-এর নমুনা"
+    },
+    {
+      "bn": "Salvage নমুনার সুপারিশের বাক্যটা ছাপায় এলোমেলো; অর্থ: cartridge রেখে দিন অন্য printer-এর জন্য।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Store ask up cartridge for",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "other for other floor model",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Store ask up cartridge for other for other floor model printers."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c06-p29-salvage-report"
+      ],
+      "text": "The salvage sample's recommendation is garbled in the PDF. It seems to mean: store the cartridge for other floor model printers.",
+      "tone": "caution"
+    }
+  ],
+  "highlighted": false,
+  "id": "maintenance-reporting-documentation",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "পরিদর্শনের প্রতিবেদন",
+      "en": "Inspection report"
+    },
+    {
+      "bn": "report পেয়ে কী করতে হয়",
+      "en": "Reporting process"
+    },
+    {
+      "bn": "পরিদর্শন লিখিতভাবে করার ধাপ",
+      "en": "Documentation process"
+    },
+    {
+      "bn": "যন্ত্র নষ্ট হলে তার প্রতিবেদন",
+      "en": "Breakdown/repair report"
+    },
+    {
+      "bn": "বাতিল বা উদ্বৃত্ত অংশের প্রতিবেদন",
+      "en": "Salvage Report"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Analysing the report.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Analysing the report."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Investigate condition of Facilities based on the inspection report and in conformance with standards.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Investigate condition of Facilities based on the inspection report and in conformance with standards."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Prepare repair improvement schedule to correct malfunctions and",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "damages. (if any)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Prepare repair improvement schedule to correct malfunctions and damages (if any)."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Install continuous maintenance of facilities.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Install continuous maintenance of facilities."
+      }
+    ],
+    "itemsBn": [
+      "প্রথমে report-টা ভালো করে পড়ে বিশ্লেষণ (analyse) করুন।",
+      "Report আর standards অনুযায়ী facilities-এর আসল অবস্থা সরেজমিনে যাচাই করুন।",
+      "কোনো ত্রুটি বা ক্ষতি থাকলে তা ঠিক করতে repair improvement schedule বানান।",
+      "এরপর facilities-এর continuous maintenance চালু রাখুন।"
+    ],
+    "title": "Reporting process: how you act on the inspection report",
+    "titleBn": "Inspection report পেয়ে করণীয় (reporting process)"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 27,
+        "printedPage": 27,
+        "quote": "You act based on the inspection report by;",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "In the reporting process, you act based on the inspection report."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Inspection Report Template Area/Section Practical Work Area/Computer Laboratory In-Charge Name: FACILITY TYPE INCIDENT ACTION PROGRESS/REMARKS TAKEN",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Inspection Report",
+          "right": "Incident and action taken"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Sample Template; Breakdown /repair report. Area/Section Practical work area/ laboratory area In-Charge Name: Facility Type Nature of break down",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Breakdown/repair report",
+          "right": "Nature of break down"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Sample Template: for Salvage Report Area/Section Practical Work Area/Laboratory Personnel Name: Facility Type PART ID",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Salvage Report",
+          "right": "Part ID"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "5. Prepare and submit inspection report.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Last assessment step",
+          "right": "Prepare and submit inspection report"
+        }
+      ],
+      "prompt": "Match each CBLM 6 report with a column it contains."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 29,
+        "printedPage": 29,
+        "quote": "1. Verify quality characteristics standards.",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Verify quality characteristics standards",
+        "Prepare and submit inspection report",
+        "Install continuous maintenance of facilities",
+        "Send the equipment to the service center"
+      ],
+      "prompt": "What is the first step of the documentation (assessment) process?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Analysing the report.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Analysing the report."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Investigate condition of Facilities based on the inspection report and in conformance with standards.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Investigate condition of Facilities based on the inspection report and in conformance with standards."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Prepare repair improvement schedule to correct malfunctions and",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "damages. (if any)",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Prepare repair improvement schedule to correct malfunctions and damages (if any)."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Install continuous maintenance of facilities.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Install continuous maintenance of facilities."
+        }
+      ],
+      "marks": 4,
+      "modelAnswer": "You act based on the inspection report by:\n1. Analysing the report.\n2. Investigating the condition of facilities against the report and standards.\n3. Preparing a repair improvement schedule to correct malfunctions and damages (if any).\n4. Installing continuous maintenance of facilities.",
+      "prompt": "Describe the reporting process after a facility inspection."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "You act based on the inspection report by;",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Analysing the report.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "You act on it, first by analysing the report."
+      },
+      "prompt": "What do you do first when you receive an inspection report?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Reporting Process and Documentation Process (Inspection Reports)",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 29,
+          "printedPage": 29,
+          "quote": "1. Verify quality characteristics standards.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 29,
+          "printedPage": 29,
+          "quote": "5. Prepare and submit inspection report.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Assessment starts by verifying quality characteristics standards. It ends with submitting the inspection report."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 28,
+          "printedPage": 28,
+          "quote": "Inspection Report Template",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 28,
+          "printedPage": 28,
+          "quote": "FACILITY TYPE INCIDENT ACTION PROGRESS/REMARKS TAKEN",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The Inspection Report Template lists facility type, incident, action taken and progress/remarks."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 29,
+          "printedPage": 29,
+          "quote": "Sample Template; Breakdown /repair report.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 29,
+          "printedPage": 29,
+          "quote": "Facility Type Nature of break down Recommendations",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The breakdown/repair report template lists facility type, nature of break down and recommendations."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 29,
+          "printedPage": 29,
+          "quote": "Sample Template: for Salvage Report",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 29,
+          "printedPage": 29,
+          "quote": "Facility Type PART ID RECOMMENDATION",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The salvage report template lists facility type, part ID and recommendation."
+    }
+  ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Verify quality characteristics standards.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Verify quality characteristics standards."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Create and set standard value for inspection.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Create and set standard value for inspection."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Prepare inspection check list based on standards.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Prepare inspection check list based on standards."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Assess condition of facilities based on inspection and check list and maintenance program.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Assess condition of facilities based on inspection and check list and maintenance program."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 29,
+            "printedPage": 29,
+            "quote": "Prepare and submit inspection report.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Prepare and submit inspection report."
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "আগে quality characteristics-এর standards যাচাই করুন।",
+      "Inspection-এর জন্য standard value ঠিক করে দিন।",
+      "Standards অনুযায়ী inspection check list তৈরি করুন।",
+      "Inspection, check list আর maintenance program দেখে facilities-এর অবস্থা assess করুন।",
+      "শেষে inspection report তৈরি করে জমা দিন।"
+    ],
+    "title": "Documentation process: assessment steps (p.29)",
+    "title_bn": "Documentation process: assessment-এর পাঁচ ধাপ"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

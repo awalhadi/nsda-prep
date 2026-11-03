@@ -1,0 +1,695 @@
+{
+  "aliases": [
+    "Stores manager",
+    "Storage racks",
+    "Mezzanine floor storage",
+    "Considerations for storage on a mezzanine floor"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 22,
+          "printed": 22
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "বড় store থাকলে একজন stores manager লাগতে পারে; তিনি tools, equipment আর materials চিহ্নিত করা, বাছাই ও ফেরত দেখাশোনা করেন।",
+    "ছোট department বা প্রশিক্ষণ কেন্দ্রে এই দায়িত্ব instructor বা teacher-এর নিজের; equipment maintained বা replaced হচ্ছে কি না তিনি দেখেন।",
+    "Storage racks মজবুত হবে আর সর্বোচ্চ load সহ্য করার মতো করে বানানো হবে; বিপজ্জনক জিনিসের rack compatible materials দিয়ে হবে।",
+    "Store যদি mezzanine floor-এ থাকে, তাহলে চারটি বিষয় মানতে হয়: security, পথ খালি রাখা, ভারী জিনিস নামানোর বিকল্প উপায়, আর বিপজ্জনক জিনিস নিরাপদে সরানো।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "Polytechnic-এর mezzanine store থেকে ভারী vice সিঁড়ি দিয়ে নয়, hoist দিয়ে নামানো হয়।",
+    "en": "A polytechnic keeps its store on a mezzanine. Heavy vices go down by a hoist, not the stairs."
+  },
+  "extra": [
+    {
+      "bn": [
+        "প্রতিটি জিনিসের নির্দিষ্ট, চিহ্নিত জায়গা থাকলে session শেষে হারানো জিনিস সাথে সাথে ধরা পড়ে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "A secure, permanent, clearly marked storage place for each item allows for easy",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "checking of missing equipment at the end of each session",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A secure, permanent, clearly marked place for each item eases checking missing equipment."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "as well as allowing for",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "smooth running of the workshop throughout the learning activity time.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It also allows smooth running of the workshop throughout the learning activity time."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p22-permanent-storage-place"
+      ]
+    },
+    {
+      "bn": [
+        "বড় store-এ stores manager; ছোট department-এ দায়িত্ব instructor-এর — card-এর তুলনা দেখুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "A well-organized storage facility may require the appointment of a stores manager to",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "supervise the identification, selection and return of tools, equipment and materials.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Stores manager supervises identification, selection and return of tools, equipment and materials."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p22-stores-manager"
+      ]
+    },
+    {
+      "bn": [
+        "Rack থাকলে store-এর জায়গা ভালোভাবে কাজে লাগে; rack মজবুত আর ভার সহ্য করার মতো হবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "A stores area will normally be equipped with racks so that space can be efficiently",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "utilized.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A stores area normally has racks so space is used efficiently."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p22-storage-racks"
+      ]
+    },
+    {
+      "bn": [
+        "Mezzanine = নিচতলা আর দোতলার মাঝে অর্ধেক তলা; সেখানে store হলে চারটি নিয়ম (card-এর তালিকা)।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "If the workshop storage section is situated on a mezzanine floor",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "If the workshop storage section is situated on a mezzanine floor"
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p22-mezzanine"
+      ]
+    }
+  ],
+  "highlighted": false,
+  "id": "stores-racks-mezzanine",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "store-এর দায়িত্বপ্রাপ্ত ব্যক্তি",
+      "en": "Stores manager"
+    },
+    {
+      "bn": "জিনিস রাখার তাক",
+      "en": "Storage racks"
+    },
+    {
+      "bn": "যে উপাদান বিপজ্জনক জিনিসের সাথে বিক্রিয়া করে না",
+      "en": "Compatible materials"
+    },
+    {
+      "bn": "নিচতলা আর দোতলার মাঝের অর্ধেক তলা",
+      "en": "Mezzanine floor"
+    },
+    {
+      "bn": "ঢোকা ও বের হওয়ার পথ",
+      "en": "Access and egress routes"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "security arrangements are maintained",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "security arrangements are maintained"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "access and egress routes are kept clear",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "access and egress routes are kept clear"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "alternative adequate procedures are available for the movement of heavy items, other than up and down stairways",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Alternative adequate procedures are available for the movement of heavy items, other than stairways."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "safe procedures are followed for the movement of dangerous materials",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "safe procedures are followed for the movement of dangerous materials"
+      }
+    ],
+    "itemsBn": [
+      "Store-এর security ব্যবস্থা বজায় রাখতে হবে।",
+      "ঢোকা ও বের হওয়ার পথ (access and egress routes) সবসময় খালি রাখতে হবে।",
+      "ভারী জিনিস ওঠানো-নামানোর জন্য শুধু সিঁড়ি নয়, অন্য উপযুক্ত procedure থাকতে হবে।",
+      "বিপজ্জনক (dangerous) materials সরানোর সময় safe procedures মানতে হবে।"
+    ],
+    "title": "Considerations when the workshop storage section is on a mezzanine floor",
+    "titleBn": "Mezzanine floor-এ store থাকলে যা মানতে হয়"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 22,
+        "printedPage": 22,
+        "quote": "A well-organized storage facility may require the appointment of a stores manager",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "A well-organized storage facility may require the appointment of a stores manager."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "supervise the identification, selection and return of tools, equipment and materials.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Stores manager",
+          "right": "Supervises identification, selection and return of tools"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "Storage racks must be structurally sound and designed for the maximum",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Storage racks",
+          "right": "Structurally sound, designed for the maximum load"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "Racks on which dangerous materials are placed must be constructed using",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Racks for dangerous materials",
+          "right": "Compatible materials"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "access and egress routes are kept clear",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Mezzanine store",
+          "right": "Access and egress routes kept clear"
+        }
+      ],
+      "prompt": "Match each storage term with what CBLM 6 says."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 22,
+        "printedPage": 22,
+        "quote": "that is, a half-storey placed between the ground floor of the building and the second storey",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "answerIndex": 0,
+      "options": [
+        "A half-storey between the ground floor and the second storey",
+        "A locked room for poisonous materials",
+        "A fixed board showing the shapes of hand tools",
+        "A waste zone beside the workshop"
+      ],
+      "prompt": "What is a mezzanine floor?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "security arrangements are maintained",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "security arrangements are maintained"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "access and egress routes are kept clear",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "access and egress routes are kept clear"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "alternative adequate procedures are available for the movement of heavy items, other than up and down stairways",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Alternative adequate procedures are available for the movement of heavy items, other than stairways."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "safe procedures are followed for the movement of dangerous materials",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "safe procedures are followed for the movement of dangerous materials"
+        }
+      ],
+      "marks": 4,
+      "modelAnswer": "A mezzanine floor is a half-storey between the ground floor and the second storey. If the store is there:\n1. Security arrangements are maintained.\n2. Access and egress routes are kept clear.\n3. Alternative adequate procedures are available to move heavy items, other than stairways.\n4. Safe procedures are followed to move dangerous materials.",
+      "prompt": "What should be considered if the workshop storage section is on a mezzanine floor?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "be the responsibility of the individual instructor or",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "teacher to monitor these issues.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The individual instructor or teacher monitors these issues."
+      },
+      "prompt": "Who monitors the stores in a small training center?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Storage Considerations: Stores Manager, Racks and Mezzanine Storage",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 22,
+          "printedPage": 22,
+          "quote": "a half-storey",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 22,
+          "printedPage": 22,
+          "quote": "placed between the ground floor of the building and the second storey",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "A mezzanine floor is a half-storey between the ground floor and the second storey."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 22,
+          "printedPage": 22,
+          "quote": "in small departments or training centers it is not likely that this situation will",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 22,
+          "printedPage": 22,
+          "quote": "be the responsibility of the individual instructor or",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 22,
+          "printedPage": 22,
+          "quote": "teacher to monitor these issues.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "In small departments, the individual instructor or teacher monitors these issues."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 22,
+          "printedPage": 22,
+          "quote": "Storage racks must be structurally sound and designed for the maximum",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Storage racks must be structurally sound and designed for the maximum load."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 22,
+          "printedPage": 22,
+          "quote": "Racks on which dangerous materials are placed must be constructed using",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 22,
+          "printedPage": 22,
+          "quote": "compatible materials.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Racks for dangerous materials must be constructed using compatible materials."
+    }
+  ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "supervise the identification, selection and return of tools, equipment and materials.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Supervises the identification, selection and return of tools, equipment and materials."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "The manager's task would also include continuing maintenance of the stores in the",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "form of repairs and replacement.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The task includes continuing maintenance of the stores, in the form of repairs and replacement."
+        }
+      ],
+      "title": "Large store: stores manager",
+      "title_bn": "বড় store: stores manager"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "be the responsibility of the individual instructor or",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "teacher to monitor these issues.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The individual instructor or teacher monitors these issues."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "system in place that allows the teacher to ensure that equipment is",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "maintained/replaced.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A system lets the teacher ensure equipment is maintained or replaced."
+        }
+      ],
+      "title": "Small department: instructor or teacher",
+      "title_bn": "ছোট department: instructor নিজে"
+    },
+    "title": "Who looks after the stores? (p.22)",
+    "title_bn": "Store-এর দেখাশোনা কে করে?"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

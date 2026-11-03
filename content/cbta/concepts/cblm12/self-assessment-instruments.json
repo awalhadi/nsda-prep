@@ -66,6 +66,74 @@
     "en": "A welding trainee reads each performance criterion and ticks Yes or No. Then he signs the form.",
     "bn": "ওয়েল্ডিং trainee প্রতিটি criteria-র পাশে Yes বা No টিক দিয়ে শেষে সই করে।"
   },
+  "list_answer": {
+    "title": "Parts of a self assessment instrument",
+    "title_bn": "Self assessment instrument-এর অংশগুলো",
+    "items": [
+      {
+        "text": "The unit title, for example TRAWEL10014A Perform Shielded Metal Arc Welding.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 16,
+            "quote": "Unit: TRAWEL10014A Perform Shielded Metal Arc Welding-Position 1G , 2G"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "'Can you...' performance criteria.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 16,
+            "quote": "Can you... Performance Criteria"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Yes or No against each performance criteria.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 16,
+            "quote": "Performance Criteria Yes No"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "I now feel ready to undertake my formal competency assessment.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 16,
+            "quote": "I now feel ready to undertake my formal competency assessment."
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Signature of the candidate and date.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 16,
+            "quote": "Signature of the candidate: Date:"
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    ],
+    "items_bn": [
+      "উপরে unit-এর শিরোনাম থাকে, যেমন TRAWEL10014A Perform Shielded Metal Arc Welding।",
+      "'Can you...' দিয়ে প্রতিটি performance criteria প্রশ্ন আকারে লেখা থাকে।",
+      "প্রতিটি performance criteria-র পাশে candidate নিজে Yes বা No দেয়।",
+      "শেষে candidate লেখে যে সে এখন formal competency assessment-এর জন্য ready।",
+      "Candidate সই করে তারিখ দেয় — এটাই তার readiness-এর লিখিত ঘোষণা।"
+    ]
+  },
   "traps": [
     {
       "text": "Self assessment checks readiness. It is not the formal assessment itself.",
@@ -100,6 +168,63 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Example of a self assessment instrument (p.16, extract)",
+    "title_bn": "Self assessment ফর্মের নমুনা",
+    "columns": [
+      "Can you... (performance criteria)",
+      "Yes",
+      "No"
+    ],
+    "rows": [
+      [
+        {
+          "text": "3.1 Materials are selected",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 16,
+              "quote": "3.1 Materials are selected"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        "☐",
+        "☐"
+      ],
+      [
+        {
+          "text": "3.4 Materials are assembled and aligned with required gap.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 16,
+              "quote": "3.4 Materials are assembled and aligned with required gap."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        "☐",
+        "☐"
+      ],
+      [
+        {
+          "text": "4.1 Job is set up using a clamp at required position (1G or 2G)",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 16,
+              "quote": "4.1 Job is set up using a clamp at required position (1G or 2G)"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        "☐",
+        "☐"
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Why does an assessor administrate a self assessment instrument?",

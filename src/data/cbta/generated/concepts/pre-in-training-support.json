@@ -9,6 +9,14 @@
       "cblm": 1,
       "pages": [
         {
+          "pdf": 50,
+          "printed": 50
+        },
+        {
+          "pdf": 51,
+          "printed": 51
+        },
+        {
           "pdf": 53,
           "printed": 53
         }
@@ -17,10 +25,11 @@
     }
   ],
   "banglaExplanation": [
-    "কিছু client-এর বাড়তি সহায়তা লাগে, যেমন ভাষা, প্রতিবন্ধিতা বা সংস্কৃতির কারণে।",
-    "Training শুরুর আগে: learning objectives-কে work trends-এর সাথে মেলানো, financial assistance-এর পরামর্শ দেওয়া।",
-    "Training চলাকালীন: appropriate delivery methods, clients-কে একে অপরের থেকে শিখতে দেওয়া, diversity activities।",
-    "প্রশ্নে যেকোনো পাঁচটা চাইলে দুই ভাগ থেকেই লিখুন।"
+    "কিছু client-এর বাড়তি সহায়তা লাগে: সংস্কৃতি, disability বা ভাষা/literacy/numeracy-র কারণে।",
+    "Pre-training support (১৬টি) দেওয়া হয় training শুরুর আগে; in-training support (১২টি) দেওয়া হয় training চলাকালীন।",
+    "শুরুর আগে: work trends, financial assistance, large print materials, flexibility in scheduling ইত্যাদি।",
+    "চলাকালীন: appropriate delivery methods, interpreters, referrals, simulated workplaces ইত্যাদি।",
+    "প্রশ্নে যেকোনো পাঁচটা চাইলে দুই কলাম থেকেই কয়েকটা করে লিখুন।"
   ],
   "breakdown": {
     "exam": 2,
@@ -33,6 +42,378 @@
     "bn": "শুরুর আগে large print materials, চলাকালীন interpreters রাখা।",
     "en": "Before training, a centre gives a deaf learner materials in large print. During training, it organizes an interpreter."
   },
+  "extra": [
+    {
+      "bn": [
+        "প্রথমে client-এর সাথে কথা বলে আর তার দেওয়া তথ্য বিশ্লেষণ করে বুঝুন বাড়তি সহায়তা লাগবে কি না।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Have processes",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "identify whether",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "clients it",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "require additional support to enhance their",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "learning",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Have processes to identify whether clients require additional support to enhance their learning."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "These processes",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "include discussions with the client",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "an analysis of",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "information they provide",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "These processes include discussions with the client and an analysis of information they provide."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Additional support",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "involves the cultural, disability and language/literacy/numeracy needs of the client",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Additional support involves the cultural, disability and language/literacy/numeracy needs of the client."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p50-information-4",
+        "c01-p50-support-processes",
+        "c01-p50-pre-training-support"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Incorporate appropriate delivery",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "methods align",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Incorporate appropriate delivery methods"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Ensure physical and communication",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "support to",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Ensure physical and communication support"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Allow clients to learn from each other",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Allow clients to learn from each other"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Allow clients to provide direction",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Allow clients to provide direction"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Build in diversity activities",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Build in diversity activities"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Challenge subtle discrimination",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Challenge subtle discrimination"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Adapt the way instruction is delivered",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Adapt the way instruction is delivered"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Organize for interpreters to be present",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Organize for interpreters to be present"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Provide referrals to language, literacy",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "and numeracy support units and",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "programs",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Provide referrals to language, literacy and numeracy support units and programs"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Provide referrals to disability support services",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Provide referrals to disability support services"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Provide referrals to counseling support services",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Provide referrals to counseling support services"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Provide simulated workplaces",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Provide simulated workplaces"
+        }
+      ],
+      "items_bn": [
+        "Training-এ উপযুক্ত delivery methods ব্যবহার করা।",
+        "শারীরিক ও যোগাযোগের সহায়তা নিশ্চিত করা।",
+        "Clients-কে একে অপরের থেকে শিখতে দেওয়া।",
+        "Clients-কে দিকনির্দেশনা দিতে দেওয়া।",
+        "বৈচিত্র্যভিত্তিক (diversity) activities রাখা।",
+        "সূক্ষ্ম বৈষম্য (subtle discrimination) চ্যালেঞ্জ করা।",
+        "Instruction দেওয়ার পদ্ধতি বদলানো।",
+        "প্রয়োজনে interpreters রাখার ব্যবস্থা করা।",
+        "ভাষা, literacy ও numeracy সহায়তা কেন্দ্রে পাঠানো (referral)।",
+        "Disability support services-এ পাঠানো।",
+        "Counseling support services-এ পাঠানো।",
+        "Simulated workplaces-এ অনুশীলনের সুযোগ দেওয়া।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c01-p50-in-training-support"
+      ],
+      "title": "In-Training Support (p.50)",
+      "title_bn": "Training চলাকালীন ১২টি সহায়তা"
+    }
+  ],
   "highlighted": false,
   "id": "pre-in-training-support",
   "importance": {
@@ -60,7 +441,316 @@
   "likelyTypes": [
     "short"
   ],
-  "listAnswer": null,
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Ensure learning objectives relate to",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "work trends",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Ensure learning objectives relate to work trends"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Align training to organizational",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "protocols",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Align training to organizational protocols"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Provide advice on financial assistance",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Provide advice on financial assistance"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Allow client representation on",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "committees",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Allow client representation on committees"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Build underpinning knowledge into materials",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Build underpinning knowledge into materials"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Develop materials in large print",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Develop materials in large print"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Listen to problems and help within",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "your limits",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Listen to problems and help within your limits"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Provide flexibility in training",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "scheduling",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Provide flexibility in training scheduling"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Use adaptive technology",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Use adaptive technology"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Modify the tasks clients are expected to learn",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Modify the tasks clients are expected to learn"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Extend the time allowed for learning",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Extend the time allowed for learning"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Increase personal assistance to clients",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Increase personal assistance to clients"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Modify how clients can respond to instruction",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Modify how clients can respond to instruction"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 50,
+            "printedPage": 50,
+            "quote": "Vary the extent to which clients can be involved",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Vary the extent to which clients can be involved"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 51,
+            "printedPage": 51,
+            "quote": "Adjust learning goals and outcomes",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Adjust learning goals and outcomes"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 51,
+            "printedPage": 51,
+            "quote": "Adapt the way clients can approach training",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Adapt the way clients can approach training"
+      }
+    ],
+    "itemsBn": [
+      "Learning objectives যেন বাজারের work trends-এর সাথে মেলে, তা নিশ্চিত করা।",
+      "Training-কে প্রতিষ্ঠানের organizational protocols (নিয়মকানুন) অনুযায়ী সাজানো।",
+      "দরকার হলে financial assistance (আর্থিক সাহায্য) পাওয়ার পরামর্শ দেওয়া।",
+      "Committees-এ client-দের প্রতিনিধি রাখতে দেওয়া, যাতে তাদের কথাও শোনা হয়।",
+      "Materials-এর মধ্যেই underpinning knowledge (ভিত্তি জ্ঞান) যোগ করে দেওয়া।",
+      "চোখে কম দেখেন এমন learner-এর জন্য large print-এ materials তৈরি করা।",
+      "Client-এর problems মন দিয়ে শোনা আর নিজের limits-এর মধ্যে সাহায্য করা।",
+      "Training scheduling-এ flexibility রাখা, যাতে সবাই সময় মেলাতে পারে।",
+      "প্রয়োজনে adaptive technology (বিশেষ সহায়ক প্রযুক্তি) ব্যবহার করা।",
+      "Client-কে যা শিখতে হবে, সেই tasks প্রয়োজনমতো বদলে নেওয়া।",
+      "শেখার জন্য বরাদ্দ time বাড়িয়ে দেওয়া।",
+      "Client-কে personal assistance (ব্যক্তিগত সাহায্য) বেশি দেওয়া।",
+      "Instruction-এ client কীভাবে respond করবে (যেমন মুখে বা লিখে), তা বদলে দেওয়া।",
+      "Client কতটা involved থাকবে, তা প্রয়োজন অনুযায়ী কমবেশি করা।",
+      "Learning goals and outcomes প্রয়োজনমতো adjust করা।",
+      "Client কোন পথে training-এ আসবে, সেই পথ বদলে নেওয়া (adapt)।"
+    ],
+    "title": "Pre-training supports a TVET teacher gives to clients",
+    "titleBn": "Training শুরুর আগের ১৬টি সহায়তা"
+  },
   "mnemonic": null,
   "oneLineAnswer": {
     "cites": [
@@ -77,7 +767,7 @@
     "fidelity": "paraphrase",
     "text": "A TVET teacher gives pre-training and in-training supports to his clients."
   },
-  "openChecks": 1,
+  "openChecks": 0,
   "practice": {
     "matching": {
       "pairs": [
@@ -162,27 +852,36 @@
             {
               "cblm": 1,
               "match": "exact",
-              "page": 53,
-              "printedPage": 53,
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Pre-training",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "ensure learning objectives relate to",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "work trends",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
               "quote": "Pre-Training Support",
-              "sourceTitle": "Work effectively within TVET Sector",
-              "src": "cblm01"
-            },
-            {
-              "cblm": 1,
-              "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "Ensure learning objectives relate to",
-              "sourceTitle": "Work effectively within TVET Sector",
-              "src": "cblm01"
-            },
-            {
-              "cblm": 1,
-              "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "delivery work trends",
               "sourceTitle": "Work effectively within TVET Sector",
               "src": "cblm01"
             }
@@ -195,126 +894,102 @@
             {
               "cblm": 1,
               "match": "exact",
-              "page": 53,
-              "printedPage": 53,
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Pre-training",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "provide advice on financial assistance",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
               "quote": "Pre-Training Support",
-              "sourceTitle": "Work effectively within TVET Sector",
-              "src": "cblm01"
-            },
-            {
-              "cblm": 1,
-              "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "Align training to organizational",
-              "sourceTitle": "Work effectively within TVET Sector",
-              "src": "cblm01"
-            },
-            {
-              "cblm": 1,
-              "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "Ensure physical and protocols",
               "sourceTitle": "Work effectively within TVET Sector",
               "src": "cblm01"
             }
           ],
           "fidelity": "paraphrase",
-          "text": "Pre-training: align training to organizational protocols."
+          "text": "Pre-training: provide advice on financial assistance."
         },
         {
           "cites": [
             {
               "cblm": 1,
               "match": "exact",
-              "page": 53,
-              "printedPage": 53,
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Pre-training",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "develop materials in large print",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
               "quote": "Pre-Training Support",
-              "sourceTitle": "Work effectively within TVET Sector",
-              "src": "cblm01"
-            },
-            {
-              "cblm": 1,
-              "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "Allow client representation on",
-              "sourceTitle": "Work effectively within TVET Sector",
-              "src": "cblm01"
-            },
-            {
-              "cblm": 1,
-              "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "other committees",
               "sourceTitle": "Work effectively within TVET Sector",
               "src": "cblm01"
             }
           ],
           "fidelity": "paraphrase",
-          "text": "Pre-training: allow client representation on committees."
+          "text": "Pre-training: develop materials in large print."
         },
         {
           "cites": [
             {
               "cblm": 1,
               "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "Pre-Training Support",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "In-training",
               "sourceTitle": "Work effectively within TVET Sector",
               "src": "cblm01"
             },
             {
               "cblm": 1,
               "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "Build underpinning knowledge into",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "incorporate appropriate delivery",
               "sourceTitle": "Work effectively within TVET Sector",
               "src": "cblm01"
             },
             {
               "cblm": 1,
               "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "Build in diversity activities materials",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "methods align",
               "sourceTitle": "Work effectively within TVET Sector",
               "src": "cblm01"
-            }
-          ],
-          "fidelity": "paraphrase",
-          "text": "Pre-training: build underpinning knowledge into materials."
-        },
-        {
-          "cites": [
+            },
             {
               "cblm": 1,
               "match": "exact",
-              "page": 53,
-              "printedPage": 53,
+              "page": 50,
+              "printedPage": 50,
               "quote": "In-Training Support",
-              "sourceTitle": "Work effectively within TVET Sector",
-              "src": "cblm01"
-            },
-            {
-              "cblm": 1,
-              "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "Incorporate appropriate delivery",
-              "sourceTitle": "Work effectively within TVET Sector",
-              "src": "cblm01"
-            },
-            {
-              "cblm": 1,
-              "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "work trends methods",
               "sourceTitle": "Work effectively within TVET Sector",
               "src": "cblm01"
             }
@@ -327,93 +1002,69 @@
             {
               "cblm": 1,
               "match": "exact",
-              "page": 53,
-              "printedPage": 53,
+              "page": 50,
+              "printedPage": 50,
+              "quote": "In-training",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "organize for interpreters to be present",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
               "quote": "In-Training Support",
-              "sourceTitle": "Work effectively within TVET Sector",
-              "src": "cblm01"
-            },
-            {
-              "cblm": 1,
-              "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "Ensure physical and",
-              "sourceTitle": "Work effectively within TVET Sector",
-              "src": "cblm01"
-            },
-            {
-              "cblm": 1,
-              "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "communication support",
               "sourceTitle": "Work effectively within TVET Sector",
               "src": "cblm01"
             }
           ],
           "fidelity": "paraphrase",
-          "text": "In-training: ensure physical and communication support."
+          "text": "In-training: organize for interpreters to be present."
         },
         {
           "cites": [
             {
               "cblm": 1,
               "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "In-Training Support",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "In-training",
               "sourceTitle": "Work effectively within TVET Sector",
               "src": "cblm01"
             },
             {
               "cblm": 1,
               "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "Allow clients to learn from each",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "provide simulated workplaces",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "In-Training Support",
               "sourceTitle": "Work effectively within TVET Sector",
               "src": "cblm01"
             }
           ],
           "fidelity": "paraphrase",
-          "text": "In-training: allow clients to learn from each other."
-        },
-        {
-          "cites": [
-            {
-              "cblm": 1,
-              "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "In-Training Support",
-              "sourceTitle": "Work effectively within TVET Sector",
-              "src": "cblm01"
-            },
-            {
-              "cblm": 1,
-              "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "Allow clients to provide direction",
-              "sourceTitle": "Work effectively within TVET Sector",
-              "src": "cblm01"
-            },
-            {
-              "cblm": 1,
-              "match": "exact",
-              "page": 53,
-              "printedPage": 53,
-              "quote": "Build in diversity activities",
-              "sourceTitle": "Work effectively within TVET Sector",
-              "src": "cblm01"
-            }
-          ],
-          "fidelity": "paraphrase",
-          "text": "In-training: allow clients to provide direction, and build in diversity activities."
+          "text": "In-training: provide simulated workplaces."
         }
       ],
-      "modelAnswer": "A TVET teacher gives pre-training and in-training supports.\nPre-training support:\n1. Ensure learning objectives relate to work trends\n2. Align training to organizational protocols\n3. Provide advice on financial assistance\nIn-training support:\n4. Incorporate appropriate delivery methods\n5. Allow clients to learn from each other\n6. Build in diversity activities",
+      "modelAnswer": "A TVET teacher gives pre-training and in-training supports to his clients.\nPre-training support:\n1. Ensure learning objectives relate to work trends\n2. Provide advice on financial assistance\n3. Develop materials in large print\nIn-training support:\n4. Incorporate appropriate delivery methods\n5. Organize for interpreters to be present\n6. Provide simulated workplaces",
       "prompt": "Discuss any five pre-training and in-training supports by a TVET teacher to his clients."
     },
     "viva": {
@@ -460,7 +1111,7 @@
   ],
   "score": 3,
   "sourceType": "cblm",
-  "stars": 1,
+  "stars": 2,
   "status": "draft",
   "title": "Pre-Training and In-Training Support for Clients",
   "traps": [
@@ -469,50 +1120,592 @@
         {
           "cblm": 1,
           "match": "exact",
-          "page": 53,
-          "printedPage": 53,
-          "quote": "Pre-Training Support",
+          "page": 50,
+          "printedPage": 50,
+          "quote": "Provide advice on financial assistance",
           "sourceTitle": "Work effectively within TVET Sector",
           "src": "cblm01"
         },
         {
           "cblm": 1,
           "match": "exact",
-          "page": 53,
-          "printedPage": 53,
-          "quote": "Provide advice on financial assistance",
+          "page": 50,
+          "printedPage": 50,
+          "quote": "pre-training support",
           "sourceTitle": "Work effectively within TVET Sector",
           "src": "cblm01"
         }
       ],
       "fidelity": "paraphrase",
-      "text": "Pre-training support: provide advice on financial assistance."
+      "text": "Provide advice on financial assistance is a pre-training support."
     },
     {
       "cites": [
         {
           "cblm": 1,
           "match": "exact",
-          "page": 53,
-          "printedPage": 53,
-          "quote": "In-Training Support",
+          "page": 50,
+          "printedPage": 50,
+          "quote": "Organize for interpreters to be present",
           "sourceTitle": "Work effectively within TVET Sector",
           "src": "cblm01"
         },
         {
           "cblm": 1,
           "match": "exact",
-          "page": 53,
-          "printedPage": 53,
-          "quote": "Organize for interpreters to be Provide flexibility in training scheduling present",
+          "page": 50,
+          "printedPage": 50,
+          "quote": "in-training support",
           "sourceTitle": "Work effectively within TVET Sector",
           "src": "cblm01"
         }
       ],
       "fidelity": "paraphrase",
-      "text": "In-training support: organize for interpreters to be present."
+      "text": "Organize for interpreters to be present is an in-training support."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 50,
+          "printedPage": 50,
+          "quote": "Use adaptive technology",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        },
+        {
+          "cblm": 1,
+          "match": "exact",
+          "page": 50,
+          "printedPage": 50,
+          "quote": "pre-training support",
+          "sourceTitle": "Work effectively within TVET Sector",
+          "src": "cblm01"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Use adaptive technology is a pre-training support."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Ensure learning objectives relate to",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "work trends",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Ensure learning objectives relate to work trends"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Align training to organizational",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "protocols",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Align training to organizational protocols"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Provide advice on financial assistance",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Provide advice on financial assistance"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Allow client representation on",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "committees",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Allow client representation on committees"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Build underpinning knowledge into materials",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Build underpinning knowledge into materials"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Develop materials in large print",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Develop materials in large print"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Listen to problems and help within",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "your limits",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Listen to problems and help within your limits"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Provide flexibility in training",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "scheduling",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Provide flexibility in training scheduling"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Use adaptive technology",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Use adaptive technology"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Modify the tasks clients are expected to learn",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Modify the tasks clients are expected to learn"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Extend the time allowed for learning",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Extend the time allowed for learning"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Increase personal assistance to clients",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Increase personal assistance to clients"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Modify how clients can respond to instruction",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Modify how clients can respond to instruction"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Vary the extent to which clients can be involved",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Vary the extent to which clients can be involved"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 51,
+              "printedPage": 51,
+              "quote": "Adjust learning goals and outcomes",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Adjust learning goals and outcomes"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 51,
+              "printedPage": 51,
+              "quote": "Adapt the way clients can approach training",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Adapt the way clients can approach training"
+        }
+      ],
+      "title": "Pre-Training Support (16)",
+      "title_bn": "Training শুরুর আগে"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Incorporate appropriate delivery",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "methods align",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Incorporate appropriate delivery methods"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Ensure physical and communication",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "support to",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Ensure physical and communication support"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Allow clients to learn from each other",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Allow clients to learn from each other"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Allow clients to provide direction",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Allow clients to provide direction"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Build in diversity activities",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Build in diversity activities"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Challenge subtle discrimination",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Challenge subtle discrimination"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Adapt the way instruction is delivered",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Adapt the way instruction is delivered"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Organize for interpreters to be present",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Organize for interpreters to be present"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Provide referrals to language, literacy",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "and numeracy support units and",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "programs",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Provide referrals to language, literacy and numeracy support units and programs"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Provide referrals to disability support services",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Provide referrals to disability support services"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Provide referrals to counseling support services",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Provide referrals to counseling support services"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Provide simulated workplaces",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Provide simulated workplaces"
+        }
+      ],
+      "title": "In-Training Support (12)",
+      "title_bn": "Training চলাকালীন"
+    },
+    "title": "Pre-training support vs in-training support (p.50-51)",
+    "title_bn": "শুরুর আগে বনাম চলাকালীন সহায়তা"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

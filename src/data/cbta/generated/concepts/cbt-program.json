@@ -33,6 +33,93 @@
     "bn": "প্লাম্বিং কোর্সে যে আগে module শেষ করে, সে আগেই পরের module-এ যায়।",
     "en": "A fast learner in a plumbing course finishes module 1 early. He moves straight to module 2."
   },
+  "extra": [
+    {
+      "bn": [
+        "Competency শুধু হাতের skill নয়, পুরো কাজের performance; নতুন পরিস্থিতিতেও প্রয়োগ করতে পারা।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "Competency is a broad concept that includes all aspects of work performance and",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "not only narrow skills.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Competency is a broad concept: all aspects of work performance, not only narrow skills."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "embodies the ability to transfer",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "and apply skills and knowledge to new situations and environments.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It embodies the ability to transfer and apply skills and knowledge to new situations."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "Under CBT, teachers have to base their",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "process on the application of concepts",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Under CBT, teachers base their process on the application of concepts."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p34-delivery-of-cbt",
+        "c10-p34-cbt-program"
+      ],
+      "title": "Delivery of Competency Based Training"
+    }
+  ],
   "highlighted": true,
   "id": "cbt-program",
   "importance": {
@@ -190,7 +277,17 @@
         "fidelity": "paraphrase",
         "text": "Some programs have fixed timeframes; some have on the job and outside the job components."
       }
-    ]
+    ],
+    "itemsBn": [
+      "CBT program কয়েকটি module নিয়ে গঠিত, আর প্রতিটি module ছোট ছোট অংশে ভাগ করা — এই অংশগুলোকে learning outcomes বলে।",
+      "Module-গুলো industry-র ঠিক করা standards-এর ওপর ভিত্তি করে বানানো, তাই শেখাটা কাজের সাথে মেলে।",
+      "Assessment এমনভাবে করা হয় যাতে নিশ্চিত হয় প্রত্যেক student module-এর সব outcomes অর্জন করেছে।",
+      "CBT-তে এগোনো সময়ের ওপর নির্ভর করে না; কতদিন ক্লাস করল তা নয়, কী অর্জন করল সেটাই আসল।",
+      "একটি module-এর সব শর্ত পূরণ হলেই student পরের module-এ যেতে পারে।",
+      "কিছু program নির্দিষ্ট সময়সীমার (fixed timeframes) মধ্যেই চলে, আর কিছুতে on the job ও outside the job দুই অংশই থাকে।"
+    ],
+    "title": "Features of a competency based training (CBT) program",
+    "titleBn": "CBT program-এর বৈশিষ্ট্য"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -395,6 +492,7 @@
       "text": "The learner gains more control of the learning process than before."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

@@ -65,6 +65,8 @@
     "explain_bn": "প্রতিটি অক্ষর প্রথম সেশনের একটা ধাপ: মনোযোগ, আগের শেখার সাথে link, outcomes, structure, আর আগ্রহ জাগানো।"
   },
   "list_answer": {
+    "title": "Techniques of the GLOSS model for preparing learners",
+    "title_bn": "প্রথম session-এ learner প্রস্তুত করার GLOSS model",
     "items": [
       {
         "text": "Get attention and put at ease: introduce yourself, welcome learners, icebreaker activity.",
@@ -211,6 +213,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Get attention and put at ease — নিজের পরিচয় দিন, learners-কে স্বাগত জানান, আর icebreaker activity দিয়ে জড়তা ভাঙুন।",
+      "Link — আগের শেখা বা জীবনের অভিজ্ঞতার সাথে যোগ করুন, আর এই session পুরো program-এর সাথে কীভাবে যুক্ত তা বুঝিয়ে দিন।",
+      "Outcomes — session-এর goals, learning outcomes আর assessment methods শুরুতেই ব্যাখ্যা ও আলোচনা করুন।",
+      "Structure — content, sequence আর assessment লেখা ছাপানো material learners-এর হাতে দিন, যাতে পুরো কাঠামোটা দেখতে পায়।",
+      "Stimulate motivation — learners কেন এসেছে জিজ্ঞেস করুন, আর session content-কে workplace-এর কাজের সাথে মিলিয়ে আগ্রহ জাগান।"
     ]
   },
   "traps": [
@@ -243,6 +252,132 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "GLOSS components and their key learning principles (p.28)",
+    "title_bn": "GLOSS-এর প্রতিটি অংশ ও তার learning principle",
+    "columns": [
+      "GLOSS component",
+      "Key learning principles"
+    ],
+    "rows": [
+      [
+        "Get attention and put at ease",
+        {
+          "text": "Involvement; Senses",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "Get attention\nInvolvement"
+            },
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "Music as a cue(optional)\nSenses"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Link to previous learning/life experiences",
+        {
+          "text": "Linking; Involvement",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "Link to previous\nLinking"
+            },
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "What is\nInvolvement"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Outcomes of session explained and discussed",
+        {
+          "text": "Sequence; Reward; Linking",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "Outcomes of\nSequence"
+            },
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "learning outcomes should be\nReward"
+            },
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "session need to\nLinking"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Structure of session",
+        {
+          "text": "Sequence; Linking; Feedback; Reward",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "Structure of\nSequence"
+            },
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "content, sequence,\nLinking"
+            },
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "session\nFeedback"
+            },
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "given to learners\nReward"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Stimulate motivation and arouse interest",
+        {
+          "text": "Senses; Involvement; Reward",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "Stimulate\nSenses"
+            },
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "Ask why learners are there\nInvolvement"
+            },
+            {
+              "src": "cblm10",
+              "page": 28,
+              "quote": "motivation and\nReward"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Why is it important to prepare learners, and how can you do it?",

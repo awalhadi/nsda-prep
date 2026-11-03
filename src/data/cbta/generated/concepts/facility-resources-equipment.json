@@ -37,6 +37,855 @@
     "bn": "বই থাকে bookshelves-এ, আর computer/printer ধুলা থেকে দূরে।",
     "en": "In a TVET classroom, text books stay on bookshelves. The computer/printer is placed away from dust."
   },
+  "extra": [
+    {
+      "bn": [
+        "আগের classroom-এ শুধু desk আর blackboard; এখন technology-ভিত্তিক materials, তাই রাখা আর student access-এর নতুন প্রশ্ন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "The type and quantity of learning resources that are",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "used in a workshop or laboratory will also impact on",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "the way the facility will need to be organized.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The type and quantity of learning resources affect how the facility is organized."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "a traditional classroom of the past,",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "used for teaching theory classes,",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "would possibly",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "have had little more equipment than the student",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "desks or tables, a blackboard, and a few cupboards",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A traditional theory classroom had little more than desks, a blackboard and cupboards."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "A teacher-centered or traditional system of training will not involve the",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "issue of \"student access\" to the same degree as a system based on student-centered",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A traditional system will not involve student access to the same degree."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p15-learning-resources-general"
+      ],
+      "title": "General (p.15-16)"
+    },
+    {
+      "bn": [
+        "Resources-এর ১০টি নাম card-এর তালিকায়; equipment-এর ৮টি নিচে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "A list of the learning resources that might need to be accommodated in a learning",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "text books",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "slide / tape presentations • models",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Resources: ten learning resources, from text books to models."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p16-resources-list"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "television set",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "television set"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "DVD player",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "DVD player"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "combination VCR and screen",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "combination VCR and screen"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "audio cassette player",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "audio cassette player"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "slide projector",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "slide projector"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "slide/audio synchronized player",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "slide/audio synchronized player"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "OHP • computer/printer",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "OHP"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "computer/printer",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "computer/printer"
+        }
+      ],
+      "items_bn": [
+        "টেলিভিশন।",
+        "DVD চালানোর যন্ত্র।",
+        "VCR আর পর্দা একসাথে।",
+        "অডিও ক্যাসেট বাজানোর যন্ত্র।",
+        "স্লাইড দেখানোর projector।",
+        "স্লাইড আর অডিও একসাথে চালানোর যন্ত্র।",
+        "ওভারহেড প্রজেক্টর (OHP)।",
+        "কম্পিউটার আর প্রিন্টার।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c06-p16-equipment-list"
+      ],
+      "title": "Equipment required to use these resources",
+      "title_bn": "Resource চালানোর ৮টি equipment"
+    },
+    {
+      "bn": [
+        "পুরোনো slide projector ধুলা-গরমে তেমন নষ্ট হয় না, কিন্তু computer আর VCR হয় — তাই সাবধানে বসাতে হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "Once either electrical or electronic equipment is introduced into the training facility,",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "special consideration needs to be given to the conditions for its efficient and effective",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Electrical or electronic equipment needs special conditions for efficient and effective operation."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "audiocassette recorders are not as sensitive to the",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "environmental factors of dust and heat. However computers",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "and VCRs are, and being much more costly items, require",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "special consideration as to their placement",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Computers and VCRs are costly and sensitive to dust and heat."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "To care for such sensitive and expensive",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "a carefully managed schedule must be implemented, but at the same",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "time allow student access",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A carefully managed schedule cares for sensitive equipment but still allows student access."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p16-placement-storage"
+      ],
+      "title": "Placement and storage (p.16)"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Bookshelves and filing cabinets are probably the most effective ways of storing paper-based learning resources.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Bookshelves and filing cabinets are probably the most effective ways of storing paper-based learning resources."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Hard cover or substantial publications can be accommodated on open",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "shelving if there is not a dust problem. Glass-door book cabinets may be",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Hard cover publications can go on open shelving if dust is not a problem; else glass-door cabinets."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Loose leaf or slim type consumable learning materials like Student",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Worksheets or student workbooks are best stored in filing cabinets.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Loose leaf or slim materials like Student Worksheets are best stored in filing cabinets."
+        }
+      ],
+      "items_bn": [
+        "বই আর কাগজের জন্য bookshelf আর filing cabinet সবচেয়ে কার্যকর।",
+        "শক্ত মলাটের বই খোলা তাকে চলে, ধুলা বেশি হলে কাচের দরজার আলমারি।",
+        "আলগা পাতা বা worksheet filing cabinet-এ সবচেয়ে ভালো থাকে।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c06-p17-paper-based-resources"
+      ],
+      "title": "Storing paper-based resources",
+      "title_bn": "কাগজের resource রাখার নিয়ম"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "they should be housed in the containers that",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "apply to the playing equipment.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Carousel should be kept in the carousel",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "then in the appropriate trays.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "House slides in the containers of the playing equipment, e.g. the carousel or trays."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Trays and carousels can be kept in glass-door cupboard the same or similar",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "to that used for videos and tapes.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Keep trays and carousels in glass-door cupboards, like videos and tapes."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "It is a viable alternative to transfer slides (and the related narration) to video,",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "as the replay equipment is now less expensive than synchronized slide/tape",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Transferring slides and narration to video is a viable alternative; replay is cheaper."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Slides transferred to video also overcome the problem of missing slides, or a",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "tray or carousel of slides being dropped",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Slides on video overcome the problem of missing slides or dropped trays."
+        }
+      ],
+      "items_bn": [
+        "Slide যে যন্ত্রে চলে, তার carousel বা tray-তেই রেখে দিন — সাথে সাথে চালানো যায়।",
+        "Tray আর carousel কাচের দরজার আলমারিতে রাখুন।",
+        "Slide আর বর্ণনা video-তে নিলে খরচ কম।",
+        "Video-তে slide হারায় না, পড়ে গিয়ে এলোমেলোও হয় না।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c06-p17-slides-storage"
+      ],
+      "title": "Storing slides and slide presentations",
+      "title_bn": "Slide রাখার নিয়ম"
+    },
+    {
+      "bn": [
+        "Disc বন্ধ ও তালাবদ্ধ বাক্সে; অনেকে ব্যবহার করলে program hard drive-এ রেখে network-এ দিন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Closed and lockable computer disc storage boxes are the most appropriate way to store these.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Closed and lockable computer disc storage boxes are the most appropriate way to store these."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Computer discs",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "The access students are allowed to these will determine where they are",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "housed in the learning facility.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The access students are allowed determines where discs are housed."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "it is more efficient to have the programmes loaded on the hard",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "drive and networked to a number of stations.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "For individual use, have programmes loaded on the hard drive and networked to stations."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p17-computer-discs"
+      ],
+      "title": "Computer discs (p.17)"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "storage space for all learning resources",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "storage space for all learning resources"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "study desks or corrals for students",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "study desks or corrals for students"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "access to computers and replay equipment",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "access to computers and replay equipment"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "access to all learning resources",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "access to all learning resources"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "security and control of equipment and resources",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "security and control of equipment and resources"
+        }
+      ],
+      "items_bn": [
+        "সব learning resources রাখার জায়গা।",
+        "Student-দের পড়ার desk বা আলাদা খোপ (corrals)।",
+        "Computer আর replay equipment ব্যবহারের সুযোগ।",
+        "সব learning resources হাতের কাছে।",
+        "Equipment ও resources-এর security আর নিয়ন্ত্রণ।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c06-p17-lockable-room"
+      ],
+      "title": "A lockable learning resources centre close to the workshop would provide",
+      "title_bn": "তালাবদ্ধ learning resources centre যা দেয়"
+    },
+    {
+      "bn": [
+        "Garments, beauty culture, office practice-এর মতো 'clean' trade-এ আলাদা ঘর লাগে না; practical area-তেই রাখা যায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "In \"clean\" trade areas (i.e. garment construction, beauty culture, office practice) this",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "may not be necessary and these elements could be incorporated into the actual",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "practical working area.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "In clean trade areas like garment construction, these can be in the practical area."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p17-lockable-room"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "facility-resources-equipment",
   "importance": {
@@ -231,7 +1080,21 @@
         "fidelity": "paraphrase",
         "text": "Models."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Text books — পাঠ্যবই, শেখার মূল লিখিত উপকরণ।",
+      "Workshop manuals আর technical information — যন্ত্র ও কাজের বিস্তারিত নির্দেশনা।",
+      "Product information — বিভিন্ন পণ্যের বিবরণ ও তথ্য।",
+      "Instructor নিজে যে learning materials তৈরি করেন।",
+      "Videos — দেখে শেখার উপকরণ; চালাতে equipment লাগে।",
+      "Compact Discs (CD) আর audio tapes — শুনে শেখার উপকরণ, এগুলোও equipment দিয়ে চালাতে হয়।",
+      "Product samples — আসল পণ্যের নমুনা, যা হাতে নিয়ে দেখা যায়।",
+      "Slides — পর্দায় দেখানোর ছবি বা লেখা।",
+      "Slide/tape presentations — slides-এর সাথে tape-এ রেকর্ড করা কথা মিলিয়ে উপস্থাপনা।",
+      "Models — বাস্তব জিনিসের নমুনা রূপ, যা দেখে গঠন বোঝা যায়।"
+    ],
+    "title": "Learning resources that may need to be accommodated in a learning facility",
+    "titleBn": "শেখার জায়গায় রাখার ব্যবস্থা করতে হতে পারে এমন learning resources"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -712,6 +1575,161 @@
       "text": "Slides should be housed in the containers of the playing equipment, like carousels or trays."
     }
   ],
+  "visual": {
+    "columns": [
+      "Resource",
+      "Storage"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Paper-based resources",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Bookshelves and filing cabinets are probably the most effective ways of",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Bookshelves and filing cabinets."
+        }
+      ],
+      [
+        "Hard cover publications",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Hard cover or substantial publications can be accommodated on open",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "shelving if there is not a dust problem. Glass-door book cabinets may be",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "required if dust is a significant issue.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Open shelving if there is no dust problem. Glass-door book cabinets if dust is significant."
+        }
+      ],
+      [
+        "Student worksheets and workbooks",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Worksheets or student workbooks are best stored in filing cabinets.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Filing cabinets."
+        }
+      ],
+      [
+        "Slides",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Carousel should be kept in the carousel",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "then in the appropriate trays.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Trays and carousels can be kept in glass-door cupboard",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "In the carousel or trays. Trays and carousels go in glass-door cupboards."
+        }
+      ],
+      [
+        "Computer discs",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Closed and lockable computer disc storage boxes are the most appropriate way to",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Closed and lockable computer disc storage boxes."
+        }
+      ],
+      [
+        "All learning resources",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "a lockable, learning resources centre alongside or close to the actual workshop or",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A lockable learning resources centre close to the workshop."
+        }
+      ]
+    ],
+    "title": "How to store learning resources (p.17)",
+    "title_bn": "কোন learning resource কোথায় রাখবেন"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

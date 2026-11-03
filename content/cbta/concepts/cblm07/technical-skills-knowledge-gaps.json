@@ -34,11 +34,26 @@
     ]
   },
   "keywords": [
-    { "en": "Underpinning", "bn": "ভিত্তির মতো নিচ থেকে ধরে রাখা" },
-    { "en": "Underpinning knowledge", "bn": "কাজটা করতে যা অবশ্যই জানতে হবে (MUST KNOW)" },
-    { "en": "Underpinning skills", "bn": "কাজটা করতে যা অবশ্যই করতে পারতে হবে" },
-    { "en": "Skills gap", "bn": "দরকারি দক্ষতা আর বর্তমান দক্ষতার ঘাটতি" },
-    { "en": "Unit of Competency (UoC)", "bn": "competency standard-এর একটা ইউনিট" }
+    {
+      "en": "Underpinning",
+      "bn": "ভিত্তির মতো নিচ থেকে ধরে রাখা"
+    },
+    {
+      "en": "Underpinning knowledge",
+      "bn": "কাজটা করতে যা অবশ্যই জানতে হবে (MUST KNOW)"
+    },
+    {
+      "en": "Underpinning skills",
+      "bn": "কাজটা করতে যা অবশ্যই করতে পারতে হবে"
+    },
+    {
+      "en": "Skills gap",
+      "bn": "দরকারি দক্ষতা আর বর্তমান দক্ষতার ঘাটতি"
+    },
+    {
+      "en": "Unit of Competency (UoC)",
+      "bn": "competency standard-এর একটা ইউনিট"
+    }
   ],
   "bangla_explanation": [
     "Underpinning মানে foundation, যেটা নিচ থেকে কাজটাকে ধরে রাখে।",
@@ -51,22 +66,42 @@
     "bn": "কোদালের ধরন জানা = knowledge; ঠিক কোদাল বেছে নেওয়া = skill।"
   },
   "list_answer": {
+    "title": "Identifying own skills gap and knowledge gap",
+    "title_bn": "নিজের skills gap ও knowledge gap চিহ্নিত করা",
     "items": [
       {
         "text": "Skills gap: compare existing competency with required competency. Use the Required Underpinning Skills of each UoC.",
         "fidelity": "paraphrase",
         "cites": [
-          { "src": "cblm07", "page": 9, "quote": "One can easily compare his existence competency and required competency.", "passageId": "cblm07-p9-30ef29e0" },
-          { "src": "cblm07", "page": 9, "quote": "Required Underpinning Skills can be found out with each Unit of Competency (UoC)" }
+          {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "One can easily compare his existence competency and required competency.",
+            "passageId": "cblm07-p9-30ef29e0"
+          },
+          {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "Required Underpinning Skills can be found out with each Unit of Competency (UoC)"
+          }
         ]
       },
       {
         "text": "Knowledge gap: find the underpinning knowledge required in each Unit of Competency (UoC).",
         "fidelity": "paraphrase",
         "cites": [
-          { "src": "cblm07", "page": 9, "quote": "Underpinning knowledge required for such task can be found in each Unit of Competency (UoC).", "passageId": "cblm07-p9-ae5ffa65" }
+          {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "Underpinning knowledge required for such task can be found in each Unit of Competency (UoC).",
+            "passageId": "cblm07-p9-ae5ffa65"
+          }
         ]
       }
+    ],
+    "items_bn": [
+      "Skills gap — নিজের বর্তমান competency-কে required competency-র সাথে মেলানো; প্রতিটি UoC-তে Required Underpinning Skills লেখা থাকে।",
+      "Knowledge gap — প্রতিটি Unit of Competency-তে দরকারি underpinning knowledge দেখে, নিজের কী জানা নেই তা বের করা।"
     ]
   },
   "traps": [
@@ -74,22 +109,38 @@
       "text": "\"Safe handling of spades and garden forks\" is knowledge. \"Handling the equipment safely\" is a skill.",
       "fidelity": "paraphrase",
       "cites": [
-        { "src": "cblm07", "page": 9, "quote": "safe handling of spades and garden forks Underpinning Skills:" },
-        { "src": "cblm07", "page": 9, "quote": "handling the equipment safely" }
+        {
+          "src": "cblm07",
+          "page": 9,
+          "quote": "safe handling of spades and garden forks Underpinning Skills:"
+        },
+        {
+          "src": "cblm07",
+          "page": 9,
+          "quote": "handling the equipment safely"
+        }
       ]
     },
     {
       "text": "Underpinning knowledge consists of only MUST KNOW knowledge.",
       "fidelity": "paraphrase",
       "cites": [
-        { "src": "cblm07", "page": 9, "quote": "Underpinning knowledge consists of only MUST KNOW knowledge" }
+        {
+          "src": "cblm07",
+          "page": 9,
+          "quote": "Underpinning knowledge consists of only MUST KNOW knowledge"
+        }
       ]
     },
     {
       "text": "Required skills are a vital part of the Unit of Competency (UoC).",
       "fidelity": "paraphrase",
       "cites": [
-        { "src": "cblm07", "page": 9, "quote": "Required Skills is a vital part of Unit of Competency (UoC)" }
+        {
+          "src": "cblm07",
+          "page": 9,
+          "quote": "Required Skills is a vital part of Unit of Competency (UoC)"
+        }
       ]
     }
   ],
@@ -102,22 +153,45 @@
           "text": "Underpinning means to support something from below like a foundation.",
           "fidelity": "verbatim",
           "cites": [
-            { "src": "cblm07", "page": 9, "quote": "Underpinning means to support something from below like a foundation.", "passageId": "cblm07-p9-85aba697" }
+            {
+              "src": "cblm07",
+              "page": 9,
+              "quote": "Underpinning means to support something from below like a foundation.",
+              "passageId": "cblm07-p9-85aba697"
+            }
           ]
         },
         {
           "text": "Underpinning knowledge is knowledge required to perform a particular job or task.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm07", "page": 9, "quote": "So underpinning knowledge is such knowledge required to perform a particular Job/task." }
+            {
+              "src": "cblm07",
+              "page": 9,
+              "quote": "So underpinning knowledge is such knowledge required to perform a particular Job/task."
+            }
           ]
         },
         {
           "text": "Underpinning knowledge: types of spades. Underpinning skills: choosing the right spade.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm07", "page": 9, "quote": "Underpinning Knowledge: q types of spades" },
-            { "src": "cblm07", "page": 9, "quote": "Underpinning Skills: q choosing the right spade for the job" }, { "src": "cblm07", "page": 9, "quote": "\"Use equipment for building and maintaining a garden\"", "passageId": "cblm07-p9-dd500e1c" }
+            {
+              "src": "cblm07",
+              "page": 9,
+              "quote": "Underpinning Knowledge: q types of spades"
+            },
+            {
+              "src": "cblm07",
+              "page": 9,
+              "quote": "Underpinning Skills: q choosing the right spade for the job"
+            },
+            {
+              "src": "cblm07",
+              "page": 9,
+              "quote": "\"Use equipment for building and maintaining a garden\"",
+              "passageId": "cblm07-p9-dd500e1c"
+            }
           ]
         }
       ]
@@ -131,7 +205,11 @@
         "Safe handling of spades and garden forks"
       ],
       "answerIndex": 2,
-      "answerCite": { "src": "cblm07", "page": 9, "quote": "Underpinning Skills: q choosing the right spade for the job" }
+      "answerCite": {
+        "src": "cblm07",
+        "page": 9,
+        "quote": "Underpinning Skills: q choosing the right spade for the job"
+      }
     },
     "matching": {
       "prompt": "Match each term with its meaning.",
@@ -139,22 +217,38 @@
         {
           "left": "Underpinning",
           "right": "Support from below like a foundation",
-          "cite": { "src": "cblm07", "page": 9, "quote": "Underpinning means to support something from below like a foundation." }
+          "cite": {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "Underpinning means to support something from below like a foundation."
+          }
         },
         {
           "left": "Underpinning knowledge",
           "right": "Only MUST KNOW knowledge for the task",
-          "cite": { "src": "cblm07", "page": 9, "quote": "Underpinning knowledge consists of only MUST KNOW knowledge required for performing the specific task/job." }
+          "cite": {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "Underpinning knowledge consists of only MUST KNOW knowledge required for performing the specific task/job."
+          }
         },
         {
           "left": "Underpinning skills",
           "right": "Essential, must performing skills for a task",
-          "cite": { "src": "cblm07", "page": 9, "quote": "underpinning skills refers to the essential and must performing skills required for any specific task." }
+          "cite": {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "underpinning skills refers to the essential and must performing skills required for any specific task."
+          }
         },
         {
           "left": "Skills gap",
           "right": "Existing competency compared with required competency",
-          "cite": { "src": "cblm07", "page": 9, "quote": "One can easily compare his existence competency and required competency." }
+          "cite": {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "One can easily compare his existence competency and required competency."
+          }
         }
       ]
     },
@@ -164,12 +258,107 @@
         "text": "In each Unit of Competency (UoC). He compares them with his existing competency.",
         "fidelity": "paraphrase",
         "cites": [
-          { "src": "cblm07", "page": 9, "quote": "Required Underpinning Skills can be found out with each Unit of Competency (UoC)" },
-          { "src": "cblm07", "page": 9, "quote": "Underpinning knowledge required for such task can be found in each Unit of Competency (UoC)." },
-          { "src": "cblm07", "page": 9, "quote": "One can easily compare his existence competency and required competency." }
+          {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "Required Underpinning Skills can be found out with each Unit of Competency (UoC)"
+          },
+          {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "Underpinning knowledge required for such task can be found in each Unit of Competency (UoC)."
+          },
+          {
+            "src": "cblm07",
+            "page": 9,
+            "quote": "One can easily compare his existence competency and required competency."
+          }
         ]
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "compare",
+    "title": "Gardening unit: underpinning knowledge vs underpinning skills (p.9)",
+    "title_bn": "বাগানের উদাহরণ: knowledge বনাম skills",
+    "left": {
+      "title": "Underpinning Knowledge",
+      "title_bn": "কী জানতে হবে",
+      "points": [
+        {
+          "text": "types of spades",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm07",
+              "page": 9,
+              "quote": "types of spades"
+            }
+          ]
+        },
+        {
+          "text": "types of garden forks",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm07",
+              "page": 9,
+              "quote": "types of garden forks"
+            }
+          ]
+        },
+        {
+          "text": "safe handling of spades and garden forks",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm07",
+              "page": 9,
+              "quote": "safe handling of spades and garden forks"
+            }
+          ]
+        }
+      ]
+    },
+    "right": {
+      "title": "Underpinning Skills",
+      "title_bn": "কী করতে পারতে হবে",
+      "points": [
+        {
+          "text": "choosing the right spade for the job",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm07",
+              "page": 9,
+              "quote": "choosing the right spade for the job"
+            }
+          ]
+        },
+        {
+          "text": "choosing the right garden fork for the job",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm07",
+              "page": 9,
+              "quote": "choosing the right garden fork for the job"
+            }
+          ]
+        },
+        {
+          "text": "handling the equipment safely",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm07",
+              "page": 9,
+              "quote": "handling the equipment safely"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

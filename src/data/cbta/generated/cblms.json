@@ -17,15 +17,314 @@
       "apprenticeship-law-contract",
       "task-analysis",
       "apprenticeship-components",
-      "managing-work-relationships",
       "competency-ksa",
+      "managing-work-relationships",
       "registered-training-organisation",
       "teacher-roles-supporting-learners",
       "client-needs-operational-limits",
+      "seeking-feedback",
       "nsda-functions",
-      "pre-in-training-support"
+      "pre-in-training-support",
+      "team-building",
+      "tvet-reform-outputs"
     ],
     "covered": 95,
+    "groups": [
+      {
+        "label": "About this module",
+        "title": "Module, learning outcomes and performance criteria",
+        "title_bn": "Module পরিচিতি, learning outcomes আর performance criteria",
+        "topics": [
+          {
+            "concept": null,
+            "id": "module-at-a-glance",
+            "title": "Module at a glance",
+            "title_bn": "এই module কোন UoC থেকে, কী নিয়ে"
+          },
+          {
+            "concept": null,
+            "id": "learning-outcomes",
+            "title": "Learning outcomes and performance criteria",
+            "title_bn": "চারটি learning outcome আর আটটি performance criteria"
+          },
+          {
+            "concept": null,
+            "id": "how-to-use-this-guide",
+            "title": "Content and how to use this guide",
+            "title_bn": "Module-এ কী আছে আর কীভাবে পড়বেন"
+          }
+        ]
+      },
+      {
+        "label": "Information 1",
+        "title": "Work within TVET policy framework",
+        "title_bn": "TVET policy framework-এর মধ্যে কাজ",
+        "topics": [
+          {
+            "concept": "tvet-reform-outputs",
+            "id": "tvet-reform-outputs",
+            "title": "Reformed TVET System: Outputs of the TVET Reform Agenda",
+            "title_bn": "বাংলাদেশের TVET reform আর এর নয়টি output"
+          },
+          {
+            "concept": "national-skills-development-policy",
+            "id": "national-skills-development-policy",
+            "title": "Main Features of the National Skills Development Policy (NSDP)",
+            "title_bn": "NSDP কী, কোন বিষয় দেখে, আর ISC কারা"
+          },
+          {
+            "concept": "nsda-functions",
+            "id": "nsda-functions",
+            "title": "Main Functions of the NSDA",
+            "title_bn": "NSDA-র প্রধান কাজ (প্রশ্নপত্র থেকে)"
+          },
+          {
+            "concept": "ntvqf-levels",
+            "id": "ntvqf-levels",
+            "title": "NTVQF and Its Qualification Levels",
+            "title_bn": "NTVQF কী, এর স্তর আর level descriptors"
+          }
+        ]
+      },
+      {
+        "label": "Information 2 · Part A",
+        "title": "Competency, dimensions and competency standards",
+        "title_bn": "Competency, এর dimensions আর competency standards",
+        "topics": [
+          {
+            "concept": "competency-ksa",
+            "id": "competency-ksa",
+            "title": "Competency: Definition, Types and Key Features",
+            "title_bn": "Competency মানে KSA — skill তার একটা অংশ মাত্র"
+          },
+          {
+            "concept": "dimensions-of-competency",
+            "id": "dimensions-of-competency",
+            "title": "Four Dimensions of Competency",
+            "title_bn": "Competency-র চারটি dimension, photocopier উদাহরণ দিয়ে"
+          },
+          {
+            "concept": "industry-competency-standards",
+            "id": "industry-competency-standards",
+            "title": "Industry Competency Standards",
+            "title_bn": "Competency standard কী আর এতে কী থাকে"
+          },
+          {
+            "concept": "competency-standard-components",
+            "id": "competency-standard-components",
+            "title": "Components of a Competency Standard (Unit of Competency)",
+            "title_bn": "Competency standard-এর নয়টি component (CBLM 1 অনুযায়ী)"
+          }
+        ]
+      },
+      {
+        "label": "Information 2 · Part B",
+        "title": "Sample unit of competency TVTENV402",
+        "title_bn": "নমুনা unit of competency: TVTENV402",
+        "topics": [
+          {
+            "concept": null,
+            "id": "sample-unit-of-competency",
+            "title": "Sample unit of competency: header, elements and PCs",
+            "title_bn": "একটি আসল UoC দেখতে কেমন: header, elements আর PCs"
+          },
+          {
+            "concept": null,
+            "id": "sample-uoc-range-evidence",
+            "title": "Sample unit: range statement and evidence guide",
+            "title_bn": "নমুনা UoC-এর range statement আর evidence guide"
+          }
+        ]
+      },
+      {
+        "label": "Information 2 · Part C",
+        "title": "Task analysis, curriculum documents and their links to standards",
+        "title_bn": "Task analysis, curriculum আর standards-এর সম্পর্ক",
+        "topics": [
+          {
+            "concept": "task-analysis",
+            "id": "task-analysis",
+            "title": "Task Analysis for a Learning Session",
+            "title_bn": "জটিল কাজকে ছোট ছোট ধাপে ভাঙা"
+          },
+          {
+            "concept": "curriculum-document",
+            "id": "curriculum-document",
+            "title": "Curriculum Document in CBT&A",
+            "title_bn": "Curriculum কী, পুরোটা মানতে হবে কি না, আর standard থেকে পার্থক্য"
+          },
+          {
+            "concept": "learning-outcome-vs-element",
+            "id": "learning-outcome-vs-element",
+            "title": "Learning Outcome vs Element of Competency",
+            "title_bn": "Learning outcome (curriculum শব্দ) বনাম element (standard শব্দ)"
+          },
+          {
+            "concept": "assessment-vs-performance-criteria",
+            "id": "assessment-vs-performance-criteria",
+            "title": "Assessment Criteria vs Performance Criteria",
+            "title_bn": "Assessment criteria আর performance criteria একই জিনিস"
+          }
+        ]
+      },
+      {
+        "label": "Information 2 · Part D",
+        "title": "Quality assurance, RTO, apprenticeship and RPL",
+        "title_bn": "Quality assurance, RTO, apprenticeship আর RPL",
+        "topics": [
+          {
+            "concept": "quality-assurance-framework",
+            "id": "quality-assurance-framework",
+            "title": "Objectives of the Quality Assurance Framework",
+            "title_bn": "QA framework কীভাবে চলে আর এর চারটি objective"
+          },
+          {
+            "concept": "registered-training-organisation",
+            "id": "registered-training-organisation",
+            "title": "Registered Training Organisation (RTO) and Its Benefits",
+            "title_bn": "RTO কী আর এর তিনটি সুবিধা"
+          },
+          {
+            "concept": "apprenticeship-components",
+            "id": "apprenticeship-components",
+            "title": "Eight Essential Components of Apprenticeship Training",
+            "title_bn": "Apprenticeship-এর ইতিহাস আর আটটি essential component"
+          },
+          {
+            "concept": "apprenticeship-law-contract",
+            "id": "apprenticeship-law-contract",
+            "title": "Apprenticeship Laws and the Apprentice Contract",
+            "title_bn": "Apprenticeship law বনাম apprentice contract"
+          },
+          {
+            "concept": "recognition-of-prior-learning",
+            "id": "recognition-of-prior-learning",
+            "title": "Recognition of Prior Learning (RPL): Benefits and Evidence",
+            "title_bn": "RPL কী, এর সাতটি সুবিধা আর evidence"
+          }
+        ]
+      },
+      {
+        "label": "Job 1",
+        "title": "Job 1 and Specification Sheet 1",
+        "title_bn": "Job 1: policy ও quality framework-এর মধ্যে কাজ",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-1",
+            "title": "Job 1: Work within TVET policy and quality framework",
+            "title_bn": "Job 1-এর ধাপ, দরকারি documents আর Task Analysis Form"
+          }
+        ]
+      },
+      {
+        "label": "Information 3",
+        "title": "Managing work and work relation and client focused approach",
+        "title_bn": "কাজ ও কাজের সম্পর্ক সামলানো, client focused approach",
+        "topics": [
+          {
+            "concept": "managing-work-relationships",
+            "id": "managing-work-relationships",
+            "title": "Workplace Issues: Managing Work and Work Relationships",
+            "title_bn": "শিক্ষকের কাজ ও সম্পর্ক সামলানোর চারটি দিক"
+          },
+          {
+            "concept": "time-management-skills",
+            "id": "time-management-skills",
+            "title": "Key Points of Time Management Skills",
+            "title_bn": "Planning ও organizing: time, project, resource, research"
+          },
+          {
+            "concept": "employability-skills",
+            "id": "employability-skills",
+            "title": "Employability Skills",
+            "title_bn": "সাতটি employability skill (CBLM বলে আটটি!)"
+          },
+          {
+            "concept": "team-building",
+            "id": "team-building",
+            "title": "Team Building: Working Collaboratively with Colleagues",
+            "title_bn": "সহকর্মীর সাথে মিলে কাজ: ভালো team-এর পাঁচ গুণ"
+          },
+          {
+            "concept": "seeking-feedback",
+            "id": "seeking-feedback",
+            "title": "Seeking Feedback on Work-Management Skills and Professional Relationships",
+            "title_bn": "Feedback কার কাছ থেকে নেবেন, আর কী করবেন"
+          },
+          {
+            "concept": "client-focused-approach",
+            "id": "client-focused-approach",
+            "title": "Client-Focused Approach of a TVET Teacher",
+            "title_bn": "Client-focused approach-এর তিনটি কাজ"
+          },
+          {
+            "concept": "clients-of-tvet-institute",
+            "id": "clients-of-tvet-institute",
+            "title": "Clients of a TVET Institute",
+            "title_bn": "TVET প্রতিষ্ঠানের পাঁচ ধরনের client"
+          },
+          {
+            "concept": "client-needs-operational-limits",
+            "id": "client-needs-operational-limits",
+            "title": "Client Needs, Expectations and Operational Limits",
+            "title_bn": "Client কী চায়, আর প্রতিষ্ঠানের সীমা কোথায়"
+          }
+        ]
+      },
+      {
+        "label": "Information 4",
+        "title": "Assist learners to develop a strategy to address their needs and interests",
+        "title_bn": "Learner-এর needs and interests মেটাতে সহায়তা",
+        "topics": [
+          {
+            "concept": "pre-in-training-support",
+            "id": "pre-in-training-support",
+            "title": "Pre-Training and In-Training Support for Clients",
+            "title_bn": "Training-এর আগে ও চলাকালীন সহায়তা"
+          },
+          {
+            "concept": "teacher-roles-supporting-learners",
+            "id": "teacher-roles-supporting-learners",
+            "title": "Teachers' Roles and Requirements in Supporting Learners",
+            "title_bn": "Learner-কে সাহায্যে শিক্ষকের ভূমিকা"
+          }
+        ]
+      },
+      {
+        "label": "Job 2",
+        "title": "Job 2 and Specification Sheet 2",
+        "title_bn": "Job 2: কাজের সম্পর্ক, client focus আর learner সহায়তা",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-2",
+            "title": "Job 2: Manage work relationships and support learners",
+            "title_bn": "Job 2-এর ধাপ, documents আর Peer feedback pro-forma"
+          }
+        ]
+      },
+      {
+        "label": "Review of Competency",
+        "title": "Review of Competency: your self assessment rating",
+        "title_bn": "নিজের দক্ষতা নিজে যাচাই",
+        "topics": [
+          {
+            "concept": null,
+            "id": "review-of-competency",
+            "title": "Review of Competency",
+            "title_bn": "আটটি PC-তে Yes/No দিয়ে নিজেকে যাচাই"
+          }
+        ]
+      }
+    ],
+    "guide": {
+      "outline": {
+        "covered": 112,
+        "total": 112
+      },
+      "sections": 11
+    },
     "hasPdf": true,
     "highlights": 95,
     "id": "cblm01",
@@ -50,9 +349,273 @@
       "inclusive-learning-environment",
       "inclusive-work-strategies",
       "practising-inclusivity",
-      "sensitive-verbal-body-language"
+      "sensitive-verbal-body-language",
+      "documented-resources-inclusivity",
+      "inclusive-communication-skills",
+      "modelling-inclusiveness",
+      "ohs-duty-of-care-inclusivity",
+      "physical-environment-support-needs",
+      "reflective-practice",
+      "support-for-special-needs"
     ],
     "covered": 63,
+    "groups": [
+      {
+        "label": "About this module",
+        "title": "Module, learning outcomes and performance criteria",
+        "title_bn": "মডিউল পরিচিতি, learning outcomes ও performance criteria",
+        "topics": [
+          {
+            "concept": null,
+            "id": "module-at-a-glance",
+            "title": "Module at a glance",
+            "title_bn": "এই module কোন UoC থেকে, কী নিয়ে"
+          },
+          {
+            "concept": null,
+            "id": "learning-outcomes",
+            "title": "Learning outcomes and performance criteria",
+            "title_bn": "তিনটি LO আর প্রতিটির performance criteria"
+          },
+          {
+            "concept": null,
+            "id": "how-to-use-this-guide",
+            "title": "How to use this guide and the learning steps",
+            "title_bn": "Learning guide কীভাবে ব্যবহার করবেন, শেখার ধাপ"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part A",
+        "title": "Inclusivity, individual differences and learner needs",
+        "title_bn": "Inclusivity কী, learner-দের ভিন্নতা ও প্রয়োজন",
+        "topics": [
+          {
+            "concept": "inclusivity-definition",
+            "id": "inclusivity-definition",
+            "title": "Inclusivity: Meaning and Why Practise It",
+            "title_bn": "Inclusivity মানে কী, আর কেন চর্চা করবেন"
+          },
+          {
+            "concept": "inclusive-learning-environment",
+            "id": "inclusive-learning-environment",
+            "title": "Features of an Inclusive Learning Environment",
+            "title_bn": "Inclusive learning environment-এর সাতটি বৈশিষ্ট্য"
+          },
+          {
+            "concept": "practising-inclusivity",
+            "id": "practising-inclusivity",
+            "title": "How to Practise Inclusivity (Five Ways)",
+            "title_bn": "Inclusivity চর্চার পাঁচটি উপায়"
+          },
+          {
+            "concept": "individual-differences",
+            "id": "individual-differences",
+            "title": "Individual Differences of Learners",
+            "title_bn": "Learner-দের নয় ধরনের ভিন্নতা"
+          },
+          {
+            "concept": "clients-with-particular-needs",
+            "id": "clients-with-particular-needs",
+            "title": "Clients with Particular Needs",
+            "title_bn": "বিশেষ প্রয়োজনের পাঁচ ধরনের clients"
+          },
+          {
+            "concept": "support-for-special-needs",
+            "id": "support-for-special-needs",
+            "title": "Providing Support for Special Needs",
+            "title_bn": "বিশেষ প্রয়োজনে ছয় ধরনের support"
+          },
+          {
+            "concept": "examining-perceptions",
+            "id": "examining-perceptions",
+            "title": "Examining Our Perceptions",
+            "title_bn": "নিজের perceptions যাচাই করা কেন জরুরি"
+          },
+          {
+            "concept": "adjustment-strategies",
+            "id": "adjustment-strategies",
+            "title": "Adjustment Strategies for Candidate Groups",
+            "title_bn": "Learner-এর প্রয়োজন অনুযায়ী reasonable adjustments-এর টেবিল"
+          },
+          {
+            "concept": "low-literacy-numeracy-assessment",
+            "id": "low-literacy-numeracy-assessment",
+            "title": "Assessing Learners with Low Literacy or Numeracy",
+            "title_bn": "পড়া-লেখা বা হিসাবে দুর্বল learner-এর assessment"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part B",
+        "title": "Principles of inclusivity, adult learning, change and reasonable adjustment",
+        "title_bn": "Inclusivity-র principles, adult learning, পরিবর্তন ও reasonable adjustment",
+        "topics": [
+          {
+            "concept": "principles-of-inclusivity",
+            "id": "principles-of-inclusivity",
+            "title": "Principles that Underpin Inclusivity",
+            "title_bn": "Inclusivity-র নয়টি principle ও Lewin-এর পরিবর্তনের ধাপ"
+          },
+          {
+            "concept": "adult-learning-principles-inclusivity",
+            "id": "adult-learning-principles-inclusivity",
+            "title": "Adult Learning Principles that Resemble Inclusivity",
+            "title_bn": "Inclusivity-র সাথে মিল থাকা adult learning-এর আটটি principle"
+          },
+          {
+            "concept": "reasonable-adjustment",
+            "id": "reasonable-adjustment",
+            "title": "Reasonable Adjustment",
+            "title_bn": "Assessment methods ও tools-এ নয় ধরনের reasonable adjustment"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part C",
+        "title": "Access and equity, sensitive language and modelling inclusiveness",
+        "title_bn": "Access ও equity, sensitive ভাষা আর inclusiveness-এর model হওয়া",
+        "topics": [
+          {
+            "concept": "access-and-equity-policy",
+            "id": "access-and-equity-policy",
+            "title": "Access and Equity Policy",
+            "title_bn": "Access and equity policy: access বনাম equity"
+          },
+          {
+            "concept": "sensitive-verbal-body-language",
+            "id": "sensitive-verbal-body-language",
+            "title": "Verbal and Body Language Sensitive to Difference",
+            "title_bn": "ভিন্নতার প্রতি সংবেদনশীল কথা ও শরীরী ভাষা"
+          },
+          {
+            "concept": "inclusive-communication-skills",
+            "id": "inclusive-communication-skills",
+            "title": "Communication and Interpersonal Skills for Inclusive Learning",
+            "title_bn": "Learner-কে তথ্য দেওয়ার ২৫টি communication দক্ষতা"
+          },
+          {
+            "concept": "modelling-inclusiveness",
+            "id": "modelling-inclusiveness",
+            "title": "Modelling Inclusiveness in Work Performance",
+            "title_bn": "নিজে inclusive আচরণের model হওয়া"
+          },
+          {
+            "concept": "ground-rules-inclusiveness",
+            "id": "ground-rules-inclusiveness",
+            "title": "Ground Rules for Modelling Inclusiveness",
+            "title_bn": "সবাই মিলে ground rules ঠিক করা"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part A",
+        "title": "Planning for inclusiveness and the four work strategies",
+        "title_bn": "Inclusiveness-এর পরিকল্পনা ও চারটি work strategy",
+        "topics": [
+          {
+            "concept": "inclusive-work-strategies",
+            "id": "inclusive-work-strategies",
+            "title": "Planning for Inclusiveness and Work Strategies to Support It",
+            "title_bn": "Inclusiveness-এর plan আর চারটি work strategy"
+          },
+          {
+            "concept": "documented-resources-inclusivity",
+            "id": "documented-resources-inclusivity",
+            "title": "Documented Resources to Support Inclusive Practices",
+            "title_bn": "2.1 লিখিত resources দেখে strategy ঠিক করা"
+          },
+          {
+            "concept": "support-persons",
+            "id": "support-persons",
+            "title": "Support Persons in Inclusive Learning",
+            "title_bn": "2.2 যেসব support persons-এর সাহায্য নেবেন"
+          },
+          {
+            "concept": "physical-environment-support-needs",
+            "id": "physical-environment-support-needs",
+            "title": "Physical Environment Support Needs",
+            "title_bn": "2.3 পরিবেশগত support needs"
+          },
+          {
+            "concept": "ohs-duty-of-care-inclusivity",
+            "id": "ohs-duty-of-care-inclusivity",
+            "title": "OHS Issues Associated with Inclusivity (Duty of Care)",
+            "title_bn": "2.4 OHS issues ও duty of care"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part B",
+        "title": "Monitoring and improving work practices",
+        "title_bn": "নিজের work practices নজরে রাখা ও উন্নত করা",
+        "topics": [
+          {
+            "concept": "monitoring-inclusive-practice",
+            "id": "monitoring-inclusive-practice",
+            "title": "Monitoring and Improving Inclusive Work Practices",
+            "title_bn": "Monitor ও improve করার তিনটি কাজ"
+          },
+          {
+            "concept": "reflective-practice",
+            "id": "reflective-practice",
+            "title": "Reflective Practice to Improve Inclusive Work",
+            "title_bn": "Reflective practice: নিজের কাজ নিয়ে নিয়মিত ভাবা"
+          }
+        ]
+      },
+      {
+        "label": "Job, Activity and Specification Sheets",
+        "title": "Job 1, Job 2 and Activities 1.1-2.2",
+        "title_bn": "Job ও Activity Sheet: হাতে-কলমে কাজ",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-1",
+            "title": "Job 1 and Activity 1.1: Practice inclusivity",
+            "title_bn": "Inclusivity চর্চার কাজ ও sensitive ভাষার দক্ষতা তালিকা"
+          },
+          {
+            "concept": null,
+            "id": "activity-1-2",
+            "title": "Activity 1.2: Different Perceptions",
+            "title_bn": "Perceptions কীভাবে আলাদা হয়, নিজে পরীক্ষা করে দেখা"
+          },
+          {
+            "concept": null,
+            "id": "job-2",
+            "title": "Job 2 and Activity 2.1: Develop and implement work strategies",
+            "title_bn": "Work strategies তৈরি, checklist পূরণ"
+          },
+          {
+            "concept": null,
+            "id": "activity-2-2",
+            "title": "Activity 2.2: Develop an Inclusive Work Practices Review Plan",
+            "title_bn": "নিজের কাজের উন্নতির review plan"
+          }
+        ]
+      },
+      {
+        "label": "Review of Competency",
+        "title": "Review of Competency: your self assessment rating",
+        "title_bn": "Review of Competency: নিজের দক্ষতা নিজে যাচাই",
+        "topics": [
+          {
+            "concept": null,
+            "id": "review-of-competency",
+            "title": "Review of Competency",
+            "title_bn": "নিজের দক্ষতা নিজে যাচাই করুন"
+          }
+        ]
+      }
+    ],
+    "guide": {
+      "outline": {
+        "covered": 88,
+        "total": 88
+      },
+      "sections": 8
+    },
     "hasPdf": true,
     "highlights": 63,
     "id": "cblm02",
@@ -83,9 +646,311 @@
       "osh-management-system",
       "supervisor-safety-responsibilities",
       "accident-definition",
-      "osh-learning-outcomes"
+      "emergency-response-plan",
+      "osh-learning-outcomes",
+      "psychosocial-hazards",
+      "dealing-with-hazards",
+      "duty-of-care-individual-learner",
+      "emergency-equipment",
+      "risk-management-process",
+      "safety-training"
     ],
     "covered": 74,
+    "groups": [
+      {
+        "label": "About this module",
+        "title": "Module, learning outcomes and performance criteria",
+        "title_bn": "মডিউল পরিচিতি, learning outcome ও performance criteria",
+        "topics": [
+          {
+            "concept": null,
+            "id": "module-at-a-glance",
+            "title": "Module at a glance",
+            "title_bn": "এই module কোন UoC থেকে, কী নিয়ে"
+          },
+          {
+            "concept": "osh-learning-outcomes",
+            "id": "osh-learning-outcomes",
+            "title": "Learning Outcomes of the OSH Unit",
+            "title_bn": "চারটি LO আর প্রতিটির performance criteria"
+          },
+          {
+            "concept": null,
+            "id": "how-to-use-this-guide",
+            "title": "Content and how to use this guide",
+            "title_bn": "Content, pre-requisites আর কীভাবে পড়বেন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part A",
+        "title": "Workplace hazards, OSH management and risk management",
+        "title_bn": "Workplace hazard, OSH management ও risk management",
+        "topics": [
+          {
+            "concept": "workplace-hazard",
+            "id": "workplace-hazard",
+            "title": "Workplace Hazard",
+            "title_bn": "Hazard ও workplace hazard কী"
+          },
+          {
+            "concept": "duty-of-care-individual-learner",
+            "id": "duty-of-care-individual-learner",
+            "title": "Duty of Care: Consider the Individual Learner",
+            "title_bn": "প্রতিটি learner-কে আলাদা করে ভাবা"
+          },
+          {
+            "concept": "osh-management-system",
+            "id": "osh-management-system",
+            "title": "Occupational Health and Safety Management System",
+            "title_bn": "OSH management system ও তার ছয় element"
+          },
+          {
+            "concept": "risk-management-process",
+            "id": "risk-management-process",
+            "title": "Risk Management Process in OSH",
+            "title_bn": "Risk management-এর চার ধাপ, mitigation ও records"
+          },
+          {
+            "concept": "hazard-identification-sources",
+            "id": "hazard-identification-sources",
+            "title": "Sources for Hazard Identification",
+            "title_bn": "Hazard খোঁজার ছয়টি উৎস"
+          },
+          {
+            "concept": "risk-matrix",
+            "id": "risk-matrix",
+            "title": "Risk Matrix: Likelihood and Consequence",
+            "title_bn": "Risk মাপা: likelihood, consequence, risk matrix"
+          },
+          {
+            "concept": "hierarchy-of-controls",
+            "id": "hierarchy-of-controls",
+            "title": "Hierarchy of Controls",
+            "title_bn": "Control-এর hierarchy: Eliminate থেকে PPE"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part B",
+        "title": "Safety matters and roles",
+        "title_bn": "Safety matters and roles: কার কী দায়িত্ব ও অধিকার",
+        "topics": [
+          {
+            "concept": "young-worker-injury-factors",
+            "id": "young-worker-injury-factors",
+            "title": "Why Young Workers Get Hurt",
+            "title_bn": "তরুণ কর্মীরা কেন আঘাত পায়; Bangladesh-এর পরিসংখ্যান"
+          },
+          {
+            "concept": "employer-safety-duties",
+            "id": "employer-safety-duties",
+            "title": "Employer's Safety Duties",
+            "title_bn": "Employer-এর পাঁচ দায়িত্ব ও যা display করতে হয়"
+          },
+          {
+            "concept": "supervisor-safety-responsibilities",
+            "id": "supervisor-safety-responsibilities",
+            "title": "Supervisor's Safety Responsibilities",
+            "title_bn": "Supervisor-এর আইনি দায়িত্ব ও ভালো supervisor"
+          },
+          {
+            "concept": "safety-training",
+            "id": "safety-training",
+            "title": "Safety Training: General and Specific",
+            "title_bn": "General ও specific training; training নিশ্চিত করার প্রশ্ন"
+          },
+          {
+            "concept": "worker-safety-role",
+            "id": "worker-safety-role",
+            "title": "Worker's Role in Safety",
+            "title_bn": "আইন অনুযায়ী আপনার পাঁচটি দায়িত্ব"
+          },
+          {
+            "concept": "workers-three-rights",
+            "id": "workers-three-rights",
+            "title": "Workers' Three Safety Rights",
+            "title_bn": "জানার, অংশ নেওয়ার ও অস্বীকারের অধিকার"
+          }
+        ]
+      },
+      {
+        "label": "Job 1 · Specification 1",
+        "title": "Job 1: Workplace Hazards (risk analysis)",
+        "title_bn": "Job 1: নিজের কাজের এলাকায় risk analysis",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-1",
+            "title": "Job 1: Workplace Hazards (risk analysis)",
+            "title_bn": "Risk analysis sheet দিয়ে workshop-এর risk চিহ্নিত করা"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part A",
+        "title": "Work hazards, accidents and types of hazards",
+        "title_bn": "Work hazard, accident আর hazard-এর ধরন",
+        "topics": [
+          {
+            "concept": "acute-chronic-injuries",
+            "id": "acute-chronic-injuries",
+            "title": "Acute and Chronic Injuries and Illnesses",
+            "title_bn": "Hazard চেনা; acute বনাম chronic"
+          },
+          {
+            "concept": "accident-definition",
+            "id": "accident-definition",
+            "title": "Accident and Incident",
+            "title_bn": "Accident কেন হয়, accident ও incident"
+          },
+          {
+            "concept": "causes-of-accidents",
+            "id": "causes-of-accidents",
+            "title": "Causes of Accidents",
+            "title_bn": "Accident-এর আটটি কারণ ও safety attitude"
+          },
+          {
+            "concept": "types-of-hazards",
+            "id": "types-of-hazards",
+            "title": "Types of Hazards",
+            "title_bn": "চার ধরনের hazard"
+          },
+          {
+            "concept": "hazard-effects",
+            "id": "hazard-effects",
+            "title": "Effects of Physical, Biological, Chemical and Ergonomic Hazards",
+            "title_bn": "প্রতিটি hazard-এর উদাহরণ, প্রভাব ও কর্মস্থল"
+          },
+          {
+            "concept": "psychosocial-hazards",
+            "id": "psychosocial-hazards",
+            "title": "Psychosocial Hazards: Stress and Violence",
+            "title_bn": "মানসিক ও সামাজিক hazard: stress ও violence"
+          },
+          {
+            "concept": "dealing-with-hazards",
+            "id": "dealing-with-hazards",
+            "title": "Dealing with Hazards: Report and Ask Key Questions",
+            "title_bn": "Hazard report করা আর নতুন job-এর আগে সাতটি প্রশ্ন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part B",
+        "title": "Hazard management and safety symbols",
+        "title_bn": "Hazard management আর safety symbols",
+        "topics": [
+          {
+            "concept": "hazard-management-process",
+            "id": "hazard-management-process",
+            "title": "Four-Step Hazard Management Process",
+            "title_bn": "Hazard management-এর চার ধাপ ও control level"
+          },
+          {
+            "concept": "safety-symbols",
+            "id": "safety-symbols",
+            "title": "Hazard and PPE Symbols",
+            "title_bn": "Hazard class symbol (A-F) ও PPE symbol"
+          }
+        ]
+      },
+      {
+        "label": "Job 2 · Specification 2",
+        "title": "Job 2: Hazard Inspection Checklist",
+        "title_bn": "Job 2: Hazard inspection checklist দিয়ে workshop পরিদর্শন",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-2",
+            "title": "Job 2: Hazard Inspection Checklist",
+            "title_bn": "Checklist নিয়ে training workshop inspect করা"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 3",
+        "title": "Staying safe: controls, PPE and emergencies",
+        "title_bn": "নিরাপদ থাকা: control, PPE ও emergency",
+        "topics": [
+          {
+            "concept": "controlling-hazards",
+            "id": "controlling-hazards",
+            "title": "Controlling Hazards: Source, Path, Worker",
+            "title_bn": "Source, path, worker — কোথায় control"
+          },
+          {
+            "concept": "personal-protective-equipment",
+            "id": "personal-protective-equipment",
+            "title": "Personal Protective Equipment (PPE)",
+            "title_bn": "PPE-এর ধরন, শর্ত ও hygiene facilities"
+          },
+          {
+            "concept": "types-of-emergency",
+            "id": "types-of-emergency",
+            "title": "Types of Emergency",
+            "title_bn": "পাঁচ ধরনের emergency"
+          },
+          {
+            "concept": "emergency-plan",
+            "id": "emergency-plan",
+            "title": "Workplace Emergency Plan",
+            "title_bn": "Workplace emergency plan-এর আটটি বিষয়"
+          },
+          {
+            "concept": "emergency-equipment",
+            "id": "emergency-equipment",
+            "title": "Emergency Equipment and Being Prepared",
+            "title_bn": "Emergency equipment ও Be Prepared প্রশ্ন"
+          },
+          {
+            "concept": "if-you-get-hurt",
+            "id": "if-you-get-hurt",
+            "title": "If You Get Hurt at Work",
+            "title_bn": "আঘাত পেলে তিন ধাপ; employer-এর দায়িত্ব"
+          },
+          {
+            "concept": "emergency-response-plan",
+            "id": "emergency-response-plan",
+            "title": "Emergency Response Plan",
+            "title_bn": "Emergency Response Plan: কে বানায়, কী থাকে"
+          }
+        ]
+      },
+      {
+        "label": "Job 3 · Specification 3",
+        "title": "Job 3: Staying Safe (identify PPE)",
+        "title_bn": "Job 3: PPE চিনে কেন ব্যবহার করি লেখা",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-3",
+            "title": "Job 3: Staying Safe (identify PPE)",
+            "title_bn": "প্রতিটি PPE চিনে তার ব্যবহারের কারণ লেখা"
+          }
+        ]
+      },
+      {
+        "label": "Review of Competency",
+        "title": "Review of Competency: your self assessment rating",
+        "title_bn": "Review of Competency: নিজের প্রস্তুতি যাচাই",
+        "topics": [
+          {
+            "concept": null,
+            "id": "review-of-competency",
+            "title": "Review of Competency",
+            "title_bn": "নিজের দক্ষতা নিজে যাচাই করুন"
+          }
+        ]
+      }
+    ],
+    "guide": {
+      "outline": {
+        "covered": 98,
+        "total": 98
+      },
+      "sections": 10
+    },
     "hasPdf": true,
     "highlights": 74,
     "id": "cblm03",
@@ -98,6 +963,28 @@
       "workbook-worksheet-animation-transition"
     ],
     "covered": 0,
+    "groups": [
+      {
+        "label": "Topics",
+        "title": "",
+        "title_bn": null,
+        "topics": [
+          {
+            "concept": "ms-word-bullets-merge-cells",
+            "id": "ms-word-bullets-merge-cells",
+            "title": "MS Word Basics: Bullets and Merging Table Cells",
+            "title_bn": null
+          },
+          {
+            "concept": "workbook-worksheet-animation-transition",
+            "id": "workbook-worksheet-animation-transition",
+            "title": "Excel and PowerPoint Terms: Workbook vs Worksheet, Animation vs Transition",
+            "title_bn": null
+          }
+        ]
+      }
+    ],
+    "guide": null,
     "hasPdf": false,
     "highlights": 0,
     "id": "cblm04",
@@ -119,9 +1006,235 @@
       "development-opportunities",
       "performance-appraisal-methods",
       "quality-plan-components",
-      "tvet-developments-trends"
+      "tvet-developments-trends",
+      "responsibilities-in-work-goals",
+      "strategic-plan-rto"
     ],
     "covered": 39,
+    "groups": [
+      {
+        "label": "About this module",
+        "title": "Module, learning outcomes and performance criteria",
+        "title_bn": "মডিউল পরিচিতি, learning outcome ও performance criteria",
+        "topics": [
+          {
+            "concept": null,
+            "id": "module-at-a-glance",
+            "title": "Module at a glance",
+            "title_bn": "এই module কোন UoC থেকে, কী নিয়ে"
+          },
+          {
+            "concept": null,
+            "id": "learning-outcomes",
+            "title": "Learning outcomes and performance criteria",
+            "title_bn": "তিনটি LO আর প্রতিটির performance criteria"
+          },
+          {
+            "concept": null,
+            "id": "how-to-use-this-guide",
+            "title": "Content and how to use this guide",
+            "title_bn": "Module-এ কী আছে আর কীভাবে পড়বেন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part A",
+        "title": "Goals, strategic plan and quality plan of your institution",
+        "title_bn": "প্রতিষ্ঠানের goals, strategic plan ও quality plan",
+        "topics": [
+          {
+            "concept": "institutional-goals-objectives",
+            "id": "institutional-goals-objectives",
+            "title": "Analysing Your Institution's Goals and Objectives (CBLM 5)",
+            "title_bn": "প্রতিষ্ঠানের goals and objectives বিশ্লেষণ"
+          },
+          {
+            "concept": "strategic-plan-rto",
+            "id": "strategic-plan-rto",
+            "title": "Strategic Plan of a Registered Training Organisation (CBLM 5)",
+            "title_bn": "প্রতিষ্ঠানের long-term strategic plan ও তার উদাহরণ"
+          },
+          {
+            "concept": "quality-plan-components",
+            "id": "quality-plan-components",
+            "title": "Components of a Quality Plan (CBLM 5)",
+            "title_bn": "Quality plan-এর সাতটি উপাদান"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part B",
+        "title": "Modelling professional techniques and strategies",
+        "title_bn": "পেশাগত techniques ও strategies modelling",
+        "topics": [
+          {
+            "concept": "modelling-professional-techniques",
+            "id": "modelling-professional-techniques",
+            "title": "Modelling Professional Techniques and Strategies (CBLM 5)",
+            "title_bn": "নিজের দুর্বলতা খুঁজে ভালো কৌশল model করা"
+          },
+          {
+            "concept": "five-step-modelling",
+            "id": "five-step-modelling",
+            "title": "Five-Step Process of Modelling (CBLM 5)",
+            "title_bn": "Modelling-এর পাঁচটি ধাপ ও দুটি উদাহরণ"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part C",
+        "title": "Responsibilities in work goals and organisational/legal requirements",
+        "title_bn": "Work goals-এ দায়িত্ব ও প্রতিষ্ঠানের/আইনের requirements",
+        "topics": [
+          {
+            "concept": "responsibilities-in-work-goals",
+            "id": "responsibilities-in-work-goals",
+            "title": "Reflecting Responsibilities and Accountabilities in Personal Work Goals (CBLM 5)",
+            "title_bn": "Work goals-এ নিজের দায়িত্ব ও প্রতিষ্ঠানের plan দেখানো"
+          },
+          {
+            "concept": "organisational-legal-requirements",
+            "id": "organisational-legal-requirements",
+            "title": "Organisational and Legal Requirements for Personal Work Goals (CBLM 5)",
+            "title_bn": "প্রশিক্ষণ প্রতিষ্ঠানের organisational/legal requirements"
+          }
+        ]
+      },
+      {
+        "label": "Job 1 · Activities 1.1-1.2",
+        "title": "Job 1: Model High Standards of Performance",
+        "title_bn": "Job 1: উঁচু মানের performance model করা",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-1",
+            "title": "Job 1: Model High Standards of Performance",
+            "title_bn": "Modelling আর work goals-এ দায়িত্ব দেখানোর অনুশীলন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part A",
+        "title": "Assess your skills, use feedback and follow TVET trends",
+        "title_bn": "নিজের দক্ষতা যাচাই, feedback ও TVET-এর পরিবর্তন",
+        "topics": [
+          {
+            "concept": "assessing-own-professional-skills",
+            "id": "assessing-own-professional-skills",
+            "title": "Assessing Your Professional Skills and Future Career Options (CBLM 5)",
+            "title_bn": "নিজের skills যাচাই, পরিবর্তন ও ভবিষ্যৎ career"
+          },
+          {
+            "concept": "sources-of-performance-feedback",
+            "id": "sources-of-performance-feedback",
+            "title": "Sources of Feedback on Your Performance (CBLM 5)",
+            "title_bn": "নিজের কাজ নিয়ে feedback-এর উৎস"
+          },
+          {
+            "concept": "tvet-developments-trends",
+            "id": "tvet-developments-trends",
+            "title": "Developments and Trends Impacting Professional Practice (CBLM 5)",
+            "title_bn": "TVET-এর পরিবর্তন ও তাতে অংশ নেওয়া"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part B",
+        "title": "Appraisal, SMART goals and the Professional Development Plan",
+        "title_bn": "Appraisal, SMART goals ও Professional Development Plan",
+        "topics": [
+          {
+            "concept": "performance-appraisal-methods",
+            "id": "performance-appraisal-methods",
+            "title": "Performance Appraisal Methods (CBLM 5)",
+            "title_bn": "চার ধরনের performance appraisal ও feedback দেওয়ার নিয়ম"
+          },
+          {
+            "concept": "smart-goals",
+            "id": "smart-goals",
+            "title": "SMART Goals for Personal Development (CBLM 5)",
+            "title_bn": "Learning needs-কে SMART goal বানানো ও priority ঠিক করা"
+          },
+          {
+            "concept": "professional-development-plan",
+            "id": "professional-development-plan",
+            "title": "Professional Development Plan (CBLM 5)",
+            "title_bn": "Professional Development Plan: অংশ, অনুমোদন ও নমুনা"
+          }
+        ]
+      },
+      {
+        "label": "Job 2 · Specification Sheet 2.1",
+        "title": "Job 2: Determine personal development needs and develop a plan",
+        "title_bn": "Job 2: নিজের উন্নয়নের প্রয়োজন ঠিক করে plan বানানো",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-2",
+            "title": "Job 2: Determine personal development needs and develop a plan",
+            "title_bn": "নিজের Personal Professional Skill Development Plan লেখার অনুশীলন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 3",
+        "title": "Participate in professional development activities",
+        "title_bn": "Professional development activities-এ অংশ নেওয়া",
+        "topics": [
+          {
+            "concept": "development-opportunities",
+            "id": "development-opportunities",
+            "title": "Development Opportunities that Support Continuous Learning (CBLM 5)",
+            "title_bn": "ধারাবাহিক শেখার আটটি সুযোগ"
+          },
+          {
+            "concept": "ways-of-professional-development",
+            "id": "ways-of-professional-development",
+            "title": "Continuous Learning and Four Ways to Professional Development (CBLM 5)",
+            "title_bn": "পেশাগত উন্নয়নের চারটি উপায়, continuous learning ও currency"
+          },
+          {
+            "concept": "professional-networks",
+            "id": "professional-networks",
+            "title": "Professional Networks for Continuous Learning (CBLM 5)",
+            "title_bn": "Networking: দেওয়া-নেওয়া, টিপস ও BPTA/BPTC"
+          }
+        ]
+      },
+      {
+        "label": "Job 3",
+        "title": "Job 3: Participate in Professional Development Activities",
+        "title_bn": "Job 3: professional development activities-এ অংশ নেওয়া",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-3",
+            "title": "Job 3: Participate in Professional Development Activities",
+            "title_bn": "উন্নয়নের সুযোগ, currency ও network-এর অনুশীলন"
+          }
+        ]
+      },
+      {
+        "label": "Review of Competency",
+        "title": "Review of Competency: your self assessment rating",
+        "title_bn": "Review of Competency: নিজের প্রস্তুতি যাচাই",
+        "topics": [
+          {
+            "concept": null,
+            "id": "review-of-competency",
+            "title": "Review of Competency",
+            "title_bn": "নিজের দক্ষতা নিজে যাচাই করুন"
+          }
+        ]
+      }
+    ],
+    "guide": {
+      "outline": {
+        "covered": 99,
+        "total": 99
+      },
+      "sections": 11
+    },
     "hasPdf": true,
     "highlights": 39,
     "id": "cblm05",
@@ -151,9 +1264,311 @@
       "toxic-waste-disposal",
       "workshop-environmental-factors",
       "workshop-storage-security",
-      "workshop-safety-procedures"
+      "workshop-safety-procedures",
+      "equipment-maintenance-schedule",
+      "maintenance-5ms",
+      "maintenance-program-schedule",
+      "maintenance-reporting-documentation",
+      "manufacturers-manual-proper-use",
+      "stores-racks-mezzanine",
+      "workspace-equipment-location"
     ],
     "covered": 57,
+    "groups": [
+      {
+        "label": "About this module",
+        "title": "Module, learning outcomes and performance criteria",
+        "title_bn": "মডিউল পরিচিতি, learning outcome ও performance criteria",
+        "topics": [
+          {
+            "concept": null,
+            "id": "module-at-a-glance",
+            "title": "Module at a glance",
+            "title_bn": "এই module কোন UoC থেকে, কী নিয়ে"
+          },
+          {
+            "concept": null,
+            "id": "learning-outcomes",
+            "title": "Learning outcomes and performance criteria",
+            "title_bn": "তিনটি LO আর দুই element-এর performance criteria"
+          },
+          {
+            "concept": "parts-of-cblm",
+            "id": "how-to-use-this-guide",
+            "title": "Major Parts of a CBLM",
+            "title_bn": "Learning package-এর বিষয়, পূর্বশর্ত ও পড়ার পথ"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part A",
+        "title": "Housekeeping, safety, first aid and storage",
+        "title_bn": "Housekeeping, নিরাপত্তা, first aid আর জিনিস রাখার নিয়ম",
+        "topics": [
+          {
+            "concept": "housekeeping-workshop",
+            "id": "housekeeping-workshop",
+            "title": "Housekeeping in the Training Workshop",
+            "title_bn": "Housekeeping মানে কী, workshop কীভাবে পরিষ্কার রাখবেন"
+          },
+          {
+            "concept": "well-organised-workshop",
+            "id": "well-organised-workshop",
+            "title": "Characteristics of a Well-Organised Workshop",
+            "title_bn": "ভালোভাবে সাজানো workshop-এর ১৪টি লক্ষণ"
+          },
+          {
+            "concept": "five-s-workshop",
+            "id": "five-s-workshop",
+            "title": "5S Approach in Workshop Keeping",
+            "title_bn": "5S: Sort, Set in order, Shine, Standardize, Sustain (প্রশ্নপত্র থেকে)"
+          },
+          {
+            "concept": "workshop-safety-procedures",
+            "id": "workshop-safety-procedures",
+            "title": "Safety Factors: Procedures for a Safe Workshop",
+            "title_bn": "নিরাপদ workshop-এর ১২টি procedure"
+          },
+          {
+            "concept": "first-aid-kit",
+            "id": "first-aid-kit",
+            "title": "Basic First Aid Kit",
+            "title_bn": "First aid kit-এর বাক্স আর ভেতরের ১২টি জিনিস"
+          },
+          {
+            "concept": "workshop-storage-security",
+            "id": "workshop-storage-security",
+            "title": "Workshop Storage, Security and Access",
+            "title_bn": "জিনিস রাখার নিয়ম, security আর access"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part B",
+        "title": "System of instruction, CBT facility and learning resources",
+        "title_bn": "Instruction-এর ধরন, CBT facility আর learning resources",
+        "topics": [
+          {
+            "concept": "instruction-system-workshop",
+            "id": "instruction-system-workshop",
+            "title": "System of Instruction and Workshop Design (Teacher-Centred vs Student-Centred)",
+            "title_bn": "Teacher-centred বনাম student-centred workshop"
+          },
+          {
+            "concept": "cbt-facility-curriculum",
+            "id": "cbt-facility-curriculum",
+            "title": "Planning a Facility for Competency-Based Training (CBT Curriculum)",
+            "title_bn": "CBT facility পরিকল্পনা আর CBT curriculum-এর ১২টি বৈশিষ্ট্য"
+          },
+          {
+            "concept": "facility-resources-equipment",
+            "id": "facility-resources-equipment",
+            "title": "Learning Resources, Equipment and Their Storage in a Training Facility",
+            "title_bn": "Learning resources, equipment আর সেগুলো কোথায় রাখবেন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part C",
+        "title": "Workplace, layout, storage and the workshop environment",
+        "title_bn": "কাজের জায়গা, layout, store আর workshop-এর পরিবেশ",
+        "topics": [
+          {
+            "concept": "workspace-equipment-location",
+            "id": "workspace-equipment-location",
+            "title": "Workplace Considerations: Workspace and Location of Equipment",
+            "title_bn": "কাজের জায়গা আর fixed machinery বসানোর ৫টি নিয়ম"
+          },
+          {
+            "concept": null,
+            "id": "workshop-layouts",
+            "title": "Sample workshop layouts",
+            "title_bn": "দুটি নমুনা workshop layout (১৫ জন trainee)"
+          },
+          {
+            "concept": "shop-layout-factors",
+            "id": "shop-layout-factors",
+            "title": "Factors to Consider in Laying Out a Shop",
+            "title_bn": "Shop layout করার সময় ২৬টি বিষয়"
+          },
+          {
+            "concept": "shadow-board",
+            "id": "shadow-board",
+            "title": "Shadow Board and Tool Boards",
+            "title_bn": "Shadow board, tool board আর trolley"
+          },
+          {
+            "concept": "stores-racks-mezzanine",
+            "id": "stores-racks-mezzanine",
+            "title": "Storage Considerations: Stores Manager, Racks and Mezzanine Storage",
+            "title_bn": "Stores manager, rack আর mezzanine store"
+          },
+          {
+            "concept": "workshop-environmental-factors",
+            "id": "workshop-environmental-factors",
+            "title": "Workshop Environmental Factors: Temperature, Ventilation and Lighting",
+            "title_bn": "তাপমাত্রা, বাতাস চলাচল আর আলো"
+          },
+          {
+            "concept": "toxic-waste-disposal",
+            "id": "toxic-waste-disposal",
+            "title": "Disposal of Toxic Waste and Recycling",
+            "title_bn": "বিষাক্ত বর্জ্য ফেলা, spill সামলানো আর recycling"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part D",
+        "title": "Reporting and documentation process",
+        "title_bn": "Maintenance-এর পরিকল্পনা, কাজ, report আর document",
+        "topics": [
+          {
+            "concept": "maintenance-planning-goals",
+            "id": "maintenance-planning-goals",
+            "title": "Planning, Scheduling and Goals of the Maintenance Department",
+            "title_bn": "Planning, scheduling আর maintenance department-এর লক্ষ্য"
+          },
+          {
+            "concept": "periodic-maintenance",
+            "id": "periodic-maintenance",
+            "title": "Periodic Maintenance and the Historical Record",
+            "title_bn": "Periodic maintenance, work order আর historical record"
+          },
+          {
+            "concept": "maintenance-activities",
+            "id": "maintenance-activities",
+            "title": "Maintenance Department Activities (Inspection to Salvage)",
+            "title_bn": "Inspection থেকে salvage: maintenance department-এর কাজ"
+          },
+          {
+            "concept": "maintenance-reporting-documentation",
+            "id": "maintenance-reporting-documentation",
+            "title": "Reporting Process and Documentation Process (Inspection Reports)",
+            "title_bn": "Inspection report-এর পরে কী, আর তিনটি নমুনা ফর্ম"
+          }
+        ]
+      },
+      {
+        "label": "Job 1 · Specification 1",
+        "title": "Implement housekeeping activity",
+        "title_bn": "Job 1: housekeeping checklist পূরণ আর storage method লেখা",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-1",
+            "title": "Job 1: Implement housekeeping activity",
+            "title_bn": "Job 1: housekeeping checklist আর storage methods"
+          },
+          {
+            "concept": null,
+            "id": "specification-1",
+            "title": "Specification 1: Housekeeping activity checklist",
+            "title_bn": "Housekeeping checklist-এর ৮টি অংশ ও ৩৩টি লাইন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part A",
+        "title": "Maintenance: meaning, types, program and the quality cycle",
+        "title_bn": "Maintenance কী, কত প্রকার, program আর QMC",
+        "topics": [
+          {
+            "concept": "maintenance-definition",
+            "id": "maintenance-definition",
+            "title": "Maintenance: Definition",
+            "title_bn": "Maintenance-এর সংজ্ঞা (CBLM আর European Federation)"
+          },
+          {
+            "concept": "preventive-corrective-maintenance",
+            "id": "preventive-corrective-maintenance",
+            "title": "Preventive vs Corrective Maintenance",
+            "title_bn": "Preventive বনাম corrective, আর proactive maintenance"
+          },
+          {
+            "concept": "maintenance-program-schedule",
+            "id": "maintenance-program-schedule",
+            "title": "Maintenance Program and Maintenance Schedule",
+            "title_bn": "Maintenance program বনাম maintenance schedule"
+          },
+          {
+            "concept": "quality-management-cycle",
+            "id": "quality-management-cycle",
+            "title": "Quality Management Cycle (Plan-Do-Check-Act) in Maintenance",
+            "title_bn": "Quality management আর Plan-Do-Check-Act"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part B",
+        "title": "Why and how to maintain: objectives, 5Ms, schedule and manuals",
+        "title_bn": "কেন ও কীভাবে maintain করবেন: লক্ষ্য, 5Ms, schedule, manual",
+        "topics": [
+          {
+            "concept": "why-maintain-facilities",
+            "id": "why-maintain-facilities",
+            "title": "Why Maintain Equipment and Facilities: Objectives and Gains",
+            "title_bn": "Equipment কেন maintain করবেন: লক্ষ্য আর লাভ"
+          },
+          {
+            "concept": "maintenance-5ms",
+            "id": "maintenance-5ms",
+            "title": "Planning Maintenance: Who, What, Where, When and How (5Ms)",
+            "title_bn": "Who, What, Where, When আর How (5Ms)"
+          },
+          {
+            "concept": "equipment-maintenance-schedule",
+            "id": "equipment-maintenance-schedule",
+            "title": "Equipment Maintenance Schedule and Inspection Checklist",
+            "title_bn": "Desktop computer-এর maintenance schedule আর inspection checklist"
+          },
+          {
+            "concept": "manufacturers-manual-proper-use",
+            "id": "manufacturers-manual-proper-use",
+            "title": "Proper Use of Equipment and the Manufacturer's Manual",
+            "title_bn": "সঠিক ব্যবহার আর manufacturer's manual"
+          },
+          {
+            "concept": "steps-maintaining-equipment",
+            "id": "steps-maintaining-equipment",
+            "title": "Steps in Maintaining Training Equipment and Tools",
+            "title_bn": "Equipment ও tools maintain করার ধাপ (প্রশ্নপত্র) আর Job 2-এর ৫টি কাজ"
+          }
+        ]
+      },
+      {
+        "label": "Job 2 · Specification 02",
+        "title": "Maintain training equipment and tools",
+        "title_bn": "Job 2: tool maintenance checklist পূরণ",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-2",
+            "title": "Job 2: Maintain training equipment and tools",
+            "title_bn": "Job 2: tool maintenance-এর ৫টি কাজের checklist"
+          }
+        ]
+      },
+      {
+        "label": "Review of Competency",
+        "title": "Review of Competency: your self assessment rating",
+        "title_bn": "Review of Competency: নিজের দক্ষতা নিজে যাচাই",
+        "topics": [
+          {
+            "concept": null,
+            "id": "review-of-competency",
+            "title": "Review of Competency",
+            "title_bn": "নিজের দক্ষতা নিজে যাচাই করুন"
+          }
+        ]
+      }
+    ],
+    "guide": {
+      "outline": {
+        "covered": 119,
+        "total": 119
+      },
+      "sections": 10
+    },
     "hasPdf": true,
     "highlights": 57,
     "id": "cblm06",
@@ -170,9 +1585,177 @@
       "evidence-definition",
       "session-learning-outcome-criteria",
       "technical-self-assessment",
-      "technical-skills-knowledge-gaps"
+      "technical-skills-knowledge-gaps",
+      "prove-technical-competency",
+      "technical-competency-planner"
     ],
     "covered": 28,
+    "groups": [
+      {
+        "label": "About this module",
+        "title": "Module, learning outcomes and performance criteria",
+        "title_bn": "মডিউল পরিচিতি, learning outcome ও performance criteria",
+        "topics": [
+          {
+            "concept": null,
+            "id": "module-at-a-glance",
+            "title": "Module at a glance",
+            "title_bn": "এই module কোন UoC থেকে, কী নিয়ে"
+          },
+          {
+            "concept": null,
+            "id": "learning-outcomes",
+            "title": "Learning outcomes and performance criteria",
+            "title_bn": "চারটি LO আর প্রতিটির performance criteria"
+          },
+          {
+            "concept": null,
+            "id": "how-to-use-this-guide",
+            "title": "How to use this learning guide",
+            "title_bn": "এই learning guide কীভাবে পড়বেন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part 1",
+        "title": "Identify relevant competency standards for own technical field",
+        "title_bn": "নিজের technical field-এর competency standards খোঁজা",
+        "topics": [
+          {
+            "concept": "maintaining-technical-competency",
+            "id": "maintaining-technical-competency",
+            "title": "Why Maintain and Enhance Technical Competency (CBLM 7)",
+            "title_bn": "TVET trainer-কে কেন দক্ষতা বাড়াতেই হবে"
+          },
+          {
+            "concept": "competency-standard-sources",
+            "id": "competency-standard-sources",
+            "title": "Sources of Competency Standards Documents (CBLM 7)",
+            "title_bn": "Competency Standard Document কোথায় পাবেন; ১২টি sub sector"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part 2",
+        "title": "Assess own technical skills against industry competency standards",
+        "title_bn": "Industry standard-এর সাথে নিজের দক্ষতা যাচাই",
+        "topics": [
+          {
+            "concept": "technical-self-assessment",
+            "id": "technical-self-assessment",
+            "title": "Self-Assessment of Own Technical Skills: Four Steps (CBLM 7)",
+            "title_bn": "Self assessment কী ও তার চার ধাপ"
+          },
+          {
+            "concept": "technical-skills-knowledge-gaps",
+            "id": "technical-skills-knowledge-gaps",
+            "title": "Underpinning Skills and Knowledge: Finding Own Skills and Knowledge Gaps (CBLM 7)",
+            "title_bn": "Underpinning skills ও knowledge; নিজের gap খোঁজা"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part 3",
+        "title": "Develop personal training plan for technical competency",
+        "title_bn": "Technical competency বাড়ানোর ব্যক্তিগত training plan",
+        "topics": [
+          {
+            "concept": "technical-competency-development-plan",
+            "id": "technical-competency-development-plan",
+            "title": "Personal Plan for Technical Competency (CBLM 7)",
+            "title_bn": "Plan কখন, কেন ও কার সাথে পরামর্শ করে"
+          },
+          {
+            "concept": "session-learning-outcome-criteria",
+            "id": "session-learning-outcome-criteria",
+            "title": "Criteria for Session Learning Outcomes (Observable, Measurable, Action Verbs)",
+            "title_bn": "Learning outcome কী; CBLM 7-এ দুটি শর্ত"
+          },
+          {
+            "concept": "evidence-definition",
+            "id": "evidence-definition",
+            "title": "Evidence in Competency Based Assessment",
+            "title_bn": "Evidence কী, কোথা থেকে আসে; products ও processes"
+          },
+          {
+            "concept": "forms-of-evidence",
+            "id": "forms-of-evidence",
+            "title": "Forms of Evidence: Direct and Indirect",
+            "title_bn": "Evidence-এর দুই রূপ: direct ও indirect"
+          },
+          {
+            "concept": "technical-training-strategy",
+            "id": "technical-training-strategy",
+            "title": "Learning/Training Strategy for Technical Competency: Course or Industrial Attachment (CBLM 7)",
+            "title_bn": "দুটি strategy: course বনাম industrial attachment"
+          },
+          {
+            "concept": "technical-competency-planner",
+            "id": "technical-competency-planner",
+            "title": "Technical Competency Development Planner: Summary, Plan and Certification (CBLM 7)",
+            "title_bn": "Planner-এর নমুনা: Summary, Plan ও Certification"
+          },
+          {
+            "concept": null,
+            "id": "approval-and-participation",
+            "title": "Gain approval and participate in training",
+            "title_bn": "Plan-এর approval নেওয়া ও training-এ অংশ নেওয়া"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part 4",
+        "title": "Prove competency",
+        "title_bn": "Competency প্রমাণ ও certification",
+        "topics": [
+          {
+            "concept": "prove-technical-competency",
+            "id": "prove-technical-competency",
+            "title": "Prove Competency: Evidence to the Industry Specialist and Certification (CBLM 7)",
+            "title_bn": "Industry specialist-কে evidence দেখানো ও সনদ জমা"
+          }
+        ]
+      },
+      {
+        "label": "Job 1 · Specification Sheet 1",
+        "title": "Job 1 and Specification Sheet 1",
+        "title_bn": "Job 1 ও Specification Sheet 1: নিজের planner পূরণ",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-1",
+            "title": "Job 1: Identify relevant competency standards for own technical field",
+            "title_bn": "পুরো module-এর সাত ধাপ নিজে করে দেখা"
+          },
+          {
+            "concept": null,
+            "id": "specification-sheet-1",
+            "title": "Specification Sheet 1: documents, tools and the blank planner",
+            "title_bn": "কোন documents ও উপকরণ লাগবে; ফাঁকা planner"
+          }
+        ]
+      },
+      {
+        "label": "Review of Competency",
+        "title": "Review of Competency: your self assessment rating",
+        "title_bn": "Review of Competency: নিজের প্রস্তুতি যাচাই",
+        "topics": [
+          {
+            "concept": null,
+            "id": "review-of-competency",
+            "title": "Review of Competency",
+            "title_bn": "নিজের দক্ষতা নিজে যাচাই করুন"
+          }
+        ]
+      }
+    ],
+    "guide": {
+      "outline": {
+        "covered": 61,
+        "total": 61
+      },
+      "sections": 7
+    },
     "hasPdf": true,
     "highlights": 28,
     "id": "cblm07",
@@ -200,9 +1783,269 @@
       "writing-learning-outcomes",
       "good-information-sheet",
       "identifying-existing-resources",
-      "what-is-cblm"
+      "what-is-cblm",
+      "cblm-developer-notes",
+      "checklist-selecting-resources",
+      "copyright-considerations"
     ],
     "covered": 90,
+    "groups": [
+      {
+        "label": "About this module",
+        "title": "Module, learning outcomes and performance criteria",
+        "title_bn": "মডিউল পরিচিতি, learning outcome ও performance criteria",
+        "topics": [
+          {
+            "concept": null,
+            "id": "module-at-a-glance",
+            "title": "Module at a glance",
+            "title_bn": "এই module কী নিয়ে, কোন কোন অংশ আছে"
+          },
+          {
+            "concept": null,
+            "id": "learning-outcomes",
+            "title": "Learning outcomes and performance criteria",
+            "title_bn": "তিনটি LO আর সাতটি performance criteria"
+          },
+          {
+            "concept": null,
+            "id": "how-to-use-this-guide",
+            "title": "How to use this learning guide and Learning Activities",
+            "title_bn": "এই learning guide কীভাবে পড়বেন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part A",
+        "title": "Competency standards, curriculum, learning materials and learning outcomes",
+        "title_bn": "Competency standards, curriculum, learning material ও learning outcome",
+        "topics": [
+          {
+            "concept": null,
+            "id": "information-sheet-1",
+            "title": "Information Sheet 01: Learning Material",
+            "title_bn": "Information Sheet 01-এর শুরু: existing resource খোঁজা"
+          },
+          {
+            "concept": "industry-competency-standards",
+            "id": "industry-competency-standards",
+            "title": "Industry Competency Standards",
+            "title_bn": "Competency standards কী, কী দিয়ে তৈরি, কী থাকে"
+          },
+          {
+            "concept": "curriculum-document",
+            "id": "curriculum-document",
+            "title": "Curriculum Document in CBT&A",
+            "title_bn": "Curriculum document কী ও এতে কোন ৯টি তথ্য থাকে"
+          },
+          {
+            "concept": "why-use-learning-materials",
+            "id": "why-use-learning-materials",
+            "title": "Why Use Learning Materials",
+            "title_bn": "Learning material কেন ব্যবহার করি (৫টি কারণ)"
+          },
+          {
+            "concept": "good-learning-material",
+            "id": "good-learning-material",
+            "title": "What Makes Good Learning Material",
+            "title_bn": "Adult learning-এর ৬ নীতি ও ভালো material-এর লক্ষণ"
+          },
+          {
+            "concept": null,
+            "id": "cbt-learning-design-process",
+            "title": "Linkages between curriculum and competency standard terms; CBT Learning Design Process",
+            "title_bn": "Curriculum আর competency standard কীভাবে জড়িত (ডায়াগ্রাম)"
+          },
+          {
+            "concept": "learning-outcome-vs-element",
+            "id": "learning-outcome-vs-element",
+            "title": "Learning Outcome vs Element of Competency",
+            "title_bn": "Learning outcome বনাম element: কোনটা কোন document-এর"
+          },
+          {
+            "concept": "assessment-vs-performance-criteria",
+            "id": "assessment-vs-performance-criteria",
+            "title": "Assessment Criteria vs Performance Criteria",
+            "title_bn": "Assessment criteria আর performance criteria একই জিনিস"
+          },
+          {
+            "concept": "validating-training-requirements",
+            "id": "validating-training-requirements",
+            "title": "Validating Training Requirements",
+            "title_bn": "Training requirement কাদের দিয়ে যাচাই (validate) করবেন"
+          },
+          {
+            "concept": "writing-learning-outcomes",
+            "id": "writing-learning-outcomes",
+            "title": "Writing Learning Outcomes and Assessment Criteria",
+            "title_bn": "Learning outcome ও assessment criteria লেখার নিয়ম"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part B",
+        "title": "Existing resources: identify, adapt, check and select",
+        "title_bn": "Existing resource: খোঁজা, adapt করা, যাচাই ও বাছাই",
+        "topics": [
+          {
+            "concept": "identifying-existing-resources",
+            "id": "identifying-existing-resources",
+            "title": "Identifying Existing Learning Resources",
+            "title_bn": "Existing resource খোঁজা ও repurpose করা"
+          },
+          {
+            "concept": "adapting-existing-materials",
+            "id": "adapting-existing-materials",
+            "title": "Steps for Adapting Existing Learning Materials",
+            "title_bn": "Existing material adapt করার ৭টি ধাপ"
+          },
+          {
+            "concept": "range-of-learning-resources",
+            "id": "range-of-learning-resources",
+            "title": "Range of Learning Operational Resources",
+            "title_bn": "Operational resources (১১) আর consumables (৭)"
+          },
+          {
+            "concept": "checking-existing-resources",
+            "id": "checking-existing-resources",
+            "title": "Checking Existing Learning Resources",
+            "title_bn": "Existing resource যাচাই: language, learner, relevance"
+          },
+          {
+            "concept": "checklist-selecting-resources",
+            "id": "checklist-selecting-resources",
+            "title": "Checklist for Selecting Learning Resources",
+            "title_bn": "Resource বাছাইয়ের checklist (২ + ১৩)"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part A",
+        "title": "Creating new resources: Gagné's steps, learning activities and copyright",
+        "title_bn": "নতুন resource: Gagné-এর ধাপ, learning method ও copyright",
+        "topics": [
+          {
+            "concept": null,
+            "id": "information-sheet-2",
+            "title": "Information Sheet 02: Effective Writing",
+            "title_bn": "Information Sheet 02-এর শুরু: নতুন resource তৈরি"
+          },
+          {
+            "concept": "gagne-nine-steps",
+            "id": "gagne-nine-steps",
+            "title": "Gagné's Nine Steps for Writing Learning Materials",
+            "title_bn": "Gagné-এর ৯টি ধাপ — লেখার কাঠামো"
+          },
+          {
+            "concept": "learning-activity-methods",
+            "id": "learning-activity-methods",
+            "title": "Learning Activities and Methods for Learning Materials",
+            "title_bn": "১২টি learning method আর প্রতিটির খুঁটিনাটি"
+          },
+          {
+            "concept": "copyright-considerations",
+            "id": "copyright-considerations",
+            "title": "Copyright Considerations When Writing Learning Materials",
+            "title_bn": "Copyright: কী রক্ষা করে, moral rights, permission"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part B",
+        "title": "Writing effective materials and your writing style",
+        "title_bn": "কার্যকর material লেখা ও নিজের লেখার ধরন",
+        "topics": [
+          {
+            "concept": "preparing-to-write-materials",
+            "id": "preparing-to-write-materials",
+            "title": "Preparing to Write Learning Materials",
+            "title_bn": "লেখার আগে প্রস্তুতি (৫টি জিনিস)"
+          },
+          {
+            "concept": "developing-writing-style",
+            "id": "developing-writing-style",
+            "title": "Key Points for Developing Your Writing Style",
+            "title_bn": "লেখার ধরন: ৯টি key point ও Booher-এর ৪ টিপস"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part C",
+        "title": "Developing CBLM: parts, information sheet and underpinning knowledge",
+        "title_bn": "CBLM তৈরি: অংশসমূহ, information sheet ও underpinning knowledge",
+        "topics": [
+          {
+            "concept": "what-is-cblm",
+            "id": "what-is-cblm",
+            "title": "Competency Based Learning Material (CBLM)",
+            "title_bn": "CBLM কী এবং কেন ব্যবহার করি"
+          },
+          {
+            "concept": "parts-of-cblm",
+            "id": "parts-of-cblm",
+            "title": "Major Parts of a CBLM",
+            "title_bn": "CBLM-এর ৫টি প্রধান অংশ ও প্রতিটির সংজ্ঞা"
+          },
+          {
+            "concept": "good-information-sheet",
+            "id": "good-information-sheet",
+            "title": "Characteristics of a Good Information Sheet",
+            "title_bn": "ভালো information sheet-এর ৭টি বৈশিষ্ট্য"
+          },
+          {
+            "concept": "underpinning-knowledge-job-target",
+            "id": "underpinning-knowledge-job-target",
+            "title": "Underpinning Knowledge and the Job Target",
+            "title_bn": "Underpinning knowledge, job target ও toaster-এর উদাহরণ"
+          }
+        ]
+      },
+      {
+        "label": "Job Sheet 1 · Specification Sheet 1",
+        "title": "Develop CBLM using the sample CBLM format",
+        "title_bn": "Job 1: sample format দেখে নিজের trade-এর CBLM বানানো",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-1",
+            "title": "Job Sheet 1 and Specification Sheet 1: Develop CBLM",
+            "title_bn": "Job 1: একটি UoC-এর পুরো CBLM তৈরি"
+          },
+          {
+            "concept": null,
+            "id": "sample-cblm-format",
+            "title": "Sample CBLM format: contents, overview, how to use, learning activities",
+            "title_bn": "CBLM-এর প্রথম চার পাতার ছাঁচ"
+          },
+          {
+            "concept": "cblm-developer-notes",
+            "id": "cblm-developer-notes",
+            "title": "Notes to the CBLM Developer: Writing Each Sheet of a CBLM",
+            "title_bn": "প্রতিটি sheet লেখার নিয়ম ও ছাঁচ"
+          }
+        ]
+      },
+      {
+        "label": "Review of Competency",
+        "title": "Review of Competency - Developing CBLM",
+        "title_bn": "Review of Competency: নিজের দক্ষতা নিজে যাচাই",
+        "topics": [
+          {
+            "concept": null,
+            "id": "review-of-competency",
+            "title": "Review of Competency - Developing CBLM",
+            "title_bn": "সাতটি PC-তে নিজেকে Yes/No দিন"
+          }
+        ]
+      }
+    ],
+    "guide": {
+      "outline": {
+        "covered": 102,
+        "total": 102
+      },
+      "sections": 8
+    },
     "hasPdf": true,
     "highlights": 90,
     "id": "cblm08",
@@ -231,12 +2074,382 @@
       "program-delivery-plan",
       "pwd-inclusion-strategies",
       "learner-characteristics-planning",
+      "planning-training-sessions",
+      "self-assessment-guide",
       "session-outcomes-psc",
       "session-review",
       "session-sequencing",
-      "training-delivery-modes"
+      "training-delivery-modes",
+      "training-program-aim",
+      "training-support-people",
+      "tvet-learner-profile"
     ],
     "covered": 128,
+    "groups": [
+      {
+        "label": "About this module",
+        "title": "Module, learning outcomes and performance criteria",
+        "title_bn": "মডিউল পরিচিতি, learning outcome ও performance criteria",
+        "topics": [
+          {
+            "concept": null,
+            "id": "module-at-a-glance",
+            "title": "Module at a glance",
+            "title_bn": "এই module কোন UoC থেকে, কী নিয়ে"
+          },
+          {
+            "concept": null,
+            "id": "learning-outcomes",
+            "title": "Learning outcomes and performance criteria",
+            "title_bn": "তিনটি LO আর প্রতিটির performance criteria"
+          },
+          {
+            "concept": null,
+            "id": "how-to-use-this-guide",
+            "title": "Content and how to use this guide",
+            "title_bn": "Content আর এই learning guide কীভাবে ব্যবহার করবেন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part A",
+        "title": "Training needs, the TVET learner and pre-assessment",
+        "title_bn": "Training needs, TVET learner ও pre-assessment",
+        "topics": [
+          {
+            "concept": "training-needs-gap",
+            "id": "training-needs-gap",
+            "title": "Training Needs: The Competency Gap",
+            "title_bn": "Training need = required আর current competency-র gap"
+          },
+          {
+            "concept": "tvet-learner-profile",
+            "id": "tvet-learner-profile",
+            "title": "Who Is the TVET Learner?",
+            "title_bn": "TVET learner কে, কেন আসে"
+          },
+          {
+            "concept": "learner-characteristics-planning",
+            "id": "learner-characteristics-planning",
+            "title": "Learner Characteristics for Session Planning",
+            "title_bn": "Learner-এর নয়টি বৈশিষ্ট্য আর planning-এ প্রভাব"
+          },
+          {
+            "concept": "gender-inclusive-classroom",
+            "id": "gender-inclusive-classroom",
+            "title": "Strategies for Gender Inclusivity in the Class",
+            "title_bn": "ক্লাসে gender inclusivity নিশ্চিত করার কৌশল"
+          },
+          {
+            "concept": "pwd-inclusion-strategies",
+            "id": "pwd-inclusion-strategies",
+            "title": "Strategies to Include Persons with Disability (PWDs) in the Class",
+            "title_bn": "প্রতিবন্ধী (PWD) trainees-কে ক্লাসে যুক্ত করার কৌশল"
+          },
+          {
+            "concept": "pre-assessment-of-trainees",
+            "id": "pre-assessment-of-trainees",
+            "title": "Pre-assessment of a Trainee's Current Competency",
+            "title_bn": "Trainee-র current competency কীভাবে যাচাই করবেন"
+          },
+          {
+            "concept": "self-assessment-guide",
+            "id": "self-assessment-guide",
+            "title": "Self-Assessment Guide (Pre-Training Self-Assessment Checklist)",
+            "title_bn": "Self-assessment guide কী, নমুনা checklist"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part B",
+        "title": "Competency standards and a sample unit of competency",
+        "title_bn": "Competency standard ও একটি নমুনা unit of competency",
+        "topics": [
+          {
+            "concept": "industry-competency-standards",
+            "id": "industry-competency-standards",
+            "title": "Industry Competency Standards",
+            "title_bn": "Competency standard কী, কী থাকে"
+          },
+          {
+            "concept": "competency-standard-components",
+            "id": "competency-standard-components",
+            "title": "Components of a Competency Standard (Unit of Competency)",
+            "title_bn": "Unit of competency-র অংশগুলো (components)"
+          },
+          {
+            "concept": null,
+            "id": "sample-unit-of-competency",
+            "title": "Sample unit of competency: TVTENV502",
+            "title_bn": "নমুনা unit: TVTENV502 — প্রতিটি অংশ দেখতে কেমন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part C",
+        "title": "Curriculum documents and validating training requirements",
+        "title_bn": "Curriculum document ও training requirements validate করা",
+        "topics": [
+          {
+            "concept": "curriculum-document",
+            "id": "curriculum-document",
+            "title": "Curriculum Document in CBT&A",
+            "title_bn": "Curriculum document কী, কী থাকে, মানতে হবে কেন"
+          },
+          {
+            "concept": "learning-outcome-vs-element",
+            "id": "learning-outcome-vs-element",
+            "title": "Learning Outcome vs Element of Competency",
+            "title_bn": "Learning outcome বনাম element of competency"
+          },
+          {
+            "concept": "assessment-vs-performance-criteria",
+            "id": "assessment-vs-performance-criteria",
+            "title": "Assessment Criteria vs Performance Criteria",
+            "title_bn": "Assessment criteria আর performance criteria একই জিনিস"
+          },
+          {
+            "concept": "validating-training-requirements",
+            "id": "validating-training-requirements",
+            "title": "Validating Training Requirements",
+            "title_bn": "Training requirements কাদের সাথে validate করবেন"
+          }
+        ]
+      },
+      {
+        "label": "Job 1",
+        "title": "Job 1 and Activities 1.1-1.2",
+        "title_bn": "Job 1: training requirements নির্ধারণের অনুশীলন",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-1",
+            "title": "Job 1: Determine trainees training requirements",
+            "title_bn": "Learner-এর বৈশিষ্ট্য ও self assessment guide নিয়ে অনুশীলন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part A",
+        "title": "The training program aim and the program delivery plan",
+        "title_bn": "Training program-এর aim ও program delivery plan",
+        "topics": [
+          {
+            "concept": "training-program-aim",
+            "id": "training-program-aim",
+            "title": "Overall Aim and Outcome of a Training Program",
+            "title_bn": "Training program-এর overall aim ও outcome"
+          },
+          {
+            "concept": "program-delivery-plan",
+            "id": "program-delivery-plan",
+            "title": "Program Delivery Plan",
+            "title_bn": "Delivery plan কী, কী থাকে, কেন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part B",
+        "title": "Planning a session: session plan, session outcomes and steps",
+        "title_bn": "Session পরিকল্পনা: session plan, outcomes ও ধাপ",
+        "topics": [
+          {
+            "concept": "planning-training-sessions",
+            "id": "planning-training-sessions",
+            "title": "Training Session and Factors in Planning a Session",
+            "title_bn": "Training session কী, plan করতে কী কী ভাবতে হয়"
+          },
+          {
+            "concept": "session-plan",
+            "id": "session-plan",
+            "title": "Session Plan",
+            "title_bn": "Session plan কী, কেন দরকার"
+          },
+          {
+            "concept": "session-outcomes-psc",
+            "id": "session-outcomes-psc",
+            "title": "Session Outcomes (Performance, Standards, Conditions)",
+            "title_bn": "Session outcome-এর তিন অংশ: Performance, Standards, Conditions"
+          },
+          {
+            "concept": "session-learning-outcome-criteria",
+            "id": "session-learning-outcome-criteria",
+            "title": "Criteria for Session Learning Outcomes (Observable, Measurable, Action Verbs)",
+            "title_bn": "ভালো learning outcome-এর তিন শর্ত ও action verbs"
+          },
+          {
+            "concept": "session-plan-steps",
+            "id": "session-plan-steps",
+            "title": "Steps in Preparing a Session Plan",
+            "title_bn": "Session plan তৈরির ধাপ — CBLM-এর তিনটি তালিকা"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part C",
+        "title": "Training methods, delivery modes and sequencing",
+        "title_bn": "Training methods, delivery modes ও sequencing",
+        "topics": [
+          {
+            "concept": "training-methods",
+            "id": "training-methods",
+            "title": "Training Methods, Coaching and Mentoring",
+            "title_bn": "১২টি training method, coaching বনাম mentoring"
+          },
+          {
+            "concept": "training-delivery-modes",
+            "id": "training-delivery-modes",
+            "title": "Training Delivery Modes",
+            "title_bn": "Off the job, on the job ও on line — সুবিধা ও সীমা"
+          },
+          {
+            "concept": "session-sequencing",
+            "id": "session-sequencing",
+            "title": "Sequencing the Content of a Session",
+            "title_bn": "Simple থেকে complex — content সাজানোর নীতি"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part D",
+        "title": "Session review, Gagné's nine steps, links and sample plans",
+        "title_bn": "Session review, Gagné-এর নয় ধাপ, links ও নমুনা plan",
+        "topics": [
+          {
+            "concept": "session-review",
+            "id": "session-review",
+            "title": "Session Review (Conclusion)",
+            "title_bn": "Session review-তে কী থাকবে"
+          },
+          {
+            "concept": "gagne-nine-steps",
+            "id": "gagne-nine-steps",
+            "title": "Gagné's Nine Steps for Writing Learning Materials",
+            "title_bn": "Robert Gagné-এর নয়টি instruction ধাপ"
+          },
+          {
+            "concept": "links-between-sessions",
+            "id": "links-between-sessions",
+            "title": "Links Between Learning Sessions",
+            "title_bn": "Session-গুলোর মধ্যে link কেন ও কীভাবে"
+          },
+          {
+            "concept": null,
+            "id": "sample-program-delivery-plan",
+            "title": "Sample program delivery plan",
+            "title_bn": "নমুনা program delivery plan (biscuit dough)"
+          },
+          {
+            "concept": null,
+            "id": "sample-session-plan",
+            "title": "Sample session plan",
+            "title_bn": "নমুনা session plan (butter biscuits)"
+          }
+        ]
+      },
+      {
+        "label": "Job 2",
+        "title": "Job 2, Activities 2.1-2.2 and Specification Sheets 2.1-2.2",
+        "title_bn": "Job 2: delivery plan ও session plan তৈরির অনুশীলন",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-2",
+            "title": "Job 2: Prepare a program delivery plan and session plan",
+            "title_bn": "Delivery plan ও session plan বানানোর অনুশীলন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 3 · Part A",
+        "title": "Planning resources and checking existing resources",
+        "title_bn": "Resources পরিকল্পনা ও আগের resources যাচাই",
+        "topics": [
+          {
+            "concept": "planning-training-resources",
+            "id": "planning-training-resources",
+            "title": "Planning for Training Resources",
+            "title_bn": "Training-এর জন্য কোন কোন resources plan করবেন"
+          },
+          {
+            "concept": "checking-existing-resources",
+            "id": "checking-existing-resources",
+            "title": "Checking Existing Learning Resources",
+            "title_bn": "আগে থেকে থাকা resources ব্যবহারের আগে কী যাচাই করবেন"
+          },
+          {
+            "concept": "checklist-selecting-resources",
+            "id": "checklist-selecting-resources",
+            "title": "Checklist for Selecting Learning Resources",
+            "title_bn": "Resource বাছাইয়ের checklist: আগে curriculum, তারপর ১৩টি প্রশ্ন"
+          },
+          {
+            "concept": null,
+            "id": "consumables-customising-copyright",
+            "title": "Consumables, customising, funding and copyright",
+            "title_bn": "Consumables, customising, funding ও copyright"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 3 · Part B",
+        "title": "Resources checklist, training venue and the people who help",
+        "title_bn": "Resources checklist, venue বাছাই ও সহায়ক লোকজন",
+        "topics": [
+          {
+            "concept": null,
+            "id": "training-resources-checklist",
+            "title": "Training Resources Checklist (sample)",
+            "title_bn": "৩৮টি item-এর Training Resources Checklist"
+          },
+          {
+            "concept": "training-venue-selection",
+            "id": "training-venue-selection",
+            "title": "Selecting a Training Venue",
+            "title_bn": "Training venue বাছাইয়ে আটটি বিষয়"
+          },
+          {
+            "concept": "training-support-people",
+            "id": "training-support-people",
+            "title": "People Involved in a Training Program and How They Help",
+            "title_bn": "Training program-এ কে কীভাবে সাহায্য করে"
+          }
+        ]
+      },
+      {
+        "label": "Job 3",
+        "title": "Job 3, Activities 3.1-3.2 and Specification Sheets 3.1-3.2",
+        "title_bn": "Job 3: resources checklist ও training activity matrix",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-3",
+            "title": "Job 3: Organise learning and teaching resources",
+            "title_bn": "Resources checklist ও activity matrix বানানোর অনুশীলন"
+          }
+        ]
+      },
+      {
+        "label": "Review of Competency",
+        "title": "Review of Competency: your self assessment rating",
+        "title_bn": "Review of Competency: নিজের প্রস্তুতি যাচাই",
+        "topics": [
+          {
+            "concept": null,
+            "id": "review-of-competency",
+            "title": "Review of Competency",
+            "title_bn": "নিজের দক্ষতা নিজে যাচাই করুন"
+          }
+        ]
+      }
+    ],
+    "guide": {
+      "outline": {
+        "covered": 127,
+        "total": 127
+      },
+      "sections": 14
+    },
     "hasPdf": true,
     "highlights": 128,
     "id": "cblm09",
@@ -279,9 +2492,467 @@
       "student-role-in-cbt",
       "variety-in-delivery",
       "video-in-training",
-      "why-review-training-delivery"
+      "why-review-training-delivery",
+      "choosing-learning-resources",
+      "conflict-resolution-negotiation",
+      "handouts-and-print",
+      "icebreakers",
+      "internet-in-training",
+      "learning-from-evaluation",
+      "managing-monitoring-training-activities",
+      "overhead-projector",
+      "presentation-methods-learning-activities"
     ],
     "covered": 99,
+    "groups": [
+      {
+        "label": "About this module",
+        "title": "Module, learning outcomes and performance criteria",
+        "title_bn": "Module পরিচিতি, learning outcomes ও performance criteria",
+        "topics": [
+          {
+            "concept": null,
+            "id": "module-at-a-glance",
+            "title": "Module at a glance",
+            "title_bn": "এই module কোন UoC থেকে, ভেতরে কী কী আছে"
+          },
+          {
+            "concept": null,
+            "id": "learning-outcomes",
+            "title": "Learning outcomes and performance criteria",
+            "title_bn": "তিনটি learning outcome আর ১৭টি performance criteria"
+          },
+          {
+            "concept": null,
+            "id": "how-to-use-this-guide",
+            "title": "Content and how to use this guide",
+            "title_bn": "Module-এ কী আছে আর কীভাবে পড়বেন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part A",
+        "title": "Training facilities and the range of learning resources",
+        "title_bn": "Training facilities আর learning resources-এর তালিকা",
+        "topics": [
+          {
+            "concept": "choosing-learning-resources",
+            "id": "choosing-learning-resources",
+            "title": "Choosing Training Facilities and Learning Resources",
+            "title_bn": "Resource বাছাইয়ের আগে যে প্রশ্নগুলো ভাবতে হয়"
+          },
+          {
+            "concept": "cbt-shop-areas",
+            "id": "cbt-shop-areas",
+            "title": "Areas of a CBT Shop (Training Room Layout)",
+            "title_bn": "CBT shop/training room-এর area-গুলো আর layout factors"
+          },
+          {
+            "concept": "range-of-learning-resources",
+            "id": "range-of-learning-resources",
+            "title": "Range of Learning Operational Resources",
+            "title_bn": "CBLM 10-এর ১৬টি learning resource (CBLM 8-এর card)"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part B",
+        "title": "Seven kinds of learning resources and how to use them",
+        "title_bn": "সাত ধরনের learning resource ও তাদের ব্যবহার",
+        "topics": [
+          {
+            "concept": "whiteboard-guidelines",
+            "id": "whiteboard-guidelines",
+            "title": "Guidelines for Using Blackboards and Whiteboards",
+            "title_bn": "Board-এর সুবিধা, ব্যবহারের ধরন আর diagram"
+          },
+          {
+            "concept": "posters-and-charts",
+            "id": "posters-and-charts",
+            "title": "Posters and Charts: Purpose and Layout Tips",
+            "title_bn": "Poster ও chart: কখন, কেন, কীভাবে সাজাবেন"
+          },
+          {
+            "concept": "powerpoint-slide-tips",
+            "id": "powerpoint-slide-tips",
+            "title": "Tips for Preparing and Showing PowerPoint Slides",
+            "title_bn": "PowerPoint slides ও ছবি: তৈরি ও দেখানো"
+          },
+          {
+            "concept": "video-in-training",
+            "id": "video-in-training",
+            "title": "Using Video in Training",
+            "title_bn": "Video বাছাইয়ের checklist আর video camera-কে tool হিসেবে"
+          },
+          {
+            "concept": "handouts-and-print",
+            "id": "handouts-and-print",
+            "title": "Handouts and Print-Based Training Materials",
+            "title_bn": "Handout কখন দেবেন, print-এর সুবিধা, materials লেখা"
+          },
+          {
+            "concept": "overhead-projector",
+            "id": "overhead-projector",
+            "title": "Using the Overhead Projector (OHP)",
+            "title_bn": "OHP-এর সুবিধা, transparency তৈরি ও ব্যবহারের টিপস"
+          },
+          {
+            "concept": "computer-based-learning",
+            "id": "computer-based-learning",
+            "title": "Computer Based Learning: Advantages and Limitations",
+            "title_bn": "Computer: শেখা manage করা আর শেখায় সাহায্য"
+          },
+          {
+            "concept": "internet-in-training",
+            "id": "internet-in-training",
+            "title": "The Internet as a Learning Resource",
+            "title_bn": "Internet: শেখায় ছয়টি সুবিধা, চারটি অসুবিধা"
+          }
+        ]
+      },
+      {
+        "label": "Activities 1.1 and 1.2",
+        "title": "Prepare a CBT classroom layout and a resources checklist",
+        "title_bn": "CBT classroom layout আর resources checklist তৈরি",
+        "topics": [
+          {
+            "concept": null,
+            "id": "activity-1-1",
+            "title": "Activity 1.1: Prepare a CBT classroom layout",
+            "title_bn": "নিজের trade-এর জন্য CBT classroom layout আঁকা"
+          },
+          {
+            "concept": null,
+            "id": "activity-1-2",
+            "title": "Activity 1.2: Develop a checklist of materials, equipment and resources",
+            "title_bn": "Training-এর জন্য tools, equipment, materials-এর checklist"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part A",
+        "title": "Preparing learners and checking their needs and understanding",
+        "title_bn": "Learners প্রস্তুত করা, তাদের needs ও বোঝাপড়া যাচাই",
+        "topics": [
+          {
+            "concept": "gloss-model",
+            "id": "gloss-model",
+            "title": "Preparing Learners in the First Session (GLOSS Model)",
+            "title_bn": "প্রথম session-এ learners প্রস্তুত করার GLOSS model"
+          },
+          {
+            "concept": "icebreakers",
+            "id": "icebreakers",
+            "title": "Icebreakers in the First Session",
+            "title_bn": "Icebreaker: পরিচয় করানো, কিন্তু কাউকে জোর নয়"
+          },
+          {
+            "concept": "checking-learner-needs-understanding",
+            "id": "checking-learner-needs-understanding",
+            "title": "Checking Learner Needs and Understanding",
+            "title_bn": "Learner needs চিহ্নিত করা ও বোঝাপড়া যাচাই"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part B",
+        "title": "How people learn: principles, learning styles and domains",
+        "title_bn": "মানুষ কীভাবে শেখে: principles, learning styles ও domains",
+        "topics": [
+          {
+            "concept": "principles-of-learning",
+            "id": "principles-of-learning",
+            "title": "Eight Principles of Learning",
+            "title_bn": "শেখার আটটি মূলনীতি, প্রতিটির অর্থসহ"
+          },
+          {
+            "concept": "vark-learning-styles",
+            "id": "vark-learning-styles",
+            "title": "VARK Learning Styles",
+            "title_bn": "Senses ও learning styles: VARK model"
+          },
+          {
+            "concept": "learning-domains",
+            "id": "learning-domains",
+            "title": "Learning Domains: Cognitive, Affective and Psychomotor",
+            "title_bn": "তিন learning domain: cognitive, affective, psychomotor"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part C",
+        "title": "CBT delivery, the trainer's role and the student's role",
+        "title_bn": "CBT delivery, trainer-এর ভূমিকা ও student-এর ভূমিকা",
+        "topics": [
+          {
+            "concept": "cbt-program",
+            "id": "cbt-program",
+            "title": "Competency Based Training (CBT) Program",
+            "title_bn": "CBT program কী (Self Check 2 Q1)"
+          },
+          {
+            "concept": "cbt-vs-traditional-training",
+            "id": "cbt-vs-traditional-training",
+            "title": "Traditional Training vs CBT Programs",
+            "title_bn": "Traditional বনাম CBT program-এর পার্থক্য (Self Check 2 Q2)"
+          },
+          {
+            "concept": "cbt-system-principles",
+            "id": "cbt-system-principles",
+            "title": "Principles of Competency Based Training System",
+            "title_bn": "CBT system-এর নয়টি principle, ব্যাখ্যাসহ"
+          },
+          {
+            "concept": "tvet-trainer-role",
+            "id": "tvet-trainer-role",
+            "title": "Role of a Competent TVET Teacher/Trainer",
+            "title_bn": "দক্ষ TVET trainer-এর ভূমিকা: Prepare, Deliver, Review (Self Check 2 Q3)"
+          },
+          {
+            "concept": "trainer-things-to-avoid",
+            "id": "trainer-things-to-avoid",
+            "title": "Things a TVET Trainer Should Avoid",
+            "title_bn": "Trainer যা এড়িয়ে চলবেন: ১৩টি (Self Check 2 Q4)"
+          },
+          {
+            "concept": "student-role-in-cbt",
+            "id": "student-role-in-cbt",
+            "title": "Role of Students in a CBT System",
+            "title_bn": "CBT system-এ student-এর দশটি ভূমিকা"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part D",
+        "title": "Presentation and delivery: methods, demonstration, questioning and voice",
+        "title_bn": "উপস্থাপন ও delivery: methods, demonstration, প্রশ্ন ও কণ্ঠ",
+        "topics": [
+          {
+            "concept": null,
+            "id": "presentation-case-study",
+            "title": "Case study: Mr. Mahmud and BABA shoes",
+            "title_bn": "Case study: শিল্প কারখানায় spreadsheet training"
+          },
+          {
+            "concept": "presentation-methods-learning-activities",
+            "id": "presentation-methods-learning-activities",
+            "title": "Presentation Methods and Learning Activities for Competency Development",
+            "title_bn": "Knowledge, skills, attitude: কোনটায় কোন activity"
+          },
+          {
+            "concept": "skill-demonstration",
+            "id": "skill-demonstration",
+            "title": "Steps of a Skill Demonstration",
+            "title_bn": "Demonstration: ছড়া আর পাঁচ ধাপ"
+          },
+          {
+            "concept": "questioning-techniques",
+            "id": "questioning-techniques",
+            "title": "Seven Question Types for Facilitators",
+            "title_bn": "সাত ধরনের প্রশ্ন আর যে প্রশ্ন এড়াবেন"
+          },
+          {
+            "concept": "variety-in-delivery",
+            "id": "variety-in-delivery",
+            "title": "Why Provide Variety in Delivering Sessions",
+            "title_bn": "Delivery-তে variety কেন দরকার"
+          },
+          {
+            "concept": "communication-strategies-participation",
+            "id": "communication-strategies-participation",
+            "title": "Communication Strategies for Learner Participation",
+            "title_bn": "Learner participation বাড়ানোর communication strategies"
+          },
+          {
+            "concept": "presentation-voice-body-language",
+            "id": "presentation-voice-body-language",
+            "title": "Relaxed Presentation: Voice and Body Language (SOLER)",
+            "title_bn": "নির্ভার presentation: anxiety, কণ্ঠ, SOLER, active listening"
+          },
+          {
+            "concept": "selecting-delivery-techniques",
+            "id": "selecting-delivery-techniques",
+            "title": "Selecting Appropriate Delivery Techniques",
+            "title_bn": "কোন delivery technique বাছবেন (Self Check 2 Q5)"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part E",
+        "title": "Managing inappropriate behaviour and a positive learning environment",
+        "title_bn": "Inappropriate behaviour সামলানো ও ইতিবাচক learning environment",
+        "topics": [
+          {
+            "concept": "managing-inappropriate-behaviour",
+            "id": "managing-inappropriate-behaviour",
+            "title": "Managing Inappropriate Learner Behaviour",
+            "title_bn": "কোন কোন আচরণ inappropriate"
+          },
+          {
+            "concept": "conflict-resolution-negotiation",
+            "id": "conflict-resolution-negotiation",
+            "title": "Conflict Resolution and Negotiation Skills with Learners",
+            "title_bn": "Conflict resolution-এর দশটি দক্ষতা ও পাঁচ ধরনের response"
+          },
+          {
+            "concept": "learner-behaviour-guidelines",
+            "id": "learner-behaviour-guidelines",
+            "title": "Guidelines for Learner Behaviour and Sample Ground Rules",
+            "title_bn": "আচরণের guidelines, ground rules, পুরস্কার"
+          },
+          {
+            "concept": "learning-to-learn",
+            "id": "learning-to-learn",
+            "title": "Learning to Learn Philosophy",
+            "title_bn": "Learning to learn: learner-কে শেখার কৌশল শেখানো"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2 · Part F",
+        "title": "Practice, monitoring, feedback and readiness for assessment",
+        "title_bn": "Practice, monitoring, feedback ও assessment-এর প্রস্তুতি",
+        "topics": [
+          {
+            "concept": "practice-opportunities",
+            "id": "practice-opportunities",
+            "title": "Providing Practice Opportunities",
+            "title_bn": "Practice কী, কেন, কীভাবে (Self Check 2 Q6)"
+          },
+          {
+            "concept": "managing-monitoring-training-activities",
+            "id": "managing-monitoring-training-activities",
+            "title": "Managing and Monitoring Training Activities",
+            "title_bn": "Training activities manage ও monitor করার tools"
+          },
+          {
+            "concept": "effective-feedback-characteristics",
+            "id": "effective-feedback-characteristics",
+            "title": "Characteristics of Effective Feedback in Training",
+            "title_bn": "কার্যকর feedback-এর ১২টি বৈশিষ্ট্য (Self Check 2 Q7)"
+          },
+          {
+            "concept": "feedback-sandwich",
+            "id": "feedback-sandwich",
+            "title": "Feedback and the Feedback Sandwich",
+            "title_bn": "Feedback sandwich: ভালো → খারাপ → ভালো (Self Check 2 Q8)"
+          },
+          {
+            "concept": "giving-receiving-feedback",
+            "id": "giving-receiving-feedback",
+            "title": "Giving and Receiving Feedback on a Learning Session",
+            "title_bn": "Feedback দেওয়া, নেওয়া ও learner-এর performance-এ feedback চাওয়া"
+          },
+          {
+            "concept": "assessment-readiness",
+            "id": "assessment-readiness",
+            "title": "Determining Learner Readiness for Assessment",
+            "title_bn": "Learner assessment-এর জন্য প্রস্তুত কিনা (Self Check 2 Q10)"
+          },
+          {
+            "concept": null,
+            "id": "trainee-achievement-progress-record",
+            "title": "Sample Trainee Achievement Progress Record",
+            "title_bn": "Trainee নিজের অগ্রগতি নিজে লেখে যে ফর্মে"
+          }
+        ]
+      },
+      {
+        "label": "Job 2 and Activities 2.1-2.2",
+        "title": "Deliver and facilitate a training session",
+        "title_bn": "Job 2: training session deliver ও facilitate করা",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-2",
+            "title": "Job 2: Deliver and Facilitate Training Session",
+            "title_bn": "Job 2-এর আটটি ধাপ"
+          },
+          {
+            "concept": null,
+            "id": "activity-2-1",
+            "title": "Activity 2.1: Facilitate a training session",
+            "title_bn": "Role play: group-এর সামনে একটা session চালানো"
+          },
+          {
+            "concept": null,
+            "id": "activity-2-2",
+            "title": "Activity 2.2: Manage Inappropriate Behaviour",
+            "title_bn": "Inappropriate behaviour-এর কারণ ও কৌশলের তালিকা"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 3",
+        "title": "Review and evaluate training session delivery",
+        "title_bn": "Training session delivery review ও evaluate করা",
+        "topics": [
+          {
+            "concept": "why-review-training-delivery",
+            "id": "why-review-training-delivery",
+            "title": "Why Review Training Delivery",
+            "title_bn": "কেন review করবেন, feedback কোথা থেকে নেবেন (Self Check 3 Q1)"
+          },
+          {
+            "concept": "evaluation-tools-training",
+            "id": "evaluation-tools-training",
+            "title": "Evaluation Tools for Training Delivery",
+            "title_bn": "পাঁচটি evaluation tool-এর সুবিধা-অসুবিধা আর document review (Self Check 3 Q2)"
+          },
+          {
+            "concept": "self-evaluation-trainer",
+            "id": "self-evaluation-trainer",
+            "title": "Self Evaluation of Training Performance",
+            "title_bn": "Self evaluation: নিজের session নিজে যাচাই (Self Check 3 Q3)"
+          },
+          {
+            "concept": "learning-from-evaluation",
+            "id": "learning-from-evaluation",
+            "title": "Learning from Session Evaluation and Action Plans",
+            "title_bn": "Evaluation থেকে শেখা: মন্তব্য পড়া ও action plan"
+          }
+        ]
+      },
+      {
+        "label": "Job 3 and Activity 3.1",
+        "title": "Review and evaluate your own training session delivery",
+        "title_bn": "Job 3: নিজের session review ও evaluate",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-3",
+            "title": "Job 3: Review and Evaluate Training Session Delivery",
+            "title_bn": "Job 3-এর চার ধাপ"
+          },
+          {
+            "concept": null,
+            "id": "activity-3-1",
+            "title": "Activity 3.1: Evaluate your own performance",
+            "title_bn": "নিজের performance-এর self evaluation template"
+          }
+        ]
+      },
+      {
+        "label": "Review of Competency",
+        "title": "Review of Competency: your self assessment rating",
+        "title_bn": "Review of Competency: নিজের প্রস্তুতি যাচাই",
+        "topics": [
+          {
+            "concept": null,
+            "id": "review-of-competency",
+            "title": "Review of Competency",
+            "title_bn": "নিজের দক্ষতা নিজে যাচাই করুন"
+          }
+        ]
+      }
+    ],
+    "guide": {
+      "outline": {
+        "covered": 158,
+        "total": 158
+      },
+      "sections": 14
+    },
     "hasPdf": true,
     "highlights": 99,
     "id": "cblm10",
@@ -304,7 +2975,6 @@
       "formative-summative-assessment",
       "reliability-in-assessment",
       "summative-assessment-methods",
-      "context-of-assessment",
       "holistic-assessment-clustering",
       "candidate-needs",
       "checking-evidence-rules",
@@ -312,22 +2982,383 @@
       "principles-of-assessment",
       "third-party-report",
       "assessment-benchmark",
+      "assessment-context-elements",
       "competency-based-assessment",
       "conflict-of-interest",
+      "context-of-assessment",
       "designing-assessment-steps",
       "evidence-definition",
       "observation-checklist",
       "assessment-design-legal-requirements",
       "assessment-resources",
       "formative-assessment-methods",
-      "assessment-context-elements",
       "assessment-designer-role",
       "portfolio-of-evidence",
       "purposes-of-assessment",
       "recognition-assessment",
-      "workplace-assessment-considerations"
+      "workplace-assessment-considerations",
+      "assessment-costs-timeframes",
+      "assessment-process-pathways",
+      "real-time-structured-evidence",
+      "sample-assessment-plan",
+      "select-review-modify-methods"
     ],
     "covered": 149,
+    "groups": [
+      {
+        "label": "About this module",
+        "title": "Design Competency Based Assessment: module overview",
+        "title_bn": "মডিউল পরিচিতি: কী শিখবে, কীভাবে পড়বে",
+        "topics": [
+          {
+            "concept": null,
+            "id": "module-at-a-glance",
+            "title": "Module at a glance",
+            "title_bn": "মডিউলটি কী নিয়ে, আর চারটি Information Sheet"
+          },
+          {
+            "concept": null,
+            "id": "learning-outcomes",
+            "title": "Learning outcomes",
+            "title_bn": "এই মডিউল শেষে কী কী পারবে"
+          },
+          {
+            "concept": null,
+            "id": "performance-criteria",
+            "title": "Performance criteria",
+            "title_bn": "Assessor কোন কোন criteria দেখে বিচার করবেন"
+          },
+          {
+            "concept": null,
+            "id": "how-to-use-this-guide",
+            "title": "How to use this learning guide",
+            "title_bn": "এই learning guide কীভাবে ধাপে ধাপে পড়বে"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1",
+        "title": "Determine the focus of assessment",
+        "title_bn": "Assessment-এর focus ঠিক করা: কী, কেন, কোথায়, কোন মানদণ্ডে",
+        "topics": [
+          {
+            "concept": "competency-based-assessment",
+            "id": "competency-based-assessment",
+            "title": "Competency Based Assessment: Definition and Characteristics",
+            "title_bn": "Assessment কী, আর CBA-র বৈশিষ্ট্য"
+          },
+          {
+            "concept": "designing-assessment-steps",
+            "id": "designing-assessment-steps",
+            "title": "Steps in Designing Competency Based Assessment",
+            "title_bn": "CBA design করার ছয়টি ধাপ"
+          },
+          {
+            "concept": "assessment-context-elements",
+            "id": "assessment-context-elements",
+            "title": "What the Assessment Context Includes",
+            "title_bn": "Context of assessment-এ কী কী থাকে"
+          },
+          {
+            "concept": "purposes-of-assessment",
+            "id": "purposes-of-assessment",
+            "title": "Purposes of Assessment",
+            "title_bn": "কেন assessment করা হয়: সাতটি উদ্দেশ্য"
+          },
+          {
+            "concept": "principles-of-assessment",
+            "id": "principles-of-assessment",
+            "title": "Principles of Competency Based Assessment",
+            "title_bn": "Assessment-এর নীতি: valid, flexible, fair"
+          },
+          {
+            "concept": "reliability-in-assessment",
+            "id": "reliability-in-assessment",
+            "title": "Reliability of Assessment",
+            "title_bn": "Assessment কখন reliable, আর কীভাবে বাড়ানো যায়"
+          },
+          {
+            "concept": "assessment-process-pathways",
+            "id": "assessment-process-pathways",
+            "title": "Assessment Process and Pathways",
+            "title_bn": "Assessment process ও pathways-এর ধাপগুলো"
+          },
+          {
+            "concept": "formative-summative-assessment",
+            "id": "formative-summative-assessment",
+            "title": "Formative and Summative Assessment",
+            "title_bn": "Formative আর summative assessment-এর পার্থক্য"
+          },
+          {
+            "concept": "holistic-assessment-clustering",
+            "id": "holistic-assessment-clustering",
+            "title": "Holistic Assessment Design and Clustering Competencies",
+            "title_bn": "Holistic design আর competency clustering"
+          },
+          {
+            "concept": "real-time-structured-evidence",
+            "id": "real-time-structured-evidence",
+            "title": "Real Time vs Simulated (Structured) Evidence",
+            "title_bn": "Real time বনাম structured (simulated) evidence"
+          },
+          {
+            "concept": "assessment-costs-timeframes",
+            "id": "assessment-costs-timeframes",
+            "title": "Costs of Assessment and Assessment Timeframes",
+            "title_bn": "Assessment-এর খরচ আর সময়সূচি"
+          },
+          {
+            "concept": "assessment-design-legal-requirements",
+            "id": "assessment-design-legal-requirements",
+            "title": "Legal and Ethical Requirements for Assessment Design",
+            "title_bn": "আইনগত ও নৈতিক শর্ত, আর কার সাথে consult করবে"
+          },
+          {
+            "concept": "assessment-benchmark",
+            "id": "assessment-benchmark",
+            "title": "Assessment Benchmark",
+            "title_bn": "Assessment-এর benchmark কী"
+          },
+          {
+            "concept": "conflict-of-interest",
+            "id": "conflict-of-interest",
+            "title": "Conflict of Interest in Assessment",
+            "title_bn": "Conflict of interest হলে কী করবে"
+          },
+          {
+            "concept": "candidate-needs",
+            "id": "candidate-needs",
+            "title": "Identifying the Needs of Candidates",
+            "title_bn": "Candidate-এর চাহিদা ও বিশেষ প্রয়োজন বোঝা"
+          },
+          {
+            "concept": "workplace-assessment-considerations",
+            "id": "workplace-assessment-considerations",
+            "title": "Considerations for Workplace Assessment",
+            "title_bn": "Workplace assessment-এ কী কী বিবেচনা করবে"
+          },
+          {
+            "concept": "analysing-standards-for-evidence",
+            "id": "analysing-standards-for-evidence",
+            "title": "Analysing Competency Standards to Determine Evidence",
+            "title_bn": "Evidence ঠিক করতে competency standard বিশ্লেষণ"
+          },
+          {
+            "concept": "evidence-definition",
+            "id": "evidence-definition",
+            "title": "Evidence in Competency Based Assessment",
+            "title_bn": "Evidence কী, কোথা থেকে আসে, direct ও indirect"
+          },
+          {
+            "concept": "checking-evidence-rules",
+            "id": "checking-evidence-rules",
+            "title": "How the Designer Checks Each Rule of Evidence",
+            "title_bn": "Rules of evidence অনুযায়ী evidence যাচাই"
+          }
+        ]
+      },
+      {
+        "label": "Job 1",
+        "title": "Determine the focus of assessment (Job, Activity 1.1, Specification Sheet 1.1)",
+        "title_bn": "Job 1: assessment-এর focus ঠিক করার হাতে-কলমে কাজ",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-1-determine-focus",
+            "title": "Job 1: Determine the focus of assessment",
+            "title_bn": "Job 1, Activity 1.1 আর Specification Sheet 1.1"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 2",
+        "title": "Plan and organise assessment processes",
+        "title_bn": "Assessment প্রক্রিয়া পরিকল্পনা ও গোছানো: method, tool, মানুষ, resource, record",
+        "topics": [
+          {
+            "concept": "select-review-modify-methods",
+            "id": "select-review-modify-methods",
+            "title": "Assessment Process: Select, Review and Modify Methods and Tools",
+            "title_bn": "Assessment process: method ও tool select, review, modify"
+          },
+          {
+            "concept": "choosing-assessment-methods",
+            "id": "choosing-assessment-methods",
+            "title": "Choosing Assessment Methods",
+            "title_bn": "Assessment method বাছাইয়ে প্রভাব ফেলে যেসব বিষয়"
+          },
+          {
+            "concept": "recognition-assessment",
+            "id": "recognition-assessment",
+            "title": "Recognition Assessment: People and Evidence",
+            "title_bn": "Assessment-এ কারা জড়িত, আর recognition assessment"
+          },
+          {
+            "concept": "formative-assessment-methods",
+            "id": "formative-assessment-methods",
+            "title": "Methods of Formative Assessment",
+            "title_bn": "Formative assessment-এর পদ্ধতিগুলো"
+          },
+          {
+            "concept": "summative-assessment-methods",
+            "id": "summative-assessment-methods",
+            "title": "Summative Assessment Methods and Their Tools",
+            "title_bn": "Summative assessment-এর পদ্ধতি ও tool"
+          },
+          {
+            "concept": "assessment-resources",
+            "id": "assessment-resources",
+            "title": "Identifying Material and Resource Requirements",
+            "title_bn": "Assessment-এর জন্য material ও resource"
+          },
+          {
+            "concept": "assessment-designer-role",
+            "id": "assessment-designer-role",
+            "title": "Roles and Responsibilities of an Assessment Designer",
+            "title_bn": "Assessment designer-এর দায়িত্ব"
+          },
+          {
+            "concept": "assessment-record-keeping",
+            "id": "assessment-record-keeping",
+            "title": "Record Keeping and Documentation Arrangements",
+            "title_bn": "কোন কোন documents রাখতে ও BTEB-তে জমা দিতে হয়"
+          }
+        ]
+      },
+      {
+        "label": "Job 2",
+        "title": "Plan and organise assessment processes (Job, Activity 2.1, Specification Sheet 2.1)",
+        "title_bn": "Job 2: assessment প্রক্রিয়া গোছানোর হাতে-কলমে কাজ",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-2-plan-and-organise",
+            "title": "Job 2: Plan and organise assessment processes",
+            "title_bn": "Job 2, Activity 2.1 আর resources checklist"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 3",
+        "title": "Prepare an assessment plan",
+        "title_bn": "Assessment Plan তৈরি: plan, stage, sample plan, matrix, review, evidence method",
+        "topics": [
+          {
+            "concept": "assessment-plan",
+            "id": "assessment-plan",
+            "title": "Assessment Plan",
+            "title_bn": "Assessment plan কী, এতে কী থাকে, কেন review করবে"
+          },
+          {
+            "concept": "stages-of-assessment-plan",
+            "id": "stages-of-assessment-plan",
+            "title": "Stages in Preparing an Assessment Plan",
+            "title_bn": "Assessment plan তৈরির পাঁচটি ধাপ"
+          },
+          {
+            "concept": "sample-assessment-plan",
+            "id": "sample-assessment-plan",
+            "title": "Sample Assessment Plan",
+            "title_bn": "একটি নমুনা assessment plan ধাপে ধাপে"
+          },
+          {
+            "concept": "assessment-planning-matrix",
+            "id": "assessment-planning-matrix",
+            "title": "Assessment Planning Matrix",
+            "title_bn": "Assessment planning matrix কী"
+          },
+          {
+            "concept": null,
+            "id": "evidence-gathering-methods",
+            "title": "Methods and tools for gathering evidence",
+            "title_bn": "Evidence সংগ্রহের পদ্ধতি, tool আর method বাছাই"
+          }
+        ]
+      },
+      {
+        "label": "Job 3",
+        "title": "Prepare an assessment plan (Job, Activity 3.1, Specification sheet 3.1 and templates)",
+        "title_bn": "Job 3: নিজের assessment plan তৈরি",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-3-prepare-assessment-plan",
+            "title": "Job 3: Prepare an assessment plan",
+            "title_bn": "Job 3, Activity 3.1 আর assessment plan-এর templates"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 4",
+        "title": "Design and develop assessment instruments",
+        "title_bn": "Assessment instrument ডিজাইন ও তৈরি: checklist, oral tool, third party report, portfolio",
+        "topics": [
+          {
+            "concept": "assessment-tool-instrument",
+            "id": "assessment-tool-instrument",
+            "title": "Assessment Tool and Assessment Instrument",
+            "title_bn": "Assessment tool আর instrument-এর পার্থক্য"
+          },
+          {
+            "concept": "observation-checklist",
+            "id": "observation-checklist",
+            "title": "Observation Checklist",
+            "title_bn": "Observation checklist তৈরি ও ব্যবহার"
+          },
+          {
+            "concept": "oral-questioning-tool",
+            "id": "oral-questioning-tool",
+            "title": "Oral Questioning Tool",
+            "title_bn": "Oral questioning tool ও ছয় ধরনের প্রশ্ন"
+          },
+          {
+            "concept": "third-party-report",
+            "id": "third-party-report",
+            "title": "Third Party Report",
+            "title_bn": "Third party report কী, কীভাবে লেখা হয়"
+          },
+          {
+            "concept": "portfolio-of-evidence",
+            "id": "portfolio-of-evidence",
+            "title": "Portfolio of Evidence",
+            "title_bn": "Portfolio-তে কী থাকে, কীভাবে মূল্যায়ন হয়"
+          }
+        ]
+      },
+      {
+        "label": "Job 4",
+        "title": "Design and develop assessment instruments (Job, Activities 4.1 and 4.2, Specification Sheets 4.1 and 4.2)",
+        "title_bn": "Job 4: নিজের observation checklist ও oral questioning tool বানানো",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-4-design-instruments",
+            "title": "Job 4: Design and develop assessment instruments",
+            "title_bn": "Job 4: observation checklist ও oral questioning tool বানানো"
+          }
+        ]
+      },
+      {
+        "label": "Review of Competency",
+        "title": "Review of Competency (self rating)",
+        "title_bn": "Review of Competency: নিজেকে যাচাই",
+        "topics": [
+          {
+            "concept": null,
+            "id": "review-of-competency",
+            "title": "Review of Competency",
+            "title_bn": "নিজের দক্ষতা নিজে যাচাই করো"
+          }
+        ]
+      }
+    ],
+    "guide": {
+      "outline": {
+        "covered": 144,
+        "total": 144
+      },
+      "sections": 10
+    },
     "hasPdf": true,
     "highlights": 149,
     "id": "cblm11",
@@ -347,19 +3378,294 @@
       "feedback-sandwich",
       "stopping-an-assessment",
       "assessment-decision",
-      "context-of-assessment",
       "informing-candidates",
       "assessment-process",
       "free-consent-confidentiality",
       "legal-ethical-responsibilities",
       "review-cycle",
       "benefits-of-feedback",
+      "context-of-assessment",
       "preparing-candidates",
       "assessor-role",
       "competency-assessment-result-summary",
-      "self-assessment-instruments"
+      "informing-relevant-people",
+      "reviewer-responsibilities",
+      "self-assessment-instruments",
+      "assessment-activity-components",
+      "negative-feedback-strategies",
+      "record-of-assessment-results"
     ],
     "covered": 87,
+    "groups": [
+      {
+        "label": "About this module",
+        "title": "Module, learning outcomes and performance criteria",
+        "title_bn": "মডিউল পরিচিতি, learning outcome ও performance criteria",
+        "topics": [
+          {
+            "concept": null,
+            "id": "module-at-a-glance",
+            "title": "Module at a glance",
+            "title_bn": "এই module কোন UoC থেকে, কী নিয়ে"
+          },
+          {
+            "concept": null,
+            "id": "learning-outcomes",
+            "title": "Learning outcomes and performance criteria",
+            "title_bn": "ছয়টি LO আর প্রতিটির performance criteria"
+          },
+          {
+            "concept": null,
+            "id": "how-to-use-this-guide",
+            "title": "Content and how to use this guide",
+            "title_bn": "Module-এ কী আছে আর কীভাবে পড়বেন"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part A",
+        "title": "The assessment process, the assessor and the context",
+        "title_bn": "Assessment process, assessor-এর ভূমিকা ও context",
+        "topics": [
+          {
+            "concept": "assessment-process",
+            "id": "assessment-process",
+            "title": "Stages of Competency Assessment",
+            "title_bn": "Assessment organise ও conduct করার ধাপগুলো"
+          },
+          {
+            "concept": "assessment-activity-components",
+            "id": "assessment-activity-components",
+            "title": "Components of an Assessment Activity",
+            "title_bn": "একটা assessment activity কী কী নিয়ে গঠিত"
+          },
+          {
+            "concept": "assessor-role",
+            "id": "assessor-role",
+            "title": "Role of an Assessor of Competency",
+            "title_bn": "Competency assessor-এর কাজ ও দক্ষতা"
+          },
+          {
+            "concept": "free-consent-confidentiality",
+            "id": "free-consent-confidentiality",
+            "title": "Free Consent and Confidentiality",
+            "title_bn": "Candidate-এর সম্মতি ও গোপনীয়তা রক্ষা"
+          },
+          {
+            "concept": "context-of-assessment",
+            "id": "context-of-assessment",
+            "title": "Context of Assessment",
+            "title_bn": "Assessment কোন পরিবেশে ও প্রেক্ষাপটে হয়"
+          },
+          {
+            "concept": "informing-relevant-people",
+            "id": "informing-relevant-people",
+            "title": "Informing Relevant People About Assessment",
+            "title_bn": "Assessment-এর আগে কাকে কাকে জানাতে হয়"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part B",
+        "title": "Preparing candidates, reasonable adjustment, legal duties and self assessment",
+        "title_bn": "Candidate প্রস্তুতি, reasonable adjustment, আইনি-নৈতিক দায়িত্ব ও self assessment",
+        "topics": [
+          {
+            "concept": "preparing-candidates",
+            "id": "preparing-candidates",
+            "title": "Preparing Candidates and a Supportive Environment",
+            "title_bn": "Candidate প্রস্তুত করা ও সহায়ক পরিবেশ দেওয়া"
+          },
+          {
+            "concept": "informing-candidates",
+            "id": "informing-candidates",
+            "title": "Informing Candidates Before Assessment",
+            "title_bn": "Assessment-এর আগে candidate-কে কী জানাবেন"
+          },
+          {
+            "concept": "reasonable-adjustment",
+            "id": "reasonable-adjustment",
+            "title": "Reasonable Adjustment",
+            "title_bn": "Reasonable adjustment কী ও কখন তা reasonable"
+          },
+          {
+            "concept": "adjustment-strategies",
+            "id": "adjustment-strategies",
+            "title": "Adjustment Strategies for Candidate Groups",
+            "title_bn": "বিভিন্ন candidate group-এর জন্য adjustment কৌশল"
+          },
+          {
+            "concept": "legal-ethical-responsibilities",
+            "id": "legal-ethical-responsibilities",
+            "title": "Legal and Ethical Responsibilities in Assessment",
+            "title_bn": "Assessment-এর আইনি ও নৈতিক দায়িত্ব"
+          },
+          {
+            "concept": "stopping-an-assessment",
+            "id": "stopping-an-assessment",
+            "title": "When to Stop an Assessment",
+            "title_bn": "কখন assessment থামিয়ে দিতে হয়"
+          },
+          {
+            "concept": "self-assessment-instruments",
+            "id": "self-assessment-instruments",
+            "title": "Self-Assessment Instruments",
+            "title_bn": "Self assessment instrument ও তার নমুনা"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part C",
+        "title": "Gathering evidence and making the assessment decision",
+        "title_bn": "Evidence সংগ্রহ ও assessment decision",
+        "topics": [
+          {
+            "concept": "forms-of-evidence",
+            "id": "forms-of-evidence",
+            "title": "Forms of Evidence: Direct and Indirect",
+            "title_bn": "Evidence কী: direct ও indirect evidence"
+          },
+          {
+            "concept": "evidence-gathering",
+            "id": "evidence-gathering",
+            "title": "Methods and Tools for Gathering Evidence",
+            "title_bn": "Evidence সংগ্রহের পদ্ধতি ও tools"
+          },
+          {
+            "concept": "assessor-errors",
+            "id": "assessor-errors",
+            "title": "Errors Commonly Made by Assessors",
+            "title_bn": "Assessor-রা সাধারণত যে ভুলগুলো করেন"
+          },
+          {
+            "concept": "rules-of-evidence",
+            "id": "rules-of-evidence",
+            "title": "Rules of Evidence",
+            "title_bn": "Evidence যাচাইয়ের নিয়ম (rules of evidence)"
+          },
+          {
+            "concept": "assessment-decision",
+            "id": "assessment-decision",
+            "title": "Making an Assessment Decision",
+            "title_bn": "Evidence দেখে competent কিনা সিদ্ধান্ত নেওয়া"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part D",
+        "title": "Providing feedback",
+        "title_bn": "Feedback দেওয়া",
+        "topics": [
+          {
+            "concept": "feedback-sandwich",
+            "id": "feedback-sandwich",
+            "title": "Feedback and the Feedback Sandwich",
+            "title_bn": "Feedback কেন দরকার ও feedback sandwich"
+          },
+          {
+            "concept": "effective-feedback",
+            "id": "effective-feedback",
+            "title": "Effective Ways of Giving Feedback",
+            "title_bn": "কার্যকরভাবে feedback দেওয়ার উপায়"
+          },
+          {
+            "concept": "negative-feedback-strategies",
+            "id": "negative-feedback-strategies",
+            "title": "Feedback on a Negative Assessment",
+            "title_bn": "Not yet competent হলে কীভাবে feedback দেবেন"
+          },
+          {
+            "concept": "benefits-of-feedback",
+            "id": "benefits-of-feedback",
+            "title": "Benefits of Feedback on Assessment",
+            "title_bn": "Feedback দিলে assessor ও candidate-এর লাভ"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part E",
+        "title": "Recording and reporting assessment results",
+        "title_bn": "Assessment-এর ফলাফল record ও report",
+        "topics": [
+          {
+            "concept": "recording-reporting",
+            "id": "recording-reporting",
+            "title": "Recording and Reporting Assessment Results",
+            "title_bn": "ফলাফল record ও report করা কেন ও কীভাবে"
+          },
+          {
+            "concept": "record-of-assessment-results",
+            "id": "record-of-assessment-results",
+            "title": "Record of Competency Assessment Results (Pro-forma)",
+            "title_bn": "Assessment ফলাফল record করার pro-forma"
+          },
+          {
+            "concept": "competency-assessment-result-summary",
+            "id": "competency-assessment-result-summary",
+            "title": "Competency Assessment Result Summary (CARS)",
+            "title_bn": "CARS: assessment ফলাফলের সারাংশ"
+          }
+        ]
+      },
+      {
+        "label": "Information Sheet 1 · Part F",
+        "title": "Reviewing the assessment process",
+        "title_bn": "Assessment process review করা",
+        "topics": [
+          {
+            "concept": "reviewer-responsibilities",
+            "id": "reviewer-responsibilities",
+            "title": "Responsibilities of a Reviewer",
+            "title_bn": "Assessment review কেন ও reviewer-এর দায়িত্ব"
+          },
+          {
+            "concept": "review-cycle",
+            "id": "review-cycle",
+            "title": "Reviewing the Assessment Process",
+            "title_bn": "Review cycle-এর পাঁচটি ধাপ"
+          }
+        ]
+      },
+      {
+        "label": "Job and Activity Sheets",
+        "title": "Job 1, Job 2 and Activities 1.1-2.3",
+        "title_bn": "Job ও Activity Sheet: হাতে-কলমে কাজ",
+        "topics": [
+          {
+            "concept": null,
+            "id": "job-1",
+            "title": "Job 1: Organise the assessment",
+            "title_bn": "Context ঠিক করা ও candidate প্রস্তুত করার অনুশীলন"
+          },
+          {
+            "concept": null,
+            "id": "job-2",
+            "title": "Job 2: Conduct the assessment",
+            "title_bn": "Evidence, decision, feedback ও record-এর অনুশীলন"
+          }
+        ]
+      },
+      {
+        "label": "Review of Competency",
+        "title": "Review of Competency: your self assessment rating",
+        "title_bn": "Review of Competency: নিজের প্রস্তুতি যাচাই",
+        "topics": [
+          {
+            "concept": null,
+            "id": "review-of-competency",
+            "title": "Review of Competency",
+            "title_bn": "নিজের দক্ষতা নিজে যাচাই করুন"
+          }
+        ]
+      }
+    ],
+    "guide": {
+      "outline": {
+        "covered": 128,
+        "total": 128
+      },
+      "sections": 9
+    },
     "hasPdf": true,
     "highlights": 87,
     "id": "cblm12",

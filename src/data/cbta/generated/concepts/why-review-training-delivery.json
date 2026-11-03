@@ -32,6 +32,189 @@
     "bn": "সেলাই কোর্স শেষে অন্য institute-এর সাথে benchmark করে একটা নতুন idea নেওয়া।",
     "en": "After a sewing course, the trainer compares her results with another institute. She adopts one new practice idea."
   },
+  "extra": [
+    {
+      "bn": [
+        "Training সবসময় বদলায়; প্রতি session-এর পর নিজের delivery আর trainees-এর উন্নতি দুটোই দেখুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 71,
+              "printedPage": 71,
+              "quote": "All training should be dynamic in that it is continually evolving to meet the changing",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 71,
+              "printedPage": 71,
+              "quote": "needs of the learners.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "All training should be dynamic, continually evolving to meet learners' changing needs."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 71,
+              "printedPage": 71,
+              "quote": "It is important that after you deliver a training session that you review your delivery",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 71,
+              "printedPage": 71,
+              "quote": "and look how the trainees developed their skills and knowledge and your training\nskills.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "After a session, review your delivery, how trainees developed, and your training skills."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p71-information-sheet-3",
+        "c10-p71-why-review"
+      ]
+    },
+    {
+      "bn": [
+        "কার্ডের আটটি কারণ Information Sheet 3, p.71-এও আছে; answer key p.78 হুবহু একই।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 71,
+              "printedPage": 71,
+              "quote": "Check standards are up to date.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Check standards are up to date."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 71,
+              "printedPage": 71,
+              "quote": "Benchmark the system against others.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Benchmark the system against others."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p71-why-review"
+      ]
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 71,
+              "printedPage": 71,
+              "quote": "It is useful to",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 71,
+              "printedPage": 71,
+              "quote": "gather this feedback at the end of the session, so that you can think about whether",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 71,
+              "printedPage": 71,
+              "quote": "you need to make changes to your next session.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Gather feedback at the end of the session to plan changes for the next one."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 71,
+              "printedPage": 71,
+              "quote": "Feed backs can be obtained from participants, other people like other trainers or supervisors.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Feed backs can be obtained from participants, other people like other trainers or supervisors."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 71,
+              "printedPage": 71,
+              "quote": "You need sometimes to report feedback in order for management to make",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 71,
+              "printedPage": 71,
+              "quote": "decisions.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Sometimes you report feedback so management can make decisions."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p71-gathering-feedback"
+      ]
+    }
+  ],
   "highlighted": false,
   "id": "why-review-training-delivery",
   "importance": {
@@ -186,7 +369,19 @@
         "fidelity": "verbatim",
         "text": "Benchmark the system against others."
       }
-    ]
+    ],
+    "itemsBn": [
+      "বিদ্যমান processes and systems, procedures আর আমাদের কাজের ধরন উন্নত (improve) করতে।",
+      "Standards এখনও up to date আছে কিনা যাচাই করতে।",
+      "নতুন systems গ্রহণ করা দরকার কিনা ঠিক করতে।",
+      "বর্তমান procedures-এর quality আর সেগুলোর ওপর আস্থা (confidence) নিশ্চিত করতে।",
+      "Procedures and approaches এখনও প্রাসঙ্গিক (relevant) কিনা দেখতে।",
+      "Procedures and approaches আসলে মানা (followed) হচ্ছে কিনা দেখতে।",
+      "System নিয়ে বাইরের মানুষের ideas নিতে।",
+      "অন্যদের system-এর সাথে তুলনা করে (benchmark) নিজের মান দেখতে।"
+    ],
+    "title": "Reasons for reviewing training delivery",
+    "titleBn": "Training delivery review করার কারণ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -395,7 +590,7 @@
   ],
   "score": 3,
   "sourceType": "cblm",
-  "stars": 1,
+  "stars": 2,
   "status": "draft",
   "title": "Why Review Training Delivery",
   "traps": [
@@ -448,6 +643,7 @@
       "text": "Review also obtains outside ideas on the system."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

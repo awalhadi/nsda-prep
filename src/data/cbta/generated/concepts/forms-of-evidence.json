@@ -52,6 +52,219 @@
     "bn": "Assessor সামনে দাঁড়িয়ে সেলাই দেখলে direct evidence; সুপারভাইজারের রিপোর্ট পড়লে indirect evidence।",
     "en": "An assessor watches a garments trainee sew a shirt. That is direct evidence. A supervisor's report on the trainee is indirect evidence."
   },
+  "extra": [
+    {
+      "bn": [
+        "নিজের competency প্রমাণে কোন ধরনের evidence জমা দেবেন, trainer-কে আগে থেকেই জানতে হবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 11,
+              "quote": "The forms of evidence required\nwill depend on the purpose of the assessment and the performance outcomes.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The forms of evidence depend on the purpose of assessment and the performance outcomes."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 12,
+              "quote": "As a TVET teacher/trainer one must know what forms of evidence are required\nto prepare and submit to prove competency",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A trainer must know which forms of evidence to prepare and submit."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p12-forms-of-evidence"
+      ]
+    },
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "Direct Evidence: is evidence that can be observed or witnessed by the\nAssessor",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Direct Evidence: is evidence that can be observed or witnessed by the\nAssessor"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "Observations by the assessor, of the candidate carrying out the activities.",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Observations by the assessor, of the candidate carrying out the activities."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "Oral questioning of the candidate.",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Oral questioning of the candidate."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "Demonstration by the candidate of specific skills needed to complete the\ntask.",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Demonstration by the candidate of specific skills needed to complete the\ntask."
+          }
+        ],
+        "title": "Direct Evidence",
+        "title_bn": "Assessor নিজে দেখেন বা শোনেন"
+      },
+      "outline": [
+        "c07-p13-direct-indirect"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "Indirect Evidence: is evidence of the candidate's work that can be reviewed\nor examined by the Assessor.",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Indirect Evidence: is evidence of the candidate's work that can be reviewed\nor examined by the Assessor."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "Assessment of finished products.",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Assessment of finished products."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "Written test to determine underpinning knowledge.",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Written test to determine underpinning knowledge."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "Review of previous work performed.",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Review of previous work performed."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "Testimonials or reports from employers, colleagues or supervisors.",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Testimonials or reports from employers, colleagues or supervisors."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "Evidence of Training.",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Evidence of Training."
+          }
+        ],
+        "title": "Indirect Evidence",
+        "title_bn": "কাজের ফল বা কাগজ পরে যাচাই"
+      },
+      "title": "Direct vs indirect evidence (CBLM 7 p.13)",
+      "title_bn": "Direct বনাম indirect evidence"
+    }
+  ],
   "highlighted": true,
   "id": "forms-of-evidence",
   "importance": {
@@ -190,7 +403,13 @@
         "fidelity": "paraphrase",
         "text": "Indirect evidence: the candidate's work reviewed or examined by the assessor. Examples: finished product, written test, previous work, testimonials or reports, evidence of training."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Direct evidence — assessor নিজে সামনে থেকে দেখেন বা শোনেন, যেমন কাজের observation, oral questioning বা demonstration।",
+      "Indirect evidence — candidate-এর কাজ পরে যাচাই করে দেখা হয়, যেমন finished product, written test, আগের কাজ বা reports।"
+    ],
+    "title": "Forms of evidence",
+    "titleBn": "Evidence-এর ধরন"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -569,6 +788,182 @@
       "text": "Demonstration is direct evidence. Assessment of a finished product is indirect evidence."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Direct Evidence is evidence that can be observed or witnessed by the assessor.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Direct Evidence is evidence that can be observed or witnessed by the assessor."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Observations by the assessors of the candidate carrying out work activities",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Observations by the assessors of the candidate carrying out work activities"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Oral questioning of the candidate",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Oral questioning of the candidate"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Demonstration of specific skills needed to complete the task",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Demonstration of specific skills needed to complete the task"
+        }
+      ],
+      "title": "Direct evidence",
+      "title_bn": "assessor নিজে দেখে বা শোনে"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Indirect evidence is evidence of the candidate's work that can be reviewed or",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "examined by the assessor",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Indirect evidence is the candidate's work reviewed or examined by the assessor."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Assessment of finished product",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Assessment of finished product"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Written test of underpinning knowledge",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Written test of underpinning knowledge"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Review of previous work performed",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Review of previous work performed"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Testimonials or reports from employers, colleagues, clients or supervisors",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Testimonials or reports from employers, colleagues, clients or supervisors"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Evidence of training",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Evidence of training"
+        }
+      ],
+      "title": "Indirect evidence",
+      "title_bn": "কাজের ফল বা কাগজ পরে যাচাই"
+    },
+    "title": "Direct vs indirect evidence (p.17)",
+    "title_bn": "সরাসরি বনাম পরোক্ষ evidence"
+  },
   "vivaDerived": true,
   "warnings": 2
 }

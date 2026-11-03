@@ -62,6 +62,8 @@
     "bn": "রান্নার ট্রেনিং-এ রেসিপি জানা, পরিচ্ছন্নতার মনোভাব আর ছুরি চালানোর দক্ষতা: তিনটা domain।"
   },
   "list_answer": {
+    "title": "Domains of learning",
+    "title_bn": "শেখার ক্ষেত্র (learning domains)",
     "items": [
       {
         "text": "Cognitive: mental skills (knowledge); recall of facts, procedural patterns and concepts.",
@@ -112,6 +114,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Cognitive — মনের দক্ষতা বা knowledge; facts, procedural patterns আর concepts মনে রাখা ও চিনতে পারা।",
+      "Affective — অনুভূতির দিক বা attitude; feelings, values, appreciation, motivations আর attitudes এর মধ্যে পড়ে।",
+      "Psychomotor — হাতে-কলমে শারীরিক দক্ষতা বা skills; physical movement, coordination আর motor skills, যা practice ছাড়া গড়ে ওঠে না।"
     ]
   },
   "traps": [
@@ -139,6 +146,103 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Three learning domains",
+    "title_bn": "তিনটি learning domain",
+    "columns": [
+      "Domain",
+      "Simple name",
+      "What it includes"
+    ],
+    "rows": [
+      [
+        "Cognitive",
+        {
+          "text": "mental skills (Knowledge)",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 33,
+              "quote": "mental skills (Knowledge)"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Recall or recognition of specific facts, procedural patterns and concepts.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 33,
+              "quote": "This includes the recall or recognition of specific facts, procedural patterns, and"
+            },
+            {
+              "src": "cblm10",
+              "page": 33,
+              "quote": "concepts"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Affective",
+        {
+          "text": "growth in feelings or emotional areas (Attitude)",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 33,
+              "quote": "growth in feelings or emotional areas (Attitude)"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Feelings, values, appreciation, enthusiasms, motivations and attitudes.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 33,
+              "quote": "such as feelings, values, appreciation, enthusiasms, motivations, and attitudes."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Psychomotor",
+        {
+          "text": "manual or physical skills (Skills)",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 33,
+              "quote": "manual or physical skills (Skills)"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Physical movement, coordination and use of the motor-skill areas.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 33,
+              "quote": "The psychomotor domain includes physical movement, coordination, and use of the"
+            },
+            {
+              "src": "cblm10",
+              "page": 33,
+              "quote": "motor-skill areas."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Name the three learning domains and explain each.",

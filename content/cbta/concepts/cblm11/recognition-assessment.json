@@ -61,6 +61,8 @@
     "bn": "অভিজ্ঞ দর্জি তার কাজের নমুনা আর supervisor-এর রিপোর্ট দিয়ে প্রমাণ দেন।"
   },
   "list_answer": {
+    "title": "Types of evidence for recognition assessment",
+    "title_bn": "Recognition assessment-এ যে ধরনের evidence ব্যবহার হয়",
     "items": [
       {
         "text": "Work records and examples of work products",
@@ -129,6 +131,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "আগের কাজের records আর বানানো কাজের নমুনা দেখে দক্ষতা বোঝা যায়।",
+      "Workplace-এ বা অন্য কোথাও নেওয়া training-এর records।",
+      "এখন হাতে-কলমে কী পারে, তার assessment — পুরনো evidence-এর চেয়ে current competence বেশি গুরুত্বপূর্ণ।",
+      "এখন candidate কতটা জানে, তারও আলাদা assessment হয়।",
+      "বর্তমান ও আগের supervisors, trainers, managers বা customers-এর লেখা report, যারা candidate-এর কাজ দেখেছেন।",
+      "আগে অর্জিত qualifications-ও evidence হিসেবে জমা দেওয়া যায়।"
     ]
   },
   "traps": [
@@ -155,6 +165,169 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "People involved vs best practice recognition assessment",
+    "title_bn": "কারা জড়িত বনাম best practice",
+    "left": {
+      "title": "People involved in the process",
+      "title_bn": "প্রক্রিয়ায় যারা থাকে",
+      "points": [
+        {
+          "text": "Participant or candidate",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "participant or candidate"
+            }
+          ]
+        },
+        {
+          "text": "Assessor",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "candidate • assessor • supervisor"
+            }
+          ]
+        },
+        {
+          "text": "Supervisor",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "assessor • supervisor"
+            }
+          ]
+        },
+        {
+          "text": "Technical expert",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "technical expert"
+            }
+          ]
+        },
+        {
+          "text": "Other assessors",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "other assessors."
+            }
+          ]
+        }
+      ]
+    },
+    "right": {
+      "title": "Best practice recognition assessment",
+      "title_bn": "ভালো recognition assessment",
+      "points": [
+        {
+          "text": "Assessors are technically competent, or buddy up with a supervisor or industry specialist.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "Assessors should be technically competent"
+            },
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "they should buddy up with a workplace supervisor or industry specialist"
+            }
+          ]
+        },
+        {
+          "text": "The assessor knows what the job looks like, even without doing it.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "An assessor must know what the job looks like, even if they do not have experience of 'doing' that job"
+            }
+          ]
+        },
+        {
+          "text": "Relate typical workplace activities to the recognition application.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "establish the relationship between typical workplace activities and how they relate to the recognition application"
+            }
+          ]
+        },
+        {
+          "text": "Look at the whole picture (unit of competency), not the fragments.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "An assessor looks at the whole picture (unit of competency) not the fragments"
+            }
+          ]
+        },
+        {
+          "text": "Use a strategic approach to weigh evidence against units of competency.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "use a strategic approach in weighing up evidence against units of competency"
+            }
+          ]
+        },
+        {
+          "text": "Prefer current evidence. Add observation, documents, products, questions and third party reports.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "Evidence of current competence should be gathered in preference to more historic evidence"
+            },
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "o Observation o Workplace documents"
+            },
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "o Workplace products that show the 'outcome'"
+            },
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "o Third Party Reports"
+            },
+            {
+              "src": "cblm11",
+              "page": 33,
+              "quote": "Questions that relate to 'what if' scenarios"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What types of evidence can be collected for recognition assessment?",

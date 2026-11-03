@@ -53,6 +53,10 @@
     {
       "en": "Diverse communities",
       "bn": "ভিন্ন ভিন্ন সমাজ বা গোষ্ঠী"
+    },
+    {
+      "en": "Fit",
+      "bn": "মানানসই হওয়া, খাপ খাওয়া"
     }
   ],
   "bangla_explanation": [
@@ -66,6 +70,8 @@
     "bn": "IT training centre-এ গ্রামের learner, নারী আর কম দেখেন এমন learner আছেন; trainer সবার জন্য ক্লাস সাজান।"
   },
   "list_answer": {
+    "title": "Why an organisation practises inclusivity",
+    "title_bn": "একটা প্রতিষ্ঠান কেন inclusivity চর্চা করে",
     "items": [
       {
         "text": "Prepare learners to work more effectively and flexibly in diverse workplaces and communities.",
@@ -111,6 +117,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Learners-কে বৈচিত্র্যময় (diverse) workplaces ও communities-এ আরও কার্যকর ও নমনীয়ভাবে কাজের জন্য তৈরি করা — বাস্তবে নানা ধরনের মানুষের সাথেই কাজ করতে হয়।",
+      "প্রতিযোগিতার বাজারে আরও বেশি learners ও clients-কে ভালো মানের services দেওয়া — সবাইকে সেবা দিতে পারলে প্রতিষ্ঠান এগিয়ে থাকে।",
+      "আইন (legislation) ও standard থেকে আসা বাধ্যবাধকতা পূরণ করা — inclusivity মানা প্রতিষ্ঠানের আইনি দায়িত্বও।"
     ]
   },
   "traps": [
@@ -167,6 +178,27 @@
           "quote": "organization can:"
         }
       ]
+    },
+    {
+      "text": "Inclusivity is not one way for all; each learner needs a learning experience that 'fits'.",
+      "cites": [
+        {
+          "src": "cblm02",
+          "page": 6,
+          "quote": "Inclusivity embraces the idea that since everyone is an individual, we need to"
+        },
+        {
+          "src": "cblm02",
+          "page": 6,
+          "quote": "organise teaching and learning environment so that each learner has a learning"
+        },
+        {
+          "src": "cblm02",
+          "page": 6,
+          "quote": "experience that 'fits'."
+        }
+      ],
+      "fidelity": "paraphrase"
     }
   ],
   "practice": {

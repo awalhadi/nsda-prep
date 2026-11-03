@@ -37,6 +37,135 @@
     "bn": "IT ট্রেনিং-এ একটা slide-এ একটা ছবি আর তিন লাইন, বড় bold font।",
     "en": "An IT trainer makes a slide on file saving. It shows one screenshot and three short lines in bold 30-point font."
   },
+  "extra": [
+    {
+      "bn": [
+        "ভালো ছবি তথ্য দেয়, আনন্দ দেয়, ধাক্কা দেয়, ভাবায়; PowerPoint ছোট-বড় সব group-এ চলে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Good photography can inform, delight,",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "shock and provoke.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Good photography can inform, delight, shock and provoke."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "PowerPoint slides in",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "particular are very flexible: you can use",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "them with individuals or large groups.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "PowerPoint slides are very flexible: use them with individuals or large groups."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p12-powerpoint-photographs"
+      ]
+    },
+    {
+      "bn": [
+        "Exam trap: font size 28 থেকে 34, bold — সংখ্যাটা মনে রাখুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "PowerPoint slides may contain text, graphics, movies and other objects",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Slides may contain text, graphics, movies and other objects."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Size 28 to 34 with bold",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "font is recommended.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Font size 28 to 34 with bold font is recommended."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p12-preparing-slides"
+      ]
+    },
+    {
+      "bn": "Slides দেখানোর ধাপগুলো উপরের card-এর ছবিতে আছে।",
+      "kind": "note",
+      "outline": [
+        "c10-p13-showing-slides"
+      ],
+      "text": "The 'Showing slides' steps are on the card above. Arrive early, position the projector, check it, stand aside, follow up.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "powerpoint-slide-tips",
   "importance": {
@@ -161,7 +290,17 @@
         "fidelity": "paraphrase",
         "text": "Graphics should make a key concept clearer."
       }
-    ]
+    ],
+    "itemsBn": [
+      "একটি slide-এ অতিরিক্ত text বা data ঠেসে দেবেন না।",
+      "পরিষ্কার ও সহজ visuals ব্যবহার করুন, যাতে learners বিভ্রান্ত না হয়।",
+      "বেশি text থাকলে slide পড়াই যায় না, তাই লেখা কম রাখুন।",
+      "Font size এত বড় রাখুন যাতে সহজে পড়া যায় — 28 থেকে 34, bold করে।",
+      "Contrast রাখুন — dark-এর ওপর light, বা light-এর ওপর dark রং, যাতে লেখা ফুটে ওঠে।",
+      "Graphics এমন হবে যা একটি key concept-কে আরও পরিষ্কার করে।"
+    ],
+    "title": "Tips for preparing PowerPoint slides",
+    "titleBn": "PowerPoint slides তৈরির tips"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -390,6 +529,113 @@
       "text": "Stand to one side"
     }
   ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Preparation is essential. Arrive early.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Preparation is essential. Arrive early."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Position the projector safely and so",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "everyone can see.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Position the projector safely so everyone can see."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Make absolutely sure the presentation is working correctly and",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "trial the use of a remote control if you are using one.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Make sure the presentation works. Trial the remote control."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Stand to one side",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Stand to one side"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Encourage participation during the presentation and provide some follow up\nactivity.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Encourage participation and provide some follow up activity."
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "প্রস্তুতি জরুরি — আগেভাগে পৌঁছান।",
+      "Projector নিরাপদে এমনভাবে রাখুন যেন সবাই দেখতে পায়।",
+      "Presentation ঠিকমতো চলছে কিনা নিশ্চিত হন; remote control থাকলে আগে চালিয়ে দেখুন।",
+      "পর্দার সামনে নয়, এক পাশে দাঁড়ান।",
+      "Presentation চলাকালীন participation-এ উৎসাহ দিন, পরে follow up activity দিন।"
+    ],
+    "title": "Showing slides",
+    "title_bn": "Slides দেখানোর ধাপ"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

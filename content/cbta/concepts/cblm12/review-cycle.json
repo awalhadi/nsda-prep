@@ -10,7 +10,6 @@
   "source_type": "cblm",
   "covers": [
     "cblm12-p30-c2966de0",
-    "cblm12-p30-6b0f4d99",
     "cblm12-p31-8df1bd59",
     "cblm12-p31-169030c5",
     "cblm12-p32-278e89d8",
@@ -34,11 +33,26 @@
     ]
   },
   "keywords": [
-    { "en": "Review", "bn": "পিছনে ফিরে যাচাই করা" },
-    { "en": "Reviewer", "bn": "যিনি review করেন" },
-    { "en": "Stakeholders", "bn": "যাদের এই কাজে স্বার্থ আছে" },
-    { "en": "Recommendations", "bn": "উন্নতির জন্য পরামর্শ" },
-    { "en": "Reflection", "bn": "নিজের কাজ নিয়ে ভেবে দেখা" }
+    {
+      "en": "Review",
+      "bn": "পিছনে ফিরে যাচাই করা"
+    },
+    {
+      "en": "Reviewer",
+      "bn": "যিনি review করেন"
+    },
+    {
+      "en": "Stakeholders",
+      "bn": "যাদের এই কাজে স্বার্থ আছে"
+    },
+    {
+      "en": "Recommendations",
+      "bn": "উন্নতির জন্য পরামর্শ"
+    },
+    {
+      "en": "Reflection",
+      "bn": "নিজের কাজ নিয়ে ভেবে দেখা"
+    }
   ],
   "bangla_explanation": [
     "Assessment শেষ হলেই কাজ শেষ না, পুরো process review করতে হয়।",
@@ -55,6 +69,8 @@
     "explain_bn": "প্রতিটি অক্ষর একটি ধাপ: Prepare, Plan, Conduct, Record and report, Evaluate।"
   },
   "list_answer": {
+    "title": "Steps of the review cycle",
+    "title_bn": "Review cycle-এর ধাপ",
     "items": [
       {
         "text": "Prepare for the review",
@@ -116,6 +132,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Review-এর প্রস্তুতি নিন — কী ঠিক হলো আর কী ভুল হলো, তা নিয়ে ভাবুন।",
+      "Review-এর পরিকল্পনা করুন — কী, কেন আর কীভাবে review হবে, তা আগে ঠিক করুন।",
+      "পরিকল্পনা অনুযায়ী review পরিচালনা করুন।",
+      "Review-এর ফলাফল লিখে রাখুন ও report করুন।",
+      "শেষে পুরো review process কেমন হলো, তা মূল্যায়ন করুন — এতে পরেরবার আরও ভালো করা যায়।"
     ]
   },
   "traps": [
@@ -154,6 +177,161 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "The review cycle (p.31-33)",
+    "title_bn": "Review cycle: পাঁচটি ধাপ, ঘুরে আবার শুরু",
+    "cycle": true,
+    "items": [
+      {
+        "text": "Prepare for the review: share what went right and what went wrong.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 31,
+            "quote": "1. Prepare for the review"
+          },
+          {
+            "src": "cblm12",
+            "page": 31,
+            "quote": "Reviewing to share what went right and what went wrong."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Plan the review: purpose, scope, stakeholders, criteria, evidence, methods and resources.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "2. Plan the review"
+          },
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "What is the purpose and scope of the review?"
+          },
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "Who are the relevant stakeholders for the review?"
+          },
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "What criteria will form the basis of the review?"
+          },
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "What evidence am I going to collect?"
+          },
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "What methods of gathering evidence am I going to use?"
+          },
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "What resources will I need?"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Conduct the review: assessor selection and decisions, procedures, records, reporting and appeals.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "3. Conduct the review"
+          },
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "Assessor selection"
+          },
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "Assessor decisions"
+          },
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "Assessment procedures"
+          },
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "Record keeping procedures"
+          },
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "Reporting mechanisms"
+          },
+          {
+            "src": "cblm12",
+            "page": 32,
+            "quote": "Appeals procedures"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Record and report results under the report headings. Include issues arising and recommendations.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 33,
+            "quote": "4. Record and report results"
+          },
+          {
+            "src": "cblm12",
+            "page": 33,
+            "quote": "you should use the following headings"
+          },
+          {
+            "src": "cblm12",
+            "page": 33,
+            "quote": "The issues arising from the review"
+          },
+          {
+            "src": "cblm12",
+            "page": 33,
+            "quote": "Recommendations to the organisation"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Evaluate the review process, looking back on your own performance too.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 33,
+            "quote": "5. Evaluate the review process"
+          },
+          {
+            "src": "cblm12",
+            "page": 33,
+            "quote": "looking back on your own performance to see how it could be improved."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    ],
+    "labels_bn": [
+      "Review-এর প্রস্তুতি — কী ঠিক হয়েছে আর কী ভুল হয়েছে, তা খোলাখুলি ভাগ করে নিন।",
+      "Review-এর পরিকল্পনা — purpose, scope, stakeholders, criteria, evidence, methods আর resources ঠিক করুন।",
+      "Review পরিচালনা — assessor selection ও decisions, procedures, records, reporting আর appeals খতিয়ে দেখুন।",
+      "Report headings মেনে results লিখুন ও report করুন — উঠে আসা issues আর recommendations সহ।",
+      "শেষে পুরো review process মূল্যায়ন করুন, নিজের performance নিয়েও ভাবুন।"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Outline the stages of a review cycle.",

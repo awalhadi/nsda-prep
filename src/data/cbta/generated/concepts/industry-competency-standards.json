@@ -53,6 +53,126 @@
     "bn": "গার্মেন্টসের sewing operator-এর standard বলে দেয় কাজে কী কী জানতে ও পারতে হবে।",
     "en": "A garments sewing standard lists the skills and knowledge a sewing operator needs."
   },
+  "extra": [
+    {
+      "bn": [
+        "Competency standard শিল্প (industry) নিজেই ঠিক করে — কোন কাজে কী skills, knowledge, attitude লাগবে।",
+        "এর ভেতরে units of competency; প্রতিটি unit-এ elements, performance criteria, range of variables আর evidence guide।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Competency standards are made up of units of competency.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Competency standards are made up of units of competency."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "units of",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "have been",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "elements of competency",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "performance criteria, a range of variables and an evidence guide",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Units have elements of competency, performance criteria, a range of variables and an evidence guide."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Industry competency standards documents specify the competencies required for work.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Industry competency standards documents specify the competencies required for work."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "They identify the key competencies",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "a worker needs",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "in a particular occupation",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "They identify the key competencies a worker needs in a particular occupation."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p14-competency-standards",
+        "c01-p14-ics-includes"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "industry-competency-standards",
   "importance": {
@@ -198,7 +318,17 @@
         "fidelity": "verbatim",
         "text": "Assessment methods and materials."
       }
-    ]
+    ],
+    "itemsBn": [
+      "কাজের level অনুযায়ী কী skills, knowledge আর attitude লাগবে।",
+      "Quality indicators — কাজের মান বোঝার লক্ষণ।",
+      "Competent প্রমাণিত হলে কোন national qualifications পাওয়া যাবে।",
+      "Learning strategies — training কীভাবে সাজাতে হবে তার নির্দেশনা, learning materials সহ।",
+      "Assessment guidelines — assessment কীভাবে করতে হবে তার নির্দেশিকা।",
+      "Assessment-এর methods আর materials।"
+    ],
+    "title": "What an industry competency standard includes",
+    "titleBn": "Industry competency standard-এ যা থাকে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -656,6 +786,71 @@
       "text": "Industry determines competency standards. They are specifications of performance."
     }
   ],
+  "visual": {
+    "columns": [
+      "Part",
+      "Is made up of"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Competency standards",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "standards are made up of units of competency",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Units of competency."
+        }
+      ],
+      [
+        "Unit of competency",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "which are themselves made up of",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "elements of competency, together with performance criteria, a range of variables,",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "and an evidence guide.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Elements of competency, with performance criteria, a range of variables and an evidence guide."
+        }
+      ]
+    ],
+    "title": "How competency standards are built (p.6)",
+    "title_bn": "Competency standards কী দিয়ে তৈরি"
+  },
   "vivaDerived": true,
   "warnings": 2
 }

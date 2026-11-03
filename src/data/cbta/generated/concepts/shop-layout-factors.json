@@ -37,6 +37,97 @@
     "bn": "ওয়েল্ডিং শপে মেশিন বসানোর আগে চলাচলের পথ আর scrap bins-এর জায়গা ঠিক করা।",
     "en": "A welding shop plans machine places first. It keeps lanes of travel clear and scrap bins near."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Floor plan of the building or shop (available space)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Amount and source of light (natural and artificial)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Ventilation",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Electrical outlet and power supply",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Machine placement (space allowed and accessibility)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Production work organization sequence",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Storage room and facilities (arrangement and location)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Lanes of travel",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Floor plan, light, ventilation, power, machine placement, work sequence, storage, lanes of travel and more."
+      },
+      "kind": "qa",
+      "outline": [
+        "c06-p20-shop-layout-factors",
+        "c06-p21-shop-layout-factors-2"
+      ],
+      "q": "What should you consider in laying out a shop?",
+      "q_bn": "Shop-এর layout করার সময় কী কী বিবেচনা করবেন?",
+      "tip": "26 factors: 21 on p.20 and 5 on p.21. In an exam, write at least ten.",
+      "tip_bn": "মোট ২৬টি: p.20-এ ২১টি, p.21-এ ৫টি; পরীক্ষায় অন্তত দশটি লিখুন।"
+    }
+  ],
   "highlighted": true,
   "id": "shop-layout-factors",
   "importance": {
@@ -461,7 +552,37 @@
         "fidelity": "verbatim",
         "text": "Project storage, lockers"
       }
-    ]
+    ],
+    "itemsBn": [
+      "ভবন বা shop-এর floor plan — কতটুকু জায়গা আছে, সব পরিকল্পনা এখান থেকেই শুরু।",
+      "আলো কতটা আর কোথা থেকে আসে — প্রাকৃতিক ও কৃত্রিম দুই ধরনেরই।",
+      "Ventilation — বাতাস চলাচলের ব্যবস্থা, যাতে ভেতরের বাতাস ভালো থাকে।",
+      "Electrical outlet আর power supply কোথায় আছে, যাতে মেশিন চালানো যায়।",
+      "Machine placement — মেশিনের চারপাশে কতটা জায়গা থাকবে আর সহজে কাছে যাওয়া যাবে কিনা।",
+      "Production কাজ কোন ক্রমে হবে, সেই অনুযায়ী জায়গা সাজানো।",
+      "Wash rack আর restroom-এর ব্যবস্থা — ধোয়ার জায়গা ও শৌচাগার।",
+      "Shop-এর প্রতিটি বিভাগের (departments) জন্য আলাদা জায়গা।",
+      "Chalkboard আর bulletin boards কোথায় থাকবে, যাতে সবাই দেখতে পায়।",
+      "Instructor-এর desk আর filing cabinets রাখার জায়গা।",
+      "জিনিস জোড়া দেওয়ার কাজের জন্য assembly space।",
+      "Shop-এর ভেতরে classroom কোথায় থাকবে।",
+      "হাতে-কলমে দেখানোর জন্য demonstration bench আর সুবিধা।",
+      "Reference material কীভাবে সাজানো থাকবে, যাতে সহজে পাওয়া যায়।",
+      "সময়ের হিসাব রাখার (time keeping) ব্যবস্থা।",
+      "জিনিসপত্র রাখার locker-এর ব্যবস্থা।",
+      "Storage room কোথায় হবে আর ভেতরে কীভাবে সাজানো হবে।",
+      "Scrap bins — বাতিল টুকরো ফেলার পাত্র।",
+      "Lanes of travel — চলাচলের পথ খোলা রাখা।",
+      "Pillars — ঘরের খুঁটি কোথায় আছে, তা মাথায় রেখে সাজানো।",
+      "Partitions — জায়গা ভাগ করার দেয়াল বা আড়াল।",
+      "ভবিষ্যতে workshop বাড়ানোর (future expansion) জায়গা রাখা।",
+      "Shop-এর বিপদ (hazards) চিনে সেভাবে সাজানো।",
+      "কতজন student-এর জায়গা লাগবে (student capacity)।",
+      "First aid-এর জিনিসপত্র (supplies) রাখার জায়গা।",
+      "শিক্ষার্থীদের project রাখার জায়গা আর lockers।"
+    ],
+    "title": "Factors to consider in laying out a shop",
+    "titleBn": "Shop বা workshop-এর layout করার সময় বিবেচ্য বিষয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -846,6 +967,7 @@
       "text": "Shop hazards and first aid supplies are factors too, not only space."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

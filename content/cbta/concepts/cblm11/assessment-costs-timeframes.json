@@ -1,0 +1,263 @@
+{
+  "id": "assessment-costs-timeframes",
+  "canonical_title": "Costs of Assessment and Assessment Timeframes",
+  "aliases": [
+    "Cost effectiveness of assessment methods",
+    "Organizing assessment timeframes"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Assessment must be affordable. Costs are negotiated with the assessing organization or body.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 16,
+        "quote": "Assessment must be affordable"
+      },
+      {
+        "src": "cblm11",
+        "page": 16,
+        "quote": "they must be negotiated with either the assessing organization or body"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Affordable",
+      "bn": "সাধ্যের মধ্যে খরচ"
+    },
+    {
+      "en": "Cost effectiveness",
+      "bn": "কম খরচে ভালো ফল"
+    },
+    {
+      "en": "Negotiate",
+      "bn": "আলোচনা করে ঠিক করা"
+    },
+    {
+      "en": "Clustered units",
+      "bn": "একসাথে কয়েকটি unit"
+    },
+    {
+      "en": "Timeframe",
+      "bn": "সময়সীমা"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment-এর খরচ সাধ্যের মধ্যে রাখতে হবে, তাই cost আগে থেকে negotiate করা হয়।",
+    "Workplace-এ assessment হলে candidate-কে কাজ থেকে সরাতে হয়, এটাও একটা খরচ।",
+    "একসাথে একাধিক candidate, clustered units-এর projects, আর feedback হিসেবেও চলে এমন checklists খরচ কমায়।",
+    "Timeframe আগে থেকে estimated ও planned রাখো, যাতে learner ready থাকে।"
+  ],
+  "example": {
+    "en": "A welding centre assesses five candidates in one session. Its checklist also records feedback.",
+    "bn": "এক session-এ পাঁচজন, আর একই checklist দিয়ে feedback, খরচ কমলো।"
+  },
+  "list_answer": {
+    "title": "Ways to make assessment cost effective",
+    "title_bn": "Assessment-এর খরচ কমানোর উপায়",
+    "items": [
+      {
+        "text": "Use methods that assess more than one candidate at a time, where appropriate.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "use methods which will allow you to assess more than one candidate at a time, where appropriate"
+          }
+        ]
+      },
+      {
+        "text": "Choose methods that assess clustered units of competency, such as projects.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "choose methods which assess clustered units of competency, such as projects"
+          }
+        ]
+      },
+      {
+        "text": "Design checklists for more than one function. Recording tools can double as feedback tools.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "design checklists so that they fulfill more than one function, recording tools can double as feedback tools"
+          }
+        ]
+      },
+      {
+        "text": "Consider tools that are already available, and modify them if necessary.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "consider tools that are already available (consider modifying available tools, if necessary)"
+          }
+        ]
+      }
+    ],
+    "items_bn": [
+      "সম্ভব হলে এমন methods নাও যাতে একসাথে একাধিক candidate assess করা যায়; এতে সময় ও খরচ দুটোই কমে।",
+      "Projects-এর মতো methods বেছে নাও, যাতে আলাদা আলাদা নয়, একবারে clustered units of competency assess হয়।",
+      "একটা checklist যেন একাধিক কাজ করে — যেমন recording tools-ই আবার feedback tools হিসেবে ব্যবহার হয়।",
+      "নতুন বানানোর আগে হাতে থাকা tools দেখো; দরকার হলে সেগুলো modify করে নাও, এতে খরচ বাঁচে।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "In the workplace, candidates and others may be taken off work activities.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 16,
+          "quote": "candidates and others might need to be taken off work activities to undertake the assessment"
+        }
+      ]
+    },
+    {
+      "text": "Timing is estimated and planned so the learner is ready and arrangements are made.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 16,
+          "quote": "The timing of assessment events need to be estimated and planned to ensure that the learner is ready and that all relevant arrangements have been made"
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "How can you make assessment methods and tools cost-effective?",
+      "modelAnswer": "Assessment must be affordable, and costs are negotiated with the assessing organization. To be cost-effective:\n1. Assess more than one candidate at a time.\n2. Assess clustered units, such as projects.\n3. Design checklists with more than one function.\n4. Use or modify tools already available.",
+      "keyPoints": [
+        {
+          "text": "Use methods that assess more than one candidate at a time, where appropriate.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "use methods which will allow you to assess more than one candidate at a time, where appropriate"
+            }
+          ]
+        },
+        {
+          "text": "Choose methods that assess clustered units of competency, such as projects.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "choose methods which assess clustered units of competency, such as projects"
+            }
+          ]
+        },
+        {
+          "text": "Design checklists for more than one function. Recording tools can double as feedback tools.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "design checklists so that they fulfill more than one function, recording tools can double as feedback tools"
+            }
+          ]
+        },
+        {
+          "text": "Consider tools that are already available, and modify them if necessary.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "consider tools that are already available (consider modifying available tools, if necessary)"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a CBLM 11 tip for cost-effective assessment?",
+      "options": [
+        "Design checklists that also work as feedback tools",
+        "Always develop new tools from scratch",
+        "Assess only one candidate at a time",
+        "Avoid assessing clustered units"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 16,
+        "quote": "design checklists so that they fulfill more than one function, recording tools can double as feedback tools"
+      }
+    },
+    "matching": {
+      "prompt": "Match each cost-saving idea with its detail.",
+      "pairs": [
+        {
+          "left": "More than one candidate",
+          "right": "Assess them at a time, where appropriate",
+          "cite": {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "use methods which will allow you to assess more than one candidate at a time, where appropriate"
+          }
+        },
+        {
+          "left": "Projects",
+          "right": "Assess clustered units of competency",
+          "cite": {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "choose methods which assess clustered units of competency, such as projects"
+          }
+        },
+        {
+          "left": "Recording tools",
+          "right": "Double as feedback tools",
+          "cite": {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "recording tools can double as feedback tools"
+          }
+        },
+        {
+          "left": "Available tools",
+          "right": "Modify them if necessary",
+          "cite": {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "consider tools that are already available (consider modifying available tools, if necessary)"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why must assessment timeframes be planned?",
+      "answer": {
+        "text": "To ensure the learner is ready and all relevant arrangements are made.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "to ensure that the learner is ready and that all relevant arrangements have been made"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

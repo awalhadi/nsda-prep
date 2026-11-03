@@ -1,0 +1,582 @@
+{
+  "aliases": [
+    "Assessment pathway",
+    "Stages of the assessment process (CBLM 11)"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 13,
+          "printed": 13
+        }
+      ],
+      "src": "cblm11"
+    }
+  ],
+  "banglaExplanation": [
+    "Assessment এক দিনের কাজ না, এটা System থেকে Validation পর্যন্ত একটা pathway।",
+    "System বলে assessment কীভাবে হবে; Plan-এ purpose, target, UoC আর resources থাকে।",
+    "তারপর methods বাছাই, tools তৈরি, আর আসল assessment: conduct, judge, report।",
+    "শেষে Validation: tools, processes আর evidence review করে improvements recommend করা হয়।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 11,
+  "errata": [],
+  "example": {
+    "bn": "নিয়ম → plan → method → tool → assessment → validation, এই ক্রমে।",
+    "en": "A garments training centre plans a sewing assessment. It moves from policy to plan, tools, assessment and validation."
+  },
+  "extra": [
+    {
+      "bn": "নিয়ম ঠিক করো → plan লেখো → method বাছো → tool বানাও → assess করো → শেষে validate করে উন্নতি।",
+      "kind": "note",
+      "outline": [
+        "c11-p13-assessment-pathway"
+      ],
+      "text": "Memory chain: System → Plan → Methods → Develop tools → Assess → Validate (S-P-M-D-A-V).",
+      "tone": "tip"
+    }
+  ],
+  "highlighted": false,
+  "id": "assessment-process-pathways",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "ধাপে ধাপে এগোনোর পথ",
+      "en": "Pathway"
+    },
+    {
+      "bn": "assessment-এর নীতি ও পদ্ধতি",
+      "en": "Assessment System"
+    },
+    {
+      "bn": "মূল্যায়নের পরিকল্পনা",
+      "en": "Assessment Plan"
+    },
+    {
+      "bn": "evidence সংগ্রহের হাতিয়ার",
+      "en": "Assessment tools"
+    },
+    {
+      "bn": "যাচাই করে উন্নতির সুপারিশ",
+      "en": "Validation"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "This outlines how the assessment is approached and the polices that guide approach Assessment System",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment System: how assessment is approached and the policies that guide it."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Assessment Plan includes the purpose, target, UoC to be assessed, resources used as well as how, when and where the",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment Plan: purpose, target, UoC, resources, and how, when and where."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Identify the assessment methods that will be used to gather evidence Assessment methods & tools",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment methods and tools: identify the methods used to gather evidence."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Develop the assessment tools that help the Assessor collect the evidence Developing Assessment tools",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Developing assessment tools: develop tools that help the assessor collect evidence."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Conduct the assessment",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Review evidence and make judgements about competency",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Report outcomes of competence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment of competence: conduct, review evidence and judge competency, then report outcomes."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Review, compare and evaluate the assessment tools, processes and evidence AND make recommend or necessary improvements. Assessment validation",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment validation: review, compare and evaluate tools, processes and evidence. Recommend improvements."
+      }
+    ],
+    "itemsBn": [
+      "Assessment System বলে দেয় assessment কীভাবে করা হবে আর কোন policies তা পরিচালনা করবে; বাকি সব ধাপ এর উপর দাঁড়ায়।",
+      "Assessment Plan-এ লেখা থাকে purpose, target, কোন UoC-র assessment হবে, resources, আর কীভাবে, কখন ও কোথায় হবে।",
+      "Evidence সংগ্রহের জন্য কোন assessment methods ব্যবহার হবে, তা এই ধাপে ঠিক করা হয়।",
+      "বাছাই করা methods অনুযায়ী tools বানানো হয়, যা দিয়ে assessor evidence সংগ্রহ করেন।",
+      "আসল assessment: conduct করা, evidence review করে competency বিচার করা, তারপর outcomes report করা।",
+      "শেষে tools, processes আর evidence review ও evaluate করে improvements-এর সুপারিশ করা হয়, যাতে পরের assessment আরও ভালো হয়।"
+    ],
+    "title": "Stages of the assessment process and pathways",
+    "titleBn": "Assessment process ও pathways-এর ধাপ"
+  },
+  "mnemonic": {
+    "explain_bn": "ছয়টি ধাপের প্রথম অক্ষর মনে রাখো: System থেকে Validation।",
+    "text": "S-P-M-D-A-V: System, Plan, Methods, Develop tools, Assess, Validate"
+  },
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 13,
+        "printedPage": 13,
+        "quote": "Assessment Process and Pathways",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 13,
+        "printedPage": 13,
+        "quote": "Assessment System",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 13,
+        "printedPage": 13,
+        "quote": "Assessment validation",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Assessment Process and Pathways runs from Assessment System to Assessment validation."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "how the assessment is approached and the polices that guide approach Assessment System",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Assessment System",
+          "right": "How the assessment is approached"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Assessment Plan includes the purpose, target, UoC to be assessed, resources used as well as how, when and where the",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Assessment Plan",
+          "right": "Purpose, target, UoC, resources, how, when, where"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Identify the assessment methods that will be used to gather evidence Assessment methods & tools",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Assessment methods & tools",
+          "right": "Identify methods to gather evidence"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Review, compare and evaluate the assessment tools, processes and evidence AND make recommend or necessary improvements. Assessment validation",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Assessment validation",
+          "right": "Review, compare and evaluate; recommend improvements"
+        }
+      ],
+      "prompt": "Match each stage with what happens in it."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 13,
+        "printedPage": 13,
+        "quote": "make recommend or necessary improvements. Assessment validation",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Assessment validation",
+        "Assessment Plan",
+        "Assessment System",
+        "Developing Assessment tools"
+      ],
+      "prompt": "Which stage reviews, compares and evaluates assessment tools, processes and evidence?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Assessment Plan includes the purpose, target, UoC to be assessed, resources used as well as how, when and where the",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessment Plan: purpose, target, UoC, resources, and how, when and where."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Conduct the assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Review evidence and make judgements about competency",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Report outcomes of competence",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessment of competence: conduct, review evidence and judge competency, then report outcomes."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Review, compare and evaluate the assessment tools, processes and evidence AND make recommend or necessary improvements. Assessment validation",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessment validation: review, compare and evaluate tools, processes and evidence. Recommend improvements."
+        }
+      ],
+      "modelAnswer": "The assessment pathway has six stages:\n1. Assessment System: approach and guiding policies.\n2. Assessment Plan: purpose, target, UoC, resources, how, when, where.\n3. Assessment methods and tools: methods to gather evidence.\n4. Developing assessment tools.\n5. Assessment of competence: conduct, judge, report outcomes.\n6. Assessment validation: review tools and evidence, recommend improvements.",
+      "prompt": "Outline the assessment process and pathways."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Review, compare and evaluate the assessment tools, processes and evidence AND make recommend or necessary improvements. Assessment validation",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment validation: review tools, processes and evidence, and recommend improvements."
+      },
+      "prompt": "What is the last stage of the assessment pathway?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Assessment Process and Pathways",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 13,
+          "printedPage": 13,
+          "quote": "Review, compare and evaluate the assessment tools, processes and evidence",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 13,
+          "printedPage": 13,
+          "quote": "Assessment validation",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Validation comes after assessment. It reviews tools, processes and evidence."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 13,
+          "printedPage": 13,
+          "quote": "Identify the assessment methods that will be used to gather evidence",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 13,
+          "printedPage": 13,
+          "quote": "Develop the assessment tools that help the Assessor collect the evidence",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Identify the methods first. Then develop the tools that help collect evidence."
+    }
+  ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "This outlines how the assessment is approached and the polices that guide approach Assessment System",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment System: how assessment is approached and the policies that guide it."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Assessment Plan includes the purpose, target, UoC to be assessed, resources used as well as how, when and where the",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment Plan: purpose, target, UoC, resources, and how, when and where."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Identify the assessment methods that will be used to gather evidence Assessment methods & tools",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment methods and tools: identify the methods used to gather evidence."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Develop the assessment tools that help the Assessor collect the evidence Developing Assessment tools",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Developing assessment tools: develop tools that help the assessor collect evidence."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Conduct the assessment",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Review evidence and make judgements about competency",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Report outcomes of competence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment of competence: conduct, review evidence and judge competency, then report outcomes."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "Review, compare and evaluate the assessment tools, processes and evidence AND make recommend or necessary improvements. Assessment validation",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment validation: review, compare and evaluate tools, processes and evidence. Recommend improvements."
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "Assessment System বলে দেয় assessment কীভাবে করা হবে আর কোন policies তা পরিচালনা করবে; বাকি সব ধাপ এর উপর দাঁড়ায়।",
+      "Assessment Plan-এ লেখা থাকে purpose, target, কোন UoC-র assessment হবে, resources, আর কীভাবে, কখন ও কোথায় হবে।",
+      "Evidence সংগ্রহের জন্য কোন assessment methods ব্যবহার হবে, তা এই ধাপে ঠিক করা হয়।",
+      "বাছাই করা methods অনুযায়ী tools বানানো হয়, যা দিয়ে assessor evidence সংগ্রহ করেন।",
+      "আসল assessment: conduct করা, evidence review করে competency বিচার করা, তারপর outcomes report করা।",
+      "শেষে tools, processes আর evidence review ও evaluate করে improvements-এর সুপারিশ করা হয়, যাতে পরের assessment আরও ভালো হয়।"
+    ],
+    "title": "Assessment Process and Pathways (p.13)",
+    "title_bn": "Assessment-এর ছয় ধাপের পথ"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

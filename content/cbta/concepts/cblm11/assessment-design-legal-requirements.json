@@ -57,6 +57,8 @@
     "bn": "ওয়েল্ডিং assessment-এ safety, ফলাফলের গোপনীয়তা আর পরিবেশের নিয়ম মানতে হয়।"
   },
   "list_answer": {
+    "title": "Legal and ethical requirements assessment events must comply with",
+    "title_bn": "Assessment events যেসব আইনি ও নৈতিক নিয়ম মেনে চলবে",
     "items": [
       {
         "text": "OHS policies and procedures",
@@ -125,6 +127,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "কাজের জায়গার স্বাস্থ্য ও নিরাপত্তার নিয়ম (OHS) মানতে হবে, যাতে assessment চলাকালে কেউ ঝুঁকিতে না পড়ে।",
+      "ওই industry-র জন্য নির্দিষ্ট যে আইন আছে, assessment-কেও তা মানতে হবে।",
+      "Candidate-এর ব্যক্তিগত তথ্য ও ফলাফল গোপন রাখার নিয়ম মানতে হবে।",
+      "সবাই যেন সমান সুযোগ পায় — কেউ যেন assessment থেকে বাদ না পড়ে বা পিছিয়ে না থাকে।",
+      "পরিবেশ-সংক্রান্ত বিষয় ও নিয়ম মানতে হবে, যাতে assessment-এর কাজে পরিবেশের ক্ষতি না হয়।",
+      "Industry-তে কাজ করার যে স্বীকৃত নিয়ম বা আচরণবিধি আছে, assessment-ও সেভাবে চলবে।"
     ]
   },
   "traps": [
@@ -201,6 +211,39 @@
               "src": "cblm11",
               "page": 17,
               "quote": "You should consult industry or technical experts and training & assessment experts."
+            }
+          ]
+        },
+        {
+          "text": "Who you consult depends on who, where and how you are assessing.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 17,
+              "quote": "Who needs to be consulted? This will depend on: • who you are assessing • where you are assessing • how you are assessing"
+            }
+          ]
+        },
+        {
+          "text": "Let each person you consult know the plan and how they fit in.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 17,
+              "quote": "let each person you consult know about the assessment plan and how they fit into the assessment process"
+            }
+          ]
+        },
+        {
+          "text": "Consultation makes you and the stakeholders clear about the assessment process.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 17,
+              "quote": "Consultation is important so that you and the stakeholders are clear about how the assessment process will happen"
             }
           ]
         }

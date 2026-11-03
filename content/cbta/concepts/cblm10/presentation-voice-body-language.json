@@ -65,6 +65,8 @@
     "explain_bn": "প্রতিটি অক্ষর একটা body language hint: সোজা, খোলা ভঙ্গি, একটু ঝুঁকে, স্বাভাবিক চোখাচোখি, relax।"
   },
   "list_answer": {
+    "title": "SOLER: body language for a relaxed presentation",
+    "title_bn": "Relaxed presentation-এর body language: SOLER",
     "items": [
       {
         "text": "S: Sit, stand or situate squarely (straight).",
@@ -123,6 +125,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "S — learners-এর দিকে মুখ করে সোজা হয়ে (squarely) বসুন বা দাঁড়ান।",
+      "O — খোলা ভঙ্গি (open posture) রাখুন; হাত ভাঁজ করে দাঁড়াবেন না।",
+      "L — সামান্য সামনে ঝুঁকুন, এতে বোঝায় আপনি আগ্রহী।",
+      "E — eye contact স্বাভাবিক রাখুন, জোর করে নয়।",
+      "R — relaxed থাকুন, এতে বোঝায় আপনি স্বস্তিতে আছেন আর feedback নিতে প্রস্তুত।"
     ]
   },
   "traps": [
@@ -161,6 +170,59 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Your voice: three cues",
+    "title_bn": "কণ্ঠস্বরের তিনটি দিক",
+    "columns": [
+      "Voice cue",
+      "What to do"
+    ],
+    "rows": [
+      [
+        "Rate",
+        {
+          "text": "Speak at a conversational rate, not too fast or too slow.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 47,
+              "quote": "Try to speak at a conversational rate - not too fast or too slow."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Volume",
+        {
+          "text": "You must be heard clearly. You can alter volume for effect.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 47,
+              "quote": "You must be able to be heard clearly. You can alter volume for effect."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Pitch",
+        {
+          "text": "Be careful, pitch can convey unintentional emotion.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 47,
+              "quote": "Be careful, pitch can convey unintentional emotion."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Which voice cues support a presentation, and how can you manage anxiety?",

@@ -40,6 +40,108 @@
     "bn": "গার্মেন্টস সেন্টারে: প্রস্তুতি → evidence → decision → feedback → record → review।",
     "en": "At a garments training centre, the assessor first prepares the sewing candidates. Then she watches them sew and collects evidence. She makes a decision and gives feedback. She records the outcomes, then reviews the process."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Organising competency based assessment involves preparing assessment environment (establish the purpose of assessment, physical resources and materials) and candidates for assessment.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Organising competency based assessment involves preparing assessment environment (establish the purpose of assessment, physical resources and materials) and candidates for assessment."
+      },
+      "example": {
+        "bn": "Driving test-এর আগে উদ্দেশ্য ঠিক করা, মাঠ ও গাড়ি প্রস্তুত রাখা এবং candidate-দের বুঝিয়ে বলা।",
+        "en": "Before a motor-driving test, the assessor sets the purpose, books the yard and car, and briefs the candidates."
+      },
+      "kind": "qa",
+      "outline": [
+        "c12-p7-information-sheet-1"
+      ],
+      "q": "What does organising competency based assessment involve?",
+      "q_bn": "Competency based assessment organise করা বলতে কী বোঝায়?",
+      "tip": "Two things to prepare: the environment and the candidates.",
+      "tip_bn": "দুটো জিনিস প্রস্তুত করতে হয়: পরিবেশ আর candidate।"
+    },
+    {
+      "bn": [
+        "প্রথমে candidate প্রস্তুত, তারপর evidence, তারপর decision, feedback, record/report, শেষে পুরো process review।",
+        "Decision আগে, feedback পরে; record/report আগে, review সবার শেষে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "series of steps that Trainees/Candidates and Assessors undergo in order to confirm",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "competency.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Trainees/candidates and assessors undergo these steps to confirm competency."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p7-process"
+      ]
+    },
+    {
+      "bn": "ছোট শিকল: Prepare → Evidence → Decision → Feedback → Record → Review। পরীক্ষায় CBLM-এর পুরো বাক্য লিখুন।",
+      "kind": "note",
+      "outline": [
+        "c12-p7-process"
+      ],
+      "text": "Memory chain: Prepare → Evidence → Decision → Feedback → Record → Review. In the exam, write the CBLM wording of each stage.",
+      "tone": "tip"
+    },
+    {
+      "bn": "ধাপ ৫-এ BTEB আর পাশে NSDA লেখা আছে; মূল কথা হলো outcome record ও report করা।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Record and report assessment outcomes to BTEB NSDA",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Record and report assessment outcomes to BTEB NSDA"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c12-p7-process"
+      ],
+      "text": "The p.7 diagram prints 'BTEB' with 'NSDA' beside it in stage 5. Write 'Record and report assessment outcomes', and name the authority your centre uses.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "assessment-process",
   "importance": {
@@ -169,7 +271,17 @@
         "fidelity": "verbatim",
         "text": "Review assessment process"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Candidate-কে প্রস্তুত করা আর self assessment instruments পূরণ করানো, যাতে সে নিজেই বোঝে প্রস্তুত কি না।",
+      "Assessment instruments ব্যবহার করে assessment event চালানো আর evidence সংগ্রহ করা।",
+      "সংগৃহীত evidence দেখে সিদ্ধান্ত নেওয়া — candidate competent কি না।",
+      "সিদ্ধান্তের পর candidate-কে feedback দেওয়া — আগে decision, তারপর feedback।",
+      "Assessment outcomes লিখে রাখা আর BTEB-কে report করা।",
+      "শেষে পুরো assessment process review করা, যাতে পরেরবার আরও ভালো হয়।"
+    ],
+    "title": "Stages of competency based assessment",
+    "titleBn": "Competency based assessment-এর ধাপ"
   },
   "mnemonic": {
     "explain_bn": "প্রতিটি অক্ষর একটি stage-এর প্রথম শব্দ, উপর থেকে নিচে ক্রমে।",
@@ -412,6 +524,111 @@
       "text": "Record and report outcomes before you review the assessment process."
     }
   ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Prepare candidates and administrate self assessment instruments",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Prepare candidates and administrate self assessment instruments"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Collect evidence/conduct assessment event using assessment tool/instruments",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Collect evidence/conduct assessment event using assessment tool/instruments"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Make assessment decision",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Make assessment decision"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Provide feedback to candidate",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Provide feedback to candidate"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Record and report assessment outcomes to BTEB",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Record and report assessment outcomes to BTEB"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Review assessment process",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Review assessment process"
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "Candidate-কে প্রস্তুত করা আর self assessment instruments পূরণ করানো, যাতে সে নিজেই বোঝে প্রস্তুত কি না।",
+      "Assessment instruments ব্যবহার করে assessment event চালানো আর evidence সংগ্রহ করা।",
+      "সংগৃহীত evidence দেখে সিদ্ধান্ত নেওয়া — candidate competent কি না।",
+      "সিদ্ধান্তের পর candidate-কে feedback দেওয়া — আগে decision, তারপর feedback।",
+      "Assessment outcomes লিখে রাখা আর BTEB-কে report করা।",
+      "শেষে পুরো assessment process review করা, যাতে পরেরবার আরও ভালো হয়।"
+    ],
+    "title": "Six stages of competency based assessment (p.7)",
+    "title_bn": "Competency assessment-এর ছয়টি ধাপ"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

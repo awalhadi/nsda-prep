@@ -69,6 +69,8 @@
     "bn": "পড়তে কষ্ট হয় এমন candidate-কে মুখে উত্তর দিতে দেওয়া fairness-এর উদাহরণ।"
   },
   "list_answer": {
+    "title": "Principles of competency based assessment",
+    "title_bn": "Competency based assessment-এর নীতি",
     "items": [
       {
         "text": "Validity: assessments assess what they claim to assess.",
@@ -121,6 +123,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Validity — যা assess করার কথা, ঠিক সেটাই assess করা; অন্য কিছু নয়।",
+      "Reliability — methods আর procedures সবসময় একইভাবে বোঝা ও প্রয়োগ করা হয়, তাই ফলাফলে ভরসা করা যায়।",
+      "Flexibility — knowledge, skills, delivery modes আর candidates-এর প্রয়োজন অনুযায়ী assessment মানিয়ে নেওয়া যায়।",
+      "Fairness — যোগ্য সব candidates assessment দিতে পারে, কেউ অসুবিধায় পড়ে না।"
     ]
   },
   "traps": [
@@ -165,8 +173,385 @@
           "quote": "we recognise that there is no single approach to the assessment of performance in a competency-based system"
         }
       ]
+    },
+    {
+      "text": "Reasonable adjustment examples include a scribe and a large print version of papers.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 12,
+          "quote": "attendant carer, scribe"
+        },
+        {
+          "src": "cblm11",
+          "page": 12,
+          "quote": "use of large print version of any papers"
+        },
+        {
+          "src": "cblm11",
+          "page": 12,
+          "quote": "Examples of Reasonable adjustments include"
+        }
+      ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "The principles of CB assessment",
+    "title_bn": "CB assessment-এর নীতিগুলো",
+    "columns": [
+      "Principle",
+      "Meaning",
+      "In assessment this means",
+      "Achieved by"
+    ],
+    "rows": [
+      [
+        "Validity",
+        {
+          "text": "Assessments assess what they claim to assess.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "Assessments are valid when they assess what they claim to assess"
+            }
+          ]
+        },
+        {
+          "text": "Cover enough skills and knowledge. Integrate knowledge and skills with practical application. Judge on evidence from many occasions and situations.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "Assessments will cover the range of skills and knowledge sufficient to demonstrate competency"
+            },
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "Assessment of competence should integrate knowledge and skills with their practical application"
+            },
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "made on evidence gathered on a number of occasions and in a variety of situations"
+            }
+          ]
+        },
+        {
+          "text": "Assessors know what is assessed from clearly defined criteria. Evidence relates to the unit, shows criteria are met and is sufficient.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "assessors are fully aware of what is to be assessed, as indicated by clearly defined performance or assessment criteria"
+            },
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "evidence is collected from activities and tasks that can be clearly related to the unit of competency"
+            },
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "evidence demonstrates that the performance or assessment criteria have been met"
+            },
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "evidence is sufficient, ie the units/elements of competency or learning outcomes have been suitably sampled"
+            }
+          ]
+        }
+      ],
+      [
+        "Reliability",
+        {
+          "text": "Methods and procedures are consistently interpreted and applied over time.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "Assessments are reliable when the methods and procedures used are consistently interpreted and applied over time"
+            }
+          ]
+        },
+        {
+          "text": "Monitor and review practices for consistent interpretation of evidence. Assessors must be competent against national assessment standards.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "Assessment practices should be monitored and reviewed to ensure that there is consistency in the interpretation of evidence"
+            },
+            {
+              "src": "cblm11",
+              "page": 10,
+              "quote": "Assessors must be competent in terms of the national competency standards for assessment"
+            }
+          ]
+        },
+        {
+          "text": "Administer each candidate the same way. Give clear instructions. Use well planned guides. Keep events 'just right'. Review tools with other assessors.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "administering assessments in the same way for each candidate"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "ensuring that instructions to candidates are clear, consistent and unambiguous"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "ensuring that assessors use well planned guides"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "making sure that assessment events are 'just right' neither too hard nor too easy"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "evaluating and revising the assessment tools and their results with other assessors"
+            }
+          ]
+        }
+      ],
+      [
+        "Flexibility",
+        {
+          "text": "Appropriate to the range of knowledge, skills, delivery modes, locations and candidates' needs.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "Assessments are flexible when they are appropriate to the range of knowledge, skills and attitudes encompassed by competency standards"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "the range of delivery modes and locations as well as the needs of a wide range of candidates"
+            }
+          ]
+        },
+        "—",
+        {
+          "text": "Accept there is no single approach to assessing performance. Consider the widest range of direct, indirect and supplementary evidence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "there is no single approach to the assessment of performance"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "assessment practices reflect a consideration of the widest range of direct, indirect and supplementary evidence"
+            }
+          ]
+        }
+      ],
+      [
+        "Fairness",
+        {
+          "text": "Accessible to all eligible candidates. No one is disadvantaged by the procedures or methods.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "Assessments are fair when they are accessible to all eligible candidates"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "no one is disadvantaged by the procedures or methods used"
+            }
+          ]
+        },
+        {
+          "text": "Equitable methods. Clear procedures and criteria. A participatory approach, jointly developed and agreed. Chances to challenge, and re-assessment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "Assessment practices and methods are equitable for all groups of learners or candidates"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "Assessment procedures and the criteria for judging performance are made clear"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "There should be a participatory approach to the conduct of assessment"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "jointly developed and agreed between assessor and the candidate"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "Opportunities must be provided to allow learners/candidates to challenge assessments and provision must be made for re-assessment"
+            }
+          ]
+        },
+        {
+          "text": "A transparent process. Consult candidates. Provide and seek feedback. Make challenges and appeals accessible.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "ensuring that the assessment process is 'transparent'"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "consulting candidates on the purpose, methods and procedures for assessment"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "providing and seeking informative feedback throughout the assessment process"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "making challenges and appeals accessible to all candidates"
+            }
+          ]
+        }
+      ],
+      [
+        "Authenticity (other principle)",
+        {
+          "text": "Indirect evidence, such as work samples, must be the candidate's own work.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 12,
+              "quote": "When designing assessment tools that use indirect evidence, e.g. work samples"
+            },
+            {
+              "src": "cblm11",
+              "page": 12,
+              "quote": "establish that indirect evidence is the work of the candidate and not someone else's"
+            }
+          ]
+        },
+        "—",
+        {
+          "text": "Assessors check authenticity. Collect more direct evidence if in doubt.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 12,
+              "quote": "you need to ensure that the assessors check on authenticity"
+            },
+            {
+              "src": "cblm11",
+              "page": 12,
+              "quote": "You should collect more direct evidence if in doubt"
+            }
+          ]
+        }
+      ],
+      [
+        "Currency (other principle)",
+        {
+          "text": "Check the currency of samples, references and qualifications.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 12,
+              "quote": "When assessment tools also rely on evidence such as samples, references and qualifications, ensure you check on their currency"
+            }
+          ]
+        },
+        "—",
+        {
+          "text": "If currency is in doubt, look for more direct evidence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 12,
+              "quote": "If currency is in doubt, look for more direct evidence"
+            }
+          ]
+        }
+      ],
+      [
+        "Cost-effectiveness (other principle)",
+        {
+          "text": "Methods and activities are cost-effective in time and financial costs.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 12,
+              "quote": "ensure that the assessment methods and activities are cost-effective in terms of both time and financial costs"
+            }
+          ]
+        },
+        "—",
+        "—"
+      ],
+      [
+        "Reasonable adjustment (other principle)",
+        {
+          "text": "An individual with a disability is not presented with artificial barriers.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 12,
+              "quote": "an individual with a disability (or temporary disability) is not presented with artificial barriers when demonstrating achievement of competence"
+            }
+          ]
+        },
+        "—",
+        {
+          "text": "Personal support (reader, interpreter, carer, scribe), special equipment, adaptive technology, shorter sessions, large print papers.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 12,
+              "quote": "provision of personal support services (e.g. reader, interpreter, attendant carer, scribe), use of special equipment"
+            },
+            {
+              "src": "cblm11",
+              "page": 12,
+              "quote": "or adaptive technology, shorter assessment sessions to allow for fatigue or medication, use of large print version of any papers"
+            }
+          ]
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Why is fairness an essential assessment principle?",
@@ -251,6 +636,44 @@
               "page": 10,
               "quote": "evidence demonstrates that the performance or assessment criteria have been met",
               "passageId": "cblm11-p10-e41c8fd8"
+            }
+          ]
+        },
+        {
+          "text": "Flexibility considers the widest range of direct, indirect and supplementary evidence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "the widest range of direct, indirect and supplementary evidence"
+            }
+          ]
+        },
+        {
+          "text": "Fairness needs a participatory approach, jointly agreed by assessor and candidate.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "There should be a participatory approach to the conduct of assessment"
+            },
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "jointly developed and agreed between assessor and the candidate"
+            }
+          ]
+        },
+        {
+          "text": "Opportunities must be provided to challenge assessments, with provision for re-assessment.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 11,
+              "quote": "Opportunities must be provided to allow learners/candidates to challenge assessments and provision must be made for re-assessment"
             }
           ]
         }

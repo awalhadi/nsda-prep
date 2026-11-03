@@ -71,6 +71,8 @@
     "bn": "দেরিতে shipment যাওয়ার একটা case study দিয়ে শিক্ষার্থীদের সমস্যা সমাধান করতে দেওয়া।"
   },
   "list_answer": {
+    "title": "Learning activities and methods for learning materials",
+    "title_bn": "Learning materials-এ ব্যবহারযোগ্য শেখার activities ও methods",
     "items": [
       {
         "text": "Analogies",
@@ -205,6 +207,20 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Analogies — অজানা বিষয়কে পরিচিত জিনিসের সাথে তুলনা করে বোঝানো।",
+      "Case studies — বাস্তব ঘটনা বিশ্লেষণ করে সমস্যার সমাধান খোঁজা।",
+      "Charts আর diagrams — তথ্য চিত্রে সাজিয়ে সহজে দেখানো।",
+      "Checklists — যাচাই করার সহজ তালিকা।",
+      "Instructional games আর simulations — খেলা বা বাস্তবের নকল পরিবেশে অনুশীলন।",
+      "Mind maps — মাঝখানের একটা ছবি থেকে শাখা বের করে বিষয় সাজানো।",
+      "Models — জটিল ধারণা সহজে বোঝাতে সাহায্য করে।",
+      "Mnemonic aids — মনে রাখতে সাহায্য করার কৌশল।",
+      "Pictures — ছবি দিয়ে বিষয় চোখের সামনে তুলে ধরা।",
+      "Stories — গল্পের মাধ্যমে বাস্তব উদাহরণ দেওয়া।",
+      "Self tests, quizzes আর questionnaires — learner নিজেই যাচাই করে কতটা শিখল।",
+      "Writing tasks — লিখে লিখে শেখার কাজ।"
     ]
   },
   "traps": [
@@ -417,5 +433,224 @@
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "table",
+    "title": "Learning activities and methods: what each one does (pp.20-23)",
+    "title_bn": "প্রতিটি learning method কী কাজে লাগে",
+    "columns": [
+      "Method",
+      "What it does"
+    ],
+    "rows": [
+      [
+        "Analogies",
+        {
+          "text": "Help learners connect the materials with what they already know.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 20,
+              "quote": "Assist learners to make connections with the materials and what they already know."
+            }
+          ]
+        }
+      ],
+      [
+        "Case Studies",
+        {
+          "text": "Analysis of 'real world' situations that pose problems for the learner to solve.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 20,
+              "quote": "Case studies are an excellent way of providing opportunities for analysis of 'real"
+            },
+            {
+              "src": "cblm08",
+              "page": 20,
+              "quote": "world' situations which pose problems for the learner to solve"
+            }
+          ]
+        }
+      ],
+      [
+        "Charts and Diagrams",
+        {
+          "text": "Graphics improve the comprehension of underlying principles and maintain interest.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 21,
+              "quote": "Graphics improve the comprehension of underlying principles and maintain a"
+            },
+            {
+              "src": "cblm08",
+              "page": 21,
+              "quote": "viewer's interest."
+            }
+          ]
+        }
+      ],
+      [
+        "Checklists",
+        {
+          "text": "Simple tools that can be used for a variety of purposes.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 21,
+              "quote": "Checklists are simple tools that can be used for a variety of purposes."
+            }
+          ]
+        }
+      ],
+      [
+        "Instructional Games and Simulations",
+        {
+          "text": "An enjoyable way for learners to become involved in the learning process.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 21,
+              "quote": "These can be excellent, and enjoyable, way for learners to become involved in the"
+            },
+            {
+              "src": "cblm08",
+              "page": 21,
+              "quote": "learning process"
+            }
+          ]
+        }
+      ],
+      [
+        "Mind Maps",
+        {
+          "text": "Graphical techniques that help us think and remember better.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 21,
+              "quote": "Mind maps are graphical techniques that help us think and remember better,"
+            }
+          ]
+        }
+      ],
+      [
+        "Models",
+        {
+          "text": "Help communicate complex ideas in a way more easily understood and remembered.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 22,
+              "quote": "Models, help us communicate complex ideas in a way that is more easily understood"
+            },
+            {
+              "src": "cblm08",
+              "page": 22,
+              "quote": "and remembered."
+            }
+          ]
+        }
+      ],
+      [
+        "Mnemonic Aids",
+        {
+          "text": "Assist learners in remembering key concepts or principles.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 22,
+              "quote": "Are used to assist learners in remembering key concepts or principles."
+            }
+          ]
+        }
+      ],
+      [
+        "Pictures",
+        {
+          "text": "Useful in creating context for what is presented and assisting learners to anchor the learning.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 22,
+              "quote": "They can also be very useful in creating context for what is being presented and for"
+            },
+            {
+              "src": "cblm08",
+              "page": 22,
+              "quote": "assisting learners to anchor the learning."
+            }
+          ]
+        }
+      ],
+      [
+        "Stories",
+        {
+          "text": "Give real examples of how the information works in the real world.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 22,
+              "quote": "Are excellent ways of providing real examples of how the information you are"
+            },
+            {
+              "src": "cblm08",
+              "page": 22,
+              "quote": "providing works in the real world?"
+            }
+          ]
+        }
+      ],
+      [
+        "Self Tests, Quizzes and Questionnaires",
+        {
+          "text": "Add variety; gain attention; let learners measure their progress.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 22,
+              "quote": "Tests, quizzes and questionnaires all add variety"
+            },
+            {
+              "src": "cblm08",
+              "page": 22,
+              "quote": "powerful tools for gaining a learners attention"
+            },
+            {
+              "src": "cblm08",
+              "page": 22,
+              "quote": "providing opportunities for learners to measure their progress"
+            }
+          ]
+        }
+      ],
+      [
+        "Writing Tasks",
+        {
+          "text": "Allow an individual to reflect carefully on their own understanding.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 23,
+              "quote": "This activity allows an individual to reflect carefully on their own understanding."
+            }
+          ]
+        }
+      ]
+    ]
+  }
 }

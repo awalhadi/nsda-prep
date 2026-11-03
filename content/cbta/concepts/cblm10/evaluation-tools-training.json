@@ -64,6 +64,8 @@
     "bn": "ড্রাইভিং কোর্স শেষে ৪০ জনকে questionnaire, আর পাঁচজনের interview।"
   },
   "list_answer": {
+    "title": "Evaluation tools for reviewing training delivery",
+    "title_bn": "Training delivery review করার evaluation tools",
     "items": [
       {
         "text": "Questionnaire: questions consistent, relatively cheap, use again, ideal for a large group. But impersonal; low response rate.",
@@ -231,6 +233,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Questionnaire — সবাইকে একই প্রশ্ন, তুলনামূলক সস্তা, আবার ব্যবহার করা যায়, বড় group-এর জন্য আদর্শ; তবে impersonal আর response rate কম।",
+      "Interview — সরাসরি personal contact, অস্পষ্ট উত্তর follow up করা যায়, মূল্যবান qualitative data মেলে; তবে খুব time consuming, আর প্রশ্নকর্তা ফলাফলে bias আনতে পারে।",
+      "Observation — দ্রুত মূল্যবান তথ্য পাওয়া যায়, আর তা প্রশিক্ষকের ওপর নির্ভর করে না; তবে intrusive হতে পারে আর observer biased হতে পারে।",
+      "Reflection — নিজের দৃষ্টিভঙ্গি পাওয়া যায়, private, সস্তা ও সহজ; তবে শুধু একজনের মত, আর অতিরিক্ত negative হয়ে যেতে পারে।",
+      "Group discussion — উত্তর সাধারণত খোলামেলা ও সৎ, দ্রুত অনেক data মেলে; তবে সামলানো কঠিন, আর dominant মানুষ আলোচনা দখল করে নিতে পারে।",
+      "Document review — learners-এর training-এর তথ্য, assessment-এ সাফল্যের হার (success rates) আর participants-এর লিখিত comments এক জায়গায় জড়ো করা হয়।"
     ]
   },
   "traps": [
@@ -262,6 +272,393 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Evaluation tools: advantages and disadvantages (p.72)",
+    "title_bn": "Evaluation tools: সুবিধা ও অসুবিধা",
+    "columns": [
+      "Evaluation tool",
+      "Advantages",
+      "Disadvantages"
+    ],
+    "rows": [
+      [
+        "Questionnaire",
+        {
+          "text": "Questions are consistent across all respondents. Relatively cheap to implement. You can use them again. Ideal for a large group.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Questions asked are"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "consistent across all"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "respondents"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Relatively cheap to"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "implement"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "You can use them again"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "They are ideal for a large"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "They are impersonal. Questions can be skewed or inappropriate. Don't cater for poor literacy. Responses can lack clarity. Low response rate. Can be time consuming. Hard to follow up responses.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "They are impersonal"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Questions can be"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "skewed or inappropriate"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Don't cater for poor"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "implement\nliteracy"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Responses can lack"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "next time\nclarity"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Low response rate"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Can be time consuming"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Hard to follow-up"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Interview",
+        {
+          "text": "Personal contact with respondent. You can follow up unclear answers. You get valuable qualitative data. Cheap to set up.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Personal contact with"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "respondent"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "You can follow-up"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "answers that are"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Interviewers may bias\nunclear"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "You get valuable"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "qualitative data"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Cheap to set up"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Very time consuming. Interviewees may not be open and honest. Interviewers may bias results.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Very time consuming"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Interviewees may not be"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "open and honest"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Interviewers may bias"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "results (by hearing only"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Observation",
+        {
+          "text": "Valuable info quickly. The process is independent of the teacher/trainer. Observer can pick up emotions and dynamics.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "You can obtain valuable"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "info quickly"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "The process is"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "independent of the"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "teacher/trainer"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Observer can pick-up"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "emotions, dynamics, etc"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Can be intrusive. A stranger in the room can distract learners. Observers can be biased.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Can be intrusive"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Having a stranger in"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "the room can distract"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Observers can be biased"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Reflection",
+        {
+          "text": "Provides your viewpoint. Private. Cheap and easy to implement. Good for self-development.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Provide your viewpoint"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Private\n• Can be overly"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Cheap and easy to\nimplement"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Good for self-\ndevelopment"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Only one point of view. Can be overly negative.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Only one point of view"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Can be overly negative"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Group discussion",
+        {
+          "text": "Responses are usually open and honest. Lots of data gathered quickly. Respondents feel valued. Can prompt deeper discussion.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Responses are usually"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "open and honest"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Lots of data gathered"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "People with a dominant\nquickly"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Allows respondents to"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "feel valued"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Can prompt deeper"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "levels of discussion"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Can be difficult to manage. Dominant people can take over. Can turn into a complaint session.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Can be difficult to"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "People with a dominant"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "personality can take over"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "Can turn into a complaint"
+            },
+            {
+              "src": "cblm10",
+              "page": 72,
+              "quote": "session\nlevels"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Mention the advantages and disadvantages of questionnaire, interview and observation.",

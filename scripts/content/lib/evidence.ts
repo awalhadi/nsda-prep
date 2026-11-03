@@ -6,7 +6,7 @@ import { EVIDENCE_DIR, loadSources, type SourceConfig } from "./raw.ts";
 import type { SelfCheckPair } from "./selfcheck.ts";
 import type { MatchingSet, PaperQuestion } from "./papers.ts";
 
-export interface EvPage { page: number; printedPage: number | null; section: string; text: string; lowText: boolean }
+export interface EvPage { page: number; printedPage: number | null; section: string; sectionTitle?: string; text: string; lowText: boolean }
 export interface EvPassage {
   id: string; src: string; page: number; printedPage: number | null; text: string; context: string;
   leadIn: string | null; section: string; heading: string; flags: string[]; annotXrefs: number[]; kinds: string[];

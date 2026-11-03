@@ -1,8 +1,7 @@
 {
   "aliases": [
     "Organizational/legal requirements for a training institute",
-    "Work in accordance with requirements",
-    "Responsibilities and accountabilities in personal work goals"
+    "Work in accordance with requirements"
   ],
   "appearsIn": [
     {
@@ -41,6 +40,169 @@
     "bn": "নতুন course শুরুর আগে refund policy, OHS আর enrolment-এর নিয়ম দেখে নিন।",
     "en": "A trainer plans a new short course in a garments training centre. She first checks the refund policy, OHS and enrolment rules."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 5,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "When you work in an organisation, you need to work within the organisation's",
+            "sourceTitle": "Maintain and Enhance Professional Practice",
+            "src": "cblm05"
+          },
+          {
+            "cblm": 5,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "requirements. In this way, you can be sure you are working within your brief.",
+            "sourceTitle": "Maintain and Enhance Professional Practice",
+            "src": "cblm05"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Work within the organisation's requirements. Then you are sure you are working within your brief."
+      },
+      "kind": "qa",
+      "outline": [
+        "c05-p13-within-requirements"
+      ],
+      "q": "How can you be certain your work goals and plans are in accordance with organisational requirements?",
+      "q_bn": "কীভাবে নিশ্চিত হবেন যে আপনার work goals প্রতিষ্ঠানের requirements মেনে চলছে?"
+    },
+    {
+      "bn": [
+        "পুরো তালিকা উপরের card-এ; complaints, OHS, quality, finance, access and equity, enrolment, staff, confidentiality, ethics, records — সব এখানে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Organisational/legal requirements may include:",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Organisational/legal requirements may include:"
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c05-p13-organisational-legal-requirements"
+      ]
+    },
+    {
+      "bn": "পাঁচটি চাইলে answer key-র পাঁচটি লিখুন; সব চাইলে card-এর পুরো তালিকা লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "List 5 organizational/legal requirements for a training institute.",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "List 5 organizational/legal requirements for a training institute."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "Answer 4",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "customer complaints, grievances and appeals",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "risk identification and management, including OHS",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "staff recruitment, induction and ongoing development and monitoring",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "administrative and records management system",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Answer 4 lists complaints, risk and OHS, quality, staff recruitment and records management."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "(if appropriate) o recognition and qualifications issues by other",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "training and/or assessment organisations",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "p.13: '(if appropriate) o recognition and qualifications issues by other training organisations'."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c05-p14-self-check-1",
+        "c05-p15-answer-key-1",
+        "c05-p13-organisational-legal-requirements"
+      ],
+      "text": "Self Check 1 Q4 asks for five. Answer Key 1 gives five of the info-sheet list. If asked for all, write the full list. On p.13, 'recognition and qualifications issues' starts with an 'o' inside the financial item. This guide lists it as its own point.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "organisational-legal-requirements",
   "importance": {
@@ -278,15 +440,51 @@
             "match": "exact",
             "page": 13,
             "printedPage": 13,
-            "quote": "administrative and records management system, including reporting and recording arrangements, management of information and document version control.",
+            "quote": "administrative and records management system, including reporting and",
+            "sourceTitle": "Maintain and Enhance Professional Practice",
+            "src": "cblm05"
+          },
+          {
+            "cblm": 5,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "recording arrangements, management of information and document version",
+            "sourceTitle": "Maintain and Enhance Professional Practice",
+            "src": "cblm05"
+          },
+          {
+            "cblm": 5,
+            "match": "exact",
+            "page": 13,
+            "printedPage": 13,
+            "quote": "control.",
             "sourceTitle": "Maintain and Enhance Professional Practice",
             "src": "cblm05"
           }
         ],
         "fidelity": "paraphrase",
-        "text": "Administrative and records management system, including reporting, recording and document version control."
+        "text": "Administrative and records management system. It includes reporting and recording arrangements, management of information and document version control."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Customer-এর অভিযোগ, ক্ষোভ (grievances) আর appeals কীভাবে সামলাতে হবে তার নিয়ম।",
+      "ঝুঁকি চিহ্নিত করা ও সামলানো; এর মধ্যে OHS, মানে কর্মক্ষেত্রের স্বাস্থ্য ও নিরাপত্তাও পড়ে।",
+      "মান বজায় রাখা ও ক্রমাগত উন্নতির processes আর standards, validation systems সহ।",
+      "আর্থিক ব্যবস্থাপনা — refund policies, আর আগাম দেওয়া fees সুরক্ষিত রাখার ব্যবস্থা সহ।",
+      "অন্য training বা assessment প্রতিষ্ঠানের দেওয়া qualifications-এর স্বীকৃতি সংক্রান্ত বিষয়।",
+      "Access and equity — সবাই যেন সমান সুযোগ পায়, কেউ যেন বঞ্চিত না হয়।",
+      "Client বাছাই, ভর্তি (enrolment) আর শুরুতে induction বা orientation দেওয়ার নিয়ম।",
+      "কর্মী নিয়োগ (staff recruitment), তাঁদের induction, আর চলমান development ও monitoring।",
+      "সব কর্মী আর client যেন policies ও procedures হাতের কাছে পান।",
+      "অন্য প্রতিষ্ঠানের সাথে যৌথ কাজ বা অংশীদারিত্বের ব্যবস্থা।",
+      "তথ্যের গোপনীয়তা (confidentiality) আর privacy রক্ষার নিয়ম।",
+      "Ethical standards — কাজে নৈতিকতার যে মান মেনে চলতে হয়।",
+      "নির্ধারিত resource-এর সীমার (parameters) ভেতরে কাজ করা।",
+      "প্রশাসনিক কাজ আর records management — reporting, recording আর document version control সহ।"
+    ],
+    "title": "Organisational and legal requirements for a training institute",
+    "titleBn": "প্রশিক্ষণ প্রতিষ্ঠানের সাংগঠনিক ও আইনগত বাধ্যবাধকতা"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -570,6 +768,7 @@
       "text": "If your work goals do not show responsibility or accountability, no one would trust them."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

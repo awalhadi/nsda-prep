@@ -1,0 +1,825 @@
+{
+  "aliases": [
+    "Workplace considerations",
+    "Workspace requirements",
+    "Location of equipment",
+    "Rules for locating fixed workshop machinery",
+    "Demonstration equipment"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 18,
+          "printed": 18
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "নিরাপদে কাজ করতে হলে প্রত্যেক trainee-র জন্য যথেষ্ট জায়গা লাগে; workstation-এর চারপাশে চলাফেরায় বাধা থাকা চলবে না।",
+    "Clear space মানে desks, benches, machinery বাদ দিয়ে খালি জায়গা; aisles আর passageways এর বাইরে আলাদা হিসাব হয়।",
+    "Fixed machinery বসানোর পাঁচটা নিয়ম আছে: দূরত্ব ও safety switches, barriers ও guards, stop buttons, fume ও dust extraction, আর lighting।",
+    "Supplier বা manufacturer demonstration-এর জন্য মেশিন দিলে কে কীভাবে ব্যবহার করবে তা লিখে নিতে হয়; signed letters of agreement জরুরি।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "TTC-র welding shop-এ মেশিনের মাঝে চলার পথ খালি, প্রতিটি grinder-এ guard আর stop button ঠিকমতো কাজ করে।",
+    "en": "A TTC welding shop keeps clear aisles between machines. Each grinder has a working guard and stop button."
+  },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "If work is to be performed in a safe manner, sufficient space should be allocated.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Workstations should provide clear space for",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "trainees.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Allocate sufficient space for safe work. Workstations should provide clear space for trainees."
+      },
+      "kind": "qa",
+      "outline": [
+        "c06-p18-workplace-considerations",
+        "c06-p18-workspace-requirements"
+      ],
+      "q": "What are the workspace requirements in a training workshop?",
+      "q_bn": "Training workshop-এ workspace requirements কী?",
+      "tip": "Clear space excludes desks, benches, machinery and fittings. Aisles are extra.",
+      "tip_bn": "Clear space-এ desk, bench, machine ধরা হয় না; aisles আর passageways আলাদা যোগ হয়।"
+    },
+    {
+      "bn": [
+        "কাজের ধরন, ভারী জিনিস তোলা বা গরম-শব্দের কারণে জায়গা আরও বাড়াতে হতে পারে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Where work tasks are largely conducted on workbenches, consideration must be",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "given to allow adequate space for their efficient use.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Where work is on workbenches, allow adequate space for their efficient use."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Work processes and the",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "ergonomics of materials, or the manual handling tasks may require that clear space",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "be increased.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Work processes, ergonomics or manual handling may require more clear space."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p18-workspace-requirements"
+      ]
+    },
+    {
+      "bn": [
+        "পাঁচটি নিয়ম card-এর তালিকায়: দূরত্ব ও switch, barrier ও guard, stop button, fume/dust extraction, lighting।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "The following rules apply to the safe and efficient location of fixed workshop machinery:",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The following rules apply to the safe and efficient location of fixed workshop machinery:"
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p18-location-of-equipment"
+      ]
+    },
+    {
+      "bn": [
+        "মেশিনে কোনো fault দেখলে নিজে লুকাবেন না — উপযুক্ত কর্তৃপক্ষকে report করুন (PC 2.4)।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Fixed machinery and portable or hand-held power tools must be operated in",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "accordance with established workshop policy procedures and machinery manufacturer's recommendations.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Operate machinery and power tools by workshop policy and manufacturer's recommendations."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Any faults identified in operation must be reported to the appropriate authority.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Any faults identified in operation must be reported to the appropriate authority."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p18-machinery-operation-faults"
+      ]
+    },
+    {
+      "bn": [
+        "কোম্পানি নতুন মেশিন দেখাতে দিলে আগে লিখে নিন: শুধু দেখানো, নাকি তত্ত্বাবধানে trainee-রা চালাতে পারবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "for demonstration purposes",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "This is often a good opportunity to gain experience with new, currently-",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "used industrial equipment.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Demonstration equipment is often a good opportunity to gain experience with new industrial equipment."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "the placement may be on",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "a permanent basis, but most likely a temporary one.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The placement may be permanent, but most likely temporary."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Signed letters of agreement are essential to protect the rights of all concerned.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Signed letters of agreement are essential to protect the rights of all concerned."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p18-demonstration-equipment"
+      ]
+    }
+  ],
+  "highlighted": false,
+  "id": "workspace-equipment-location",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "নিরাপদে কাজের জন্য প্রয়োজনীয় জায়গা",
+      "en": "Workspace requirements"
+    },
+    {
+      "bn": "desk, bench, machinery বাদ দিয়ে খালি জায়গা",
+      "en": "Clear space"
+    },
+    {
+      "bn": "মেঝেতে বসানো স্থায়ী মেশিন",
+      "en": "Fixed machinery"
+    },
+    {
+      "bn": "মেশিনের ঘূর্ণায়মান অংশ ঢাকার নিরাপত্তা আবরণ",
+      "en": "Machine guards"
+    },
+    {
+      "bn": "supplier-এর দেওয়া প্রদর্শনের যন্ত্র",
+      "en": "Demonstration equipment"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Adequate distance exists between machinery, and safety switches operate effectively on all machinery.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Adequate distance exists between machinery. Safety switches operate effectively on all machinery."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Safety barriers are correctly placed and machine guards are in proper working order on all machinery.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Safety barriers are correctly placed. Machine guards are in proper working order on all machinery."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Rotating machinery is properly guarded and machinery stop buttons are adequate and in proper working order.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Rotating machinery is properly guarded. Machinery stop buttons are adequate and in proper working order."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Fume and dust extraction facilities are adequate and in proper working order for the size of the workshop.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Fume and dust extraction facilities are adequate for the size of the workshop. They are in proper working order."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Adequate lighting is provided in booths or compartments where work is performed.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Adequate lighting is provided in booths or compartments where work is performed."
+      }
+    ],
+    "itemsBn": [
+      "মেশিনগুলোর মাঝে যথেষ্ট দূরত্ব রাখতে হবে, আর প্রতিটি মেশিনের safety switches ঠিকমতো কাজ করতে হবে।",
+      "Safety barriers ঠিক জায়গায় থাকবে, আর machine guards সব মেশিনে কাজের উপযোগী থাকবে।",
+      "ঘোরে এমন (rotating) machinery ঢাকা থাকবে; stop buttons যথেষ্ট ও সচল থাকবে।",
+      "ধোঁয়া (fume) আর ধুলা (dust) বের করার ব্যবস্থা workshop-এর আকার অনুযায়ী যথেষ্ট ও সচল থাকবে।",
+      "যে booths বা compartments-এ কাজ হয়, সেখানে যথেষ্ট lighting থাকবে।"
+    ],
+    "title": "Rules for the safe and efficient location of fixed workshop machinery",
+    "titleBn": "Fixed workshop machinery নিরাপদে বসানোর নিয়ম"
+  },
+  "mnemonic": {
+    "explain_bn": "পাঁচটি নিয়মের প্রথম অক্ষর: দূরত্ব, guard, stop button, fume/dust extraction, lighting।",
+    "text": "D-G-S-F-L: Distance, Guards, Stop buttons, Fume extraction, Lighting."
+  },
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 18,
+        "printedPage": 18,
+        "quote": "If work is to be performed in a safe manner, sufficient space should be allocated.",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "verbatim",
+    "text": "If work is to be performed in a safe manner, sufficient space should be allocated."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "The clear space should be exclusive of desks, benches, machinery and any",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Clear space",
+          "right": "Exclusive of desks, benches, machinery and fittings"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Rotating machinery is properly guarded",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Rotating machinery",
+          "right": "Properly guarded"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Any faults identified in operation must be reported to the appropriate authority.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Faults in operation",
+          "right": "Reported to the appropriate authority"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Signed letters of agreement are essential to protect the rights of all",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Demonstration equipment",
+          "right": "Signed letters of agreement"
+        }
+      ],
+      "prompt": "Match each workplace term with what CBLM 6 says."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 18,
+        "printedPage": 18,
+        "quote": "Fume and dust extraction facilities are adequate and in proper working order",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Fume and dust extraction facilities are adequate and in proper working order",
+        "Machines are placed as close together as possible",
+        "Stop buttons are removed while trainees practise",
+        "Lighting is needed only in the storage area"
+      ],
+      "prompt": "Which is a rule for the location of fixed workshop machinery?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Adequate distance exists between machinery, and safety switches operate effectively on all machinery.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Adequate distance exists between machinery. Safety switches operate effectively on all machinery."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Safety barriers are correctly placed and machine guards are in proper working order on all machinery.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Safety barriers are correctly placed. Machine guards are in proper working order on all machinery."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Rotating machinery is properly guarded and machinery stop buttons are adequate and in proper working order.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Rotating machinery is properly guarded. Machinery stop buttons are adequate and in proper working order."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Fume and dust extraction facilities are adequate and in proper working order for the size of the workshop.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Fume and dust extraction facilities are adequate for the size of the workshop. They are in proper working order."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Adequate lighting is provided in booths or compartments where work is performed.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Adequate lighting is provided in booths or compartments where work is performed."
+        }
+      ],
+      "marks": 5,
+      "modelAnswer": "Rules for locating fixed workshop machinery:\n1. Adequate distance between machinery; safety switches work on all machinery.\n2. Safety barriers correctly placed; machine guards in proper working order.\n3. Rotating machinery properly guarded; stop buttons adequate and working.\n4. Fume and dust extraction adequate and working for the workshop size.\n5. Adequate lighting in booths or compartments where work is performed.",
+      "prompt": "State the rules for the safe and efficient location of fixed workshop machinery."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Signed letters of agreement are essential to protect the rights of all concerned.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Signed letters of agreement are essential to protect the rights of all concerned."
+      },
+      "prompt": "Why are signed letters of agreement needed for demonstration equipment?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Workplace Considerations: Workspace and Location of Equipment",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 18,
+          "quote": "The clear space should be exclusive of desks, benches, machinery and any other fittings.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Clear space excludes desks, benches, machinery and any other fittings."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 18,
+          "quote": "Aisles, passageways and access to cupboards or doors should be in addition to the calculated clear workstation space.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Aisles, passageways and access to cupboards or doors are in addition to clear workstation space."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 18,
+          "quote": "Environmental problems such as heat or noise may also require increases to the recommended size.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Heat or noise may require increases to the recommended size."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 18,
+          "quote": "Signed letters of agreement are essential to protect the rights of all concerned.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "verbatim",
+      "text": "Signed letters of agreement are essential to protect the rights of all concerned."
+    }
+  ],
+  "visual": {
+    "columns": [
+      "Topic",
+      "What the CBLM says"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Workspace",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Movement in and around workstations should be unhindered by workshop equipment, materials or other trainees.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Movement around workstations should be unhindered by equipment, materials or other trainees."
+        }
+      ],
+      [
+        "Actual space",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Local regulations will apply to actual space allowable.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Local regulations will apply to actual space allowable."
+        }
+      ],
+      [
+        "Operating machinery",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Fixed machinery and portable or hand-held power tools must be operated in",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "accordance with established workshop policy procedures and machinery manufacturer's recommendations.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Operate machinery and power tools by workshop policy and manufacturer's recommendations."
+        }
+      ],
+      [
+        "Faults",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Any faults identified in operation must be reported to the appropriate authority.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Any faults identified in operation must be reported to the appropriate authority."
+        }
+      ],
+      [
+        "Demonstration equipment",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Arrangements may be made with suppliers and/or machinery manufacturers to place items of machinery or equipment in the training workshop for demonstration purposes.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Suppliers or manufacturers may place machinery in the workshop for demonstration purposes."
+        }
+      ],
+      [
+        "Clear instructions",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Clear instructions for the use of demonstration equipment must be established",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Clear instructions for the use of demonstration equipment must be established"
+        }
+      ]
+    ],
+    "title": "Workplace considerations at a glance (p.18)",
+    "title_bn": "Workplace considerations এক নজরে"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

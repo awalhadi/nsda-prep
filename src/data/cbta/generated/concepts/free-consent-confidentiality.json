@@ -37,6 +37,145 @@
     "bn": "আগে জানানো, details দেওয়া, জোর না করা = free consent; ফলাফল তালাবন্ধ রাখা = confidentiality।",
     "en": "At a hospital training centre, the assessor tells nurses about the test early. She explains the details. Nobody is forced to sit it. Results stay locked in the office."
   },
+  "extra": [
+    {
+      "bn": [
+        "আপনার সিদ্ধান্ত candidate-এর চাকরি ও ভবিষ্যতে প্রভাব ফেলে, তাই free consent আর confidentiality নিশ্চিত করা আপনার দায়িত্ব।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "As an assessor, the judgments you make about the assessees will affect them significantly.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "As an assessor, the judgments you make about the assessees will affect them significantly."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "You have a responsibility to ensure free consent and confidentiality.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "You have a responsibility to ensure free consent and confidentiality."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p8-free-consent"
+      ]
+    },
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "be informed if an assessment is planned",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "be informed if an assessment is planned"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "be given details of the assessment",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "be given details of the assessment"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "not be pressured to undertake the assessment",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "not be pressured to undertake the assessment"
+          }
+        ],
+        "title": "Free consent",
+        "title_bn": "জেনে, চাপ ছাড়া রাজি হওয়া"
+      },
+      "outline": [
+        "c12-p8-free-consent",
+        "c12-p9-confidentiality"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "made available only to authorized personnel",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "made available only to authorized personnel"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "kept secure",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "kept secure"
+          }
+        ],
+        "title": "Confidentiality",
+        "title_bn": "তথ্য গোপন ও নিরাপদ রাখা"
+      },
+      "title": "Free consent vs confidentiality (p.8-9)",
+      "title_bn": "স্বাধীন সম্মতি বনাম গোপনীয়তা"
+    }
+  ],
   "highlighted": true,
   "id": "free-consent-confidentiality",
   "importance": {
@@ -116,7 +255,14 @@
         "fidelity": "verbatim",
         "text": "Not be pressured to undertake the assessment"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Assessment পরিকল্পনা করা হলে candidate-কে আগেই জানাতে হবে, হঠাৎ করে নয়।",
+      "Assessment-এর details candidate-কে দিতে হবে, যাতে সে বুঝে-শুনে রাজি হয়।",
+      "Assessment দিতে candidate-কে কোনো pressure দেওয়া যাবে না; সে নিজের ইচ্ছায় রাজি হবে।"
+    ],
+    "title": "What free consent means for the people you assess",
+    "titleBn": "Free consent মানে candidate-এর যা প্রাপ্য"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -404,6 +550,98 @@
       "text": "Assessment information goes only to authorized personnel, not to everyone."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "be informed if an assessment is planned",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "be informed if an assessment is planned"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "be given details of the assessment",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "be given details of the assessment"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "not be pressured to undertake the assessment",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "not be pressured to undertake the assessment"
+        }
+      ],
+      "title": "Free consent",
+      "title_bn": "জেনে, চাপ ছাড়া রাজি হওয়া"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "made available only to authorized personnel",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "made available only to authorized personnel"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "kept secure",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "kept secure"
+        }
+      ],
+      "title": "Confidentiality",
+      "title_bn": "তথ্য গোপন ও নিরাপদ রাখা"
+    },
+    "title": "Free consent vs confidentiality (p.8-9)",
+    "title_bn": "স্বাধীন সম্মতি বনাম গোপনীয়তা"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

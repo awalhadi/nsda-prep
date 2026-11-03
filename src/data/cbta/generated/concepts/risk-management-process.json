@@ -1,0 +1,959 @@
+{
+  "aliases": [
+    "Managing risks",
+    "Process in occupational health and safety",
+    "Risk management"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 7,
+          "printed": 7
+        },
+        {
+          "pdf": 8,
+          "printed": 8
+        },
+        {
+          "pdf": 9,
+          "printed": 9
+        },
+        {
+          "pdf": 10,
+          "printed": 10
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "Risk management হলো OSH-এর অবিচ্ছেদ্য অংশ; বলা হয়েছে, risk management মানেই health and safety।",
+    "চারটি ধাপ: hazard খোঁজা (identifying), risk মাপা (assessing), risk কমাতে action নেওয়া, আর action কাজ করছে কি না monitoring করা।",
+    "Monitoring দুই স্তরে: action এখনো effective কি না, আর action থেকে নতুন hazard তৈরি হলো কি না।",
+    "সব analysis, assessment আর action একটি Risk Register বা Risk Log-এ লিখে রাখতে হয়।",
+    "এক cycle শেষ হলে পরের cycle schedule করতে হয়, কারণ নতুন hazard আসতেই থাকে।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "গার্মেন্টসে safety team hazard তালিকা করে, rate করে, সবচেয়ে বড়টি আগে ঠিক করে, পরের মাসে আবার যাচাই করে।",
+    "en": "A garments factory safety team lists and rates hazards. They fix the worst first. Next month they check again."
+  },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Risk management is an integral part of performing occupational health and safety.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Risk management",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "is health and safety.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Risk management is an integral part of OSH. Risk management is health and safety."
+      },
+      "kind": "qa",
+      "outline": [
+        "c03-p7-risk-management-role"
+      ],
+      "q": "What is the role of risk management in OSH?",
+      "q_bn": "OSH-এ risk management-এর ভূমিকা কী?"
+    },
+    {
+      "bn": [
+        "অন্য management system-এর মতো OSH-ও risk management ব্যবহার করে hazard-এর risk মাপে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "Risk management has become part of lots of management systems.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "information security management system",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Risk management is part of many management systems, like information security."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "The same way the occupational health and safety management system",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "makes use of risk management to assess the risk associated with hazards.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The OSH management system uses risk management to assess the risk from hazards."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p8-managing-risks"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Actions that remove the hazard and eliminate the risk.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Actions that remove the hazard and eliminate the risk."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Actions that replace the hazard by a less dangerous one.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Actions that replace the hazard by a less dangerous one."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Actions that modify the product or process design.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Actions that modify the product or process design."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Actions that isolate the hazard from people.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Actions that isolate the hazard from people."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Actions that use engineering solutions such as a new machinery or plant.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Actions that use engineering solutions such as a new machinery or plant."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Actions that use administrative controls, e.g. new procedures.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Actions that use administrative controls, e.g. new procedures."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Actions that protect through personal equipment from hazards.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Actions that protect through personal equipment from hazards."
+        }
+      ],
+      "items_bn": [
+        "Hazard সরিয়ে risk পুরো দূর করা — সবচেয়ে কার্যকর।",
+        "Hazard-কে কম বিপজ্জনক কিছু দিয়ে বদলানো।",
+        "Product বা process-এর design বদলানো।",
+        "Hazard-কে মানুষ থেকে আলাদা (isolate) করা।",
+        "Engineering solution, যেমন নতুন machinery বা plant।",
+        "Administrative controls, যেমন নতুন procedures।",
+        "Personal equipment দিয়ে সুরক্ষা — সবশেষ উপায়।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c03-p9-mitigating-actions"
+      ],
+      "title": "Mitigating actions, from most to least effective (p.9)",
+      "title_bn": "Risk কমানোর action-গুলোর ক্রম (সবচেয়ে কার্যকর আগে)"
+    },
+    {
+      "bn": [
+        "যে action সবচেয়ে কার্যকর, সেটাই সাধারণত সবচেয়ে কঠিন ও ব্যয়বহুল — তাই অনেকে নিচের ধাপে চলে যায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Mitigating actions focus on reducing the likelihood and/or consequence.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Mitigating actions focus on reducing the likelihood and/or consequence."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "the most effective usually is also the most",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "difficult and sometimes most expensive to realize",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The most effective action is usually the most difficult, sometimes the most expensive."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p9-mitigating-actions"
+      ]
+    },
+    {
+      "bn": "p.9-এ সাতটি action, কিন্তু p.11-এর table ও answer key-তে ছয়টি control; hierarchy প্রশ্নে ছয়টি লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Actions that modify the product or process design.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "p.9: actions that modify the product or process design are a separate level."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "PPE Admin Engineering Isolation Substitutions Elimination",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "p.17 answer key: PPE, Admin, Engineering, Isolation, Substitutions, Elimination."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c03-p9-mitigating-actions"
+      ],
+      "text": "p.9 lists seven mitigating actions. The p.11 table and the p.17 answer key group them into six controls.",
+      "tone": "caution"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "To ensure that the actions taken are effective and continue to be effective.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "To ensure that the actions taken are effective and continue to be effective."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "To ensure that no new hazard/risk was introduced by the actions taken.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "To ensure that no new hazard/risk was introduced by the actions taken."
+        }
+      ],
+      "items_bn": [
+        "Action কাজ করছে কি না, আর ভবিষ্যতেও করবে কি না, তা নিশ্চিত করা।",
+        "Action থেকে নতুন কোনো hazard বা risk তৈরি হয়নি, তা নিশ্চিত করা।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c03-p10-monitoring"
+      ],
+      "title": "Monitoring the effectiveness: review each action on two levels (p.10)",
+      "title_bn": "Action-এর ফল দুই স্তরে review"
+    },
+    {
+      "bn": [
+        "Control বসালেই শেষ নয়; রক্ষণাবেক্ষণ (maintain) আর procedure audit করতে হয়।",
+        "সব analysis, assessment, action লিখে রাখতে Risk Register বা Risk Log; অনেকে software ব্যবহার করে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Any control measures have to be maintained in order to ensure that they are kept in",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "working order.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Control measures have to be maintained so they are kept in working order."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "As well procedures have to be audited to ensure they are being",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "followed as intended.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Procedures have to be audited to ensure they are followed as intended."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "most organizations will look for a software solution",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "providing such risk register.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Most organizations look for a software solution for the risk register."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p10-monitoring",
+        "c03-p10-keeping-records"
+      ],
+      "title": "Maintain, audit and keep records"
+    }
+  ],
+  "highlighted": false,
+  "id": "risk-management-process",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "ঝুঁকি ব্যবস্থাপনা",
+      "en": "Risk management"
+    },
+    {
+      "bn": "কমানো / প্রশমন করা",
+      "en": "Mitigate"
+    },
+    {
+      "bn": "ঘটার সম্ভাবনা",
+      "en": "Likelihood"
+    },
+    {
+      "bn": "ফলাফল / ক্ষতির মাত্রা",
+      "en": "Consequence"
+    },
+    {
+      "bn": "ঝুঁকির তালিকা রাখার খাতা (Risk Log)",
+      "en": "Risk Register"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Identifying hazards",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Identifying hazards"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Assessing associated risks",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Assessing associated risks"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Taking action to mitigate risks",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Taking action to mitigate risks"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Monitoring the effectiveness",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Monitoring the effectiveness"
+      }
+    ],
+    "itemsBn": [
+      "Identifying hazards — কর্মস্থলে কোথায় কী hazard আছে তা খুঁজে বের করা।",
+      "Assessing associated risks — প্রতিটি hazard থেকে risk কতটা, likelihood ও consequence দিয়ে মাপা।",
+      "Taking action to mitigate risks — risk কমাতে বা দূর করতে action নেওয়া।",
+      "Monitoring the effectiveness — action কাজ করছে কি না আর নতুন hazard এলো কি না, তা দেখা।"
+    ],
+    "title": "Process of risk management in occupational health and safety",
+    "titleBn": "OSH-এ risk management-এর চারটি ধাপ"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 7,
+        "printedPage": 7,
+        "quote": "It serves to identify and assess the risks derived from the hazards.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 7,
+        "printedPage": 7,
+        "quote": "It finally leads to appropriate action to reduce or even eliminate such risks.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Risk management identifies and assesses risks from hazards. Then it leads to action."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "All analysis and assessments made as well as all actions taken need to be recorded. A Risk Register or Risk Log will serve to do so.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Risk Register",
+          "right": "Records all analysis and actions taken"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "Mitigating actions focus on reducing the likelihood and/or consequence.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Mitigating actions",
+          "right": "Reducing the likelihood and/or consequence"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "To ensure that the actions taken are effective and continue to be effective.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Monitoring the effectiveness",
+          "right": "Actions taken are effective and continue to be effective"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 9,
+            "quote": "Typically, a risk is assessed by its likelihood and its consequence.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Assessing a risk",
+          "right": "By its likelihood and its consequence"
+        }
+      ],
+      "prompt": "Match each part of risk management with what it means."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 10,
+        "printedPage": 10,
+        "quote": "A Risk Register or Risk Log will serve to do so.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "A Risk Register or Risk Log",
+        "A risk matrix",
+        "A hazard inspection checklist",
+        "An emergency response plan"
+      ],
+      "prompt": "Where are all risk analyses, assessments and actions recorded?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Risk management is an integral part of performing occupational health and safety.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Risk management is an integral part of performing occupational health and safety."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Mitigating actions focus on reducing the likelihood and/or consequence.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Mitigating actions focus on reducing the likelihood and/or consequence."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Any control measures have to be maintained in order to ensure that they are kept in working order.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Control measures have to be maintained so they are kept in working order."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "After completing one entire cycle of risk management the next has to be scheduled",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "After one entire cycle of risk management, the next has to be scheduled."
+        }
+      ],
+      "modelAnswer": "Risk management is an integral part of occupational health and safety. Its process is:\n1. Identifying hazards\n2. Assessing associated risks\n3. Taking action to mitigate risks\n4. Monitoring the effectiveness\nAll analysis, assessments and actions are recorded in a Risk Register or Risk Log.",
+      "prompt": "Write down the process of risk management in occupational health and safety."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "After completing one entire cycle of risk management the next has to be scheduled",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "No. After completing one entire cycle of risk management, the next has to be scheduled."
+      },
+      "prompt": "Is risk management done only once?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Risk Management Process in OSH",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 9,
+          "printedPage": 9,
+          "quote": "clearly understand that hazards and risks resulting from hazards are something different",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Hazards and risks resulting from hazards are something different."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 10,
+          "printedPage": 10,
+          "quote": "The outcome of each risk mitigating action has to be reviewed on two levels",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 10,
+          "printedPage": 10,
+          "quote": "To ensure that the actions taken are effective and continue to be effective.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 10,
+          "printedPage": 10,
+          "quote": "To ensure that no new hazard/risk was introduced by the actions taken.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Review each action on two levels. Is it still effective? Did it add a new hazard?"
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 10,
+          "printedPage": 10,
+          "quote": "All analysis and assessments made as well as all actions taken need to be recorded.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 10,
+          "printedPage": 10,
+          "quote": "A Risk Register or Risk Log will serve to do so.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "All analysis, assessments and actions are recorded in a Risk Register or Risk Log."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 9,
+          "printedPage": 9,
+          "quote": "the most effective usually is also the most difficult and sometimes most expensive to realize",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The most effective action is usually also the most difficult, sometimes most expensive."
+    }
+  ],
+  "visual": {
+    "cycle": true,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Identifying hazards",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Identifying hazards"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Assessing associated risks",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Assessing associated risks"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Taking action to mitigate risks",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Taking action to mitigate risks"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "Monitoring the effectiveness",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Monitoring the effectiveness"
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "Hazard খোঁজা",
+      "Risk মাপা (likelihood × consequence)",
+      "Risk কমাতে action",
+      "Action কাজ করছে কি না দেখা, তারপর আবার শুরু"
+    ],
+    "title": "The risk management cycle (p.8-10)",
+    "title_bn": "Risk management চক্র"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

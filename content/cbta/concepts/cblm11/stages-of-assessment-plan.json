@@ -73,6 +73,8 @@
     "explain_bn": "পাঁচটি ধাপের প্রথম শব্দ: Read, Select, Identify (evidence requirements), Identify (best ways), Document।"
   },
   "list_answer": {
+    "title": "Stages in preparing an assessment plan",
+    "title_bn": "Assessment plan তৈরির ধাপ",
     "items": [
       {
         "text": "Read and understand the unit of competency",
@@ -129,6 +131,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "প্রথমে unit of competency পড়ে ভালো করে বোঝো, candidate-কে কী করতে পারতে হবে।",
+      "তারপর কোন element বা elements-এর assessment হবে, তা বেছে নাও।",
+      "এরপর evidence requirements ঠিক করো: performance criteria, dimensions, underpinning skills ও knowledge আর critical aspects।",
+      "Rules of Evidence দেখে evidence সংগ্রহের সবচেয়ে ভালো উপায় ঠিক করো।",
+      "শেষে পুরো assessment বা evidence plan লিখে document করো।"
     ]
   },
   "traps": [
@@ -161,6 +170,75 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "Five stages in preparing an assessment plan",
+    "title_bn": "Assessment plan তৈরির পাঁচ ধাপ",
+    "items": [
+      {
+        "text": "Read and understand the unit of competency",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Read and understand the unit of competency"
+          }
+        ]
+      },
+      {
+        "text": "Select an element or elements",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Select an element or elements"
+          }
+        ]
+      },
+      {
+        "text": "Identify evidence requirements: performance criteria, dimensions, underpinning skills and knowledge, critical aspects.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Identify evidence requirements o performance criteria o dimensions of competence o underpinning skills and knowledge o critical aspects of competence"
+          }
+        ]
+      },
+      {
+        "text": "Identify best ways of collecting evidence: refer to Rules of Evidence.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Identify best ways of collecting evidence- refer to Rules of Evidence"
+          }
+        ]
+      },
+      {
+        "text": "Document assessment/evidence plan",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 45,
+            "quote": "Document assessment/evidence plan"
+          }
+        ]
+      }
+    ],
+    "labels_bn": [
+      "প্রথমে unit of competency পড়ে ভালো করে বোঝো, candidate-কে কী করতে পারতে হবে।",
+      "তারপর কোন element বা elements-এর assessment হবে, তা বেছে নাও।",
+      "এরপর evidence requirements ঠিক করো: performance criteria, dimensions, underpinning skills ও knowledge আর critical aspects।",
+      "Rules of Evidence দেখে evidence সংগ্রহের সবচেয়ে ভালো উপায় ঠিক করো।",
+      "শেষে পুরো assessment বা evidence plan লিখে document করো।"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are the stages of preparing an assessment plan?",

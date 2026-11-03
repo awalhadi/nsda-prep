@@ -78,6 +78,8 @@
     "bn": "'বুঝবে' দেখা যায় না, কিন্তু 'কাটবে' চোখে দেখা ও মাপা যায়।"
   },
   "list_answer": {
+    "title": "Criteria for appropriate session learning outcomes",
+    "title_bn": "সঠিক session learning outcome লেখার মানদণ্ড",
     "items": [
       {
         "text": "Observable: you can actually see or observe the progress of the trainee.",
@@ -112,6 +114,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Observable — trainee-র progress আসলেই চোখে দেখা যায় কিনা; যা দেখা যায় না, তা দিয়ে outcome লেখা চলে না।",
+      "Measurable — trainee-র output বা progress মাপা যায় কিনা; মাপা গেলেই বলা যায় outcome অর্জিত হয়েছে কিনা।",
+      "Clear verbs — এমন verb ব্যবহার করুন যার দুই রকম মানে হয় না, যাতে কেউ ভুল না বোঝে (ambiguity না থাকে)।"
     ]
   },
   "traps": [
@@ -160,6 +167,77 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Action verbs vs unsuitable verbs (p.32)",
+    "title_bn": "ব্যবহারযোগ্য action verbs বনাম অনুপযুক্ত verbs",
+    "left": {
+      "title": "Use: action verbs",
+      "title_bn": "লিখুন: action verbs",
+      "points": [
+        {
+          "text": "Use action verbs: load, drive, operate, cut, state, specify, identify, produce, explain.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 32,
+              "quote": "Here are some action verbs:"
+            },
+            {
+              "src": "cblm09",
+              "page": 32,
+              "quote": "load • drive • operate • cut • state • specify • identify • produce • explain"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "An action verb gives a concise description of the activity.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 32,
+              "quote": "An action verb gives a concise description of the type of activity"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Avoid: unsuitable verbs",
+      "title_bn": "এড়িয়ে চলুন",
+      "points": [
+        {
+          "text": "Avoid: understand, realise, be aware of, show interest in, know.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 32,
+              "quote": "understand • realise • be aware of • show interest in •know."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "They are not observable, not measurable and not precise.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 32,
+              "quote": "not suitable because they are not observable,"
+            },
+            {
+              "src": "cblm09",
+              "page": 32,
+              "quote": "not measurable and not precise:"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What three criteria must appropriate learning outcomes meet?",

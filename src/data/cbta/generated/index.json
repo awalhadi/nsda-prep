@@ -353,8 +353,7 @@
     {
       "aliases": [
         "Workplace issues a teacher needs to maintain",
-        "Managing work and work relationships",
-        "Maintain relationship with supervisor and colleagues"
+        "Managing work and work relationships"
       ],
       "asked": 1,
       "cblmPrimary": 1,
@@ -386,7 +385,7 @@
         }
       ],
       "oneLine": "A TVET teacher needs to manage work and work relationships properly.",
-      "score": 6,
+      "score": 5,
       "sourceType": "cblm",
       "stars": 2,
       "status": "draft",
@@ -480,7 +479,7 @@
       "oneLine": "The main functions of the NSDA are coordinating, maintaining skills information, monitoring and overseeing.",
       "score": 3,
       "sourceType": "question-paper-only",
-      "stars": 1,
+      "stars": 2,
       "status": "draft",
       "title": "Main Functions of the NSDA",
       "types": [
@@ -567,7 +566,7 @@
       "oneLine": "A TVET teacher gives pre-training and in-training supports to his clients.",
       "score": 3,
       "sourceType": "cblm",
-      "stars": 1,
+      "stars": 2,
       "status": "draft",
       "title": "Pre-Training and In-Training Support for Clients",
       "types": [
@@ -709,6 +708,48 @@
     },
     {
       "aliases": [
+        "Seeking feedback on work-management skills and professional relationships",
+        "Feedback from colleagues and clients"
+      ],
+      "asked": 0,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "seeking-feedback",
+      "keywords": [
+        {
+          "bn": "মতামত: আপনার কাজ কেমন হলো",
+          "en": "Feedback"
+        },
+        {
+          "bn": "পেশাগত কাজের মান",
+          "en": "Professional performance"
+        },
+        {
+          "bn": "যাচাই/বিচার করা",
+          "en": "Evaluate"
+        },
+        {
+          "bn": "সেই অনুযায়ী ব্যবস্থা নেওয়া",
+          "en": "Act upon"
+        },
+        {
+          "bn": "সহকর্মী",
+          "en": "Colleagues"
+        }
+      ],
+      "oneLine": "Seeking feedback on your professional performance is an essential skill in training and assessment services.",
+      "score": 4,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Seeking Feedback on Work-Management Skills and Professional Relationships",
+      "types": []
+    },
+    {
+      "aliases": [
         "Task analysis",
         "Purpose of task analysis in CBT",
         "Points to consider when carrying out a task analysis"
@@ -745,7 +786,7 @@
       "oneLine": "Task analysis means breaking a complex process down into a series of simple steps.",
       "score": 7,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "Task Analysis for a Learning Session",
       "types": [
@@ -799,6 +840,49 @@
     },
     {
       "aliases": [
+        "Maintain relationship with supervisor and colleagues",
+        "Team building",
+        "Working collaboratively with colleagues"
+      ],
+      "asked": 0,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "team-building",
+      "keywords": [
+        {
+          "bn": "সবাই মিলে একসাথে",
+          "en": "Collaboratively"
+        },
+        {
+          "bn": "অঙ্গীকার: team goals মেনে নেওয়া",
+          "en": "Commitment"
+        },
+        {
+          "bn": "আস্থা ও সহায়তা",
+          "en": "Trust and support"
+        },
+        {
+          "bn": "নমনীয়: পরিবর্তন মেনে নিতে পারা",
+          "en": "Flexible"
+        },
+        {
+          "bn": "দলের লক্ষ্য",
+          "en": "Team goals"
+        }
+      ],
+      "oneLine": "Teams work well when all the team members work together.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Team Building: Working Collaboratively with Colleagues",
+      "types": []
+    },
+    {
+      "aliases": [
         "Time management skills",
         "Planning and organizing skills",
         "Planning, prioritizing and organizing your work"
@@ -841,6 +925,49 @@
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "Reformed TVET system",
+        "TVET reform agenda",
+        "TVET reform outputs"
+      ],
+      "asked": 0,
+      "cblmPrimary": 1,
+      "cblms": [
+        1
+      ],
+      "highlighted": true,
+      "id": "tvet-reform-outputs",
+      "keywords": [
+        {
+          "bn": "সংস্কার: পুরনো ব্যবস্থা বদলে নতুন করা",
+          "en": "Reform"
+        },
+        {
+          "bn": "ফলাফল: সংস্কারের ফলে যা তৈরি হয়",
+          "en": "Output"
+        },
+        {
+          "bn": "আইন",
+          "en": "Legislation"
+        },
+        {
+          "bn": "সনদ/স্বীকৃতি দেওয়া",
+          "en": "Credentialing"
+        },
+        {
+          "bn": "চাহিদাভিত্তিক: শিল্পের দরকার অনুযায়ী",
+          "en": "Demand driven"
+        }
+      ],
+      "oneLine": "The TVET sector of Bangladesh is undergoing a major reform under the CBT&A system.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Reformed TVET System: Outputs of the TVET Reform Agenda",
+      "types": []
     },
     {
       "aliases": [
@@ -929,8 +1056,7 @@
     },
     {
       "aliases": [
-        "What do you understand by 'clients with particular needs'?",
-        "Providing support for special needs"
+        "What do you understand by 'clients with particular needs'?"
       ],
       "asked": 3,
       "cblmPrimary": 2,
@@ -971,6 +1097,44 @@
         "mcq",
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "Using documented resources to support and guide inclusive practices",
+        "Documented resources"
+      ],
+      "asked": 0,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": false,
+      "id": "documented-resources-inclusivity",
+      "keywords": [
+        {
+          "bn": "লিখিত নথি/সহায়ক উপকরণ",
+          "en": "Documented resources"
+        },
+        {
+          "bn": "কাজের কৌশল",
+          "en": "Work strategies"
+        },
+        {
+          "bn": "প্রবেশ ও সমান সুযোগ",
+          "en": "Access and equity"
+        },
+        {
+          "bn": "সবাইকে সাথে নিয়ে কাজের চর্চা",
+          "en": "Inclusive practice"
+        }
+      ],
+      "oneLine": "Identify and use documented resources to inform work strategies for inclusive practices.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Documented Resources to Support Inclusive Practices",
+      "types": []
     },
     {
       "aliases": [
@@ -1015,8 +1179,8 @@
     {
       "aliases": [
         "Ground Rules for Participation and Behaviour",
-        "Modeling inclusiveness in work performance",
-        "Negotiated ground rules"
+        "Negotiated ground rules",
+        "Ground rules as a way of modeling inclusiveness"
       ],
       "asked": 1,
       "cblmPrimary": 2,
@@ -1056,6 +1220,52 @@
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "Communication and interpersonal skills in an inclusive learning environment",
+        "Appropriate communication and interpersonal skills when providing information to learners"
+      ],
+      "asked": 0,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": false,
+      "id": "inclusive-communication-skills",
+      "keywords": [
+        {
+          "bn": "যোগাযোগের দক্ষতা",
+          "en": "Communication skills"
+        },
+        {
+          "bn": "মানুষের সাথে মেলামেশার দক্ষতা",
+          "en": "Interpersonal skills"
+        },
+        {
+          "bn": "আন্তরিক সম্পর্ক",
+          "en": "Rapport"
+        },
+        {
+          "bn": "দুই দিকের আলাপ",
+          "en": "Two-way interaction"
+        },
+        {
+          "bn": "মন দিয়ে শোনা",
+          "en": "Active listening"
+        },
+        {
+          "bn": "নিজের ভাষায় আবার বলা",
+          "en": "Paraphrase"
+        }
+      ],
+      "oneLine": "When providing information to learners, use appropriate communication and interpersonal skills.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Communication and Interpersonal Skills for Inclusive Learning",
+      "types": []
     },
     {
       "aliases": [
@@ -1137,7 +1347,7 @@
       "oneLine": "Develop a plan for inclusiveness; it is a continuous improvement process.",
       "score": 3,
       "sourceType": "cblm",
-      "stars": 1,
+      "stars": 2,
       "status": "draft",
       "title": "Planning for Inclusiveness and Work Strategies to Support It",
       "types": [
@@ -1177,6 +1387,10 @@
         {
           "bn": "ভিন্ন ভিন্ন সমাজ বা গোষ্ঠী",
           "en": "Diverse communities"
+        },
+        {
+          "bn": "মানানসই হওয়া, খাপ খাওয়া",
+          "en": "Fit"
         }
       ],
       "oneLine": "Inclusivity means recognising, accommodating and meeting the learning needs of all your learners.",
@@ -1281,8 +1495,50 @@
     },
     {
       "aliases": [
+        "Modeling inclusiveness in work performance",
+        "Encouraging ongoing learning",
+        "Forming relationships and fostering respect"
+      ],
+      "asked": 0,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": false,
+      "id": "modelling-inclusiveness",
+      "keywords": [
+        {
+          "bn": "নিজে করে inclusive আচরণ দেখানো",
+          "en": "Modelling inclusiveness"
+        },
+        {
+          "bn": "সবাই মিলে ঠিক করা আচরণের নিয়ম",
+          "en": "Ground rules"
+        },
+        {
+          "bn": "সারাজীবন চলমান শেখা",
+          "en": "Ongoing learning"
+        },
+        {
+          "bn": "সম্মানবোধ গড়ে তোলা",
+          "en": "Fostering respect"
+        },
+        {
+          "bn": "খোলামেলা যোগাযোগ",
+          "en": "Open style of communication"
+        }
+      ],
+      "oneLine": "Modelling inclusiveness in your work encourages inclusive behaviour in colleagues and learners.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Modelling Inclusiveness in Work Performance",
+      "types": []
+    },
+    {
+      "aliases": [
         "How will you monitor and improve inclusive work practices?",
-        "Reflective practice",
         "Reviewing strategies and policies to support inclusivity"
       ],
       "asked": 2,
@@ -1323,6 +1579,86 @@
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "Addressing OHS issues associated with inclusivity",
+        "OSH issues associated with inclusivity",
+        "Duty of care for learners"
+      ],
+      "asked": 0,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": false,
+      "id": "ohs-duty-of-care-inclusivity",
+      "keywords": [
+        {
+          "bn": "পেশাগত স্বাস্থ্য ও নিরাপত্তার বিষয়",
+          "en": "OHS issues"
+        },
+        {
+          "bn": "দেখভাল ও নিরাপত্তার দায়িত্ব",
+          "en": "Duty of care"
+        },
+        {
+          "bn": "নিরাপদ কাজের পরিবেশ",
+          "en": "Safe working environment"
+        },
+        {
+          "bn": "তত্ত্বাবধান",
+          "en": "Supervision"
+        }
+      ],
+      "oneLine": "Identify and address OHS issues associated with inclusivity, including their impact on other learners.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "OHS Issues Associated with Inclusivity (Duty of Care)",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Incorporating physical environment support needs into work practices"
+      ],
+      "asked": 0,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": false,
+      "id": "physical-environment-support-needs",
+      "keywords": [
+        {
+          "bn": "জায়গা/পরিবেশ-সংক্রান্ত সহায়তার প্রয়োজন",
+          "en": "Physical environment support needs"
+        },
+        {
+          "bn": "ভবন ও ঘরের বিন্যাস",
+          "en": "Layout of premises"
+        },
+        {
+          "bn": "যন্ত্রপাতিতে পরিবর্তন",
+          "en": "Equipment modifications"
+        },
+        {
+          "bn": "বিশেষ প্রযুক্তি",
+          "en": "Adaptive technologies"
+        },
+        {
+          "bn": "কাজের নকশা",
+          "en": "Job design"
+        }
+      ],
+      "oneLine": "Acknowledge and incorporate physical environment support needs into work practices, where practicable and approved.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Physical Environment Support Needs",
+      "types": []
     },
     {
       "aliases": [
@@ -1414,8 +1750,45 @@
     },
     {
       "aliases": [
-        "Using verbal and body language that is sensitive to difference",
-        "Communication and interpersonal skills in an inclusive learning environment"
+        "Reflective practice",
+        "Identifying, modifying and improving your work practices to enhance inclusivity"
+      ],
+      "asked": 0,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": false,
+      "id": "reflective-practice",
+      "keywords": [
+        {
+          "bn": "নিজের কাজ নিয়ে নিয়মিত ভাবা ও শেখা",
+          "en": "Reflective practice"
+        },
+        {
+          "bn": "সচেতন পদক্ষেপ",
+          "en": "Conscious actions"
+        },
+        {
+          "bn": "নিজেকে প্রশ্ন করে যাচাই",
+          "en": "Critically questioning"
+        },
+        {
+          "bn": "সবাইকে সাথে নিতে গিয়ে আসা সমস্যা",
+          "en": "Inclusive difficulties"
+        }
+      ],
+      "oneLine": "Reflective practice means taking time out regularly to reflect on your work and improve it.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Reflective Practice to Improve Inclusive Work",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Using verbal and body language that is sensitive to difference"
       ],
       "asked": 0,
       "cblmPrimary": 2,
@@ -1452,6 +1825,48 @@
       "stars": 2,
       "status": "draft",
       "title": "Verbal and Body Language Sensitive to Difference",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Support for special needs",
+        "Providing support for special needs"
+      ],
+      "asked": 0,
+      "cblmPrimary": 2,
+      "cblms": [
+        2
+      ],
+      "highlighted": false,
+      "id": "support-for-special-needs",
+      "keywords": [
+        {
+          "bn": "বিশেষ প্রয়োজন",
+          "en": "Special needs"
+        },
+        {
+          "bn": "জায়গা ও পরিবেশে পরিবর্তন",
+          "en": "Physical environment adjustments"
+        },
+        {
+          "bn": "শেখা ও assessment-এর কাজে পরিবর্তন",
+          "en": "Adjustments to learning and assessment activities"
+        },
+        {
+          "bn": "স্বাস্থ্য ও নিরাপত্তার বিষয়",
+          "en": "OHS issues"
+        },
+        {
+          "bn": "বাড়তি সাহায্য",
+          "en": "Additional support"
+        }
+      ],
+      "oneLine": "Provide support for special needs, such as physical environment adjustments and more time.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Providing Support for Special Needs",
       "types": []
     },
     {
@@ -1676,9 +2091,135 @@
     },
     {
       "aliases": [
+        "Dealing with hazards",
+        "Reporting hazards",
+        "Key questions before a new job"
+      ],
+      "asked": 0,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": false,
+      "id": "dealing-with-hazards",
+      "keywords": [
+        {
+          "bn": "জানানো / রিপোর্ট করা",
+          "en": "Report"
+        },
+        {
+          "bn": "বিপদের উৎস",
+          "en": "Hazards"
+        },
+        {
+          "bn": "নির্ধারিত দায়িত্বপ্রাপ্ত ব্যক্তি",
+          "en": "Designated person"
+        },
+        {
+          "bn": "মেশিনের সুরক্ষা ঢাকনা",
+          "en": "Guard"
+        },
+        {
+          "bn": "সতর্কতামূলক লেবেল",
+          "en": "Warning labels"
+        }
+      ],
+      "oneLine": "You have a legal responsibility to report hazards.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Dealing with Hazards: Report and Ask Key Questions",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Considering the individual learner in OSH",
+        "Learner characteristics for OSH"
+      ],
+      "asked": 0,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": false,
+      "id": "duty-of-care-individual-learner",
+      "keywords": [
+        {
+          "bn": "যত্ন নেওয়ার দায়িত্ব (আইনি ও নৈতিক)",
+          "en": "Duty of care"
+        },
+        {
+          "bn": "প্রতিটি আলাদা শিক্ষার্থী",
+          "en": "Individual learner"
+        },
+        {
+          "bn": "নিজের কথা দৃঢ়ভাবে বলার ক্ষমতা",
+          "en": "Assertiveness"
+        },
+        {
+          "bn": "শারীরিক সীমাবদ্ধতা",
+          "en": "Physical limitations"
+        },
+        {
+          "bn": "বিপদের উৎস, যা ক্ষতি করতে পারে",
+          "en": "Hazard"
+        }
+      ],
+      "oneLine": "The duty of care is owed personally to individuals. So consider each individual learner.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Duty of Care: Consider the Individual Learner",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Emergency equipment",
+        "Be prepared for an emergency"
+      ],
+      "asked": 0,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": false,
+      "id": "emergency-equipment",
+      "keywords": [
+        {
+          "bn": "জরুরি অবস্থার সরঞ্জাম",
+          "en": "Emergency equipment"
+        },
+        {
+          "bn": "আগুন নেভানোর যন্ত্র",
+          "en": "Fire extinguishers"
+        },
+        {
+          "bn": "রোগী বহনের স্ট্রেচার",
+          "en": "Stretchers"
+        },
+        {
+          "bn": "রাসায়নিক ছড়ালে পরিষ্কারের কিট",
+          "en": "Spill kits"
+        },
+        {
+          "bn": "প্রশিক্ষণপ্রাপ্ত",
+          "en": "Trained"
+        }
+      ],
+      "oneLine": "Your workplace may have emergency equipment, like fire extinguishers and stretchers.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Emergency Equipment and Being Prepared",
+      "types": []
+    },
+    {
+      "aliases": [
         "What a workplace emergency plan should include",
-        "Emergency Response Plan",
-        "Reporting procedure"
+        "Workplace emergency plan"
       ],
       "asked": 2,
       "cblmPrimary": 3,
@@ -1718,6 +2259,49 @@
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "ERP",
+        "Site specific Emergency Response Plan",
+        "Reporting procedure"
+      ],
+      "asked": 0,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "emergency-response-plan",
+      "keywords": [
+        {
+          "bn": "জরুরি অবস্থায় করণীয় পরিকল্পনা",
+          "en": "Emergency Response Plan"
+        },
+        {
+          "bn": "আগে থেকে অনুমান করা যায় এমন",
+          "en": "Foreseeable"
+        },
+        {
+          "bn": "জরুরি অবস্থায় জড়ো হওয়ার স্থান",
+          "en": "Muster point"
+        },
+        {
+          "bn": "এলাকা খালি করে নিরাপদে সরে যাওয়া",
+          "en": "Evacuation"
+        },
+        {
+          "bn": "নতুনদের প্রাথমিক পরিচিতি",
+          "en": "Induction"
+        }
+      ],
+      "oneLine": "An Emergency Response Plan outlines planned responses to any foreseeable emergency.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Emergency Response Plan",
+      "types": []
     },
     {
       "aliases": [
@@ -1848,7 +2432,7 @@
       "oneLine": "Sources for hazard identification include past incidents, employee input and examining workplaces.",
       "score": 7,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "Sources for Hazard Identification",
       "types": [
@@ -2126,6 +2710,91 @@
     },
     {
       "aliases": [
+        "Psychological or social hazards",
+        "Stress and violence at work"
+      ],
+      "asked": 0,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": true,
+      "id": "psychosocial-hazards",
+      "keywords": [
+        {
+          "bn": "মানসিক ও সামাজিক",
+          "en": "Psychosocial"
+        },
+        {
+          "bn": "মানসিক চাপ",
+          "en": "Stress"
+        },
+        {
+          "bn": "সহিংসতা",
+          "en": "Violence"
+        },
+        {
+          "bn": "হয়রানি",
+          "en": "Harassment"
+        },
+        {
+          "bn": "কাজের চাপ / কাজের পরিমাণ",
+          "en": "Workloads"
+        }
+      ],
+      "oneLine": "Psychological or social factors can also cause problems, like stress and violence.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Psychosocial Hazards: Stress and Violence",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Managing risks",
+        "Process in occupational health and safety",
+        "Risk management"
+      ],
+      "asked": 0,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": false,
+      "id": "risk-management-process",
+      "keywords": [
+        {
+          "bn": "ঝুঁকি ব্যবস্থাপনা",
+          "en": "Risk management"
+        },
+        {
+          "bn": "কমানো / প্রশমন করা",
+          "en": "Mitigate"
+        },
+        {
+          "bn": "ঘটার সম্ভাবনা",
+          "en": "Likelihood"
+        },
+        {
+          "bn": "ফলাফল / ক্ষতির মাত্রা",
+          "en": "Consequence"
+        },
+        {
+          "bn": "ঝুঁকির তালিকা রাখার খাতা (Risk Log)",
+          "en": "Risk Register"
+        }
+      ],
+      "oneLine": "Risk management identifies and assesses risks from hazards. Then it leads to action.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Risk Management Process in OSH",
+      "types": []
+    },
+    {
+      "aliases": [
         "Tool to define and classify likelihood and consequences of a risk",
         "Risk assessment"
       ],
@@ -2210,12 +2879,54 @@
       "oneLine": "Hazard symbols show the class of a dangerous material. PPE symbols show what PPE must be worn.",
       "score": 7,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "Hazard and PPE Symbols",
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "Types of safety training",
+        "General and specific training"
+      ],
+      "asked": 0,
+      "cblmPrimary": 3,
+      "cblms": [
+        3
+      ],
+      "highlighted": false,
+      "id": "safety-training",
+      "keywords": [
+        {
+          "bn": "সবার জন্য সাধারণ প্রশিক্ষণ",
+          "en": "General training"
+        },
+        {
+          "bn": "নির্দিষ্ট কাজের প্রশিক্ষণ",
+          "en": "Specific training"
+        },
+        {
+          "bn": "নিরাপত্তার নিয়ম",
+          "en": "Safety Rules"
+        },
+        {
+          "bn": "বিপজ্জনক উপকরণ",
+          "en": "Hazardous materials"
+        },
+        {
+          "bn": "ব্যক্তিগত সুরক্ষা সরঞ্জাম",
+          "en": "Personal Protective Equipment (PPE)"
+        }
+      ],
+      "oneLine": "Your employer and supervisor must make sure you have the safety training you need.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Safety Training: General and Specific",
+      "types": []
     },
     {
       "aliases": [
@@ -2522,7 +3233,7 @@
       "oneLine": "Young workers get hurt for a number of contributing factors, like little training or experience.",
       "score": 7,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "Why Young Workers Get Hurt",
       "types": [
@@ -2564,7 +3275,7 @@
       "oneLine": "To add bullets, select the paragraph and choose Bullets on the Home tab.",
       "score": 3,
       "sourceType": "question-paper-only",
-      "stars": 1,
+      "stars": 2,
       "status": "draft",
       "title": "MS Word Basics: Bullets and Merging Table Cells",
       "types": [
@@ -2606,7 +3317,7 @@
       "oneLine": "A workbook is a spreadsheet file; a worksheet is a page within that workbook.",
       "score": 3,
       "sourceType": "question-paper-only",
-      "stars": 1,
+      "stars": 2,
       "status": "draft",
       "title": "Excel and PowerPoint Terms: Workbook vs Worksheet, Animation vs Transition",
       "types": [
@@ -2695,7 +3406,7 @@
       "oneLine": "Development opportunities include further study, industry attachment, training programs, conferences, reading, networking and mentoring.",
       "score": 3,
       "sourceType": "cblm",
-      "stars": 1,
+      "stars": 2,
       "status": "draft",
       "title": "Development Opportunities that Support Continuous Learning (CBLM 5)",
       "types": [
@@ -2840,8 +3551,7 @@
     {
       "aliases": [
         "Organizational/legal requirements for a training institute",
-        "Work in accordance with requirements",
-        "Responsibilities and accountabilities in personal work goals"
+        "Work in accordance with requirements"
       ],
       "asked": 1,
       "cblmPrimary": 5,
@@ -3062,6 +3772,49 @@
     },
     {
       "aliases": [
+        "Reflecting individual responsibilities and accountabilities in personal work goals and plans",
+        "Responsibilities and accountabilities in personal work goals",
+        "Extending your personal work goals"
+      ],
+      "asked": 0,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": false,
+      "id": "responsibilities-in-work-goals",
+      "keywords": [
+        {
+          "bn": "দায়িত্ব — যে কাজ আপনাকে করতেই হবে",
+          "en": "Responsibilities"
+        },
+        {
+          "bn": "জবাবদিহিতা — নিজের কাজের হিসাব দেওয়া",
+          "en": "Accountability"
+        },
+        {
+          "bn": "নিজের কাজের লক্ষ্য",
+          "en": "Personal work goals"
+        },
+        {
+          "bn": "প্রতিষ্ঠানের পরিকল্পনা",
+          "en": "Organisation's plans"
+        },
+        {
+          "bn": "চাকরির দায়িত্বের লিখিত বিবরণ",
+          "en": "Job description"
+        }
+      ],
+      "oneLine": "Your personal work goals, plans and activities should reflect your own responsibilities and accountability.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Reflecting Responsibilities and Accountabilities in Personal Work Goals (CBLM 5)",
+      "types": []
+    },
+    {
+      "aliases": [
         "Developing SMART Goals",
         "Document and prioritise personal learning needs",
         "Specific, Measurable, Achievable, Relevant/Realistic, Time-referenced"
@@ -3150,6 +3903,53 @@
     },
     {
       "aliases": [
+        "Example of a Strategic Plan for a Registered Training Organization (RTO)",
+        "Strategic plans are long-term",
+        "Vision, mission, key measures, strategies and key activities"
+      ],
+      "asked": 0,
+      "cblmPrimary": 5,
+      "cblms": [
+        5
+      ],
+      "highlighted": false,
+      "id": "strategic-plan-rto",
+      "keywords": [
+        {
+          "bn": "প্রতিষ্ঠানের দীর্ঘমেয়াদি (long-term) পরিকল্পনা",
+          "en": "Strategic plan"
+        },
+        {
+          "bn": "প্রতিষ্ঠান ভবিষ্যতে কী হতে চায়",
+          "en": "Vision"
+        },
+        {
+          "bn": "প্রতিষ্ঠান কী করে, কাদের সেবা দেয়",
+          "en": "Mission"
+        },
+        {
+          "bn": "সাফল্য মাপার মূল মানদণ্ড",
+          "en": "Key measures of success"
+        },
+        {
+          "bn": "লক্ষ্যে পৌঁছানোর কৌশল",
+          "en": "Strategies"
+        },
+        {
+          "bn": "কৌশল বাস্তবায়নের মূল কাজ",
+          "en": "Key activities"
+        }
+      ],
+      "oneLine": "Regardless of its size every RTO needs to develop a strategic plan.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Strategic Plan of a Registered Training Organisation (CBLM 5)",
+      "types": []
+    },
+    {
+      "aliases": [
         "What are the developments and trends that can impact on professional practice?",
         "Development and trends in TVET policy and operating environment",
         "Changes in TVET"
@@ -3186,7 +3986,7 @@
       "oneLine": "TVET is undergoing enormous change, so teachers must continue to update their skills.",
       "score": 3,
       "sourceType": "cblm",
-      "stars": 1,
+      "stars": 2,
       "status": "draft",
       "title": "Developments and Trends Impacting Professional Practice (CBLM 5)",
       "types": [
@@ -3281,6 +4081,50 @@
       "stars": 2,
       "status": "draft",
       "title": "Planning a Facility for Competency-Based Training (CBT Curriculum)",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Sample equipment maintenance schedule",
+        "Equipment Maintenance Schedule template",
+        "Sample equipment inspection checklist",
+        "Maintenance inspection checklist"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": false,
+      "id": "equipment-maintenance-schedule",
+      "keywords": [
+        {
+          "bn": "যন্ত্রের রক্ষণাবেক্ষণের সময়সূচি",
+          "en": "Equipment Maintenance Schedule"
+        },
+        {
+          "bn": "নির্মাতার দেওয়া নির্দেশিকা",
+          "en": "Manufacturer's manual"
+        },
+        {
+          "bn": "সম্পদের কোড নম্বর",
+          "en": "Property Code/ Number"
+        },
+        {
+          "bn": "পরিদর্শনের প্রশ্নভিত্তিক তালিকা",
+          "en": "Inspection checklist"
+        },
+        {
+          "bn": "মানদণ্ড",
+          "en": "Criteria or standards"
+        }
+      ],
+      "oneLine": "A Maintenance Schedule is drawn to guide the personnel in the proper methods and system.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Equipment Maintenance Schedule and Inspection Checklist",
       "types": []
     },
     {
@@ -3506,6 +4350,50 @@
     },
     {
       "aliases": [
+        "5Ms of maintenance",
+        "How to maintain?",
+        "Who, What, Where, When of maintenance",
+        "Planned Maintenance System"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": false,
+      "id": "maintenance-5ms",
+      "keywords": [
+        {
+          "bn": "maintenance বাস্তবায়নের পাঁচ M",
+          "en": "5Ms"
+        },
+        {
+          "bn": "লোকবল",
+          "en": "Manpower"
+        },
+        {
+          "bn": "টাকা বা আর্থিক সম্পদ",
+          "en": "Money (Financial Resources)"
+        },
+        {
+          "bn": "মেশিন বা সুবিধা",
+          "en": "Machines (Facilities)"
+        },
+        {
+          "bn": "পরিকল্পিত রক্ষণাবেক্ষণ ব্যবস্থা",
+          "en": "Planned Maintenance System"
+        }
+      ],
+      "oneLine": "How we implement the maintenance program will center on the 5Ms.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Planning Maintenance: Who, What, Where, When and How (5Ms)",
+      "types": []
+    },
+    {
+      "aliases": [
         "What salvage would involve",
         "Organization by operation",
         "Inspection, maintenance, repair, overhaul, construction, housekeeping and salvage"
@@ -3634,12 +4522,144 @@
       "oneLine": "Planning involves selecting objectives and determining the policies, programs and procedures to achieve them.",
       "score": 7,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "Planning, Scheduling and Goals of the Maintenance Department",
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "Maintenance program",
+        "Maintenance schedule",
+        "Difference between maintenance program and maintenance schedule"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": false,
+      "id": "maintenance-program-schedule",
+      "keywords": [
+        {
+          "bn": "রক্ষণাবেক্ষণের পূর্ণাঙ্গ পরিকল্পনা ও তালিকা",
+          "en": "Maintenance Program"
+        },
+        {
+          "bn": "কোন maintenance কোন সময়ে হবে তার তালিকা",
+          "en": "Maintenance Schedule"
+        },
+        {
+          "bn": "কতবার বা কখন ঘটে",
+          "en": "Incidence"
+        },
+        {
+          "bn": "কাজের লোকবল",
+          "en": "Manpower"
+        },
+        {
+          "bn": "নির্দিষ্ট সময়কাল",
+          "en": "Specific period"
+        }
+      ],
+      "oneLine": "Maintenance Program is a comprehensive list of maintenance and its incidence.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Maintenance Program and Maintenance Schedule",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Reporting process",
+        "Documentation process",
+        "Inspection report",
+        "Breakdown/repair report",
+        "Salvage report"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": false,
+      "id": "maintenance-reporting-documentation",
+      "keywords": [
+        {
+          "bn": "পরিদর্শনের প্রতিবেদন",
+          "en": "Inspection report"
+        },
+        {
+          "bn": "report পেয়ে কী করতে হয়",
+          "en": "Reporting process"
+        },
+        {
+          "bn": "পরিদর্শন লিখিতভাবে করার ধাপ",
+          "en": "Documentation process"
+        },
+        {
+          "bn": "যন্ত্র নষ্ট হলে তার প্রতিবেদন",
+          "en": "Breakdown/repair report"
+        },
+        {
+          "bn": "বাতিল বা উদ্বৃত্ত অংশের প্রতিবেদন",
+          "en": "Salvage Report"
+        }
+      ],
+      "oneLine": "In the reporting process, you act based on the inspection report.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Reporting Process and Documentation Process (Inspection Reports)",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Proper utilization of equipment and tools",
+        "Manufacturer's Manual",
+        "Users manual",
+        "Why use the manufacturer's manual"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": false,
+      "id": "manufacturers-manual-proper-use",
+      "keywords": [
+        {
+          "bn": "যন্ত্রের সঠিক ব্যবহার",
+          "en": "Proper utilization"
+        },
+        {
+          "bn": "নির্মাতার নির্দেশিকা বই",
+          "en": "Manufacturer's manual"
+        },
+        {
+          "bn": "ব্যবহারকারীর নির্দেশিকা",
+          "en": "Users manuals"
+        },
+        {
+          "bn": "প্রতিটি অংশের কাজ",
+          "en": "Functions of each part"
+        },
+        {
+          "bn": "যন্ত্রের আয়ু বাড়ানো",
+          "en": "Extend the life"
+        }
+      ],
+      "oneLine": "Proper use of training tools and equipment is the first and foremost task in maintenance.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Proper Use of Equipment and the Manufacturer's Manual",
+      "types": []
     },
     {
       "aliases": [
@@ -3916,6 +4936,50 @@
     },
     {
       "aliases": [
+        "Stores manager",
+        "Storage racks",
+        "Mezzanine floor storage",
+        "Considerations for storage on a mezzanine floor"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": false,
+      "id": "stores-racks-mezzanine",
+      "keywords": [
+        {
+          "bn": "store-এর দায়িত্বপ্রাপ্ত ব্যক্তি",
+          "en": "Stores manager"
+        },
+        {
+          "bn": "জিনিস রাখার তাক",
+          "en": "Storage racks"
+        },
+        {
+          "bn": "যে উপাদান বিপজ্জনক জিনিসের সাথে বিক্রিয়া করে না",
+          "en": "Compatible materials"
+        },
+        {
+          "bn": "নিচতলা আর দোতলার মাঝের অর্ধেক তলা",
+          "en": "Mezzanine floor"
+        },
+        {
+          "bn": "ঢোকা ও বের হওয়ার পথ",
+          "en": "Access and egress routes"
+        }
+      ],
+      "oneLine": "A well-organized storage facility may require the appointment of a stores manager.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Storage Considerations: Stores Manager, Racks and Mezzanine Storage",
+      "types": []
+    },
+    {
+      "aliases": [
         "Disposal of toxic waste",
         "Recycling workshop waste",
         "Materials that can be recycled"
@@ -4180,6 +5244,51 @@
     },
     {
       "aliases": [
+        "Workplace considerations",
+        "Workspace requirements",
+        "Location of equipment",
+        "Rules for locating fixed workshop machinery",
+        "Demonstration equipment"
+      ],
+      "asked": 0,
+      "cblmPrimary": 6,
+      "cblms": [
+        6
+      ],
+      "highlighted": false,
+      "id": "workspace-equipment-location",
+      "keywords": [
+        {
+          "bn": "নিরাপদে কাজের জন্য প্রয়োজনীয় জায়গা",
+          "en": "Workspace requirements"
+        },
+        {
+          "bn": "desk, bench, machinery বাদ দিয়ে খালি জায়গা",
+          "en": "Clear space"
+        },
+        {
+          "bn": "মেঝেতে বসানো স্থায়ী মেশিন",
+          "en": "Fixed machinery"
+        },
+        {
+          "bn": "মেশিনের ঘূর্ণায়মান অংশ ঢাকার নিরাপত্তা আবরণ",
+          "en": "Machine guards"
+        },
+        {
+          "bn": "supplier-এর দেওয়া প্রদর্শনের যন্ত্র",
+          "en": "Demonstration equipment"
+        }
+      ],
+      "oneLine": "If work is to be performed in a safe manner, sufficient space should be allocated.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Workplace Considerations: Workspace and Location of Equipment",
+      "types": []
+    },
+    {
+      "aliases": [
         "What are the main sources of Competency Standards Document?",
         "Identify relevant competency standards for own technical field",
         "12 occupational sub sectors of the TVET Reform Project"
@@ -4270,9 +5379,52 @@
     },
     {
       "aliases": [
+        "Prove competency",
+        "Present evidence to the industry specialist",
+        "Technical Competency Certification",
+        "Competency Certificate or Statement of Achievement"
+      ],
+      "asked": 0,
+      "cblmPrimary": 7,
+      "cblms": [
+        7
+      ],
+      "highlighted": false,
+      "id": "prove-technical-competency",
+      "keywords": [
+        {
+          "bn": "দক্ষতা যে অর্জিত হয়েছে তার প্রমাণ",
+          "en": "Proof of competency"
+        },
+        {
+          "bn": "industry-র অভিজ্ঞ বিশেষজ্ঞ, যিনি evidence যাচাই করেন",
+          "en": "Industry specialist"
+        },
+        {
+          "bn": "পুরো qualification শেষ করলে পাওয়া সনদ",
+          "en": "Competency Certificate"
+        },
+        {
+          "bn": "কয়েকটা Units of Competency শেষ করলে পাওয়া অর্জনের বিবরণ",
+          "en": "Statement of Achievement"
+        },
+        {
+          "bn": "যেখানে সনদ জমা দিয়ে approval নিতে হয়",
+          "en": "Appropriate authority"
+        }
+      ],
+      "oneLine": "After training, the trainer must prove competency with evidence. This evidence earns a Competency Certificate or Statement of Achievement.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Prove Competency: Evidence to the Industry Specialist and Certification (CBLM 7)",
+      "types": []
+    },
+    {
+      "aliases": [
         "Develop personal training plan for development of technical competency",
         "Technical competency development plan",
-        "TVET Teacher/Trainer Technical Competency Development Planner",
         "Who will authorize the technical competency enhancement plan?"
       ],
       "asked": 1,
@@ -4313,6 +5465,50 @@
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "TVET Teacher/Trainer Technical Competency Development Planner",
+        "Sample technical competency development planner",
+        "Why is a planner helpful?",
+        "Technical Competency Development Plan: details of competencies to be developed"
+      ],
+      "asked": 0,
+      "cblmPrimary": 7,
+      "cblms": [
+        7
+      ],
+      "highlighted": false,
+      "id": "technical-competency-planner",
+      "keywords": [
+        {
+          "bn": "নিজের training পরিকল্পনা লিখে রাখার ছক",
+          "en": "Planner"
+        },
+        {
+          "bn": "কে, কোন competency, কোথায়, কত খরচে, কবে — এক নজরে",
+          "en": "Summary of the planner"
+        },
+        {
+          "bn": "একটা competency-র ভেতরের কাজের অংশগুলো",
+          "en": "Elements"
+        },
+        {
+          "bn": "কীভাবে বুঝবেন competency অর্জিত হয়েছে — কী evidence দেবেন",
+          "en": "Performance criteria"
+        },
+        {
+          "bn": "industry person-এর লিখিত সনদ যে units অর্জিত হয়েছে",
+          "en": "Certification"
+        }
+      ],
+      "oneLine": "A planner is helpful for setting up the strategies, documentation and record keeping.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Technical Competency Development Planner: Summary, Plan and Certification (CBLM 7)",
+      "types": []
     },
     {
       "aliases": [
@@ -4530,6 +5726,54 @@
     },
     {
       "aliases": [
+        "Note to CBLM Developer",
+        "Sample CBLM Format",
+        "How to fill the CBLM template",
+        "Activity sheet and practise sheet"
+      ],
+      "asked": 0,
+      "cblmPrimary": 8,
+      "cblms": [
+        8
+      ],
+      "highlighted": false,
+      "id": "cblm-developer-notes",
+      "keywords": [
+        {
+          "bn": "যিনি CBLM লেখেন",
+          "en": "CBLM Developer"
+        },
+        {
+          "bn": "তথ্যপত্র — জ্ঞানের অংশ",
+          "en": "Information sheet"
+        },
+        {
+          "bn": "নিজে যাচাইয়ের প্রশ্ন",
+          "en": "Self check"
+        },
+        {
+          "bn": "কাজের ধাপের তালিকা",
+          "en": "Job"
+        },
+        {
+          "bn": "বড় কাজকে ছোট ভাগে করার শিট",
+          "en": "Activity sheet"
+        },
+        {
+          "bn": "ধাপে ধাপে অনুশীলনের শিট",
+          "en": "Practise sheet"
+        }
+      ],
+      "oneLine": "Create a CBLM on a Unit of Competency of your trade using the CBLM Format.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Notes to the CBLM Developer: Writing Each Sheet of a CBLM",
+      "types": []
+    },
+    {
+      "aliases": [
         "Checking available learning resources",
         "What to look for when checking existing resources"
       ],
@@ -4566,12 +5810,98 @@
       "oneLine": "Before using existing learning resources, check their language, learner characteristics and relevance.",
       "score": 7,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "Checking Existing Learning Resources",
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "Checklist for selecting resources",
+        "Points to consider when choosing resource materials",
+        "How to select a learning resource"
+      ],
+      "asked": 0,
+      "cblmPrimary": 8,
+      "cblms": [
+        8
+      ],
+      "highlighted": false,
+      "id": "checklist-selecting-resources",
+      "keywords": [
+        {
+          "bn": "যাচাই-তালিকা",
+          "en": "Checklist"
+        },
+        {
+          "bn": "পাঠ্যক্রমের দলিল",
+          "en": "Curriculum document"
+        },
+        {
+          "bn": "যাদের জন্য উপকরণ",
+          "en": "Intended audience"
+        },
+        {
+          "bn": "নারী-পুরুষ সবার প্রতি সংবেদনশীলতা",
+          "en": "Gender sensitivity"
+        },
+        {
+          "bn": "লেখকের স্বত্ব",
+          "en": "Copyright"
+        }
+      ],
+      "oneLine": "Firstly, analyse the curriculum document. Then consider the checklist points when choosing resource materials.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Checklist for Selecting Learning Resources",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Copyright Considerations",
+        "Moral rights of the creator",
+        "What copyright protects"
+      ],
+      "asked": 0,
+      "cblmPrimary": 8,
+      "cblms": [
+        8
+      ],
+      "highlighted": false,
+      "id": "copyright-considerations",
+      "keywords": [
+        {
+          "bn": "লেখা বা কাজের মালিকানা-স্বত্ব",
+          "en": "Copyright"
+        },
+        {
+          "bn": "স্রষ্টার নৈতিক অধিকার",
+          "en": "Moral rights"
+        },
+        {
+          "bn": "অনুমতি",
+          "en": "Permission"
+        },
+        {
+          "bn": "নিজের ভাষায় লেখা",
+          "en": "Paraphrase"
+        },
+        {
+          "bn": "অধিকার লঙ্ঘন করা",
+          "en": "Infringe"
+        }
+      ],
+      "oneLine": "Copyright does not protect ideas. It protects the way a person expresses themselves.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Copyright Considerations When Writing Learning Materials",
+      "types": []
     },
     {
       "aliases": [
@@ -4701,7 +6031,7 @@
       "oneLine": "Robert Gagné's model provides nine steps that can assist you in your writing.",
       "score": 7,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "Gagné's Nine Steps for Writing Learning Materials",
       "types": [
@@ -5015,7 +6345,7 @@
       "oneLine": "CBLM's major parts: information sheet, self check sheet, answer sheet, job sheet, specification sheet.",
       "score": 7,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "Major Parts of a CBLM",
       "types": [
@@ -5102,7 +6432,7 @@
       "oneLine": "The range of learning operational resources includes projectors, web resources, slides, boards, charts and textbooks.",
       "score": 7,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "Range of Learning Operational Resources",
       "types": [
@@ -5193,7 +6523,7 @@
       "oneLine": "Learner training requirements are validated with experts, employers, trainers and other persons/officers.",
       "score": 7,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "Validating Training Requirements",
       "types": [
@@ -5557,6 +6887,49 @@
     },
     {
       "aliases": [
+        "What is a training session?",
+        "Planning training sessions",
+        "Factors a session plan should take into account"
+      ],
+      "asked": 0,
+      "cblmPrimary": 9,
+      "cblms": [
+        9
+      ],
+      "highlighted": true,
+      "id": "planning-training-sessions",
+      "keywords": [
+        {
+          "bn": "program-এর ছোট একটি অংশ (lesson)",
+          "en": "Training session"
+        },
+        {
+          "bn": "পুরো training-এর সামগ্রিক কাঠামো",
+          "en": "Training program"
+        },
+        {
+          "bn": "session শেষে learners যা অর্জন করবে",
+          "en": "Training outcomes"
+        },
+        {
+          "bn": "কোন পদ্ধতিতে পড়ানো হবে",
+          "en": "Delivery approach"
+        },
+        {
+          "bn": "assessment কীভাবে হবে তার নির্দেশিকা",
+          "en": "Assessment Guideline"
+        }
+      ],
+      "oneLine": "A training program is broken up into a series of shorter training sessions, planned individually.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Training Session and Factors in Planning a Session",
+      "types": []
+    },
+    {
+      "aliases": [
         "Determine learner's competency",
         "Pre-assess a trainee's competencies",
         "Identifying current competencies of trainees"
@@ -5683,6 +7056,49 @@
       "stars": 2,
       "status": "draft",
       "title": "Strategies to Include Persons with Disability (PWDs) in the Class",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Preparing a self-assessment guide",
+        "Self-assessment checklist",
+        "Pre-self assessment"
+      ],
+      "asked": 0,
+      "cblmPrimary": 9,
+      "cblms": [
+        9
+      ],
+      "highlighted": true,
+      "id": "self-assessment-guide",
+      "keywords": [
+        {
+          "bn": "নিজের দক্ষতা নিজে যাচাইয়ের তালিকা",
+          "en": "Self-assessment guide"
+        },
+        {
+          "bn": "দক্ষতার ক্ষেত্রগুলো",
+          "en": "Competency areas"
+        },
+        {
+          "bn": "কতটা দক্ষ, সেই মাত্রা",
+          "en": "Level of expertise"
+        },
+        {
+          "bn": "training কোথা থেকে শুরু করা ভালো",
+          "en": "Best starting point"
+        },
+        {
+          "bn": "কাজের মান যাচাইয়ের মানদণ্ড",
+          "en": "Performance criteria"
+        }
+      ],
+      "oneLine": "A self-assessment guide is a listing of competency areas. The trainee uses it to self assess his level of expertise.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Self-Assessment Guide (Pre-Training Self-Assessment Checklist)",
       "types": []
     },
     {
@@ -5816,7 +7232,6 @@
     {
       "aliases": [
         "The session plan",
-        "Planning training sessions",
         "Why do you need a session plan?"
       ],
       "asked": 1,
@@ -6076,6 +7491,91 @@
     },
     {
       "aliases": [
+        "Overall aim of a training program",
+        "The outcome of the training program",
+        "Big picture of a training program"
+      ],
+      "asked": 0,
+      "cblmPrimary": 9,
+      "cblms": [
+        9
+      ],
+      "highlighted": true,
+      "id": "training-program-aim",
+      "keywords": [
+        {
+          "bn": "পুরো training program-এর মূল লক্ষ্য",
+          "en": "Overall aim"
+        },
+        {
+          "bn": "শুরুতেই পুরো ছবিটা দেখা",
+          "en": "Big picture"
+        },
+        {
+          "bn": "কোন দিকে, কী নিয়ে program চলবে",
+          "en": "Focus and direction"
+        },
+        {
+          "bn": "কোন learning outcomes আসবে তার সীমা",
+          "en": "Boundaries"
+        },
+        {
+          "bn": "program শেষে trainee কী পারবে",
+          "en": "Outcome"
+        }
+      ],
+      "oneLine": "The overall aim is a general statement of the focus and direction of the program.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Overall Aim and Outcome of a Training Program",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Briefing all relevant people involved in the training program",
+        "People who help plan, deliver and follow up training"
+      ],
+      "asked": 0,
+      "cblmPrimary": 9,
+      "cblms": [
+        9
+      ],
+      "highlighted": false,
+      "id": "training-support-people",
+      "keywords": [
+        {
+          "bn": "কাজ শুরুর আগে সংশ্লিষ্টদের জানানো",
+          "en": "Briefing"
+        },
+        {
+          "bn": "অফিসের প্রশাসনিক কর্মী",
+          "en": "Administrative staff"
+        },
+        {
+          "bn": "খরচ হয়ে যায় এমন সামগ্রী",
+          "en": "Consumables"
+        },
+        {
+          "bn": "কাজ শেষে আলোচনা ও পর্যালোচনা",
+          "en": "Debriefing"
+        },
+        {
+          "bn": "trainee-র কর্মস্থলের তত্ত্বাবধায়ক",
+          "en": "Supervisors"
+        }
+      ],
+      "oneLine": "Very few training programs are single handedly run by one person.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "People Involved in a Training Program and How They Help",
+      "types": []
+    },
+    {
+      "aliases": [
         "Things to consider while selecting training venue",
         "Choosing a training venue"
       ],
@@ -6117,6 +7617,48 @@
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "Typical TVET learner in Bangladesh",
+        "Why people come to TVET institutions"
+      ],
+      "asked": 0,
+      "cblmPrimary": 9,
+      "cblms": [
+        9
+      ],
+      "highlighted": false,
+      "id": "tvet-learner-profile",
+      "keywords": [
+        {
+          "bn": "TVET প্রতিষ্ঠানে যে শেখে",
+          "en": "TVET learner"
+        },
+        {
+          "bn": "শিল্প/কর্মক্ষেত্রের সাথে মিল আছে এমন",
+          "en": "Industry relevant"
+        },
+        {
+          "bn": "হাতে-কলমে কাজের উপর জোর",
+          "en": "Practical focus"
+        },
+        {
+          "bn": "নতুন পেশা",
+          "en": "New career"
+        },
+        {
+          "bn": "এখনকার পেশা",
+          "en": "Existing career"
+        }
+      ],
+      "oneLine": "In Bangladesh a typical TVET learner is a youth aged about 16 years.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Who Is the TVET Learner?",
+      "types": []
     },
     {
       "aliases": [
@@ -6386,6 +7928,49 @@
     },
     {
       "aliases": [
+        "Factors in choosing learning resources",
+        "Choosing effective learning resources",
+        "Questions to bear in mind when choosing training resources"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": false,
+      "id": "choosing-learning-resources",
+      "keywords": [
+        {
+          "bn": "শেখার উপকরণ ও সহায়ক জিনিস",
+          "en": "Learning resources"
+        },
+        {
+          "bn": "নিজের পরিস্থিতি, অবস্থা",
+          "en": "Circumstances"
+        },
+        {
+          "bn": "প্রশিক্ষণের জায়গা",
+          "en": "Venue"
+        },
+        {
+          "bn": "নমনীয় মনোভাব, দরকারে বদলাতে রাজি",
+          "en": "Flexible attitude"
+        },
+        {
+          "bn": "learner দলে কারা আছে, কেমন মিশ্রণ",
+          "en": "Composition of learning groups"
+        }
+      ],
+      "oneLine": "Your choice of learning resources depends very much on your particular circumstances.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Choosing Training Facilities and Learning Resources",
+      "types": []
+    },
+    {
+      "aliases": [
         "Learner participation",
         "Encouraging learners to participate",
         "Plan your message, be empathetic, seek and give feedback"
@@ -6467,6 +8052,50 @@
       "stars": 2,
       "status": "draft",
       "title": "Computer Based Learning: Advantages and Limitations",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Conflict resolution",
+        "Negotiation skills",
+        "Managing conflict in the learning environment",
+        "Collaborating and Compromising responses"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": false,
+      "id": "conflict-resolution-negotiation",
+      "keywords": [
+        {
+          "bn": "বিরোধ মীমাংসা",
+          "en": "Conflict resolution"
+        },
+        {
+          "bn": "আলোচনা করে সমঝোতা",
+          "en": "Negotiation"
+        },
+        {
+          "bn": "সম্মান বাঁচিয়ে বের হওয়ার সুযোগ",
+          "en": "Face-saving options"
+        },
+        {
+          "bn": "সবাই মিলে সমাধান খোঁজা",
+          "en": "Collaborating"
+        },
+        {
+          "bn": "দুই পক্ষ কিছুটা ছাড় দেওয়া",
+          "en": "Compromising"
+        }
+      ],
+      "oneLine": "The best way to manage inappropriate behaviour is to use conflict resolution and negotiation skills.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Conflict Resolution and Negotiation Skills with Learners",
       "types": []
     },
     {
@@ -6646,6 +8275,131 @@
     },
     {
       "aliases": [
+        "Advantages of print-based materials",
+        "Handouts and print",
+        "Writing effective training resources/materials"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": false,
+      "id": "handouts-and-print",
+      "keywords": [
+        {
+          "bn": "হাতে দেওয়া লিখিত নোট বা কাগজ",
+          "en": "Handout"
+        },
+        {
+          "bn": "ছাপা বা লিখিত শেখার উপকরণ",
+          "en": "Print-based materials"
+        },
+        {
+          "bn": "সহজে বহনযোগ্য",
+          "en": "Portable"
+        },
+        {
+          "bn": "এক পাতার সাথে অন্য পাতা মিলিয়ে দেখা",
+          "en": "Cross referencing"
+        },
+        {
+          "bn": "নিজে নিজে শেখা",
+          "en": "Independent learning"
+        }
+      ],
+      "oneLine": "Well prepared handouts are useful in most learning situations.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Handouts and Print-Based Training Materials",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Icebreaker",
+        "Icebreaker activity",
+        "Conducting icebreakers"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": false,
+      "id": "icebreakers",
+      "keywords": [
+        {
+          "bn": "শুরুর দিকে পরিচয় ও জড়তা ভাঙার activity",
+          "en": "Icebreaker"
+        },
+        {
+          "bn": "মনের দিক থেকে অস্বস্তি বা লজ্জার ঝুঁকি",
+          "en": "Emotional risk"
+        },
+        {
+          "bn": "আস্থা ও সুসম্পর্ক",
+          "en": "Rapport"
+        },
+        {
+          "bn": "সম্পর্ক",
+          "en": "Relationships"
+        }
+      ],
+      "oneLine": "Icebreakers help learners establish relationships with other group members",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Icebreakers in the First Session",
+      "types": []
+    },
+    {
+      "aliases": [
+        "The Internet",
+        "Advantages and disadvantages of the Internet in training",
+        "Internet in learning"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": false,
+      "id": "internet-in-training",
+      "keywords": [
+        {
+          "bn": "বিশ্বজোড়া কম্পিউটার নেটওয়ার্ক",
+          "en": "Internet"
+        },
+        {
+          "bn": "তথ্যের বিশাল ভাণ্ডার",
+          "en": "Database"
+        },
+        {
+          "bn": "অনলাইন আলোচনা দল",
+          "en": "Newsgroups"
+        },
+        {
+          "bn": "অন্যের লেখা নিজের নামে চালানো",
+          "en": "Plagiarism"
+        },
+        {
+          "bn": "সময় নষ্টের জায়গা",
+          "en": "Time-waster"
+        }
+      ],
+      "oneLine": "The Internet is an amazing and fascinating learning resource.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "The Internet as a Learning Resource",
+      "types": []
+    },
+    {
+      "aliases": [
         "Why establish guidelines for learner behaviour",
         "Sample set of ground rules",
         "Positive learning environment"
@@ -6724,6 +8478,51 @@
       "stars": 2,
       "status": "draft",
       "title": "Learning Domains: Cognitive, Affective and Psychomotor",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Interpreting evaluation comments",
+        "Improving future learning and training",
+        "Action plans",
+        "Action learning",
+        "Plan - Act - Reflect - Understand cycle"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": false,
+      "id": "learning-from-evaluation",
+      "keywords": [
+        {
+          "bn": "মূল্যায়ন: কেমন হলো তা যাচাই",
+          "en": "Evaluation"
+        },
+        {
+          "bn": "কী করব তার কর্মপরিকল্পনা",
+          "en": "Action plan"
+        },
+        {
+          "bn": "কাজের সমস্যা দলগতভাবে সমাধান করে শেখা",
+          "en": "Action learning"
+        },
+        {
+          "bn": "অনেকের মন্তব্যে একই বিষয়",
+          "en": "Common themes"
+        },
+        {
+          "bn": "নিজের দায়িত্ব বলে মেনে নেওয়া",
+          "en": "Ownership"
+        }
+      ],
+      "oneLine": "After an evaluation, analyse the results and determine what you will change next time.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Learning from Session Evaluation and Action Plans",
       "types": []
     },
     {
@@ -6813,6 +8612,94 @@
       "stars": 2,
       "status": "draft",
       "title": "Managing Inappropriate Learner Behaviour",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Managing and monitoring learner activities",
+        "Tools in managing activity",
+        "Competency Progress Chart",
+        "Pre-assessment records"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": false,
+      "id": "managing-monitoring-training-activities",
+      "keywords": [
+        {
+          "bn": "দক্ষতার সাথে পরিচালনা করা",
+          "en": "Manage"
+        },
+        {
+          "bn": "নজর রাখা, খোঁজ রাখা",
+          "en": "Monitor"
+        },
+        {
+          "bn": "সরাসরি অভিজ্ঞতা দিয়ে শেখার কাজ",
+          "en": "Activity"
+        },
+        {
+          "bn": "কোন task শেখা হলো তার তালিকা-চার্ট",
+          "en": "Competency Progress Chart"
+        },
+        {
+          "bn": "trainee-র নিজের কাজের খাতা",
+          "en": "Trainee Workbook"
+        }
+      ],
+      "oneLine": "Managing and monitoring learner activities is important because it prepares the trainee for assessment.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Managing and Monitoring Training Activities",
+      "types": []
+    },
+    {
+      "aliases": [
+        "OHP",
+        "Benefits of the overhead projector",
+        "Preparing transparencies",
+        "Tips for using the OHP"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": false,
+      "id": "overhead-projector",
+      "keywords": [
+        {
+          "bn": "স্বচ্ছ শিটের লেখা বড় করে পর্দায় দেখানোর যন্ত্র",
+          "en": "Overhead projector (OHP)"
+        },
+        {
+          "bn": "স্বচ্ছ acetate শিট, যার উপর লেখা থাকে",
+          "en": "Transparency"
+        },
+        {
+          "bn": "স্বচ্ছ প্লাস্টিকের শিট",
+          "en": "Acetate"
+        },
+        {
+          "bn": "ছবি পরিষ্কার করার নব",
+          "en": "Focus knob"
+        },
+        {
+          "bn": "projector-এর বাতি",
+          "en": "Globe"
+        }
+      ],
+      "oneLine": "The overhead projector (OHP) is an indispensable item for most trainers.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Using the Overhead Projector (OHP)",
       "types": []
     },
     {
@@ -6937,12 +8824,55 @@
       "oneLine": "Provide practice opportunities so that learning of the skills or task is maximised.",
       "score": 3,
       "sourceType": "cblm",
-      "stars": 1,
+      "stars": 2,
       "status": "draft",
       "title": "Providing Practice Opportunities",
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "Learning activities",
+        "Selecting presentation methods and learning activities",
+        "Methods for knowledge, skills and attitudes"
+      ],
+      "asked": 0,
+      "cblmPrimary": 10,
+      "cblms": [
+        10
+      ],
+      "highlighted": false,
+      "id": "presentation-methods-learning-activities",
+      "keywords": [
+        {
+          "bn": "শেখার জন্য session-এ রাখা কাজ",
+          "en": "Learning activities"
+        },
+        {
+          "bn": "উপস্থাপনের পদ্ধতি",
+          "en": "Presentation methods"
+        },
+        {
+          "bn": "চোখে দেখার সহায়ক উপকরণ",
+          "en": "Visual aids"
+        },
+        {
+          "bn": "মনোভাবের পরিবর্তন",
+          "en": "Attitudinal changes"
+        },
+        {
+          "bn": "প্রশ্ন করা",
+          "en": "Questioning"
+        }
+      ],
+      "oneLine": "Learning activities are simply tasks which are integrated into a session to promote learning.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Presentation Methods and Learning Activities for Competency Development",
+      "types": []
     },
     {
       "aliases": [
@@ -7117,7 +9047,7 @@
       "oneLine": "When selecting a delivery method, use a list of questions to help decide.",
       "score": 3,
       "sourceType": "cblm",
-      "stars": 1,
+      "stars": 2,
       "status": "draft",
       "title": "Selecting Appropriate Delivery Techniques",
       "types": [
@@ -7552,7 +9482,7 @@
       "oneLine": "Review training delivery to improve processes and check standards are up to date.",
       "score": 3,
       "sourceType": "cblm",
-      "stars": 1,
+      "stars": 2,
       "status": "draft",
       "title": "Why Review Training Delivery",
       "types": [
@@ -7648,7 +9578,7 @@
         "Contents of the context of assessment",
         "Physical setting, tools, materials and purpose of assessment"
       ],
-      "asked": 0,
+      "asked": 1,
       "cblmPrimary": 11,
       "cblms": [
         11
@@ -7678,11 +9608,55 @@
         }
       ],
       "oneLine": "The context of assessment includes physical setting, tools, materials and purpose of assessment.",
-      "score": 3,
+      "score": 5,
       "sourceType": "cblm",
       "stars": 2,
       "status": "draft",
       "title": "What the Assessment Context Includes",
+      "types": [
+        "short"
+      ]
+    },
+    {
+      "aliases": [
+        "Cost effectiveness of assessment methods",
+        "Organizing assessment timeframes"
+      ],
+      "asked": 0,
+      "cblmPrimary": 11,
+      "cblms": [
+        11
+      ],
+      "highlighted": false,
+      "id": "assessment-costs-timeframes",
+      "keywords": [
+        {
+          "bn": "সাধ্যের মধ্যে খরচ",
+          "en": "Affordable"
+        },
+        {
+          "bn": "কম খরচে ভালো ফল",
+          "en": "Cost effectiveness"
+        },
+        {
+          "bn": "আলোচনা করে ঠিক করা",
+          "en": "Negotiate"
+        },
+        {
+          "bn": "একসাথে কয়েকটি unit",
+          "en": "Clustered units"
+        },
+        {
+          "bn": "সময়সীমা",
+          "en": "Timeframe"
+        }
+      ],
+      "oneLine": "Assessment must be affordable. Costs are negotiated with the assessing organization or body.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Costs of Assessment and Assessment Timeframes",
       "types": []
     },
     {
@@ -7856,6 +9830,48 @@
         "matching",
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "Assessment pathway",
+        "Stages of the assessment process (CBLM 11)"
+      ],
+      "asked": 0,
+      "cblmPrimary": 11,
+      "cblms": [
+        11
+      ],
+      "highlighted": false,
+      "id": "assessment-process-pathways",
+      "keywords": [
+        {
+          "bn": "ধাপে ধাপে এগোনোর পথ",
+          "en": "Pathway"
+        },
+        {
+          "bn": "assessment-এর নীতি ও পদ্ধতি",
+          "en": "Assessment System"
+        },
+        {
+          "bn": "মূল্যায়নের পরিকল্পনা",
+          "en": "Assessment Plan"
+        },
+        {
+          "bn": "evidence সংগ্রহের হাতিয়ার",
+          "en": "Assessment tools"
+        },
+        {
+          "bn": "যাচাই করে উন্নতির সুপারিশ",
+          "en": "Validation"
+        }
+      ],
+      "oneLine": "Assessment Process and Pathways runs from Assessment System to Assessment validation.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Assessment Process and Pathways",
+      "types": []
     },
     {
       "aliases": [
@@ -8431,7 +10447,7 @@
       "oneLine": "Holistic assessment design is an integrated approach combining knowledge, skills, attitudes and ethics.",
       "score": 7,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "Holistic Assessment Design and Clustering Competencies",
       "types": [
@@ -8656,6 +10672,49 @@
     },
     {
       "aliases": [
+        "Real or simulated assessment",
+        "Structured evidence",
+        "Real work evidence"
+      ],
+      "asked": 0,
+      "cblmPrimary": 11,
+      "cblms": [
+        11
+      ],
+      "highlighted": false,
+      "id": "real-time-structured-evidence",
+      "keywords": [
+        {
+          "bn": "আসল কাজের সময়ে",
+          "en": "Real time"
+        },
+        {
+          "bn": "আসল কাজের মতো করে সাজানো",
+          "en": "Simulated"
+        },
+        {
+          "bn": "পরিকল্পিতভাবে তৈরি পরিস্থিতির evidence",
+          "en": "Structured evidence"
+        },
+        {
+          "bn": "তৃতীয় ব্যক্তির রিপোর্ট",
+          "en": "Third party reporting"
+        },
+        {
+          "bn": "কাজের পেছনের জ্ঞান",
+          "en": "Underpinning knowledge"
+        }
+      ],
+      "oneLine": "Depending on where and when it takes place, assessment is real or simulated.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Real Time vs Simulated (Structured) Evidence",
+      "types": []
+    },
+    {
+      "aliases": [
         "Types of evidence for recognition assessment",
         "People involved in the assessment process",
         "Best practice recognition assessment"
@@ -8740,6 +10799,99 @@
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "Assessment plan template",
+        "Process based and product based assessment"
+      ],
+      "asked": 0,
+      "cblmPrimary": 11,
+      "cblms": [
+        11
+      ],
+      "highlighted": false,
+      "id": "sample-assessment-plan",
+      "keywords": [
+        {
+          "bn": "Assessment plan-এর নমুনা",
+          "en": "Sample assessment plan"
+        },
+        {
+          "bn": "কাজ করার প্রক্রিয়া দেখে মূল্যায়ন",
+          "en": "Process based"
+        },
+        {
+          "bn": "তৈরি জিনিস বা document দেখে মূল্যায়ন",
+          "en": "Product based"
+        },
+        {
+          "bn": "criteria আর method মেলানোর ছক",
+          "en": "Planning matrix"
+        },
+        {
+          "bn": "মূল্যায়নের কাজগুলো",
+          "en": "Assessment tasks"
+        },
+        {
+          "bn": "প্রয়োজনীয় সরঞ্জাম ও সুবিধা",
+          "en": "Resource requirements"
+        }
+      ],
+      "oneLine": "An assessment plan gives an overview of assessing a course, qualification or unit.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Sample Assessment Plan",
+      "types": []
+    },
+    {
+      "aliases": [
+        "Assessment process definition",
+        "Finalising assessment methods and tools",
+        "Integrated assessment"
+      ],
+      "asked": 0,
+      "cblmPrimary": 11,
+      "cblms": [
+        11
+      ],
+      "highlighted": false,
+      "id": "select-review-modify-methods",
+      "keywords": [
+        {
+          "bn": "মূল্যায়নের ধারাবাহিক ধাপ",
+          "en": "Assessment process"
+        },
+        {
+          "bn": "বাছাই করা",
+          "en": "Select"
+        },
+        {
+          "bn": "যাচাই করে দেখা",
+          "en": "Review"
+        },
+        {
+          "bn": "পরিবর্তন বা সংশোধন করা",
+          "en": "Modify"
+        },
+        {
+          "bn": "বিশেষ চাহিদা",
+          "en": "Special needs"
+        },
+        {
+          "bn": "পুরো কাজ একসাথে মূল্যায়ন",
+          "en": "Integrated assessment"
+        }
+      ],
+      "oneLine": "The assessment process is the series of steps candidates and assessors move through.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Assessment Process: Select, Review and Modify Methods and Tools",
+      "types": []
     },
     {
       "aliases": [
@@ -8969,6 +11121,48 @@
         "mcq",
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "What an assessment activity constitutes",
+        "Assessee, assessor, venue and recognized authorities"
+      ],
+      "asked": 0,
+      "cblmPrimary": 12,
+      "cblms": [
+        12
+      ],
+      "highlighted": false,
+      "id": "assessment-activity-components",
+      "keywords": [
+        {
+          "bn": "যাকে assess করা হয়, অর্থাৎ candidate",
+          "en": "Assessee"
+        },
+        {
+          "bn": "যিনি evidence দেখে competency-র সিদ্ধান্ত দেন",
+          "en": "Assessor"
+        },
+        {
+          "bn": "assessment-এর স্থান বা জায়গা",
+          "en": "Venue"
+        },
+        {
+          "bn": "স্বীকৃত কর্তৃপক্ষ, যারা assessment-কে বৈধতা দেয়",
+          "en": "Recognized authorities"
+        },
+        {
+          "bn": "assessment কীভাবে হবে তার লিখিত নির্দেশিকা",
+          "en": "Assessment guidelines"
+        }
+      ],
+      "oneLine": "An assessment activity constitutes an assessee, an assessor, a venue for assessment and recognized authorities.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Components of an Assessment Activity",
+      "types": []
     },
     {
       "aliases": [
@@ -9233,7 +11427,7 @@
       "oneLine": "CARS is a concise summary of assessment outcomes.",
       "score": 3,
       "sourceType": "question-paper-only",
-      "stars": 1,
+      "stars": 2,
       "status": "draft",
       "title": "Competency Assessment Result Summary (CARS)",
       "types": [
@@ -9276,14 +11470,12 @@
         }
       ],
       "oneLine": "The context of assessment is the environment or setting of the assessment activity.",
-      "score": 7,
+      "score": 5,
       "sourceType": "cblm",
       "stars": 2,
       "status": "draft",
       "title": "Context of Assessment",
-      "types": [
-        "short"
-      ]
+      "types": []
     },
     {
       "aliases": [
@@ -9554,12 +11746,54 @@
       "oneLine": "The key to a successful assessment process involves informing the candidate.",
       "score": 7,
       "sourceType": "cblm",
-      "stars": 2,
+      "stars": 3,
       "status": "draft",
       "title": "Informing Candidates Before Assessment",
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "People to contact about an assessment",
+        "Notifying people about the assessment"
+      ],
+      "asked": 0,
+      "cblmPrimary": 12,
+      "cblms": [
+        12
+      ],
+      "highlighted": true,
+      "id": "informing-relevant-people",
+      "keywords": [
+        {
+          "bn": "জানানো, খবর দেওয়া",
+          "en": "Notify"
+        },
+        {
+          "bn": "যাদের জানা দরকার, শুধু তারা",
+          "en": "Relevant people"
+        },
+        {
+          "bn": "assessment-এর ফলাফল",
+          "en": "Outcome"
+        },
+        {
+          "bn": "কোনো ঝামেলা ছাড়া চলা",
+          "en": "Proceeds smoothly"
+        },
+        {
+          "bn": "রেকর্ড হালনাগাদ রাখা",
+          "en": "Records up to date"
+        }
+      ],
+      "oneLine": "Informing relevant people about assessment helps the assessment proceed smoothly.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Informing Relevant People About Assessment",
+      "types": []
     },
     {
       "aliases": [
@@ -9604,6 +11838,48 @@
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "Helpful strategies for feedback on negative assessment",
+        "Feedback on a not yet competent result"
+      ],
+      "asked": 0,
+      "cblmPrimary": 12,
+      "cblms": [
+        12
+      ],
+      "highlighted": false,
+      "id": "negative-feedback-strategies",
+      "keywords": [
+        {
+          "bn": "যখন candidate এখনো competent হয়নি",
+          "en": "Negative assessment"
+        },
+        {
+          "bn": "মিথ্যা আশা দেওয়া",
+          "en": "False expectations"
+        },
+        {
+          "bn": "দক্ষতার ঘাটতি",
+          "en": "Gaps"
+        },
+        {
+          "bn": "আবার করতে হবে এমন অংশ",
+          "en": "Repeated"
+        },
+        {
+          "bn": "আবার assessment দেওয়ার সুযোগ",
+          "en": "Further opportunity"
+        }
+      ],
+      "oneLine": "Feedback on a negative assessment is positive, precise about gaps, and arranges further opportunity.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Feedback on a Negative Assessment",
+      "types": []
     },
     {
       "aliases": [
@@ -9698,6 +11974,48 @@
     },
     {
       "aliases": [
+        "Pro-forma for Record of Competency Assessment Results",
+        "Assessment results record form"
+      ],
+      "asked": 0,
+      "cblmPrimary": 12,
+      "cblms": [
+        12
+      ],
+      "highlighted": false,
+      "id": "record-of-assessment-results",
+      "keywords": [
+        {
+          "bn": "আগে থেকে তৈরি ছক বা ফর্ম",
+          "en": "Pro-forma"
+        },
+        {
+          "bn": "assessment-এর ব্যবস্থা: তারিখ, স্থান, উপকরণ",
+          "en": "Assessment arrangements"
+        },
+        {
+          "bn": "বর্ণনা করে লেখা ব্যাখ্যা",
+          "en": "Narrative description"
+        },
+        {
+          "bn": "অনানুষ্ঠানিক মৌখিক মতামত",
+          "en": "Informal feedback"
+        },
+        {
+          "bn": "certificate দেওয়ার সুপারিশ",
+          "en": "Recommendation"
+        }
+      ],
+      "oneLine": "The pro-forma is an example form for the record of competency assessment results.",
+      "score": 1,
+      "sourceType": "cblm",
+      "stars": 1,
+      "status": "draft",
+      "title": "Record of Competency Assessment Results (Pro-forma)",
+      "types": []
+    },
+    {
+      "aliases": [
         "Assessment recording and reporting",
         "Role of the assessor in recording and reporting assessment outcomes",
         "Assessment record"
@@ -9785,6 +12103,48 @@
       "types": [
         "short"
       ]
+    },
+    {
+      "aliases": [
+        "The responsibilities of a reviewer",
+        "Hints for a good review process"
+      ],
+      "asked": 0,
+      "cblmPrimary": 12,
+      "cblms": [
+        12
+      ],
+      "highlighted": true,
+      "id": "reviewer-responsibilities",
+      "keywords": [
+        {
+          "bn": "যিনি assessment process review করেন",
+          "en": "Reviewer"
+        },
+        {
+          "bn": "নৈতিকভাবে, নিয়ম মেনে",
+          "en": "Ethically"
+        },
+        {
+          "bn": "ভুল সংশোধনের ব্যবস্থা",
+          "en": "Corrective procedures"
+        },
+        {
+          "bn": "নিরাপদে সংরক্ষণ করা",
+          "en": "Safeguarding"
+        },
+        {
+          "bn": "ভয়ের নয়, সহায়ক",
+          "en": "Non-threatening"
+        }
+      ],
+      "oneLine": "A reviewer plans and carries out the review, documents, reports and safeguards documents.",
+      "score": 3,
+      "sourceType": "cblm",
+      "stars": 2,
+      "status": "draft",
+      "title": "Responsibilities of a Reviewer",
+      "types": []
     },
     {
       "aliases": [
@@ -9922,5 +12282,5 @@
       ]
     }
   ],
-  "contentVersion": "bf154f248a1d"
+  "contentVersion": "d12009575a8d"
 }

@@ -1,0 +1,518 @@
+{
+  "id": "sample-assessment-plan",
+  "canonical_title": "Sample Assessment Plan",
+  "aliases": [
+    "Assessment plan template",
+    "Process based and product based assessment"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "An assessment plan gives an overview of assessing a course, qualification or unit.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 46,
+        "quote": "An assessment plan is developed for a course/program or unit of competency to provide an overview of the assessment of the course/ qualification or a unit/s of competency"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Sample assessment plan",
+      "bn": "Assessment plan-এর নমুনা"
+    },
+    {
+      "en": "Process based",
+      "bn": "কাজ করার প্রক্রিয়া দেখে মূল্যায়ন"
+    },
+    {
+      "en": "Product based",
+      "bn": "তৈরি জিনিস বা document দেখে মূল্যায়ন"
+    },
+    {
+      "en": "Planning matrix",
+      "bn": "criteria আর method মেলানোর ছক"
+    },
+    {
+      "en": "Assessment tasks",
+      "bn": "মূল্যায়নের কাজগুলো"
+    },
+    {
+      "en": "Resource requirements",
+      "bn": "প্রয়োজনীয় সরঞ্জাম ও সুবিধা"
+    }
+  ],
+  "bangla_explanation": [
+    "Sample assessment plan দেখায় একটা আসল plan দেখতে কেমন হয়।",
+    "এখানে evidence দুই রকম: process based (session চালানো, observation checklist) আর product based (documents ও questionnaire)।",
+    "Planning matrix-এ প্রতিটি performance criteria-কে A, B, C, D methods-এর সাথে মেলানো হয়।",
+    "শেষে assessment tasks, resource requirements আর designer-এর signature থাকে।"
+  ],
+  "example": {
+    "en": "A trainee teacher runs a 50-minute session in a simulated class. She also submits her session plans.",
+    "bn": "Session চালানো = process; session plan জমা = product।"
+  },
+  "list_answer": {
+    "title": "Parts of a sample assessment plan",
+    "title_bn": "Sample assessment plan-এর অংশগুলো",
+    "items": [
+      {
+        "text": "Name of Assessment Designer, and the Qualification or Unit of competency.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 46,
+            "quote": "Name of Assessment Designer Qualification/ Unit of competency"
+          }
+        ]
+      },
+      {
+        "text": "Purpose and context of assessment: the outcome, and where and when.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 46,
+            "quote": "Purpose and context of Assessment: (Purpose of assessment: State the outcome of assessment"
+          },
+          {
+            "src": "cblm11",
+            "page": 46,
+            "quote": "Context of assessment should include details of where and when the assessment is going to take place"
+          }
+        ]
+      },
+      {
+        "text": "Assessment planning matrix: map elements and performance criteria to methods A, B, C, D.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 47,
+            "quote": "Assessment planning matrix"
+          },
+          {
+            "src": "cblm11",
+            "page": 47,
+            "quote": "Unit code Elements/Performance criteria A B C D"
+          },
+          {
+            "src": "cblm11",
+            "page": 47,
+            "quote": "Assessment A B C D process Observation"
+          },
+          {
+            "src": "cblm11",
+            "page": 51,
+            "quote": "map every elements and its performance criteria against appropriate assessment methods"
+          }
+        ]
+      },
+      {
+        "text": "Summary of assessment methods: proposed methods for each UoC and element.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 49,
+            "quote": "Summary of assessment methods"
+          },
+          {
+            "src": "cblm11",
+            "page": 49,
+            "quote": "Element (Add additional rows Proposed assessment UoC"
+          }
+        ]
+      },
+      {
+        "text": "Assessment tasks to be completed for gathering evidence.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 49,
+            "quote": "ASSESSMENT TASKS: (Provide brief description of tasks to be completed for gathering evidence"
+          }
+        ]
+      },
+      {
+        "text": "Resource requirements for assessment.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 51,
+            "quote": "Resource requirements for assessment"
+          }
+        ]
+      },
+      {
+        "text": "Assessment Designer's signature and date.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 51,
+            "quote": "Assessment Designer's signature: Date:"
+          }
+        ]
+      }
+    ],
+    "items_bn": [
+      "Plan কে বানিয়েছেন (Assessment Designer) আর কোন Qualification বা Unit of competency-র জন্য — তা লেখা হয়।",
+      "Assessment-এর purpose বা কোন outcome চাই, আর কোথায় ও কখন হবে — এই context লেখা হয়।",
+      "Planning matrix-এ প্রতিটি element ও performance criteria-কে A, B, C, D methods-এর সাথে মেলানো হয়।",
+      "প্রতিটি UoC আর element-এর জন্য কোন methods প্রস্তাব করা হলো, তার সংক্ষিপ্ত তালিকা।",
+      "Evidence সংগ্রহের জন্য কোন কোন tasks করতে হবে, তার সংক্ষিপ্ত বর্ণনা।",
+      "Assessment চালাতে কী কী resource লাগবে, তা এখানে লেখা থাকে।",
+      "শেষে Assessment Designer সই করেন আর তারিখ দেন, এতে plan সম্পূর্ণ হয়।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "The sample assessment uses both process and product as evidence.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 46,
+          "quote": "The assessment will include both process and product as evidence"
+        }
+      ]
+    },
+    {
+      "text": "Column C is 'Completed product and/or document' on p.47 but 'Portfolio' on p.60.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 47,
+          "quote": "Completed product and/or"
+        },
+        {
+          "src": "cblm11",
+          "page": 47,
+          "quote": "document"
+        },
+        {
+          "src": "cblm11",
+          "page": 60,
+          "quote": "Portfolio Third Party Report questionnaire (Sample product and/or document)"
+        }
+      ]
+    }
+  ],
+  "visual": {
+    "kind": "compare",
+    "title": "Process based vs product based assessment (sample plan, p.46)",
+    "title_bn": "Process based বনাম product based",
+    "left": {
+      "title": "Process based assessment",
+      "title_bn": "প্রক্রিয়া দেখে",
+      "points": [
+        {
+          "text": "After training, trainee teachers conduct a 45-60 minute training session.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 46,
+              "quote": "There will be an assessment event after training is completed, where the trainee teachers will have to conduct a training session between 45-60 minute in duration"
+            }
+          ]
+        },
+        {
+          "text": "Conducted in a simulated environment, against a predefined Observation Checklist.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 46,
+              "quote": "Assessment will be conducted in a simulated environment, against a predefined Observation Checklist"
+            }
+          ]
+        },
+        {
+          "text": "Completed within a month of completion of training.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 46,
+              "quote": "The assessment should be completed within a month of completion of training"
+            }
+          ]
+        }
+      ]
+    },
+    "right": {
+      "title": "Product based assessment",
+      "title_bn": "ফলাফল বা document দেখে",
+      "points": [
+        {
+          "text": "Trainees develop or complete a range of documents, as the Assessment Guidelines specify.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 46,
+              "quote": "Trainee teachers will have to demonstrate competency through the development and/or completion of a range of documents, as specified in the Assessment Guidelines"
+            }
+          ]
+        },
+        {
+          "text": "A questionnaire demonstrates their underpinning knowledge.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 46,
+              "quote": "The trainee will also have to complete a questionnaire to demonstrate their underpinning knowledge"
+            }
+          ]
+        },
+        {
+          "text": "It is submitted before or on the day of the Assessment event.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 46,
+              "quote": "The questionnaire may be completed and submitted to the Assessor before or on the day of the Assessment event"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "practice": {
+    "short": {
+      "prompt": "Describe the sample assessment plan in CBLM 11.",
+      "modelAnswer": "A sample assessment plan gives an overview of assessing a course or unit. It uses both process and product evidence.\n1. Process: a 45-60 minute training session, observed with a checklist.\n2. Product: documents and a questionnaire.\nIt includes a planning matrix, a methods summary, assessment tasks, resources and the designer's signature.",
+      "keyPoints": [
+        {
+          "text": "Matrix columns: A Observation, B Oral/Written questions, C Product or document, D Third party report.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 47,
+              "quote": "A B C D process Observation Oral questioning/Written Completed product and/or Third party report questionnaire document"
+            }
+          ]
+        },
+        {
+          "text": "Project 1: develop a unit delivery plan with at least three sessions.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 49,
+              "quote": "Develop a unit delivery plan"
+            },
+            {
+              "src": "cblm11",
+              "page": 49,
+              "quote": "that contains at least three or more sessions"
+            }
+          ]
+        },
+        {
+          "text": "Prepare three session plans of 45-60 minutes each, integrating theory, practise and feedback.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 49,
+              "quote": "Prepare three session plans for consecutive training/learning & assessment sessions"
+            },
+            {
+              "src": "cblm11",
+              "page": 49,
+              "quote": "integrate theory, practise and feedback"
+            },
+            {
+              "src": "cblm11",
+              "page": 49,
+              "quote": "is a minimum of 45-60 minutes duration each"
+            }
+          ]
+        },
+        {
+          "text": "Conduct a task analysis to inform the development of session plans.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 49,
+              "quote": "Conduct a task analysis to analyse a task and use it to inform the development of session plans"
+            }
+          ]
+        },
+        {
+          "text": "An oral/written questionnaire addresses the underpinning knowledge.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 50,
+              "quote": "Oral/written To address the underpinning knowledge of this unit the trainee will"
+            },
+            {
+              "src": "cblm11",
+              "page": 50,
+              "quote": "questionnaire need to correctly answer a set of questions"
+            }
+          ]
+        },
+        {
+          "text": "Observation of training delivery, and a professional and technical skills development plan.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 50,
+              "quote": "Observation of training Identify and confirm appropriate training venue according to delivery"
+            },
+            {
+              "src": "cblm11",
+              "page": 51,
+              "quote": "Develop professional Identify the professional and technical competencies and and technical skills"
+            },
+            {
+              "src": "cblm11",
+              "page": 51,
+              "quote": "development plan on"
+            }
+          ]
+        },
+        {
+          "text": "Resources: computer, competency based learning resources, training venue and assessment venue.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 51,
+              "quote": "Access to computer and competency based learning resources"
+            },
+            {
+              "src": "cblm11",
+              "page": 51,
+              "quote": "Access to training venue for training period"
+            },
+            {
+              "src": "cblm11",
+              "page": 51,
+              "quote": "Access to assessment venue/ centre"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "In the sample plan, the process based assessment is conducted:",
+      "options": [
+        "In a simulated environment against an Observation Checklist",
+        "Only through a written questionnaire",
+        "Through a third party report alone",
+        "Before the training starts"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 46,
+        "quote": "Assessment will be conducted in a simulated environment, against a predefined Observation Checklist"
+      }
+    },
+    "matching": {
+      "prompt": "Match each part of the sample plan with its detail.",
+      "pairs": [
+        {
+          "left": "Process based assessment",
+          "right": "Conduct a training session after training",
+          "cite": {
+            "src": "cblm11",
+            "page": 46,
+            "quote": "Process based assessment: There will be an assessment event after training is completed, where the trainee teachers will have to conduct a training session"
+          }
+        },
+        {
+          "left": "Product based assessment",
+          "right": "A range of documents",
+          "cite": {
+            "src": "cblm11",
+            "page": 46,
+            "quote": "Product based assessment: Trainee teachers will have to demonstrate competency through the development and/or completion of a range of documents"
+          }
+        },
+        {
+          "left": "Questionnaire",
+          "right": "Demonstrate underpinning knowledge",
+          "cite": {
+            "src": "cblm11",
+            "page": 46,
+            "quote": "complete a questionnaire to demonstrate their underpinning knowledge"
+          }
+        },
+        {
+          "left": "Project 1",
+          "right": "Develop a unit delivery plan",
+          "cite": {
+            "src": "cblm11",
+            "page": 49,
+            "quote": "Project 1 : Develop a unit delivery plan"
+          }
+        },
+        {
+          "left": "Training venue",
+          "right": "Access for the training period",
+          "cite": {
+            "src": "cblm11",
+            "page": 51,
+            "quote": "Access to training venue for training period"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What two kinds of evidence does the sample plan use?",
+      "answer": {
+        "text": "Both process and product: an observed training session, and documents with a questionnaire.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 46,
+            "quote": "The assessment will include both process and product as evidence"
+          },
+          {
+            "src": "cblm11",
+            "page": 46,
+            "quote": "conduct a training session"
+          },
+          {
+            "src": "cblm11",
+            "page": 46,
+            "quote": "completion of a range of documents"
+          },
+          {
+            "src": "cblm11",
+            "page": 46,
+            "quote": "complete a questionnaire"
+          }
+        ]
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "traps[1]",
+      "note": "Matrix column C is 'Completed product and/or document' in the sample matrix (p.47) but 'Portfolio (Sample product and/or document)' in the template (p.60). The summary on p.49 says 'Completed products and/or document'. Card teaches both labels; confirm which the exam expects."
+    }
+  ]
+}

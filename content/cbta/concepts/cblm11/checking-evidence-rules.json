@@ -85,6 +85,8 @@
     "bn": "পুরনো পদ্ধতির প্রমাণ এখন current নয়।"
   },
   "list_answer": {
+    "title": "How the designer checks each rule of evidence",
+    "title_bn": "Designer যেভাবে প্রতিটি rule of evidence যাচাই করেন",
     "items": [
       {
         "text": "Validity: covers all criteria, elements, dimensions, evidence guide items and range statement musts.",
@@ -158,6 +160,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Validity মানে evidence যেন সব benchmarks ঢাকে — criteria, elements, dimensions, evidence guide আর range statement-এর জরুরি অংশ।",
+      "যথেষ্ট evidence পেতে একবারের বেশি আর একাধিক method-এ evidence নিতে হয়, আর কাজের সব অংশ assess করতে হয়।",
+      "Evidence দেখাবে candidate-এর skills ও knowledge এখনও up to date, পুরনো নয়।",
+      "Evidence-টা candidate নিজেই তৈরি করেছে, অন্য কেউ নয় — এটা নিশ্চিত করতে হয়।"
     ]
   },
   "traps": [
@@ -218,6 +226,146 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "What the designer checks for each rule (CBLM 11 p.22-23)",
+    "title_bn": "প্রতিটি rule-এ designer কী check করে",
+    "columns": [
+      "Rule",
+      "What the designer checks"
+    ],
+    "rows": [
+      [
+        "a) Validity",
+        {
+          "text": "Evidence includes all performance criteria and all elements. Also dimensions, NTVQF, evidence guide skills, critical evidence and range 'musts'.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "the collected evidence must include"
+            },
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "All performance criteria • All elements • Dimensions of competency • Considerations of the Bangladesh NTVQF"
+            },
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "Essential skills and knowledge that are listed in the evidence guide • Critical evidence listed in the evidence guide • All of the 'musts' in the range statement"
+            }
+          ]
+        }
+      ],
+      [
+        "b) Currency",
+        {
+          "text": "Evidence shows current, up to date skills and knowledge. Example: digital ear thermometers replaced oral thermometers.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "show the person has current skills and knowledge"
+            },
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "the person has knowledge that is up to date and current"
+            },
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "take a temperature with an oral thermometer"
+            },
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "it is now standard practice to use digital ear thermometers"
+            }
+          ]
+        }
+      ],
+      [
+        "c) Authenticity",
+        {
+          "text": "The person produced the work themselves. Check by observation of work in progress, declarations, drafting and third party validation.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "must be work they have produced or created themselves"
+            },
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "observation of work in progress • declarations • drafting • third party validation"
+            }
+          ]
+        }
+      ],
+      [
+        "d) Recency",
+        {
+          "text": "Is the evidence less than three years old?",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 23,
+              "quote": "Is the evidence less than three years old?"
+            }
+          ]
+        }
+      ],
+      [
+        "e) Sufficiency",
+        {
+          "text": "Enough to decide. Collect more than once, in more than one situation, with more than one method. Usually three types are sufficient.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 23,
+              "quote": "sufficient [enough] to make a decision about a person's competence"
+            },
+            {
+              "src": "cblm11",
+              "page": 23,
+              "quote": "Collecting evidence more than once and in more than one situation"
+            },
+            {
+              "src": "cblm11",
+              "page": 23,
+              "quote": "Using more than one method of assessment to ensure sufficient evidence"
+            },
+            {
+              "src": "cblm11",
+              "page": 23,
+              "quote": "Usually three types of evidence are accepted as sufficient"
+            }
+          ]
+        }
+      ],
+      [
+        "f) Consistency",
+        {
+          "text": "Evidence shows the candidate consistently meets the standards under work place conditions.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 23,
+              "quote": "show that the candidate consistently meets the standards under work place conditions"
+            }
+          ]
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What procedures can help establish authenticity of evidence?",
@@ -271,6 +419,38 @@
               "src": "cblm11",
               "page": 12,
               "quote": "indirect evidence is the work of the candidate and not someone else's."
+            }
+          ]
+        },
+        {
+          "text": "Under validity, the collected evidence must include all performance criteria, elements and dimensions.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "the collected evidence must include"
+            },
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "All performance criteria • All elements • Dimensions of competency"
+            }
+          ]
+        },
+        {
+          "text": "It also covers NTVQF, evidence guide skills and critical evidence, and range statement 'musts'.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "Considerations of the Bangladesh NTVQF"
+            },
+            {
+              "src": "cblm11",
+              "page": 22,
+              "quote": "Essential skills and knowledge that are listed in the evidence guide • Critical evidence listed in the evidence guide • All of the 'musts' in the range statement"
             }
           ]
         }

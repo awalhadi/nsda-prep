@@ -65,6 +65,8 @@
     "bn": "Self-paced ক্লাসে একেকজন একেক task করে, তাই resource area লাগে।"
   },
   "list_answer": {
+    "title": "How the system of instruction shapes workshop design",
+    "title_bn": "শিক্ষাদান পদ্ধতি অনুযায়ী workshop-এর নকশা",
     "items": [
       {
         "text": "Teacher-centered: classroom for theory, tutorials, group discussion and general activities.",
@@ -137,6 +139,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "শিক্ষক-কেন্দ্রিক পদ্ধতিতে theory, tutorials, group discussion-এর জন্য একটা classroom লাগে।",
+      "শিক্ষক-কেন্দ্রিক workshop-এ প্রত্যেক student-এর নিজের আলাদা workspace থাকে।",
+      "শিক্ষার্থী-কেন্দ্রিক পদ্ধতিতে competence অর্জনের দায়িত্ব মূলত student-এর নিজের হাতে।",
+      "শিক্ষার্থী-কেন্দ্রিক training-এ দুটো জায়গা লাগে: কাজের জন্য equipped workshop, আর learning materials পাওয়ার আলাদা resource area।"
     ]
   },
   "traps": [
@@ -170,6 +178,114 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Teacher-centred vs student-centred workshop (p.11-12)",
+    "title_bn": "Teacher-centred বনাম student-centred workshop",
+    "left": {
+      "title": "Teacher-centred instruction",
+      "title_bn": "শিক্ষক-কেন্দ্রিক",
+      "points": [
+        {
+          "text": "Normally takes place in a classroom, a workshop, or both.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 11,
+              "quote": "Teacher-centered instruction will normally take place in either a classroom, a"
+            },
+            {
+              "src": "cblm06",
+              "page": 11,
+              "quote": "workshop, or both"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Each student generally has their own workspace.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 11,
+              "quote": "each student generally has"
+            },
+            {
+              "src": "cblm06",
+              "page": 11,
+              "quote": "their own \"workspace\""
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "This type of workshop needs to have a suitable area for group demonstration.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 11,
+              "quote": "This type of workshop needs to have a suitable area for group demonstration."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "right": {
+      "title": "Student-centred (self-paced) learning",
+      "title_bn": "শিক্ষার্থী-কেন্দ্রিক",
+      "points": [
+        {
+          "text": "Responsibility for achieving competence is largely in the individual student's hands.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 12,
+              "quote": "the responsibility for achieving levels of competence is largely"
+            },
+            {
+              "src": "cblm06",
+              "page": 12,
+              "quote": "in the hands of the individual student."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Students work individually at their own pace, each task in sequential order.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 12,
+              "quote": "students can work individually at their own pace to"
+            },
+            {
+              "src": "cblm06",
+              "page": 12,
+              "quote": "complete each task in sequential order"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Needs an equipped workshop and a separate resource area.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 12,
+              "quote": "an adequately-equipped workshop where the work tasks are performed"
+            },
+            {
+              "src": "cblm06",
+              "page": 12,
+              "quote": "a separate resource area where the student has access to learning materials"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "How does the system of instruction affect the design of a workshop?",

@@ -110,7 +110,8 @@ function Short({ short, conceptId }: { short: GenConcept["practice"]["short"]; c
   );
 }
 
-function Matching({ matching, conceptId }: { matching: GenConcept["practice"]["matching"]; conceptId: string }) {
+/** conceptId null = practice outside a card (study guide); nothing is recorded. */
+export function Matching({ matching, conceptId }: { matching: GenConcept["practice"]["matching"]; conceptId: string | null }) {
   // Rotate the right column by half so no answer sits beside its term; deterministic for SSR.
   const rights = useMemo(() => {
     const n = matching.pairs.length;
@@ -130,7 +131,7 @@ function Matching({ matching, conceptId }: { matching: GenConcept["practice"]["m
     if (ri === left) {
       const next = { ...paired, [left]: ri };
       setPaired(next); setLeft(null); setWrong(null);
-      if (Object.keys(next).length === matching.pairs.length) recordPractice(conceptId, "matching", mistakes === 0);
+      if (Object.keys(next).length === matching.pairs.length && conceptId) recordPractice(conceptId, "matching", mistakes === 0);
     } else { setWrong(ri); setMistakes((m) => m + 1); }
   };
   const tile = "cbta-btn flex min-h-14 w-full items-center gap-2 rounded-xl border-2 px-3 py-2 text-left";
@@ -185,7 +186,7 @@ function Matching({ matching, conceptId }: { matching: GenConcept["practice"]["m
   );
 }
 
-function Viva({ viva, conceptId }: { viva: GenConcept["practice"]["viva"]; conceptId: string }) {
+export function Viva({ viva, conceptId }: { viva: GenConcept["practice"]["viva"]; conceptId: string | null }) {
   const [flipped, setFlipped] = useState(false);
   const [rated, setRated] = useState<boolean | null>(null);
   return (
@@ -206,9 +207,9 @@ function Viva({ viva, conceptId }: { viva: GenConcept["practice"]["viva"]; conce
       </button>
       {flipped && rated === null && (
         <div className="mt-4 grid grid-cols-2 gap-2.5">
-          <button type="button" onClick={() => { setRated(true); recordPractice(conceptId, "viva", true); }}
+          <button type="button" onClick={() => { setRated(true); if (conceptId) recordPractice(conceptId, "viva", true); }}
             className="cbta-btn min-h-12 rounded-xl border-2 border-ok/40 border-b-ok bg-ok-soft text-[15px] font-bold text-ok">I said it ✓</button>
-          <button type="button" onClick={() => { setRated(false); recordPractice(conceptId, "viva", false); }}
+          <button type="button" onClick={() => { setRated(false); if (conceptId) recordPractice(conceptId, "viva", false); }}
             className="cbta-btn min-h-12 rounded-xl border-2 border-danger/30 border-b-danger bg-danger-soft text-[15px] font-bold text-danger">Missed it</button>
         </div>
       )}

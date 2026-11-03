@@ -32,6 +32,17 @@
     "bn": "রান্নার trainee তিনবার practice করে, ready হলে trainer-কে দক্ষতা দেখায়।",
     "en": "A cooking trainee repeats the bread task three times. He says he is ready, then shows mastery to the trainer."
   },
+  "extra": [
+    {
+      "bn": [
+        "CBT-তে student নিজের গতিতে শেখে, নিজে ঠিক করে কখন প্রস্তুত, আর অন্যের সাথে নয়, job standards-এর সাথে প্রতিযোগিতা করে।"
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p39-student-role"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "student-role-in-cbt",
   "importance": {
@@ -259,7 +270,21 @@
         "fidelity": "paraphrase",
         "text": "Students learn according to their motivation, needs and abilities, not teacher timelines."
       }
-    ]
+    ],
+    "itemsBn": [
+      "যুক্তিসঙ্গত সীমার মধ্যে students নিজেই বেছে নিতে পারে কোন module শিখবে আর কখন শিখবে।",
+      "Students নিজের গতিতে (own rate) শেখে; দরকার হলে দ্রুত করে, ধীরে চলে, থামে বা আবার করে।",
+      "যা আগে থেকেই জানে, তার জন্য students credit চাইতে পারে।",
+      "কখন কোনো task করতে বা mastery দেখাতে ready, সেটা students নিজেরাই ঠিক করে।",
+      "Students অন্যদের সাথে নয়, আগে থেকে ঠিক করা job standards-এর সাথে প্রতিযোগিতা করে।",
+      "শেখা শুরুর আগেই students জানে কী জানতে ও করতে হবে।",
+      "Students নিজের progress নিজেরাই মূল্যায়ন করতে পারে।",
+      "Classroom, shop, laboratory বা training center-এ students স্বাধীনভাবে চলাফেরা করতে পারে।",
+      "মূল্যায়ন মূলত performance দেখে হয়; লিখিত paper tests শুধু knowledge যাচাই করে।",
+      "Teacher-এর ঠিক করা সময়সূচি নয়, students নিজের motivation, needs ও abilities অনুযায়ী শেখে।"
+    ],
+    "title": "Role of students in a CBT system",
+    "titleBn": "CBT system-এ students-এর ভূমিকা"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -494,6 +519,7 @@
       "text": "Paper and pencil tests are used mainly to check knowledge of the task."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

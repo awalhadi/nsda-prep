@@ -33,10 +33,148 @@
     "bn": "চা বানানো শেখাতে প্রতিটা step লিখুন; গরম পানির safety আগে বলুন।",
     "en": "A trainer teaches how to make a cup of tea. He lists every step and warns about hot water first."
   },
+  "extra": [
+    {
+      "bn": [
+        "চা বানানোর মতো সহজ কাজও নতুন কারও জন্য অনেক ধাপের — trainer-কে প্রতিটি ধাপ ভেঙে লিখতে হয়।",
+        "যেমন: kettle ধরার আগেই গরম পানির safety বলতে হবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "The content of a learning session needs to reflect the learning outcomes and assessment criteria.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The content of a learning session needs to reflect the learning outcomes and assessment criteria."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "trainer needs",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "the learning outcomes and",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "the skills and information",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "learners",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "need to follow",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The trainer examines the learning outcomes and identifies the skills and information learners need."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "tell someone who had never done it how to make a cup of tea",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Example: tell someone who had never done it how to make a cup of tea."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "can some",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "steps to",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "be broken down further? Would someone from another culture",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "follow your instructions?",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Ask: can some steps be broken down further? Would someone from another culture follow your instructions?"
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p23-task-analysis",
+        "c01-p23-task-analysis-points"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "task-analysis",
   "importance": {
-    "bn": "Unit 01 Short Questions (Short 19) আর Short Questions (Short 33): 2 জায়গায় এসেছে। CBLM 1-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "bn": "Unit 01 Short Questions (Short 19) আর Short Questions (Short 33): 2 জায়গায় এসেছে। CBLM 1-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
     "en": "Asked in Unit 01 Short Questions (Short 19) and Short Questions (Short 33). Highlighted in CBLM 1. Comes as short question."
   },
   "keywords": [
@@ -158,7 +296,17 @@
         "fidelity": "paraphrase",
         "text": "Use graphical aids that increase understanding, such as diagrams and photos."
       }
-    ]
+    ],
+    "itemsBn": [
+      "নিরাপত্তা — safety-র কথা সংশ্লিষ্ট step শুরুর আগেই বলতে হবে, পরে নয়।",
+      "মান — কাজটা যেন প্রয়োজনীয় standard অনুযায়ী হয়, তা ভাবতে হবে।",
+      "সঠিক পরিমাণ detail — খুব বেশিও নয়, খুব কমও নয়; তাতে বিভ্রান্তিও হয় না, জরুরি কিছু বাদও পড়ে না।",
+      "সহজ ভাষা ব্যবহার — কাজটা যার কাছে নতুন, সেও যেন সহজে বুঝতে পারে।",
+      "Hints ও tips যোগ করা — ছোট কৌশল জানলে কাজটা সহজ হয়ে যায়।",
+      "ছবি, diagrams-এর মতো graphical aids ব্যবহার — চোখে দেখলে বোঝা আরও সহজ হয়।"
+    ],
+    "title": "Points to consider when carrying out a task analysis",
+    "titleBn": "Task analysis করার সময় trainer-এর বিবেচ্য বিষয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -377,7 +525,7 @@
   ],
   "score": 7,
   "sourceType": "cblm",
-  "stars": 2,
+  "stars": 3,
   "status": "draft",
   "title": "Task Analysis for a Learning Session",
   "traps": [
@@ -412,6 +560,7 @@
       "text": "A trainer must not make assumptions about what learners already know."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

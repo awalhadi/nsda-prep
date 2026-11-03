@@ -41,6 +41,627 @@
     "bn": "IT ট্রেইনির নেটওয়ার্ক কাজ performance criteria-র সাথে মিলিয়ে assessor সিদ্ধান্ত নেন।",
     "en": "An IT trainee builds a network. The assessor checks it against the performance criteria. All criteria are met, so the trainee is Competent."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Requirements of the unit of competency",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Dimensions of competency",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Rules of evidence",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "Validation of evidence",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Requirements of the unit, dimensions of competency, rules of evidence and validation of evidence."
+      },
+      "concept": "assessment-decision",
+      "kind": "qa",
+      "outline": [
+        "c12-p21-making-decision"
+      ],
+      "q": "What factors do you evaluate the evidence against?",
+      "q_bn": "কোন কোন বিষয়ের সাথে evidence মিলিয়ে দেখবেন?",
+      "tip": "After gathering the evidence, you need to make a judgment of competence.",
+      "tip_bn": "চারটি প্রশ্ন: unit-এর requirement মিলছে? চার dimension আছে? rules মানছে? evidence একে অপরকে সমর্থন করছে?"
+    },
+    {
+      "columns": [
+        "Factor",
+        "Question to ask"
+      ],
+      "kind": "table",
+      "outline": [
+        "c12-p21-requirements-unit",
+        "c12-p21-dimensions",
+        "c12-p21-validation"
+      ],
+      "rows": [
+        [
+          "Requirements of the unit of competency",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 21,
+                "printedPage": 21,
+                "quote": "Does the evidence match the requirements of the elements and performance criteria?",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              },
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 21,
+                "printedPage": 21,
+                "quote": "Does the evidence address the critical aspects of the competence, the underpinning",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              },
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 21,
+                "printedPage": 21,
+                "quote": "knowledge, and skill requirements of the units of competency?",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Does the evidence match the elements and performance criteria? Does it address critical aspects, underpinning knowledge and skills?"
+          }
+        ],
+        [
+          "Dimensions of competency",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 21,
+                "printedPage": 21,
+                "quote": "Task skills, Task management skills, Contingency management skills and",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              },
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 21,
+                "printedPage": 21,
+                "quote": "Job/role environment skills?",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              },
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 21,
+                "printedPage": 21,
+                "quote": "Does the evidence show that the candidate is able to meet the four dimensions of",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Can the candidate meet task skills, task management, contingency management and job/role environment skills?"
+          }
+        ],
+        [
+          "Rules of evidence",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 21,
+                "printedPage": 21,
+                "quote": "Does the evidence conform to the rules of evidence?",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Does the evidence conform to the rules of evidence?"
+          }
+        ],
+        [
+          "Validation of evidence",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 21,
+                "printedPage": 21,
+                "quote": "Does one piece of evidence support other pieces of evidence and help to build a",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              },
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 21,
+                "printedPage": 21,
+                "quote": "picture' of competent performance?",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Does one piece of evidence support others, building a 'picture' of competent performance?"
+          }
+        ]
+      ],
+      "title": "Making the assessment decision: factors (p.21)",
+      "title_bn": "সিদ্ধান্তের চারটি ভিত্তি"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Valid • Authentic",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Valid"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Authentic • Reliable",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Authentic"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Reliable • Sufficient",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Reliable"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Sufficient • Current",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Sufficient"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Current and • Demonstrates",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Current"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Demonstrates consistency of achievement.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Demonstrates consistency of achievement."
+        }
+      ],
+      "items_bn": [
+        "Valid — evidence যা মাপার কথা, তার সাথেই সম্পর্কিত।",
+        "Authentic — evidence-টা candidate-এর নিজের কাজ।",
+        "Reliable — evidence-এর উপর ভরসা করে সিদ্ধান্ত নেওয়া যায়।",
+        "Sufficient — সিদ্ধান্ত নেওয়ার জন্য যথেষ্ট evidence আছে।",
+        "Current — evidence candidate-এর এখনকার দক্ষতা দেখায়।",
+        "Achievement-এ ধারাবাহিকতা (consistency) দেখায় — বারবার একই মানে কাজ।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c12-p21-rules-check"
+      ],
+      "title": "Qualities to check in the evidence after the assessment activity",
+      "title_bn": "Evidence যাচাইয়ের ছয়টি দিক"
+    },
+    {
+      "bn": "p.20-এ Recent, p.21-এ তার বদলে Reliable। দুটোই জেনে রাখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Valid • Authentic • Reliable • Sufficient • Current and • Demonstrates consistency of achievement.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Page 21 lists valid, authentic, reliable, sufficient, current and consistency of achievement."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c12-p21-rules-check"
+      ],
+      "text": "p.20 lists Recent; p.21 lists Reliable instead. For 'rules of evidence', write the p.20 six. Mention Reliable as an extra check.",
+      "tone": "caution"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Is it relevant?",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is it relevant?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Is it accurate?",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is it accurate?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Is it the candidate's own work?",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is it the candidate's own work?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Is it consistent with other evidence you already have?",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is it consistent with other evidence you already have?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Is it enough?",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is it enough?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Is it up-to-date?",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is it up-to-date?"
+        }
+      ],
+      "items_bn": [
+        "এটা কি প্রাসঙ্গিক? — যা assess হচ্ছে, evidence তার সাথে সম্পর্কিত কি না।",
+        "এটা কি সঠিক? — evidence-এ ভুল বা গরমিল নেই তো।",
+        "এটা কি candidate-এর নিজের কাজ? — অন্য কেউ করে দেয়নি তো।",
+        "এটা কি আগের অন্য evidence-এর সাথে মেলে?",
+        "এটা কি যথেষ্ট? — সিদ্ধান্ত নিতে আরও evidence লাগবে কি না।",
+        "এটা কি হালনাগাদ? — candidate-এর এখনকার দক্ষতা দেখায় কি না।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c12-p21-self-questions"
+      ],
+      "title": "Questions to ask yourself about the evidence",
+      "title_bn": "নিজেকে ছয়টি প্রশ্ন"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 21,
+            "printedPage": 21,
+            "quote": "defines judgement",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "the process of comparing sufficient evidence of a candidate's achievement with the",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "required performance criteria and making a decision as to whether the necessary",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "competence has been demonstrated or not.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Judgement is comparing sufficient evidence of a candidate's achievement with the required performance criteria. Then you decide whether the necessary competence has been demonstrated or not."
+      },
+      "concept": "assessment-decision",
+      "kind": "qa",
+      "outline": [
+        "c12-p21-overall-judgement"
+      ],
+      "q": "How does Rumsey (1994) define judgement?",
+      "q_bn": "Rumsey (1994) অনুযায়ী judgement কী?",
+      "tip": "Source: The Assessment Practical Guide (Rumsey 1994, p.9).",
+      "tip_bn": "সংজ্ঞায় দুই ধাপ: তুলনা, তারপর সিদ্ধান্ত।"
+    },
+    {
+      "bn": [
+        "পুরোপুরি নৈর্ব্যক্তিক হওয়া যায় না; কিছুটা informed subjective judgement থাকবেই।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Your judgements can be made as objective as possible by detailing the form and type",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "of evidence required, the criteria to be used when assessing, and any rules about",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Make judgements objective by detailing the evidence form and type, criteria and assessment rules."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "a degree of informed subjective judgement on your part will be involved",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "a degree of informed subjective judgement on your part will be involved"
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p22-objective-judgement"
+      ]
+    },
+    {
+      "bn": [
+        "যে কারণে সিদ্ধান্ত নিলেন, সেই কারণগুলোই পরে feedback-এ বলবেন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "be clear about the reasons you have for reaching your decision.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "These reasons will form the basis of your feedback to the candidates.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Be clear about your reasons. They form the basis of your feedback."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p22-reasons-feedback"
+      ]
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "If you cannot make a decision about competency, you should ask the",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "candidate to submit additional evidence.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "If after submission you are ready to make a",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "decision, do so.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Ask the candidate to submit additional evidence. After submission, make the decision."
+      },
+      "concept": "assessment-decision",
+      "kind": "qa",
+      "outline": [
+        "c12-p22-additional-evidence"
+      ],
+      "q": "What do you do if you cannot make a decision about competency?",
+      "q_bn": "Competency নিয়ে সিদ্ধান্ত নিতে না পারলে কী করবেন?",
+      "tip": "Difficulty may come from the type of evidence you decided on.",
+      "tip_bn": "সমস্যা প্রায়ই evidence-এর ধরনে; তাই বাড়তি evidence চান।"
+    }
+  ],
   "highlighted": true,
   "id": "assessment-decision",
   "importance": {
@@ -158,7 +779,15 @@
         "fidelity": "paraphrase",
         "text": "Validation of evidence: one piece of evidence supports other pieces of evidence."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Evidence যেন unit of competency-র elements আর performance criteria-র সাথে মেলে।",
+      "Task skills, task management, contingency management আর কাজের environment-এর skills — সব dimensions-এর evidence আছে কি না দেখা।",
+      "Evidence rules of evidence মেনে চলছে কি না যাচাই করা; না মানলে সিদ্ধান্ত ঠিক হবে না।",
+      "একটা evidence আরেকটা evidence-কে সমর্থন করছে কি না দেখা, যাতে সিদ্ধান্ত মজবুত হয়।"
+    ],
+    "title": "Factors to consider in making an assessment decision",
+    "titleBn": "Assessment decision নেওয়ার সময় যেসব বিষয় মেলাতে হয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -328,6 +957,114 @@
           ],
           "fidelity": "paraphrase",
           "text": "A degree of informed subjective judgement will be involved."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "The assessment Practical Guide (Rumsey 1994;p9) defines judgement",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "the process of comparing sufficient evidence of a candidate's achievement with the",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "required performance criteria",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Rumsey defines judgement as comparing sufficient evidence with the required performance criteria."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Ask yourself following questions about the evidence you now have:",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Is it relevant?",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Is it accurate?",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Is it the candidate's own work?",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Ask yourself: Is it relevant? Is it accurate? Is it the candidate's own work?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Is it consistent with other evidence you already have?",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Is it enough?",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Is it up-to-date?",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Is it consistent with other evidence? Is it enough? Is it up-to-date?"
         }
       ],
       "modelAnswer": "After gathering the evidence, I make a judgment of competence. I evaluate the evidence against these factors:\n1. Requirements of the unit of competency\n2. Dimensions of competency\n3. Rules of evidence\n4. Validation of evidence\nIf the evidence matches these criteria, the candidate is Competent. Otherwise, Not Yet Competent.",
@@ -488,6 +1225,47 @@
       "text": "If the evidence matches the criteria, the candidate is Competent. Otherwise, Not Yet Competent."
     }
   ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "Comparing the evidence against the criteria for assessment",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Comparing the evidence against the criteria for assessment"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 22,
+            "printedPage": 22,
+            "quote": "Making the decision as to whether the necessary competence has been achieved.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Making the decision as to whether the necessary competence has been achieved."
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "প্রথমে সংগ্রহ করা evidence-কে assessment-এর criteria-র সাথে তুলনা করা হয়।",
+      "তারপর সিদ্ধান্ত নেওয়া হয় — প্রয়োজনীয় competence অর্জিত হয়েছে কি না।"
+    ],
+    "title": "Two stages of judgement (Rumsey 1994)",
+    "title_bn": "Judgement-এর দুই ধাপ"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

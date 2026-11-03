@@ -36,6 +36,60 @@
     "bn": "Photocopy: মেশিন চালানো (task), কাগজ বাছাই (task management), paper jam ঠিক করা (contingency), team-এর সাথে কথা (job/role)।",
     "en": "A photocopier operator uses the machine and selects paper. He clears jams and liaises with the team."
   },
+  "extra": [
+    {
+      "bn": [
+        "উপরের card-এর table-এ চারটি dimension, UoC-এর কোথায় পাওয়া যায়, আর photocopier operator-এর উদাহরণ আছে।",
+        "মনে রাখুন: কাগজ আটকে গেলে (paper jam) ঠিক করা = contingency management।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Task management skills involve carrying out tasks simultaneously or managing multiple tasks at the same time.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Task management skills involve carrying out tasks simultaneously or managing multiple tasks at the same time."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Job/role environment skills",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "involve following instructions and communicating with others",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Job/role environment skills involve following instructions and communicating with others."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p13-dimensions-of-competency",
+        "c01-p14-photocopier-example"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "dimensions-of-competency",
   "importance": {
@@ -135,7 +189,15 @@
         "fidelity": "paraphrase",
         "text": "Job/role environment skills: work with others and adapt to different situations."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Task skills — unit of competency-তে যে standard দেওয়া আছে, সেই মান অনুযায়ী একটা কাজ করতে পারা।",
+      "Task management skills — কয়েকটা আলাদা কাজ plan করে মিলিয়ে নিয়ে পুরো কাজের ফল (work outcome) বের করা।",
+      "Contingency management skills — হঠাৎ অনিয়ম, breakdowns বা অজানা সমস্যা হলে সামলাতে পারা, যাতে কাজ থেমে না যায়।",
+      "Job/role environment skills — অন্যদের সাথে মিলে কাজ করা আর ভিন্ন ভিন্ন পরিস্থিতিতে মানিয়ে নেওয়া।"
+    ],
+    "title": "Dimensions of competency",
+    "titleBn": "Competency-র dimensions (দিকসমূহ)"
   },
   "mnemonic": {
     "explain_bn": "ছোট থেকে বড়: একটা task, অনেক task, সমস্যার সময়, আর পুরো কাজের পরিবেশ।",
@@ -612,6 +674,168 @@
       "text": "Job / role environment skills involve following instructions and communicating with others."
     }
   ],
+  "visual": {
+    "columns": [
+      "Dimension",
+      "Usually found in the UoC",
+      "Photocopier operator task"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Task Skills",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Task skills are usually described in the elements and performance criteria.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Task skills are usually described in the elements and performance criteria."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Use a photocopier",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Use a photocopier"
+        }
+      ],
+      [
+        "Task Management Skills",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Found in the performance criteria, underpinning skills and knowledge",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "may also appear in the range statements",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Found in the performance criteria, underpinning skills and knowledge; may also appear in the range statements."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Select the right paper and functions",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Select the right paper and functions"
+        }
+      ],
+      [
+        "Contingency Management Skills",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Usually found in the critical aspects of evidence, performance criteria and underpinning skills and knowledge",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "also appear in the range statements",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Usually found in the critical aspects of evidence, performance criteria and underpinning skills and knowledge; also appear in the range statements."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Clear paper jams",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Clear paper jams"
+        }
+      ],
+      [
+        "Job/Role Environment Skills",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Mostly covered in the key competencies and underpinning skills and knowledge.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Mostly covered in the key competencies and underpinning skills and knowledge."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Liaise with team members on print job requirements",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Liaise with team members on print job requirements"
+        }
+      ]
+    ],
+    "title": "Dimensions of competency: where found and photocopier example (p.13-14)",
+    "title_bn": "চার dimension: UoC-এর কোথায় থাকে, আর photocopier উদাহরণ"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

@@ -37,6 +37,109 @@
     "bn": "শ্রবণপ্রতিবন্ধী learner-এর জন্য centre interpreter আনে, আর এক সহপাঠী note দিয়ে সাহায্য করে।",
     "en": "A deaf learner joins a computer course. The centre brings a sign language interpreter, and a classmate shares notes."
   },
+  "extra": [
+    {
+      "bn": [
+        "শুধু একজনের পাশে সহায়ক বসিয়ে দিলেই inclusive হয় না; ভিন্নতাকে উৎসাহ ও মূল্য দিতে হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "The culture of learning and inclusiveness needs to be explicitly",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "promoted.",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Promote the culture of learning and inclusiveness explicitly."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "You must avoid the misconception that inclusive practice simply involves",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "attaching support to an individual.",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Inclusive practice is not simply attaching support to an individual."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "Inclusive practice involves encouraging and valuing difference.",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Inclusive practice involves encouraging and valuing difference."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c02-p25-important-point-support"
+      ],
+      "title": "Important Point (p.25)"
+    },
+    {
+      "bn": "তালিকা 'and' দিয়ে শেষ — শেষ item ছাপা হয়নি; ছাপা ১৩টিই লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "student services officers; and",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "student services officers; and"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c02-p25-support-persons"
+      ],
+      "text": "The list ends with 'student services officers; and' on p.25 and in the answer key p.30. The last item is missing from the CBLM. Write the 13 printed items.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "support-persons",
   "importance": {
@@ -277,7 +380,24 @@
         "fidelity": "verbatim",
         "text": "Student services officers"
       }
-    ]
+    ],
+    "itemsBn": [
+      "পরিবারের সদস্য (family members) — যারা learner-কে সবচেয়ে কাছ থেকে চেনেন ও সাহায্য করতে পারেন।",
+      "বিশেষায়িত support services-এর সরকারি কর্মকর্তা — সরকারি সহায়তা পেতে সাহায্য করেন।",
+      "সংশ্লিষ্ট পেশাদার support service কর্মী — নির্দিষ্ট প্রয়োজনে পেশাগত সহায়তা দেন।",
+      "Case workers ও ব্যক্তিগত সেবাদানকারী (personal carers) — নিয়মিত দেখাশোনা ও দৈনন্দিন কাজে সাহায্য করেন।",
+      "সহপাঠীর সহায়তা (peer support) — সহপাঠীরা একে অপরকে শিখতে সাহায্য করে।",
+      "দোভাষী (interpreters) — ভাষার বাধা দূর করে কথা বুঝতে সাহায্য করেন।",
+      "কমিউনিটির প্রতিনিধি (community representatives) — learner-এর নিজ সম্প্রদায়ের সাথে সংযোগ তৈরি করেন।",
+      "Note takers — learner-এর হয়ে ক্লাসের নোট লিখে দেন।",
+      "লাইব্রেরির কর্মী (library personnel) — প্রয়োজনীয় বই ও তথ্য খুঁজে পেতে সাহায্য করেন।",
+      "কারিগরি সহায়তা কর্মী (technical support personnel) — যন্ত্র বা প্রযুক্তি ব্যবহারে সাহায্য করেন।",
+      "মানবসম্পদ বা প্রশাসনিক কর্মী — প্রশাসনিক কাজ ও নিয়মকানুনে সহায়তা করেন।",
+      "Career counsellors — ভবিষ্যৎ পেশা ও পথ বেছে নিতে পরামর্শ দেন।",
+      "Student services officers — শিক্ষার্থীদের নানা সেবা ও সুবিধা পেতে সাহায্য করেন।"
+    ],
+    "title": "Support persons for clients' specific needs",
+    "titleBn": "Clients-এর specific needs-এ সহায়তাকারী ব্যক্তিরা"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -635,6 +755,7 @@
       "text": "Give examples and roles: teacher aides help learners with disabilities."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

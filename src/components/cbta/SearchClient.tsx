@@ -2,15 +2,11 @@
 
 import { useMemo, useState } from "react";
 import { Search } from "lucide-react";
+import { norm } from "@/lib/cbta/norm";
 import type { GenIndexEntry } from "@/lib/cbta/types";
 import ConceptTile from "./ConceptTile";
 
-/** NFC, lower-case, drop zero-width joiners so Bangla typed on any keyboard still matches. */
-function norm(s: string): string {
-  return s.normalize("NFC").toLowerCase().replace(/[​-‍﻿]/g, "").replace(/\s+/g, " ").trim();
-}
-
-export default function SearchClient({ index }: { index: GenIndexEntry[] }) {
+export default function SearchClient({ index, autoFocus = true }: { index: GenIndexEntry[]; autoFocus?: boolean }) {
   const [q, setQ] = useState("");
   const docs = useMemo(() => index.map((c) => ({
     c,
@@ -31,7 +27,7 @@ export default function SearchClient({ index }: { index: GenIndexEntry[] }) {
           else if (d.line.includes(t)) score += 1;
           else return null;
         }
-        return { c: d.c, score: score + d.c.stars * 0.1 };
+        return { c: d.c, score };
       })
       .filter((x): x is { c: GenIndexEntry; score: number } => x !== null)
       .sort((a, b) => b.score - a.score)
@@ -41,15 +37,13 @@ export default function SearchClient({ index }: { index: GenIndexEntry[] }) {
   return (
     <div>
       <label className="relative block">
-        <span className="sr-only">Search concepts</span>
+        <span className="sr-only">Search a topic</span>
         <Search size={20} className="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 text-ink-3" aria-hidden />
-        <input autoFocus type="search" value={q} onChange={(e) => setQ(e.target.value)}
-          placeholder="Search: evidence, hazard, প্রমাণ, ঝুঁকি…"
+        <input autoFocus={autoFocus} type="search" value={q} onChange={(e) => setQ(e.target.value)}
+          placeholder="Search a topic: evidence, hazard, প্রমাণ…"
           className="min-h-14 w-full rounded-2xl border-2 border-line bg-card pl-12 pr-4 text-[17px] text-ink placeholder:text-ink-3 focus:border-brand focus:outline-none" />
       </label>
-      <p className="mt-2 text-[13px] text-ink-3" role="status">
-        {q ? `${results.length} result${results.length === 1 ? "" : "s"}` : `Search ${index.length} concepts by English or Bangla words.`}
-      </p>
+      {q && <p className="mt-2 text-[13px] text-ink-3" role="status">{results.length ? `${results.length} topic${results.length === 1 ? "" : "s"}` : "No topic found. Try another word."}</p>}
       <ul className="mt-4 space-y-2.5">
         {results.map(({ c }) => <li key={c.id}><ConceptTile c={c} showCblm /></li>)}
       </ul>

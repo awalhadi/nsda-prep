@@ -1,0 +1,268 @@
+{
+  "id": "assessment-activity-components",
+  "canonical_title": "Components of an Assessment Activity",
+  "aliases": [
+    "What an assessment activity constitutes",
+    "Assessee, assessor, venue and recognized authorities"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "An assessment activity constitutes an assessee, an assessor, a venue for assessment and recognized authorities.",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 7,
+        "quote": "An assessment activity constitutes an assessee, an assessor, a venue for assessment and recognized authorities."
+      }
+    ],
+    "fidelity": "verbatim"
+  },
+  "keywords": [
+    {
+      "en": "Assessee",
+      "bn": "যাকে assess করা হয়, অর্থাৎ candidate"
+    },
+    {
+      "en": "Assessor",
+      "bn": "যিনি evidence দেখে competency-র সিদ্ধান্ত দেন"
+    },
+    {
+      "en": "Venue",
+      "bn": "assessment-এর স্থান বা জায়গা"
+    },
+    {
+      "en": "Recognized authorities",
+      "bn": "স্বীকৃত কর্তৃপক্ষ, যারা assessment-কে বৈধতা দেয়"
+    },
+    {
+      "en": "Assessment guidelines",
+      "bn": "assessment কীভাবে হবে তার লিখিত নির্দেশিকা"
+    }
+  ],
+  "bangla_explanation": [
+    "একটা assessment activity চারটি অংশ নিয়ে তৈরি: assessee, assessor, venue আর recognized authorities।",
+    "এর একটাও না থাকলে assessment পূর্ণ হয় না; যেমন venue ছাড়া কাজ দেখানোর জায়গাই নেই।",
+    "Candidates are assessed according to established guidelines, তাই নিজের ইচ্ছামতো assessment চলে না।",
+    "সব trainees-কে একটা assessment guidelines document দিতে হয়, যাতে তারা জানে কী skills ও knowledge assessed হবে।"
+  ],
+  "example": {
+    "en": "A welding candidate (assessee) is assessed by a certified assessor in a TTC workshop (venue). The result goes to the recognized authority.",
+    "bn": "TTC-র workshop হলো venue, candidate হলো assessee, আর ফলাফল যায় recognized authority-র কাছে।"
+  },
+  "mnemonic": {
+    "text": "A-A-V-R: Assessee, Assessor, Venue, Recognized authorities",
+    "explain_bn": "চারটি অংশের প্রথম অক্ষর মনে রাখুন: দুইজন মানুষ, একটা জায়গা আর একটা কর্তৃপক্ষ।"
+  },
+  "list_answer": {
+    "title": "Components of an assessment activity",
+    "title_bn": "Assessment activity-র উপাদান",
+    "items": [
+      {
+        "text": "an assessee",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "constitutes an assessee"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "an assessor",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "an assessee, an assessor"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "a venue for assessment",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "a venue for assessment"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "recognized authorities",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "a venue for assessment and recognized authorities"
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "items_bn": [
+      "Assessee — যার assessment হচ্ছে; তার কাজ দেখেই সিদ্ধান্ত হয়।",
+      "Assessor — যিনি assessment পরিচালনা করে বিচার করেন।",
+      "Venue — যেখানে assessment হয়; জায়গা না থাকলে কাজ দেখানোর সুযোগই নেই।",
+      "Recognized authorities — স্বীকৃত কর্তৃপক্ষ; assessment নিজের ইচ্ছামতো নয়, established guidelines অনুযায়ী চলে।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "An assessment activity constitutes four things: assessee, assessor, venue and recognized authorities.",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 7,
+          "quote": "An assessment activity constitutes an assessee, an assessor, a venue for assessment and recognized"
+        },
+        {
+          "src": "cblm12",
+          "page": 7,
+          "quote": "Candidates are assessed according to established guidelines."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Candidates are assessed according to established guidelines.",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 7,
+          "quote": "Candidates are assessed according to established guidelines."
+        }
+      ],
+      "fidelity": "verbatim"
+    },
+    {
+      "text": "Trainees get an assessment guidelines document. It makes clear what skills and knowledge will be assessed.",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 7,
+          "quote": "All trainees undertaking assessment should be provided with an assessment"
+        },
+        {
+          "src": "cblm12",
+          "page": 7,
+          "quote": "guidelines document that explains the assessment process and makes clear what"
+        },
+        {
+          "src": "cblm12",
+          "page": 7,
+          "quote": "skills and knowledge will be assessed."
+        }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What constitutes an assessment activity?",
+      "modelAnswer": "An assessment activity constitutes:\n1. An assessee.\n2. An assessor.\n3. A venue for assessment.\n4. Recognized authorities.\nCandidates are assessed according to established guidelines. Each trainee gets an assessment guidelines document.",
+      "keyPoints": [
+        {
+          "text": "An assessment activity constitutes an assessee, an assessor, a venue for assessment and recognized authorities.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 7,
+              "quote": "An assessment activity constitutes an assessee, an assessor, a venue for assessment and recognized authorities."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Candidates are assessed according to established guidelines.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 7,
+              "quote": "Candidates are assessed according to established guidelines."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "The guidelines document explains the assessment process.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 7,
+              "quote": "guidelines document that explains the assessment process"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "An assessment activity constitutes an assessee, an assessor, a venue for assessment and ___.",
+      "options": [
+        "recognized authorities",
+        "a training budget",
+        "a session plan",
+        "a job sheet"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 7,
+        "quote": "a venue for assessment and recognized authorities"
+      }
+    },
+    "matching": {
+      "prompt": "Match each item with what the CBLM says about it.",
+      "pairs": [
+        {
+          "left": "Assessment activity",
+          "right": "Assessee, assessor, venue and recognized authorities",
+          "cite": {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "An assessment activity constitutes an assessee, an assessor, a venue for assessment and recognized authorities."
+          }
+        },
+        {
+          "left": "Assessment guidelines document",
+          "right": "Explains the assessment process",
+          "cite": {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "guidelines document that explains the assessment process"
+          }
+        },
+        {
+          "left": "Candidates are assessed",
+          "right": "According to established guidelines",
+          "cite": {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Candidates are assessed according to established guidelines."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What are the parts of an assessment activity?",
+      "answer": {
+        "text": "An assessee, an assessor, a venue for assessment and recognized authorities.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "An assessment activity constitutes an assessee, an assessor, a venue for assessment and recognized authorities."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": []
+}

@@ -13,6 +13,10 @@
           "printed": 29
         },
         {
+          "pdf": 30,
+          "printed": 30
+        },
+        {
           "pdf": 31,
           "printed": 31
         }
@@ -37,6 +41,518 @@
     "bn": "মেঝেতে তেল: খুঁজে পাওয়া (Identify), ঝুঁকি মাপা (Assess), পরিষ্কার করা (Fix), পরে আবার দেখা (Evaluate)।",
     "en": "A garments floor has an oil spill. The supervisor finds it and rates the risk. She cleans it and checks again later."
   },
+  "extra": [
+    {
+      "cycle": true,
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Step 1: Identify the hazard",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Step 1: Identify the hazard"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Step 2: Assess the hazard",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Step 2: Assess the hazard"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Step 3: Fix the hazard",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Step 3: Fix the hazard"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Step 4: Evaluate the results",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Step 4: Evaluate the results"
+        }
+      ],
+      "kind": "steps",
+      "labels_bn": [
+        "Identify — hazard খুঁজে বের করা।",
+        "Assess — risk কতটা, likelihood ও consequence দিয়ে মাপা।",
+        "Fix — control বসিয়ে risk দূর বা কম করা।",
+        "Evaluate — control কাজ করছে কি না, নতুন সমস্যা হলো কি না দেখা।"
+      ],
+      "outline": [
+        "c03-p29-hazard-management"
+      ],
+      "title": "The four-step Hazard Management process (p.29-31)",
+      "title_bn": "চার ধাপের hazard management চক্র"
+    },
+    {
+      "bn": [
+        "Workplace যতটা সম্ভব নিরাপদ রাখা OSH আইনের অন্যতম প্রধান দায়িত্ব; এজন্য চার ধাপের process।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "One of the most important safety duties required by OSH law is to keep the",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "workplace as safe as possible.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "A good way to do this is to use the four-step Hazard",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "OSH law requires keeping the workplace as safe as possible. The four-step process helps."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p29-hazard-management"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "a review of illness and injuries occurring in the workplace identifies a problem",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "a review of illness and injuries occurring in the workplace identifies a problem"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "a workplace inspection or safety audit identifies a problem",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "a workplace inspection or safety audit identifies a problem"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "a hazard is reported by someone at the workplace.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "a hazard is reported by someone at the workplace."
+        }
+      ],
+      "items_bn": [
+        "কর্মস্থলের অসুস্থতা ও আঘাতের হিসাব review করে সমস্যা ধরা পড়ে।",
+        "Workplace inspection বা safety audit-এ সমস্যা ধরা পড়ে।",
+        "কর্মস্থলের কেউ hazard report করেন।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c03-p29-step-1"
+      ],
+      "title": "Step 1: hazards can be identified in a number of ways (p.29)",
+      "title_bn": "Hazard চিহ্নিত করার তিনটি উপায়"
+    },
+    {
+      "bn": [
+        "Hazard চেনা কঠিন হতে পারে: নতুনরা জানে না কী দেখতে হবে, পুরোনোরা অভ্যস্ত হয়ে যায়, আর কিছু ক্ষতি ধীরে ধীরে হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "An inexperienced",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "person may not know what to look for",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "An inexperienced person may not know what to look for."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "the person who has been working",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "somewhere for a while may take the hazard for granted",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A person working there for a while may take the hazard for granted."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "the harm caused by a hazard may not be obvious because it",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "occurs over a long period of time.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The harm may not be obvious because it occurs over a long period of time."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p29-step-1"
+      ],
+      "title": "Why identifying a hazard may not be easy"
+    },
+    {
+      "bn": [
+        "আমরা না বুঝেই প্রতিদিন risk assessment করি — যেমন রাস্তা পার হওয়ার আগে গাড়ি দেখা।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Rating a risk will help you decide what hazards are more dangerous and should be",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "corrected first.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "It can also tell you if action you have taken to correct a safety problem",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "correct a safety problem has been effective",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Rating a risk shows which hazards should be corrected first. It also tells if your action has been effective."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "For example two",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "pedestrians deciding to cross a street is an example of a risk assessment.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Two pedestrians deciding to cross a street is an example of a risk assessment."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p29-step-2"
+      ]
+    },
+    {
+      "bn": [
+        "Fix ধাপে hierarchy অনুযায়ী সবচেয়ে ভালো control বেছে নিন; রাস্তা পারাপারের উদাহরণে Level 1 সেরা।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Where a risk to health and safety has been identified, controls must be introduced",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "to eliminate or reduce it.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Where a risk has been identified, controls must be introduced to eliminate or reduce it."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "There are a number of ways to control risks. Some are better than others.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "There are a number of ways to control risks. Some are better than others."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p29-step-3",
+        "c03-p30-control-levels"
+      ]
+    },
+    {
+      "bn": [
+        "Evaluate: control বসানোর পরেও দেখতে হবে সেটা কাজ করছে কি না আর নতুন hazard তৈরি করল কি না।",
+        "যেমন বাষ্পভরা ঘরে safety glasses ঝাপসা হয়ে চোখে দেখা বন্ধ করে দেয় — এটা নতুন hazard।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Deciding on and implementing hazard control measures is not the end of the",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "process.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Implementing control measures is not the end of the process."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "it is important to check the",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "control is working, and has not created any new problems.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Check the control is working and has not created any new problems."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "For example using safety glasses in a steamy/foggy environment",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "the safety glasses will soon fog up and another",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "hazard will be created",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Example: safety glasses in a steamy environment fog up, and another hazard is created."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "It is also important to recheck a hazard occasionally",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "control measure may be less effective or there may be a better way to control the",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Recheck a hazard occasionally. A control may become less effective, or a better way may appear."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p31-step-4"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "hazard-management-process",
   "importance": {
@@ -222,7 +738,15 @@
         "fidelity": "paraphrase",
         "text": "Evaluate the results: check the control works and creates no new problems."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Hazard চিহ্নিত করা (identify) — injury reviews, workplace inspections বা hazard reports দেখে বিপদ খুঁজে বের করা।",
+      "Hazard যাচাই করা (assess) — ঘটার সম্ভাবনা (likelihood) আর ক্ষতির মাত্রা (consequence) দেখে risk কতটা তা ঠিক করা।",
+      "Hazard সমাধান করা (fix) — controls দিয়ে risk পুরো দূর করা বা কমানো।",
+      "ফল যাচাই করা (evaluate) — control কাজ করছে কিনা আর নতুন problems তৈরি হলো কিনা দেখা।"
+    ],
+    "title": "Steps of the hazard management process",
+    "titleBn": "Hazard management process-এর ধাপ"
   },
   "mnemonic": {
     "explain_bn": "প্রশ্নপত্র এটাকে SAFE বলে, কিন্তু CBLM-এ SAFE শব্দ নেই। চারটি Step এই ক্রমে লিখুন।",
@@ -597,6 +1121,98 @@
       "text": "There are a number of ways to control risks. Some are better than others."
     }
   ],
+  "visual": {
+    "columns": [
+      "Control level",
+      "Example from the CBLM"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Level 1 (most effective)",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "The most effective solution would be to use a Level 1 control, and make the road into a pedestrian mall so the cars are eliminated altogether.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Make the road into a pedestrian mall, so the cars are eliminated altogether."
+        }
+      ],
+      [
+        "Level 2",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "building a pedestrian underpass is an example of a level 2 control",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "the pedestrians can evade the control by not using the underpass",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Build a pedestrian underpass. Pedestrians can evade it by not using the underpass."
+        }
+      ],
+      [
+        "Level 3",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "the traffic lights and crossing have been added to try to control the risk of injury to the pedestrians. These controls are level 3, as they are relying on the pedestrians and the drivers to do the right thing.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Traffic lights and crossing. They rely on pedestrians and drivers to do the right thing."
+        }
+      ],
+      [
+        "Level 2 and 3 together",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "using a sign to warn pedestrians of the dangers would be an example of a level 2 and 3 control working together",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Add a sign to warn pedestrians of the dangers."
+        }
+      ]
+    ],
+    "title": "Levels of hazard control: pedestrians crossing a road (p.30-31)",
+    "title_bn": "রাস্তা পারাপারের উদাহরণে control-এর level"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

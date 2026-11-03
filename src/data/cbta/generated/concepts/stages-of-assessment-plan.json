@@ -36,6 +36,68 @@
     "bn": "কম্পিউটার ট্রেনার আগে unit পড়েন, element বাছেন, প্রমাণ ঠিক করেন, তারপর plan লেখেন।",
     "en": "A computer trainer reads the unit \"Use personal computer skills\". She selects elements and lists the evidence needed. Then she writes the plan."
   },
+  "extra": [
+    {
+      "bn": "\"পড়ো, বাছো, খোঁজো, উপায় ঠিক করো, লেখো।\" Evidence requirement-এর ভেতরে ৪টা: PC, dimensions, underpinning skills-knowledge, critical aspects।",
+      "kind": "note",
+      "outline": [
+        "c11-p45-plan-stages"
+      ],
+      "text": "Memory chain: Read → Select → Identify evidence → Identify best ways → Document (R-S-I-I-D).",
+      "tone": "tip"
+    },
+    {
+      "bn": [
+        "কে, কী, কখন করবে লিখে দিলে কাজ ঝুলে থাকে না।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "Documenting your assessment plan is essential and will help you stay organised and on-track while working on the assessments, and later help you to remember",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Documenting the plan keeps you organised and on-track, and later helps you remember."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 46,
+              "printedPage": 46,
+              "quote": "It is important that you specify who does what when",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 46,
+              "printedPage": 46,
+              "quote": "If responsibility is clearly defined the tasks are much more likely to be completed",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Specify who does what when. If responsibility is clearly defined, tasks are more likely completed."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p45-documenting-plan"
+      ],
+      "title": "Documenting the plan"
+    }
+  ],
   "highlighted": true,
   "id": "stages-of-assessment-plan",
   "importance": {
@@ -145,7 +207,16 @@
         "fidelity": "verbatim",
         "text": "Document assessment/evidence plan"
       }
-    ]
+    ],
+    "itemsBn": [
+      "প্রথমে unit of competency পড়ে ভালো করে বোঝো, candidate-কে কী করতে পারতে হবে।",
+      "তারপর কোন element বা elements-এর assessment হবে, তা বেছে নাও।",
+      "এরপর evidence requirements ঠিক করো: performance criteria, dimensions, underpinning skills ও knowledge আর critical aspects।",
+      "Rules of Evidence দেখে evidence সংগ্রহের সবচেয়ে ভালো উপায় ঠিক করো।",
+      "শেষে পুরো assessment বা evidence plan লিখে document করো।"
+    ],
+    "title": "Stages in preparing an assessment plan",
+    "titleBn": "Assessment plan তৈরির ধাপ"
   },
   "mnemonic": {
     "explain_bn": "পাঁচটি ধাপের প্রথম শব্দ: Read, Select, Identify (evidence requirements), Identify (best ways), Document।",
@@ -447,6 +518,95 @@
       "text": "Identify best ways of collecting evidence: refer to Rules of Evidence."
     }
   ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "Read and understand the unit of competency",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Read and understand the unit of competency"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "Select an element or elements",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Select an element or elements"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "Identify evidence requirements o performance criteria o dimensions of competence o underpinning skills and knowledge o critical aspects of competence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Identify evidence requirements: performance criteria, dimensions, underpinning skills and knowledge, critical aspects."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "Identify best ways of collecting evidence- refer to Rules of Evidence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Identify best ways of collecting evidence: refer to Rules of Evidence."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "Document assessment/evidence plan",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Document assessment/evidence plan"
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "প্রথমে unit of competency পড়ে ভালো করে বোঝো, candidate-কে কী করতে পারতে হবে।",
+      "তারপর কোন element বা elements-এর assessment হবে, তা বেছে নাও।",
+      "এরপর evidence requirements ঠিক করো: performance criteria, dimensions, underpinning skills ও knowledge আর critical aspects।",
+      "Rules of Evidence দেখে evidence সংগ্রহের সবচেয়ে ভালো উপায় ঠিক করো।",
+      "শেষে পুরো assessment বা evidence plan লিখে document করো।"
+    ],
+    "title": "Five stages in preparing an assessment plan",
+    "title_bn": "Assessment plan তৈরির পাঁচ ধাপ"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

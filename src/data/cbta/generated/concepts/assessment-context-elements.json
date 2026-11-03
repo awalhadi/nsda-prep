@@ -22,7 +22,7 @@
     "Purpose দুজনের কাছেই পরিষ্কার থাকতে হবে, assessor আর assessee।"
   ],
   "breakdown": {
-    "exam": 0,
+    "exam": 2,
     "highlight": 2,
     "repeat": 1
   },
@@ -32,11 +32,248 @@
     "bn": "বেকারি assessment-এর আগে oven, ময়দা আর ভেন্যু ঠিক আছে কি না দেখা হয়।",
     "en": "Before a bakery assessment, the assessor checks the oven, flour and venue. He tells candidates it is for certification."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "The context of assessment is the environment or setting in which the assessment activity takes place",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "It is the environment or setting in which the assessment activity takes place."
+      },
+      "concept": "assessment-context-elements",
+      "example": {
+        "bn": "কোথায়, কোন পরিবেশে assessment হবে, সেটাই context।",
+        "en": "A BTEB assessment in a quiet, equipped computer lab of a TTC."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p8-context-of-assessment"
+      ],
+      "q": "What do you understand by context of assessment?",
+      "q_bn": "Context of assessment বলতে কী বোঝো?",
+      "tip": "Context = Place + Tools + Materials + Purpose.",
+      "tip_bn": "Context মানে জায়গা, যন্ত্রপাতি, materials আর উদ্দেশ্য: চারটা।"
+    },
+    {
+      "bn": [
+        "Assessment শুরুর আগেই পরিবেশ তৈরি রাখতে হবে, না হলে মাঝপথে সমস্যা হবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "The environment should be prepared and established prior to the assessment as this will ensure that the assessment process will take place as expected",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Prepare and establish the environment before assessment. Then the process runs as expected."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p8-context-of-assessment"
+      ]
+    },
+    {
+      "columns": [
+        "Part",
+        "What the CBLM says",
+        "Example (study aid)"
+      ],
+      "kind": "table",
+      "outline": [
+        "c11-p8-context-includes"
+      ],
+      "rows": [
+        [
+          "1. Physical setting",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "This may be the workplace, an assessment center, community project or online set-up",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "A venue for assessment should be made accessible to the candidates",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "has the right equipment is quiet enough to assess the candidates",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Workplace, assessment center, community project or online set-up. The venue is accessible, quiet and equipped."
+          },
+          "A quiet workshop near the bus stop."
+        ],
+        [
+          "2. Tools, equipment and facilities",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "ensure that the tools, equipment and facilities are ready and available before the assessment start",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "The checklist of tools, equipment and facilities (in the Competency Assessment Plan) will help the assessor to monitor their availability",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Ready and available before the assessment starts. The checklist in the Competency Assessment Plan helps monitor them."
+          },
+          "Check every multimeter works the day before."
+        ],
+        [
+          "3. Materials",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "The candidate must have access to perishable and consumable materials required during the assessment",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "Determine the materials to be supplied by the candidate ahead of time",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "all documents pertinent to the assessment are ready and available prior to the assessment",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Candidates access perishable and consumable materials. Decide early what candidates supply. All documents are ready."
+          },
+          "Flour and yeast for a bakery test."
+        ],
+        [
+          "4. Purpose of assessment",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "The purpose of the assessment must be clear to both the assessor and the assessee",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "if the assessment is for certification, licensing, OSH or skills audit",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Clear to both assessor and assessee: certification, licensing, OSH or skills audit."
+          },
+          "Tell the candidate it is for a National Certificate."
+        ]
+      ],
+      "title": "The context of assessment includes",
+      "title_bn": "Context of assessment-এ যা থাকে (৪টি)"
+    },
+    {
+      "bn": "Exam-এ \"should be prepared\" লেখো; information sheet-এর শব্দটাই বেশি শক্ত।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "The environment should be prepared and established prior to",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "The environment may be prepared and established prior to",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "p.8: the environment should be prepared. p.26: the environment may be prepared."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c11-p8-context-of-assessment"
+      ],
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "assessment-context-elements",
   "importance": {
-    "bn": "CBLM 11-এ highlight করা আছে।",
-    "en": "Highlighted in CBLM 11."
+    "bn": "CBLM 11 Self Check 1 (Q4)-এ এসেছে। CBLM 11-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "en": "Asked in CBLM 11 Self Check 1 (Q4). Highlighted in CBLM 11. Comes as short question."
   },
   "keywords": [
     {
@@ -60,7 +297,9 @@
       "en": "Purpose"
     }
   ],
-  "likelyTypes": [],
+  "likelyTypes": [
+    "short"
+  ],
   "listAnswer": {
     "declaredCount": null,
     "items": [
@@ -133,7 +372,15 @@
         "fidelity": "paraphrase",
         "text": "Purpose of assessment: clear to both the assessor and the assessee."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Assessment কোথায় হবে — workplace, assessment center, community project নাকি online; জায়গাটা আগেই ঠিক করতে হয়।",
+      "কাজে লাগবে এমন tools, equipment আর facilities assessment শুরুর আগেই ready ও হাতের কাছে রাখতে হয়।",
+      "যে perishable আর consumable materials লাগবে, candidate-এর হাতে তা থাকতে হবে, না হলে সে কাজ দেখাতে পারবে না।",
+      "কেন assessment হচ্ছে, তা assessor আর assessee দুজনের কাছেই পরিষ্কার থাকতে হবে, যাতে দুজনের প্রত্যাশা এক থাকে।"
+    ],
+    "title": "What the context of assessment includes",
+    "titleBn": "Context of assessment-এ যা যা থাকে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -279,6 +526,36 @@
               "match": "exact",
               "page": 8,
               "printedPage": 8,
+              "quote": "The context of assessment is the environment or setting in which the assessment activity takes place",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Context of assessment is the environment or setting of the assessment activity."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "The environment should be prepared and established prior to the assessment as this will ensure that the assessment process will take place as expected",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Prepare and establish the environment before the assessment, so it goes as expected."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
               "quote": "ensure that the assessment site is conducive for assessment i.e. has the right equipment is quiet enough to assess the candidates.",
               "sourceTitle": "Design and Develop Competency Based Assessment",
               "src": "cblm11"
@@ -318,8 +595,8 @@
           "text": "Be clear if the assessment is for certification, licensing, OSH or skills audit."
         }
       ],
-      "modelAnswer": "The context of assessment is the setting where assessment takes place. It includes:\n1. Physical setting: workplace, assessment center, community project or online set-up.\n2. Tools, equipment and facilities, ready before the assessment.\n3. Materials: perishable and consumable materials for the candidate.\n4. Purpose of assessment: clear to both assessor and assessee.",
-      "prompt": "What does the context of assessment include?"
+      "modelAnswer": "The context of assessment is the environment or setting in which the assessment activity takes place. Prepare it before the assessment so the process goes as expected. It includes:\n1. Physical setting: workplace, assessment center, community project or online set-up.\n2. Tools, equipment and facilities, ready before the assessment.\n3. Materials: perishable and consumable materials for the candidate.\n4. Purpose of assessment: clear to both assessor and assessee.",
+      "prompt": "What do you understand by context of assessment?"
     },
     "viva": {
       "answer": {
@@ -340,8 +617,21 @@
       "prompt": "Who must ensure tools and equipment are ready before assessment?"
     }
   },
-  "realQuestions": [],
-  "score": 3,
+  "realQuestions": [
+    {
+      "answer": "The context of assessment is the environment or setting in which the assessment\nactivity takes place. The environment may be prepared and established prior to\nthe assessment as this will ensure that the assessment process will take place as\nexpected.",
+      "flags": [],
+      "id": "cblm11-sc1-q4",
+      "kind": "selfcheck",
+      "label": "CBLM 11 Self Check 1 (Q4)",
+      "page": 25,
+      "printedPage": 25,
+      "question": "What do you understand by context of assessment",
+      "src": "cblm11",
+      "type": "short"
+    }
+  ],
+  "score": 5,
   "sourceType": "cblm",
   "stars": 2,
   "status": "draft",
@@ -379,6 +669,7 @@
       "text": "The purpose must be clear to both the assessor and the assessee, not only one."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

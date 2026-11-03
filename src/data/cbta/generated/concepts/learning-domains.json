@@ -33,6 +33,34 @@
     "bn": "রান্নার ট্রেনিং-এ রেসিপি জানা, পরিচ্ছন্নতার মনোভাব আর ছুরি চালানোর দক্ষতা: তিনটা domain।",
     "en": "A food trainer teaches recipe steps (cognitive), cleanliness attitude (affective) and knife skills (psychomotor)."
   },
+  "extra": [
+    {
+      "bn": [
+        "তিন domain = তিন H: head (cognitive), heart (affective), hands (psychomotor)।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "The cognitive domain involves knowledge and the development of intellectual skills.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The cognitive domain involves knowledge and the development of intellectual skills."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p33-learning-domains"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "learning-domains",
   "importance": {
@@ -134,7 +162,14 @@
         "fidelity": "paraphrase",
         "text": "Psychomotor: physical movement, coordination and motor skills; needs practice."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Cognitive — মনের দক্ষতা বা knowledge; facts, procedural patterns আর concepts মনে রাখা ও চিনতে পারা।",
+      "Affective — অনুভূতির দিক বা attitude; feelings, values, appreciation, motivations আর attitudes এর মধ্যে পড়ে।",
+      "Psychomotor — হাতে-কলমে শারীরিক দক্ষতা বা skills; physical movement, coordination আর motor skills, যা practice ছাড়া গড়ে ওঠে না।"
+    ],
+    "title": "Domains of learning",
+    "titleBn": "শেখার ক্ষেত্র (learning domains)"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -360,6 +395,135 @@
       "text": "The affective domain is how we deal with things emotionally."
     }
   ],
+  "visual": {
+    "columns": [
+      "Domain",
+      "Simple name",
+      "What it includes"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Cognitive",
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "mental skills (Knowledge)",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "mental skills (Knowledge)"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "This includes the recall or recognition of specific facts, procedural patterns, and",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "concepts",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Recall or recognition of specific facts, procedural patterns and concepts."
+        }
+      ],
+      [
+        "Affective",
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "growth in feelings or emotional areas (Attitude)",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "growth in feelings or emotional areas (Attitude)"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "such as feelings, values, appreciation, enthusiasms, motivations, and attitudes.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Feelings, values, appreciation, enthusiasms, motivations and attitudes."
+        }
+      ],
+      [
+        "Psychomotor",
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "manual or physical skills (Skills)",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "manual or physical skills (Skills)"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "The psychomotor domain includes physical movement, coordination, and use of the",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "motor-skill areas.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Physical movement, coordination and use of the motor-skill areas."
+        }
+      ]
+    ],
+    "title": "Three learning domains",
+    "title_bn": "তিনটি learning domain"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

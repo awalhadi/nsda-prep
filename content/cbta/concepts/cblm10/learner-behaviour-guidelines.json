@@ -57,6 +57,8 @@
     "bn": "প্রথম দিনেই ground rules ঠিক করা: সময়মতো আসা, সম্মান করা, workshop-এ ধূমপান নয়।"
   },
   "list_answer": {
+    "title": "Reasons for establishing guidelines for learner behaviour",
+    "title_bn": "Learner behaviour-এর guidelines কেন তৈরি করতে হয়",
     "items": [
       {
         "text": "to ensure that the learners know what is expected of them",
@@ -130,6 +132,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "যাতে learners পরিষ্কার জানে তাদের কাছ থেকে কী আশা করা হয়।",
+      "যাতে প্রশিক্ষক নিজেও জানেন কোন সীমার (parameters) মধ্যে কাজ করবেন।",
+      "যাতে ক্লাসে পারস্পরিক trust-এর পরিবেশ গড়ে ওঠে।",
+      "যাতে learners learning outcome অর্জনের সর্বোচ্চ সুযোগ পায়।",
+      "Learners-কে ক্ষমতা দিতে (empower) — harassment ও discrimination মুক্ত পরিবেশ পাওয়া তাদের অধিকার।",
+      "যাতে সব learner সমান সুযোগ (equality of opportunities) পায়।"
     ]
   },
   "traps": [
@@ -172,6 +182,56 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "Serious behaviour such as threats or harassment: what to do",
+    "title_bn": "হুমকি বা হয়রানির মতো গুরুতর আচরণে করণীয়",
+    "items": [
+      {
+        "text": "act calmly and quickly",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 51,
+            "quote": "act calmly and quickly"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "ask the learner to stop the behaviour and explain why",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 51,
+            "quote": "ask the learner to stop the behaviour and explain why"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "If it doesn't stop, send the others on a break and see your supervisor.",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 51,
+            "quote": "if the behaviour doesn't stop, send the other learners"
+          },
+          {
+            "src": "cblm10",
+            "page": 51,
+            "quote": "on a break and see your supervisor, or a senior staff"
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    ],
+    "labels_bn": [
+      "শান্ত থাকুন, কিন্তু দ্রুত ব্যবস্থা নিন।",
+      "Learner-কে আচরণ থামাতে বলুন, কেন থামাতে হবে বুঝিয়ে বলুন।",
+      "তবুও না থামলে অন্যদের break-এ পাঠান, supervisor বা senior staff-এর কাছে যান; কখনো ignore করবেন না।"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Why should you establish guidelines for learner behaviour? Give a sample set of ground rules.",

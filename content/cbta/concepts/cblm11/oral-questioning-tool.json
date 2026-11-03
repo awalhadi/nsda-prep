@@ -79,6 +79,8 @@
     "bn": "মেশিন হঠাৎ নষ্ট হলে কী করবেন? এটাই contingency question।"
   },
   "list_answer": {
+    "title": "When oral questioning is prepared",
+    "title_bn": "কখন oral questioning তৈরি করা হয়",
     "items": [
       {
         "text": "Observation cannot be used",
@@ -124,6 +126,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "যে কাজ চোখে দেখে যাচাই করা যায় না, সেখানে প্রশ্ন করে প্রমাণ নেওয়া হয়।",
+      "Observation-এ যা দেখা গেছে তা ঠিক কি না, প্রশ্ন করে নিশ্চিত হওয়া যায়।",
+      "কাজের পেছনের underpinning knowledge candidate জানে কি না, প্রশ্ন করে যাচাই করা হয়।",
+      "হঠাৎ সমস্যা হলে candidate কী করবে — এমন contingency skills আর problem solution প্রশ্ন দিয়ে দেখা হয়।"
     ]
   },
   "traps": [
@@ -155,6 +163,176 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Six types of oral questions (p.66)",
+    "title_bn": "ছয় ধরনের oral question",
+    "columns": [
+      "Question type",
+      "Example wording"
+    ],
+    "rows": [
+      [
+        "Extension questions",
+        {
+          "text": "What would you do if ...? (a similar but different situation) What if you were using ... instead of ...?",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What would you do if ... ? (a similar but different situation)"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What if you were using ... instead of ... ? (alternative equipment/procedures"
+            }
+          ]
+        }
+      ],
+      [
+        "Contingency questions",
+        {
+          "text": "What would you do in the event of ...? (accident or emergency) What would you do if ...? (equipment broke down) What would you do if ...? (complaint or conflict) How do you avoid ...? (preventative safety measure)",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What would you do in the event of ...? (accident or emergency)"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What would you do if ... ? (equipment broke down or something malfunctioned)"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What would you do if ... (complaint was made or conflict occurred)"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "How do you avoid ... ? (preventative safety measure) Safety questions"
+            }
+          ]
+        }
+      ],
+      [
+        "Safety questions",
+        {
+          "text": "What precautions must you take when ...? What safety equipment and clothing should you use when ...? Why shouldn't you ...? What would you do if ...? (dangerous situation) How do you avoid ...?",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What precautions must you take when ... ?"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What safety equipment and clothing should you use when ... ?"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "Why shouldn't you ... ? (procedure or activity that is not permitted)"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What would you do if ... ? (dangerous situation)"
+            }
+          ]
+        }
+      ],
+      [
+        "Questions on infrequent activities",
+        {
+          "text": "What would you do if ...? (rarely occurring but critical situation) If ... happened, what action would you take?",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What would you do if ...? (rarely occurring but critical situation)"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "If ... happened, what action would you take?"
+            }
+          ]
+        }
+      ],
+      [
+        "Questions on regulations and procedures",
+        {
+          "text": "What are the regulations in respect of ...? What are the specified procedures or steps to ...? What checks does the manufacturer require to ...? What regulation covers ...? What organisational regulations apply when ... happens?",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What are the regulations in respect of ... ?"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What are the specified procedures or steps to ... ?"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What checks are required by the manufacturer to ... ?"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What is the regulation that covers ... ? (situation or activity)"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What are the organisational regulations that apply when ... happens?"
+            }
+          ]
+        }
+      ],
+      [
+        "Reflective questions",
+        {
+          "text": "If you had to show a fellow worker how to do ..., what would you do? If you were doing this task again what would you do? What is one tip for a fellow worker? How could you improve your performance of this task?",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "If you had to show a fellow worker how to do ......... what would you do?"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "If you were doing this task again what would you do?"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "What is one tip you could give a fellow worker about doing this task?"
+            },
+            {
+              "src": "cblm11",
+              "page": 66,
+              "quote": "How could you improve the way in which you performed this task?"
+            }
+          ]
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Give an example of a contingency question.",

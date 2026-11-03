@@ -69,6 +69,8 @@
     "bn": "Workbench নিচু করে দেওয়া একটি reasonable adjustment।"
   },
   "list_answer": {
+    "title": "Strategies to include persons with disability (PWDs) in the class",
+    "title_bn": "ক্লাসে PWD-দের অন্তর্ভুক্ত করার কৌশল",
     "items": [
       {
         "text": "Keep focus on what a PWD can do; treat them normally.",
@@ -146,6 +148,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "PWD কী পারে না তা নয়, কী পারে সেদিকে সবসময় নজর রাখুন, আর তাকে অন্য সবার মতোই স্বাভাবিকভাবে দেখুন।",
+      "PWD-দের strengths, মানে যা তারা ভালো পারে, খুঁজে বের করে শেখানোর কাজে লাগান।",
+      "PWD বলে প্রত্যাশা কমিয়ে দেবেন না; তাদের কাছেও expectations উঁচু রাখুন।",
+      "অন্য শিক্ষার্থীরা PWD-কে নিয়ে rude remarks, খারাপ নামে ডাকা (name calling) বা teasing করলে কখনো মেনে নেবেন না।",
+      "মাঝে মাঝে তাদের appearance-এর প্রশংসা করুন, যাতে তারা উৎসাহ পায়।",
+      "যেখানে সম্ভব reasonable adjustments ও accommodations করুন, যাতে PWD-রাও ক্লাসের কাজে participate করতে পারে।"
     ]
   },
   "traps": [
@@ -173,6 +183,60 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Roles and forms of addressing PWD issues (p.10)",
+    "title_bn": "PWD issues মোকাবিলার উপায়",
+    "columns": [
+      "Area",
+      "What must be in place"
+    ],
+    "rows": [
+      [
+        "Services",
+        {
+          "text": "Services needed by the student are available, e.g. health, physical, occupational or speech therapy.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 10,
+              "quote": "Services needed by the student are available (e.g., health, physical,"
+            },
+            {
+              "src": "cblm09",
+              "page": 10,
+              "quote": "occupational, or speech therapy)."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Physical plant and equipment",
+        {
+          "text": "Accommodations to the physical plant and equipment meet the student's needs, e.g. assistive devices.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 10,
+              "quote": "Accommodations to the physical plant and equipment are adequate to"
+            },
+            {
+              "src": "cblm09",
+              "page": 10,
+              "quote": "meet the student's needs (e.g., toys, building and playground facilities,"
+            },
+            {
+              "src": "cblm09",
+              "page": 10,
+              "quote": "learning materials, assistive devices)."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "How can a trainer include persons with disability (PWDs) in the class?",

@@ -50,6 +50,501 @@
     "bn": "IT ট্রেনিং সেন্টারে assessor observation checklist হাতে নিয়ে trainee-র প্রতিটি ধাপে টিক দেন।",
     "en": "In an IT training centre, the assessor uses an observation checklist. He ticks each step as the trainee installs software."
   },
+  "extra": [
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Multiple observations of the candidate by the assessor carrying out work activities",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Multiple observations of the candidate by the assessor carrying out work activities"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Demonstration of specific skills needed to complete the task • Assessment of technical",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Demonstration of specific skills needed to complete the task"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Assessment of technical qualities of finished product",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Assessment of technical qualities of finished product"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Assessment of technical qualities of finished product • Written test of underpinning knowledge",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Written test of underpinning knowledge"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Oral questioning of candidate",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Oral questioning of candidate"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "References from previous employer",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "References from previous employer"
+        }
+      ],
+      "items_bn": [
+        "Candidate কাজ করার সময় assessor একাধিকবার observe করেন, যাতে একবারের দেখায় সিদ্ধান্ত না হয়।",
+        "কাজ শেষ করতে যে নির্দিষ্ট skills লাগে, candidate তা করে দেখায় (demonstration)।",
+        "তৈরি হওয়া finished product-এর technical মান যাচাই করা হয়।",
+        "লিখিত test দিয়ে কাজের পেছনের underpinning knowledge যাচাই করা হয়।",
+        "Candidate-কে মুখে প্রশ্ন করে জ্ঞান ও বোঝাপড়া যাচাই করা হয়।",
+        "আগের employer-এর দেওয়া references — candidate-এর কাজ সম্পর্কে অন্যের মতামত।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c12-p17-methods-gathering"
+      ],
+      "title": "Methods of gathering evidence",
+      "title_bn": "Evidence সংগ্রহের ছয়টি পদ্ধতি"
+    },
+    {
+      "bn": "Key-তে ৫টি, info sheet-এ ৬টি (Portfolio সহ)। ছয়টিই শিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Answer 7 The following are examples of evidence gathering tools",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Observation checklist",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Third party report",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Demonstration",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Work related project",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Questioning",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Answer 7 lists: observation checklist, third party report, demonstration, work related project, questioning."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c12-p17-evidence-tools"
+      ],
+      "text": "Self Check Q7 asks for five tools, and the key (p.38) gives five. The info sheet (p.17) lists six, adding Portfolio. Learn all six; write any five.",
+      "tone": "caution"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Help candidate understand what is expected",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Help candidate understand what is expected"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Focus for the assessor in evidence gathering",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Focus for the assessor in evidence gathering"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Record assessment outcome • Identify",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Record assessment outcome"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Identify what action is needed to address skill and knowledge gaps",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Identify what action is needed to address skill and knowledge gaps"
+        }
+      ],
+      "items_bn": [
+        "Tool দেখে candidate বোঝে তার কাছে কী আশা করা হচ্ছে।",
+        "Evidence সংগ্রহের সময় assessor-এর focus ঠিক থাকে, কিছু বাদ পড়ে না।",
+        "Assessment-এর outcome লিখে রাখা (record) যায়।",
+        "Skill ও knowledge-এর ঘাটতি (gaps) পূরণে কী করতে হবে, তা চিহ্নিত করা যায়।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c12-p18-purpose-tools"
+      ],
+      "title": "Purposes of evidence gathering tools",
+      "title_bn": "Tool কেন ব্যবহার করি"
+    },
+    {
+      "columns": [
+        "Tool",
+        "How to use it"
+      ],
+      "kind": "table",
+      "outline": [
+        "c12-p18-documenting-evidence",
+        "c12-p18-written-test",
+        "c12-p18-observations"
+      ],
+      "rows": [
+        [
+          "1. Written test",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Conduct the test in a suitable environment without too much distraction",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Conduct the test in a suitable environment without too much distraction"
+          }
+        ],
+        [
+          "2. Observations",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "you are forced to make a",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              },
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "decision based on what you have observed.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              },
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Weigh the evidence and take time to",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              },
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "make an informed decision.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "You decide on what you have observed. Weigh the evidence and take time to make an informed decision."
+          }
+        ],
+        [
+          "Questioning",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Skilful questioning invites discussion.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Skilful questioning invites discussion."
+          }
+        ]
+      ],
+      "title": "Documenting evidence using assessment tools (p.18)",
+      "title_bn": "Tool দিয়ে evidence লিখে রাখা"
+    },
+    {
+      "columns": [
+        "#",
+        "Questioning technique"
+      ],
+      "kind": "table",
+      "outline": [
+        "c12-p18-questioning"
+      ],
+      "rows": [
+        [
+          "1",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Involve the candidate as much as possible and encourage him/her to participate in the discussion.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Involve the candidate as much as possible and encourage him/her to participate in the discussion."
+          }
+        ],
+        [
+          "2",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Avoid ambiguous and unclear questions that may make the candidate feel unsure or confused.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Avoid ambiguous and unclear questions that may make the candidate feel unsure or confused."
+          }
+        ],
+        [
+          "3",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Avoid leading questions that may influence the candidate's response and make the assessment invalid.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Avoid leading questions that may influence the candidate's response and make the assessment invalid."
+          }
+        ],
+        [
+          "4",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Plan the structure and order of questions before the assessment",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Plan the structure and order of questions before the assessment"
+          }
+        ],
+        [
+          "5",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Use follow-up questions to identify the range and depth of experience of the candidate",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Use follow-up questions to identify the range and depth of experience of the candidate"
+          }
+        ],
+        [
+          "6",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Ask the right questions. The way you phrase and ask a question can determine",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              },
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "the quality of the information you get",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Ask the right questions. Your phrasing can determine the quality of the information you get."
+          }
+        ]
+      ],
+      "title": "Techniques to observe when questioning a candidate (p.18)",
+      "title_bn": "প্রশ্ন করার ছয়টি কৌশল"
+    },
+    {
+      "bn": [
+        "Leading question করলে candidate-এর উত্তর প্রভাবিত হয়, তখন assessment invalid হয়ে যায়।",
+        "প্রশ্নের structure ও order আগে থেকে plan করুন; follow-up প্রশ্নে অভিজ্ঞতার গভীরতা বোঝা যায়।"
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p18-questioning"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "evidence-gathering",
   "importance": {
@@ -180,7 +675,17 @@
         "fidelity": "verbatim",
         "text": "Portfolio"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Observation checklist — কাজ দেখার সময় কী কী দেখতে হবে তার তালিকা; এতে assessor-এর focus ঠিক থাকে।",
+      "Third party report — candidate-এর কাজ দেখেছেন এমন অন্য কারো লিখিত report।",
+      "Demonstration — candidate assessor-এর সামনে কাজটা করে দেখায়।",
+      "Work related project — কাজের সাথে সম্পর্কিত একটা project করে candidate দক্ষতার প্রমাণ দেয়।",
+      "Questioning — প্রশ্ন করে জ্ঞান যাচাই; তবে leading questions দেবেন না, এতে assessment invalid হতে পারে।",
+      "Portfolio — candidate-এর জমা করা evidence-এর সংগ্রহ, যা assessor যাচাই করেন।"
+    ],
+    "title": "Evidence gathering tools",
+    "titleBn": "Evidence সংগ্রহের tools"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -452,6 +957,21 @@
           ],
           "fidelity": "paraphrase",
           "text": "In observation, weigh the evidence and take time to make an informed decision."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Skilful questioning invites discussion.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Skilful questioning invites discussion."
         }
       ],
       "modelAnswer": "Evidence gathering tools help the assessor collect and record evidence. Five examples are:\n1. Observation checklist\n2. Third party report\n3. Demonstration\n4. Work related project\n5. Questioning\nPortfolio is a sixth example in the CBLM.",
@@ -592,6 +1112,134 @@
       "text": "Avoid leading questions. They may make the assessment invalid."
     }
   ],
+  "visual": {
+    "columns": [
+      "#",
+      "Questioning technique"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "1",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Involve the candidate as much as possible and encourage him/her to participate in the discussion.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Involve the candidate as much as possible and encourage him/her to participate in the discussion."
+        }
+      ],
+      [
+        "2",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Avoid ambiguous and unclear questions that may make the candidate feel unsure or confused.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Avoid ambiguous and unclear questions that may make the candidate feel unsure or confused."
+        }
+      ],
+      [
+        "3",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Avoid leading questions that may influence the candidate's response and make the assessment invalid.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Avoid leading questions that may influence the candidate's response and make the assessment invalid."
+        }
+      ],
+      [
+        "4",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Plan the structure and order of questions before the assessment",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Plan the structure and order of questions before the assessment"
+        }
+      ],
+      [
+        "5",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Use follow-up questions to identify the range and depth of experience of the candidate",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Use follow-up questions to identify the range and depth of experience of the candidate"
+        }
+      ],
+      [
+        "6",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Ask the right questions. The way you phrase and ask a question can determine",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "the quality of the information you get",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Ask the right questions. Your phrasing can determine the quality of the information you get."
+        }
+      ]
+    ],
+    "title": "Techniques to observe when questioning a candidate (p.18)",
+    "title_bn": "প্রশ্ন করার ছয়টি কৌশল"
+  },
   "vivaDerived": true,
   "warnings": 1
 }

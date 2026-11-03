@@ -57,6 +57,8 @@
     "bn": "IT সেন্টারে typing software-এ প্রত্যেকে নিজের গতিতে শেখে, ভুল সাথে সাথে দেখে।"
   },
   "list_answer": {
+    "title": "Advantages of computer based learning",
+    "title_bn": "Computer based learning-এর সুবিধা",
     "items": [
       {
         "text": "Individualised learning: learners control rate and sequence, and get immediate feedback.",
@@ -133,6 +135,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Individualised learning — learner নিজেই শেখার গতি (rate) আর ক্রম (sequence) ঠিক করে, আর সাথে সাথে feedback পায়।",
+      "খুব বড় তথ্যভাণ্ডারে (store of information) সহজে প্রবেশ করা যায়।",
+      "উন্নত মানের interactive packages নানা ধরনের media একসাথে মিলিয়ে শেখায়।",
+      "Training নমনীয়ভাবে (flexible delivery) দেওয়া যায়, তাই দূরে থেকে শেখার (distance learning) জন্য আদর্শ।",
+      "যুক্তি দিয়ে ভাবতে (logical thinking) উৎসাহ দেয়।"
     ]
   },
   "traps": [
@@ -174,6 +183,125 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Computer based learning: advantages vs limitations",
+    "title_bn": "Computer based learning: সুবিধা বনাম সীমাবদ্ধতা",
+    "left": {
+      "title": "Advantages",
+      "title_bn": "সুবিধা",
+      "points": [
+        {
+          "text": "Individualised learning with immediate feedback.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "individualised learning-the learner can"
+            },
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "get immediate feedback;"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Flexible delivery, ideal for distance learning.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "flexible delivery of training-ideal for a"
+            },
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "dispersed workforce and distance learning;"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "encouragement of logical thinking.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "encouragement of logical thinking."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "right": {
+      "title": "Limitations",
+      "title_bn": "সীমাবদ্ধতা",
+      "points": [
+        {
+          "text": "Designing material is complex, labour intensive and expensive. Quality software is lacking.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "designing instructional material is very complex, labour intensive and"
+            },
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "expensive and there is a lack of high quality software"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Computers don't train affective, motor and interpersonal skills effectively.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "a limited range of skills can be taught by computers-they don't train"
+            },
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "effectively in the affective, motor and interpersonal skills;"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Small companies rarely afford own software; products often don't meet individual needs.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "small companies can rarely afford to develop their own software and the"
+            },
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "prepared products often don't meet individual needs;"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "interaction with a computer is a solitary activity.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 18,
+              "quote": "interaction with a computer is a solitary activity."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What are the advantages and limitations of computer based learning?",

@@ -71,6 +71,8 @@
     "bn": "একই মেশিনের lubrication আর electrical check-এর আলাদা schedule ও work order।"
   },
   "list_answer": {
+    "title": "Minimum information to establish an equipment record in a periodic maintenance system",
+    "title_bn": "Periodic maintenance-এ যন্ত্রের record খুলতে ন্যূনতম যে তথ্য লাগে",
     "items": [
       {
         "text": "An identification number of the piece of equipment (What).",
@@ -121,6 +123,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "যন্ত্রের identification number — কোন যন্ত্র (What), তা আলাদা করে চেনার জন্য।",
+      "Maintenance কাজটা কোথায় করতে হবে (Where), মানে যন্ত্রের অবস্থান।",
+      "কী কী কাজ করতে হবে আর কত পরপর (why, when, how) — এটাই schedule-এর ভিত্তি।",
+      "কাজটা করতে কোন craft skill লাগবে, মানে কে করবে (Who)।"
     ]
   },
   "traps": [
@@ -179,6 +187,73 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Minimal information to establish a record (p.27)",
+    "title_bn": "Record খোলার ন্যূনতম তথ্য",
+    "columns": [
+      "Question",
+      "Record item"
+    ],
+    "rows": [
+      [
+        "What?",
+        {
+          "text": "An identification number of the piece of equipment.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "An identification number of the piece of equipment. (What)."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Where?",
+        {
+          "text": "The location of the maintenance work.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "The location of the maintenance work (Where)."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Why, when, how?",
+        {
+          "text": "What operations are to be performed and how often.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "A determination of what operations are to be performed and how often ( why,"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Who?",
+        {
+          "text": "What craft skill is required to perform the operation.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "A judgment as to what craft skill is required to perform the operation (Who.)"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What is periodic maintenance?",

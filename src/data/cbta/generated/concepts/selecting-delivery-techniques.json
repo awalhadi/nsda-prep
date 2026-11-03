@@ -33,6 +33,79 @@
     "bn": "Brainstorming-এ whole group, আর সংবেদনশীল বিষয়ে আগে pairs-এ আলোচনা।",
     "en": "For a brainstorming task on workshop safety, the trainer uses the whole group. For a sensitive topic, he uses pairs first."
   },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 48,
+              "printedPage": 48,
+              "quote": "Is the technique suited to your session outcomes?",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is the technique suited to your session outcomes?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 48,
+              "printedPage": 48,
+              "quote": "The activity must relate to the session learning outcomes",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The activity must relate to the session learning outcomes"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 48,
+              "printedPage": 48,
+              "quote": "involve the whole",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 48,
+              "printedPage": 48,
+              "quote": "group so that as many ideas as possible emerge.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 48,
+              "printedPage": 48,
+              "quote": "working in pairs or individually would be one way",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Use the whole group for many ideas; pairs or individuals before the larger group."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p48-selecting-techniques"
+      ]
+    }
+  ],
   "highlighted": false,
   "id": "selecting-delivery-techniques",
   "importance": {
@@ -127,7 +200,15 @@
         "fidelity": "verbatim",
         "text": "Can your learners use the technique?"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Technique-টি session outcomes-এর সাথে মানানসই কিনা — এটাই প্রথম বিচার।",
+      "এই activity দিয়ে আপনি ঠিক কী অর্জন করতে চান, তা আগে পরিষ্কার করুন।",
+      "আপনি নিজে কোন technique ভালো পারেন, তা ভাবুন।",
+      "Learners কি এই technique-টি ব্যবহার করতে পারবে, তাদের সামর্থ্যও বিবেচনা করুন।"
+    ],
+    "title": "Questions to ask when selecting a delivery technique",
+    "titleBn": "Delivery technique বাছাইয়ের সময় যে প্রশ্নগুলো করতে হয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -338,7 +419,7 @@
   ],
   "score": 3,
   "sourceType": "cblm",
-  "stars": 1,
+  "stars": 2,
   "status": "draft",
   "title": "Selecting Appropriate Delivery Techniques",
   "traps": [
@@ -382,6 +463,7 @@
       "text": "The number of people affects the outcome and the percentage who contribute."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

@@ -1,0 +1,556 @@
+{
+  "aliases": [
+    "Maintenance program",
+    "Maintenance schedule",
+    "Difference between maintenance program and maintenance schedule"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 37,
+          "printed": 37
+        },
+        {
+          "pdf": 38,
+          "printed": 38
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "Maintenance Program হলো বড় ছবি: কী কী maintenance হবে, কত লোক লাগবে, কোন পদ্ধতি, কী materials আর কত খরচ।",
+    "Maintenance Schedule হলো তার একটা অংশ: কোন area, equipment বা tools-এর কোন maintenance কোন নির্দিষ্ট সময়ে হবে।",
+    "Program বানানোর সময় Quality Management cycle মেনে চলা ভালো।",
+    "পরীক্ষায় পার্থক্য চাইলে লিখুন: Program = comprehensive list; Schedule = specific period-এ ভাগ করা তালিকা, program-এর অংশ।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "TTC-র program-এ কাজ, লোক, পদ্ধতি, সরঞ্জাম, খরচ সব থাকে; schedule শুধু বলে কোন দিন কী কাজ।",
+    "en": "A TTC program lists PC cleaning, IT staff, methods, supplies and cost. The schedule marks cleaning days."
+  },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Maintenance Program is a comprehensive list of maintenance and its incidence.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Maintenance Program is a comprehensive list of maintenance and its incidence."
+      },
+      "kind": "qa",
+      "outline": [
+        "c06-p37-maintenance-program"
+      ],
+      "q": "What is a maintenance program?",
+      "q_bn": "Maintenance program কী?",
+      "tip": "Then list its five contents: activities, manpower, methods, materials and supplies, costs.",
+      "tip_bn": "তারপর পাঁচটি অংশ লিখুন: কাজ, লোকবল, পদ্ধতি, মালামাল, খরচ।"
+    }
+  ],
+  "highlighted": false,
+  "id": "maintenance-program-schedule",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "রক্ষণাবেক্ষণের পূর্ণাঙ্গ পরিকল্পনা ও তালিকা",
+      "en": "Maintenance Program"
+    },
+    {
+      "bn": "কোন maintenance কোন সময়ে হবে তার তালিকা",
+      "en": "Maintenance Schedule"
+    },
+    {
+      "bn": "কতবার বা কখন ঘটে",
+      "en": "Incidence"
+    },
+    {
+      "bn": "কাজের লোকবল",
+      "en": "Manpower"
+    },
+    {
+      "bn": "নির্দিষ্ট সময়কাল",
+      "en": "Specific period"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "all the maintenance activities to be undertaken",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "All the maintenance activities to be undertaken."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "manpower needed, maintenance",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Manpower needed."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "maintenance methods to be used",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Maintenance methods to be used."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "all the materials and supplies needed for the maintenance",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "All the materials and supplies needed for the maintenance."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "the costs involved in the maintenance.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The costs involved in the maintenance."
+      }
+    ],
+    "itemsBn": [
+      "যে সব maintenance কাজ করা হবে, তার পুরো তালিকা।",
+      "কাজটা করতে কত লোক (manpower) লাগবে।",
+      "কোন maintenance পদ্ধতি (methods) ব্যবহার হবে।",
+      "Maintenance-এর জন্য দরকারি সব materials আর supplies।",
+      "Maintenance-এ মোট কত খরচ (costs) হবে।"
+    ],
+    "title": "What a maintenance program includes",
+    "titleBn": "Maintenance program-এ যা যা থাকে"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 37,
+        "printedPage": 37,
+        "quote": "Maintenance Program is a comprehensive list of maintenance and its incidence.",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "verbatim",
+    "text": "Maintenance Program is a comprehensive list of maintenance and its incidence."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Maintenance Program is a comprehensive list of maintenance",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Maintenance Program",
+          "right": "Comprehensive list of maintenance and its incidence"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Maintenance Schedule is a list allocating specific maintenance",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Maintenance Schedule",
+          "right": "Allocates specific maintenance to a specific period"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "In preparing the Maintenance program, it would be best if we will adhere to",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Preparing the program",
+          "right": "Adhere to the Quality Management cycle"
+        }
+      ],
+      "prompt": "Match each term with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 37,
+        "printedPage": 37,
+        "quote": "The Maintenance schedule is just a part of the Maintenance Program",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Just a part of the Maintenance Program",
+        "Bigger than the Maintenance Program",
+        "The same as the historical record",
+        "Prepared only after a breakdown"
+      ],
+      "prompt": "According to CBLM 6, the Maintenance Schedule is:"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "Maintenance Program is a comprehensive list of maintenance and its incidence.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Maintenance Program is a comprehensive list of maintenance and its incidence."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "all the maintenance activities to be undertaken, manpower needed, maintenance",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "methods to be used, all the materials and supplies needed for",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "the costs involved",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It includes activities, manpower, methods, materials and supplies, and costs."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "Maintenance Schedule is a list allocating specific maintenance",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "of an area. equipment and tools to a specific period",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A schedule allocates specific maintenance of an area, equipment and tools to a period."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "The Maintenance schedule is just a part of the Maintenance Program",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The Maintenance schedule is just a part of the Maintenance Program"
+        }
+      ],
+      "marks": 4,
+      "modelAnswer": "Maintenance Program: a comprehensive list of maintenance and its incidence. It includes all maintenance activities, manpower needed, methods, materials and supplies, and costs.\nMaintenance Schedule: a list allocating specific maintenance of an area, equipment and tools to a specific period. The schedule is just a part of the program.",
+      "prompt": "Differentiate between a maintenance program and a maintenance schedule."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "The Maintenance schedule is just a part of the Maintenance Program",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "No. The Maintenance schedule is just a part of the Maintenance Program."
+      },
+      "prompt": "Is the maintenance schedule the same as the maintenance program?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Maintenance Program and Maintenance Schedule",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 37,
+          "printedPage": 37,
+          "quote": "The Maintenance schedule is just a part of the Maintenance Program",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "verbatim",
+      "text": "The Maintenance schedule is just a part of the Maintenance Program"
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 37,
+          "printedPage": 37,
+          "quote": "In preparing the Maintenance program, it would be best if we will adhere to",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 37,
+          "printedPage": 37,
+          "quote": "the Quality Management cycle.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "In preparing the Maintenance program, it is best to adhere to the Quality Management cycle."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 38,
+          "printedPage": 38,
+          "quote": "a Maintenance Schedule",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 38,
+          "printedPage": 38,
+          "quote": "is drawn to guide the personnel in the proper methods and system",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "A Maintenance Schedule is drawn to guide the personnel in the proper methods and system."
+    }
+  ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "Maintenance Program is a comprehensive list of maintenance and its incidence.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Maintenance Program is a comprehensive list of maintenance and its incidence."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "all the maintenance activities to be undertaken, manpower needed, maintenance",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "methods to be used, all the materials and supplies needed for",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "the costs involved",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It includes activities, manpower, methods, materials and supplies, and costs."
+        }
+      ],
+      "title": "Maintenance Program",
+      "title_bn": "পূর্ণাঙ্গ program"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "Maintenance Schedule is a list allocating specific maintenance",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "of an area. equipment and tools to a specific period",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A list allocating specific maintenance of an area, equipment and tools to a specific period."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "The Maintenance schedule is just a part of the Maintenance Program",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The Maintenance schedule is just a part of the Maintenance Program"
+        }
+      ],
+      "title": "Maintenance Schedule",
+      "title_bn": "সময়ভিত্তিক schedule"
+    },
+    "title": "Maintenance Program vs Maintenance Schedule (p.37)",
+    "title_bn": "Maintenance Program বনাম Maintenance Schedule"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

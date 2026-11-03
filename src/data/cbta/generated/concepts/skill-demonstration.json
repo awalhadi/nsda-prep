@@ -33,6 +33,235 @@
     "bn": "ওয়েল্ডিং trainer প্রথমে স্বাভাবিক গতিতে, পরে ধীরে ধীরে checkpoints দেখিয়ে কাজ করেন।",
     "en": "A welding trainer first welds a joint at normal speed. Then he repeats it slowly, pointing out checkpoints."
   },
+  "extra": [
+    {
+      "columns": [
+        "The step",
+        "Issues (what to do)"
+      ],
+      "kind": "table",
+      "outline": [
+        "c10-p42-demonstration",
+        "c10-p42-demo-steps"
+      ],
+      "rows": [
+        [
+          "Short spoken preview",
+          {
+            "cites": [
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "Tell what you will be doing and how,",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "show example of finished products",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Tell what you will be doing and how; show example of finished products."
+          }
+        ],
+        [
+          "Whole skill silently at normal speed",
+          {
+            "cites": [
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "Let learners concentrate on watching",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "make sure they can all see,",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "follow all safety procedure",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Learners concentrate on watching; make sure all can see; follow all safety procedure."
+          }
+        ],
+        [
+          "Slowly demonstrate",
+          {
+            "cites": [
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "Explain everything, point out",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "checkpoints, let learners ask questions,",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "let learners touch items",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Explain everything, point out checkpoints, let learners ask questions and touch items."
+          }
+        ],
+        [
+          "Learners try task with you",
+          {
+            "cites": [
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "Talk through the steps, help them feel",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "comfortable with task, encourage them to",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "check own performance",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Talk through the steps; help them feel comfortable; encourage them to check own performance."
+          }
+        ],
+        [
+          "Watch them to do it",
+          {
+            "cites": [
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "Give positive non threatening feedback,",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "point out learning opportunities,",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 42,
+                "printedPage": 42,
+                "quote": "encourage learners to talk about their",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Give positive non threatening feedback; point out learning opportunities; let learners talk about performance."
+          }
+        ]
+      ],
+      "title": "Demonstration: the steps and issues (p.42)",
+      "title_bn": "Demonstration-এর ধাপ ও করণীয়"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Show learners how to carry out a task or skill, step by step.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Should be followed by",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "practice sessions to allow learner to try out skill and receive feedback.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Show learners a task step by step. Follow with practice and feedback."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p42-demonstration"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "skill-demonstration",
   "importance": {
@@ -161,7 +390,16 @@
         "fidelity": "paraphrase",
         "text": "Watch them do it: give positive non threatening feedback."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Short spoken preview — শুরুতে বলুন কী করবেন আর কীভাবে, এবং finished products দেখান।",
+      "পুরো কাজটা normal speed-এ চুপচাপ করে দেখান, যাতে learners শুধু দেখায় মন দিতে পারে।",
+      "এবার ধীরে ধীরে করুন — সব explain করুন, checkpoints দেখিয়ে দিন, আর learners-কে জিনিসগুলো ছুঁয়ে দেখতে দিন।",
+      "Learners আপনার সাথে কাজটা করে; আপনি ধাপগুলো মুখে বলে দিন, যাতে তারা স্বস্তি পায়।",
+      "Learners নিজে করে, আপনি দেখেন আর positive, non threatening feedback দেন।"
+    ],
+    "title": "Steps of a skill demonstration",
+    "titleBn": "Skill demonstration-এর ধাপ"
   },
   "mnemonic": {
     "explain_bn": "ছড়ার চার লাইন = demonstration-এর ক্রম: স্বাভাবিক গতিতে, ধীরে, একসাথে, তারপর learner নিজে।",
@@ -404,6 +642,79 @@
       "text": "First do it normal, as per industry standards; only then do it slow."
     }
   ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "do it normal (as per industry standards)",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "do it normal (as per industry standards)"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "do it slow (with explanation)",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "do it slow (with explanation)"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "do it together, (involve the learners)",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "do it together, (involve the learners)"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "off you go!",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "off you go!"
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "প্রথমে স্বাভাবিক গতিতে, industry standards মেনে কাজটা দেখান।",
+      "তারপর ধীরে ধীরে, ব্যাখ্যা করে দেখান।",
+      "এরপর learners-কে সাথে নিয়ে একসাথে করুন।",
+      "শেষে learners নিজেরা করবে — off you go!"
+    ],
+    "title": "The old rhyme of skill demonstration",
+    "title_bn": "Demonstration-এর ছড়া: normal → slow → together → off you go"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

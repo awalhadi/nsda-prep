@@ -34,11 +34,26 @@
     ]
   },
   "keywords": [
-    { "en": "NTVQF", "bn": "জাতীয় কারিগরি ও বৃত্তিমূলক যোগ্যতা কাঠামো" },
-    { "en": "Level", "bn": "স্তর" },
-    { "en": "Pre-Voc", "bn": "প্রাক-বৃত্তিমূলক স্তর" },
-    { "en": "Skilled Worker", "bn": "দক্ষ কর্মী" },
-    { "en": "Underprivileged groups", "bn": "সুবিধাবঞ্চিত মানুষ" }
+    {
+      "en": "NTVQF",
+      "bn": "জাতীয় কারিগরি ও বৃত্তিমূলক যোগ্যতা কাঠামো"
+    },
+    {
+      "en": "Level",
+      "bn": "স্তর"
+    },
+    {
+      "en": "Pre-Voc",
+      "bn": "প্রাক-বৃত্তিমূলক স্তর"
+    },
+    {
+      "en": "Skilled Worker",
+      "bn": "দক্ষ কর্মী"
+    },
+    {
+      "en": "Underprivileged groups",
+      "bn": "সুবিধাবঞ্চিত মানুষ"
+    }
   ],
   "bangla_explanation": [
     "NTVQF দেখায় কোন level-এ কোন কাজের যোগ্যতা লাগে, আর কীভাবে উপরে ওঠা যায়।",
@@ -51,6 +66,8 @@
     "bn": "কম পড়াশোনা করা ছেলেও Pre-Voc থেকে শুরু করে Level 4-এ Skilled Worker হতে পারে।"
   },
   "list_answer": {
+    "title": "Qualification levels of the NTVQF",
+    "title_bn": "NTVQF-এর qualification levels (স্তরসমূহ)",
     "items": [
       {
         "text": "Pre-Voc 1: Pre-Vocation Trainee (NPVC 1).",
@@ -108,6 +125,16 @@
           { "src": "cblm01", "page": 8, "quote": "Diploma in Middle Level NTVQ 6 Engineering Manager/ Sub or equivalent Assistant Engineer" }
         ]
       }
+    ],
+    "items_bn": [
+      "প্রাক-বৃত্তিমূলক প্রথম স্তর — একেবারে শুরুর ধাপ; শেষে NPVC 1 সনদ পাওয়া যায়।",
+      "প্রাক-বৃত্তিমূলক দ্বিতীয় স্তর — Pre Voc 1-এর পরের ধাপ; শেষে NPVC 2 সনদ পাওয়া যায়।",
+      "NTVQ-এর প্রথম স্তর — মৌলিক কর্মী (Basic Worker); সনদ NSC 1।",
+      "দ্বিতীয় স্তর — মৌলিক দক্ষ কর্মী (Basic Skilled Worker); সনদ NSC 2।",
+      "তৃতীয় স্তর — আধা-দক্ষ কর্মী (Semi Skilled Worker); সনদ NSC 3।",
+      "চতুর্থ স্তর — দক্ষ কর্মী (Skilled Worker); সনদ NSC 4।",
+      "পঞ্চম স্তর — অতি দক্ষ কর্মী বা Supervisor; সনদ NSC 5।",
+      "ষষ্ঠ ও সবচেয়ে উঁচু স্তর — Diploma in Engineering; মধ্যম পর্যায়ের Manager বা Sub Assistant Engineer।"
     ]
   },
   "traps": [
@@ -134,6 +161,171 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Figure 1: Bangladesh NTVQF (p.8)",
+    "title_bn": "NTVQF-এর স্তর, সনদ আর চাকরির শ্রেণি",
+    "columns": [
+      "NTVQ level",
+      "Certificate / education",
+      "Job classification"
+    ],
+    "rows": [
+      [
+        "NTVQ 6",
+        {
+          "text": "Diploma in Engineering or equivalent",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "Diploma in" },
+            { "src": "cblm01", "page": 8, "quote": "Engineering" },
+            { "src": "cblm01", "page": 8, "quote": "or equivalent" }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Middle Level Manager/ Sub Assistant Engineer",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "Middle Level" },
+            { "src": "cblm01", "page": 8, "quote": "Manager/ Sub" },
+            { "src": "cblm01", "page": 8, "quote": "Assistant Engineer" }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "NTVQ 5",
+        {
+          "text": "National Skill Certificate 5 (NSC 5)",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "National Skill" },
+            { "src": "cblm01", "page": 8, "quote": "Certificate 5" },
+            { "src": "cblm01", "page": 8, "quote": "nsc 5 national" }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Highly Skilled Worker/ Supervisor",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "Highly Skilled" },
+            { "src": "cblm01", "page": 8, "quote": "Worker/ Supervisor" }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "NTVQ 4",
+        {
+          "text": "National Skill Certificate 4 (NSC 4)",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "National Skill" },
+            { "src": "cblm01", "page": 8, "quote": "Certificate 4" },
+            { "src": "cblm01", "page": 8, "quote": "nsc 4 national" }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Skilled Worker",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "Skilled Worker" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "NTVQ 3",
+        {
+          "text": "National Skill Certificate 3 (NSC 3)",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "National Skill" },
+            { "src": "cblm01", "page": 8, "quote": "Certificate 3" },
+            { "src": "cblm01", "page": 8, "quote": "nsc 3 national" }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Semi-Skilled Worker",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "Semi-Skilled Worker" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "NTVQ 2",
+        {
+          "text": "National Skill Certificate 2 (NSC 2)",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "National Skill" },
+            { "src": "cblm01", "page": 8, "quote": "Certificate 2" },
+            { "src": "cblm01", "page": 8, "quote": "nsc 2 national" }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Basic-Skilled Worker",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "Basic-Skilled Worker" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "NTVQ 1",
+        {
+          "text": "National Skill Certificate 1 (NSC 1)",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "National Skill" },
+            { "src": "cblm01", "page": 8, "quote": "Certificate 1" },
+            { "src": "cblm01", "page": 8, "quote": "nsc 1 national" }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Basic Worker",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "Basic Worker" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Pre-Voc 2",
+        {
+          "text": "National Pre-Vocation Certificate 2 (NPVC 2)",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "National Pre-Vocation" },
+            { "src": "cblm01", "page": 8, "quote": "Certificate 2 (NPVC 2)" }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Pre-Vocation Trainee",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "Pre-Vocation Trainee" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Pre-Voc 1",
+        {
+          "text": "National Pre-Vocation Certificate 1 (NPVC 1)",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "National Pre-Vocation" },
+            { "src": "cblm01", "page": 8, "quote": "Certificate 1 (NPVC 1)" }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Pre-Vocation Trainee",
+          "cites": [
+            { "src": "cblm01", "page": 8, "quote": "Pre-Vocation Trainee" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What is the reason for having Pre-Voc 1 and Pre-Voc 2 in the framework?",

@@ -39,6 +39,112 @@
     "bn": "লেদে আঙুল কাটলে: আগে first aid, তারপর supervisor-কে জানানো, গভীর হলে ডাক্তার।",
     "en": "A trainee cuts a finger on a lathe. He gets first aid, then tells his supervisor. The cut is deep, so he sees a doctor."
   },
+  "extra": [
+    {
+      "bn": [
+        "আঘাত পেলে: first aid → supervisor-কে জানানো → দরকার হলে medical care।",
+        "Employer চিকিৎসার জন্য যাতায়াতের ব্যবস্থা করবেন এবং আঘাতের দিনের মজুরি দেবেন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "If you do get hurt at work or made sick by your job, the Workplace Safety and",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Insurance Act (WSIA) likely covers you.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "If you get hurt at work, the Workplace Safety and Insurance Act (WSIA) likely covers you."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "The Act outlines the benefits you can get if",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "you are off work because of your injury.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "It also spells out the steps that you should",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The Act outlines benefits if you are off work, and the steps to take."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p41-reporting-injuries"
+      ]
+    },
+    {
+      "bn": "CBLM-এ WSIA-র মতো বিদেশি আইনের নাম আছে; পরীক্ষায় যেমন লেখা তেমন লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "the Workplace Safety and",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Insurance Act (WSIA) likely covers you.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Workplace Safety and Insurance Act (WSIA)."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c03-p41-reporting-injuries"
+      ],
+      "text": "The CBLM names foreign laws (WSIA, MOLE's Labour Relations Board). Write the names as printed, but know they may not be Bangladesh laws.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "if-you-get-hurt",
   "importance": {
@@ -128,7 +234,14 @@
         "fidelity": "verbatim",
         "text": "Get medical care if necessary"
       }
-    ]
+    ],
+    "itemsBn": [
+      "প্রথমে first aid নেওয়া — দ্রুত প্রাথমিক চিকিৎসা পেলে ক্ষতি বাড়তে পারে না।",
+      "Supervisor-কে জানানো — তিনি জানলে প্রয়োজনীয় ব্যবস্থা নিতে পারেন।",
+      "দরকার হলে medical care নেওয়া — আঘাত গুরুতর হলে ডাক্তারের চিকিৎসা নিতে হবে।"
+    ],
+    "title": "What to do if you get hurt at work",
+    "titleBn": "কাজে আহত হলে করণীয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -393,6 +506,7 @@
       "text": "Your employer must arrange transportation to medical care and pay wages for that day."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

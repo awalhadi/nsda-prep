@@ -32,6 +32,217 @@
     "bn": "কারখানায় assessment হলে noise আর shift আগে থেকে বিবেচনা করতে হয়।",
     "en": "A garments factory assesses a sewing operator. The assessor plans around noise and shift times."
   },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "A typical environment is going to be in a training institute or workplace",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "An assessment should always reflect, as near as possible, the real conditions which normally exist",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessment is often in a training institute or workplace. It should reflect real conditions as near as possible."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p19-workplace-considerations"
+      ],
+      "title": "Considerations for workplace assessment"
+    },
+    {
+      "columns": [
+        "Aspect",
+        "What to consider"
+      ],
+      "kind": "table",
+      "outline": [
+        "c11-p19-workplace-considerations"
+      ],
+      "rows": [
+        [
+          "Purposes",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "it could be for diagnosing education and training needs, recognising existing competencies, or recruitment or promotion etc",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Diagnosing training needs, recognising existing competencies, recruitment or promotion."
+          }
+        ],
+        [
+          "Environment",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "Environment - noise, onlookers, weather conditions, night/day, organisational culture",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Noise, onlookers, weather conditions, night/day, organisational culture."
+          }
+        ],
+        [
+          "Internal factors",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "Internal factors - industrial relations issues, availability of standards, remuneration implications, availability of resources, production and shift considerations, complex nature of workplace relationships, literacy and numeracy levels",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Industrial relations, standards, remuneration, resources, production and shifts, workplace relationships, literacy and numeracy."
+          }
+        ],
+        [
+          "External factors",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "External factors - relevant policies and legislation, access and equity, occupational safety and health",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Relevant policies and legislation, access and equity, occupational safety and health."
+          }
+        ],
+        [
+          "Methods",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "could include observation, written tests, practical tests, interviews, project or assignments, samples of work etc",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "The methods chosen should be appropriate and relevant to the normal activities which happen in your workplace",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Observation, written and practical tests, interviews, projects, work samples. Relevant to normal workplace activities."
+          }
+        ],
+        [
+          "Feelings",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "Feelings - anxiety, stress, self consciousness, fear, friendship, peer pressure, perception of risk",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Anxiety, stress, self consciousness, fear, friendship, peer pressure, perception of risk."
+          }
+        ],
+        [
+          "Assessment principles",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "Assessment principles - as discussed previously",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "The assessment principles, as discussed previously."
+          }
+        ],
+        [
+          "Outcomes",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "Outcomes - security and recording of results, appeals, opportunities for retraining and reassessment policies",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Security and recording of results, appeals, retraining and reassessment policies."
+          }
+        ]
+      ],
+      "title": "Aspects to consider, especially in workplace assessment",
+      "title_bn": "Workplace assessment-এ যে ৮টি দিক ভাবতে হয়"
+    },
+    {
+      "bn": "Access ও equity হলো external factor; industrial relations হলো internal factor। এখানেই সবাই ভুল করে।",
+      "kind": "note",
+      "outline": [
+        "c11-p19-workplace-considerations"
+      ],
+      "text": "Memory: P-E-I-E-M-F-A-O (Purposes, Environment, Internal, External, Methods, Feelings, Assessment principles, Outcomes).",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "workplace-assessment-considerations",
   "importance": {
@@ -193,7 +404,19 @@
         "fidelity": "paraphrase",
         "text": "Outcomes: security and recording of results, appeals, retraining and reassessment."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Assessment কেন — training needs খোঁজা, আগের দক্ষতার স্বীকৃতি, নাকি recruitment বা promotion; সেটা আগে ঠিক করো।",
+      "শব্দ, দর্শক, আবহাওয়া, দিন-রাত, প্রতিষ্ঠানের culture — চারপাশের এসব assessment-কে প্রভাবিত করে।",
+      "প্রতিষ্ঠানের ভেতরের বিষয়: industrial relations, standards ও resources পাওয়া, production আর shifts।",
+      "বাইরের বিষয়: সংশ্লিষ্ট policies ও legislation, access and equity, occupational safety and health।",
+      "কোন methods ব্যবহার হবে: observation, written tests, practical tests, interviews, projects বা কাজের নমুনা।",
+      "Candidate-এর অনুভূতি — anxiety, stress, ভয়, বন্ধুত্ব বা peer pressure — তার কাজকে প্রভাবিত করে, তাই মাথায় রাখতে হয়।",
+      "আগে আলোচিত assessment principles মানা হচ্ছে কি না, তাও দেখতে হয়।",
+      "ফলাফলের নিরাপত্তা ও recording, appeals, আবার training ও reassessment-এর সুযোগ — এগুলো আগেই ঠিক রাখতে হয়।"
+    ],
+    "title": "Considerations for workplace assessment",
+    "titleBn": "Workplace assessment-এ যেসব দিক বিবেচনা করতে হয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -431,6 +654,7 @@
       "text": "A typical environment is a training institute or workplace."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

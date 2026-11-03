@@ -55,6 +55,8 @@
     "bn": "গার্মেন্টস ট্রেনিং রুমে বড় করে লেখা safety poster: একটাই বার্তা।"
   },
   "list_answer": {
+    "title": "Layout tips for posters and charts",
+    "title_bn": "Poster ও chart-এর layout tips",
     "items": [
       {
         "text": "Keep it simple and uncluttered.",
@@ -176,6 +178,17 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Layout সহজ আর uncluttered রাখুন, যাতে একনজরে বার্তাটা বোঝা যায়।",
+      "Letters এত বড় করুন যাতে সহজে পড়া যায়।",
+      "উপযুক্ত রং দিয়ে উজ্জ্বল করুন; কিছু colours মনকে উদ্দীপ্ত করে, কিছু শান্ত করে।",
+      "নিচের বাম কোণ থেকে উপরের ডান কোণে উঠে যাওয়া material অগ্রগতি (progress) বোঝায়।",
+      "উপরের বাম কোণ থেকে নিচের ডান কোণে নেমে যাওয়া material পিছিয়ে পড়া বা ব্যর্থতা (regression or failure) বোঝায়।",
+      "Material গোল করে (circular arrangement) সাজালে ধারাবাহিকতার (continuity) অনুভূতি আসে।",
+      "দুই পাশ সমান করে সাজানো (formal balance) স্থির (static) ভাব দেয়।",
+      "এক পাশ অন্য পাশের চেয়ে ভারী হলে (informal balance) গতিশীল (dynamic) ভাব আসে।",
+      "মসৃণ ও সোজা লাইন মিল (harmony) বোঝায়; খাঁজকাটা, ভাঙা লাইন বিরোধ (conflict) বোঝায়।"
     ]
   },
   "traps": [
@@ -202,6 +215,77 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Posters vs charts",
+    "title_bn": "Poster বনাম chart",
+    "left": {
+      "title": "Posters",
+      "title_bn": "Poster: একটাই বার্তা",
+      "points": [
+        {
+          "text": "A poster is useful for getting a single idea across quickly.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 11,
+              "quote": "A poster is useful for getting a single idea across quickly."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Its purpose is to stop the viewer and persuade them to a course of action.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 11,
+              "quote": "Its purpose is to:"
+            },
+            {
+              "src": "cblm10",
+              "page": 11,
+              "quote": "stop the viewer in their tracks;"
+            },
+            {
+              "src": "cblm10",
+              "page": 11,
+              "quote": "persuade the viewer to a course of action."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Charts",
+      "title_bn": "Chart: বেশি তথ্য",
+      "points": [
+        {
+          "text": "Charts can be more complex in design and content than posters.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 11,
+              "quote": "Charts can be more complex in design and content than posters."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "You can use them to instruct or stimulate.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 11,
+              "quote": "You can use them to instruct or stimulate."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What do effective posters have, and when do you use them?",

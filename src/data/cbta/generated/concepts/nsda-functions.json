@@ -22,6 +22,14 @@
     "bn": "Garments কর্মীদের skills project ঠিকমতো চলছে কিনা দেখা NSDA-র monitoring কাজের উদাহরণ।",
     "en": "A skills project for garments workers runs in Gazipur. Monitoring such skills-development projects is an NSDA function."
   },
+  "extra": [
+    {
+      "bn": "CBLM 1-এ NSDA নেই; এটি শুধু পুরনো প্রশ্নপত্র থেকে। বাড়তি হিসেবে পড়ুন।",
+      "kind": "note",
+      "text": "CBLM 1 does not mention the NSDA. This card comes from past exam papers only. Study it as an extra.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": false,
   "id": "nsda-functions",
   "importance": {
@@ -120,7 +128,15 @@
         "fidelity": "verbatim",
         "text": "Overseeing national competency, qualification and quality-assurance arrangements."
       }
-    ]
+    ],
+    "itemsBn": [
+      "সমন্বয় করা — দেশের skills development কার্যক্রম আর বিভিন্ন পক্ষের সংযোগ (linkages) একসাথে মিলিয়ে চালানো।",
+      "তথ্য রাখা — প্রতিটি sector-এর skills information সংরক্ষণ ও হালনাগাদ রাখা।",
+      "নজরদারি — সংশ্লিষ্ট skills development projects ঠিকভাবে চলছে কিনা monitor করা।",
+      "তদারকি — national competency, qualification ও quality assurance ব্যবস্থা ঠিকমতো চলছে কিনা oversee করা।"
+    ],
+    "title": "Main functions of the NSDA",
+    "titleBn": "NSDA-র প্রধান কাজসমূহ"
   },
   "mnemonic": {
     "explain_bn": "প্রতিটা অক্ষর NSDA-র একটা কাজের প্রথম অক্ষর।",
@@ -314,7 +330,7 @@
   ],
   "score": 3,
   "sourceType": "question-paper-only",
-  "stars": 1,
+  "stars": 2,
   "status": "draft",
   "title": "Main Functions of the NSDA",
   "traps": [
@@ -341,6 +357,7 @@
       "text": "NSDA functions are not the key features of the National Skills Development Policy."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

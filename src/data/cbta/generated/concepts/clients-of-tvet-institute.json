@@ -35,6 +35,34 @@
     "bn": "গার্মেন্টস factory যখন workers পাঠায়, তখন factory-টাও একজন client।",
     "en": "A garments factory sends workers for training. The factory is an enterprise client of the TVET institute."
   },
+  "extra": [
+    {
+      "bn": [
+        "মনে রাখুন: নিজের প্রতিষ্ঠানের অন্য বিভাগও client।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 46,
+              "printedPage": 46,
+              "quote": "In a TVET institute client can be",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "In a TVET institute client can be"
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p46-tvet-clients"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "clients-of-tvet-institute",
   "importance": {
@@ -140,7 +168,16 @@
         "fidelity": "verbatim",
         "text": "Government departments or agencies"
       }
-    ]
+    ],
+    "itemsBn": [
+      "যারা সরাসরি শেখে — individual learners, students, apprentices ও trainees; এরা প্রতিষ্ঠান থেকে training নেয়।",
+      "যারা মূল্যায়নে অংশ নেয় — candidates for assessment-ও প্রতিষ্ঠানের সেবা নেয়, তাই তারাও client।",
+      "শিল্প প্রতিষ্ঠান বা কোম্পানি — enterprise বা industry-ও training ও assessment সেবার জন্য প্রতিষ্ঠানের কাছে আসে।",
+      "নিজের প্রতিষ্ঠানের অন্য অংশ — একই training ও assessment organization-এর অন্য বিভাগও আমাদের সেবা নেয়।",
+      "সরকারি দপ্তর বা সংস্থা — Government departments বা agencies-ও TVET প্রতিষ্ঠানের client।"
+    ],
+    "title": "Clients of a TVET institute",
+    "titleBn": "TVET প্রতিষ্ঠানের clients কারা"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -426,6 +463,7 @@
       "text": "Feedback is obtained from colleagues within your organization and from other organizations."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

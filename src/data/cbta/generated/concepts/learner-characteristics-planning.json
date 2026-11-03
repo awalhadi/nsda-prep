@@ -37,6 +37,44 @@
     "bn": "মিশ্র গ্রুপে experience-এর পার্থক্য কাজে লাগান, অভিজ্ঞদের সাথে নতুনদের জোড়া করুন।",
     "en": "An IT training centre has a mixed group. Some never used a computer. Start slowly and pair them with experienced learners."
   },
+  "extra": [
+    {
+      "bn": [
+        "p.8-এর টেবিলে বাম পাশে learner-এর বৈশিষ্ট্য, ডান পাশে 'What does this mean for Planning?'।",
+        "Activity 1.1 (p.27)-এ ঠিক এই বৈশিষ্ট্যগুলো নিজের trainees-এর জন্য লিখতে হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "Identifying the Learners Training Requirements",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "Characteristics of Learners",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Identifying the learners training requirements starts from the characteristics of learners."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c09-p8-learner-characteristics-table"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "learner-characteristics-planning",
   "importance": {
@@ -256,7 +294,20 @@
         "fidelity": "paraphrase",
         "text": "Previous learning experience: know the trainees' general attitude of learning."
       }
-    ]
+    ],
+    "itemsBn": [
+      "LL&N — learner-এর ভাষা, পড়া-লেখা ও হিসাবের দক্ষতা; এটা দেখেই ঠিক করবেন কোন language আর কোন activities চলবে।",
+      "Cultural and language background — ক্লাসে ভিন্ন ভিন্ন culture ও ভাষার দক্ষতার মানুষ থাকতে পারে, তাই এ বিষয়ে সচেতন থাকুন।",
+      "Education and general knowledge — learner-দের শিক্ষার level জানলে বোঝা যায় delivery কোন level-এ রাখতে হবে।",
+      "Gender — group-টি সব female, সব male নাকি মিশ্র, তার ওপর পুরো plan বদলে যেতে পারে।",
+      "Age — বয়স অনুযায়ী ঠিক হয় কী শেখাবেন, কীভাবে শেখাবেন আর কত দ্রুত (pace)।",
+      "Physical ability — কোন learner অন্যদের চেয়ে শারীরিক কাজে কম সক্ষম, তা আগে থেকে জেনে রাখুন।",
+      "Previous experience with the topic — বিষয়টি নিয়ে learner-দের অভিজ্ঞতা ভিন্ন ভিন্ন হয়; এটা কাজে লাগানো যায়, তাই আগে থেকে plan করুন।",
+      "Experience in competency based training — এটা শেখার একটি আলাদা ধরন, তাই কিছু learner-এর কাছে কঠিন লাগতে পারে।",
+      "Previous learning experience — আগে কীভাবে শিখেছে তা জানলে trainees-দের শেখার প্রতি general attitude বোঝা যায়।"
+    ],
+    "title": "Learner characteristics to consider in session planning",
+    "titleBn": "Session planning-এ যে learner characteristics বিবেচনা করতে হয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -480,6 +531,377 @@
       "text": "Competency based training can be difficult for some learners, especially assessment."
     }
   ],
+  "visual": {
+    "columns": [
+      "Characteristics of Learners",
+      "What does this mean for Planning?"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Language, Literacy and Numeracy (LL&N) skills",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "This influences the language you can",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "use and the activities and tasks that are",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "suitable. You need to assess LL&N skill",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "levels and provide instruction and",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "resources at all appropriate level.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Influences the language and suitable activities. Assess LL&N skill levels; provide instruction at all levels."
+        }
+      ],
+      [
+        "Cultural and Language background",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "You must be aware of different cultures",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "and language abilities. There might be",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "activities that you choose which are not",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "appropriate because of culture and",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Be aware of different cultures and language abilities. Some activities may not be appropriate."
+        }
+      ],
+      [
+        "Education and General Knowledge",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "Getting an idea of general education",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "levels is important so that you know what",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "level to pitch in the delivery of the",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Know general education levels, so you know what level to pitch the delivery."
+        }
+      ],
+      [
+        "Gender",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "This can affect your whole plan if you",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "have a group of all female, all males or a",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "mixture-, if there are activities that",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "involve demonstration, role play, etc.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Can affect your whole plan: all female, all male or mixed groups. Matters for demonstration or role play."
+        }
+      ],
+      [
+        "Age",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "Age can affect your plan depending on",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "what is delivered, how and what pace.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Affects what is delivered, how and at what pace."
+        }
+      ],
+      [
+        "Physical Ability",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "you need to be aware of any learner who",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "is less able than others to perform",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "physical tasks.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Know any learner less able than others to perform physical tasks."
+        }
+      ],
+      [
+        "Previous experience with the topic/lesson",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "Different levels of experience can be",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "useful, and you need to plan ahead, so",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "that you know who has what experience,",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Different experience levels can be useful. Plan ahead to know who has what experience."
+        }
+      ],
+      [
+        "Experience in Competency based Training",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "Competency based training is a unique",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "way of learning and can be difficult for",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "some learners, especially in the concept",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "of assessment.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "CBT is a unique way of learning. It can be difficult, especially assessment."
+        }
+      ],
+      [
+        "Previous Learning Experience",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "It is important that you have knowledge",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "of the trainees general attitude of",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "learning. Some may be very anxious",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Know the trainees' general attitude of learning. Some may be very anxious."
+        }
+      ]
+    ],
+    "title": "Characteristics of learners: what does this mean for planning? (p.8)",
+    "title_bn": "Learner-এর বৈশিষ্ট্য আর planning-এ তার প্রভাব"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

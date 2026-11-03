@@ -37,6 +37,292 @@
     "bn": "ওয়েল্ডিং module-এ ছয়টা learning outcomes, প্রতিটা বলে pass করতে কী পারতে হবে।",
     "en": "A welding module has six learning outcomes. Each one says what learners must do to pass."
   },
+  "extra": [
+    {
+      "bn": [
+        "Outcome আর criteria পরিকল্পনার শুরুতেই লিখতে হয় — পরে নয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "1.1 Learning outcomes and assessment criteria are an essential part of curriculum design",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Learning outcomes and assessment criteria are an essential part of curriculum design."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "need to be written in the planning stages.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "They need to be written in the planning stages."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p11-lo-ac"
+      ]
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Assessment criteria are based on the intended learning outcomes for the work being",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "assessed and make explicit the knowledge, understanding and skills markers expect",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "They are based on the learning outcomes. They make explicit the knowledge, understanding and skills markers expect."
+      },
+      "kind": "qa",
+      "outline": [
+        "c08-p11-ac-definition"
+      ],
+      "q": "What are assessment criteria?",
+      "q_bn": "Assessment criteria কী?"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "they need to be clearly aligned with teaching activities.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Align them clearly with teaching activities."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "There is no hard and fast rule governing the number and type of learning",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "outcomes, it is suggested that between 5 and 8 per module",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Between 5 and 8 learning outcomes per module is suggested."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Outcomes are written to represent the threshold standard expected to pass.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Outcomes represent the threshold standard expected to pass."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Learning outcomes are the focus of the curriculum design.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Learning outcomes are the focus of the curriculum design."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Whether individually or",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "grouped, every learning outcome must be assessed.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Every learning outcome must be assessed, individually or grouped."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Assessment feedback should relate specifically to the learning outcomes and",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "assessment criteria and indicate to learners how to improve.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessment feedback relates to outcomes and criteria and shows how to improve."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "language kept clear and",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "straightforward, avoiding ambiguity.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Keep the language clear and straightforward, avoiding ambiguity."
+        }
+      ],
+      "items_bn": [
+        "Outcome ও criteria ক্লাসের teaching activities-এর সাথে মিলিয়ে লিখুন।",
+        "প্রতি module-এ ৫ থেকে ৮টি learning outcome যথেষ্ট — বাঁধা নিয়ম নেই।",
+        "Outcome হলো pass করার ন্যূনতম মান (threshold) — এটা না পেলে pass নয়।",
+        "Curriculum design-এর কেন্দ্র learning outcomes; teaching activities এখান থেকেই আসে।",
+        "প্রতিটি learning outcome অবশ্যই assess করতে হবে — আলাদা বা একসাথে।",
+        "Feedback outcome ও criteria-র সাথে মিলিয়ে দিন, আর কীভাবে উন্নতি হবে বলুন।",
+        "ভাষা সহজ ও পরিষ্কার রাখুন, যাতে দুই রকম অর্থ না হয়।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c08-p11-lo-ac-rules"
+      ],
+      "title": "Rules for writing learning outcomes and assessment criteria",
+      "title_bn": "Outcome ও criteria লেখার ৭টি নিয়ম"
+    },
+    {
+      "bn": [
+        "Formative কাজ শেষ করাকে summative assignment-এর শর্ত করা যায় — এতে progress ও motivation বাড়ে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Assessment criteria specify how an assessment task will be judged.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Assessment criteria specify how an assessment task will be judged."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "requiring completion of a formative task as a pre-requisite for a summative",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "assignment.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A formative task may be a pre-requisite for a summative assignment."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p11-lo-ac-rules"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "writing-learning-outcomes",
   "importance": {
@@ -167,7 +453,15 @@
         "fidelity": "paraphrase",
         "text": "May mitigate against plagiarism by specifying originality of thought, application or process."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Students কী শিখবে আর pass করতে কী করতে হবে, তা স্পষ্ট করে।",
+      "বাইরের লোকদের (external audience) কাছে learners-এর প্রয়োজনীয় standards পরিষ্কার করে।",
+      "একাধিক tutors বা markers থাকলেও সবাই একই standards-এ বিচার করে, তাই consistency থাকে।",
+      "Originality of thought, application বা process চাওয়া হলে plagiarism কমে।"
+    ],
+    "title": "Why learning outcomes and assessment criteria are important",
+    "titleBn": "Learning outcomes ও assessment criteria কেন গুরুত্বপূর্ণ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -535,6 +829,7 @@
       "text": "Every learning outcome must be assessed, individually or grouped."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

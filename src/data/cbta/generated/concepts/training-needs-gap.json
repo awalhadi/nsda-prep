@@ -13,6 +13,10 @@
           "printed": 7
         },
         {
+          "pdf": 11,
+          "printed": 11
+        },
+        {
           "pdf": 24,
           "printed": 24
         }
@@ -37,6 +41,140 @@
     "bn": "যেটা ট্রেইনি আগেই পারে, সেটা আবার শেখানোর দরকার নেই; শুধু gap শেখান।",
     "en": "A welding trainee can already select and mark plates. He cannot weld in the 2G position. The gap is 2G welding."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "can be determined by identifying",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "the gap between the required competencies as defined by the unit of competency",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "and the trainee's current competency.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Identify the gap between the required competencies and the trainee's current competency."
+      },
+      "concept": "training-needs-gap",
+      "example": {
+        "bn": "Unit-এ ১০টি PC; trainee আগেই ৬টি পারে। বাকি ৪টিই তার training need।",
+        "en": "A sewing unit requires 10 PCs. A new trainee already meets 6. The other 4 are the training need."
+      },
+      "kind": "qa",
+      "outline": [
+        "c09-p7-information-sheet-1"
+      ],
+      "q": "How can you determine the training requirements of a trainee?",
+      "q_bn": "একজন trainee-র training requirements কীভাবে নির্ধারণ করবেন?",
+      "tip": "Required minus current = the gap = the training need.",
+      "tip_bn": "যা পারতে হবে − যা এখন পারে = gap = training need।"
+    },
+    {
+      "bn": [
+        "Gap খুঁজতে self assessment tool লাগে — সেটা বানানো হয় PC থেকে।",
+        "ফল analyse করে program adjust করুন: trainee যা পারে তা কম, যা পারে না তাতে বেশি।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Based on the unit of competency performance criteria self assessment tools can be",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Self assessment tools are prepared from the unit of competency performance criteria."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "prepared and administered to trainees prior to training commencement or at the",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "beginning of the course.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Administer them prior to training commencement or at the beginning of the course."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "The results should be analysed and the program adjusted",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "accordingly.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Analyse the results and adjust the program accordingly."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c09-p7-self-assessment-tools"
+      ]
+    },
+    {
+      "bn": "Self Check 1-এর প্রশ্ন ২ ঠিক এটাই; gap-এর সংজ্ঞা লিখে দুই পাশ (unit of competency, current competency) উল্লেখ করুন।",
+      "kind": "note",
+      "outline": [
+        "c09-p7-information-sheet-1"
+      ],
+      "text": "Self Check 1 Q2 asks exactly this. Write the gap definition, then name the two sides: unit of competency and current competency.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "training-needs-gap",
   "importance": {
@@ -322,6 +460,62 @@
       "text": "Self assessment tools are based on the unit of competency performance criteria."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "the required competencies as defined by the unit of competency",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Defined by the unit of competency."
+        }
+      ],
+      "title": "Required competencies",
+      "title_bn": "যা পারতে হবে"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "and the trainee's current competency.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Trainees' current competency can be determined by pre-assessment.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The trainee's current competency, determined by pre-assessment."
+        }
+      ],
+      "title": "Current competency",
+      "title_bn": "এখন যা পারে"
+    },
+    "title": "Required vs current competency: the gap is the training need (p.7)",
+    "title_bn": "Required বনাম current competency — মাঝের gap-ই training need"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

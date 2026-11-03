@@ -69,6 +69,8 @@
     "bn": "Assessor সামনে দাঁড়িয়ে সেলাই দেখলে direct evidence; সুপারভাইজারের রিপোর্ট পড়লে indirect evidence।"
   },
   "list_answer": {
+    "title": "Forms of evidence",
+    "title_bn": "Evidence-এর ধরন",
     "items": [
       {
         "text": "Direct evidence: observed or witnessed by the assessor. Examples: observation of work activities, oral questioning, demonstration of specific skills.",
@@ -134,6 +136,10 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Direct evidence — assessor নিজে সামনে থেকে দেখেন বা শোনেন, যেমন কাজের observation, oral questioning বা demonstration।",
+      "Indirect evidence — candidate-এর কাজ পরে যাচাই করে দেখা হয়, যেমন finished product, written test, আগের কাজ বা reports।"
     ]
   },
   "traps": [
@@ -196,6 +202,138 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Direct vs indirect evidence (p.17)",
+    "title_bn": "সরাসরি বনাম পরোক্ষ evidence",
+    "left": {
+      "title": "Direct evidence",
+      "title_bn": "assessor নিজে দেখে বা শোনে",
+      "points": [
+        {
+          "text": "Direct Evidence is evidence that can be observed or witnessed by the assessor.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 17,
+              "quote": "Direct Evidence is evidence that can be observed or witnessed by the assessor."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Observations by the assessors of the candidate carrying out work activities",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 17,
+              "quote": "Observations by the assessors of the candidate carrying out work activities"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Oral questioning of the candidate",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 17,
+              "quote": "Oral questioning of the candidate"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Demonstration of specific skills needed to complete the task",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 17,
+              "quote": "Demonstration of specific skills needed to complete the task"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "right": {
+      "title": "Indirect evidence",
+      "title_bn": "কাজের ফল বা কাগজ পরে যাচাই",
+      "points": [
+        {
+          "text": "Indirect evidence is the candidate's work reviewed or examined by the assessor.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 17,
+              "quote": "Indirect evidence is evidence of the candidate's work that can be reviewed or"
+            },
+            {
+              "src": "cblm12",
+              "page": 17,
+              "quote": "examined by the assessor"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Assessment of finished product",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 17,
+              "quote": "Assessment of finished product"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Written test of underpinning knowledge",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 17,
+              "quote": "Written test of underpinning knowledge"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Review of previous work performed",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 17,
+              "quote": "Review of previous work performed"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Testimonials or reports from employers, colleagues, clients or supervisors",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 17,
+              "quote": "Testimonials or reports from employers, colleagues, clients or supervisors"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Evidence of training",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 17,
+              "quote": "Evidence of training"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What are the different forms of evidence?",

@@ -1,7 +1,6 @@
 {
   "aliases": [
     "The session plan",
-    "Planning training sessions",
     "Why do you need a session plan?"
   ],
   "appearsIn": [
@@ -41,6 +40,81 @@
     "bn": "প্রতিটি ক্লাসের আগে এমন একটি লিখিত session plan রাখুন।",
     "en": "A baking trainer writes session 04: cool, decorate and stack butter biscuits. It lists outcomes, demonstration, practice and review."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 31,
+            "printedPage": 31,
+            "quote": "A session plan is a written guide used by the trainer to help ensure training is conducted",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 31,
+            "printedPage": 31,
+            "quote": "in a logical and sequential manner.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "A session plan is a written guide used by the trainer. It keeps training logical and sequential."
+      },
+      "example": {
+        "bn": "Baking trainer-এর session plan-এ প্রতিটি ধাপ, সময়, key points আর লাগবে এমন যন্ত্রপাতি লেখা থাকে।",
+        "en": "A baking trainer's plan lists each stage, its time, key points and the tools needed."
+      },
+      "kind": "qa",
+      "outline": [
+        "c09-p31-session-plan-definition"
+      ],
+      "q": "What is a session plan?",
+      "q_bn": "Session plan কী?",
+      "tip": "Your session plan is your road map.",
+      "tip_bn": "Session plan আপনার road map — পথ হারাবেন না।"
+    },
+    {
+      "bn": [
+        "Self Check 2 প্রশ্ন ১: 'Why do you need a session plan?' — card-এর পাঁচটি কারণ লিখুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Your session plan is your road map. Like any map, you need to be able to access it",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "and read it easily.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Your session plan is your road map. You need to access and read it easily."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c09-p33-why-session-plan"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "session-plan",
   "importance": {
@@ -150,7 +224,16 @@
         "fidelity": "paraphrase",
         "text": "It gives the trainers a firm base to review their performance."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Session-এর কাঠামো লিখিত থাকে, তাই session কোথা থেকে এসেছে আর কোথায় যাচ্ছে তা track করা যায়।",
+      "Trainer বুঝতে পারেন এখন কোথায় আছেন আর এরপর কোথায় যেতে হবে, ফলে পথ হারান না।",
+      "Trainer আর learners দুই পক্ষই পরিষ্কার জানেন তারা কী করছেন।",
+      "Learners কোন কোন training session করেছে, তার লিখিত হিসাব থেকে যায়।",
+      "পরে trainer নিজের performance review করার একটি শক্ত ভিত্তি পান।"
+    ],
+    "title": "Why a session plan is needed",
+    "titleBn": "কেন session plan দরকার"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -451,6 +534,7 @@
       "text": "A program is the overall framework. It is broken into shorter sessions."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

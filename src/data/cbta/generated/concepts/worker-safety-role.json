@@ -40,6 +40,43 @@
     "bn": "ওয়েল্ডিং শপে trainee নষ্ট তার দেখে কাজ থামিয়ে প্রশিক্ষককে report করে।",
     "en": "A trainee in a welding shop sees a damaged cable. He wears his gloves, stops work and reports it to the trainer."
   },
+  "extra": [
+    {
+      "bn": [
+        "শুধু employer আর supervisor নয়, আইন আপনাকেও পাঁচটি দায়িত্ব দেয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Your employer and supervisor aren't the only ones with legal responsibilities.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "have to do your part too.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Your employer and supervisor aren't the only ones with legal responsibilities. You have to do your part too."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p14-your-role"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "worker-safety-role",
   "importance": {
@@ -160,7 +197,16 @@
         "fidelity": "verbatim",
         "text": "Work safely and don't fool around"
       }
-    ]
+    ],
+    "itemsBn": [
+      "আইন মেনে চলা (obey the law) — safety আইন মানা কর্মীরও legal দায়িত্ব।",
+      "Machines ও equipment নিরাপদে ব্যবহার করা — ভুলভাবে চালালে নিজের ও অন্যের ক্ষতি হয়।",
+      "প্রয়োজনীয় PPE পরা — PPE দেওয়া হলে তা পরা আপনার দায়িত্ব।",
+      "Hazards দেখলে boss-কে report করা — জানালে তবেই বিপদ দূর করার ব্যবস্থা নেওয়া যায়।",
+      "নিরাপদে কাজ করা, কাজের সময় হাসিঠাট্টা বা দুষ্টুমি (fool around) না করা — অমনোযোগ থেকেই দুর্ঘটনা হয়।"
+    ],
+    "title": "Worker's role in safety",
+    "titleBn": "Safety-তে কর্মী হিসেবে আপনার ভূমিকা"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -456,6 +502,7 @@
       "text": "The law says what you must do, and also gives you three rights."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

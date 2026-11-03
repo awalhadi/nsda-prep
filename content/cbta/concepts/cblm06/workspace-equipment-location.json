@@ -1,0 +1,411 @@
+{
+  "id": "workspace-equipment-location",
+  "canonical_title": "Workplace Considerations: Workspace and Location of Equipment",
+  "aliases": [
+    "Workplace considerations",
+    "Workspace requirements",
+    "Location of equipment",
+    "Rules for locating fixed workshop machinery",
+    "Demonstration equipment"
+  ],
+  "cblmPrimary": 6,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "If work is to be performed in a safe manner, sufficient space should be allocated.",
+    "cites": [
+      {
+        "src": "cblm06",
+        "page": 18,
+        "quote": "If work is to be performed in a safe manner, sufficient space should be allocated."
+      }
+    ],
+    "fidelity": "verbatim"
+  },
+  "keywords": [
+    {
+      "en": "Workspace requirements",
+      "bn": "নিরাপদে কাজের জন্য প্রয়োজনীয় জায়গা"
+    },
+    {
+      "en": "Clear space",
+      "bn": "desk, bench, machinery বাদ দিয়ে খালি জায়গা"
+    },
+    {
+      "en": "Fixed machinery",
+      "bn": "মেঝেতে বসানো স্থায়ী মেশিন"
+    },
+    {
+      "en": "Machine guards",
+      "bn": "মেশিনের ঘূর্ণায়মান অংশ ঢাকার নিরাপত্তা আবরণ"
+    },
+    {
+      "en": "Demonstration equipment",
+      "bn": "supplier-এর দেওয়া প্রদর্শনের যন্ত্র"
+    }
+  ],
+  "bangla_explanation": [
+    "নিরাপদে কাজ করতে হলে প্রত্যেক trainee-র জন্য যথেষ্ট জায়গা লাগে; workstation-এর চারপাশে চলাফেরায় বাধা থাকা চলবে না।",
+    "Clear space মানে desks, benches, machinery বাদ দিয়ে খালি জায়গা; aisles আর passageways এর বাইরে আলাদা হিসাব হয়।",
+    "Fixed machinery বসানোর পাঁচটা নিয়ম আছে: দূরত্ব ও safety switches, barriers ও guards, stop buttons, fume ও dust extraction, আর lighting।",
+    "Supplier বা manufacturer demonstration-এর জন্য মেশিন দিলে কে কীভাবে ব্যবহার করবে তা লিখে নিতে হয়; signed letters of agreement জরুরি।"
+  ],
+  "example": {
+    "en": "A TTC welding shop keeps clear aisles between machines. Each grinder has a working guard and stop button.",
+    "bn": "TTC-র welding shop-এ মেশিনের মাঝে চলার পথ খালি, প্রতিটি grinder-এ guard আর stop button ঠিকমতো কাজ করে।"
+  },
+  "mnemonic": {
+    "text": "D-G-S-F-L: Distance, Guards, Stop buttons, Fume extraction, Lighting.",
+    "explain_bn": "পাঁচটি নিয়মের প্রথম অক্ষর: দূরত্ব, guard, stop button, fume/dust extraction, lighting।"
+  },
+  "list_answer": {
+    "title": "Rules for the safe and efficient location of fixed workshop machinery",
+    "title_bn": "Fixed workshop machinery নিরাপদে বসানোর নিয়ম",
+    "items": [
+      {
+        "text": "Adequate distance exists between machinery. Safety switches operate effectively on all machinery.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 18,
+            "quote": "Adequate distance exists between machinery, and safety switches operate effectively on all machinery."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Safety barriers are correctly placed. Machine guards are in proper working order on all machinery.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 18,
+            "quote": "Safety barriers are correctly placed and machine guards are in proper working order on all machinery."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Rotating machinery is properly guarded. Machinery stop buttons are adequate and in proper working order.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 18,
+            "quote": "Rotating machinery is properly guarded and machinery stop buttons are adequate and in proper working order."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Fume and dust extraction facilities are adequate for the size of the workshop. They are in proper working order.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 18,
+            "quote": "Fume and dust extraction facilities are adequate and in proper working order for the size of the workshop."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Adequate lighting is provided in booths or compartments where work is performed.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 18,
+            "quote": "Adequate lighting is provided in booths or compartments where work is performed."
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "items_bn": [
+      "মেশিনগুলোর মাঝে যথেষ্ট দূরত্ব রাখতে হবে, আর প্রতিটি মেশিনের safety switches ঠিকমতো কাজ করতে হবে।",
+      "Safety barriers ঠিক জায়গায় থাকবে, আর machine guards সব মেশিনে কাজের উপযোগী থাকবে।",
+      "ঘোরে এমন (rotating) machinery ঢাকা থাকবে; stop buttons যথেষ্ট ও সচল থাকবে।",
+      "ধোঁয়া (fume) আর ধুলা (dust) বের করার ব্যবস্থা workshop-এর আকার অনুযায়ী যথেষ্ট ও সচল থাকবে।",
+      "যে booths বা compartments-এ কাজ হয়, সেখানে যথেষ্ট lighting থাকবে।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "Clear space excludes desks, benches, machinery and any other fittings.",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 18,
+          "quote": "The clear space should be exclusive of desks, benches, machinery and any other fittings."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Aisles, passageways and access to cupboards or doors are in addition to clear workstation space.",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 18,
+          "quote": "Aisles, passageways and access to cupboards or doors should be in addition to the calculated clear workstation space."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Heat or noise may require increases to the recommended size.",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 18,
+          "quote": "Environmental problems such as heat or noise may also require increases to the recommended size."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Signed letters of agreement are essential to protect the rights of all concerned.",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 18,
+          "quote": "Signed letters of agreement are essential to protect the rights of all concerned."
+        }
+      ],
+      "fidelity": "verbatim"
+    }
+  ],
+  "visual": {
+    "kind": "table",
+    "title": "Workplace considerations at a glance (p.18)",
+    "title_bn": "Workplace considerations এক নজরে",
+    "columns": [
+      "Topic",
+      "What the CBLM says"
+    ],
+    "rows": [
+      [
+        "Workspace",
+        {
+          "text": "Movement around workstations should be unhindered by equipment, materials or other trainees.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 18,
+              "quote": "Movement in and around workstations should be unhindered by workshop equipment, materials or other trainees."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Actual space",
+        {
+          "text": "Local regulations will apply to actual space allowable.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 18,
+              "quote": "Local regulations will apply to actual space allowable."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Operating machinery",
+        {
+          "text": "Operate machinery and power tools by workshop policy and manufacturer's recommendations.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 18,
+              "quote": "Fixed machinery and portable or hand-held power tools must be operated in"
+            },
+            {
+              "src": "cblm06",
+              "page": 18,
+              "quote": "accordance with established workshop policy procedures and machinery manufacturer's recommendations."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Faults",
+        {
+          "text": "Any faults identified in operation must be reported to the appropriate authority.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 18,
+              "quote": "Any faults identified in operation must be reported to the appropriate authority."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Demonstration equipment",
+        {
+          "text": "Suppliers or manufacturers may place machinery in the workshop for demonstration purposes.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 18,
+              "quote": "Arrangements may be made with suppliers and/or machinery manufacturers to place items of machinery or equipment in the training workshop for demonstration purposes."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Clear instructions",
+        {
+          "text": "Clear instructions for the use of demonstration equipment must be established",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 18,
+              "quote": "Clear instructions for the use of demonstration equipment must be established"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    ]
+  },
+  "practice": {
+    "short": {
+      "prompt": "State the rules for the safe and efficient location of fixed workshop machinery.",
+      "modelAnswer": "Rules for locating fixed workshop machinery:\n1. Adequate distance between machinery; safety switches work on all machinery.\n2. Safety barriers correctly placed; machine guards in proper working order.\n3. Rotating machinery properly guarded; stop buttons adequate and working.\n4. Fume and dust extraction adequate and working for the workshop size.\n5. Adequate lighting in booths or compartments where work is performed.",
+      "keyPoints": [
+        {
+          "text": "Adequate distance exists between machinery. Safety switches operate effectively on all machinery.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 18,
+              "quote": "Adequate distance exists between machinery, and safety switches operate effectively on all machinery."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Safety barriers are correctly placed. Machine guards are in proper working order on all machinery.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 18,
+              "quote": "Safety barriers are correctly placed and machine guards are in proper working order on all machinery."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Rotating machinery is properly guarded. Machinery stop buttons are adequate and in proper working order.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 18,
+              "quote": "Rotating machinery is properly guarded and machinery stop buttons are adequate and in proper working order."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Fume and dust extraction facilities are adequate for the size of the workshop. They are in proper working order.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 18,
+              "quote": "Fume and dust extraction facilities are adequate and in proper working order for the size of the workshop."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Adequate lighting is provided in booths or compartments where work is performed.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 18,
+              "quote": "Adequate lighting is provided in booths or compartments where work is performed."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      "marks": 5
+    },
+    "mcq": {
+      "prompt": "Which is a rule for the location of fixed workshop machinery?",
+      "options": [
+        "Fume and dust extraction facilities are adequate and in proper working order",
+        "Machines are placed as close together as possible",
+        "Stop buttons are removed while trainees practise",
+        "Lighting is needed only in the storage area"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm06",
+        "page": 18,
+        "quote": "Fume and dust extraction facilities are adequate and in proper working order"
+      }
+    },
+    "matching": {
+      "prompt": "Match each workplace term with what CBLM 6 says.",
+      "pairs": [
+        {
+          "left": "Clear space",
+          "right": "Exclusive of desks, benches, machinery and fittings",
+          "cite": {
+            "src": "cblm06",
+            "page": 18,
+            "quote": "The clear space should be exclusive of desks, benches, machinery and any"
+          }
+        },
+        {
+          "left": "Rotating machinery",
+          "right": "Properly guarded",
+          "cite": {
+            "src": "cblm06",
+            "page": 18,
+            "quote": "Rotating machinery is properly guarded"
+          }
+        },
+        {
+          "left": "Faults in operation",
+          "right": "Reported to the appropriate authority",
+          "cite": {
+            "src": "cblm06",
+            "page": 18,
+            "quote": "Any faults identified in operation must be reported to the appropriate authority."
+          }
+        },
+        {
+          "left": "Demonstration equipment",
+          "right": "Signed letters of agreement",
+          "cite": {
+            "src": "cblm06",
+            "page": 18,
+            "quote": "Signed letters of agreement are essential to protect the rights of all"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why are signed letters of agreement needed for demonstration equipment?",
+      "answer": {
+        "text": "Signed letters of agreement are essential to protect the rights of all concerned.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 18,
+            "quote": "Signed letters of agreement are essential to protect the rights of all concerned."
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    }
+  },
+  "checks": []
+}

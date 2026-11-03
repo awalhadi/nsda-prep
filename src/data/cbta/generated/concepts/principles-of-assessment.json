@@ -40,6 +40,1186 @@
     "bn": "পড়তে কষ্ট হয় এমন candidate-কে মুখে উত্তর দিতে দেওয়া fairness-এর উদাহরণ।",
     "en": "A driving test centre lets a candidate with weak reading answer questions orally. This keeps the test fair."
   },
+  "extra": [
+    {
+      "bn": [
+        "চারটা principle: Validity, Reliability, Flexibility, Fairness। মনে রাখো \"VRFF\"।",
+        "Designer-কে নিজে check করতে হবে design এই চারটা মানছে কি না।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "should be underpinned by the following set of principles: validity, reliability, flexibility and fairness",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "CB assessment is underpinned by four principles: validity, reliability, flexibility and fairness."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "As a designer of CB assessment events you must check to see your assessment design complies with the principles outlined below",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "As a designer, check that your assessment design complies with these principles."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p10-principles-intro"
+      ],
+      "title": "Principles of competency based assessment"
+    },
+    {
+      "columns": [
+        "Principle",
+        "Meaning",
+        "In assessment this means",
+        "Achieved by"
+      ],
+      "kind": "table",
+      "outline": [
+        "c11-p10-validity",
+        "c11-p10-reliability",
+        "c11-p11-reliability-improved",
+        "c11-p11-flexibility",
+        "c11-p11-fairness",
+        "c11-p12-other-principles",
+        "c11-p12-authenticity-principle",
+        "c11-p12-currency-principle",
+        "c11-p12-cost-effectiveness"
+      ],
+      "rows": [
+        [
+          "Validity",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 10,
+                "printedPage": 10,
+                "quote": "Assessments are valid when they assess what they claim to assess",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Assessments assess what they claim to assess."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 10,
+                "printedPage": 10,
+                "quote": "Assessments will cover the range of skills and knowledge sufficient to demonstrate competency",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 10,
+                "printedPage": 10,
+                "quote": "Assessment of competence should integrate knowledge and skills with their practical application",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 10,
+                "printedPage": 10,
+                "quote": "made on evidence gathered on a number of occasions and in a variety of situations",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Cover enough skills and knowledge. Integrate knowledge and skills with practical application. Judge on evidence from many occasions and situations."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 10,
+                "printedPage": 10,
+                "quote": "assessors are fully aware of what is to be assessed, as indicated by clearly defined performance or assessment criteria",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 10,
+                "printedPage": 10,
+                "quote": "evidence is collected from activities and tasks that can be clearly related to the unit of competency",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 10,
+                "printedPage": 10,
+                "quote": "evidence demonstrates that the performance or assessment criteria have been met",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 10,
+                "printedPage": 10,
+                "quote": "evidence is sufficient, ie the units/elements of competency or learning outcomes have been suitably sampled",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Assessors know what is assessed from clearly defined criteria. Evidence relates to the unit, shows criteria are met and is sufficient."
+          }
+        ],
+        [
+          "Reliability",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 10,
+                "printedPage": 10,
+                "quote": "Assessments are reliable when the methods and procedures used are consistently interpreted and applied over time",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Methods and procedures are consistently interpreted and applied over time."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 10,
+                "printedPage": 10,
+                "quote": "Assessment practices should be monitored and reviewed to ensure that there is consistency in the interpretation of evidence",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 10,
+                "printedPage": 10,
+                "quote": "Assessors must be competent in terms of the national competency standards for assessment",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Monitor and review practices for consistent interpretation of evidence. Assessors must be competent against national assessment standards."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "administering assessments in the same way for each candidate",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "ensuring that instructions to candidates are clear, consistent and unambiguous",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "ensuring that assessors use well planned guides",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "making sure that assessment events are 'just right' neither too hard nor too easy",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "evaluating and revising the assessment tools and their results with other assessors",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Administer each candidate the same way. Give clear instructions. Use well planned guides. Keep events 'just right'. Review tools with other assessors."
+          }
+        ],
+        [
+          "Flexibility",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Assessments are flexible when they are appropriate to the range of knowledge, skills and attitudes encompassed by competency standards",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "the range of delivery modes and locations as well as the needs of a wide range of candidates",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Appropriate to the range of knowledge, skills, delivery modes, locations and candidates' needs."
+          },
+          "—",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "there is no single approach to the assessment of performance",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "assessment practices reflect a consideration of the widest range of direct, indirect and supplementary evidence",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Accept there is no single approach to assessing performance. Consider the widest range of direct, indirect and supplementary evidence."
+          }
+        ],
+        [
+          "Fairness",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Assessments are fair when they are accessible to all eligible candidates",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "no one is disadvantaged by the procedures or methods used",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Accessible to all eligible candidates. No one is disadvantaged by the procedures or methods."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Assessment practices and methods are equitable for all groups of learners or candidates",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Assessment procedures and the criteria for judging performance are made clear",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "There should be a participatory approach to the conduct of assessment",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "jointly developed and agreed between assessor and the candidate",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Opportunities must be provided to allow learners/candidates to challenge assessments and provision must be made for re-assessment",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Equitable methods. Clear procedures and criteria. A participatory approach, jointly developed and agreed. Chances to challenge, and re-assessment."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "ensuring that the assessment process is 'transparent'",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "consulting candidates on the purpose, methods and procedures for assessment",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "providing and seeking informative feedback throughout the assessment process",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "making challenges and appeals accessible to all candidates",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "A transparent process. Consult candidates. Provide and seek feedback. Make challenges and appeals accessible."
+          }
+        ],
+        [
+          "Authenticity (other principle)",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 12,
+                "printedPage": 12,
+                "quote": "When designing assessment tools that use indirect evidence, e.g. work samples",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 12,
+                "printedPage": 12,
+                "quote": "establish that indirect evidence is the work of the candidate and not someone else's",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Indirect evidence, such as work samples, must be the candidate's own work."
+          },
+          "—",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 12,
+                "printedPage": 12,
+                "quote": "you need to ensure that the assessors check on authenticity",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 12,
+                "printedPage": 12,
+                "quote": "You should collect more direct evidence if in doubt",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Assessors check authenticity. Collect more direct evidence if in doubt."
+          }
+        ],
+        [
+          "Currency (other principle)",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 12,
+                "printedPage": 12,
+                "quote": "When assessment tools also rely on evidence such as samples, references and qualifications, ensure you check on their currency",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Check the currency of samples, references and qualifications."
+          },
+          "—",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 12,
+                "printedPage": 12,
+                "quote": "If currency is in doubt, look for more direct evidence",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "If currency is in doubt, look for more direct evidence."
+          }
+        ],
+        [
+          "Cost-effectiveness (other principle)",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 12,
+                "printedPage": 12,
+                "quote": "ensure that the assessment methods and activities are cost-effective in terms of both time and financial costs",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Methods and activities are cost-effective in time and financial costs."
+          },
+          "—",
+          "—"
+        ],
+        [
+          "Reasonable adjustment (other principle)",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 12,
+                "printedPage": 12,
+                "quote": "an individual with a disability (or temporary disability) is not presented with artificial barriers when demonstrating achievement of competence",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "An individual with a disability is not presented with artificial barriers."
+          },
+          "—",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 12,
+                "printedPage": 12,
+                "quote": "provision of personal support services (e.g. reader, interpreter, attendant carer, scribe), use of special equipment",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 12,
+                "printedPage": 12,
+                "quote": "or adaptive technology, shorter assessment sessions to allow for fatigue or medication, use of large print version of any papers",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Personal support (reader, interpreter, carer, scribe), special equipment, adaptive technology, shorter sessions, large print papers."
+          }
+        ]
+      ],
+      "title": "The principles of CB assessment",
+      "title_bn": "Assessment-এর principle: অর্থ, কী বোঝায়, কীভাবে অর্জন"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Assessments are valid when they assess what they claim to assess",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessments are valid when they assess what they claim to assess."
+      },
+      "concept": "principles-of-assessment",
+      "example": {
+        "bn": "যা মাপার কথা, সেটাই মাপলে valid।",
+        "en": "A test of motorbike repair must test repair skill, not English grammar."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p10-validity"
+      ],
+      "q": "When are assessments valid?",
+      "q_bn": "Assessment কখন valid হয়?",
+      "tip": "Valid = right target.",
+      "tip_bn": "Valid = ঠিক জিনিস মাপা।"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Assessments will cover the range of skills and knowledge sufficient to demonstrate competency",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessments cover the range of skills and knowledge sufficient to demonstrate competency."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Assessment of competence should integrate knowledge and skills with their practical application.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Assessment of competence should integrate knowledge and skills with their practical application."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "a judgement to determine a candidate's competency should",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "be made on evidence gathered on a number of occasions and in a variety of situations",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Judgement of competency uses evidence from many occasions and a variety of situations."
+        }
+      ],
+      "items_bn": [
+        "Assessment-এ এতটা skills ও knowledge-এর range ঢাকতে হবে, যা দিয়ে competency প্রমাণ করা যায়।",
+        "শুধু জানা নয় — knowledge আর skills বাস্তবে প্রয়োগ করতে পারে কি না, একসাথে দেখতে হবে।",
+        "একবারের কাজ দেখে নয়, অনেক সময়ে ও নানা পরিস্থিতির evidence দিয়ে competency বিচার করতে হবে।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c11-p10-validity"
+      ],
+      "title": "What validity in assessment means",
+      "title_bn": "Validity মানে (৩টি কথা)"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Assessments are flexible when they are appropriate to the range of knowledge, skills and attitudes encompassed by competency standards, the range of delivery modes and locations as well as the needs of a wide range of candidates",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "When they suit the range of knowledge, skills, attitudes, delivery modes, locations and candidates' needs."
+      },
+      "concept": "principles-of-assessment",
+      "example": {
+        "bn": "একটাই পথ নয়; নানা ধরনের evidence গ্রহণ করাই flexibility।",
+        "en": "A candidate in a remote char area gives evidence by a supervisor report and photos."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p11-flexibility"
+      ],
+      "q": "When are assessments flexible?",
+      "q_bn": "Assessment কখন flexible?",
+      "tip": "Flexible = no single approach.",
+      "tip_bn": "Flexible = এক পথ নয়, অনেক পথ।"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "we recognise that there is no single approach to the assessment of performance in a competency-based system",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "there is no single approach to assessing performance in a competency-based system"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "assessment practices reflect a consideration of the widest range of direct, indirect and supplementary evidence",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "practices consider the widest range of direct, indirect and supplementary evidence"
+        }
+      ],
+      "items_bn": [
+        "Competency-based system-এ performance assess করার একটাই নির্দিষ্ট পথ নেই, তাই প্রয়োজনমতো পথ বেছে নেওয়া যায়।",
+        "Direct, indirect আর supplementary — যত বেশি ধরনের evidence বিবেচনা করা হয়, assessment তত flexible হয়।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c11-p11-flexibility"
+      ],
+      "title": "When flexibility in assessment is promoted",
+      "title_bn": "Flexibility কখন বাড়ে"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Assessments are fair when they are accessible to all eligible candidates",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "no one is disadvantaged by the procedures or methods used",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "When accessible to all eligible candidates. No one is disadvantaged by the procedures or methods."
+      },
+      "concept": "principles-of-assessment",
+      "example": {
+        "bn": "বয়স, লিঙ্গ, প্রতিবন্ধিতা, ভাষা বা এলাকার কারণে কেউ পিছিয়ে পড়বে না।",
+        "en": "A deaf trainee in a tailoring course gets written instructions instead of spoken ones."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p11-fairness"
+      ],
+      "q": "When are assessments fair?",
+      "q_bn": "Assessment কখন fair?",
+      "tip": "Fair = no one is disadvantaged.",
+      "tip_bn": "Fair = সবার জন্য সমান সুযোগ।"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Assessments are fair when they are accessible to all eligible candidates regardless of age, gender, disability, ethnic or social background, language barriers or geographic location",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Access is fair regardless of age, gender, disability, background, language or location."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p11-fairness"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Assessment practices and methods are equitable for all groups of learners or candidates",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessment practices and methods are equitable for all groups of learners."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Assessment procedures and the criteria for judging performance are made clear to all learners or candidates seeking assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Procedures and judging criteria are made clear to all candidates."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "There should be a participatory approach to the conduct of assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "jointly developed and agreed between assessor and the candidate",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A participatory approach: assessor and candidate jointly develop and agree the process."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Opportunities must be provided to allow learners/candidates to challenge assessments and provision must be made for re-assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Candidates may challenge assessments, and re-assessment must be provided."
+        }
+      ],
+      "items_bn": [
+        "Assessment practices আর methods সব ধরনের learner-এর জন্য সমান ন্যায্য হতে হবে।",
+        "Procedures আর বিচারের criteria সব candidates-কে পরিষ্কার করে জানাতে হবে।",
+        "Assessor আর candidate মিলে process ঠিক করেন ও একমত হন — একে participatory approach বলে।",
+        "Candidate চাইলে assessment-কে challenge করতে পারে, আর তখন re-assessment দিতে হবে।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c11-p11-fairness"
+      ],
+      "title": "What fairness in CB assessment means",
+      "title_bn": "Fairness মানে (৪টি কথা)"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "ensuring that the assessment process is 'transparent', ie clear and available to all relevant people",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "making the assessment process transparent: clear and available to all relevant people"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "consulting candidates on the purpose, methods and procedures for assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "consulting candidates on the purpose, methods and procedures for assessment"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "providing and seeking informative feedback throughout the assessment process",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "providing and seeking informative feedback throughout the assessment process"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "making challenges and appeals accessible to all candidates",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "making challenges and appeals accessible to all candidates"
+        }
+      ],
+      "items_bn": [
+        "Assessment process transparent রাখা — সংশ্লিষ্ট সবার কাছে পরিষ্কার ও সহজলভ্য।",
+        "Assessment-এর purpose, methods আর procedures নিয়ে candidates-এর সাথে পরামর্শ করা।",
+        "পুরো assessment process জুড়ে তথ্যপূর্ণ feedback দেওয়া ও নেওয়া।",
+        "Challenges আর appeals করার সুযোগ সব candidates-এর জন্য খোলা রাখা।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c11-p11-fairness"
+      ],
+      "title": "Ways to achieve fairness in assessment",
+      "title_bn": "Fairness অর্জনের ৪টি উপায়"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Reasonable adjustment measures are made to ensure that an individual with a disability (or temporary disability) is not presented with artificial barriers",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Measures so a person with a disability or temporary disability meets no artificial barriers."
+      },
+      "concept": "reasonable-adjustment",
+      "example": {
+        "bn": "হাত ভাঙা trainee-র জন্য scribe দেওয়া: standard একই, শুধু বাধা সরানো।",
+        "en": "A trainee with a broken right hand uses a scribe in the written test."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p12-reasonable-adjustment"
+      ],
+      "q": "What is reasonable adjustment?",
+      "q_bn": "Reasonable adjustment কী?",
+      "tip": "Adjust the method, never the standard.",
+      "tip_bn": "Method বদলায়, standard নয়।"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Candidates with special needs may include those with disabilities",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Candidates with disabilities"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "with literacy, numeracy or language difficulties",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Candidates with literacy, numeracy or language difficulties"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "those who come from non-English speaking backgrounds",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Candidates from non-English speaking backgrounds"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "anxious or inexperienced candidates",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Anxious or inexperienced candidates"
+        }
+      ],
+      "items_bn": [
+        "যাদের কোনো disability আছে, তাদের assessment-এ বিশেষ ব্যবস্থা লাগতে পারে।",
+        "যাদের পড়া-লেখা, হিসাব বা ভাষায় অসুবিধা আছে।",
+        "যাদের ভাষাগত পটভূমি English নয়, তাদের ভাষার কারণে অসুবিধা হতে পারে।",
+        "যারা দুশ্চিন্তাগ্রস্ত (anxious) বা অনভিজ্ঞ, তাদেরও সহায়তা লাগতে পারে।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c11-p12-reasonable-adjustment"
+      ],
+      "title": "Candidates who may have special needs",
+      "title_bn": "যাদের special needs থাকতে পারে"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "The need for functional assistance and or support for individuals may vary and the needs of each person for support may also vary from time to time",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Support needs may vary for individuals, and from time to time."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p12-reasonable-adjustment"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "provision of personal support services (e.g. reader, interpreter, attendant carer, scribe)",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Personal support services: reader, interpreter, attendant carer, scribe."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "use of special equipment (e.g. word processor or lifting gear) or adaptive technology",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Special equipment, such as a word processor or lifting gear, or adaptive technology."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "shorter assessment sessions to allow for fatigue or medication",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Shorter assessment sessions to allow for fatigue or medication."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "use of large print version of any papers",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Large print version of any papers."
+        }
+      ],
+      "items_bn": [
+        "ব্যক্তিগত সহায়তা — reader, interpreter, attendant carer বা scribe দেওয়া।",
+        "বিশেষ equipment — যেমন word processor, lifting gear বা adaptive technology।",
+        "ক্লান্তি বা ওষুধের কারণে assessment sessions ছোট করা।",
+        "যেকোনো paper বড় অক্ষরে (large print) দেওয়া, যাতে পড়তে কষ্ট না হয়।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c11-p12-reasonable-adjustment"
+      ],
+      "title": "Examples of reasonable adjustments",
+      "title_bn": "Reasonable adjustment-এর উদাহরণ"
+    }
+  ],
   "highlighted": true,
   "id": "principles-of-assessment",
   "importance": {
@@ -145,7 +1325,15 @@
         "fidelity": "paraphrase",
         "text": "Fairness: accessible to all eligible candidates, and no one is disadvantaged."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Validity — যা assess করার কথা, ঠিক সেটাই assess করা; অন্য কিছু নয়।",
+      "Reliability — methods আর procedures সবসময় একইভাবে বোঝা ও প্রয়োগ করা হয়, তাই ফলাফলে ভরসা করা যায়।",
+      "Flexibility — knowledge, skills, delivery modes আর candidates-এর প্রয়োজন অনুযায়ী assessment মানিয়ে নেওয়া যায়।",
+      "Fairness — যোগ্য সব candidates assessment দিতে পারে, কেউ অসুবিধায় পড়ে না।"
+    ],
+    "title": "Principles of competency based assessment",
+    "titleBn": "Competency based assessment-এর নীতি"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -353,6 +1541,60 @@
           ],
           "fidelity": "paraphrase",
           "text": "Valid evidence demonstrates that the performance or assessment criteria have been met."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "the widest range of direct, indirect and supplementary evidence",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Flexibility considers the widest range of direct, indirect and supplementary evidence."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "There should be a participatory approach to the conduct of assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "jointly developed and agreed between assessor and the candidate",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Fairness needs a participatory approach, jointly agreed by assessor and candidate."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Opportunities must be provided to allow learners/candidates to challenge assessments and provision must be made for re-assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Opportunities must be provided to challenge assessments, with provision for re-assessment."
         }
       ],
       "modelAnswer": "Fairness: assessments are accessible to all eligible candidates, regardless of age, gender, disability, background, language or location. No one is disadvantaged by the procedures or methods.\nFairness can be achieved by:\n1. A transparent assessment process\n2. Consulting candidates on purpose, methods and procedures\n3. Providing and seeking informative feedback\n4. Making challenges and appeals accessible to all candidates",
@@ -465,8 +1707,561 @@
       ],
       "fidelity": "paraphrase",
       "text": "Flexibility: there is no single approach to the assessment of performance."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 12,
+          "printedPage": 12,
+          "quote": "attendant carer, scribe",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 12,
+          "printedPage": 12,
+          "quote": "use of large print version of any papers",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 12,
+          "printedPage": 12,
+          "quote": "Examples of Reasonable adjustments include",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Reasonable adjustment examples include a scribe and a large print version of papers."
     }
   ],
+  "visual": {
+    "columns": [
+      "Principle",
+      "Meaning",
+      "In assessment this means",
+      "Achieved by"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Validity",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Assessments are valid when they assess what they claim to assess",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessments assess what they claim to assess."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Assessments will cover the range of skills and knowledge sufficient to demonstrate competency",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Assessment of competence should integrate knowledge and skills with their practical application",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "made on evidence gathered on a number of occasions and in a variety of situations",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Cover enough skills and knowledge. Integrate knowledge and skills with practical application. Judge on evidence from many occasions and situations."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "assessors are fully aware of what is to be assessed, as indicated by clearly defined performance or assessment criteria",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "evidence is collected from activities and tasks that can be clearly related to the unit of competency",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "evidence demonstrates that the performance or assessment criteria have been met",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "evidence is sufficient, ie the units/elements of competency or learning outcomes have been suitably sampled",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessors know what is assessed from clearly defined criteria. Evidence relates to the unit, shows criteria are met and is sufficient."
+        }
+      ],
+      [
+        "Reliability",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Assessments are reliable when the methods and procedures used are consistently interpreted and applied over time",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Methods and procedures are consistently interpreted and applied over time."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Assessment practices should be monitored and reviewed to ensure that there is consistency in the interpretation of evidence",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Assessors must be competent in terms of the national competency standards for assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Monitor and review practices for consistent interpretation of evidence. Assessors must be competent against national assessment standards."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "administering assessments in the same way for each candidate",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "ensuring that instructions to candidates are clear, consistent and unambiguous",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "ensuring that assessors use well planned guides",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "making sure that assessment events are 'just right' neither too hard nor too easy",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "evaluating and revising the assessment tools and their results with other assessors",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Administer each candidate the same way. Give clear instructions. Use well planned guides. Keep events 'just right'. Review tools with other assessors."
+        }
+      ],
+      [
+        "Flexibility",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Assessments are flexible when they are appropriate to the range of knowledge, skills and attitudes encompassed by competency standards",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "the range of delivery modes and locations as well as the needs of a wide range of candidates",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Appropriate to the range of knowledge, skills, delivery modes, locations and candidates' needs."
+        },
+        "—",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "there is no single approach to the assessment of performance",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "assessment practices reflect a consideration of the widest range of direct, indirect and supplementary evidence",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Accept there is no single approach to assessing performance. Consider the widest range of direct, indirect and supplementary evidence."
+        }
+      ],
+      [
+        "Fairness",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Assessments are fair when they are accessible to all eligible candidates",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "no one is disadvantaged by the procedures or methods used",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Accessible to all eligible candidates. No one is disadvantaged by the procedures or methods."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Assessment practices and methods are equitable for all groups of learners or candidates",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Assessment procedures and the criteria for judging performance are made clear",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "There should be a participatory approach to the conduct of assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "jointly developed and agreed between assessor and the candidate",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Opportunities must be provided to allow learners/candidates to challenge assessments and provision must be made for re-assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Equitable methods. Clear procedures and criteria. A participatory approach, jointly developed and agreed. Chances to challenge, and re-assessment."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "ensuring that the assessment process is 'transparent'",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "consulting candidates on the purpose, methods and procedures for assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "providing and seeking informative feedback throughout the assessment process",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "making challenges and appeals accessible to all candidates",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A transparent process. Consult candidates. Provide and seek feedback. Make challenges and appeals accessible."
+        }
+      ],
+      [
+        "Authenticity (other principle)",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "When designing assessment tools that use indirect evidence, e.g. work samples",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "establish that indirect evidence is the work of the candidate and not someone else's",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Indirect evidence, such as work samples, must be the candidate's own work."
+        },
+        "—",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "you need to ensure that the assessors check on authenticity",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "You should collect more direct evidence if in doubt",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessors check authenticity. Collect more direct evidence if in doubt."
+        }
+      ],
+      [
+        "Currency (other principle)",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "When assessment tools also rely on evidence such as samples, references and qualifications, ensure you check on their currency",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Check the currency of samples, references and qualifications."
+        },
+        "—",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "If currency is in doubt, look for more direct evidence",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "If currency is in doubt, look for more direct evidence."
+        }
+      ],
+      [
+        "Cost-effectiveness (other principle)",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "ensure that the assessment methods and activities are cost-effective in terms of both time and financial costs",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Methods and activities are cost-effective in time and financial costs."
+        },
+        "—",
+        "—"
+      ],
+      [
+        "Reasonable adjustment (other principle)",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "an individual with a disability (or temporary disability) is not presented with artificial barriers when demonstrating achievement of competence",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "An individual with a disability is not presented with artificial barriers."
+        },
+        "—",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "provision of personal support services (e.g. reader, interpreter, attendant carer, scribe), use of special equipment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "or adaptive technology, shorter assessment sessions to allow for fatigue or medication, use of large print version of any papers",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Personal support (reader, interpreter, carer, scribe), special equipment, adaptive technology, shorter sessions, large print papers."
+        }
+      ]
+    ],
+    "title": "The principles of CB assessment",
+    "title_bn": "CB assessment-এর নীতিগুলো"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

@@ -70,6 +70,8 @@
     "bn": "পরিষ্কার রাখা housekeeping; পুরনো মাল কাজে লাগানো বা নিষ্পত্তি salvage।"
   },
   "list_answer": {
+    "title": "Activities of a maintenance department",
+    "title_bn": "রক্ষণাবেক্ষণ বিভাগের (maintenance department) কাজসমূহ",
     "items": [
       {
         "text": "Inspection: periodic inspection of equipment to insure safe and proper operation.",
@@ -178,6 +180,15 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "পরিদর্শন — নির্দিষ্ট সময় পরপর equipment দেখা, যাতে তা নিরাপদে আর ঠিকমতো চলে।",
+      "রক্ষণাবেক্ষণ — তেল দেওয়া (lubricating), adjusting আর নিয়মিত বদল; একে preventive maintenance বলে।",
+      "মেরামত — parts বদলে equipment-কে আবার পুরো চালু অবস্থায় ফেরানো।",
+      "Overhaul — equipment খুলে (teardown), অংশ বদলে, আবার জোড়া দিয়ে testing করা।",
+      "নির্মাণ ও পুনর্বাসন — কাঠামো তৈরি করা, বদলানো আর আগের অবস্থায় ফেরানো।",
+      "Housekeeping — janitorial আর grounds keeping কাজ, যাতে ভবন ও চত্বর পরিষ্কার-গোছানো থাকে।",
+      "Salvage — বাড়তি মাল আর scrap উদ্ধার করে তার নিষ্পত্তি করা।"
     ]
   },
   "traps": [

@@ -79,6 +79,8 @@
     "bn": "একটি element থেকে module-এ তিনটি learning outcome বানানো যেতে পারে।"
   },
   "list_answer": {
+    "title": "Features of a learning outcome and an element of competency",
+    "title_bn": "Learning outcome ও element of competency-র বৈশিষ্ট্য",
     "items": [
       {
         "text": "A learning outcome is a curriculum term.",
@@ -185,6 +187,15 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Learning outcome শব্দটা curriculum-এর ভাষা।",
+      "Learning outcome বলে দেয়, learner কী করতে পারবে।",
+      "Learning outcome industry-র ঠিক করা competency standards-এর সাথে সম্পর্কিত।",
+      "Learning outcome learner-এর দিক থেকে action statement হিসেবে লেখা হয়, মানে কাজ বোঝায় এমন বাক্যে।",
+      "Element of competency শব্দটা industry competency standards-এর ভাষা।",
+      "Element হলো unit of competence-এর মূল ইট (basic building block)।",
+      "Element বোঝায় সেই tasks, যা মিলে বড় function বা job তৈরি হয়।"
     ]
   },
   "traps": [
@@ -358,5 +369,99 @@
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "compare",
+    "title": "Learning outcome vs Element of competency (p.10)",
+    "title_bn": "Learning outcome বনাম Element of competency",
+    "left": {
+      "title": "A learning outcome",
+      "title_bn": "Learning outcome",
+      "points": [
+        {
+          "text": "Is a curriculum term.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "is a curriculum term"
+            }
+          ]
+        },
+        {
+          "text": "States what a learner should be able to do.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "states what a learner should be able to do towards achieving the purpose of the"
+            }
+          ]
+        },
+        {
+          "text": "Relates to standards of competency identified by industry.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "relates to standards of competency identified by industry"
+            }
+          ]
+        },
+        {
+          "text": "Is an action statement from the learner's point of view.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "is written as an action statement from the learner's point of view."
+            }
+          ]
+        }
+      ]
+    },
+    "right": {
+      "title": "An element of competency",
+      "title_bn": "Element of competency",
+      "points": [
+        {
+          "text": "Is an industry competency standards term.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "is a industry competency standards term"
+            }
+          ]
+        },
+        {
+          "text": "Is the basic building block of a unit of competence.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "is the basic building block of a unit of competence"
+            }
+          ]
+        },
+        {
+          "text": "Describes the tasks that make up the broader function or job.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 10,
+              "quote": "describes the tasks that make up the broader function or job."
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

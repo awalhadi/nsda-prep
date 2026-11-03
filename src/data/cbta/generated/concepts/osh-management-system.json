@@ -44,6 +44,158 @@
     "bn": "গার্মেন্টস কারখানা OSH strategy লিখে, plan করে, check করে, আর নিয়মিত উন্নতি করে।",
     "en": "A garments factory writes an OSH strategy and plans fire safety. It checks the plan and keeps improving it."
   },
+  "extra": [
+    {
+      "bn": [
+        "Hazard থাকলে কর্মীর আঘাত বা অসুস্থতার risk থাকে, তাই OSH নিয়ম মেনে পদ্ধতিগতভাবে (systematic) চালাতে হয়।",
+        "Bangladesh-এ OSH আইনগতভাবে বাধ্যতামূলক (legal requirement)।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Many workplaces have hazards. Hazards put employees at risk of injury or harm to health.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Many workplaces have hazards. Hazards put employees at risk of injury or harm to health."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Therefore health and safety need to be managed in a systematic manner.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "So health and safety need to be managed in a systematic manner."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "This is the job of occupational health and safety management.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "This is the job of occupational health and safety management."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p7-osh-management"
+      ]
+    },
+    {
+      "bn": [
+        "OSH management system আলাদা কিছু নয়; ISO9000-এর মতো, বিদ্যমান management system-এর সাথেই যুক্ত করা হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "The management system provides the framework for the process",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "of identifying hazards, assessing associated risks, taking action",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "and reviewing the outcome.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The management system is the framework: identify hazards, assess risks, act, review the outcome."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "system it conforms to the kind of management system as it was",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "developed for quality management (ISO9000)",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It conforms to the management system developed for quality management (ISO9000)."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "occupational health and safety management system just has to be",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "integrated into the existing management systems.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "So the OSH management system just has to be integrated into existing systems."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p7-management-system",
+        "c03-p8-msystem-elements"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "osh-management-system",
   "importance": {
@@ -169,7 +321,17 @@
         "fidelity": "verbatim",
         "text": "Continual Improvement"
       }
-    ]
+    ],
+    "itemsBn": [
+      "OSH strategy নির্ধারণ — health and safety-তে প্রতিষ্ঠান কোন লক্ষ্য নিয়ে চলবে তা ঠিক করা।",
+      "পরিকল্পনা (planning) — strategy বাস্তবায়নে কী কী করতে হবে তা সাজানো।",
+      "বাস্তবায়ন ও পরিচালনা (implementation and operation) — পরিকল্পনা অনুযায়ী কাজ চালানো।",
+      "যাচাই ও সংশোধনমূলক ব্যবস্থা (checking and corrective action) — ঠিকমতো চলছে কিনা দেখে ভুল শুধরানো।",
+      "Management review — ব্যবস্থাপনার পক্ষ থেকে পুরো system পর্যালোচনা করা।",
+      "ক্রমাগত উন্নতি (continual improvement) — system-কে বারবার আরও ভালো করা।"
+    ],
+    "title": "Elements of an OSH management system",
+    "titleBn": "OSH management system-এর elements"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -497,6 +659,7 @@
       "text": "Elements differ from the risk process: identifying, assessing, taking action, monitoring."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

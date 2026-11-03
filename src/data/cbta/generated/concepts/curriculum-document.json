@@ -62,6 +62,475 @@
     "bn": "নতুন IT trainer নিজে curriculum বানান না, প্রতিষ্ঠান তাকে syllabus দেয়।",
     "en": "A new IT trainer gets the syllabus for a computer module from the training centre."
   },
+  "extra": [
+    {
+      "bn": [
+        "নতুন শিক্ষককে সাধারণত curriculum বানাতে হয় না; একটি syllabus দেওয়া হয়।",
+        "Curriculum পুরো course-এর হতে পারে, আবার একটি subject বা module-এরও হতে পারে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "A curriculum is a documented representation of a set of competencies.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "A curriculum is a documented representation of a set of competencies."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "Under the",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "NTVQF, these competencies are usually written as Units of Competency (UoC)",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Under the NTVQF, these competencies are usually written as Units of Competency (UoC)."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "These standards are endorsed by the relevant Industry Skills Council (ISC).",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "These standards are endorsed by the relevant Industry Skills Council (ISC)."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "A beginning teacher/trainer",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "may be greeted",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "given a syllabus",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "document, sometimes referred to as a syllabus",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A beginning teacher/trainer may be given a document, sometimes referred to as a syllabus."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p24-curriculum-documents",
+        "c01-p24-curriculum-information"
+      ]
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 24,
+            "printedPage": 24,
+            "quote": "You should avoid at all costs the temptation to depart from the curriculum",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          },
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 24,
+            "printedPage": 24,
+            "quote": "You must cover the learning outcomes specified",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "You should avoid at all costs the temptation to depart from the curriculum. You must cover the learning outcomes specified."
+      },
+      "kind": "qa",
+      "outline": [
+        "c01-p24-follow-curriculum"
+      ],
+      "q": "Do I need to follow everything in the curriculum document?",
+      "q_bn": "Curriculum-এর সব কিছু কি মানতেই হবে?",
+      "tip": "You may add to the curriculum, but be careful: another teacher may already cover it.",
+      "tip_bn": "যোগ করা যায়, কিন্তু সাবধান — অন্য শিক্ষক হয়তো সেটা আগেই পড়াচ্ছেন।"
+    },
+    {
+      "bn": "গল্পের শিক্ষা: কোনো learning outcome বাদ দেবেন না — অন্য বিষয় হয়তো এর উপর দাঁড়িয়ে আছে।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "left out two",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "learning outcomes",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "thought were less important",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "I left out two of the learning outcomes that I",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A teacher left out two learning outcomes he thought were less important."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "subject built on this fundamental knowledge",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "so i left",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "it was vital to his",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A colleague's subject built on this fundamental knowledge, so it was vital to his."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c01-p25-teacher-story"
+      ],
+      "text": "Lesson of the story: address and assess every learning outcome in the curriculum.",
+      "tone": "tip"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "You need to ensure",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "learners have met each",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "learning outcome",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "specified in the curriculum",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "You need to ensure learners have met each learning outcome specified in the curriculum."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "each of them in your session plans and",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "each of them as specified",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Address each of them in your session plans and assess each of them as specified."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p25-teacher-story"
+      ]
+    },
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 25,
+                "printedPage": 25,
+                "quote": "Provides information about the competencies associated with different occupations within a particular industry.",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Provides information about the competencies associated with different occupations within a particular industry."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 25,
+                "printedPage": 25,
+                "quote": "ideally lead",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 25,
+                "printedPage": 25,
+                "quote": "to national qualifications and",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 25,
+                "printedPage": 25,
+                "quote": "assessment guidelines",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Ideally leads to national qualifications and includes assessment guidelines."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 25,
+                "printedPage": 25,
+                "quote": "the skills, knowledge and attitude required for a particular industry",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Establishes the skills, knowledge and attitude required for a particular industry."
+          }
+        ],
+        "title": "Industry competency standard",
+        "title_bn": "Industry competency standard — শিল্পের মানদণ্ড"
+      },
+      "outline": [
+        "c01-p25-curriculum-vs-ics"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 25,
+                "printedPage": 25,
+                "quote": "Serves as an implementation guide for a unit",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 25,
+                "printedPage": 25,
+                "quote": "course or module of study",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Serves as an implementation guide for a unit, course or module of study."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 25,
+                "printedPage": 25,
+                "quote": "Must be 'mapped' against the competencies in",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 25,
+                "printedPage": 25,
+                "quote": "industry competency standards",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 25,
+                "printedPage": 25,
+                "quote": "to be accepted",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Must be 'mapped' against the competencies in industry competency standards to be accepted."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 25,
+                "printedPage": 25,
+                "quote": "Interprets the",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 25,
+                "printedPage": 25,
+                "quote": "standards so that it can be delivered as a course in TVET institutions",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Interprets the standards so that it can be delivered as a course in TVET institutions."
+          }
+        ],
+        "title": "Curriculum document",
+        "title_bn": "Curriculum document — পাঠ্যক্রম"
+      },
+      "title": "Industry competency standard vs curriculum document (p.25)",
+      "title_bn": "Competency standard বনাম curriculum"
+    }
+  ],
   "highlighted": true,
   "id": "curriculum-document",
   "importance": {
@@ -244,7 +713,20 @@
         "fidelity": "verbatim",
         "text": "A description of how the module and /or unit of competency might be delivered."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Module বা unit of competency-র নাম আর নম্বর।",
+      "Nominal delivery hours — শেখাতে মোটামুটি কত ঘণ্টা লাগবে।",
+      "Module বা unit-এর উদ্দেশ্য (purpose) নিয়ে একটা সাধারণ বিবরণ।",
+      "আগে থেকে কী knowledge আর skills জানা থাকতে হবে (prerequisite)।",
+      "Industry competency standards-এর সাথে এর সম্পর্ক।",
+      "কী কী পড়ানো হবে, সেই content-এর সারাংশ।",
+      "কীভাবে assessment হবে, তার সারাংশ।",
+      "Learning outcomes-এর বিস্তারিত বিবরণ, প্রতিটি assessment criterion সহ।",
+      "Module বা unit কীভাবে পড়ানো (delivered) যেতে পারে, তার বিবরণ।"
+    ],
+    "title": "Contents of a curriculum document",
+    "titleBn": "Curriculum document-এ যা থাকে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -655,6 +1137,7 @@
       "text": "Competency standards are endorsed by the Industry Skills Council (ISC), not by the trainer."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 2
 }

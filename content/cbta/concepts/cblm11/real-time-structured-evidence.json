@@ -1,0 +1,311 @@
+{
+  "id": "real-time-structured-evidence",
+  "canonical_title": "Real Time vs Simulated (Structured) Evidence",
+  "aliases": [
+    "Real or simulated assessment",
+    "Structured evidence",
+    "Real work evidence"
+  ],
+  "cblmPrimary": 11,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Depending on where and when it takes place, assessment is real or simulated.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm11",
+        "page": 16,
+        "quote": "Depending on where and when the assessment takes place, you will either have a real or simulated assessment"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "Real time",
+      "bn": "আসল কাজের সময়ে"
+    },
+    {
+      "en": "Simulated",
+      "bn": "আসল কাজের মতো করে সাজানো"
+    },
+    {
+      "en": "Structured evidence",
+      "bn": "পরিকল্পিতভাবে তৈরি পরিস্থিতির evidence"
+    },
+    {
+      "en": "Third party reporting",
+      "bn": "তৃতীয় ব্যক্তির রিপোর্ট"
+    },
+    {
+      "en": "Underpinning knowledge",
+      "bn": "কাজের পেছনের জ্ঞান"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment কোথায় ও কখন হচ্ছে, তার উপর নির্ভর করে এটা real নাকি simulated।",
+    "Real time মানে workplace-এ আসল কাজের সময় evidence নেওয়া।",
+    "Assessor নিজে observe করতে না পারলে third party reporting কাজে লাগে।",
+    "Safety, cost বা resources সমস্যা থাকলে structured evidence লাগে, যেমন simulations বা demonstrations।"
+  ],
+  "example": {
+    "en": "Testing fire response in a running garments factory is unsafe. The trainer runs a simulation instead.",
+    "bn": "আসল আগুনে test করা যায় না, তাই simulation = structured evidence।"
+  },
+  "traps": [
+    {
+      "text": "Real work projects done outside real work time or place are structured evidence.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 16,
+          "quote": "Examples of structured evidence include demonstrations, simulations, real work projects"
+        },
+        {
+          "src": "cblm11",
+          "page": 16,
+          "quote": "collected external to real work time or place"
+        }
+      ]
+    },
+    {
+      "text": "Third party reporting is real time evidence, used when the assessor cannot observe.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 16,
+          "quote": "In a real work or real time situation"
+        },
+        {
+          "src": "cblm11",
+          "page": 16,
+          "quote": "third party reporting, if an assessor cannot carry out the observation personally"
+        }
+      ]
+    }
+  ],
+  "visual": {
+    "kind": "compare",
+    "title": "Real time vs structured (simulated) evidence",
+    "title_bn": "Real time বনাম structured evidence",
+    "left": {
+      "title": "Real work / real time",
+      "title_bn": "আসল কাজের সময়",
+      "points": [
+        {
+          "text": "Evidence comes from the person's actual performance in the workplace.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "In a real work or real time situation, evidence can be collected through a person's actual performance in the workplace"
+            }
+          ]
+        },
+        {
+          "text": "Third party reporting is used if the assessor cannot observe personally.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "third party reporting, if an assessor cannot carry out the observation personally"
+            }
+          ]
+        }
+      ]
+    },
+    "right": {
+      "title": "Structured (simulated)",
+      "title_bn": "সাজানো পরিস্থিতি",
+      "points": [
+        {
+          "text": "Collected outside real work time or place. Designed to simulate actual performance.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "Where evidence is collected external to real work time or place, it is known as structured evidence because it has to be designed to simulate or reflect actual performance"
+            }
+          ]
+        },
+        {
+          "text": "Useful when real work evidence is not possible or desirable: safety, cost or resources.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "Structured evidence is useful when it is not possible or desirable to collect real work/real time evidence"
+            },
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "This may be due to safety, cost or resource considerations"
+            }
+          ]
+        },
+        {
+          "text": "Also useful in providing indications of underpinning knowledge.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "Structured evidence is also useful in providing indications of underpinning knowledge"
+            }
+          ]
+        },
+        {
+          "text": "Examples: demonstrations, simulations, real work projects and activities, and questions.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "Examples of structured evidence include demonstrations, simulations, real work projects and activities and questions"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "practice": {
+    "short": {
+      "prompt": "Distinguish real time evidence from structured evidence.",
+      "modelAnswer": "Real time evidence comes from actual performance in the workplace. Third party reports help if the assessor cannot observe.\nStructured evidence is collected outside real work time or place. It is designed to simulate actual performance. Use it for safety, cost or resource reasons. Examples: demonstrations, simulations, projects and questions.",
+      "keyPoints": [
+        {
+          "text": "Evidence comes from the person's actual performance in the workplace.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "In a real work or real time situation, evidence can be collected through a person's actual performance in the workplace"
+            }
+          ]
+        },
+        {
+          "text": "Collected outside real work time or place. Designed to simulate actual performance.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "Where evidence is collected external to real work time or place, it is known as structured evidence because it has to be designed to simulate or reflect actual performance"
+            }
+          ]
+        },
+        {
+          "text": "Useful when real work evidence is not possible or desirable: safety, cost or resources.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "Structured evidence is useful when it is not possible or desirable to collect real work/real time evidence"
+            },
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "This may be due to safety, cost or resource considerations"
+            }
+          ]
+        },
+        {
+          "text": "Examples: demonstrations, simulations, real work projects and activities, and questions.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 16,
+              "quote": "Examples of structured evidence include demonstrations, simulations, real work projects and activities and questions"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Evidence collected outside real work time or place is called:",
+      "options": [
+        "Structured evidence",
+        "Real time evidence",
+        "Third party evidence",
+        "Current evidence"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm11",
+        "page": 16,
+        "quote": "external to real work time or place, it is known as structured evidence"
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "Real time evidence",
+          "right": "Actual performance in the workplace",
+          "cite": {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "In a real work or real time situation, evidence can be collected through a person's actual performance in the workplace"
+          }
+        },
+        {
+          "left": "Structured evidence",
+          "right": "Designed to simulate actual performance",
+          "cite": {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "it is known as structured evidence because it has to be designed to simulate or reflect actual performance"
+          }
+        },
+        {
+          "left": "Third party reporting",
+          "right": "Assessor cannot carry out the observation personally",
+          "cite": {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "third party reporting, if an assessor cannot carry out the observation personally"
+          }
+        },
+        {
+          "left": "Simulations",
+          "right": "An example of structured evidence",
+          "cite": {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "Examples of structured evidence include demonstrations, simulations"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "When is structured evidence useful?",
+      "answer": {
+        "text": "When real work evidence is not possible or desirable, due to safety, cost or resources.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "Structured evidence is useful when it is not possible or desirable to collect real work/real time evidence"
+          },
+          {
+            "src": "cblm11",
+            "page": 16,
+            "quote": "This may be due to safety, cost or resource considerations"
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

@@ -38,6 +38,452 @@
     "bn": "লোকাল দোকানে ভুল অভ্যাস শেখা trainee-র prior knowledge নতুন শেখায় বাধা দেয়।",
     "en": "A trainee learned a wrong welding habit at a local shop. His prior knowledge now hinders new learning."
   },
+  "extra": [
+    {
+      "bn": [
+        "শেখা মানে শুধু বড় হওয়া (maturation) নয়; শেখা একটা active process, যার শেষে আচরণে স্থায়ী পরিবর্তন আসে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Although you cannot do the actual learning for the learner, you can facilitate learning",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "You cannot do the learning for the learner, but you can facilitate it."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Learning is often confused with maturation or physical growth.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Learning is often confused with maturation or physical growth."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Today, learning",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "is viewed as an active process in which the learner himself is definitely",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "involved.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Today learning is an active process; the learner is definitely involved."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "The end result of the",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "learning process is a relatively permanent change in the learners behavior",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The end result is a relatively permanent change in the learner's behavior."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p31-learning-process"
+      ],
+      "title": "The learning process"
+    },
+    {
+      "columns": [
+        "Principle",
+        "What it means"
+      ],
+      "kind": "table",
+      "outline": [
+        "c10-p31-eight-principles",
+        "c10-p32-principles-6-8"
+      ],
+      "rows": [
+        [
+          "1 Prior knowledge",
+          {
+            "cites": [
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "Prior learning is the lens through which we view all new information.",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "If that lens is",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "inaccurate or incomplete, it can interfere with or distort integration of incoming",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Prior learning is the lens for new information. An inaccurate lens distorts it."
+          }
+        ],
+        [
+          "2 Motivation",
+          {
+            "cites": [
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "Motivation influences the amount of time and efforts students devote of learning and",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "support their continued engagement when difficulties arise.",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Motivation influences time and effort, and keeps students engaged when difficulties arise."
+          }
+        ],
+        [
+          "3 Organising knowledge",
+          {
+            "cites": [
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "Knowledge representations that accurately reflect concept",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "enable students to retrieve and apply knowledge effectively",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Accurate knowledge representations help students retrieve and apply knowledge effectively."
+          }
+        ],
+        [
+          "4 Active engagement",
+          {
+            "cites": [
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "Active engagement such as posing and answering meaningful questions about",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "concepts, making analogies or attempting to apply concepts or theories",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "leads to elaborate, longer and lasting knowledge.",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Posing questions, making analogies and applying concepts lead to longer lasting knowledge."
+          }
+        ],
+        [
+          "5 Mastery",
+          {
+            "cites": [
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "To master complex",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "skills the trainees must practice and gain component skills.",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "must practice applying",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "skills and knowledge appropriately in new context.",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Trainees practise component skills and apply them in new contexts."
+          }
+        ],
+        [
+          "6 Goal directed practice and feedback",
+          {
+            "cites": [
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Goal directed practice involves working toward a specific level of performance and",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "continually monitoring performance relative to clearly defined goals.",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Working toward a specific level of performance, monitored against clearly defined goals."
+          }
+        ],
+        [
+          "7 Monitor and adjust strategies",
+          {
+            "cites": [
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "require trainees to monitor, evaluate and reflect on their own performances.",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Trainees monitor, evaluate and reflect on their own performances."
+          }
+        ],
+        [
+          "8 Holistic development",
+          {
+            "cites": [
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Trainees are also social and emotional beings",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "The social and emotional impact inside the",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              },
+              {
+                "cblm": 10,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "training area enhances or hinders their learning.",
+                "sourceTitle": "Deliver Competency Based Training",
+                "src": "cblm10"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Trainees are social and emotional beings; the training area enhances or hinders learning."
+          }
+        ]
+      ],
+      "title": "The eight principles explained",
+      "title_bn": "আটটি principle-এর ব্যাখ্যা"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "provide feedback that clearly relates students' performance to the",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "criteria.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "a) provide feedback that clearly relates performance to the criteria."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "b) ensure the feedback is timely, frequent and constructive.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "b) ensure the feedback is timely, frequent and constructive."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "provide opportunities for the trainees to incorporate",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "feedback into further practice.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "c) provide opportunities to incorporate feedback into further practice."
+        }
+      ],
+      "items_bn": [
+        "Feedback যেন criteria-র সাথে performance-কে পরিষ্কারভাবে মেলায়।",
+        "Feedback সময়মতো, ঘনঘন আর গঠনমূলক হবে।",
+        "Feedback কাজে লাগিয়ে আবার practice করার সুযোগ দিন।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c10-p32-principles-6-8"
+      ],
+      "title": "Trainees' practice is more effective if instructors",
+      "title_bn": "Practice কার্যকর করতে instructor যা করবেন"
+    }
+  ],
   "highlighted": true,
   "id": "principles-of-learning",
   "importance": {
@@ -195,7 +641,19 @@
         "fidelity": "verbatim",
         "text": "Trainees develop holistically."
       }
-    ]
+    ],
+    "itemsBn": [
+      "আগের জানা জ্ঞান (prior knowledge) নতুন শেখায় সাহায্যও করতে পারে, আবার বাধাও দিতে পারে।",
+      "Motivation শেখার আচরণ শুরু করায়, দিক ঠিক করে আর ধরে রাখে।",
+      "Students জ্ঞানকে কীভাবে সাজায় (organize), তার ওপর নির্ভর করে তারা সেটা কীভাবে ব্যবহার করবে।",
+      "সক্রিয়ভাবে অংশ নিলে (active engagement) শেখা আরও গভীর হয়।",
+      "Mastery মানে ছোট ছোট component skills ও knowledge গড়ে তোলা, আর সঠিক জায়গায় তা প্রয়োগ করা।",
+      "লক্ষ্য ঠিক করে practice (goal directed practice) আর নির্দিষ্ট feedback (targeted feedback) শেখার জন্য অপরিহার্য।",
+      "Trainees-দের নিজেদের learning strategies নিজেরাই monitor, evaluate ও adjust করতে হয়।",
+      "Trainees পুরো মানুষ হিসেবে (holistically) বিকশিত হয় — মন, আবেগ, সমাজ সব মিলিয়ে।"
+    ],
+    "title": "Principles of learning",
+    "titleBn": "শেখার মূলনীতি (principles of learning)"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -428,6 +886,7 @@
       "text": "Learning is often confused with maturation or physical growth."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

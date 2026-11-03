@@ -43,12 +43,30 @@
     ]
   },
   "keywords": [
-    { "en": "Judgement", "bn": "বিচার করে সিদ্ধান্ত নেওয়া" },
-    { "en": "Competent", "bn": "দক্ষ, standard পূরণ করেছে" },
-    { "en": "Not Yet Competent", "bn": "এখনো দক্ষ হয়নি" },
-    { "en": "Performance criteria", "bn": "কাজ কতটা ভালো হতে হবে তার মাপকাঠি" },
-    { "en": "Dimensions of competency", "bn": "দক্ষতার চারটি দিক" },
-    { "en": "Additional evidence", "bn": "বাড়তি প্রমাণ" }
+    {
+      "en": "Judgement",
+      "bn": "বিচার করে সিদ্ধান্ত নেওয়া"
+    },
+    {
+      "en": "Competent",
+      "bn": "দক্ষ, standard পূরণ করেছে"
+    },
+    {
+      "en": "Not Yet Competent",
+      "bn": "এখনো দক্ষ হয়নি"
+    },
+    {
+      "en": "Performance criteria",
+      "bn": "কাজ কতটা ভালো হতে হবে তার মাপকাঠি"
+    },
+    {
+      "en": "Dimensions of competency",
+      "bn": "দক্ষতার চারটি দিক"
+    },
+    {
+      "en": "Additional evidence",
+      "bn": "বাড়তি প্রমাণ"
+    }
   ],
   "bangla_explanation": [
     "Evidence জোগাড়ের পর assessor ঠিক করেন candidate Competent নাকি Not Yet Competent।",
@@ -61,6 +79,8 @@
     "bn": "IT ট্রেইনির নেটওয়ার্ক কাজ performance criteria-র সাথে মিলিয়ে assessor সিদ্ধান্ত নেন।"
   },
   "list_answer": {
+    "title": "Factors to consider in making an assessment decision",
+    "title_bn": "Assessment decision নেওয়ার সময় যেসব বিষয় মেলাতে হয়",
     "items": [
       {
         "text": "Requirements of the unit of competency: evidence matches the elements and performance criteria.",
@@ -117,6 +137,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Evidence যেন unit of competency-র elements আর performance criteria-র সাথে মেলে।",
+      "Task skills, task management, contingency management আর কাজের environment-এর skills — সব dimensions-এর evidence আছে কি না দেখা।",
+      "Evidence rules of evidence মেনে চলছে কি না যাচাই করা; না মানলে সিদ্ধান্ত ঠিক হবে না।",
+      "একটা evidence আরেকটা evidence-কে সমর্থন করছে কি না দেখা, যাতে সিদ্ধান্ত মজবুত হয়।"
     ]
   },
   "traps": [
@@ -171,6 +197,39 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "Two stages of judgement (Rumsey 1994)",
+    "title_bn": "Judgement-এর দুই ধাপ",
+    "items": [
+      {
+        "text": "Comparing the evidence against the criteria for assessment",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 22,
+            "quote": "Comparing the evidence against the criteria for assessment"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Making the decision as to whether the necessary competence has been achieved.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 22,
+            "quote": "Making the decision as to whether the necessary competence has been achieved."
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "labels_bn": [
+      "প্রথমে সংগ্রহ করা evidence-কে assessment-এর criteria-র সাথে তুলনা করা হয়।",
+      "তারপর সিদ্ধান্ত নেওয়া হয় — প্রয়োজনীয় competence অর্জিত হয়েছে কি না।"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "How would you determine the candidate is competent or not yet competent?",
@@ -213,6 +272,74 @@
               "quote": "a degree of informed subjective judgement on your part will be involved."
             }
           ]
+        },
+        {
+          "text": "Rumsey defines judgement as comparing sufficient evidence with the required performance criteria.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 21,
+              "quote": "The assessment Practical Guide (Rumsey 1994;p9) defines judgement"
+            },
+            {
+              "src": "cblm12",
+              "page": 22,
+              "quote": "the process of comparing sufficient evidence of a candidate's achievement with the"
+            },
+            {
+              "src": "cblm12",
+              "page": 22,
+              "quote": "required performance criteria"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Ask yourself: Is it relevant? Is it accurate? Is it the candidate's own work?",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 21,
+              "quote": "Ask yourself following questions about the evidence you now have:"
+            },
+            {
+              "src": "cblm12",
+              "page": 21,
+              "quote": "Is it relevant?"
+            },
+            {
+              "src": "cblm12",
+              "page": 21,
+              "quote": "Is it accurate?"
+            },
+            {
+              "src": "cblm12",
+              "page": 21,
+              "quote": "Is it the candidate's own work?"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Is it consistent with other evidence? Is it enough? Is it up-to-date?",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 21,
+              "quote": "Is it consistent with other evidence you already have?"
+            },
+            {
+              "src": "cblm12",
+              "page": 21,
+              "quote": "Is it enough?"
+            },
+            {
+              "src": "cblm12",
+              "page": 21,
+              "quote": "Is it up-to-date?"
+            }
+          ],
+          "fidelity": "paraphrase"
         }
       ]
     },

@@ -14,7 +14,6 @@
     "cblm09-p11-6cac6771",
     "cblm09-p11-8290abc6",
     "cblm09-p11-7ba062d3",
-    "cblm09-p12-fbaacb96",
     "cblm09-p23-e5cb6755"
   ],
   "questions": [
@@ -66,6 +65,8 @@
     "bn": "Welding কোর্সের আগে self-assessment checklist-এ Yes/No টিক দেওয়া হয়।"
   },
   "list_answer": {
+    "title": "Ways to pre-assess a trainee's current competency",
+    "title_bn": "ট্রেইনির current competency যাচাই (pre-assessment)-এর উপায়",
     "items": [
       {
         "text": "Checking with the learner: self-assessment instrument, oral interview or written test.",
@@ -91,6 +92,10 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "প্রথম দেখাতেই learner-কে সরাসরি যাচাই করুন — নিজে নিজের দক্ষতা যাচাইয়ের ফর্ম পূরণ করিয়ে, oral interview নিয়ে বা written test দিয়ে।",
+      "Enrolment form বা ভর্তির আবেদনপত্রের মতো আগে পাওয়া কাগজপত্র analyse করে ট্রেইনি সম্পর্কে আগেই জেনে নিন।"
     ]
   },
   "traps": [
@@ -137,6 +142,101 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Pre-assessment methods and what they use (p.11)",
+    "title_bn": "Pre-assessment-এর উপায় ও কী কী ব্যবহার হয়",
+    "columns": [
+      "Method",
+      "What it uses"
+    ],
+    "rows": [
+      [
+        "1. Checking with the learner",
+        {
+          "text": "At the first meeting: a self-assessment instrument, an oral interview or a written test.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 11,
+              "quote": "When you meet the trainee (first time), you can ask the learner to respond or undergo a self-assessment instrument or subject them to an oral interview or written test."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "2. Analyse pre-session information",
+        {
+          "text": "Enrolment form or pre-application form, and related documents.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 11,
+              "quote": "like enrolment form or -pre- application form and other related documents such as;"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Related document",
+        {
+          "text": "Reports of previous competency assessment undertaken.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 11,
+              "quote": "Reports of previous competency assessment undertaken."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Related document",
+        {
+          "text": "Resume or Curriculum Vitae.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 11,
+              "quote": "Resume or Curriculum Vitae."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Related document",
+        {
+          "text": "Enterprise training and assessment records.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 11,
+              "quote": "Enterprise training and assessment records."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Related document",
+        {
+          "text": "Performance Reports from Supervisor.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 11,
+              "quote": "Performance Reports from Supervisor."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "How do you identify the current competencies of your trainee?",

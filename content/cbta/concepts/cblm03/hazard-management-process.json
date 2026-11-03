@@ -83,6 +83,8 @@
     "explain_bn": "প্রশ্নপত্র এটাকে SAFE বলে, কিন্তু CBLM-এ SAFE শব্দ নেই। চারটি Step এই ক্রমে লিখুন।"
   },
   "list_answer": {
+    "title": "Steps of the hazard management process",
+    "title_bn": "Hazard management process-এর ধাপ",
     "items": [
       {
         "text": "Identify the hazard: through injury reviews, workplace inspections or hazard reports.",
@@ -180,6 +182,12 @@
         ]
       }
     ],
+    "items_bn": [
+      "Hazard চিহ্নিত করা (identify) — injury reviews, workplace inspections বা hazard reports দেখে বিপদ খুঁজে বের করা।",
+      "Hazard যাচাই করা (assess) — ঘটার সম্ভাবনা (likelihood) আর ক্ষতির মাত্রা (consequence) দেখে risk কতটা তা ঠিক করা।",
+      "Hazard সমাধান করা (fix) — controls দিয়ে risk পুরো দূর করা বা কমানো।",
+      "ফল যাচাই করা (evaluate) — control কাজ করছে কিনা আর নতুন problems তৈরি হলো কিনা দেখা।"
+    ],
     "declaredCount": {
       "n": 4,
       "cite": {
@@ -241,6 +249,78 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Levels of hazard control: pedestrians crossing a road (p.30-31)",
+    "title_bn": "রাস্তা পারাপারের উদাহরণে control-এর level",
+    "columns": [
+      "Control level",
+      "Example from the CBLM"
+    ],
+    "rows": [
+      [
+        "Level 1 (most effective)",
+        {
+          "text": "Make the road into a pedestrian mall, so the cars are eliminated altogether.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 30,
+              "quote": "The most effective solution would be to use a Level 1 control, and make the road into a pedestrian mall so the cars are eliminated altogether."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Level 2",
+        {
+          "text": "Build a pedestrian underpass. Pedestrians can evade it by not using the underpass.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 30,
+              "quote": "building a pedestrian underpass is an example of a level 2 control"
+            },
+            {
+              "src": "cblm03",
+              "page": 31,
+              "quote": "the pedestrians can evade the control by not using the underpass"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Level 3",
+        {
+          "text": "Traffic lights and crossing. They rely on pedestrians and drivers to do the right thing.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 30,
+              "quote": "the traffic lights and crossing have been added to try to control the risk of injury to the pedestrians. These controls are level 3, as they are relying on the pedestrians and the drivers to do the right thing."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Level 2 and 3 together",
+        {
+          "text": "Add a sign to warn pedestrians of the dangers.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 31,
+              "quote": "using a sign to warn pedestrians of the dangers would be an example of a level 2 and 3 control working together"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are the four steps of the Hazard Management process?",

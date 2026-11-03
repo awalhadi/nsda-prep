@@ -67,6 +67,8 @@
     "bn": "Plan-এ কোর্স, জায়গা, সময় লিখে mentor-এর সই নিন, তারপর Principal অনুমোদন দেন।"
   },
   "list_answer": {
+    "title": "Components of a Professional Development Plan",
+    "title_bn": "পেশাগত উন্নয়ন পরিকল্পনার (Professional Development Plan) অংশসমূহ",
     "items": [
       {
         "text": "Career goals",
@@ -135,6 +137,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Career goals — ক্যারিয়ারে কোথায় পৌঁছাতে চান; plan এখান থেকেই শুরু হয়।",
+      "কোন কোন competencies নতুন করে develop করবেন, তা নির্দিষ্ট করে লেখা।",
+      "কীভাবে আর কোথায় শিখবেন — learning strategies and location।",
+      "শিখতে কী কী resources লাগবে, তার তালিকা।",
+      "কত সময়ের মধ্যে শেষ করবেন — time frame বেঁধে দেওয়া।",
+      "যোগ্যতা অর্জন হলো কিনা তার প্রমাণ — evidence of competency।"
     ]
   },
   "traps": [
@@ -197,6 +207,155 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Two lists for the plan: p.24 vs p.27",
+    "title_bn": "Plan-এর দুটি তালিকা: p.24 বনাম p.27",
+    "left": {
+      "title": "Personal Professional development plan outlines (p.24)",
+      "title_bn": "p.24-এর তালিকা",
+      "points": [
+        {
+          "text": "identified skills gap if relevant",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 24,
+              "quote": "identified skills gap if relevant"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "work and personal career objectives",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 24,
+              "quote": "work and personal career objectives"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "identified areas requiring development",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 24,
+              "quote": "identified areas requiring development"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "learning opportunities/activities",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 24,
+              "quote": "learning opportunities/activities"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "relevant work activities/projects",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 24,
+              "quote": "relevant work activities/projects"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "links to organisational training needs",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 24,
+              "quote": "links to organisational training needs"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "right": {
+      "title": "Personal Professional Skill Development Plan outlines (p.27)",
+      "title_bn": "p.27-এর তালিকা",
+      "points": [
+        {
+          "text": "Career goals",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 27,
+              "quote": "Career goals"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Competencies to be developed",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 27,
+              "quote": "Competencies to be developed"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Learning strategies and location",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 27,
+              "quote": "Learning strategies and location"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Required resources",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 27,
+              "quote": "Required resources"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Time frame",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 27,
+              "quote": "Time frame"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Evidence of competency",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 27,
+              "quote": "Evidence of competency"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "How do you develop a Professional Development Plan?",

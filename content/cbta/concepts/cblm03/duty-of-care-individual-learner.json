@@ -1,0 +1,259 @@
+{
+  "id": "duty-of-care-individual-learner",
+  "canonical_title": "Duty of Care: Consider the Individual Learner",
+  "aliases": [
+    "Considering the individual learner in OSH",
+    "Learner characteristics for OSH"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "The duty of care is owed personally to individuals. So consider each individual learner.",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 7,
+        "quote": "Remember that the duty of care is owed personally to individuals."
+      },
+      {
+        "src": "cblm03",
+        "page": 7,
+        "quote": "you need to consider the individual learner"
+      }
+    ],
+    "fidelity": "paraphrase"
+  },
+  "keywords": [
+    {
+      "en": "Duty of care",
+      "bn": "যত্ন নেওয়ার দায়িত্ব (আইনি ও নৈতিক)"
+    },
+    {
+      "en": "Individual learner",
+      "bn": "প্রতিটি আলাদা শিক্ষার্থী"
+    },
+    {
+      "en": "Assertiveness",
+      "bn": "নিজের কথা দৃঢ়ভাবে বলার ক্ষমতা"
+    },
+    {
+      "en": "Physical limitations",
+      "bn": "শারীরিক সীমাবদ্ধতা"
+    },
+    {
+      "en": "Hazard",
+      "bn": "বিপদের উৎস, যা ক্ষতি করতে পারে"
+    }
+  ],
+  "bangla_explanation": [
+    "Workshop-এ OSH issues দেখার সময় পুরো class নয়, প্রতিটি individual learner-কে আলাদা করে ভাবতে হয়।",
+    "কারণ duty of care প্রত্যেক মানুষের প্রতি ব্যক্তিগতভাবে (personally) থাকে।",
+    "শুধু skill levels নয়; communication skills, assertiveness, learning বা behavioural issues আর physical limitations-ও দেখতে হয়।",
+    "যে learner প্রশ্ন করতে লজ্জা পায় বা ভালো শুনতে পায় না, সে hazard-এর সতর্কবার্তা মিস করতে পারে।"
+  ],
+  "example": {
+    "en": "In a welding workshop, one trainee cannot hear well. The trainer shows the safety signs to him face to face.",
+    "bn": "Welding workshop-এ যে trainee কানে কম শোনে, তাকে trainer আলাদা করে safety signs দেখিয়ে দেন।"
+  },
+  "list_answer": {
+    "title": "Characteristics of the individual learner to consider (besides skill levels)",
+    "title_bn": "Skill ছাড়াও learner-এর যে বৈশিষ্ট্যগুলো দেখতে হয়",
+    "items": [
+      {
+        "text": "Communication skills",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "Communication skills"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Assertiveness",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "Assertiveness"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Any learning or behavioural issues",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "Any learning or behavioural issues"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Any physical limitations",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "Any physical limitations"
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "items_bn": [
+      "Communication skills — learner নির্দেশনা বুঝতে ও প্রশ্ন করতে পারে কি না।",
+      "Assertiveness — বিপদ দেখলে learner দৃঢ়ভাবে বলতে পারে কি না।",
+      "Learning বা behavioural issues — শেখা বা আচরণে কোনো সমস্যা আছে কি না।",
+      "Physical limitations — শারীরিক কোনো সীমাবদ্ধতা আছে কি না, যা কাজে বিপদ বাড়াতে পারে।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "Consider not only the learner's skill levels, but other characteristics too.",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 7,
+          "quote": "This means that you need to consider not only the skill levels of the learner, but other characteristics such as"
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Workgroup language, literacy and numeracy influence the selection of controls.",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 10,
+          "quote": "characteristics of the workgroup such as language, literacy and numeracy will influence the selection of the most appropriate controls"
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "No environment is hazard free. This applies to learning and assessment environments too.",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 7,
+          "quote": "Each environment has its own types of hazards - no environment is hazard free."
+        },
+        {
+          "src": "cblm03",
+          "page": 7,
+          "quote": "The same principle applies to learning and/or assessment environments."
+        }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "When you inspect the workplace for OSH, why must you consider the individual learner? What will you consider?",
+      "modelAnswer": "The duty of care is owed personally to individuals. So I consider each individual learner. Besides skill levels, I consider:\n1. Communication skills\n2. Assertiveness\n3. Any learning or behavioural issues\n4. Any physical limitations",
+      "keyPoints": [
+        {
+          "text": "The duty of care is owed personally to individuals.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 7,
+              "quote": "Remember that the duty of care is owed personally to individuals."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Consider the individual learner when discussing OSH issues for the learner and others.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 7,
+              "quote": "When inspecting the workplace and discussing and considering the OSH issues for the learner and others, you need to consider the individual learner."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Consider other characteristics, not only skill levels.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 7,
+              "quote": "not only the skill levels of the learner, but other characteristics such as"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Besides skill levels, which learner characteristic must a trainer consider for OSH?",
+      "options": [
+        "Assertiveness",
+        "Job rotation",
+        "Risk register",
+        "Likelihood of a risk"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 7,
+        "quote": "Assertiveness"
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning in CBLM 3.",
+      "pairs": [
+        {
+          "left": "Duty of care",
+          "right": "Owed personally to individuals",
+          "cite": {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "Remember that the duty of care is owed personally to individuals."
+          }
+        },
+        {
+          "left": "Learner characteristics",
+          "right": "Communication skills, assertiveness, physical limitations",
+          "cite": {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "other characteristics such as: Communication skills Assertiveness Any learning or behavioural issues Any physical limitations"
+          }
+        },
+        {
+          "left": "Workgroup language, literacy and numeracy",
+          "right": "Influence the selection of controls",
+          "cite": {
+            "src": "cblm03",
+            "page": 10,
+            "quote": "characteristics of the workgroup such as language, literacy and numeracy will influence the selection of the most appropriate controls"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "To whom is the duty of care owed?",
+      "answer": {
+        "text": "The duty of care is owed personally to individuals.",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 7,
+            "quote": "Remember that the duty of care is owed personally to individuals."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": []
+}

@@ -34,6 +34,145 @@
     "bn": "কম্পিউটার ল্যাবে plan, কাজ, inspect আর ব্যবস্থা: এটাই QMC।",
     "en": "A computer lab plans weekly cleaning (Plan). IT staff clean on schedule (Do). The in-charge inspects (Check). He fixes gaps (Act)."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Quality management is a method for ensuring that all the activities necessary to design, develop and implement a product or service are effective and efficient with respect to system and performance.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Quality management is a method for ensuring that all the activities necessary to design, develop and implement a product or service are effective and efficient with respect to system and performance."
+      },
+      "kind": "qa",
+      "outline": [
+        "c06-p37-quality-management-cycle"
+      ],
+      "q": "Define quality management.",
+      "q_bn": "Quality management-এর সংজ্ঞা দিন।",
+      "tip": "Self Check 2 Q2. Learn this definition word for word.",
+      "tip_bn": "Self Check 2-এর প্রশ্ন; সংজ্ঞাটি হুবহু মুখস্থ করুন।"
+    },
+    {
+      "bn": [
+        "Act-এর পরে consolidation: কী হলো তা মিলিয়ে দেখা আর process লিখে রাখা, যাতে আবার একইভাবে করা যায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "The consolidation phase enables the organization to take",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "stock of what has been taking place",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "to processes that require documentation",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The consolidation phase lets the organization take stock and document its processes."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "to processes that require documentation (both to allow",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "processes to ' repeatable and to facilitate recognition of",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "the achievement of some form of quality standard",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Documentation makes processes repeatable and supports recognition of a quality standard."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p37-quality-management-cycle"
+      ]
+    },
+    {
+      "bn": [
+        "Maintenance-এ: Plan = program-এর details, Do = schedule মতো কাজ, Check = নিয়মিত inspection, Act = ফল দেখে ব্যবস্থা।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "The philosophy of the Quality Management Cycle can be applied in the Maintenance",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "Program of an organization.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The Quality Management Cycle can be applied in an organization's Maintenance Program."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p37-qmc-maintenance"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "quality-management-cycle",
   "importance": {
@@ -142,7 +281,15 @@
         "fidelity": "paraphrase",
         "text": "Act: decide on changes needed to improve the process."
       }
-    ]
+    ],
+    "itemsBn": [
+      "পরিকল্পনা — ফল ভালো করতে কাজের process-এর অংশগুলো নকশা বা সংশোধন করা।",
+      "বাস্তবায়ন — plan অনুযায়ী কাজ করা, আর তার performance মাপা।",
+      "যাচাই — মাপের ফল বিশ্লেষণ করে decision makers-কে results জানানো।",
+      "পদক্ষেপ — process আরও ভালো করতে কী পরিবর্তন লাগবে, তা ঠিক করা।"
+    ],
+    "title": "Stages of the Quality Management Cycle (Plan-Do-Check-Act)",
+    "titleBn": "Quality Management Cycle-এর ধাপসমূহ (Plan-Do-Check-Act)"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -464,6 +611,80 @@
       "text": "In maintenance, CHECK means the organization regularly inspects equipment."
     }
   ],
+  "visual": {
+    "cycle": true,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "is to PLAN by preparing all the details of the maintenance program",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "PLAN: prepare all the details of the maintenance program."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Then DO, wherein the organization implements the methods and strategies of maintenance based on the maintenance schedule.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "DO: implement maintenance methods and strategies based on the maintenance schedule."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Then CHECK, here the organization regular inspects equipment to determine if the required maintenance procedures are conducted.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "CHECK: regularly inspect equipment to see if required procedures are conducted."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Finally ACT. here the organization acts on the result of the inspection conducted",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "ACT: act on the result of the inspection conducted."
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "Plan — maintenance program-এর সব details আগে তৈরি করা।",
+      "Do — maintenance schedule ধরে methods ও strategies বাস্তবায়ন করা।",
+      "Check — নিয়মিত equipment inspect করে দেখা, নির্ধারিত procedures মানা হচ্ছে কি না।",
+      "Act — inspection-এর result দেখে ব্যবস্থা নেওয়া; তারপর আবার Plan।"
+    ],
+    "title": "QMC in the maintenance program (p.37)",
+    "title_bn": "Maintenance program-এ QMC-র চক্র"
+  },
   "vivaDerived": true,
   "warnings": 1
 }

@@ -1,0 +1,336 @@
+{
+  "id": "self-assessment-guide",
+  "canonical_title": "Self-Assessment Guide (Pre-Training Self-Assessment Checklist)",
+  "aliases": [
+    "Preparing a self-assessment guide",
+    "Self-assessment checklist",
+    "Pre-self assessment"
+  ],
+  "cblmPrimary": 9,
+  "source_type": "cblm",
+  "covers": [
+    "cblm09-p12-fbaacb96"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "A self-assessment guide is a listing of competency areas. The trainee uses it to self assess his level of expertise.",
+    "cites": [
+      {
+        "src": "cblm09",
+        "page": 11,
+        "quote": "A self-assessment guide is a listing of competency areas that allows the trainee to self assess his level of expertise (technical skills)."
+      }
+    ],
+    "fidelity": "paraphrase"
+  },
+  "keywords": [
+    {
+      "en": "Self-assessment guide",
+      "bn": "নিজের দক্ষতা নিজে যাচাইয়ের তালিকা"
+    },
+    {
+      "en": "Competency areas",
+      "bn": "দক্ষতার ক্ষেত্রগুলো"
+    },
+    {
+      "en": "Level of expertise",
+      "bn": "কতটা দক্ষ, সেই মাত্রা"
+    },
+    {
+      "en": "Best starting point",
+      "bn": "training কোথা থেকে শুরু করা ভালো"
+    },
+    {
+      "en": "Performance criteria",
+      "bn": "কাজের মান যাচাইয়ের মানদণ্ড"
+    }
+  ],
+  "bangla_explanation": [
+    "Self-assessment guide হলো competency areas-এর একটা তালিকা — trainee নিজেই টিক দিয়ে বলে কোনটা পারে, কোনটা পারে না।",
+    "Session শুরুর আগেই এটা দিন, তাহলে trainee-র level of competency বোঝা যায়।",
+    "এতে trainer আর trainee দুজনেই জানে training-এর best starting point কোথায়।",
+    "Guide বানানো হয় unit of competency-র performance criteria থেকে; প্রতিটি লাইনে \"Can you...\" আর Yes/No।"
+  ],
+  "example": {
+    "en": "Before a welding course, Chattogram trainees tick Yes or No for each criterion.",
+    "bn": "Welding কোর্সের আগে প্রত্যেক trainee প্রতিটি performance criteria-র পাশে Yes বা No টিক দেয়।"
+  },
+  "list_answer": {
+    "title": "Parts of a self-assessment checklist (p.12 and p.28)",
+    "title_bn": "Self-assessment checklist-এর অংশগুলো",
+    "items": [
+      {
+        "text": "Trainee name and contact.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 12,
+            "quote": "Trainee Name:"
+          },
+          {
+            "src": "cblm09",
+            "page": 12,
+            "quote": "Trainee Name: Contact:"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Unit, e.g. TRAWEL10014A Perform Shielded Metal Arc Welding-Position 1G, 2G.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 12,
+            "quote": "Unit: TRAWEL10014A Perform Shielded Metal Arc Welding-Position 1G, 2G"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "'Can you...' performance criteria.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 12,
+            "quote": "Can you... Performance Criteria"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Yes or No against each performance criteria.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 12,
+            "quote": "Performance Criteria Yes No"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "What other competencies you want to learn?",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 28,
+            "quote": "What other competencies you want to learn?"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Trainee signature and date.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 12,
+            "quote": "Trainee Signature: Date:"
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    ],
+    "items_bn": [
+      "উপরে trainee-র নাম আর contact লেখা থাকে।",
+      "কোন Unit-এর জন্য checklist, তা লেখা থাকে — যেমন welding-এর TRAWEL10014A।",
+      "প্রতিটি লাইনে \"Can you...\" দিয়ে একটি performance criteria — trainee নিজেকে প্রশ্ন করে।",
+      "প্রতিটি criteria-র পাশে Yes বা No — পারলে Yes, না পারলে No।",
+      "অনুশীলনী ১.২-এর ফর্মে শেষে trainee লেখে আর কী কী competencies শিখতে চায়।",
+      "শেষে trainee-র signature আর date।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "Give the pre-self assessment before you proceed in your session.",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 11,
+          "quote": "It is always important that you give your trainee a pre-self assessment before you proceed in your session"
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Self assessment tools are based on the unit of competency performance criteria.",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 7,
+          "quote": "Based on the unit of competency performance criteria self assessment tools can be prepared"
+        }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "visual": {
+    "kind": "steps",
+    "title": "Using a self assessment tool before training (p.7 and p.11)",
+    "title_bn": "Self assessment tool ব্যবহারের ধাপ",
+    "items": [
+      {
+        "text": "Prepare self assessment tools from the unit of competency performance criteria.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 7,
+            "quote": "Based on the unit of competency performance criteria self assessment tools can be prepared"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Administer them before training commencement or at the beginning of the course.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 7,
+            "quote": "administered to trainees prior to training commencement or at the beginning of the course."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Analyse the results.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 7,
+            "quote": "The results should be analysed"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Adjust the program accordingly.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 7,
+            "quote": "the program adjusted accordingly."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    ],
+    "labels_bn": [
+      "Unit of competency-র performance criteria থেকে tool বানান।",
+      "Training শুরুর আগে বা কোর্সের শুরুতে trainee-দের দিয়ে পূরণ করান।",
+      "ফলাফল analyse করুন — কোথায় gap আছে দেখুন।",
+      "সেই অনুযায়ী program adjust করুন — যা জানে তা বাদ, যা জানে না তাতে জোর।"
+    ]
+  },
+  "practice": {
+    "short": {
+      "prompt": "What is a self-assessment guide? Why do you give it to trainees?",
+      "modelAnswer": "A self-assessment guide is a listing of competency areas. It allows the trainee to self assess his level of expertise (technical skills).\nWhy:\n1. Give it before you proceed in your session.\n2. It helps you determine their level of competency.\n3. It helps you and trainees know the best starting point for any training.",
+      "keyPoints": [
+        {
+          "text": "A self-assessment guide is a listing of competency areas.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 11,
+              "quote": "A self-assessment guide is a listing of competency areas"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Give it before the session to determine the trainee's level of competency.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 11,
+              "quote": "give your trainee a pre-self assessment before you proceed in your session so that you can determine their level of competency."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "It helps you and trainees know the best starting point for any training.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 11,
+              "quote": "will help you and trainees know the best starting point for any training."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "A self-assessment guide is a listing of:",
+      "options": [
+        "Competency areas",
+        "Session review questions",
+        "Training venues",
+        "Consumable materials"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm09",
+        "page": 11,
+        "quote": "A self-assessment guide is a listing of competency areas"
+      }
+    },
+    "matching": {
+      "prompt": "Match each part of self assessment with its meaning.",
+      "pairs": [
+        {
+          "left": "Self-assessment guide",
+          "right": "Listing of competency areas",
+          "cite": {
+            "src": "cblm09",
+            "page": 11,
+            "quote": "A self-assessment guide is a listing of competency areas"
+          }
+        },
+        {
+          "left": "When to give it",
+          "right": "Before you proceed in your session",
+          "cite": {
+            "src": "cblm09",
+            "page": 11,
+            "quote": "pre-self assessment before you proceed in your session"
+          }
+        },
+        {
+          "left": "Benefit",
+          "right": "Best starting point for any training",
+          "cite": {
+            "src": "cblm09",
+            "page": 11,
+            "quote": "know the best starting point for any training."
+          }
+        },
+        {
+          "left": "Basis of the tool",
+          "right": "Unit of competency performance criteria",
+          "cite": {
+            "src": "cblm09",
+            "page": 7,
+            "quote": "Based on the unit of competency performance criteria self assessment tools"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why ask trainees to complete a self assessment guide?",
+      "answer": {
+        "text": "It helps you and trainees know the best starting point for any training.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 11,
+            "quote": "Asking trainees to complete a self assessment guide will help you and trainees know the best starting point for any training."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": []
+}

@@ -58,6 +58,880 @@
     "bn": "বয়স্ক গার্মেন্টস কর্মী ছোট লেখা পড়তে পারেন না, তাই assessor প্রশ্ন পড়ে শোনান আর ছোট ছোট সেশন নেন।",
     "en": "An older garments worker cannot read small print. The assessor reads the questions aloud and uses shorter sessions."
   },
+  "extra": [
+    {
+      "columns": [
+        "Particular need",
+        "Potential issue",
+        "Possible range of methods and tools"
+      ],
+      "kind": "table",
+      "outline": [
+        "c02-p8-learner-needs-table",
+        "c02-p8-row-low-literacy",
+        "c02-p8-row-disability",
+        "c02-p8-row-older",
+        "c02-p8-row-ill-health",
+        "c02-p8-row-gender",
+        "c02-p8-row-indigenous",
+        "c02-p9-row-low-education",
+        "c02-p9-row-family"
+      ],
+      "rows": [
+        [
+          "Low literacy or numeracy",
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Writing",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Reading",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Calculating",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Confidence",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Writing, reading, calculating, confidence"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Verbal assessment using",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "predetermined questions (this",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Presentations or demonstrations",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "can be used rather than writing",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Use of diagrams as visual cues",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Verbal assessment using predetermined questions; presentations or demonstrations instead of writing; diagrams as visual cues."
+          }
+        ],
+        [
+          "Candidates with disability",
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Speaking",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Reading",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Writing",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Movement",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Hearing",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Speaking, reading, writing, movement, hearing"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Observation checklist using",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "adaptive technology such as",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "Braille for sight impaired learners",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "assistance from an interpreter for",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "candidates who are hearing",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Using an interpreter, reader,",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "attendant carer or scribe to write",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Observation of tasks performed",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "on suitably adjusted equipment or",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Observation checklist with adaptive technology such as Braille; interpreter for hearing impaired candidates; interpreter, reader, attendant carer or scribe; tasks on suitably adjusted equipment or environment."
+          }
+        ],
+        [
+          "Older candidates",
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Different age to the",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Confidence",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Limited technology",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Different age to the assessor; confidence; limited technology skills"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Use case studies instead of role",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "plays as some older candidates",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "may feel uncomfortable",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Make sure font size is not too",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "small in candidate instructions",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Use case studies instead of role plays; some may feel uncomfortable. Make sure font size is not too small."
+          }
+        ],
+        [
+          "Ill health",
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Fatigue",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Lack of concentration",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Effects of medication",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Fatigue; lack of concentration; effects of medication"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Shorter assessment tasks that",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "allow for medication or fatigue",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Specific instructions on projects",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "that can be submitted at various",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Allow longer period of time to",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Use a scribe or audio recorder",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Shorter tasks that allow for medication or fatigue; projects submitted at various stages; longer time; scribe or audio recorder."
+          }
+        ],
+        [
+          "Gender",
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Culture of workplace",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "for women who work",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "in non-traditional",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Different gender of the",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Culture of workplace for women in non-traditional trades; different gender of the assessor"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Use same gender assessor (if",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Ensure assessment tools are not",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "gender specific in content",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Use same gender assessor (if appropriate); ensure tools are not gender specific in content."
+          }
+        ],
+        [
+          "Indigenous candidates",
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Variety of cultural",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "backgrounds",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Speaking",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Reading",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Writing",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Numeracy",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Confidence",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Variety of cultural backgrounds; speaking, reading, writing, numeracy, confidence"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Use of support persons",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "o Check that assessment",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "strategies are not culturally",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Encourage candidates to use",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "competence (e.g. drawing",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "of writing, digitally recording a",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Read any printed information to",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "the candidate or use graphics for",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Use support persons; check strategies are not culturally sensitive; allow drawing or digital recording; read printed information or use graphics."
+          }
+        ],
+        [
+          "Candidates with low levels of education",
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Reading",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Writing",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Numeracy",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Limited study skills",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Confidence",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Reading, writing, numeracy, limited study skills, confidence"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Check if language, literacy or",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "numeracy are likely to impact on",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "the assessment",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Demonstration and oral",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "questioning, perhaps recording",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Read any printed information to",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Use short assessment tasks",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Check if language, literacy or numeracy impact the assessment; demonstration and oral questioning; read printed information; short tasks."
+          }
+        ],
+        [
+          "Family responsibilities",
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Requirement to care",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "for family members",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Requirement to care for family members"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "o Ensure timing and place of",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "assessment does not clash with",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              },
+              {
+                "cblm": 2,
+                "match": "exact",
+                "page": 9,
+                "printedPage": 9,
+                "quote": "care responsibilities",
+                "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+                "src": "cblm02"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Ensure timing and place of assessment does not clash with care responsibilities."
+          }
+        ]
+      ],
+      "title": "Learner Needs and Reasonable Adjustments (pp.8-9)",
+      "title_bn": "Learner-এর প্রয়োজন, সম্ভাব্য সমস্যা ও পদ্ধতি"
+    },
+    {
+      "bn": "উপরের card CBLM 12-এর। CBLM 2-এর জন্য এই আট সারির টেবিল শিখুন — এখানে Ill health আর Family responsibilities বাড়তি আছে।",
+      "kind": "note",
+      "outline": [
+        "c02-p8-learner-needs-table"
+      ],
+      "text": "The card above comes from CBLM 12. For CBLM 2, learn this eight-row table. It adds Ill health and Family responsibilities.",
+      "tone": "tip"
+    },
+    {
+      "bn": "Indigenous সারির কথাটা একটু অদ্ভুত; উদাহরণ থেকে বোঝা যায় — কথা বলার চেয়ে করে দেখানো হয়তো বেশি উপযুক্ত।",
+      "kind": "note",
+      "outline": [
+        "c02-p8-row-indigenous"
+      ],
+      "text": "Indigenous row: 'check that assessment strategies are not culturally sensitive'. Its example shows the intent: demonstrating knowledge may suit better than talking.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "adjustment-strategies",
   "importance": {
@@ -378,7 +1252,17 @@
         "fidelity": "paraphrase",
         "text": "Low levels of literacy: use methods that need no higher literacy than the job role. Use pair/group work."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Indigenous candidate-এর community সম্পর্কে জানুন, সংস্কৃতির প্রতি সংবেদনশীল থাকুন, funerals-এর মতো ঘটনা মাথায় রাখুন, আর competence দেখানোর বিকল্প উপায় দিন।",
+      "বয়সের দিক মাথায় রেখে printed information পড়ে শোনান, font size যেন ছোট না হয়; যথেষ্ট সময় আর shorter assessments দিন।",
+      "দরকার হলে উপযুক্ত gender-এর assessor দিন, মানানসই assessment strategies নিন, আর child care-এর সমস্যা আছে কি না দেখুন।",
+      "Candidate ও supervisor-এর সাথে ভাষা, literacy আর numeracy নিয়ে কথা বলুন; তথ্য পড়ে শোনান, graphics ব্যবহার করুন, মুখে বলা উত্তর লিখে দিন।",
+      "Disability কাজে কী প্রভাব ফেলে তা candidate ও supervisor-এর সাথে আলোচনা করুন; support person, ছোট বাক্য, rephrasing আর shorter assessments ব্যবহার করুন।",
+      "Job role-এ যতটুকু literacy লাগে, তার বেশি লাগে এমন methods নেবেন না; জোড়ায় বা দলে কাজ করান।"
+    ],
+    "title": "Strategies for adjusting the assessment process for candidate groups",
+    "titleBn": "বিভিন্ন candidate group-এর জন্য assessment process adjust করার কৌশল"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -873,6 +1757,774 @@
       "text": "For gender, check whether child care issues impact on the timing of assessments."
     }
   ],
+  "visual": {
+    "columns": [
+      "Category",
+      "Possible issue",
+      "Key strategies"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Indigenous",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Indigenous • Cultural",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "background",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Speaking",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "• Reading",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "• Writing",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Numeracy",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Confidence",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Cultural background, speaking, reading, writing, numeracy, confidence."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Allow enough time to learn about the",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "community and how this may impact on the",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "inclusive and culturally sensitive",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Identify any events and obligations",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "affect the timing of the assessment, for example funerals",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Encourage participants to use alternative",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "ways of demonstrating competence",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Learn about the community. Be culturally sensitive. Allow for events like funerals. Use alternative ways to show competence."
+        }
+      ],
+      [
+        "Age",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Age • Educational",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "background",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Age of the",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "assessor",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Limited study",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "skills and/or",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "learning",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "strategies",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Educational background, age of the assessor, limited study skills and/or learning strategies."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Read any printed information to the",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Make sure font size is not too small",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Assessor should acknowledge age",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Ensure that the time available to complete",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Have a number of shorter assessments",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Read printed information. Make sure font size is not too small. Acknowledge age. Allow time. Have shorter assessments."
+        }
+      ],
+      [
+        "Gender",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Gender • Gender of the",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "assessor",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Timing of the",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "assessments",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Gender of the assessor, timing of the assessments."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Use an assessor of the appropriate gender",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Use appropriate assessment strategies",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Check whether there are child care issues",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Use an assessor of the appropriate gender. Use appropriate strategies. Check child care issues."
+        }
+      ],
+      [
+        "Educational background",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Educational • Reading",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Writing are likely",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Numeracy",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Limited study",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "skills and/or",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "learning",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "strategies",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Reading, writing, numeracy, limited study skills and/or learning strategies."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Discuss with the candidate and supervisor",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "whether language, literacy and numeracy",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Use methods that do not require a higher",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "level of language or literacy than is required",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "to perform the job role",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Read any printed information to the",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Use graphics, pictures and colour coding",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Offer to write down, or have someone else",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "write, oral responses given by the candidate",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Discuss language, literacy and numeracy with the candidate and supervisor. Use methods needing no higher literacy than the job role. Read information, use graphics and write down oral responses."
+        }
+      ],
+      [
+        "Disability",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Disability • Speaking",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "likely to impact on Reading",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "• Writing",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Numeracy",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Limited study",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "skills and/or",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "learning",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "strategies",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Speaking, reading, writing, numeracy, limited study skills and/or learning strategies."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Discuss with the candidate and supervisor",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "whether the disability is likely to impact on",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Use support person and other support",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Use short sentences that do not contain",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Clarify information by rephrasing",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Read any printed information to the",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Have a number of shorter assessments",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Discuss the disability's impact with the candidate and supervisor. Use a support person, short sentences and rephrasing. Read information and have shorter assessments."
+        }
+      ],
+      [
+        "Low levels of literacy",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Low levels • Speaking",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Reading to perform",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "• Writing",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Cultural background",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Confidence",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Speaking, reading, writing, cultural background, confidence."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Use methods that do not require a higher",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "level of language or literacy than is required",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "to perform the job role",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Use pair/group work",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Use methods needing no higher literacy than the job role. Use pair/group work."
+        }
+      ]
+    ],
+    "title": "Possible strategies for adjusting the assessment process (p.11-13)",
+    "title_bn": "কোন গ্রুপে কী সমস্যা, কী কৌশল"
+  },
   "vivaDerived": true,
   "warnings": 1
 }

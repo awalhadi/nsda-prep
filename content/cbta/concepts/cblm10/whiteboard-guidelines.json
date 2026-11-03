@@ -57,6 +57,8 @@
     "bn": "ইলেকট্রিক্যাল ক্লাসে বোর্ডে শুধু মূল তিনটা point, বাকিটা handout-এ।"
   },
   "list_answer": {
+    "title": "General guidelines for using blackboards and whiteboards",
+    "title_bn": "Blackboard ও whiteboard ব্যবহারের সাধারণ নিয়ম",
     "items": [
       {
         "text": "Make sure that everyone can see the board.",
@@ -163,6 +165,16 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "নিশ্চিত করুন ক্লাসের সবাই বোর্ড দেখতে পাচ্ছে।",
+      "বোর্ডে শুধু main points লিখুন; বিস্তারিত দিন handout-এ।",
+      "বড় করে লিখুন (large print), যাতে সবাই পড়তে পারে।",
+      "Presentation সবসময় পরিষ্কার whiteboard দিয়ে শুরু করুন, যাতে পুরোনো লেখায় মনোযোগ না সরে।",
+      "একসাথে বোর্ডে লেখা আর কথা বলা (chalk and talk) এড়িয়ে চলুন; কথা বলার সময় বোর্ডের দিকে নয়, trainees-এর দিকে তাকান।",
+      "সহজ design নিয়ে পরীক্ষা করুন, তবে red আর green pens এড়িয়ে চলুন, কারণ কেউ colour blind হতে পারে।",
+      "লেখার সময় বোর্ডের মুখোমুখি সোজা দাঁড়ান, আর বাম থেকে ডানে লিখে যান।",
+      "Chalk দৃঢ়ভাবে চাপ দিয়ে ব্যবহার করুন; pens-এ হালকা চাপ দিন।"
     ]
   },
   "traps": [
@@ -194,6 +206,60 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Two styles of using a board",
+    "title_bn": "Board ব্যবহারের দুই ধরন",
+    "left": {
+      "title": "Wipe as you go",
+      "title_bn": "মুছে মুছে চলা",
+      "points": [
+        {
+          "text": "Turn to the board for short bursts, like a snappy starter or a quick summary.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 9,
+              "quote": "You can have a 'wipe as you go' philosophy turning to it for short bursts, like a:"
+            },
+            {
+              "src": "cblm10",
+              "page": 9,
+              "quote": "snappy starter in a brainstorming activity;"
+            },
+            {
+              "src": "cblm10",
+              "page": 9,
+              "quote": "quick summary at the end of a group discussion;"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Rely on it more heavily",
+      "title_bn": "পুরো session-এর map তৈরি",
+      "points": [
+        {
+          "text": "Build the session content so that at the end there is a clear 'map'.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 9,
+              "quote": "Or you can rely on it more heavily, building the content of a session so that at the"
+            },
+            {
+              "src": "cblm10",
+              "page": 9,
+              "quote": "end there is a clear 'map' of what has been covered."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "Write down general guidelines for using a whiteboard or blackboard.",

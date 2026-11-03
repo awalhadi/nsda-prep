@@ -33,6 +33,168 @@
     "bn": "একটি TVET institute workshop-এ ramp বানায় (access) আর গরিব learner-দের ফি কমায় (equity)।",
     "en": "A TVET institute builds a ramp to the workshop. It also reduces fees for poor learners."
   },
+  "extra": [
+    {
+      "bn": [
+        "Access = training-এ ঢুকতে পারা; Equity = training-এ ভালো ফল করতে পারা।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "use your training and/or assessment institution's access and equity policy to guide",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "your work practices",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Use your institution's access and equity policy to guide your work practices."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "clients whose age, gender, cultural",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "or ethnic background, disability, sexuality language skills, literacy or numeracy level,",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "or remote location may present a barrier to their access, participation and",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The policy covers barriers from age, gender, culture, disability, language, literacy or remote location."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Access generally refers to the ability of learners to enter training",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Access generally refers to the ability of learners to enter training"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Equity generally refers to the capacity of learners to achieve results in training",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Equity generally refers to the capacity of learners to achieve results in training"
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c02-p13-access-equity-heading",
+        "c02-p13-access",
+        "c02-p13-equity"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "acknowledge and value the differences between people and cultures",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "acknowledge and value the differences between people and cultures"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "are responsive to the diverse needs of all clients",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "are responsive to the diverse needs of all clients"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "include rather than exclude",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "include rather than exclude"
+        }
+      ],
+      "items_bn": [
+        "মানুষ ও সংস্কৃতির পার্থক্যকে স্বীকার করে আর মূল্য দেয়।",
+        "সব client-এর ভিন্ন ভিন্ন প্রয়োজনে সাড়া দেয়।",
+        "কাউকে বাদ দেয় না, সবাইকে অন্তর্ভুক্ত করে।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c02-p13-important-point-inclusive"
+      ],
+      "title": "Important Point: inclusive learning environments and learning materials",
+      "title_bn": "Inclusive পরিবেশ ও উপকরণ যা করে"
+    }
+  ],
   "highlighted": true,
   "id": "access-and-equity-policy",
   "importance": {
@@ -209,7 +371,18 @@
         "fidelity": "paraphrase",
         "text": "Equity: developing and using inclusive training materials"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Access: training venues-এ শারীরিকভাবে পৌঁছানো ও ঢোকা সহজ করা — যাতে জায়গার কারণে কেউ আসতে না পারার অবস্থা না হয়।",
+      "Access: selection criteria যেন কোনো learners-এর প্রতি বৈষম্য না করে — ভর্তির সুযোগ সবার জন্য সমান থাকে।",
+      "Access: marketing activities এমনভাবে সাজানো যাতে সব learners উৎসাহ পায় — কেউ যেন তথ্যের অভাবে বাদ না পড়ে।",
+      "Equity: সহায়ক (supportive) learning environment দেওয়া — ঢোকার পর learners যেন ফল অর্জন করতে পারে।",
+      "Equity: ব্যক্তির অবস্থা অনুযায়ী assessments যুক্তিসঙ্গতভাবে মানিয়ে নেওয়া — যাতে কারো বিশেষ পরিস্থিতি সফলতার পথে বাধা না হয়।",
+      "Equity: fee reduction নীতি চালু করা — টাকার অভাবে কেউ যেন পিছিয়ে না পড়ে।",
+      "Equity: সবার উপযোগী (inclusive) training materials তৈরি ও ব্যবহার — সব learners যেন materials বুঝতে ও ব্যবহার করতে পারে।"
+    ],
+    "title": "Ways to ensure access and equity in training services",
+    "titleBn": "Training সেবায় access ও equity নিশ্চিত করার উপায়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -543,6 +716,128 @@
       "text": "Fee reduction and inclusive materials enhance equity, not access."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "improving physical access to training venues",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "improving physical access to training venues"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "ensuring that selection criteria do not discriminate against learners",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "ensuring that selection criteria do not discriminate against learners"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "adapting marketing activities to encourage all learners",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "adapting marketing activities to encourage all learners"
+        }
+      ],
+      "title": "Access: ability of learners to enter training",
+      "title_bn": "Access: training-এ ঢুকতে পারা"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "providing a supportive learning environment",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "providing a supportive learning environment"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "reasonably adjusting assessments to meet individual circumstances",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "reasonably adjusting assessments to meet individual circumstances"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "implementing policies on fee reduction",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "implementing policies on fee reduction"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "developing and using inclusive training materials",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "developing and using inclusive training materials"
+        }
+      ],
+      "title": "Equity: capacity of learners to achieve results in training",
+      "title_bn": "Equity: training-এ ফল অর্জন করতে পারা"
+    },
+    "title": "Access vs Equity (p.13)",
+    "title_bn": "Access বনাম Equity"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

@@ -73,6 +73,8 @@
     "explain_bn": "চারটি দায়িত্বের প্রথম অক্ষর: OSH, Confidentiality, Full consent, Quality systems।"
   },
   "list_answer": {
+    "title": "Legal and ethical responsibilities of assessment",
+    "title_bn": "Assessment-এর আইনি ও নৈতিক দায়িত্ব",
     "items": [
       {
         "text": "Occupational health and safety requirements: inform everyone about the work and its potential hazards.",
@@ -137,6 +139,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "OSH নিয়ম মানা — কাজটা কী আর এর সম্ভাব্য hazards কী, তা সবাইকে জানাতে হবে।",
+      "Assessment-এর ফলাফল গোপন রাখা — candidate-এর আগাম consent ছাড়া কিছুই কাউকে বলা যাবে না।",
+      "Candidate-এর full consent নেওয়া — self assessment form-এ সই করে সে সম্মতি নিশ্চিত করে।",
+      "Workplace-এর quality systems, policies আর procedures মেনে চলা।"
     ]
   },
   "traps": [
@@ -222,6 +230,49 @@
               "quote": "The assessor makes the feedback to the candidate."
             }
           ]
+        },
+        {
+          "text": "The assessment tools serve both as a rating sheet and a record of the result.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 15,
+              "quote": "The assessment tools serve both as a rating sheet as well as a record of the result of"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "The candidate signs the assessment tool to indicate approval of the result.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 15,
+              "quote": "the candidate will be informed of it"
+            },
+            {
+              "src": "cblm12",
+              "page": 15,
+              "quote": "asks him/her to sign in the assessment tool to indicate his approval of the result of the"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "An organisation's grievance procedure may be the basis for an appeals process.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 15,
+              "quote": "Most organisations have an established grievance procedure, the principles of which"
+            },
+            {
+              "src": "cblm12",
+              "page": 15,
+              "quote": "may be suitable as the basis for an appeals process for assessment decisions"
+            }
+          ],
+          "fidelity": "paraphrase"
         }
       ]
     },

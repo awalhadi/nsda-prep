@@ -66,6 +66,8 @@
     "bn": "নতুন IT trainer নিজে curriculum বানান না, প্রতিষ্ঠান তাকে syllabus দেয়।"
   },
   "list_answer": {
+    "title": "Contents of a curriculum document",
+    "title_bn": "Curriculum document-এ যা থাকে",
     "items": [
       {
         "text": "The name and number of the module and/unit of competency",
@@ -174,6 +176,17 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Module বা unit of competency-র নাম আর নম্বর।",
+      "Nominal delivery hours — শেখাতে মোটামুটি কত ঘণ্টা লাগবে।",
+      "Module বা unit-এর উদ্দেশ্য (purpose) নিয়ে একটা সাধারণ বিবরণ।",
+      "আগে থেকে কী knowledge আর skills জানা থাকতে হবে (prerequisite)।",
+      "Industry competency standards-এর সাথে এর সম্পর্ক।",
+      "কী কী পড়ানো হবে, সেই content-এর সারাংশ।",
+      "কীভাবে assessment হবে, তার সারাংশ।",
+      "Learning outcomes-এর বিস্তারিত বিবরণ, প্রতিটি assessment criterion সহ।",
+      "Module বা unit কীভাবে পড়ানো (delivered) যেতে পারে, তার বিবরণ।"
     ]
   },
   "traps": [

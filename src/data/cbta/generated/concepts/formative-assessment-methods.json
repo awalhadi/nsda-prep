@@ -36,6 +36,589 @@
     "bn": "পরের ক্লাসে trainer অস্পষ্ট বিষয়গুলো আবার বোঝান।",
     "en": "At the end of an IT class, trainees write the most important point learned today."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 34,
+            "printedPage": 34,
+            "quote": "Assessment methods are the particular technique/s used to gather different types of evidence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The particular techniques used to gather different types of evidence."
+      },
+      "concept": "formative-assessment-methods",
+      "example": {
+        "bn": "Evidence জোগাড়ের কৌশলই method।",
+        "en": "Questioning, observation, structured activities, third party feedback and portfolios."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p34-assessment-methods-definition"
+      ],
+      "q": "What are assessment methods?",
+      "q_bn": "Assessment method কী?",
+      "tip": "Method = technique; tool = the paper you use.",
+      "tip_bn": "Method হলো কৌশল, tool হলো সেই কৌশলের কাগজ/ফর্ম।"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "This may include methods or techniques such as questioning, observation, structured activities, third party feedback and portfolios",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Methods include questioning, observation, structured activities, third party feedback and portfolios."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p34-assessment-methods-definition"
+      ]
+    },
+    {
+      "bn": [
+        "Formative = নম্বর দেওয়ার জন্য নয়, শেখানো ঠিক হচ্ছে কি না জানার জন্য।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "The techniques are mostly simple, non-graded, in-class activities that give both you and your trainees useful feedback on the teaching learning process",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Formative techniques are mostly simple, non-graded, in-class activities that give useful feedback."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "the more you know about what and how trainees are learning, the better you can plan learning activities",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The more you know about trainee learning, the better you can plan learning activities."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p34-formative-methods"
+      ],
+      "title": "Methods of formative assessment"
+    },
+    {
+      "columns": [
+        "Method",
+        "Description",
+        "What to do with the data"
+      ],
+      "kind": "table",
+      "outline": [
+        "c11-p34-formative-methods"
+      ],
+      "rows": [
+        [
+          "Written Test",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "Short test items. usually after each",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "topic to verify learning of",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "concepts. mistake. Use this to review",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Short test items, usually after each topic, to verify learning of concepts."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "Identify where trainees",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "committed the most",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "mistake. Use this to review",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "your learning materials",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "You may need to revise",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Identify where trainees committed the most mistakes. Review and revise your learning materials."
+          }
+        ],
+        [
+          "Questioning",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "Either oral or written There are",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "and open-ended questions Closed",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "requires a specific response Open",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "ended questions when a more",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "detailed response is required",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Oral or written. Closed questions need a specific response. Open-ended questions need a more detailed response."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "Get clues from their",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "answers as basis for",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "coaching or mentoring.",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Get clues from their answers as a basis for coaching or mentoring."
+          }
+        ],
+        [
+          "Observation and Questioning",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "This is used when the trainees are",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "performing practice tasks.",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "Observe the movements of the",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "perform the task Coach and",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "what. and why questions to",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Used when trainees perform practice tasks. Observe their movements, coach, and ask what and why questions."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "Make a tally of the",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "weaknesses of the trainees",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "may focus your",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "demonstration on these",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "Review responses and",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 34,
+                "printedPage": 34,
+                "quote": "note any useful comments.",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Make a tally of trainees' weaknesses. Focus your demonstration on them. Review responses and note useful comments."
+          }
+        ],
+        [
+          "Learning Diary",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "During the last few minutes of the",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "class period, ask trainees to",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "is the most important point you",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "remains least clear to you",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "At the end of class, trainees write the most important and least clear points."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "During the next class",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "periods emphasize the",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "issues illuminated by your",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "trainees' comments",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "During the next class periods, emphasize the issues trainees' comments raised."
+          }
+        ],
+        [
+          "Group Work Assessment",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "activity, each member of the group",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "is provided a copy of the group",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "assessment form. This will make",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "performance expectations visible",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Each group member gets a copy of the group assessment form. This makes performance expectations visible."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "Assessment works best",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "when trust is high,",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "confidentiality is assured,",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "honesty is respected. and",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "courtesy is maintained",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Works best when trust is high, confidentiality assured, honesty respected and courtesy maintained."
+          }
+        ]
+      ],
+      "title": "Formative methods and what to do with the data (p.34-35)",
+      "title_bn": "Formative method: বর্ণনা ও data দিয়ে কী করবে"
+    }
+  ],
   "highlighted": true,
   "id": "formative-assessment-methods",
   "importance": {
@@ -206,7 +789,16 @@
         "fidelity": "paraphrase",
         "text": "Group Work Assessment: each member of the group is provided a copy of the form."
       }
-    ]
+    ],
+    "itemsBn": [
+      "প্রতিটি topic শেষে ছোট ছোট লিখিত প্রশ্ন দিয়ে দেখা হয় trainees কতটা বুঝেছে।",
+      "মুখে বা লিখে প্রশ্ন করা — closed প্রশ্নে নির্দিষ্ট উত্তর, open-ended প্রশ্নে বিস্তারিত উত্তর লাগে।",
+      "Trainees practice tasks করার সময় trainer দেখেন আর প্রশ্ন করেন, যাতে কাজ আর বোঝা দুটোই যাচাই হয়।",
+      "Trainees নিজের খাতায় লেখে আজ সবচেয়ে গুরুত্বপূর্ণ কী শিখল; এতে বোঝা যায় শেখা কোথায় দাঁড়িয়ে।",
+      "দলগত কাজের মূল্যায়ন — group-এর প্রত্যেক member-কে assessment form-এর একটা কপি দেওয়া হয়।"
+    ],
+    "title": "Methods of formative assessment",
+    "titleBn": "Formative assessment-এর পদ্ধতি"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -434,6 +1026,489 @@
       "text": "Formative assessment techniques are simple, non-graded, in-class activities."
     }
   ],
+  "visual": {
+    "columns": [
+      "Method",
+      "Description",
+      "What to do with the data"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Written Test",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "Short test items. usually after each",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "topic to verify learning of",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "concepts. mistake. Use this to review",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Short test items, usually after each topic, to verify learning of concepts."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "Identify where trainees",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "committed the most",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "mistake. Use this to review",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "your learning materials",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "You may need to revise",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Identify where trainees committed the most mistakes. Review and revise your learning materials."
+        }
+      ],
+      [
+        "Questioning",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "Either oral or written There are",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "and open-ended questions Closed",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "requires a specific response Open",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "ended questions when a more",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "detailed response is required",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Oral or written. Closed questions need a specific response. Open-ended questions need a more detailed response."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "Get clues from their",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "answers as basis for",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "coaching or mentoring.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Get clues from their answers as a basis for coaching or mentoring."
+        }
+      ],
+      [
+        "Observation and Questioning",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "This is used when the trainees are",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "performing practice tasks.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "Observe the movements of the",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "perform the task Coach and",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "what. and why questions to",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Used when trainees perform practice tasks. Observe their movements, coach, and ask what and why questions."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "Make a tally of the",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "weaknesses of the trainees",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "may focus your",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "demonstration on these",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "Review responses and",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 34,
+              "printedPage": 34,
+              "quote": "note any useful comments.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Make a tally of trainees' weaknesses. Focus your demonstration on them. Review responses and note useful comments."
+        }
+      ],
+      [
+        "Learning Diary",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "During the last few minutes of the",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "class period, ask trainees to",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "is the most important point you",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "remains least clear to you",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "At the end of class, trainees write the most important and least clear points."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "During the next class",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "periods emphasize the",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "issues illuminated by your",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "trainees' comments",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "During the next class periods, emphasize the issues trainees' comments raised."
+        }
+      ],
+      [
+        "Group Work Assessment",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "activity, each member of the group",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "is provided a copy of the group",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "assessment form. This will make",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "performance expectations visible",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Each group member gets a copy of the group assessment form. This makes performance expectations visible."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Assessment works best",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "when trust is high,",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "confidentiality is assured,",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "honesty is respected. and",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "courtesy is maintained",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Works best when trust is high, confidentiality assured, honesty respected and courtesy maintained."
+        }
+      ]
+    ],
+    "title": "Formative methods and what to do with the data (p.34-35)",
+    "title_bn": "Formative method আর data দিয়ে কী করবে"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

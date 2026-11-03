@@ -78,6 +78,8 @@
     "bn": "গার্মেন্টস কর্মী ভালো লিখতে পারেন না; assessor মুখে প্রশ্ন করেন আর collar সেলাই দেখে মূল্যায়ন করেন।"
   },
   "list_answer": {
+    "title": "Strategies to assess learners with low literacy or numeracy",
+    "title_bn": "কম literacy বা numeracy-র learners-কে মূল্যায়নের কৌশল",
     "items": [
       {
         "text": "Verbal assessment using predetermined questions; it could be recorded, or a scribe writes.",
@@ -140,6 +142,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "আগে থেকে ঠিক করা প্রশ্ন মুখে জিজ্ঞেস করা (verbal assessment) — উত্তর recorded রাখা যায় বা scribe লিখে দেন, ফলে লিখতে না পারলেও জ্ঞান দেখানো যায়।",
+      "লেখার বদলে presentations বা demonstrations — কাজটা করে বা বলে দেখালেই দক্ষতা বোঝা যায়।",
+      "প্রশ্ন করার সময় বা candidate-এর উত্তর বোঝাতে diagrams-কে visual cues হিসেবে ব্যবহার — ছবি দেখে বোঝা ও বোঝানো সহজ হয়।"
     ]
   },
   "traps": [
@@ -198,6 +205,138 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Learner Needs and Reasonable Adjustments: literacy rows (pp.8-9)",
+    "title_bn": "পড়া-লেখা কম এমন learner: সমস্যা ও পদ্ধতি",
+    "columns": [
+      "Particular need",
+      "Potential issue",
+      "Possible range of methods and tools"
+    ],
+    "rows": [
+      [
+        "Low literacy or numeracy",
+        {
+          "text": "Writing, reading, calculating, confidence",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 8,
+              "quote": "o Writing"
+            },
+            {
+              "src": "cblm02",
+              "page": 8,
+              "quote": "o Reading"
+            },
+            {
+              "src": "cblm02",
+              "page": 8,
+              "quote": "o Calculating"
+            },
+            {
+              "src": "cblm02",
+              "page": 8,
+              "quote": "o Confidence"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Verbal assessment with predetermined questions; presentations or demonstrations; diagrams as visual cues.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 8,
+              "quote": "o Verbal assessment using"
+            },
+            {
+              "src": "cblm02",
+              "page": 8,
+              "quote": "predetermined questions (this"
+            },
+            {
+              "src": "cblm02",
+              "page": 8,
+              "quote": "o Presentations or demonstrations"
+            },
+            {
+              "src": "cblm02",
+              "page": 8,
+              "quote": "o Use of diagrams as visual cues"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Candidates with low levels of education",
+        {
+          "text": "Reading, writing, numeracy, limited study skills, confidence",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 9,
+              "quote": "o Reading"
+            },
+            {
+              "src": "cblm02",
+              "page": 9,
+              "quote": "o Writing"
+            },
+            {
+              "src": "cblm02",
+              "page": 9,
+              "quote": "o Numeracy"
+            },
+            {
+              "src": "cblm02",
+              "page": 9,
+              "quote": "o Limited study skills"
+            },
+            {
+              "src": "cblm02",
+              "page": 9,
+              "quote": "o Confidence"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Check LLN impact; demonstration and oral questioning; read printed information; short assessment tasks.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 9,
+              "quote": "o Check if language, literacy or"
+            },
+            {
+              "src": "cblm02",
+              "page": 9,
+              "quote": "o Demonstration and oral"
+            },
+            {
+              "src": "cblm02",
+              "page": 9,
+              "quote": "questioning, perhaps recording"
+            },
+            {
+              "src": "cblm02",
+              "page": 9,
+              "quote": "o Read any printed information to"
+            },
+            {
+              "src": "cblm02",
+              "page": 9,
+              "quote": "o Use short assessment tasks"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "How do you deal with the learners with low literacy or numeracy?",

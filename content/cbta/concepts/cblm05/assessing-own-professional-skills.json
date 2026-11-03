@@ -30,11 +30,26 @@
     ]
   },
   "keywords": [
-    { "en": "Units of competency", "bn": "যোগ্যতার একক — যার সাথে নিজের দক্ষতা মিলিয়ে দেখবেন" },
-    { "en": "Benchmarks", "bn": "তুলনার মানদণ্ড" },
-    { "en": "Job analysis", "bn": "নিজের কাজকে ভেঙে কোন কোন skills লাগে তা বের করা" },
-    { "en": "Career options", "bn": "ভবিষ্যৎ পেশাগত পথ" },
-    { "en": "Job function", "bn": "চাকরির প্রধান কাজের ক্ষেত্র" }
+    {
+      "en": "Units of competency",
+      "bn": "যোগ্যতার একক — যার সাথে নিজের দক্ষতা মিলিয়ে দেখবেন"
+    },
+    {
+      "en": "Benchmarks",
+      "bn": "তুলনার মানদণ্ড"
+    },
+    {
+      "en": "Job analysis",
+      "bn": "নিজের কাজকে ভেঙে কোন কোন skills লাগে তা বের করা"
+    },
+    {
+      "en": "Career options",
+      "bn": "ভবিষ্যৎ পেশাগত পথ"
+    },
+    {
+      "en": "Job function",
+      "bn": "চাকরির প্রধান কাজের ক্ষেত্র"
+    }
   ],
   "bangla_explanation": [
     "Professional development শুরুর আগে জানতে হবে আপনার আসলে কী দরকার।",
@@ -48,22 +63,47 @@
     "bn": "নিজের কাজের প্রতিটি অংশে কোন skills আছে আর কোনটা নেই, তালিকা করে দেখুন।"
   },
   "list_answer": {
+    "title": "Ways to assess your skills and identify future career options",
+    "title_bn": "নিজের বর্তমান দক্ষতা যাচাই ও ভবিষ্যৎ পেশার পথ ঠিক করার উপায়",
     "items": [
       {
         "text": "Assessing your current skills against units of competency and benchmarks.",
         "fidelity": "paraphrase",
-        "cites": [{ "src": "cblm05", "page": 21, "quote": "by assessing your current skills against units of competency and benchmarks" }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 21,
+            "quote": "by assessing your current skills against units of competency and benchmarks"
+          }
+        ]
       },
       {
         "text": "Asking others for feedback.",
         "fidelity": "paraphrase",
-        "cites": [{ "src": "cblm05", "page": 21, "quote": "by asking others for feedback" }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 21,
+            "quote": "by asking others for feedback"
+          }
+        ]
       },
       {
         "text": "Identifying your future career options.",
         "fidelity": "paraphrase",
-        "cites": [{ "src": "cblm05", "page": 21, "quote": "identifying your future career options." }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 21,
+            "quote": "identifying your future career options."
+          }
+        ]
       }
+    ],
+    "items_bn": [
+      "নিজের skills-কে units of competency আর benchmarks-এর সাথে মিলিয়ে দেখা — এতে বোঝা যায় কোনটা আছে আর কোনটার ঘাটতি।",
+      "অন্যদের কাছে feedback চাওয়া — নিজের চোখে যা ধরা পড়ে না, অন্যরা সেটা দেখিয়ে দিতে পারেন।",
+      "ভবিষ্যতে কোন পেশাগত পথে যেতে চান তা ঠিক করা — তাহলে বুঝবেন সামনে কোন skills লাগবে।"
     ]
   },
   "traps": [
@@ -91,6 +131,242 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Typical job functions of a professional trainer and assessor (p.21-22)",
+    "title_bn": "একজন trainer ও assessor-এর কাজের ক্ষেত্র ও দক্ষতা",
+    "columns": [
+      "Job function",
+      "Skills"
+    ],
+    "rows": [
+      [
+        "Training and Facilitating",
+        {
+          "text": "Creating learning strategies and materials. Planning and delivering competency-based programs. These include training package qualifications and relevant vocational competencies. They also include professional development and just-in-time skills based programs. Customising programs to fill specific skills gaps, industry and learner needs. Treating all participants equitably, taking into account cultural and linguistic needs.",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Creating learning strategies and materials"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Planning and delivering competency-based programs"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "including training package qualifications, relevant"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "vocational competencies, professional development"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "programs and just-in-time skills based programs"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Customising programs to fill specific skills gaps,"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "industry and learner needs"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Treating all participants equitably taking into account"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "cultural and linguistic needs."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Assessing",
+        {
+          "text": "Developing assessment strategies and tools. Delivering competency-based assessment. Applying the assessment principles of validity, reliability, fairness and flexibility. Record keeping. Recognition of prior learning and current competence. Assessment validation. Complying with the Assessment Guidelines in nationally endorsed training package. Complying with the assessment guidelines in accredited programs. Dealing with all assessees equitably, taking into account cultural and linguistic needs.",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Developing assessment strategies and tools"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Delivering competency-based assessment"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Applying the assessment principles of validity,"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "reliability, fairness and flexibility"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Record keeping"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Recognition of prior learning and current competence"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Assessment validation"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Complying with the Assessment Guidelines in"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "nationally endorsed training package"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "accredited programs"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Dealing with all assessees equitably, taking into"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "account cultural and linguistic needs."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Building relationships",
+        {
+          "text": "Networking and sharing ideas. Mentoring and peer review. Using technology such as Internet to participate in web forums. Communication and team work.",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Networking and sharing ideas"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Mentoring and peer review"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Using technology such as Internet to participate in web forums"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Communication and team work."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Marketing and promoting",
+        {
+          "text": "Promoting benefits of training through measurable outcomes. Facilitating learning organisations. Promoting and sharing of knowledge. Modeling best practice in VET.",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Promoting benefits of training through measurable"
+            },
+            {
+              "src": "cblm05",
+              "page": 22,
+              "quote": "promoting outcomes"
+            },
+            {
+              "src": "cblm05",
+              "page": 22,
+              "quote": "Facilitating learning organisations"
+            },
+            {
+              "src": "cblm05",
+              "page": 22,
+              "quote": "Promoting and sharing of knowledge"
+            },
+            {
+              "src": "cblm05",
+              "page": 22,
+              "quote": "Modeling best practice in VET."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Working in accordance with the guidelines in the national training system and the RTO systems for quality and training",
+        {
+          "text": "Researching and knowledge management. Analysing and problem solving. Negotiation and collaboration. Translating recommendations for improvements into actions and current practice. Evaluating and validating assessment systems.",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 22,
+              "quote": "Researching and knowledge management"
+            },
+            {
+              "src": "cblm05",
+              "page": 22,
+              "quote": "Analysing and problem solving"
+            },
+            {
+              "src": "cblm05",
+              "page": 22,
+              "quote": "Negotiation and collaboration"
+            },
+            {
+              "src": "cblm05",
+              "page": 22,
+              "quote": "Translating recommendations for improvements into"
+            },
+            {
+              "src": "cblm05",
+              "page": 22,
+              "quote": "actions and current practice"
+            },
+            {
+              "src": "cblm05",
+              "page": 22,
+              "quote": "Evaluating and validating assessment systems."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "How will you assess your current skills and determine the skills you may need to develop?",
@@ -100,41 +376,86 @@
           "text": "Ask: What skills do you have now? What skills do you need now?",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm05", "page": 21, "quote": "What skills do you have now?" },
-            { "src": "cblm05", "page": 21, "quote": "What skills do you need now?" }
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "What skills do you have now?"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "What skills do you need now?"
+            }
           ]
         },
         {
           "text": "A simple job analysis breaks down functional areas of your job into skills.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm05", "page": 21, "quote": "In a simple job analysis, you can break down functional areas of your job into skills." }
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "In a simple job analysis, you can break down functional areas of your job into skills."
+            }
           ]
         },
         {
           "text": "Then you see the skills you currently possess and those you need to develop.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm05", "page": 21, "quote": "you can then see what skills you currently possess and those you need to develop." }
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "you can then see what skills you currently possess and those you need to develop."
+            }
           ]
         },
         {
           "text": "Then, in consultation with the organisation, start your Professional Development Plan.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm05", "page": 21, "quote": "Then, in consultation with the organisation, you can start putting together your Professional Development Plan." }
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Then, in consultation with the organisation, you can start putting together your Professional Development Plan."
+            }
           ]
         },
         {
           "text": "Typical job functions include training and facilitating, assessing, building relationships, and marketing and promoting.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm05", "page": 21, "quote": "Typical job functions for a professional trainer and assessor are shown below." },
-            { "src": "cblm05", "page": 21, "quote": "Training and Creating learning strategies and materials Facilitating" },
-            { "src": "cblm05", "page": 21, "quote": "Assessing Developing assessment strategies and tools" },
-            { "src": "cblm05", "page": 21, "quote": "Building relationships Networking and sharing ideas" },
-            { "src": "cblm05", "page": 22, "quote": "promoting outcomes", "passageId": "cblm05-p22-e77a5665" },
-            { "src": "cblm05", "page": 21, "quote": "Marketing and Promoting benefits of training through measurable" }
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Typical job functions for a professional trainer and assessor are shown below."
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Training and Creating learning strategies and materials Facilitating"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Assessing Developing assessment strategies and tools"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Building relationships Networking and sharing ideas"
+            },
+            {
+              "src": "cblm05",
+              "page": 22,
+              "quote": "promoting outcomes",
+              "passageId": "cblm05-p22-e77a5665"
+            },
+            {
+              "src": "cblm05",
+              "page": 21,
+              "quote": "Marketing and Promoting benefits of training through measurable"
+            }
           ]
         }
       ]
@@ -160,27 +481,47 @@
         {
           "left": "Training and facilitating",
           "right": "Creating learning strategies and materials",
-          "cite": { "src": "cblm05", "page": 21, "quote": "Training and Creating learning strategies and materials Facilitating" }
+          "cite": {
+            "src": "cblm05",
+            "page": 21,
+            "quote": "Training and Creating learning strategies and materials Facilitating"
+          }
         },
         {
           "left": "Assessing",
           "right": "Developing assessment strategies and tools",
-          "cite": { "src": "cblm05", "page": 21, "quote": "Assessing Developing assessment strategies and tools" }
+          "cite": {
+            "src": "cblm05",
+            "page": 21,
+            "quote": "Assessing Developing assessment strategies and tools"
+          }
         },
         {
           "left": "Building relationships",
           "right": "Networking and sharing ideas",
-          "cite": { "src": "cblm05", "page": 21, "quote": "Building relationships Networking and sharing ideas" }
+          "cite": {
+            "src": "cblm05",
+            "page": 21,
+            "quote": "Building relationships Networking and sharing ideas"
+          }
         },
         {
           "left": "Marketing and promoting",
           "right": "Promoting and sharing of knowledge",
-          "cite": { "src": "cblm05", "page": 22, "quote": "promoting outcomes Facilitating learning organisations Promoting and sharing of knowledge" }
+          "cite": {
+            "src": "cblm05",
+            "page": 22,
+            "quote": "promoting outcomes Facilitating learning organisations Promoting and sharing of knowledge"
+          }
         },
         {
           "left": "Working in accordance with the guidelines",
           "right": "Researching and knowledge management",
-          "cite": { "src": "cblm05", "page": 22, "quote": "Working in Researching and knowledge management accordance with the" }
+          "cite": {
+            "src": "cblm05",
+            "page": 22,
+            "quote": "Working in Researching and knowledge management accordance with the"
+          }
         }
       ]
     },

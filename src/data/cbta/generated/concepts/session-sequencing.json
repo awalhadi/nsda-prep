@@ -33,6 +33,118 @@
     "bn": "সহজ সেলাই আগে, কঠিন কলার পরে: এটাই simple to complex।",
     "en": "A sewing trainer first teaches a straight seam. Then a curved seam. Then a full shirt collar."
   },
+  "extra": [
+    {
+      "bn": [
+        "Session-এর body-তে learners নিজে চেষ্টা করবে, feedback নেবে-দেবে, সক্রিয় থাকবে।",
+        "উদাহরণ: strategic planning শেখানোর আগে 'কেন plan করি' বোঝান — simple থেকে complex।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "You need to provide an opportunity for learners to try out new skills or information in",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "the body of the session.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Give learners an opportunity to try out new skills in the body of the session."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "The opportunity to seek and give feedback is important so",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "the learners can assess their own performance.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The opportunity to seek and give feedback lets learners assess their own performance."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "It is also important that the learner is active during this stage. You need to engage,",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "excite and enliven learners throughout this content.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Keep learners active: engage, excite and enliven them."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "Where possible, theory should be integrated with",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "practice so student can understand the relevance.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Where possible, integrate theory with practice so students see the relevance."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c09-p36-sequencing",
+        "c09-p36-sequencing-principles",
+        "c09-p36-body-of-session"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "session-sequencing",
   "importance": {
@@ -171,7 +283,18 @@
         "fidelity": "paraphrase",
         "text": "From older to newer."
       }
-    ]
+    ],
+    "itemsBn": [
+      "আগে সহজ বিষয়, তারপর কঠিন — যেন building blocks-এর মতো একটার ওপর আরেকটা শেখা হয়।",
+      "Learner যা আগে থেকে জানে সেখান থেকে শুরু করে অজানা বিষয়ে নিয়ে যান।",
+      "আগে সাধারণ ধারণা (general), তারপর নির্দিষ্ট খুঁটিনাটি (specific)।",
+      "আগে চোখে দেখা বাস্তব জিনিস (concrete), তারপর বিমূর্ত ধারণা (abstract)।",
+      "আগে ছোট task দিন, তারপর বড় task।",
+      "আগে একা একা (individual) কাজ, তারপর group-এ কাজ।",
+      "আগে পুরোনো বিষয় (older), তারপর নতুন বিষয় (newer)।"
+    ],
+    "title": "Principles for sequencing the content of a session",
+    "titleBn": "Session content কোন ক্রমে সাজাবেন (sequencing)-এর নীতি"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -407,6 +530,7 @@
       "text": "Sequence from the known to the unknown, not the reverse."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

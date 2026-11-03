@@ -41,6 +41,114 @@
     "bn": "আগে standard হাতে নিন, তারপর নিজের দক্ষতা মিলিয়ে দেখুন।",
     "en": "An IT support trainer opens the BTEB website. He downloads the IT support technician standard. Now he knows the required skills."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 6,
+            "quote": "Competency Standard Documents can be found in Bangladesh Technical\nEducation Board (BTEB), BTEB website, International Labor Organization\n(ILO) website and also in Technical Training Center (TTC) and Technical\nSchool and College (TSC).",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 6,
+            "quote": "in the library of the institution.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "BTEB, BTEB website, ILO website, TTC and TSC. The institution library also has them."
+      },
+      "concept": "competency-standard-sources",
+      "kind": "qa",
+      "outline": [
+        "c07-p7-identify-standards",
+        "c07-p7-sources-of-standards"
+      ],
+      "q": "Where can a trainer find Competency Standard Documents?",
+      "q_bn": "Competency Standard Document কোথায় পাওয়া যায়?",
+      "tip": "First step of the whole module: access the standard for your own trade.",
+      "tip_bn": "পুরো module-এর প্রথম ধাপ: নিজের trade-এর standard হাতে নেওয়া।"
+    },
+    {
+      "bn": [
+        "৪ × ৩ = ১২: Agro-Food, IT, Leather, Transport — প্রতিটায় তিনটি পেশা (card-এর table দেখুন)।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 6,
+              "quote": "Under the TVET Reform Project there are four sectors where the piloting will be\nconducted.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 6,
+              "quote": "There are three occupations or sub-sectors within these four\nsectors which altogether make 12 occupational sub sectors.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The TVET Reform Project pilots in four sectors. Three occupations each make 12 sub sectors."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p7-sectors-subsectors"
+      ]
+    },
+    {
+      "bn": [
+        "এখন level 3 পর্যন্ত standard আছে; ভবিষ্যতে level 6 পর্যন্ত হবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 6,
+              "quote": "TVET Reform project has already developed Competency Standards\nDocument for each occupational sectors mentioned above up to level 3.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 6,
+              "quote": "In\nfuture there will be more Competency Standards Document on different trade\nareas and sector up to level 6.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Standards exist up to level 3. In future there will be more, up to level 6."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p7-standards-levels"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "competency-standard-sources",
   "importance": {
@@ -150,7 +258,16 @@
         "fidelity": "verbatim",
         "text": "Technical School and College (TSC)"
       }
-    ]
+    ],
+    "itemsBn": [
+      "BTEB — বাংলাদেশ কারিগরি শিক্ষা বোর্ড, যেখান থেকে সরাসরি document পাওয়া যায়।",
+      "BTEB-এর website থেকেও document খুঁজে নেওয়া যায়।",
+      "ILO, মানে আন্তর্জাতিক শ্রম সংস্থার website থেকেও পাওয়া যায়।",
+      "Technical Training Center (TTC)-এ খোঁজ নিলে পাওয়া যায়।",
+      "Technical School and College (TSC)-তেও এই document থাকে।"
+    ],
+    "title": "Sources of competency standards documents",
+    "titleBn": "Competency Standard Document পাওয়ার উৎস"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -420,6 +537,89 @@
       "text": "The TVET Reform Project developed these standards up to level 3. Later, up to level 6."
     }
   ],
+  "visual": {
+    "columns": [
+      "Sector",
+      "Occupations / sub-sectors"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "1. Agro-Food Processing",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 6,
+              "quote": "1.1. Baker 1.2. Food technician 1.3. Packaging technician",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Baker, Food technician, Packaging technician"
+        }
+      ],
+      [
+        "2. Information Technology (IT)",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 6,
+              "quote": "2.1. Graphic designer 2.2. IT support technician 2.3. Web developer",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Graphic designer, IT support technician, Web developer"
+        }
+      ],
+      [
+        "3. Leather and Leather Goods",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 6,
+              "quote": "3.1. Machine maintenance technician 3.2. Machine operator 3.3. Supervisor",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Machine maintenance technician, Machine operator, Supervisor"
+        }
+      ],
+      [
+        "4. Transport",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 6,
+              "quote": "4.1. Electrician 4.2. Fitter 4.3. Welder",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Electrician, Fitter, Welder"
+        }
+      ]
+    ],
+    "title": "TVET Reform Project: four sectors and 12 occupational sub-sectors (p.7)",
+    "title_bn": "চারটি sector ও তাদের ১২টি occupational sub sector"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

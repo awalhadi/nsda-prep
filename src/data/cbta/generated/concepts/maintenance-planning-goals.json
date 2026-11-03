@@ -38,10 +38,367 @@
     "bn": "কোন সপ্তাহে কোন মেশিন সার্ভিস হবে, সেটা ঠিক করে দেওয়াই scheduling।",
     "en": "A TVET institute plans to service its lathe machines. A schedule says which machine is serviced each week."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "Planning involves the selection of objectives and the determination of the policies, programs, and procedures to be used for the achievement of the selected objectives.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Planning involves the selection of objectives and the determination of the policies, programs, and procedures to be used for the achievement of the selected objectives."
+      },
+      "kind": "qa",
+      "outline": [
+        "c06-p26-reporting-documentation",
+        "c06-p26-definition-planning"
+      ],
+      "q": "What is planning?",
+      "q_bn": "Planning কী?",
+      "tip": "Self Check 1 Q1. Write this p.26 definition, then add the answer key's two phrases.",
+      "tip_bn": "আগে p.26-এর সংজ্ঞা, তারপর answer key-এর 'looking ahead' আর 'act rather than react' যোগ করুন।"
+    },
+    {
+      "bn": [
+        "Scheduling মানে সময় ধরে লক্ষ্য ঠিক করা — কবে কোন maintenance হবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Scheduling is a method of planning that cites specific objectives to be accomplished",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "in relation to time",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Scheduling is a method of planning that cites specific objectives in relation to time."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Inherent in any preventive maintenance program is the use of",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "schedules to delineate when specific types of maintenance are to be performed",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Every preventive maintenance program uses schedules to show when maintenance is performed."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "major thrust of work scheduling is to improve the efficiency of",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "the maintenance department.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The major thrust of work scheduling is to improve maintenance department efficiency."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p26-definition-scheduling"
+      ]
+    },
+    {
+      "bn": [
+        "চূড়ান্ত লক্ষ্য একটাই: maintenance-এর প্রতিটি টাকা (dollar) সর্বোত্তমভাবে কাজে লাগানো।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "The ultimate goal should be to optimize the use of every maintenance dollar spent in achieving the assigned mission.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The ultimate goal should be to optimize the use of every maintenance dollar spent in achieving the assigned mission."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p26-maintenance-responsibilities"
+      ]
+    },
+    {
+      "bn": "Answer key দায়িত্বগুলোকেও 'ultimate goal' বলেছে আর downtime বাদ দিয়েছে; আপনি লক্ষ্য + তিন দায়িত্বই লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "a) Optimize the use of every dollar spent in achieving the assigned",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "b) the health and safety of the public and employees",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "c) housekeeping and keeping the general appearance of the facilities",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Answer key Q2: optimize every dollar; health and safety; housekeeping and appearance."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "minimization of downtime hours on production or building equipment",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "minimization of downtime hours on production or building equipment"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c06-p30-self-check-1",
+        "c06-p31-answer-key-1"
+      ],
+      "text": "Self Check 1 Q2 key lists three 'ultimate goals'. Page 26 names one ultimate goal and three responsibilities. The key also leaves out downtime. Write the goal, then all three responsibilities.",
+      "tone": "caution"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "complains",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Complains"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "emergency service calls,",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Emergency service calls"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "foreman's inspections,",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Foreman's inspections"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "d. periodic maintenance",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Periodic maintenance"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "inspection by craftsmen,",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Inspection by craftsmen"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "inspection group",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Inspection group"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "formalized planning",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Formalized planning"
+        }
+      ],
+      "items_bn": [
+        "অভিযোগ (complaint) থেকে কাজ জানা যায়।",
+        "জরুরি সেবার ফোন বা ডাক।",
+        "Foreman-এর পরিদর্শন।",
+        "নির্দিষ্ট সময় পরপর maintenance।",
+        "কারিগরদের (craftsmen) পরিদর্শন।",
+        "পরিদর্শক দল (inspection group)।",
+        "আনুষ্ঠানিক পরিকল্পনা।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c06-p26-identifying-work"
+      ],
+      "title": "Methods of identifying work (reports that lead to the identification of work)",
+      "title_bn": "কাজ চিহ্নিত করার ৭টি উপায়"
+    },
+    {
+      "bn": [
+        "এই সাতটি উৎস থেকে বোঝা যায় কত কারিগর-ঘণ্টা (labor hours) লাগবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Reports that lead to the identification of work pertains to how a maintenance",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "department determines requirements for craft labor hours",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "These reports show how a maintenance department determines requirements for craft labor hours."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p26-identifying-work"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "maintenance-planning-goals",
   "importance": {
-    "bn": "CBLM 6 Self Check 1 (Q1, Q2)-এ এসেছে। CBLM 6-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "bn": "CBLM 6 Self Check 1 (Q1, Q2)-এ এসেছে। CBLM 6-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
     "en": "Asked in CBLM 6 Self Check 1 (Q1, Q2). Highlighted in CBLM 6. Comes as short question."
   },
   "keywords": [
@@ -159,7 +516,15 @@
         "fidelity": "paraphrase",
         "text": "Ultimate goal: optimize the use of every maintenance dollar spent in achieving the mission."
       }
-    ]
+    ],
+    "itemsBn": [
+      "সাধারণ মানুষ আর কর্মীদের health and safety রক্ষা করা, যাতে কেউ ক্ষতিগ্রস্ত না হয়।",
+      "Production বা ভবনের equipment বন্ধ থাকার সময় (downtime hours) যত সম্ভব কমানো।",
+      "Housekeeping করা, আর facilities-এর সার্বিক চেহারা পরিপাটি রাখা।",
+      "চূড়ান্ত লক্ষ্য — দায়িত্ব (mission) পালনে খরচ করা প্রতিটি maintenance dollar সবচেয়ে ভালোভাবে কাজে লাগানো।"
+    ],
+    "title": "Responsibilities and ultimate goal of the maintenance department",
+    "titleBn": "রক্ষণাবেক্ষণ বিভাগের দায়িত্ব ও চূড়ান্ত লক্ষ্য"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -450,7 +815,7 @@
   ],
   "score": 7,
   "sourceType": "cblm",
-  "stars": 2,
+  "stars": 3,
   "status": "draft",
   "title": "Planning, Scheduling and Goals of the Maintenance Department",
   "traps": [
@@ -578,6 +943,110 @@
       "text": "Scheduling is a method of planning that ties objectives to time."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Planning involves the selection of objectives",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Selection of objectives."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "the determination of the policies,",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "programs, and procedures to be used for the achievement of the selected objectives.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Determination of policies, programs and procedures to achieve the objectives."
+        }
+      ],
+      "title": "Planning",
+      "title_bn": "পরিকল্পনা"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Scheduling is a method of planning that cites specific objectives to be accomplished",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "in relation to time",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A method of planning that cites specific objectives in relation to time."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "major thrust of work scheduling is to improve the efficiency of",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "the maintenance department.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Its major thrust is to improve the efficiency of the maintenance department."
+        }
+      ],
+      "title": "Scheduling",
+      "title_bn": "সময়সূচি"
+    },
+    "title": "Planning vs Scheduling (p.26)",
+    "title_bn": "Planning বনাম Scheduling"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

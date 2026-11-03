@@ -1,0 +1,761 @@
+{
+  "aliases": [
+    "ERP",
+    "Site specific Emergency Response Plan",
+    "Reporting procedure"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 42,
+          "printed": 42
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "Reporting procedure মানে emergency হলে কী করতে হবে তার process; এর জন্য Emergency Response Plan লাগে।",
+    "সব workplace, worksite আর project site-এ Emergency Response Plan থাকা উচিত; workplace-এর managers এটি তৈরি করেন।",
+    "Plan-এ থাকবে: location and layout, muster point, emergency telephone number, দায়িত্বপ্রাপ্ত personnel, planned responses, alarm আর evacuation arrangements।",
+    "Employees ও visitors induction-এ এটি জানে; plan সবখানে display করতে হয় আর নিয়মিত practise করতে হয়।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "গাজীপুরের গার্মেন্টসে fire drill হয়; কর্মীরা নির্ধারিত পথে বেরিয়ে muster point-এ জড়ো হয়।",
+    "en": "A garments factory in Gazipur holds a fire drill. Workers leave by the escape routes and gather at the muster point."
+  },
+  "extra": [
+    {
+      "bn": [
+        "Reporting procedure চালাতে Emergency Response Plan লাগে; workplace-এর managers এটা বানান।",
+        "Employees, visitors আর subcontractors সবাইকে plan জানাতে হয়, নিয়মিত drill করতে হয় আর রেকর্ড রাখতে হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Reporting procedure is the process to what to do when the",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "emergency situation happened. For this procedure, we must need a",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "emergency response plan.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Reporting procedure is the process for what to do when an emergency happens. It needs an Emergency Response Plan."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Emergency Response Plans should be",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "in place for all workplaces, worksites and project sites.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Plans should be in place for all workplaces, worksites and project sites."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Plans should address the emergencies that are likely to occur on",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "the worksite",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Plans address the emergencies likely to occur on the worksite."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Subcontractors who work on site,",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "particularly those who are not supervised, should also be made aware of the",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "emergency arrangements.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Subcontractors on site, particularly those not supervised, should also be made aware."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p41-reporting-procedure",
+        "c03-p42-erp-emergencies",
+        "c03-p42-erp-information",
+        "c03-p42-erp-awareness"
+      ]
+    },
+    {
+      "bn": "CBLM-এ জরুরি নম্বর 000 লেখা; বাস্তবে নিজের কর্মস্থলের জরুরি নম্বর জেনে নিন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Emergency telephone number - 000",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Emergency telephone number - 000"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c03-p42-erp-information"
+      ],
+      "text": "The plan lists 'Emergency telephone number - 000'. Write the number your workplace actually uses, and know the CBLM prints 000.",
+      "tone": "caution"
+    },
+    {
+      "bn": "Self Check 3-এর তিনটি প্রশ্ন নিচের Self Check অংশে উত্তরসহ আছে।",
+      "kind": "note",
+      "outline": [
+        "c03-p43-self-check-3"
+      ],
+      "text": "Self Check 3 has three questions (p.43); answers are on p.44. See the Self Check list below.",
+      "tone": "tip"
+    }
+  ],
+  "highlighted": true,
+  "id": "emergency-response-plan",
+  "importance": {
+    "bn": "CBLM 3-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 3."
+  },
+  "keywords": [
+    {
+      "bn": "জরুরি অবস্থায় করণীয় পরিকল্পনা",
+      "en": "Emergency Response Plan"
+    },
+    {
+      "bn": "আগে থেকে অনুমান করা যায় এমন",
+      "en": "Foreseeable"
+    },
+    {
+      "bn": "জরুরি অবস্থায় জড়ো হওয়ার স্থান",
+      "en": "Muster point"
+    },
+    {
+      "bn": "এলাকা খালি করে নিরাপদে সরে যাওয়া",
+      "en": "Evacuation"
+    },
+    {
+      "bn": "নতুনদের প্রাথমিক পরিচিতি",
+      "en": "Induction"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "Workplace location and layout",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Workplace location and layout"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "Muster point(s) or emergency assembly location(s)",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Muster point(s) or emergency assembly location(s)"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "Emergency telephone number - 000",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Emergency telephone number - 000"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "Identification of all personnel appointed to assume responsibility in an emergency",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Identification of all personnel appointed to assume responsibility in an emergency"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "Specific planned responses to a potential emergency situation",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Specific planned responses to a potential emergency situation"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "Arrangements for raising the alarm",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Arrangements for raising the alarm"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "Emergency evacuation arrangements specific to the worksite",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Emergency evacuation arrangements specific to the worksite"
+      }
+    ],
+    "itemsBn": [
+      "কর্মস্থলের ঠিকানা আর ভেতরের নকশা (layout)।",
+      "Muster point — জরুরি অবস্থায় সবাই যেখানে জড়ো হবে।",
+      "জরুরি telephone number (এখানে লেখা আছে 000)।",
+      "জরুরি অবস্থায় দায়িত্ব নেওয়ার জন্য নিযুক্ত সব personnel-এর পরিচয়।",
+      "সম্ভাব্য প্রতিটি emergency-তে কী করা হবে, তার planned responses।",
+      "Alarm বাজানোর ব্যবস্থা।",
+      "ওই worksite-এর জন্য নির্দিষ্ট evacuation arrangements।"
+    ],
+    "title": "Information that should be included in the Emergency Response Plan",
+    "titleBn": "Emergency Response Plan-এ যে তথ্য থাকা উচিত"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 42,
+        "passageId": "cblm03-p42-9ae17b15",
+        "printedPage": 42,
+        "quote": "Emergency Response Plans must take into account all aspects of any foreseeable emergency and outline planned responses.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "An Emergency Response Plan outlines planned responses to any foreseeable emergency."
+  },
+  "openChecks": 1,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "Muster point(s) or emergency assembly location(s)",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Muster point",
+          "right": "Emergency assembly location"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "Employees and visitors to site must be aware of the emergency arrangements for the site - this is usually part of the induction.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Induction",
+          "right": "Employees and visitors learn the emergency arrangements"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "Emergency arrangements should be tested / practised periodically, and a record kept of the practice.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Emergency arrangements",
+          "right": "Tested or practised periodically"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "Anybody who has an emergency response role must be aware of their responsibility and provided with the necessary training to fulfil their role.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Emergency response role",
+          "right": "Necessary training to fulfil the role"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "The Emergency Response Plan must be displayed prominently throughout the workplace",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Emergency Response Plan",
+          "right": "Displayed prominently throughout the workplace"
+        }
+      ],
+      "prompt": "Match each term with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 42,
+        "printedPage": 42,
+        "quote": "Managers having control of a workplace are responsible for developing a site specific Emergency Response Plan.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Managers having control of a workplace",
+        "Every trainee",
+        "Subcontractors",
+        "Visitors to the site"
+      ],
+      "prompt": "Who is responsible for developing a site specific Emergency Response Plan?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Emergency Response Plans should be in place for all workplaces, worksites and project sites.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Emergency Response Plans should be in place for all workplaces, worksites and project sites."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "and would normally include:",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Bomb Threat Fire Gas Leak Medical Emergency",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Plans would normally include bomb threat, fire, gas leak and medical emergency."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Anybody who has an emergency response role must be aware of their responsibility and provided with the necessary training to fulfil their role.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Anybody with an emergency response role must get the necessary training."
+        }
+      ],
+      "modelAnswer": "An Emergency Response Plan should include:\n1. Workplace location and layout\n2. Muster point(s) or emergency assembly location(s)\n3. Emergency telephone number\n4. Identification of personnel responsible in an emergency\n5. Specific planned responses to a potential emergency\n6. Arrangements for raising the alarm\n7. Emergency evacuation arrangements specific to the worksite",
+      "prompt": "What information should be included in an Emergency Response Plan?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 42,
+            "printedPage": 42,
+            "quote": "to promote awareness for all employees with respect to any emergency",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "To promote awareness for all employees with respect to any emergency."
+      },
+      "prompt": "Why must the Emergency Response Plan be displayed throughout the workplace?"
+    }
+  },
+  "realQuestions": [],
+  "score": 3,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Emergency Response Plan",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Managers having control of a workplace are responsible for developing a site specific Emergency Response Plan.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Managers having control of a workplace develop the site specific Emergency Response Plan."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Reporting procedure is the process to what to do when the emergency situation happened.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Reporting procedure is the process for what to do when an emergency happens."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Emergency arrangements should be tested / practised periodically, and a record kept of the practice.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Emergency arrangements should be tested or practised periodically, and a record kept."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "The Emergency Response Plan must be displayed prominently throughout the workplace",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The Emergency Response Plan must be displayed prominently throughout the workplace."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 42,
+          "printedPage": 42,
+          "quote": "Employees and visitors to site must be aware of the emergency arrangements for the site - this is usually part of the induction.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Employees and visitors must know the emergency arrangements. This is usually part of the induction."
+    }
+  ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Bomb Threat",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Bomb Threat"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Bomb Threat Fire Gas Leak",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Fire"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Gas Leak",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Gas Leak"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Medical Emergency",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Medical Emergency"
+        }
+      ],
+      "title": "Would normally include",
+      "title_bn": "সাধারণত থাকে"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Other emergencies that might be applicable to your workplace include: Explosion",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Explosion"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Chemical spill or leak",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Chemical spill or leak"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Terrorist act",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Terrorist act"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Any other foreseeable emergency associated with the workplace",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Any other foreseeable emergency associated with the workplace"
+        }
+      ],
+      "title": "Other emergencies that might be applicable",
+      "title_bn": "প্রযোজ্য হলে আরও"
+    },
+    "title": "Emergencies an Emergency Response Plan should address (p.42)",
+    "title_bn": "Plan-এ যে emergency গুলো থাকে"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

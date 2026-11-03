@@ -38,6 +38,75 @@
     "bn": "গার্মেন্টস ক্লাসে diagram দেখান, মুখে বলুন, handout দিন, তারপর নিজে সেলাই করতে দিন।",
     "en": "In a garments class, show a diagram and explain it aloud. Then give a handout and let learners sew."
   },
+  "extra": [
+    {
+      "bn": [
+        "কে কত শিখবে, তা নির্ভর করে শেখানোর ধরন তার style-এর সাথে মেলে কিনা — সে 'smart' কিনা তার উপর নয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Learners not only learn using different senses but they have different learning styles",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Learners learn using different senses and have different learning styles."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Individuals perceive and process information in different ways.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Individuals perceive and process information in different ways."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Fleming and Mills (1992) suggested four categories",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Fleming and Mills (1992) suggested four categories."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p32-senses-learning-styles",
+        "c10-p32-vark",
+        "c10-p33-vark-ark"
+      ]
+    },
+    {
+      "bn": "Kinaesthetic learner হাতে-কলমে, বাস্তবের সাথে যুক্ত হয়ে শেখে।",
+      "kind": "note",
+      "outline": [
+        "c10-p33-vark-ark"
+      ],
+      "text": "Kinaesthetic learners must be 'connected to reality' through experience, example, practice or simulation.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "vark-learning-styles",
   "importance": {
@@ -216,7 +285,15 @@
         "fidelity": "paraphrase",
         "text": "Kinaesthetic (K): touch things and try things out; they need to do to learn."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Visual (V) — চোখে দেখে শেখে; charts, graphs, flow charts-এর মতো ছবি আকারে তথ্য পছন্দ করে।",
+      "Aural (A) — কানে শুনে শেখে; lectures, tutorials, group discussion তাদের জন্য ভালো।",
+      "Read / Write (R) — পড়ে ও লিখে শেখে; text আকারে তথ্য নিতে ও দিতে পছন্দ করে।",
+      "Kinaesthetic (K) — হাতে ধরে, নিজে করে করে শেখে; জিনিস ছুঁয়ে ও চেষ্টা করে না দেখলে তাদের শেখা হয় না।"
+    ],
+    "title": "VARK learning styles",
+    "titleBn": "VARK learning styles (শেখার পছন্দের ধরন)"
   },
   "mnemonic": {
     "explain_bn": "চোখ (V), কান (A), পড়া-লেখা (R), হাত (K): চারটা ইন্দ্রিয়ের পথ।",
@@ -426,6 +503,7 @@
       "text": "VARK deals with only one dimension of a person's learning style."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

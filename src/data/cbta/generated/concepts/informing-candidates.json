@@ -36,10 +36,130 @@
     "bn": "IT সেন্টারের notice-এ register, unit, evidence, সময় আর শুরুর সময় লেখা থাকে।",
     "en": "An IT training centre gives each candidate a notice before the test. It shows how to register and which unit is assessed. It lists the evidence, time allowed and start time."
   },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "The key to a successful assessment process involves informing the candidate.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The key to a successful assessment process involves informing the candidate."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "The information may be presented either oral or written form.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The information may be presented either oral or written form."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p10-informing-candidates"
+      ]
+    },
+    {
+      "bn": "Answer key-তে ৬টি, info sheet-এ ৭টি; পরীক্ষায় info sheet-এর ৭টি লিখে key-র purpose ও conditions যোগ করুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "Answer 2 Before the assessment event, candidates need to know:",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "the purpose of assessment",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "unit of competency that is being assessed",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "evidence requirements",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "evidence gathering method.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "assessment conditions",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "role of the assessor",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Candidates need to know: purpose, unit, evidence requirements, method, conditions and assessor's role."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c12-p35-self-check-1"
+      ],
+      "text": "Self Check Q2: the answer key (p.36) lists 6 items, the info sheet (p.10) lists 7. The two lists differ. Write the info-sheet 7, then add purpose and assessment conditions from the key.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "informing-candidates",
   "importance": {
-    "bn": "Short Questions (Short 60, 81) আর CBLM 12 Self Check 1 (Q2): 2 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "bn": "Short Questions (Short 60, 81) আর CBLM 12 Self Check 1 (Q2): 2 জায়গায় এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
     "en": "Asked in Short Questions (Short 60, 81) and CBLM 12 Self Check 1 (Q2). Highlighted in CBLM 12. Comes as short question."
   },
   "keywords": [
@@ -176,7 +296,18 @@
         "fidelity": "verbatim",
         "text": "When they can begin the assessment task"
       }
-    ]
+    ],
+    "itemsBn": [
+      "কীভাবে assessment event-এ register করতে হয়, যাতে candidate সময়মতো নাম লেখাতে পারে।",
+      "কোন unit of competency assessed হবে, যাতে candidate সেই অনুযায়ী প্রস্তুতি নেয়।",
+      "Candidate-কে কোন evidence দেখাতে বা জমা দিতে হবে, যাতে সে আগে থেকে জোগাড় করে রাখে।",
+      "Evidence কীভাবে সংগ্রহ করা হবে — সেই পুরো process।",
+      "Assessor-এর ভূমিকা কী, যাতে candidate বোঝে কে কী করবেন।",
+      "Assessment-এর জন্য কত time পাওয়া যাবে।",
+      "কখন থেকে assessment task শুরু করা যাবে।"
+    ],
+    "title": "Information to give candidates before assessment",
+    "titleBn": "Assessment-এর আগে candidate-কে যা জানাতে হয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -477,7 +608,7 @@
   ],
   "score": 7,
   "sourceType": "cblm",
-  "stars": 2,
+  "stars": 3,
   "status": "draft",
   "title": "Informing Candidates Before Assessment",
   "traps": [
@@ -530,6 +661,7 @@
       "text": "The answer key also lists the purpose and the assessment conditions."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 1
 }

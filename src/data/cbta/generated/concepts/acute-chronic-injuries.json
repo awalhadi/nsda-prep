@@ -31,6 +31,97 @@
     "bn": "ইস্ত্রিতে হাত পোড়া acute; বছরের পর বছর মেশিনের শব্দে hearing loss chronic।",
     "en": "A garments worker burns a hand on an iron. That is acute. Years of machine noise cause hearing loss. That is chronic."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "A hazard is anything that can hurt you or make you ill.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "A hazard is anything that can hurt you or make you ill."
+      },
+      "example": {
+        "bn": "গাড়ি চালানো, খেলা, এমনকি রাস্তা পার হওয়াতেও hazard আছে।",
+        "en": "Driving, playing sports, or just walking across the street have hazards."
+      },
+      "kind": "qa",
+      "outline": [
+        "c03-p19-information-sheet-2",
+        "c03-p19-recognizing-hazards"
+      ],
+      "q": "What is a hazard?",
+      "q_bn": "Hazard কী?"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "A workplace hazard is any condition, practice, or behavior that could cause injury or illness to a person or damage to property.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "A workplace hazard is any condition, practice, or behavior that could cause injury or illness to a person or damage to property."
+      },
+      "concept": "workplace-hazard",
+      "kind": "qa",
+      "outline": [
+        "c03-p19-recognizing-hazards"
+      ],
+      "q": "What is a workplace hazard (Information Sheet 2)?",
+      "q_bn": "Information sheet 2 অনুযায়ী workplace hazard কী?",
+      "tip": "To protect yourself, you first need to know how to recognize hazards.",
+      "tip_bn": "নিজেকে বাঁচাতে আগে hazard চিনতে হবে: condition, practice, behavior — তিনটিই hazard হতে পারে।"
+    },
+    {
+      "bn": [
+        "পিচ্ছিল মেঝে বা ফুটন্ত পানি সাথে সাথে আঘাত করে (acute); শব্দ বা repetitive কাজ ধীরে ধীরে অসুস্থ করে (chronic)।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Some hazards - like slippery floors or boiling water - cause injuries right away.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "But other hazards take longer.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Some hazards, like slippery floors or boiling water, cause injuries right away. Others take longer."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p19-acute-chronic"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "acute-chronic-injuries",
   "importance": {
@@ -104,7 +195,13 @@
         "fidelity": "paraphrase",
         "text": "Chronic: illnesses that develop over a long time, such as hearing loss and cancer."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Acute — সাথে সাথে হওয়া ক্ষতি, যেমন burns, fractures ও bruises; কারণ আর ফল একসাথেই দেখা যায়।",
+      "Chronic — অনেক দিন ধরে ধীরে ধীরে তৈরি হওয়া অসুখ, যেমন hearing loss ও cancer; তাই আগে থেকেই সাবধান থাকতে হয়।"
+    ],
+    "title": "Types of injuries and illnesses",
+    "titleBn": "Injury ও illness-এর ধরন"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -346,6 +443,83 @@
       "text": "Hearing loss is a chronic illness. Acute means immediate injuries."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Immediate injuries are called acute.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Immediate injuries are called acute."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Examples of acute injuries are burns, fractures, bruises.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Examples: burns, fractures, bruises."
+        }
+      ],
+      "title": "Acute",
+      "title_bn": "তাৎক্ষণিক আঘাত"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Illnesses that develop over a long period of time are called chronic.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Illnesses that develop over a long period of time."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Examples of chronic illnesses include repetitive strain, hearing loss, and cancer.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Examples: repetitive strain, hearing loss, cancer."
+        }
+      ],
+      "title": "Chronic",
+      "title_bn": "দীর্ঘমেয়াদি অসুস্থতা"
+    },
+    "title": "Acute vs chronic (p.19)",
+    "title_bn": "Acute বনাম chronic"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

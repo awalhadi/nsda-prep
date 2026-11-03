@@ -134,6 +134,83 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Preventive vs Corrective Maintenance (p.36)",
+    "title_bn": "Preventive বনাম Corrective maintenance",
+    "left": {
+      "title": "Preventive Maintenance",
+      "title_bn": "সমস্যা হওয়ার আগে",
+      "points": [
+        {
+          "text": "Conducted to keep equipment working or extend its life.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 36,
+              "quote": "Preventive Maintenance is conducted to keep equipment working or extend the life of the equipment."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Prevents trouble from arising; equipment continues in good operating condition.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 36,
+              "quote": "Preventive Maintenance is preventing trouble from arising; continue in good operating condition."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Includes tests, measurements, adjustments and parts replacement.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 36,
+              "quote": "Maintenance, including tests. measurements, adjustments, and parts replacement"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Corrective Maintenance",
+      "title_bn": "নষ্ট হওয়ার পরে",
+      "points": [
+        {
+          "text": "Sometimes called repair; conducted to get equipment working.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 36,
+              "quote": "Corrective Maintenance, is sometimes called \"repair\", is conducted to get equipment working."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Repair: fix any device when it is out of order or broken.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 36,
+              "quote": "Repair is fixing any sort of mechanical or electrical device should it become out of"
+            },
+            {
+              "src": "cblm06",
+              "page": 36,
+              "quote": "order or broken"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What is the difference between Preventive Maintenance and Corrective Maintenance?",

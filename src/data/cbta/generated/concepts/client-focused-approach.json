@@ -45,6 +45,40 @@
     "bn": "Learners কী চায় জেনে class সাজানো, পরে satisfaction যাচাই করা।",
     "en": "A driving trainer asks learners what they need. He changes class times and then checks if they are satisfied."
   },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 46,
+              "printedPage": 46,
+              "quote": "A teacher in TVET institute needs to demonstrate a client-focused approach to",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 46,
+              "printedPage": 46,
+              "quote": "work and",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A teacher in TVET institute needs to demonstrate a client-focused approach to work."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p46-client-focused-approach"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "client-focused-approach",
   "importance": {
@@ -123,7 +157,14 @@
         "fidelity": "verbatim",
         "text": "developing processes to evaluate and improve client satisfaction"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Client-এর needs ও expectations-কে কাজের ভিত্তি বানানো — নিজের সুবিধা নয়, client কী চায় তা দেখে work practices সাজানো।",
+      "Client-এর সাথে সম্পর্ক ধরে রাখতে কার্যকর communication strategies তৈরি করা — নিয়মিত ভালো যোগাযোগেই সম্পর্ক টিকে থাকে।",
+      "Client satisfaction যাচাই ও বাড়ানোর processes তৈরি করা — client খুশি কিনা মেপে সেই অনুযায়ী কাজের উন্নতি করা।"
+    ],
+    "title": "Ways a TVET teacher shows a client-focused approach",
+    "titleBn": "TVET teacher যেভাবে client-focused approach দেখান"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -440,6 +481,7 @@
       "text": "Client needs and expectations are met within the operational limits of your organisation."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

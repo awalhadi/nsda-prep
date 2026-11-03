@@ -20,7 +20,7 @@
     "Session outcome বলে session শেষে learner কী করতে পারবে।",
     "এর তিনটি অংশ: Performance (কী করবে), Standards (কোন মানে), Conditions (কোন অবস্থায়)।",
     "তিনটি অংশ থাকলে outcome পরিষ্কার হয়, আর পরে review করা সহজ হয়।",
-    "পরীক্ষায় শুধু PSC মনে রাখুন, তারপর প্রতিটির অর্থ লিখুন।"
+    "পরীক্ষায় শুধু P-S-C (Performance, Standards, Conditions) মনে রাখুন, তারপর প্রতিটির অর্থ লিখুন।"
   ],
   "breakdown": {
     "exam": 0,
@@ -33,6 +33,70 @@
     "bn": "গার্মেন্টস উদাহরণ: কী সেলাই (P), কত সময়ে কোন মানে (S), কোন মেশিনে (C)।",
     "en": "Performance: sew a shirt collar. Standards: within ten minutes, no loose stitches. Conditions: using an industrial sewing machine."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 31,
+            "printedPage": 31,
+            "quote": "What should the learner be able to do at the end of the session?",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "What should the learner be able to do at the end of the session?"
+      },
+      "example": {
+        "bn": "নমুনা plan-এ: 'Cool and decorate butter biscuits within sixty minutes' — কাজ (performance) আর সময়ের মান (standard) দুটোই আছে।",
+        "en": "'Cool and decorate butter biscuits within sixty minutes' (sample plan, p.41)."
+      },
+      "kind": "qa",
+      "outline": [
+        "c09-p31-session-outcomes"
+      ],
+      "q": "What question should a session outcome answer?",
+      "q_bn": "Session outcome কোন প্রশ্নের উত্তর দেয়?"
+    },
+    {
+      "bn": [
+        "Session outcome ছাড়া session-এর কাঠামো থাকে না, review-ও করা যায় না।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Session outcomes are vital to the success of training. They provide the framework for",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "a session, and establish a basis for revision and review",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Session outcomes are vital. They give the session framework and a basis for revision and review."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c09-p31-session-outcomes"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "session-outcomes-psc",
   "importance": {
@@ -109,7 +173,14 @@
         "fidelity": "paraphrase",
         "text": "Conditions: under what condition the trainees will be expected to perform."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Performance — session শেষে trainees কোন কাজটি করতে পারবে, তা বলে।",
+      "Standards — কাজটি কোন মানে বা কতটা ভালোভাবে করতে হবে, তা বলে।",
+      "Conditions — কোন অবস্থায় বা পরিস্থিতিতে trainees কাজটি করবে বলে আশা করা হয়, তা বলে।"
+    ],
+    "title": "Components of a session outcome (PSC)",
+    "titleBn": "Session outcome-এর অংশসমূহ (PSC)"
   },
   "mnemonic": {
     "explain_bn": "PSC পরীক্ষার নামের মতো মনে রাখুন: P = কী করবে, S = কোন মানে, C = কোন অবস্থায়। CBLM 9-এর p.31-এ এই তিনটি প্রথম অক্ষরই হাইলাইট করা।",
@@ -365,6 +436,7 @@
       "text": "Session outcome is the same as learning outcome."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

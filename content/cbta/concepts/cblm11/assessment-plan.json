@@ -64,6 +64,8 @@
     "bn": "ইলেকট্রিক্যাল ট্রেডের plan-এ লেখা থাকে কী, কীভাবে, কোথায়, কখন assessment হবে।"
   },
   "list_answer": {
+    "title": "What an assessment plan includes",
+    "title_bn": "Assessment plan-এ যা যা থাকে",
     "items": [
       {
         "text": "Purpose and aims of assessment",
@@ -114,6 +116,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "কেন assessment হচ্ছে আর কী অর্জন করতে চায় — বাকি সব কিছু এই উদ্দেশ্য ধরে ঠিক হয়।",
+      "কোন পরিবেশে, কোন অবস্থায় assessment হবে — অর্থাৎ assessment-এর context।",
+      "কোন মানদণ্ডের সাথে মিলিয়ে বিচার হবে — সেই relevant benchmarks plan-এ লেখা থাকে।",
+      "বাকি দরকারি তথ্য: কীসের assessment হবে, কীভাবে, কোথায় আর কখন — যাতে সবাই আগে থেকে জানে।"
     ]
   },
   "traps": [
@@ -144,8 +152,134 @@
           "quote": "it is important that the final version is communicated and confirmed with key stakeholders, and recorded"
         }
       ]
+    },
+    {
+      "text": "Specify who does what when. Clearly defined responsibility gets tasks completed.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 46,
+          "quote": "It is important that you specify who does what when"
+        },
+        {
+          "src": "cblm11",
+          "page": 46,
+          "quote": "If responsibility is clearly defined the tasks are much more likely to be completed"
+        }
+      ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "What a plan includes vs what makes it effective",
+    "title_bn": "Plan-এ কী থাকে বনাম ভালো plan-এর বৈশিষ্ট্য",
+    "left": {
+      "title": "Assessment plan includes",
+      "title_bn": "Plan-এ থাকে",
+      "points": [
+        {
+          "text": "Purpose and aims of assessment",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "purpose and aims of assessment"
+            }
+          ]
+        },
+        {
+          "text": "Context of assessment",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "context of assessment"
+            }
+          ]
+        },
+        {
+          "text": "Relevant benchmarks for assessment",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "relevant benchmarks for assessment"
+            }
+          ]
+        },
+        {
+          "text": "Other relevant information: what, how, where and when assessment takes place.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "other assessment information and documentation identified as relevant"
+            },
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "what is to be assessed o how assessment is to take place o where assessment is to take place o when assessment is to take place"
+            }
+          ]
+        }
+      ]
+    },
+    "right": {
+      "title": "An effective plan",
+      "title_bn": "কার্যকর plan",
+      "points": [
+        {
+          "text": "The program's learning outcomes align with the program's objectives.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "The program's learning outcomes should align with the program's objectives"
+            }
+          ]
+        },
+        {
+          "text": "Multiple methods are used, both direct and indirect.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "Multiple methods of assessment should be used including both direct and indirect methods"
+            }
+          ]
+        },
+        {
+          "text": "The trainer is very involved in assessing trainee learning.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "Trainer should be very involved in the process of assessing trainee learning"
+            }
+          ]
+        },
+        {
+          "text": "Results inform improvement in designing future assessment events.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 45,
+              "quote": "Assessment results should inform improvement in designing of future assessment events"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What is an Assessment plan? Who develops it?",

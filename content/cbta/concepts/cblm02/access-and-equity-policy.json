@@ -77,6 +77,8 @@
     "bn": "একটি TVET institute workshop-এ ramp বানায় (access) আর গরিব learner-দের ফি কমায় (equity)।"
   },
   "list_answer": {
+    "title": "Ways to ensure access and equity in training services",
+    "title_bn": "Training সেবায় access ও equity নিশ্চিত করার উপায়",
     "items": [
       {
         "text": "Access: improving physical access to training venues",
@@ -178,6 +180,15 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Access: training venues-এ শারীরিকভাবে পৌঁছানো ও ঢোকা সহজ করা — যাতে জায়গার কারণে কেউ আসতে না পারার অবস্থা না হয়।",
+      "Access: selection criteria যেন কোনো learners-এর প্রতি বৈষম্য না করে — ভর্তির সুযোগ সবার জন্য সমান থাকে।",
+      "Access: marketing activities এমনভাবে সাজানো যাতে সব learners উৎসাহ পায় — কেউ যেন তথ্যের অভাবে বাদ না পড়ে।",
+      "Equity: সহায়ক (supportive) learning environment দেওয়া — ঢোকার পর learners যেন ফল অর্জন করতে পারে।",
+      "Equity: ব্যক্তির অবস্থা অনুযায়ী assessments যুক্তিসঙ্গতভাবে মানিয়ে নেওয়া — যাতে কারো বিশেষ পরিস্থিতি সফলতার পথে বাধা না হয়।",
+      "Equity: fee reduction নীতি চালু করা — টাকার অভাবে কেউ যেন পিছিয়ে না পড়ে।",
+      "Equity: সবার উপযোগী (inclusive) training materials তৈরি ও ব্যবহার — সব learners যেন materials বুঝতে ও ব্যবহার করতে পারে।"
     ]
   },
   "traps": [
@@ -230,6 +241,100 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Access vs Equity (p.13)",
+    "title_bn": "Access বনাম Equity",
+    "left": {
+      "title": "Access: ability of learners to enter training",
+      "title_bn": "Access: training-এ ঢুকতে পারা",
+      "points": [
+        {
+          "text": "improving physical access to training venues",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 13,
+              "quote": "improving physical access to training venues"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "ensuring that selection criteria do not discriminate against learners",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 13,
+              "quote": "ensuring that selection criteria do not discriminate against learners"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "adapting marketing activities to encourage all learners",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 13,
+              "quote": "adapting marketing activities to encourage all learners"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "right": {
+      "title": "Equity: capacity of learners to achieve results in training",
+      "title_bn": "Equity: training-এ ফল অর্জন করতে পারা",
+      "points": [
+        {
+          "text": "providing a supportive learning environment",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 13,
+              "quote": "providing a supportive learning environment"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "reasonably adjusting assessments to meet individual circumstances",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 13,
+              "quote": "reasonably adjusting assessments to meet individual circumstances"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "implementing policies on fee reduction",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 13,
+              "quote": "implementing policies on fee reduction"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "developing and using inclusive training materials",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 13,
+              "quote": "developing and using inclusive training materials"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What is an access and equity policy? How can you enhance access and equity?",

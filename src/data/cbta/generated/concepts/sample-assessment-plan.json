@@ -1,0 +1,1521 @@
+{
+  "aliases": [
+    "Assessment plan template",
+    "Process based and product based assessment"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 46,
+          "printed": 46
+        },
+        {
+          "pdf": 47,
+          "printed": null
+        },
+        {
+          "pdf": 49,
+          "printed": null
+        },
+        {
+          "pdf": 50,
+          "printed": 50
+        },
+        {
+          "pdf": 51,
+          "printed": null
+        },
+        {
+          "pdf": 60,
+          "printed": 60
+        }
+      ],
+      "src": "cblm11"
+    }
+  ],
+  "banglaExplanation": [
+    "Sample assessment plan দেখায় একটা আসল plan দেখতে কেমন হয়।",
+    "এখানে evidence দুই রকম: process based (session চালানো, observation checklist) আর product based (documents ও questionnaire)।",
+    "Planning matrix-এ প্রতিটি performance criteria-কে A, B, C, D methods-এর সাথে মেলানো হয়।",
+    "শেষে assessment tasks, resource requirements আর designer-এর signature থাকে।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 11,
+  "errata": [],
+  "example": {
+    "bn": "Session চালানো = process; session plan জমা = product।",
+    "en": "A trainee teacher runs a 50-minute session in a simulated class. She also submits her session plans."
+  },
+  "extra": [
+    {
+      "bn": [
+        "CBLM নিজেই Certificate IV in CBT&A-এর জন্য একটা নমুনা plan দেখিয়েছে; এটা Job 3-এর template পূরণের মডেল।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 46,
+              "printedPage": 46,
+              "quote": "An assessment plan is developed for a course/program or unit of competency to provide an overview of the assessment of the course/ qualification or a unit/s of competency",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A plan for a course or unit gives an overview of its assessment."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 46,
+              "printedPage": 46,
+              "quote": "The assessment will include both process and product as evidence.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The assessment will include both process and product as evidence."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p46-sample-plan"
+      ],
+      "title": "Sample assessment plan"
+    },
+    {
+      "cite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 46,
+        "printedPage": 46,
+        "quote": "Sample assessment plan",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "fields": [
+        "Name of Assessment Designer",
+        "Qualification/ Unit of competency: Certificate IV in Competency Based Training and Assessment in TVET",
+        "Purpose and context of Assessment",
+        "Purpose of assessment: State the outcome of assessment. State competency/ies demonstrated through the evidence collected",
+        "Context of assessment: where and when the assessment is going to take place, e.g. Off-the job, a week after the training is completed"
+      ],
+      "kind": "form",
+      "note_bn": "Purpose = কী ফল চাই; Context = কোথায় ও কখন (যেমন off-the-job, training শেষের এক সপ্তাহ পরে)।",
+      "outline": [
+        "c11-p46-sample-plan"
+      ],
+      "title": "Sample assessment plan: header",
+      "title_bn": "নমুনা assessment plan-এর শিরোনাম অংশ"
+    },
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 46,
+                "printedPage": 46,
+                "quote": "There will be an assessment event after training is completed, where the trainee teachers will have to conduct a training session between 45-60 minute in duration",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "After training, trainee teachers conduct a 45-60 minute training session."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 46,
+                "printedPage": 46,
+                "quote": "Assessment will be conducted in a simulated environment, against a predefined Observation Checklist",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Conducted in a simulated environment, against a predefined Observation Checklist."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 46,
+                "printedPage": 46,
+                "quote": "The assessment should be completed within a month of completion of training",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Completed within a month of completion of training."
+          }
+        ],
+        "title": "Process based assessment",
+        "title_bn": "প্রক্রিয়া দেখে"
+      },
+      "outline": [
+        "c11-p46-process-based",
+        "c11-p46-product-based"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 46,
+                "printedPage": 46,
+                "quote": "Trainee teachers will have to demonstrate competency through the development and/or completion of a range of documents, as specified in the Assessment Guidelines",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Trainees develop or complete a range of documents, as the Assessment Guidelines specify."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 46,
+                "printedPage": 46,
+                "quote": "The trainee will also have to complete a questionnaire to demonstrate their underpinning knowledge",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "A questionnaire demonstrates their underpinning knowledge."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 46,
+                "printedPage": 46,
+                "quote": "The questionnaire may be completed and submitted to the Assessor before or on the day of the Assessment event",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "It is submitted before or on the day of the Assessment event."
+          }
+        ],
+        "title": "Product based assessment",
+        "title_bn": "ফলাফল বা document দেখে"
+      },
+      "title": "Process based vs product based assessment (sample plan, p.46)",
+      "title_bn": "Process based বনাম Product based assessment"
+    },
+    {
+      "cite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 47,
+        "printedPage": null,
+        "quote": "Assessment planning matrix",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "columns": [
+        "Elements/Performance criteria",
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "fields": [
+        "Qualification: Certificate IV in Competency Based Training & Assessment Practice in TVET",
+        "Unit code and title: TVTDEL401: Organise competency based training sessions",
+        "Unit descriptor: This unit specifies the competence required to organise competency based training sessions",
+        "Assessment process: A Observation; B Oral questioning/Written questionnaire; C Completed product and/or document; D Third party report"
+      ],
+      "kind": "form",
+      "morePages": [
+        48
+      ],
+      "note_bn": "CBLM-এর matrix-এ প্রতিটি PC-র পাশে এক বা দুইটি method-এ টিক (✓) দেওয়া। এখানে টিকের ঘর ফাঁকা রাখা হলো; নিজে ঠিক করে অনুশীলন করো।",
+      "outline": [
+        "c11-p47-sample-matrix"
+      ],
+      "rows": [
+        [
+          "1. Determine trainees training requirements of trainees",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1.1. Relevant curriculum documents are reviewed and analysed.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1.2. Trainees' current competencies are identified and compared with competencies to be attained.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1.3. Results of comparison is used to determine training requirements where necessary",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1.4. Learning outcomes and assessment activities are refined according to trainees' training requirements",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1.5. Training requirements are discussed and validated with appropriate people where appropriate",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2. Prepare unit delivery plan and relevant session plan",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2.1 Unit delivery plan is developed outlining all the sessions and relevant timeframes required.",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2.2 Training delivery modes appropriate for the training are outlined",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2.3 Sequence of training activities are determined based on competencies standards",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2.4 Session plan for each segments of the learning program are developed and finalized",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3. Organise teaching and learning resources",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3.1 Resources required for the training is identified & checked for availability",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3.2 Appropriate training locations/venue are identified and arranged according to training needs",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3.3 Training resources requirements are documented and access is arranged in accordance with organization procedures and appropriate staff.",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "title": "Sample assessment planning matrix (TVTDEL401)",
+      "title_bn": "নমুনা assessment planning matrix (TVTDEL401)"
+    },
+    {
+      "bn": "C কলাম: sample-এ \"Completed product\", template-এ \"Portfolio\"। উত্তরে দুটোই উল্লেখ করতে পারো।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 47,
+              "printedPage": null,
+              "quote": "Completed product and/or",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 60,
+              "printedPage": 60,
+              "quote": "Portfolio",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 60,
+              "printedPage": 60,
+              "quote": "(Sample product and/or document)",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "p.47: C is Completed product and/or document. p.60: C is Portfolio (Sample product and/or document)."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c11-p47-sample-matrix",
+        "c11-p60-matrix-template"
+      ],
+      "text": "Column C has two names in this CBLM. Both mean a product or document as evidence.",
+      "tone": "caution"
+    },
+    {
+      "cite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 49,
+        "printedPage": null,
+        "quote": "Summary of assessment methods",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "columns": [
+        "UoC",
+        "Element (Add additional rows if necessary)",
+        "Proposed assessment methods"
+      ],
+      "kind": "form",
+      "note_bn": "Matrix থেকে method তুলে এনে এই সারাংশ টেবিলে বসাতে হয়।",
+      "outline": [
+        "c11-p49-summary-of-methods"
+      ],
+      "rows": [
+        [
+          "TVTDEL401 Plan and Organise competency based training sessions",
+          "1. Determine trainees training requirements of trainees",
+          "Observation"
+        ],
+        [
+          "",
+          "2. Prepare program delivery plan and relevant session plan",
+          "Oral questioning/Written questionnaire"
+        ],
+        [
+          "",
+          "3. Organise learning and teaching resources",
+          "Completed products and/or document"
+        ]
+      ],
+      "title": "Summary of assessment methods (sample)",
+      "title_bn": "নমুনা: unit-এর element ও প্রস্তাবিত method"
+    },
+    {
+      "columns": [
+        "Task",
+        "What the trainee teacher does"
+      ],
+      "kind": "table",
+      "outline": [
+        "c11-p49-assessment-tasks"
+      ],
+      "rows": [
+        [
+          "Project 1: Plan competency based training",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 49,
+                "printedPage": null,
+                "quote": "Develop a unit delivery plan",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 49,
+                "printedPage": null,
+                "quote": "that contains at least three or more sessions",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 49,
+                "printedPage": null,
+                "quote": "must cover at least one entire unit of competency or accredited course/program module",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Develop a unit delivery plan: three or more sessions, at least one entire unit."
+          }
+        ],
+        [
+          "No standards available",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 49,
+                "printedPage": null,
+                "quote": "In the absence of relevant competency standards, similar standards (based on task analysis/training needs analysis/curriculum documents) should be developed",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Develop similar standards from task analysis, training needs analysis or curriculum documents."
+          }
+        ],
+        [
+          "Three session plans",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 49,
+                "printedPage": null,
+                "quote": "Prepare three session plans for consecutive training/learning & assessment sessions",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 49,
+                "printedPage": null,
+                "quote": "integrate theory, practise and feedback",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 49,
+                "printedPage": null,
+                "quote": "is a minimum of 45-60 minutes duration each",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Prepare three consecutive session plans of 45-60 minutes. They integrate theory, practise and feedback."
+          }
+        ],
+        [
+          "Session plan quality",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 49,
+                "printedPage": null,
+                "quote": "use a range of training techniques and effective communication skills appropriate to the learners",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 49,
+                "printedPage": null,
+                "quote": "demonstrate linkage among the sessions",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Use a range of training techniques and communication skills. Demonstrate linkage among the sessions."
+          }
+        ],
+        [
+          "Task analysis",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 49,
+                "printedPage": null,
+                "quote": "Conduct a task analysis to analyse a task and use it to inform the development of session plans",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Conduct a task analysis and use it to inform the session plans."
+          }
+        ],
+        [
+          "Oral/written questionnaire",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 50,
+                "printedPage": 50,
+                "quote": "To address the underpinning knowledge of this unit the trainee will",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 50,
+                "printedPage": 50,
+                "quote": "need to correctly answer a set of questions",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 50,
+                "printedPage": 50,
+                "quote": "complete and submit on or before the day of the Assessment event",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Correctly answer questions on underpinning knowledge. Submit on or before the assessment day."
+          }
+        ],
+        [
+          "Oral questions",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 50,
+                "printedPage": 50,
+                "quote": "Oral questions pertaining to the assessment event/observation will be asked during or after the Observation of training facilitation",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Oral questions are asked during or after the observed training facilitation."
+          }
+        ],
+        [
+          "Observation of training delivery",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 50,
+                "printedPage": 50,
+                "quote": "Identify and confirm appropriate training venue according to",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 50,
+                "printedPage": 50,
+                "quote": "Document training resources",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Identify and confirm an appropriate training venue. Document training resources."
+          }
+        ],
+        [
+          "Professional and technical skills development plan",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 51,
+                "printedPage": null,
+                "quote": "Identify the professional and technical competencies and",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 51,
+                "printedPage": null,
+                "quote": "development needs required to deliver the new competency based",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 51,
+                "printedPage": null,
+                "quote": "curriculum (or your current course if a CBT is not yet available) of",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 51,
+                "printedPage": null,
+                "quote": "complete the relevant documentation",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Identify competencies and development needs to deliver the new CBT curriculum. Complete the documentation."
+          }
+        ]
+      ],
+      "title": "Assessment tasks in the sample plan",
+      "title_bn": "নমুনা plan-এর assessment task"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "Access to computer and competency based learning resources",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Access to computer and competency based learning resources"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "Access to training venue for training period",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Access to training venue for training period"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "Access to assessment venue/ centre",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Access to assessment venue/ centre"
+        }
+      ],
+      "items_bn": [
+        "Computer আর competency based learning resources ব্যবহারের সুযোগ।",
+        "Training চলার সময় training venue ব্যবহারের সুযোগ।",
+        "Assessment venue বা centre ব্যবহারের সুযোগ।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c11-p51-resource-requirements"
+      ],
+      "title": "Resource requirements in the sample plan",
+      "title_bn": "নমুনা plan-এর resource"
+    },
+    {
+      "cite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 51,
+        "printedPage": null,
+        "quote": "Resource requirements for assessment",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "fields": [
+        "Resource requirements for assessment (State resource requirement in the workplace and/or simulated environment, such as tools, equipment, computer etc)",
+        "For the Assessment of this unit of competency the following resources may be required"
+      ],
+      "footer": [
+        "Assessment Designer's signature",
+        "Date"
+      ],
+      "kind": "form",
+      "outline": [
+        "c11-p51-resource-requirements"
+      ],
+      "title": "Resource requirements and sign-off",
+      "title_bn": "Resource অংশ ও designer-এর স্বাক্ষর"
+    }
+  ],
+  "highlighted": false,
+  "id": "sample-assessment-plan",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "Assessment plan-এর নমুনা",
+      "en": "Sample assessment plan"
+    },
+    {
+      "bn": "কাজ করার প্রক্রিয়া দেখে মূল্যায়ন",
+      "en": "Process based"
+    },
+    {
+      "bn": "তৈরি জিনিস বা document দেখে মূল্যায়ন",
+      "en": "Product based"
+    },
+    {
+      "bn": "criteria আর method মেলানোর ছক",
+      "en": "Planning matrix"
+    },
+    {
+      "bn": "মূল্যায়নের কাজগুলো",
+      "en": "Assessment tasks"
+    },
+    {
+      "bn": "প্রয়োজনীয় সরঞ্জাম ও সুবিধা",
+      "en": "Resource requirements"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 46,
+            "printedPage": 46,
+            "quote": "Name of Assessment Designer Qualification/ Unit of competency",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Name of Assessment Designer, and the Qualification or Unit of competency."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 46,
+            "printedPage": 46,
+            "quote": "Purpose and context of Assessment: (Purpose of assessment: State the outcome of assessment",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 46,
+            "printedPage": 46,
+            "quote": "Context of assessment should include details of where and when the assessment is going to take place",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Purpose and context of assessment: the outcome, and where and when."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 47,
+            "printedPage": null,
+            "quote": "Assessment planning matrix",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 47,
+            "printedPage": null,
+            "quote": "Unit code Elements/Performance criteria A B C D",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 47,
+            "printedPage": null,
+            "quote": "Assessment A B C D process Observation",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 51,
+            "printedPage": null,
+            "quote": "map every elements and its performance criteria against appropriate assessment methods",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment planning matrix: map elements and performance criteria to methods A, B, C, D."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 49,
+            "printedPage": null,
+            "quote": "Summary of assessment methods",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 49,
+            "printedPage": null,
+            "quote": "Element (Add additional rows Proposed assessment UoC",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Summary of assessment methods: proposed methods for each UoC and element."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 49,
+            "printedPage": null,
+            "quote": "ASSESSMENT TASKS: (Provide brief description of tasks to be completed for gathering evidence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment tasks to be completed for gathering evidence."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 51,
+            "printedPage": null,
+            "quote": "Resource requirements for assessment",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Resource requirements for assessment."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 51,
+            "printedPage": null,
+            "quote": "Assessment Designer's signature: Date:",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment Designer's signature and date."
+      }
+    ],
+    "itemsBn": [
+      "Plan কে বানিয়েছেন (Assessment Designer) আর কোন Qualification বা Unit of competency-র জন্য — তা লেখা হয়।",
+      "Assessment-এর purpose বা কোন outcome চাই, আর কোথায় ও কখন হবে — এই context লেখা হয়।",
+      "Planning matrix-এ প্রতিটি element ও performance criteria-কে A, B, C, D methods-এর সাথে মেলানো হয়।",
+      "প্রতিটি UoC আর element-এর জন্য কোন methods প্রস্তাব করা হলো, তার সংক্ষিপ্ত তালিকা।",
+      "Evidence সংগ্রহের জন্য কোন কোন tasks করতে হবে, তার সংক্ষিপ্ত বর্ণনা।",
+      "Assessment চালাতে কী কী resource লাগবে, তা এখানে লেখা থাকে।",
+      "শেষে Assessment Designer সই করেন আর তারিখ দেন, এতে plan সম্পূর্ণ হয়।"
+    ],
+    "title": "Parts of a sample assessment plan",
+    "titleBn": "Sample assessment plan-এর অংশগুলো"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 46,
+        "printedPage": 46,
+        "quote": "An assessment plan is developed for a course/program or unit of competency to provide an overview of the assessment of the course/ qualification or a unit/s of competency",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "An assessment plan gives an overview of assessing a course, qualification or unit."
+  },
+  "openChecks": 1,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 46,
+            "printedPage": 46,
+            "quote": "Process based assessment: There will be an assessment event after training is completed, where the trainee teachers will have to conduct a training session",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Process based assessment",
+          "right": "Conduct a training session after training"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 46,
+            "printedPage": 46,
+            "quote": "Product based assessment: Trainee teachers will have to demonstrate competency through the development and/or completion of a range of documents",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Product based assessment",
+          "right": "A range of documents"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 46,
+            "printedPage": 46,
+            "quote": "complete a questionnaire to demonstrate their underpinning knowledge",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Questionnaire",
+          "right": "Demonstrate underpinning knowledge"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 49,
+            "printedPage": null,
+            "quote": "Project 1 : Develop a unit delivery plan",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Project 1",
+          "right": "Develop a unit delivery plan"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 51,
+            "printedPage": null,
+            "quote": "Access to training venue for training period",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Training venue",
+          "right": "Access for the training period"
+        }
+      ],
+      "prompt": "Match each part of the sample plan with its detail."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 46,
+        "printedPage": 46,
+        "quote": "Assessment will be conducted in a simulated environment, against a predefined Observation Checklist",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "answerIndex": 0,
+      "options": [
+        "In a simulated environment against an Observation Checklist",
+        "Only through a written questionnaire",
+        "Through a third party report alone",
+        "Before the training starts"
+      ],
+      "prompt": "In the sample plan, the process based assessment is conducted:"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 47,
+              "printedPage": null,
+              "quote": "A B C D process Observation Oral questioning/Written Completed product and/or Third party report questionnaire document",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Matrix columns: A Observation, B Oral/Written questions, C Product or document, D Third party report."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 49,
+              "printedPage": null,
+              "quote": "Develop a unit delivery plan",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 49,
+              "printedPage": null,
+              "quote": "that contains at least three or more sessions",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Project 1: develop a unit delivery plan with at least three sessions."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 49,
+              "printedPage": null,
+              "quote": "Prepare three session plans for consecutive training/learning & assessment sessions",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 49,
+              "printedPage": null,
+              "quote": "integrate theory, practise and feedback",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 49,
+              "printedPage": null,
+              "quote": "is a minimum of 45-60 minutes duration each",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Prepare three session plans of 45-60 minutes each, integrating theory, practise and feedback."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 49,
+              "printedPage": null,
+              "quote": "Conduct a task analysis to analyse a task and use it to inform the development of session plans",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Conduct a task analysis to inform the development of session plans."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Oral/written To address the underpinning knowledge of this unit the trainee will",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "questionnaire need to correctly answer a set of questions",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "An oral/written questionnaire addresses the underpinning knowledge."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 50,
+              "printedPage": 50,
+              "quote": "Observation of training Identify and confirm appropriate training venue according to delivery",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "Develop professional Identify the professional and technical competencies and and technical skills",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "development plan on",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Observation of training delivery, and a professional and technical skills development plan."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "Access to computer and competency based learning resources",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "Access to training venue for training period",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "Access to assessment venue/ centre",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Resources: computer, competency based learning resources, training venue and assessment venue."
+        }
+      ],
+      "modelAnswer": "A sample assessment plan gives an overview of assessing a course or unit. It uses both process and product evidence.\n1. Process: a 45-60 minute training session, observed with a checklist.\n2. Product: documents and a questionnaire.\nIt includes a planning matrix, a methods summary, assessment tasks, resources and the designer's signature.",
+      "prompt": "Describe the sample assessment plan in CBLM 11."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 46,
+            "printedPage": 46,
+            "quote": "The assessment will include both process and product as evidence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 46,
+            "printedPage": 46,
+            "quote": "conduct a training session",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 46,
+            "printedPage": 46,
+            "quote": "completion of a range of documents",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 46,
+            "printedPage": 46,
+            "quote": "complete a questionnaire",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Both process and product: an observed training session, and documents with a questionnaire."
+      },
+      "prompt": "What two kinds of evidence does the sample plan use?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Sample Assessment Plan",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 46,
+          "printedPage": 46,
+          "quote": "The assessment will include both process and product as evidence",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The sample assessment uses both process and product as evidence."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 47,
+          "printedPage": null,
+          "quote": "Completed product and/or",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 47,
+          "printedPage": null,
+          "quote": "document",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 60,
+          "printedPage": 60,
+          "quote": "Portfolio Third Party Report questionnaire (Sample product and/or document)",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Column C is 'Completed product and/or document' on p.47 but 'Portfolio' on p.60."
+    }
+  ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 46,
+              "printedPage": 46,
+              "quote": "There will be an assessment event after training is completed, where the trainee teachers will have to conduct a training session between 45-60 minute in duration",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "After training, trainee teachers conduct a 45-60 minute training session."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 46,
+              "printedPage": 46,
+              "quote": "Assessment will be conducted in a simulated environment, against a predefined Observation Checklist",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Conducted in a simulated environment, against a predefined Observation Checklist."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 46,
+              "printedPage": 46,
+              "quote": "The assessment should be completed within a month of completion of training",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Completed within a month of completion of training."
+        }
+      ],
+      "title": "Process based assessment",
+      "title_bn": "প্রক্রিয়া দেখে"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 46,
+              "printedPage": 46,
+              "quote": "Trainee teachers will have to demonstrate competency through the development and/or completion of a range of documents, as specified in the Assessment Guidelines",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Trainees develop or complete a range of documents, as the Assessment Guidelines specify."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 46,
+              "printedPage": 46,
+              "quote": "The trainee will also have to complete a questionnaire to demonstrate their underpinning knowledge",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A questionnaire demonstrates their underpinning knowledge."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 46,
+              "printedPage": 46,
+              "quote": "The questionnaire may be completed and submitted to the Assessor before or on the day of the Assessment event",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It is submitted before or on the day of the Assessment event."
+        }
+      ],
+      "title": "Product based assessment",
+      "title_bn": "ফলাফল বা document দেখে"
+    },
+    "title": "Process based vs product based assessment (sample plan, p.46)",
+    "title_bn": "Process based বনাম product based"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

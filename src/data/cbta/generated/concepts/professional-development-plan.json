@@ -50,6 +50,514 @@
     "bn": "Plan-এ কোর্স, জায়গা, সময় লিখে mentor-এর সই নিন, তারপর Principal অনুমোদন দেন।",
     "en": "A TTC instructor plans an off the job course in Dhaka for September-October. A senior instructor is his mentor. The Principal approves the plan."
   },
+  "extra": [
+    {
+      "bn": [
+        "Plan একবার বানিয়ে ফেলে রাখার জিনিস নয় — বারবার দেখবেন, বদলাবেন, নতুন goal যোগ করবেন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "You now should have a number of goals and objectives, and have prioritised them.",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Now you need to develop a plan to achieve them",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "You now have prioritised goals and objectives. Now develop a plan to achieve them."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "This is a dynamic map of the direction of your professional life",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It is a dynamic map of the direction of your professional life."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c05-p26-develop-pdp",
+        "c05-p27-pdp-outline"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "identified skills gap if relevant",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "identified skills gap if relevant"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "work and personal career objectives",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "work and personal career objectives"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "identified areas requiring development",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "identified areas requiring development"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "learning opportunities/activities",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "learning opportunities/activities"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "relevant work activities/projects",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "relevant work activities/projects"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "links to organisational training needs",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "links to organisational training needs"
+        }
+      ],
+      "items_bn": [
+        "দক্ষতার ঘাটতি (skills gap) থাকলে তা চিহ্নিত করা।",
+        "কাজের ও ব্যক্তিগত career-এর উদ্দেশ্য।",
+        "কোন কোন ক্ষেত্রে উন্নতি দরকার।",
+        "শেখার সুযোগ ও activities।",
+        "প্রাসঙ্গিক কাজ ও projects।",
+        "প্রতিষ্ঠানের training needs-এর সাথে সংযোগ।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c05-p24-personal-development-plan"
+      ],
+      "title": "Personal Professional development plan: plan for each staff member, outlining (p.24)",
+      "title_bn": "p.24-এর তালিকা: প্রত্যেক staff-এর plan-এ যা থাকে"
+    },
+    {
+      "bn": "দুটি তালিকা আছে; পরীক্ষায় সাধারণত p.27-এর তালিকা (career goals থেকে evidence of competency) লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "Personal Professional development plan refers to plan for each individual staff",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "member, outlining:",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Personal Professional development plan refers to plan for each individual staff member."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "A Personal Professional Skill Development Plan outlines:",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "A Personal Professional Skill Development Plan outlines:"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c05-p24-personal-development-plan",
+        "c05-p27-pdp-outline"
+      ],
+      "text": "CBLM 5 gives two six-item lists for the plan (p.24 and p.27). The p.27 list matches the planner form and Job 2. Write the p.27 list unless the question names p.24 items.",
+      "tone": "caution"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 5,
+            "match": "exact",
+            "page": 24,
+            "printedPage": 24,
+            "quote": "the personnel responsible for initiating and approving the personal",
+            "sourceTitle": "Maintain and Enhance Professional Practice",
+            "src": "cblm05"
+          },
+          {
+            "cblm": 5,
+            "match": "exact",
+            "page": 24,
+            "printedPage": 24,
+            "quote": "development plan for employees in the organization. In your case, he/she may be your",
+            "sourceTitle": "Maintain and Enhance Professional Practice",
+            "src": "cblm05"
+          },
+          {
+            "cblm": 5,
+            "match": "exact",
+            "page": 24,
+            "printedPage": 24,
+            "quote": "Principal.",
+            "sourceTitle": "Maintain and Enhance Professional Practice",
+            "src": "cblm05"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The personnel responsible for initiating and approving the plan. In your case, he/she may be your Principal."
+      },
+      "kind": "qa",
+      "outline": [
+        "c05-p24-relevant-personnel"
+      ],
+      "q": "Who can give advice on, and approve, your personal development plan?",
+      "q_bn": "আপনার personal development plan নিয়ে কে পরামর্শ দেবেন ও অনুমোদন করবেন?",
+      "tip": "Answer Key 2 says the Principal can approve. The planner form says Principal/ Supervisor.",
+      "tip_bn": "উত্তরে Principal লিখুন; চাইলে যোগ করুন — form-এ Principal/Supervisor লেখা থাকে।"
+    },
+    {
+      "cite": {
+        "cblm": 5,
+        "match": "exact",
+        "page": 28,
+        "printedPage": 28,
+        "quote": "Example of a Personal Professional Skill Development Plan",
+        "sourceTitle": "Maintain and Enhance Professional Practice",
+        "src": "cblm05"
+      },
+      "columns": [
+        "Competency (must be specific and measurable)",
+        "Learning strategy and location",
+        "Resources required",
+        "Timeframe"
+      ],
+      "fields": [
+        "TVET Teacher Personal Professional Skill Development Planner - 2012",
+        "Name: M. A. Anwar",
+        "Position: Instructor",
+        "Age: 35",
+        "Contact number: 01711-",
+        "Institution: TTC",
+        "Competencies to be developed in 2012"
+      ],
+      "footer": [
+        "Mentor name: Mominul Islam Position: Sr. Instructor",
+        "Signature",
+        "Date",
+        "Approved by Principal/ Supervisor:",
+        "Signature Date"
+      ],
+      "kind": "form",
+      "note_bn": "প্রতিটি competency-র জন্য কীভাবে ও কোথায় শিখবেন, কী resources লাগবে আর কবে — চারটি কলাম; শেষে mentor ও Principal/Supervisor-এর স্বাক্ষর।",
+      "outline": [
+        "c05-p28-pdp-example"
+      ],
+      "rows": [
+        [
+          "Competency Based Learning Program/Course Developer",
+          "Off the job training Dhaka",
+          "Recommendation from the concerned authority to attend the course",
+          "September- October 2012"
+        ],
+        [
+          "Coordinate training and/or assessment arrangements for apprenticeships",
+          "Industry visit",
+          "Establish linkage with the industry and maintain regular communication and monitor the progress of the apprentices",
+          "November- December 2012"
+        ]
+      ],
+      "title": "Example of a Personal Professional Skill Development Plan",
+      "title_bn": "Personal Professional Skill Development Plan-এর নমুনা"
+    },
+    {
+      "cite": {
+        "cblm": 5,
+        "match": "exact",
+        "page": 29,
+        "printedPage": 29,
+        "quote": "Professional Development Plan - Details",
+        "sourceTitle": "Maintain and Enhance Professional Practice",
+        "src": "cblm05"
+      },
+      "columns": [
+        "Competency (must be specific and measurable)",
+        "Performance criteria - how will you know you have achieved this competency? What evidence will you produce",
+        "Certified by Industry person"
+      ],
+      "fields": [
+        "Competencies to be developed in 2012"
+      ],
+      "kind": "form",
+      "morePages": [
+        30,
+        31,
+        32
+      ],
+      "note_bn": "প্রতিটি competency-র পাশে সেই unit-এর সব performance criteria লেখা — এগুলোই প্রমাণ (evidence) যে আপনি competent; শেষ কলামে কে certify করবেন।",
+      "outline": [
+        "c05-p29-pdp-details-example"
+      ],
+      "rows": [
+        [
+          "TVTTAS501- Conduct Training Needs Analysis",
+          "1.1 Client objectives and expectations and organisational requirements of clients are identified and verified through discussion. (PCs 1.1 to 3.4)",
+          "Mr. Kamal Hossain, CBT&A Assessor"
+        ],
+        [
+          "TVTDES501- Design and Develop Competency Based Learning Program",
+          "1.1 Scope, purpose and type of learning program are clarified with key stakeholders. (PCs 1.1 to 3.3)",
+          "Mr. Kamal Hossain, CBT&A Assessor"
+        ],
+        [
+          "TVTCMQ502- Evaluate Competency Based Training & Assessment",
+          "1.1. The purpose, objectives and scope of the evaluation are determined and confirmed with relevant persons. (PCs 1.1 to 4.4)",
+          "Mr. Kamal Hossain, CBT&A Assessor"
+        ],
+        [
+          "TVTCMQ501 Coordinate training and/or assessment arrangements for apprenticeships",
+          "1.1 Relevant national and institutional legislation, policies and guidelines are accessed and interpreted to guide the development of apprenticeship arrangements. (PCs 1.1 to 4.5)",
+          ""
+        ]
+      ],
+      "title": "Professional Development Plan - Details (example)",
+      "title_bn": "Plan-এর বিস্তারিত অংশ: competency, PC ও কে certify করবেন"
+    },
+    {
+      "bn": [
+        "নমুনায় চারটি unit: TVTTAS501, TVTDES501, TVTCMQ502, TVTCMQ501 — প্রতিটির PC-গুলোই evidence-এর তালিকা।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Performance criteria - how will",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "you know you have achieved this",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "competency? What evidence will",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "you produce",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Performance criteria show how you know you achieved the competency, and what evidence you produce."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Mr. Kamal",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Hossain,",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Assessor",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Certified",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Industry",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Mr. Kamal Hossain, CBT&A Assessor, is the certifying industry person."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c05-p29-pdp-details-example"
+      ]
+    },
+    {
+      "bn": "Q5-এর উত্তর answer key-তে নেই; এই গাইডের model answer (SMART goals → p.27-এর ছয় অংশ → পরামর্শ → Principal-এর অনুমোদন) লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "How do you develop a Professional Development Plan?",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "How do you develop a Professional Development Plan?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "The Principal of your institution can approve your personal development plan.",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The Principal of your institution can approve your personal development plan."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c05-p33-self-check-2",
+        "c05-p34-answer-key-2"
+      ],
+      "text": "Self Check 2 Q5 has no answer in Answer Key 2. The key stops at Answer 4. Use the model answer in this guide.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "professional-development-plan",
   "importance": {
@@ -175,7 +683,17 @@
         "fidelity": "verbatim",
         "text": "Evidence of competency"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Career goals — ক্যারিয়ারে কোথায় পৌঁছাতে চান; plan এখান থেকেই শুরু হয়।",
+      "কোন কোন competencies নতুন করে develop করবেন, তা নির্দিষ্ট করে লেখা।",
+      "কীভাবে আর কোথায় শিখবেন — learning strategies and location।",
+      "শিখতে কী কী resources লাগবে, তার তালিকা।",
+      "কত সময়ের মধ্যে শেষ করবেন — time frame বেঁধে দেওয়া।",
+      "যোগ্যতা অর্জন হলো কিনা তার প্রমাণ — evidence of competency।"
+    ],
+    "title": "Components of a Professional Development Plan",
+    "titleBn": "পেশাগত উন্নয়ন পরিকল্পনার (Professional Development Plan) অংশসমূহ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -558,6 +1076,203 @@
       "text": "Another list (p.24): skills gap, objectives, development areas, activities, projects, training needs."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "identified skills gap if relevant",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "identified skills gap if relevant"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "work and personal career objectives",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "work and personal career objectives"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "identified areas requiring development",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "identified areas requiring development"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "learning opportunities/activities",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "learning opportunities/activities"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "relevant work activities/projects",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "relevant work activities/projects"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "links to organisational training needs",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "links to organisational training needs"
+        }
+      ],
+      "title": "Personal Professional development plan outlines (p.24)",
+      "title_bn": "p.24-এর তালিকা"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Career goals",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Career goals"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Competencies to be developed",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Competencies to be developed"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Learning strategies and location",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Learning strategies and location"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Required resources",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Required resources"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Time frame",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Time frame"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Evidence of competency",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Evidence of competency"
+        }
+      ],
+      "title": "Personal Professional Skill Development Plan outlines (p.27)",
+      "title_bn": "p.27-এর তালিকা"
+    },
+    "title": "Two lists for the plan: p.24 vs p.27",
+    "title_bn": "Plan-এর দুটি তালিকা: p.24 বনাম p.27"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

@@ -35,6 +35,295 @@
     "bn": "কম্পিউটার ল্যাবে candidate প্রতিটি ধাপ করলে assessor checklist-এ টিক দেন।",
     "en": "In a computer lab, the assessor ticks each step. Examples: launches browser, loads search engine."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "Checklists are extremely useful tools for structuring observations",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "a prompt for the assessor",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "a guide for the candidate",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Checklists structure observations. They act as a prompt for the assessor and a guide for the candidate."
+      },
+      "concept": "observation-checklist",
+      "example": {
+        "bn": "Assessor-এর জন্য মনে করিয়ে দেওয়া, candidate-এর জন্য পথ দেখানো।",
+        "en": "The assessor ticks 'launches browser' while the candidate searches the web."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p64-observation-checklist"
+      ],
+      "q": "What is an observation checklist used for?",
+      "q_bn": "Observation checklist কী কাজে লাগে?",
+      "tip": "Checklist = assessor prompt + candidate guide.",
+      "tip_bn": "দুই দিকেই কাজে লাগে: assessor ও candidate।"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 64,
+              "printedPage": 64,
+              "quote": "elements and performance criteria",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "elements and performance criteria"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 64,
+              "printedPage": 64,
+              "quote": "underpinning skills",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "underpinning skills"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 64,
+              "printedPage": 64,
+              "quote": "critical aspects of competence",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "critical aspects of competence"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 64,
+              "printedPage": 64,
+              "quote": "dimensions of competency",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "dimensions of competency"
+        }
+      ],
+      "items_bn": [
+        "Elements আর performance criteria — কাজটা মান অনুযায়ী হচ্ছে কি না।",
+        "Underpinning skills — কাজের পেছনের মৌলিক দক্ষতা।",
+        "Critical aspects of competence — competence-এর সবচেয়ে জরুরি দিকগুলো।",
+        "Dimensions of competency — competency-র সব দিক।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c11-p64-preparing-checklist"
+      ],
+      "title": "Evidence to observe while the work is performed",
+      "title_bn": "কাজের সময় যা observe করতে হবে (৪টি)"
+    },
+    {
+      "cite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 65,
+        "printedPage": 65,
+        "quote": "Sample Observation Checklist",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "columns": [
+        "The candidate....",
+        "If yes, tick the box"
+      ],
+      "fields": [
+        "Candidate name",
+        "Assessor name",
+        "Assessment Centre",
+        "Unit of competency: Use personal computing skills",
+        "Instructions for the assessor: List the date and location of the assessment activity",
+        "Observe the candidate using the basic functions of a WWW-browser to locate information related to their job",
+        "Place a tick in the box to show that the candidate completed each aspect of the activity to the standard expected",
+        "Complete the feedback section of the form",
+        "Date of observation",
+        "Location of assessment activity"
+      ],
+      "footer": [
+        "Did the candidate's overall performance meet the standard? Yes / No",
+        "Feedback to candidate",
+        "Assessor signature",
+        "Date"
+      ],
+      "kind": "form",
+      "note_bn": "গঠন মুখস্থ রাখো: উপরে পরিচয় ও নির্দেশনা, মাঝে \"The candidate....\" দিয়ে শুরু হওয়া কাজের তালিকা, নিচে overall Yes/No, feedback ও স্বাক্ষর।",
+      "outline": [
+        "c11-p65-sample-observation-checklist"
+      ],
+      "rows": [
+        [
+          "safely operates computer equipment and peripherals",
+          "☐"
+        ],
+        [
+          "uses basic functions of a WWW-browser to locate information",
+          "☐"
+        ],
+        [
+          "establishes information requirements for Internet search",
+          "☐"
+        ],
+        [
+          "launches browser",
+          "☐"
+        ],
+        [
+          "loads search engine",
+          "☐"
+        ],
+        [
+          "enters appropriate search criteria / or URL of site",
+          "☐"
+        ],
+        [
+          "follows relevant links to locate required information",
+          "☐"
+        ],
+        [
+          "bookmarks useful pages are as required",
+          "☐"
+        ],
+        [
+          "solve routine problems associated with computer use",
+          "☐"
+        ]
+      ],
+      "title": "Sample Observation Checklist",
+      "title_bn": "নমুনা Observation Checklist (computer skills)"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 65,
+              "printedPage": 65,
+              "quote": "activities that occur irregularly, take place over an extended period of time or are difficult to observe",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Activities that occur irregularly, over an extended period, or are difficult to observe"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 65,
+              "printedPage": 65,
+              "quote": "activities that require privacy and confidentiality",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "activities that require privacy and confidentiality"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 65,
+              "printedPage": 65,
+              "quote": "situations where it may be culturally inappropriate to observe the activity",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "situations where it may be culturally inappropriate to observe the activity"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 65,
+              "printedPage": 65,
+              "quote": "situations where workplace safety may be compromised.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "situations where workplace safety may be compromised."
+        }
+      ],
+      "items_bn": [
+        "যে কাজ অনিয়মিত হয়, অনেক সময় ধরে চলে, বা চোখে দেখা কঠিন।",
+        "যে কাজে privacy আর confidentiality দরকার।",
+        "যেখানে কাজটা observe করা সাংস্কৃতিকভাবে অনুচিত হতে পারে।",
+        "যেখানে observe করলে workplace safety ঝুঁকিতে পড়তে পারে।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c11-p65-observation-not-appropriate"
+      ],
+      "title": "When observation is not appropriate",
+      "title_bn": "কখন observation চলবে না (৪টি)"
+    },
+    {
+      "bn": "অনিয়মিত/দীর্ঘ/দেখা কঠিন, গোপনীয়, সাংস্কৃতিকভাবে অনুচিত, নিরাপত্তার ঝুঁকি: এই চার অবস্থায় oral question বা third party report নাও।",
+      "kind": "note",
+      "outline": [
+        "c11-p65-observation-not-appropriate"
+      ],
+      "text": "p.36 gives the same idea for on-the-job observation, with examples: planning a process, managing a team, counseling.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "observation-checklist",
   "importance": {
@@ -114,7 +403,14 @@
         "fidelity": "verbatim",
         "text": "Enter the observation points in the template"
       }
-    ]
+    ],
+    "itemsBn": [
+      "আগে Evidence Plan দেখে নাও — কাজের সময় কী কী observe করতে হবে, তা সেখানেই ঠিক করা থাকে।",
+      "তারপর একটা উপযুক্ত observation checklist template বেছে নাও।",
+      "শেষে কী কী দেখবে সেই observation points template-এ লিখে দাও; এটাই assessor-এর prompt হয়।"
+    ],
+    "title": "Steps to prepare an observation checklist",
+    "titleBn": "Observation checklist তৈরির ধাপ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -256,6 +552,48 @@
           ],
           "fidelity": "paraphrase",
           "text": "Review the Evidence Plan: what evidence must be observed during the work activity?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 64,
+              "printedPage": 64,
+              "quote": "elements and performance criteria",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 64,
+              "printedPage": 64,
+              "quote": "underpinning skills",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 64,
+              "printedPage": 64,
+              "quote": "critical aspects of competence",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 64,
+              "printedPage": 64,
+              "quote": "dimensions of competency",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Observe elements and performance criteria, underpinning skills, critical aspects and dimensions of competency."
         }
       ],
       "modelAnswer": "An observation checklist is a tool for structuring observations.\nIt acts as:\n1. A prompt for the assessor\n2. A guide for the candidate\nThe assessor places a tick to show each aspect was completed to the standard expected.",
@@ -365,8 +703,180 @@
       ],
       "fidelity": "paraphrase",
       "text": "Observation is not appropriate where workplace safety may be compromised."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 65,
+          "printedPage": 65,
+          "quote": "activities that occur irregularly, take place over an extended period of time or are difficult to observe",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 65,
+          "printedPage": 65,
+          "quote": "When observation is not appropriate?",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Observation is not appropriate for irregular, long or hard-to-observe activities."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 65,
+          "printedPage": 65,
+          "quote": "activities that require privacy and confidentiality",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 65,
+          "printedPage": 65,
+          "quote": "When observation is not appropriate?",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Observation is not appropriate for activities that require privacy and confidentiality."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 65,
+          "printedPage": 65,
+          "quote": "situations where it may be culturally inappropriate to observe the activity",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 65,
+          "printedPage": 65,
+          "quote": "When observation is not appropriate?",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Observation is not appropriate where observing may be culturally inappropriate."
     }
   ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "Review the Evidence Plan What evidence must be observed whilst the work activity is being performed?",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Review the Evidence Plan: what must be observed during the work activity?"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "elements and performance criteria",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "underpinning skills",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "critical aspects of competence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "dimensions of competency",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Identify elements and performance criteria, underpinning skills, critical aspects and dimensions of competency."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "Select the observation checklist template",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Select the observation checklist template"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 64,
+            "printedPage": 64,
+            "quote": "Enter the observation points in the template",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Enter the observation points in the template"
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "Evidence Plan review করো — কাজ চলার সময় কী কী observe করতে হবে, তা এখান থেকে বোঝা যায়।",
+      "Elements, performance criteria, underpinning skills, critical aspects আর dimensions of competency চিহ্নিত করো — এগুলোই observation-এর বিষয়।",
+      "তারপর একটা উপযুক্ত observation checklist template বেছে নাও।",
+      "শেষে কী কী দেখবে সেই observation points template-এ লিখে দাও; এটাই assessor-এর prompt হয়।"
+    ],
+    "title": "Preparing an observation checklist",
+    "title_bn": "Observation checklist তৈরির ধাপ"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

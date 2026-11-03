@@ -67,6 +67,8 @@
     "bn": "হাসপাতালের ট্রেনিং সেন্টারে assessor অনুমোদিত ফর্মে ফলাফল লিখে সই করেন।"
   },
   "list_answer": {
+    "title": "Role of the assessor in recording and reporting results",
+    "title_bn": "Results record ও report করার সময় assessor-এর কাজ",
     "items": [
       {
         "text": "Reviews assessment decision against evidence plan and evidence gathering tools.",
@@ -135,6 +137,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Evidence plan আর evidence gathering tools-এর সাথে মিলিয়ে assessment decision আবার দেখে নেন।",
+      "নিজের মতো করে নয়, approved recording format-এ assessment results লেখেন।",
+      "Results ঠিকভাবে লেখা হয়েছে কি না, আবার check করেন।",
+      "Assessment record নিয়ে candidate-এর সাথে আলোচনা করেন।",
+      "Documents রাখার দায়িত্বে যিনি আছেন, তাঁর কাছে assessment record জমা দেন।",
+      "সবশেষে assessment record-এ নিজে সই করেন।"
     ]
   },
   "traps": [
@@ -182,6 +192,99 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Recording vs reporting (p.26)",
+    "title_bn": "Recording বনাম reporting",
+    "left": {
+      "title": "Recording",
+      "title_bn": "ফলাফল লিখে রাখা",
+      "points": [
+        {
+          "text": "Assessment recording is the process of documenting assessment results.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 26,
+              "quote": "Assessment recording is the process of documenting assessment results."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Recording must be planned and integrated with the assessment process.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 26,
+              "quote": "Recording must be planned and integrated with the assessment process."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "The assessment record should track the whole assessment process.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 26,
+              "quote": "The assessment record should track the whole assessment process."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "right": {
+      "title": "Reporting",
+      "title_bn": "ফলাফল সঠিক লোককে জানানো",
+      "points": [
+        {
+          "text": "Reporting conveys information on the assessment outcome to appropriate personnel.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 26,
+              "quote": "Assessment reporting involves conveying information on the assessment outcome"
+            },
+            {
+              "src": "cblm12",
+              "page": 26,
+              "quote": "to appropriate personnel"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Examples: school administrators, assessment centre managers and employers.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 26,
+              "quote": "school administrators, assessment centre managers and employers"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "The decision is informed to relevant parties, according to confidentiality conventions.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 4,
+              "quote": "Assessment decision is informed to the relevant parties where required, according"
+            },
+            {
+              "src": "cblm12",
+              "page": 4,
+              "quote": "to confidentiality conventions."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What information should a good assessment record include?",

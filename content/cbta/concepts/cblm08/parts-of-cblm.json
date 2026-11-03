@@ -75,6 +75,8 @@
     "bn": "দেয়াল রং করার কাজে job sheet ধাপগুলো বলে, আর information sheet রং ও brush-এর ধরন বোঝায়।"
   },
   "list_answer": {
+    "title": "Major parts of a CBLM",
+    "title_bn": "CBLM-এর প্রধান অংশসমূহ",
     "items": [
       {
         "text": "Information sheet: gives the underpinning knowledge needed to perform the job.",
@@ -180,6 +182,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Information sheet — job করার জন্য দরকারি underpinning knowledge দেয়।",
+      "Self check sheet — প্রশ্নের সেট, যা দিয়ে যাচাই হয় learning objectives-এর knowledge শেখা হয়েছে কিনা।",
+      "Answer sheet — self check-এর পরেই থাকে, যাতে trainee সাথে সাথে নিজের উত্তর মিলিয়ে নিতে পারে।",
+      "Job sheet — একটা নির্দিষ্ট job করার instruction।",
+      "Specification sheet — job করতে দরকারি শর্ত (conditions), specifications আর diagram।"
     ]
   },
   "traps": [

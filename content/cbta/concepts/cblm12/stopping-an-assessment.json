@@ -83,6 +83,8 @@
     "explain_bn": "ছয়টি কারণের প্রথম অক্ষর মনে রাখুন: Safety, Equipment, Trainee, Competence, Damage, Production।"
   },
   "list_answer": {
+    "title": "When to stop an assessment",
+    "title_bn": "কখন assessment থামাতে হয়",
     "items": [
       {
         "text": "There is any breach of safety.",
@@ -150,6 +152,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Safety-র কোনো নিয়ম ভাঙলে বা ঝুঁকি দেখা দিলে সঙ্গে সঙ্গে assessment থামাতে হয়।",
+      "Equipment নষ্ট হয়ে গেলে কাজ চালানো যায় না, তাই থামাতে হয়।",
+      "Trainee চাপে (stressed) পড়লে বা নিজে থামাতে বললে assessment থামাতে হয়।",
+      "Trainee যে competent নয়, তার পরিষ্কার প্রমাণ মিলে গেলে আর চালানোর দরকার নেই।",
+      "সম্পত্তি বা equipment-এর ক্ষতির সম্ভাবনা থাকলে থামাতে হয়।",
+      "Workplace-এ assessment-এর কারণে production-এ প্রভাব পড়লে থামাতে হয়।"
     ]
   },
   "traps": [

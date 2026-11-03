@@ -1,0 +1,444 @@
+{
+  "id": "emergency-response-plan",
+  "canonical_title": "Emergency Response Plan",
+  "aliases": [
+    "ERP",
+    "Site specific Emergency Response Plan",
+    "Reporting procedure"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [
+    "cblm03-p42-9ae17b15"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "An Emergency Response Plan outlines planned responses to any foreseeable emergency.",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 42,
+        "quote": "Emergency Response Plans must take into account all aspects of any foreseeable emergency and outline planned responses.",
+        "passageId": "cblm03-p42-9ae17b15"
+      }
+    ],
+    "fidelity": "paraphrase"
+  },
+  "keywords": [
+    {
+      "en": "Emergency Response Plan",
+      "bn": "জরুরি অবস্থায় করণীয় পরিকল্পনা"
+    },
+    {
+      "en": "Foreseeable",
+      "bn": "আগে থেকে অনুমান করা যায় এমন"
+    },
+    {
+      "en": "Muster point",
+      "bn": "জরুরি অবস্থায় জড়ো হওয়ার স্থান"
+    },
+    {
+      "en": "Evacuation",
+      "bn": "এলাকা খালি করে নিরাপদে সরে যাওয়া"
+    },
+    {
+      "en": "Induction",
+      "bn": "নতুনদের প্রাথমিক পরিচিতি"
+    }
+  ],
+  "bangla_explanation": [
+    "Reporting procedure মানে emergency হলে কী করতে হবে তার process; এর জন্য Emergency Response Plan লাগে।",
+    "সব workplace, worksite আর project site-এ Emergency Response Plan থাকা উচিত; workplace-এর managers এটি তৈরি করেন।",
+    "Plan-এ থাকবে: location and layout, muster point, emergency telephone number, দায়িত্বপ্রাপ্ত personnel, planned responses, alarm আর evacuation arrangements।",
+    "Employees ও visitors induction-এ এটি জানে; plan সবখানে display করতে হয় আর নিয়মিত practise করতে হয়।"
+  ],
+  "example": {
+    "en": "A garments factory in Gazipur holds a fire drill. Workers leave by the escape routes and gather at the muster point.",
+    "bn": "গাজীপুরের গার্মেন্টসে fire drill হয়; কর্মীরা নির্ধারিত পথে বেরিয়ে muster point-এ জড়ো হয়।"
+  },
+  "list_answer": {
+    "title": "Information that should be included in the Emergency Response Plan",
+    "title_bn": "Emergency Response Plan-এ যে তথ্য থাকা উচিত",
+    "items": [
+      {
+        "text": "Workplace location and layout",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "Workplace location and layout"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Muster point(s) or emergency assembly location(s)",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "Muster point(s) or emergency assembly location(s)"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Emergency telephone number - 000",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "Emergency telephone number - 000"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Identification of all personnel appointed to assume responsibility in an emergency",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "Identification of all personnel appointed to assume responsibility in an emergency"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Specific planned responses to a potential emergency situation",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "Specific planned responses to a potential emergency situation"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Arrangements for raising the alarm",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "Arrangements for raising the alarm"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Emergency evacuation arrangements specific to the worksite",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "Emergency evacuation arrangements specific to the worksite"
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "items_bn": [
+      "কর্মস্থলের ঠিকানা আর ভেতরের নকশা (layout)।",
+      "Muster point — জরুরি অবস্থায় সবাই যেখানে জড়ো হবে।",
+      "জরুরি telephone number (এখানে লেখা আছে 000)।",
+      "জরুরি অবস্থায় দায়িত্ব নেওয়ার জন্য নিযুক্ত সব personnel-এর পরিচয়।",
+      "সম্ভাব্য প্রতিটি emergency-তে কী করা হবে, তার planned responses।",
+      "Alarm বাজানোর ব্যবস্থা।",
+      "ওই worksite-এর জন্য নির্দিষ্ট evacuation arrangements।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "Managers having control of a workplace develop the site specific Emergency Response Plan.",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Managers having control of a workplace are responsible for developing a site specific Emergency Response Plan."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Reporting procedure is the process for what to do when an emergency happens.",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Reporting procedure is the process to what to do when the emergency situation happened."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Emergency arrangements should be tested or practised periodically, and a record kept.",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Emergency arrangements should be tested / practised periodically, and a record kept of the practice."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "The Emergency Response Plan must be displayed prominently throughout the workplace.",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "The Emergency Response Plan must be displayed prominently throughout the workplace"
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Employees and visitors must know the emergency arrangements. This is usually part of the induction.",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 42,
+          "quote": "Employees and visitors to site must be aware of the emergency arrangements for the site - this is usually part of the induction."
+        }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "visual": {
+    "kind": "compare",
+    "title": "Emergencies an Emergency Response Plan should address (p.42)",
+    "title_bn": "Plan-এ যে emergency গুলো থাকে",
+    "left": {
+      "title": "Would normally include",
+      "title_bn": "সাধারণত থাকে",
+      "points": [
+        {
+          "text": "Bomb Threat",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Bomb Threat"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Fire",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Bomb Threat Fire Gas Leak"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Gas Leak",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Gas Leak"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Medical Emergency",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Medical Emergency"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "right": {
+      "title": "Other emergencies that might be applicable",
+      "title_bn": "প্রযোজ্য হলে আরও",
+      "points": [
+        {
+          "text": "Explosion",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Other emergencies that might be applicable to your workplace include: Explosion"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Chemical spill or leak",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Chemical spill or leak"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Terrorist act",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Terrorist act"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Any other foreseeable emergency associated with the workplace",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Any other foreseeable emergency associated with the workplace"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    }
+  },
+  "practice": {
+    "short": {
+      "prompt": "What information should be included in an Emergency Response Plan?",
+      "modelAnswer": "An Emergency Response Plan should include:\n1. Workplace location and layout\n2. Muster point(s) or emergency assembly location(s)\n3. Emergency telephone number\n4. Identification of personnel responsible in an emergency\n5. Specific planned responses to a potential emergency\n6. Arrangements for raising the alarm\n7. Emergency evacuation arrangements specific to the worksite",
+      "keyPoints": [
+        {
+          "text": "Emergency Response Plans should be in place for all workplaces, worksites and project sites.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Emergency Response Plans should be in place for all workplaces, worksites and project sites."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Plans would normally include bomb threat, fire, gas leak and medical emergency.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "and would normally include:"
+            },
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Bomb Threat Fire Gas Leak Medical Emergency"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Anybody with an emergency response role must get the necessary training.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 42,
+              "quote": "Anybody who has an emergency response role must be aware of their responsibility and provided with the necessary training to fulfil their role."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Who is responsible for developing a site specific Emergency Response Plan?",
+      "options": [
+        "Managers having control of a workplace",
+        "Every trainee",
+        "Subcontractors",
+        "Visitors to the site"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 42,
+        "quote": "Managers having control of a workplace are responsible for developing a site specific Emergency Response Plan."
+      }
+    },
+    "matching": {
+      "prompt": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "Muster point",
+          "right": "Emergency assembly location",
+          "cite": {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "Muster point(s) or emergency assembly location(s)"
+          }
+        },
+        {
+          "left": "Induction",
+          "right": "Employees and visitors learn the emergency arrangements",
+          "cite": {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "Employees and visitors to site must be aware of the emergency arrangements for the site - this is usually part of the induction."
+          }
+        },
+        {
+          "left": "Emergency arrangements",
+          "right": "Tested or practised periodically",
+          "cite": {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "Emergency arrangements should be tested / practised periodically, and a record kept of the practice."
+          }
+        },
+        {
+          "left": "Emergency response role",
+          "right": "Necessary training to fulfil the role",
+          "cite": {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "Anybody who has an emergency response role must be aware of their responsibility and provided with the necessary training to fulfil their role."
+          }
+        },
+        {
+          "left": "Emergency Response Plan",
+          "right": "Displayed prominently throughout the workplace",
+          "cite": {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "The Emergency Response Plan must be displayed prominently throughout the workplace"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why must the Emergency Response Plan be displayed throughout the workplace?",
+      "answer": {
+        "text": "To promote awareness for all employees with respect to any emergency.",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 42,
+            "quote": "to promote awareness for all employees with respect to any emergency"
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "list_answer.items[2]",
+      "note": "CBLM 3 p.42 prints 'Emergency telephone number - 000'. 000 is not a Bangladesh number; the card copies the CBLM. A reviewer should confirm how learners should write it."
+    }
+  ]
+}

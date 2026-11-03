@@ -69,6 +69,8 @@
     "bn": "গার্মেন্টসের কাটিং মাস্টার ঠিক মাপের, ভালো অবস্থার metal gloves পরেন।"
   },
   "list_answer": {
+    "title": "Essential criteria for the selection and use of PPE",
+    "title_bn": "PPE বাছাই ও ব্যবহারের প্রয়োজনীয় শর্ত",
     "items": [
       {
         "text": "Be comfortable and fit properly",
@@ -115,6 +117,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "আরামদায়ক ও ঠিক মাপের হওয়া (fit properly) — ঢিলা বা আঁটসাঁট হলে PPE ঠিকমতো সুরক্ষা দেয় না।",
+      "রক্ষণাবেক্ষণ করা ও ভালো অবস্থায় রাখা (maintained) — নষ্ট PPE সুরক্ষা দিতে পারে না।",
+      "Hazard অনুযায়ী উপযুক্ত হওয়া — যে বিপদ, তার জন্য সঠিক PPE বাছাই করতে হবে।",
+      "নতুন hazards তৈরি না করা — PPE পরার কারণে যেন অন্য বিপদ না ঘটে।"
     ]
   },
   "traps": [
@@ -178,6 +186,153 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Types of PPE by body part (p.39-40)",
+    "title_bn": "শরীরের কোন অংশে কোন PPE",
+    "columns": [
+      "Body part",
+      "PPE and what it protects against"
+    ],
+    "rows": [
+      [
+        "Head and Eyes",
+        {
+          "text": "Hard Hats provide protection from falling objects.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 39,
+              "quote": "Hard Hats provide protection from falling objects."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Head and Eyes",
+        {
+          "text": "Goggles and face shields protect the eyes from splashing liquids and flying objects.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 39,
+              "quote": "Goggles and face shields protect the eyes from splashing liquids and flying objects"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Head and Eyes",
+        {
+          "text": "Safety glasses protect you from dust and debris.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 39,
+              "quote": "Safety glasses protect you from dust and debris."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Ears",
+        {
+          "text": "Ear muffs and plugs protect your hearing from loud noises.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 40,
+              "quote": "Ear muffs and plugs protect your hearing from loud noises"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Feet",
+        {
+          "text": "Safety shoes and boots protect from sharp or heavy objects. Footwear should be non-slip.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 40,
+              "quote": "Safety shoes and boots protect your feet from sharp or heavy objects."
+            },
+            {
+              "src": "cblm03",
+              "page": 40,
+              "quote": "Footwear should be non-slip."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Hands",
+        {
+          "text": "Gloves protect hands from chemicals and sharp objects.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 40,
+              "quote": "Gloves protect hands from chemicals and sharp objects."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Lungs",
+        {
+          "text": "Respirators prevent you from inhaling tiny particles that can damage the lungs.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 40,
+              "quote": "Respirators prevent you from inhaling tiny particles in the air that can damage the lungs."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Skin",
+        {
+          "text": "Shirts with long sleeves and coveralls protect from being scratched, burned or splashed.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 40,
+              "quote": "Shirts with long sleeves and coveralls can protect you from being scratched, burned or splashed by chemicals"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Body",
+        {
+          "text": "Fall protection systems (harnesses that tie off) can prevent serious injury if you fall from a height.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 40,
+              "quote": "Fall protection systems (harnesses that tie off) can prevent serious"
+            },
+            {
+              "src": "cblm03",
+              "page": 40,
+              "quote": "injury if you fall from a height."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are the essential criteria for the selection and use of PPE?",

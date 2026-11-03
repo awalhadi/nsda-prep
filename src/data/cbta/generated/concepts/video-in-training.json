@@ -37,6 +37,632 @@
     "bn": "ড্রাইভিং ট্রেনিং-এ চাকা বদলের ভিডিও দেখিয়ে পরে প্রশ্ন করা হয়।",
     "en": "A driving trainer shows a video on changing a tyre. Then he asks: did the person jack the car safely?"
   },
+  "extra": [
+    {
+      "bn": [
+        "Video-র দুই দিক: তৈরি program দেখা আর নিজে camera-কে tool হিসেবে ব্যবহার।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "The prepared material could present general information, expose the trainees to",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "an expert to show how something is done correctly or combine with work booklets",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Prepared material can give general information, show an expert, or combine with work booklets."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p13-video-uses",
+        "c10-p14-using-video-session"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Course title",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Course title"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Subject area",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Subject area"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Title of program",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Title of program"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Intended audience",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Intended audience"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Is the material relevant to the training objectives?",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is the material relevant to the training objectives?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Is the information accurate?",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is the information accurate?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Is the language (e.g. level of vocabulary, use of jargon) appropriate for the",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is the language (e.g. level of vocabulary, use of jargon) appropriate for the"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Can the learners easily identify with the characters and setting?",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Can the learners easily identify with the characters and setting?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Is it likely to arouse and maintain interest?",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is it likely to arouse and maintain interest?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Is the pacing appropriate?",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is the pacing appropriate?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Is it logically organised (e.g. overview, summary)?",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is it logically organised (e.g. overview, summary)?"
+        }
+      ],
+      "items_bn": [
+        "Course-এর নাম।",
+        "বিষয়ের এলাকা (subject area)।",
+        "Program-এর নাম।",
+        "কাদের জন্য বানানো (intended audience)।",
+        "Training objectives-এর সাথে প্রাসঙ্গিক কিনা।",
+        "তথ্য সঠিক কিনা।",
+        "ভাষা, শব্দের স্তর, jargon এই group-এর জন্য উপযুক্ত কিনা।",
+        "Learners চরিত্র আর পরিবেশের সাথে নিজেকে মেলাতে পারবে কিনা।",
+        "আগ্রহ জাগাবে ও ধরে রাখবে কিনা।",
+        "গতি (pacing) ঠিক আছে কিনা।",
+        "যুক্তিসঙ্গতভাবে সাজানো কিনা, যেমন overview ও summary আছে কিনা।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c10-p14-video-checklist"
+      ],
+      "title": "Checklist to assess if a video is suitable",
+      "title_bn": "Video উপযুক্ত কিনা যাচাইয়ের checklist"
+    },
+    {
+      "bn": [
+        "Follow up হতে পারে আলোচনা, question sheet, দেখা skill অনুশীলন, বা কোনো issue নিয়ে research।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "You have just shown a video called 'Changing a tyre on a car'.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Did the person use correct and safe procedures for jacking the vehicle?",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Video 'Changing a tyre on a car': ask about correct and safe jacking procedures."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "claimed that the poor quality of memos is a major problem.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "trainees to research the steps of good memo writing.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Example: after a video on poor memos, trainees research the steps of good memo writing."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p14-using-video-session"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "safely lighting a gas welding/cutting torch",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "safely lighting a gas welding/cutting torch"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "adjusting a wheel bearing on a vehicle",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "adjusting a wheel bearing on a vehicle"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "cool, stack and decorate a biscuit",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "cool, stack and decorate a biscuit"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "disciplining employees.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "disciplining employees."
+        }
+      ],
+      "items_bn": [
+        "নিরাপদে gas welding/cutting torch জ্বালানো।",
+        "গাড়ির wheel bearing ঠিক করা।",
+        "বিস্কুট ঠান্ডা করা, সাজানো ও decorate করা।",
+        "কর্মীদের শৃঙ্খলা (disciplining) বজায় রাখা।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c10-p15-video-camera-tool"
+      ],
+      "title": "Video an expert demonstrating a skill: CBLM examples",
+      "title_bn": "Expert-এর skill ভিডিও করার উদাহরণ"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "driving a fork lift;",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "driving a fork lift;"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "waiting on a table;",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "waiting on a table;"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "operating a rip, scriber or radial arm saw;",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "operating a rip, scriber or radial arm saw;"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "speaking in public;",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "speaking in public;"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "filing steel in an engineering workshop;",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "filing steel in an engineering workshop;"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "operating a specialist sewing machine.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "operating a specialist sewing machine."
+        }
+      ],
+      "items_bn": [
+        "Fork lift চালানো।",
+        "টেবিলে খাবার পরিবেশন (waiting on a table)।",
+        "Rip, scriber বা radial arm saw চালানো।",
+        "জনসমক্ষে কথা বলা।",
+        "Engineering workshop-এ steel filing করা।",
+        "বিশেষ sewing machine চালানো।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c10-p15-video-camera-tool"
+      ],
+      "title": "Video to observe the progress of skill acquisition: CBLM examples",
+      "title_bn": "Skill শেখার অগ্রগতি দেখতে ভিডিওর উদাহরণ"
+    },
+    {
+      "bn": [
+        "নিজের ভিডিও দেখা কঠিন লাগতে পারে; তাই feedback একান্তে, গঠনমূলকভাবে দিন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "the result is",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "brutally honest, instant feedback.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "You may find trainees prefer to view their",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "performance privately with you.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Playback gives brutally honest, instant feedback. Trainees may prefer to view privately."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "Give private constructive feedback.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "highlighting the competencies and offering strategies for overcoming any problem.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Give private constructive feedback: highlight the competencies and offer strategies."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p15-video-camera-tool"
+      ]
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "consists of miniature cameras fitted in the frame of a pair of Safety",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "Glasses.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "New equipment: miniature cameras fitted in the frame of Safety Glasses."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "These glasses are connected to a mini MP3 player for recording of any",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "activity in the visual field of the wearer.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The glasses connect to a mini MP3 player that records the wearer's visual field."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "If you need to make a video for wider use you'll have to do some further research",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "or seek professional help.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "For a video for wider use, do further research or seek professional help."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p15-safety-glasses-camera"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "video-in-training",
   "importance": {
@@ -204,7 +830,15 @@
         "fidelity": "paraphrase",
         "text": "Changing attitudes: it acts on two senses and has emotional impact."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Transferring knowledge — অনেক তথ্য আকর্ষণীয়ভাবে trainees-এর সামনে তুলে ধরা যায়।",
+      "Learning skills — video চলাফেরা (motion) ভালো দেখায়; কাছ থেকে বড় করে দেখা যায়, আর অনুশীলনের জন্য বারবার দেখা যায়।",
+      "Problem solving — কর্মস্থলের human relations problems trainees নিজের চোখে দেখে বিশ্লেষণ করতে পারে।",
+      "Changing attitudes — একসাথে দুটি ইন্দ্রিয়ে কাজ করে আর মনে আবেগের ছাপ ফেলে, তাই মনোভাব বদলাতে সাহায্য করে।"
+    ],
+    "title": "Areas where video is excellent in training",
+    "titleBn": "Training-এ যেসব ক্ষেত্রে video খুব কার্যকর"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -439,6 +1073,147 @@
       "text": "Introduce the video first, and provide some follow up activity."
     }
   ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Always preview the video or forward to related segment before using it in training.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Always preview the video, or forward to the related segment."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Use this checklist to assess if it is suitable",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Use this checklist to assess if it is suitable"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Always prepare the individual learner or group by introducing the video.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Explain how it",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "fits into the session.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Introduce the video. Explain how it fits into the session."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Mention specific things to look for and note them on the board.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Mention specific things to look for and note them on the board."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "Define any difficult new vocabulary.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Define any difficult new vocabulary."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "It's also important to provide some follow up activity.",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "an informal chat about the information conveyed, a",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "question sheet",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Provide some follow up activity, such as a chat or a question sheet."
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "ব্যবহারের আগে video নিজে দেখে নিন, বা দরকারি অংশে এগিয়ে রাখুন।",
+      "Checklist দিয়ে যাচাই করুন video-টা এই learners-এর জন্য উপযুক্ত কিনা।",
+      "Video-টা পরিচয় করিয়ে দিন, session-এর সাথে কীভাবে মেলে বলুন।",
+      "কী কী খেয়াল করতে হবে বলে board-এ লিখে দিন।",
+      "কঠিন নতুন শব্দ (vocabulary) আগে বুঝিয়ে দিন।",
+      "শেষে follow up activity দিন: আলোচনা, question sheet ইত্যাদি।"
+    ],
+    "title": "Using a video program in a session",
+    "title_bn": "Session-এ video ব্যবহারের ধাপ"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

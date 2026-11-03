@@ -68,6 +68,8 @@
     "bn": "আগে জানলে assessor উপযুক্ত পদ্ধতি বেছে নিতে পারেন।"
   },
   "list_answer": {
+    "title": "Candidate characteristics and special needs to consider",
+    "title_bn": "Assessment plan-এর আগে candidate-এর যেসব বৈশিষ্ট্য ও চাহিদা জানতে হয়",
     "items": [
       {
         "text": "Level and experiences of previous learning and assessment",
@@ -202,6 +204,20 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "আগে কতটুকু শিখেছে আর কেমন assessment দিয়েছে — তা জানলে assessment তার উপযোগী করা যায়।",
+      "কেন assessment দিচ্ছে — নিজের জন্য নাকি প্রতিষ্ঠানের জন্য; এতে তার আগ্রহ ও প্রস্তুতি বোঝা যায়।",
+      "ভাষা, পড়া-লেখা বা হিসাবে কতটা দক্ষ আর কী সাহায্য লাগবে, তা জানতে হয়।",
+      "শোনা, দেখা, কথা বলা বা চলাফেরায় কোনো শারীরিক অসুবিধা থাকলে সেই অনুযায়ী ব্যবস্থা নিতে হয়।",
+      "বুদ্ধিগত কোনো অসুবিধা থাকলে assessment-এর ধরন সেই অনুযায়ী ঠিক করতে হয়।",
+      "শেখায় এখন পর্যন্ত কতটা এগিয়েছে, তা দেখে বোঝা যায় সে assessment-এর জন্য প্রস্তুত কি না।",
+      "মানসিক বা psychological কোনো সমস্যা থাকলে তা মাথায় রেখে assessment সাজাতে হয়।",
+      "ধর্মীয় আচার বা প্রার্থনার সময় মাথায় রেখে assessment-এর সময় ঠিক করতে হয়।",
+      "Candidate-এর সাংস্কৃতিক পটভূমি জানা দরকার, যাতে assessment কারও জন্য অস্বস্তিকর বা অন্যায্য না হয়।",
+      "Assessment নিয়ে candidate কী ভাবে বা কী ধারণা রাখে, তা জানলে তাকে ঠিকভাবে বোঝানো যায়।",
+      "বয়স অনুযায়ী candidate-এর চাহিদা আলাদা হতে পারে, তাই এটাও বিবেচনায় রাখতে হয়।",
+      "নারী-পুরুষ ভেদে প্রয়োজন আলাদা হতে পারে; assessment যেন কারও প্রতি পক্ষপাত না করে।"
     ]
   },
   "traps": [
@@ -231,8 +247,124 @@
           "quote": "Check files for background information, but be aware of confidentiality considerations"
         }
       ]
+    },
+    {
+      "text": "Adjustments are reasonable only if assessment stays valid and reliable within resource capabilities.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 18,
+          "quote": "Adjustments are considered reasonable if they still allow for a valid and reliable assessment within the resource capabilities"
+        }
+      ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Finding candidates' needs vs the designer's role",
+    "title_bn": "চাহিদা খোঁজা বনাম designer-এর ভূমিকা",
+    "left": {
+      "title": "Starting points to identify candidates' characteristics",
+      "title_bn": "Candidate-কে জানার শুরু",
+      "points": [
+        {
+          "text": "Encourage candidates to disclose equity or additional support needs.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 18,
+              "quote": "Candidates should be encouraged to disclose if they have any equity or additional support needs"
+            }
+          ]
+        },
+        {
+          "text": "Discuss with experienced teachers, trainers and assessors.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 18,
+              "quote": "Discuss with experienced teachers, trainers and assessors if necessary"
+            }
+          ]
+        },
+        {
+          "text": "Check enrolment information.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 18,
+              "quote": "Check enrolment information"
+            }
+          ]
+        },
+        {
+          "text": "Speak to workplace personnel or trainers aware of less obvious needs.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 18,
+              "quote": "Speak to relevant workplace personnel or other trainers who may be aware of less obvious needs"
+            }
+          ]
+        },
+        {
+          "text": "Check files for background information, but be aware of confidentiality.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 18,
+              "quote": "Check files for background information, but be aware of confidentiality considerations"
+            }
+          ]
+        }
+      ]
+    },
+    "right": {
+      "title": "The designer's role",
+      "title_bn": "Designer-এর কাজ",
+      "points": [
+        {
+          "text": "Understand equity and support issues.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 19,
+              "quote": "understand equity and support issues"
+            }
+          ]
+        },
+        {
+          "text": "Provide information on access and support.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 19,
+              "quote": "provide information on access and support"
+            }
+          ]
+        },
+        {
+          "text": "Keep up to date with who can provide assistance.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 19,
+              "quote": "keep up to date with issues and information about who can provide assistance"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "List five candidate needs that may require consideration in competency assessment.",

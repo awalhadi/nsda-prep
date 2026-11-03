@@ -48,6 +48,97 @@
     "bn": "পলিটেকনিক ইনস্টিটিউট safety policy লেখে, training দেয়, আর safety equipment দেয়।",
     "en": "A polytechnic institute writes a safety policy. It trains new lab staff and gives them gloves and goggles."
   },
+  "extra": [
+    {
+      "bn": [
+        "নিরাপত্তা তিনজনের দায়িত্ব: employer, supervisor আর আপনি নিজে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "You, your employer and your supervisor all have responsibilities when it comes to",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "keeping you healthy and safe.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "You, your employer and your supervisor all have safety responsibilities."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p12-employer-role"
+      ],
+      "title": "Safety roles"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "The Health and Safety Policy",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The Health and Safety Policy"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "The Occupational Safety and Health Act",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The Occupational Safety and Health Act"
+        }
+      ],
+      "items_bn": [
+        "প্রতিষ্ঠানের Health and Safety Policy।",
+        "Occupational Safety and Health Act (আইন)।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c03-p12-display-information"
+      ],
+      "title": "Under the law, the employer must display (p.12)",
+      "title_bn": "আইন অনুযায়ী employer যা সবার চোখে পড়ার মতো টাঙাবেন"
+    },
+    {
+      "bn": "তিনটি চাইলে প্রথম তিনটি লিখুন: policy and program, training, information-instruction-supervision।",
+      "kind": "note",
+      "outline": [
+        "c03-p12-employer-role"
+      ],
+      "text": "Self Check 1 Q5 asks for three duties. Write the first three; add the other two if time allows.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "employer-safety-duties",
   "importance": {
@@ -158,7 +249,16 @@
         "fidelity": "verbatim",
         "text": "Provide information on hazards in the workplace"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Health and safety policy ও program তৈরি করা — প্রতিষ্ঠানে safety কীভাবে চলবে, এটাই তার ভিত্তি।",
+      "প্রয়োজনীয় training দেওয়া — কর্মী যেন নিরাপদে কাজ করতে জানে।",
+      "নিরাপদে কাজ করতে যা লাগে সেই information, instruction ও supervision দেওয়া — কর্মী যেন একা ঝুঁকিতে না পড়ে।",
+      "প্রয়োজনীয় safety equipment আছে কিনা নিশ্চিত করা — সরঞ্জাম ছাড়া নিরাপদ কাজ সম্ভব নয়।",
+      "Workplace-এর hazards সম্পর্কে information দেওয়া — বিপদ জানা থাকলে কর্মী সাবধান থাকতে পারে।"
+    ],
+    "title": "Employer's safety duties",
+    "titleBn": "নিরাপত্তায় employer-এর দায়িত্ব"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -426,6 +526,7 @@
       "text": "You, your employer and your supervisor all have safety responsibilities."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

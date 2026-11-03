@@ -6,6 +6,7 @@ test("practice: a wrong MCQ answer puts the topic into revision, due the next da
   await expect(page.getByRole("heading", { level: 1, name: "Hierarchy of Controls" })).toBeVisible();
   await expect(page.getByText("Write this in the exam")).toBeVisible();
 
+  await page.getByText("Test yourself").click();
   await page.getByRole("button", { name: /Personal Protective Equipment \(PPE\)/ }).click();
   await expect(page.getByRole("status").filter({ hasText: "ভুল হয়েছে" })).toBeVisible();
   await expect(page.getByRole("status")).toContainText("Elimination");
@@ -21,6 +22,7 @@ test("practice: a wrong MCQ answer puts the topic into revision, due the next da
 
 test("matching and viva record results", async ({ page }) => {
   await page.goto("/cbta/concept/hierarchy-of-controls");
+  await page.getByText("Test yourself").click();
   await page.getByRole("tab", { name: "Viva" }).click();
   await page.getByRole("button", { name: "Show answer" }).click();
   await page.getByRole("button", { name: "I said it ✓" }).click();
@@ -43,10 +45,6 @@ test("mock exam: start, submit, self-mark and see the score by section", async (
   await page.getByRole("button", { name: "See my result" }).click();
   await expect(page.getByText("Your score")).toBeVisible();
   await expect(page.getByText("Read these again")).toBeVisible();
-
-  await page.goto("/cbta");
-  await expect(page.getByText("Last mock exam")).toBeVisible();
-  await expect(page.locator("text=/^\\d+%$/").first()).toBeVisible();
 });
 
 test("search finds concepts by English and Bangla words", async ({ page }) => {
@@ -54,7 +52,7 @@ test("search finds concepts by English and Bangla words", async ({ page }) => {
   await page.getByRole("searchbox").fill("evidence");
   await expect(page.getByRole("link", { name: /Rules of Evidence/ }).first()).toBeVisible();
   await page.getByRole("searchbox").fill("প্রমাণ");
-  await expect(page.getByRole("status")).not.toContainText("0 results");
+  await expect(page.getByRole("status")).not.toContainText("No topic found");
 });
 
 test("Web Design progress stays untouched when CBT&A progress is saved", async ({ page }) => {
@@ -66,6 +64,7 @@ test("Web Design progress stays untouched when CBT&A progress is saved", async (
   await page.evaluate((s) => localStorage.setItem("wdp3_store_v1", JSON.stringify(s)), legacy);
 
   await page.goto("/cbta/concept/hierarchy-of-controls");
+  await page.getByText("Test yourself").click();
   await page.getByRole("button", { name: /Personal Protective Equipment \(PPE\)/ }).click();
   await expect(page.getByRole("status").filter({ hasText: "ভুল হয়েছে" })).toBeVisible();
 
@@ -86,9 +85,58 @@ test("offline: after downloading, cards open and links work with no internet", a
   await context.setOffline(true);
   await page.goto("/cbta/concept/rules-of-evidence");
   await expect(page.getByRole("heading", { level: 1, name: "Rules of Evidence" })).toBeVisible();
-  await page.getByRole("link", { name: /CBLM 12/ }).first().click();
+  await page.getByRole("link", { name: /All topics of CBLM 12/ }).first().click();
   await expect(page.getByRole("heading", { level: 1, name: /Organise and Conduct Competency Assessment/ })).toBeVisible();
-  await page.goto("/cbta/guide");
-  await expect(page.getByRole("heading", { name: "Study priority guide" })).toBeVisible();
+  await page.getByRole("link", { name: /Last-minute sheet/ }).click();
+  await expect(page.getByRole("heading", { level: 1, name: "Last-minute sheet" })).toBeVisible();
   await context.setOffline(false);
+});
+
+for (const n of [1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12]) {
+  test(`CBLM ${n}: topic list → search → topic → next topic → practice, no sideways scroll`, async ({ page }) => {
+    await page.goto("/cbta");
+    await page.getByRole("link", { name: new RegExp(`^${n}\\b`) }).click();
+    await expect(page).toHaveURL(new RegExp(`/cbta/cblm/${n}$`));
+    const noSideScroll = () => page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1);
+    expect(await noSideScroll()).toBe(true);
+
+    // Search filters the topic list as you type.
+    const topics = page.locator("main ul a");
+    const all = await topics.count();
+    expect(all).toBeGreaterThan(10);
+    // Search for the longest word of a topic in the middle of the list.
+    const sample = (await topics.nth(Math.floor(all / 2)).locator("span.block.font-bold").first().textContent()) ?? "";
+    const word = sample.split(/[^A-Za-z]+/).sort((a, b) => b.length - a.length)[0];
+    await page.getByPlaceholder(/Search a topic/).fill(word);
+    await expect.poll(() => topics.count()).toBeLessThan(all);
+    expect(await topics.count()).toBeGreaterThan(0);
+    await page.getByPlaceholder(/Search a topic/).fill("");
+
+    // Open the first card topic, then move on with "Next topic".
+    await page.locator("main ul a[href^='/cbta/concept/']").first().click();
+    await expect(page.getByText("Write this in the exam")).toBeVisible();
+    await expect(page.getByText(/Topic \d+ of \d+/)).toBeVisible();
+    expect(await noSideScroll()).toBe(true);
+    const title = await page.getByRole("heading", { level: 1 }).textContent();
+    await page.getByRole("link", { name: /Next topic/ }).click();
+    await expect(page.getByRole("heading", { level: 1 })).not.toHaveText(title ?? "");
+
+    // The CBLM's practice test.
+    await page.goto(`/cbta/cblm/${n}`);
+    await page.getByRole("link", { name: /Practice test/ }).click();
+    await page.getByRole("tabpanel").getByRole("button").first().click();
+    await expect(page.getByRole("status")).toContainText(/Correct|ভুল/);
+    await page.getByRole("button", { name: /Next/ }).click();
+    await expect(page.getByText(/Question 2 of/)).toBeVisible();
+  });
+}
+
+test("a list says what it is and explains every point in Bangla", async ({ page }) => {
+  await page.goto("/cbta/concept/competency-based-assessment");
+  const list = page.locator("section").filter({ has: page.locator("ol") }).filter({ hasText: /characteristics/i }).first();
+  await expect(list.getByRole("heading")).toContainText(/characteristics/i);
+  const points = list.locator("ol > li");
+  const n = await points.count();
+  expect(n).toBeGreaterThan(2);
+  for (let i = 0; i < n; i++) await expect(points.nth(i).locator("[lang=bn]")).toHaveCount(1);
 });

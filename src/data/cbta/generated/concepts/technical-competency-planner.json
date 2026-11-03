@@ -1,0 +1,867 @@
+{
+  "aliases": [
+    "TVET Teacher/Trainer Technical Competency Development Planner",
+    "Sample technical competency development planner",
+    "Why is a planner helpful?",
+    "Technical Competency Development Plan: details of competencies to be developed"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 7,
+      "pages": [
+        {
+          "pdf": 14,
+          "printed": 13
+        },
+        {
+          "pdf": 15,
+          "printed": 14
+        },
+        {
+          "pdf": 16,
+          "printed": 15
+        },
+        {
+          "pdf": 23,
+          "printed": 22
+        },
+        {
+          "pdf": 24,
+          "printed": 23
+        }
+      ],
+      "src": "cblm07"
+    }
+  ],
+  "banglaExplanation": [
+    "Strategy, স্থান, সময় আর cost ঠিক করার পর সব কিছু একটা planner-এ লিখে রাখতে হয়।",
+    "Planner দিয়ে strategy সাজানো যায়, আবার documentation আর record keeping-ও হয়।",
+    "CBLM-এর sample planner-এর তিনটা অংশ: Summary of the planner, Technical Competency Development Plan আর Certification।",
+    "Summary-তে দুই জায়গার approval-এর ঘর আছে: Principal আর Agency।",
+    "Plan অংশে প্রতিটা competency-র elements আর performance criteria লিখতে হয়; এগুলোই পরে evidence-এর ভিত্তি।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 7,
+  "errata": [],
+  "example": {
+    "bn": "CBLM-এর sample-ও একজন welding instructor-এর planner।",
+    "en": "A welding Senior Instructor at a TTC fills the planner. He lists three welding units, the training centre, cost and months. His principal signs it."
+  },
+  "extra": [
+    {
+      "bn": [
+        "Planner একসাথে দুই কাজ করে: strategy সাজায়, আবার record হিসেবে থাকে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "A planner is helpful for setting up the strategies as well as documentation and\nrecord keeping.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "A planner is helpful for setting up the strategies as well as documentation and\nrecord keeping."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p14-planner-purpose"
+      ]
+    },
+    {
+      "cite": {
+        "cblm": 7,
+        "match": "exact",
+        "page": 15,
+        "printedPage": 14,
+        "quote": "TVET Teacher/Trainer Technical Competency Development Planner - 2012",
+        "sourceTitle": "Maintain and Enhance Technical Competency",
+        "src": "cblm07"
+      },
+      "columns": [
+        "Competency",
+        "NTVQ Level",
+        "Strategy",
+        "Name of the Training center/ Industry",
+        "Cost to be incurred",
+        "Time frame"
+      ],
+      "fields": [
+        "Name: Mr. Sakib Khan",
+        "Position: Senior Instructor",
+        "Age: 37",
+        "Trade: Welding",
+        "Institute: Barisal TTC",
+        "Contact number: 01715555555",
+        "Email: sakib.khan@tvet.com",
+        "Year competencies will be developed: 2012"
+      ],
+      "footer": [
+        "Add more columns if required",
+        "Approved by Principal/ Supervisor: Mr. Obaidul Huq, Barisal TTC Signature Date",
+        "Approved by Agency Mr. Mokbul Hossain, BMET Designation Signature Date"
+      ],
+      "kind": "form",
+      "note_bn": "লক্ষ করুন: দ্বিতীয় competency-তে Industry Attachment আর Course দুটোই; approval দুই জায়গা থেকে।",
+      "outline": [
+        "c07-p15-sample-planner"
+      ],
+      "rows": [
+        [
+          "TRAWEL3027A1 Estimate cost of jobs",
+          "L3",
+          "Course",
+          "Mirpur Agriculture Workshop and Training School (MAWTS)",
+          "Tk.",
+          "April - May 2012"
+        ],
+        [
+          "TRAWEL4016A1 Perform Shielded Metal Arc Welding (SMAW) - Positions 5G and 6G",
+          "L 4",
+          "Industry Attachment + Course",
+          "Mirpur Agriculture Workshop and Training School (MAWTS), BOC Bangladesh Ltd.",
+          "Tk.",
+          "June- August 2012"
+        ],
+        [
+          "TRAWEL4017A1 Perform Shielded Metal Arc Welding (SMAW) - Position 6GR",
+          "L 4",
+          "Course",
+          "Mirpur Agriculture Workshop and Training School (MAWTS)",
+          "Tk.",
+          "September- October 2012"
+        ]
+      ],
+      "title": "Sample: TVET Teacher/Trainer Technical Competency Development Planner - 2012",
+      "title_bn": "নমুনা planner: summary অংশ"
+    },
+    {
+      "cite": {
+        "cblm": 7,
+        "match": "exact",
+        "page": 15,
+        "printedPage": 14,
+        "quote": "Technical Competency Development Plan\nDetails of Competencies to be developed",
+        "sourceTitle": "Maintain and Enhance Technical Competency",
+        "src": "cblm07"
+      },
+      "columns": [
+        "Competency",
+        "NTVQL",
+        "Elements",
+        "Performance criteria - how will you know you have achieved this competency? What evidence will you produce- please use the relevant unit of competency as reference"
+      ],
+      "footer": [
+        "Add more columns if required"
+      ],
+      "kind": "form",
+      "morePages": [
+        16
+      ],
+      "note_bn": "Elements আর performance criteria সরাসরি UoC থেকে আসে; এখান থেকেই বোঝা যায় কী evidence দিতে হবে।",
+      "outline": [
+        "c07-p15-sample-plan"
+      ],
+      "rows": [
+        [
+          "TRAWEL3027A1 Estimate cost of jobs",
+          "Level 3",
+          "1. Determine job specification and volume of work; 2. Identify cost elements and calculate costs; 3. Calculate total cost",
+          "1.1 Job specification and volume of work is identified. 2.1 Indirect costs are identified and calculated. 2.2 Direct costs are identified and calculated. 3.1 Total cost of work is calculated."
+        ],
+        [
+          "TRAWEL4016A1 Perform Shielded Metal Arc Welding (SMAW) - Positions 5G and 6G",
+          "Level 4",
+          "1. Follow OSH practises; 2. Identify weld requirements from drawing; 3. Select and prepare materials; 4. Set up Job; 5. Set up welding equipment; 6. Perform Shielded Metal Arc Welding- Position 5G, 6G; 7. Clean and store equipment.",
+          "1.1 Safe work practices observed and PPE worn. 2.1 Weld requirements identified from work place drawing. 3.1-3.5 Materials selected, marked, cut, edges prepared, assembled and aligned. 4.1 Job is set up using a clamp. 5.1 Welding equipment is set up and adjusted. 6.1-6.3 Weld performed, cleaned and checked for quality. 7.1 Equipment is cleaned and stored."
+        ],
+        [
+          "TRAWEL4017A1 Perform Shielded Metal Arc Welding (SMAW) - Position 6GR",
+          "Level 4",
+          "Same seven elements, with Position 6G and job set up at position (6GR).",
+          "Same performance criteria as TRAWEL4016A1; 4.1 Job is set up using a clamp at required position (6GR)."
+        ]
+      ],
+      "title": "Sample: Technical Competency Development Plan (details of competencies)",
+      "title_bn": "নমুনা plan: প্রতিটি competency-র elements ও performance criteria"
+    },
+    {
+      "cite": {
+        "cblm": 7,
+        "match": "exact",
+        "page": 16,
+        "printedPage": 15,
+        "quote": "This is to certify that Mr. Sakib Khan, Instructor, Chittagong TTC achieved competencies on the",
+        "sourceTitle": "Maintain and Enhance Technical Competency",
+        "src": "cblm07"
+      },
+      "fields": [
+        "This is to certify that Mr. Sakib Khan, Instructor, Chittagong TTC achieved competencies on the following units"
+      ],
+      "footer": [
+        "Name of the industry person: Mr. Kamal Ahmed",
+        "Organization: Bangladesh Ltd.",
+        "Designation: Head of Welding Department",
+        "Signature with date: 30th October, 2012"
+      ],
+      "kind": "form",
+      "note_bn": "Certification-এ সই করেন industry person, trainer নিজে নন।",
+      "outline": [
+        "c07-p16-sample-certification"
+      ],
+      "rows": [
+        [
+          "TRAWEL3027A1 Estimate cost of jobs"
+        ],
+        [
+          "TRAWEL4016A1 Perform Shielded Metal Arc Welding (SMAW) - Positions 5G and 6G"
+        ],
+        [
+          "TRAWEL4017A1 Perform Shielded Metal Arc Welding (SMAW) - Position 6GR"
+        ]
+      ],
+      "title": "Sample: Certification",
+      "title_bn": "নমুনা certification"
+    },
+    {
+      "bn": "নমুনায় পদবি, TTC আর কোম্পানির নাম দুই পাতায় আলাদা — নাম মুখস্থ নয়, ফর্মের অংশগুলো শিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 14,
+              "quote": "Name: Mr. Sakib Khan Position: Senior Instructor Age: 37",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Name: Mr. Sakib Khan Position: Senior Instructor Age: 37"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 15,
+              "quote": "This is to certify that Mr. Sakib Khan, Instructor, Chittagong TTC achieved competencies on the",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "This is to certify that Mr. Sakib Khan, Instructor, Chittagong TTC achieved competencies on the"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 14,
+              "quote": "BOC Bangladesh Ltd.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "BOC Bangladesh Ltd."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 15,
+              "quote": "Organization: Bangladesh Ltd.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Organization: Bangladesh Ltd."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c07-p16-sample-certification"
+      ],
+      "text": "The sample is not consistent. p.15 says Senior Instructor, Barisal TTC and BOC Bangladesh Ltd. p.16 says Instructor, Chittagong TTC and Bangladesh Ltd. Do not memorise these names; learn the form's parts.",
+      "tone": "caution"
+    }
+  ],
+  "highlighted": false,
+  "id": "technical-competency-planner",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "নিজের training পরিকল্পনা লিখে রাখার ছক",
+      "en": "Planner"
+    },
+    {
+      "bn": "কে, কোন competency, কোথায়, কত খরচে, কবে — এক নজরে",
+      "en": "Summary of the planner"
+    },
+    {
+      "bn": "একটা competency-র ভেতরের কাজের অংশগুলো",
+      "en": "Elements"
+    },
+    {
+      "bn": "কীভাবে বুঝবেন competency অর্জিত হয়েছে — কী evidence দেবেন",
+      "en": "Performance criteria"
+    },
+    {
+      "bn": "industry person-এর লিখিত সনদ যে units অর্জিত হয়েছে",
+      "en": "Certification"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 15,
+            "printedPage": 14,
+            "quote": "Summary of the planner",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 15,
+            "printedPage": 14,
+            "quote": "Name: Mr. Sakib Khan Position: Senior Instructor",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 15,
+            "printedPage": 14,
+            "quote": "Competency NTVQ Strategy Name of the Training Cost to be Time frame Level center/ Industry incurred",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 22,
+            "quote": "Approved by Principal/ Supervisor Signature",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Summary of the planner: name, position, competency, strategy, training center, cost, time frame and approval."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 15,
+            "printedPage": 14,
+            "quote": "Technical Competency Development Plan Details of Competencies to be developed",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 15,
+            "printedPage": 14,
+            "quote": "Elements",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 15,
+            "printedPage": 14,
+            "quote": "Performance criteria - how will you know you have achieved this competency?",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Technical Competency Development Plan: details of competencies, with elements and performance criteria."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 15,
+            "quote": "Certification",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 15,
+            "quote": "achieved competencies on the following units",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 15,
+            "quote": "Name of the industry person",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Certification: an industry person certifies the units achieved."
+      }
+    ],
+    "itemsBn": [
+      "Summary — trainer-এর তথ্য, কোন competency, কোন strategy, কোন centre, কত cost, কোন time frame আর approval-এর ঘর।",
+      "Development Plan — প্রতিটা competency-র elements আর performance criteria; কী evidence দেবেন তা এখানে লেখা।",
+      "Certification — industry person লিখে দেন যে trainer কোন কোন units-এ competencies অর্জন করেছেন।"
+    ],
+    "title": "Parts of the sample Technical Competency Development Planner",
+    "titleBn": "Technical Competency Development Planner-এর অংশগুলো"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 7,
+        "match": "exact",
+        "page": 14,
+        "printedPage": 13,
+        "quote": "A planner is helpful for setting up the strategies as well as documentation and record keeping.",
+        "sourceTitle": "Maintain and Enhance Technical Competency",
+        "src": "cblm07"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "A planner is helpful for setting up the strategies, documentation and record keeping."
+  },
+  "openChecks": 1,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 7,
+            "match": "exact",
+            "page": 15,
+            "printedPage": 14,
+            "quote": "TRAWEL3027A1 Estimate cost of jobs L3 Course",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          "left": "TRAWEL3027A1 Estimate cost of jobs",
+          "right": "L3, Course"
+        },
+        {
+          "cite": {
+            "cblm": 7,
+            "match": "exact",
+            "page": 15,
+            "printedPage": 14,
+            "quote": "3. TRAWEL4017A1 Perform Shielded L 4 Course",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          "left": "TRAWEL4017A1 Perform SMAW Position 6GR",
+          "right": "L 4, Course"
+        },
+        {
+          "cite": {
+            "cblm": 7,
+            "match": "exact",
+            "page": 15,
+            "printedPage": 14,
+            "quote": "Approved by Agency Mr. Mokbul Hossain, BMET",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          "left": "Approved by Agency",
+          "right": "Mr. Mokbul Hossain, BMET"
+        },
+        {
+          "cite": {
+            "cblm": 7,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 15,
+            "quote": "Designation: Head of Welding Department",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          "left": "Certification signed by",
+          "right": "Head of Welding Department"
+        }
+      ],
+      "prompt": "Match each sample planner field with its entry in CBLM 7."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 7,
+        "match": "exact",
+        "page": 14,
+        "printedPage": 13,
+        "quote": "A planner is helpful for setting up the strategies as well as documentation and record keeping.",
+        "sourceTitle": "Maintain and Enhance Technical Competency",
+        "src": "cblm07"
+      },
+      "answerIndex": 0,
+      "options": [
+        "For setting up strategies, documentation and record keeping",
+        "For assessing trainees in the workshop",
+        "For writing the institution's annual budget",
+        "For identifying hazards in the training area"
+      ],
+      "prompt": "Why is a planner helpful, according to CBLM 7?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "A planner is helpful for setting up the strategies as well as documentation and record keeping.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A planner helps set up strategies, documentation and record keeping."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 14,
+              "quote": "Summary of the planner",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 22,
+              "quote": "Approved by Principal/ Supervisor Signature",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 22,
+              "quote": "Approved by Agency Designation Signature",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The summary is approved by the Principal/Supervisor and by the Agency."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 14,
+              "quote": "Details of Competencies to be developed",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 14,
+              "quote": "Elements",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 14,
+              "quote": "Performance criteria - how will you know you",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Details of competencies to be developed: elements and performance criteria."
+        }
+      ],
+      "modelAnswer": "A planner is helpful for setting up strategies, documentation and record keeping. The sample planner has three parts:\n1. Summary of the planner: trainer details, competency, NTVQ level, strategy, training centre, cost, time frame and approvals.\n2. Technical Competency Development Plan: competency, elements and performance criteria.\n3. Certification: an industry person certifies the units achieved.",
+      "prompt": "What is a technical competency development planner? What are its parts?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 15,
+            "quote": "Name of the industry person: Mr. Kamal Ahmed",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 15,
+            "quote": "Designation: Head of Welding Department",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "An industry person. The sample shows the Head of Welding Department."
+      },
+      "prompt": "Who signs the certification part of the planner?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Technical Competency Development Planner: Summary, Plan and Certification (CBLM 7)",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 7,
+          "match": "exact",
+          "page": 15,
+          "printedPage": 14,
+          "quote": "Performance criteria - how will you know you have achieved this competency? What evidence will you produce- please use the relevant unit of competency as reference",
+          "sourceTitle": "Maintain and Enhance Technical Competency",
+          "src": "cblm07"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Performance criteria column: what evidence will you produce? Use the relevant unit of competency as reference."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 7,
+          "match": "exact",
+          "page": 15,
+          "printedPage": 14,
+          "quote": "Approved by Principal/ Supervisor: Mr. Obaidul Huq, Barisal TTC",
+          "sourceTitle": "Maintain and Enhance Technical Competency",
+          "src": "cblm07"
+        },
+        {
+          "cblm": 7,
+          "match": "exact",
+          "page": 15,
+          "printedPage": 14,
+          "quote": "Approved by Agency Mr. Mokbul Hossain, BMET",
+          "sourceTitle": "Maintain and Enhance Technical Competency",
+          "src": "cblm07"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Two approvals: approved by Principal/Supervisor, and approved by Agency."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 7,
+          "match": "exact",
+          "page": 16,
+          "printedPage": 15,
+          "quote": "Certification",
+          "sourceTitle": "Maintain and Enhance Technical Competency",
+          "src": "cblm07"
+        },
+        {
+          "cblm": 7,
+          "match": "exact",
+          "page": 24,
+          "printedPage": 23,
+          "quote": "Name of the industry person: Organization: Designation: Signature with date:",
+          "sourceTitle": "Maintain and Enhance Technical Competency",
+          "src": "cblm07"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The industry person completes the certification with name, organization, designation and signature."
+    }
+  ],
+  "visual": {
+    "columns": [
+      "Part",
+      "Columns / fields"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Summary of the planner",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 14,
+              "quote": "Name: Mr. Sakib Khan Position: Senior Instructor Age: 37",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 14,
+              "quote": "Trade: Welding Institute: Barisal TTC Contact number: 01715555555 Email:",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Name, Position, Age, Trade, Institute, Contact number, Email."
+        }
+      ],
+      [
+        "Competencies table",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 14,
+              "quote": "Competency NTVQ Strategy Name of the Training Cost to be Time frame Level center/ Industry incurred",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Competency, NTVQ Level, Strategy, Name of the Training center/Industry, Cost to be incurred, Time frame."
+        }
+      ],
+      [
+        "Approvals",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 22,
+              "quote": "Approved by Principal/ Supervisor Signature",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 22,
+              "quote": "Approved by Agency Designation Signature",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Approved by Principal/Supervisor, and approved by Agency."
+        }
+      ],
+      [
+        "Technical Competency Development Plan",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 23,
+              "quote": "Competency NTVQL Elements Performance criteria - how will you know you have achieved this competency? What evidence will you produce",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Competency, NTVQL, Elements, Performance criteria and the evidence you will produce."
+        }
+      ],
+      [
+        "Certification",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 23,
+              "quote": "achieved competencies on the following units.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 23,
+              "quote": "Name of the industry person: Organization: Designation: Signature with date:",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Units achieved; name, organization, designation and signature of the industry person."
+        }
+      ]
+    ],
+    "title": "What each part of the planner records (p.15-16, 23-24)",
+    "title_bn": "Planner-এর কোন অংশে কী লিখবেন"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

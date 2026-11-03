@@ -1,0 +1,412 @@
+{
+  "aliases": [
+    "Considering the individual learner in OSH",
+    "Learner characteristics for OSH"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 7,
+          "printed": 7
+        },
+        {
+          "pdf": 10,
+          "printed": 10
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "Workshop-এ OSH issues দেখার সময় পুরো class নয়, প্রতিটি individual learner-কে আলাদা করে ভাবতে হয়।",
+    "কারণ duty of care প্রত্যেক মানুষের প্রতি ব্যক্তিগতভাবে (personally) থাকে।",
+    "শুধু skill levels নয়; communication skills, assertiveness, learning বা behavioural issues আর physical limitations-ও দেখতে হয়।",
+    "যে learner প্রশ্ন করতে লজ্জা পায় বা ভালো শুনতে পায় না, সে hazard-এর সতর্কবার্তা মিস করতে পারে।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "Welding workshop-এ যে trainee কানে কম শোনে, তাকে trainer আলাদা করে safety signs দেখিয়ে দেন।",
+    "en": "In a welding workshop, one trainee cannot hear well. The trainer shows the safety signs to him face to face."
+  },
+  "extra": [
+    {
+      "bn": [
+        "Trainer হিসেবে workshop inspect করার সময় পুরো group নয়, প্রতিটি learner-এর দিকে তাকান।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "When inspecting the workplace and discussing and considering",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "the OSH issues for the learner and others, you need to consider",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "the individual learner.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Consider the individual learner when inspecting the workplace and discussing OSH issues."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p7-individual-learner"
+      ]
+    }
+  ],
+  "highlighted": false,
+  "id": "duty-of-care-individual-learner",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "যত্ন নেওয়ার দায়িত্ব (আইনি ও নৈতিক)",
+      "en": "Duty of care"
+    },
+    {
+      "bn": "প্রতিটি আলাদা শিক্ষার্থী",
+      "en": "Individual learner"
+    },
+    {
+      "bn": "নিজের কথা দৃঢ়ভাবে বলার ক্ষমতা",
+      "en": "Assertiveness"
+    },
+    {
+      "bn": "শারীরিক সীমাবদ্ধতা",
+      "en": "Physical limitations"
+    },
+    {
+      "bn": "বিপদের উৎস, যা ক্ষতি করতে পারে",
+      "en": "Hazard"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Communication skills",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Communication skills"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Assertiveness",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Assertiveness"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Any learning or behavioural issues",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Any learning or behavioural issues"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Any physical limitations",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Any physical limitations"
+      }
+    ],
+    "itemsBn": [
+      "Communication skills — learner নির্দেশনা বুঝতে ও প্রশ্ন করতে পারে কি না।",
+      "Assertiveness — বিপদ দেখলে learner দৃঢ়ভাবে বলতে পারে কি না।",
+      "Learning বা behavioural issues — শেখা বা আচরণে কোনো সমস্যা আছে কি না।",
+      "Physical limitations — শারীরিক কোনো সীমাবদ্ধতা আছে কি না, যা কাজে বিপদ বাড়াতে পারে।"
+    ],
+    "title": "Characteristics of the individual learner to consider (besides skill levels)",
+    "titleBn": "Skill ছাড়াও learner-এর যে বৈশিষ্ট্যগুলো দেখতে হয়"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 7,
+        "printedPage": 7,
+        "quote": "Remember that the duty of care is owed personally to individuals.",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 7,
+        "printedPage": 7,
+        "quote": "you need to consider the individual learner",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "The duty of care is owed personally to individuals. So consider each individual learner."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Remember that the duty of care is owed personally to individuals.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Duty of care",
+          "right": "Owed personally to individuals"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "other characteristics such as: Communication skills Assertiveness Any learning or behavioural issues Any physical limitations",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Learner characteristics",
+          "right": "Communication skills, assertiveness, physical limitations"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "characteristics of the workgroup such as language, literacy and numeracy will influence the selection of the most appropriate controls",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Workgroup language, literacy and numeracy",
+          "right": "Influence the selection of controls"
+        }
+      ],
+      "prompt": "Match each term with its meaning in CBLM 3."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 7,
+        "printedPage": 7,
+        "quote": "Assertiveness",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Assertiveness",
+        "Job rotation",
+        "Risk register",
+        "Likelihood of a risk"
+      ],
+      "prompt": "Besides skill levels, which learner characteristic must a trainer consider for OSH?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Remember that the duty of care is owed personally to individuals.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The duty of care is owed personally to individuals."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "When inspecting the workplace and discussing and considering the OSH issues for the learner and others, you need to consider the individual learner.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Consider the individual learner when discussing OSH issues for the learner and others."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "not only the skill levels of the learner, but other characteristics such as",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Consider other characteristics, not only skill levels."
+        }
+      ],
+      "modelAnswer": "The duty of care is owed personally to individuals. So I consider each individual learner. Besides skill levels, I consider:\n1. Communication skills\n2. Assertiveness\n3. Any learning or behavioural issues\n4. Any physical limitations",
+      "prompt": "When you inspect the workplace for OSH, why must you consider the individual learner? What will you consider?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Remember that the duty of care is owed personally to individuals.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The duty of care is owed personally to individuals."
+      },
+      "prompt": "To whom is the duty of care owed?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Duty of Care: Consider the Individual Learner",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 7,
+          "printedPage": 7,
+          "quote": "This means that you need to consider not only the skill levels of the learner, but other characteristics such as",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Consider not only the learner's skill levels, but other characteristics too."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 10,
+          "printedPage": 10,
+          "quote": "characteristics of the workgroup such as language, literacy and numeracy will influence the selection of the most appropriate controls",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Workgroup language, literacy and numeracy influence the selection of controls."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 7,
+          "printedPage": 7,
+          "quote": "Each environment has its own types of hazards - no environment is hazard free.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        },
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 7,
+          "printedPage": 7,
+          "quote": "The same principle applies to learning and/or assessment environments.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "No environment is hazard free. This applies to learning and assessment environments too."
+    }
+  ],
+  "visual": null,
+  "vivaDerived": true,
+  "warnings": 0
+}

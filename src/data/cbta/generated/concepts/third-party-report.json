@@ -35,6 +35,70 @@
     "bn": "গার্মেন্টস কারখানার supervisor trainee-র কাজ নিয়ে third party report দেন।",
     "en": "A garments factory supervisor fills in a report about a trainee machine operator. She worked with him for six months."
   },
+  "extra": [
+    {
+      "cite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 68,
+        "printedPage": 68,
+        "quote": "Sample third party report",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "columns": [
+        "I can verify the candidate's ability to:",
+        "Yes",
+        "No"
+      ],
+      "fields": [
+        "Candidate name",
+        "Name of third party",
+        "Contact no.",
+        "Position",
+        "Relationship with candidate (tick one; please specify)",
+        "Please do not complete the form if you are a relative, close friend or have a conflict of interest",
+        "Dates the candidate worked with you: From / To",
+        "Competency standards: TVET Trainer",
+        "Unit of competency: Use personal computer skills",
+        "Comments regarding candidate performance and experience"
+      ],
+      "kind": "form",
+      "note_bn": "Relationship ঘরে employer, supervisor, colleague বা other-এ টিক। আত্মীয়, ঘনিষ্ঠ বন্ধু বা conflict of interest থাকলে এই ফর্ম পূরণ করা যাবে না: authenticity রক্ষার জন্য।",
+      "outline": [
+        "c11-p68-sample-third-party-report"
+      ],
+      "rows": [
+        [
+          "safely operate computer equipment and peripherals",
+          "☐",
+          "☐"
+        ],
+        [
+          "perform basic computer operations to access and retrieve data",
+          "☐",
+          "☐"
+        ],
+        [
+          "select and open correct software application",
+          "☐",
+          "☐"
+        ],
+        [
+          "use basic software applications to create new files and documents",
+          "☐",
+          "☐"
+        ],
+        [
+          "use basic functions of a WWW-browser to locate information",
+          "☐",
+          "☐"
+        ]
+      ],
+      "title": "Sample third party report",
+      "title_bn": "নমুনা Third party report"
+    }
+  ],
   "highlighted": true,
   "id": "third-party-report",
   "importance": {
@@ -144,7 +208,16 @@
         "fidelity": "verbatim",
         "text": "Has limited use in situations where authenticity is an issue."
       }
-    ]
+    ],
+    "itemsBn": [
+      "এমন কেউ evidence দেন, যিনি candidate-এর কাজ নিজের চোখে দেখেছেন।",
+      "সাধারণত দায়িত্বশীল পদের কেউ (person in authority) এটা দেন।",
+      "Assessor নিজে যা observe করেছেন, তা ঠিক কি না মিলিয়ে দেখতে এটা কাজে লাগে।",
+      "Candidate সবসময় একই মানে কাজ করে কি না (consistency), তা বুঝতে সাহায্য করে।",
+      "কিন্তু evidence-টা আসল কি না (authenticity) নিয়ে সন্দেহ থাকলে এর ব্যবহার সীমিত।"
+    ],
+    "title": "Key features of a third party report",
+    "titleBn": "Third party report-এর বৈশিষ্ট্য"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -384,6 +457,7 @@
       "text": "A relative, close friend or person with a conflict of interest should not complete it."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

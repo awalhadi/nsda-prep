@@ -36,6 +36,156 @@
     "bn": "প্লাম্বিং সেশনে ছোট আলোচনা, ভিডিও, group task আর হাতে-কলমে কাজ মিলিয়ে দেওয়া।",
     "en": "A plumbing trainer mixes a short talk, a video and a group task. Then comes hands-on practice."
   },
+  "extra": [
+    {
+      "bn": [
+        "প্রতিদিন একই দুপুরের খাবারের মতো: কারও ভালো লাগে, কারও লাগে না — তাই session-এ variety।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 44,
+              "printedPage": 44,
+              "quote": "If you keep the experiences the same, they",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 44,
+              "printedPage": 44,
+              "quote": "can become predictable, while this may fit well with the needs of some learners it",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 44,
+              "printedPage": 44,
+              "quote": "may not work for others.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "If experiences stay the same they become predictable. That suits some learners, not others."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 44,
+              "printedPage": 44,
+              "quote": "Imagine having the same thing for lunch every day.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Imagine having the same thing for lunch every day."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 44,
+              "printedPage": 44,
+              "quote": "Others prefer to roam around and experience something different each year.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Others prefer to roam around and experience something different each year."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 44,
+              "printedPage": 44,
+              "quote": "We are all different, so",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "We are all different, so"
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p44-variety"
+      ]
+    },
+    {
+      "bn": [
+        "CBLM এখানে একটা diagram দেখাতে বলে ('Consider the following diagram'), কিন্তু text-এ diagram-টা নেই।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "There is a balance to be maintained between covering the content in the",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "session learning outcomes and the processes involved.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Balance covering the content of the outcomes with the processes involved."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "There has to be an appropriate mix (and integration) of theory and practice in training",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "you need to use variety to deliver these.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Mix and integrate theory and practice, using variety to deliver them."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p45-variety-balance"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "variety-in-delivery",
   "importance": {
@@ -159,7 +309,17 @@
         "fidelity": "verbatim",
         "text": "Engage, Excite, Enliven."
       }
-    ]
+    ],
+    "itemsBn": [
+      "বিভিন্ন learning styles — visual, auditory, পড়া-লেখা আর kinaesthetic — সব ধরনের learner-কে জায়গা দিতে।",
+      "শেখার বিভিন্ন ক্ষেত্র (learning domains, the three Hs) cover করতে।",
+      "Learners-কে উদ্দীপ্ত করতে (stimulate) আর শেখার আগ্রহ জাগাতে (motivate)।",
+      "Learner-এর নিজের অভিজ্ঞতাকে শেখার কাজে লাগাতে।",
+      "ক্লাসের প্রবাহ (flow) আর গতি (pace) আকর্ষণীয় রাখতে, যাতে একঘেয়ে না লাগে।",
+      "Engage, Excite, Enliven — learners-কে যুক্ত রাখা, উৎসাহিত করা আর ক্লাসকে প্রাণবন্ত করা।"
+    ],
+    "title": "Reasons for providing variety in delivering sessions",
+    "titleBn": "Session delivery-তে variety রাখার কারণ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -357,6 +517,7 @@
       "text": "Keep an appropriate mix of theory and practice in training sessions."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

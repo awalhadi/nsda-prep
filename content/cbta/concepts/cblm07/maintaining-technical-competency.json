@@ -35,11 +35,26 @@
     ]
   },
   "keywords": [
-    { "en": "Technical competency", "bn": "নিজের trade-এর কারিগরি দক্ষতা" },
-    { "en": "Dynamic industry", "bn": "যে খাত সবসময় বদলায়" },
-    { "en": "Upgrade", "bn": "দক্ষতা বাড়িয়ে হালনাগাদ করা" },
-    { "en": "NTVQF", "bn": "জাতীয় কারিগরি ও বৃত্তিমূলক যোগ্যতা কাঠামো (National Technical and Vocational Qualification Framework)" },
-    { "en": "Industry Skill Councils", "bn": "শিল্প খাতের দক্ষতা পরিষদ, যারা institution আর industry-কে যুক্ত করে" }
+    {
+      "en": "Technical competency",
+      "bn": "নিজের trade-এর কারিগরি দক্ষতা"
+    },
+    {
+      "en": "Dynamic industry",
+      "bn": "যে খাত সবসময় বদলায়"
+    },
+    {
+      "en": "Upgrade",
+      "bn": "দক্ষতা বাড়িয়ে হালনাগাদ করা"
+    },
+    {
+      "en": "NTVQF",
+      "bn": "জাতীয় কারিগরি ও বৃত্তিমূলক যোগ্যতা কাঠামো (National Technical and Vocational Qualification Framework)"
+    },
+    {
+      "en": "Industry Skill Councils",
+      "bn": "শিল্প খাতের দক্ষতা পরিষদ, যারা institution আর industry-কে যুক্ত করে"
+    }
   ],
   "bangla_explanation": [
     "TVET একটা dynamic industry, কারণ technology প্রতিদিন বদলাচ্ছে।",
@@ -53,35 +68,59 @@
     "bn": "নিজে আগে নতুন machine শিখুন, তারপর trainee-কে শেখান।"
   },
   "list_answer": {
+    "title": "Reasons a TVET trainer must maintain technical competency",
+    "title_bn": "TVET trainer-এর কারিগরি দক্ষতা ধরে রাখার কারণ",
     "items": [
       {
         "text": "Technology is changing everyday.",
         "fidelity": "paraphrase",
         "cites": [
-          { "src": "cblm07", "page": 6, "quote": "Technology is changing everyday" }
+          {
+            "src": "cblm07",
+            "page": 6,
+            "quote": "Technology is changing everyday"
+          }
         ]
       },
       {
         "text": "Industries demand skilled manpower competent in using updated technologies.",
         "fidelity": "paraphrase",
         "cites": [
-          { "src": "cblm07", "page": 6, "quote": "different industries are demanding skilled manpower competent in using updated technologies" }
+          {
+            "src": "cblm07",
+            "page": 6,
+            "quote": "different industries are demanding skilled manpower competent in using updated technologies"
+          }
         ]
       },
       {
         "text": "Trainers must upgrade technical skills to operate and maintain new equipment and tools.",
         "fidelity": "paraphrase",
         "cites": [
-          { "src": "cblm07", "page": 6, "quote": "There is a need to upgrade the technical skills of TVET Teachers to operate and maintain new equipment and tools" }
+          {
+            "src": "cblm07",
+            "page": 6,
+            "quote": "There is a need to upgrade the technical skills of TVET Teachers to operate and maintain new equipment and tools"
+          }
         ]
       },
       {
         "text": "Then they can train the trainees to operate and maintain this new equipment.",
         "fidelity": "paraphrase",
         "cites": [
-          { "src": "cblm07", "page": 6, "quote": "be able to train the trainees in the operation and maintenance of these new equipment" }
+          {
+            "src": "cblm07",
+            "page": 6,
+            "quote": "be able to train the trainees in the operation and maintenance of these new equipment"
+          }
         ]
       }
+    ],
+    "items_bn": [
+      "Technology প্রতিদিন বদলাচ্ছে, তাই পুরোনো দক্ষতা দিয়ে চলে না।",
+      "Industry এমন দক্ষ লোক চায়, যারা updated technologies ব্যবহার করতে পারে।",
+      "নতুন equipment আর tools চালাতে ও maintain করতে trainer-কে নিজের technical skills upgrade করতে হয়।",
+      "নিজে শিখলে তবেই trainees-কে নতুন equipment চালানো আর রক্ষণাবেক্ষণ শেখানো যায়।"
     ]
   },
   "traps": [
@@ -89,23 +128,43 @@
       "text": "The framework is NTVQF. It is not PTQF or AQTF.",
       "fidelity": "paraphrase",
       "cites": [
-        { "src": "cblm07", "page": 21, "quote": "Framework (NTVQF) to plan their technical competency development." },
-        { "src": "cblm07", "page": 19, "quote": "The Philippine TVET Qualification" },
-        { "src": "cblm07", "page": 19, "quote": "Framework (AQTF)" }
+        {
+          "src": "cblm07",
+          "page": 21,
+          "quote": "Framework (NTVQF) to plan their technical competency development."
+        },
+        {
+          "src": "cblm07",
+          "page": 19,
+          "quote": "The Philippine TVET Qualification"
+        },
+        {
+          "src": "cblm07",
+          "page": 19,
+          "quote": "Framework (AQTF)"
+        }
       ]
     },
     {
       "text": "Technical skills of TVET trainers are both institution based and industry based.",
       "fidelity": "paraphrase",
       "cites": [
-        { "src": "cblm07", "page": 6, "quote": "Technical Skills of TVET teachers/trainers shall be both Institution based and Industry based." }
+        {
+          "src": "cblm07",
+          "page": 6,
+          "quote": "Technical Skills of TVET teachers/trainers shall be both Institution based and Industry based."
+        }
       ]
     },
     {
       "text": "Upgrading training takes place at the premises of selected industrial establishments.",
       "fidelity": "paraphrase",
       "cites": [
-        { "src": "cblm07", "page": 6, "quote": "TVET teachers/trainers will undergo Technical Skills upgrading training at the premises of selected industrial establishment." }
+        {
+          "src": "cblm07",
+          "page": 6,
+          "quote": "TVET teachers/trainers will undergo Technical Skills upgrading training at the premises of selected industrial establishment."
+        }
       ]
     }
   ],
@@ -118,23 +177,43 @@
           "text": "TVET is a dynamic industry, and technology is changing every day.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm07", "page": 6, "quote": "Technical Vocational Education and Training (TVET) is a dynamic industry." },
-            { "src": "cblm07", "page": 6, "quote": "Technology is changing everyday" }
+            {
+              "src": "cblm07",
+              "page": 6,
+              "quote": "Technical Vocational Education and Training (TVET) is a dynamic industry."
+            },
+            {
+              "src": "cblm07",
+              "page": 6,
+              "quote": "Technology is changing everyday"
+            }
           ]
         },
         {
           "text": "Trainers upgrade skills to operate new equipment and train trainees on it.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm07", "page": 6, "quote": "There is a need to upgrade the technical skills of TVET Teachers to operate and maintain new equipment and tools" },
-            { "src": "cblm07", "page": 6, "quote": "be able to train the trainees in the operation and maintenance of these new equipment" }
+            {
+              "src": "cblm07",
+              "page": 6,
+              "quote": "There is a need to upgrade the technical skills of TVET Teachers to operate and maintain new equipment and tools"
+            },
+            {
+              "src": "cblm07",
+              "page": 6,
+              "quote": "be able to train the trainees in the operation and maintenance of these new equipment"
+            }
           ]
         },
         {
           "text": "Trainers follow NTVQF and find the relevant competency standard for their field.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm07", "page": 6, "quote": "Vocational Qualification Framework (NTVQF) a TVET teacher/trainer needs to follow certain procedure and find out relevant competency standard for his field." }
+            {
+              "src": "cblm07",
+              "page": 6,
+              "quote": "Vocational Qualification Framework (NTVQF) a TVET teacher/trainer needs to follow certain procedure and find out relevant competency standard for his field."
+            }
           ]
         }
       ]
@@ -148,7 +227,11 @@
         "None of the above"
       ],
       "answerIndex": 1,
-      "answerCite": { "src": "cblm07", "page": 21, "quote": "Framework (NTVQF) to plan their technical competency development." }
+      "answerCite": {
+        "src": "cblm07",
+        "page": 21,
+        "quote": "Framework (NTVQF) to plan their technical competency development."
+      }
     },
     "matching": {
       "prompt": "Match each body with its role in trainer skills upgrading.",
@@ -156,22 +239,39 @@
         {
           "left": "Industry Skill Councils",
           "right": "Facilitate linkages of training with industry",
-          "cite": { "src": "cblm07", "page": 7, "quote": "facilitate linkages of training with industry and coordinate implementation of the", "passageId": "cblm07-p7-752ae7bd" }
+          "cite": {
+            "src": "cblm07",
+            "page": 7,
+            "quote": "facilitate linkages of training with industry and coordinate implementation of the",
+            "passageId": "cblm07-p7-752ae7bd"
+          }
         },
         {
           "left": "Regional Coordinators",
           "right": "Identify and select willing industrial establishments",
-          "cite": { "src": "cblm07", "page": 6, "quote": "Regional Coordinators shall also identify and select those industrial establishments" }
+          "cite": {
+            "src": "cblm07",
+            "page": 6,
+            "quote": "Regional Coordinators shall also identify and select those industrial establishments"
+          }
         },
         {
           "left": "Staff of Regional Offices",
           "right": "Coordinate and supervise implementation of the programs",
-          "cite": { "src": "cblm07", "page": 6, "quote": "Staff of Regional Offices shall also coordinate and supervise implementation of the programs." }
+          "cite": {
+            "src": "cblm07",
+            "page": 6,
+            "quote": "Staff of Regional Offices shall also coordinate and supervise implementation of the programs."
+          }
         },
         {
           "left": "NTVQF",
           "right": "Framework to plan technical competency development",
-          "cite": { "src": "cblm07", "page": 21, "quote": "Framework (NTVQF) to plan their technical competency development." }
+          "cite": {
+            "src": "cblm07",
+            "page": 21,
+            "quote": "Framework (NTVQF) to plan their technical competency development."
+          }
         }
       ]
     },
@@ -181,7 +281,12 @@
         "text": "Industry Skill Councils. They establish linkages between TVET institutions and industry.",
         "fidelity": "paraphrase",
         "cites": [
-          { "src": "cblm07", "page": 6, "quote": "Industry Skill Councils in selected sectors will play an important role in establishing linkages between TVET Institutions and Industry", "passageId": "cblm07-p6-61188f24" }
+          {
+            "src": "cblm07",
+            "page": 6,
+            "quote": "Industry Skill Councils in selected sectors will play an important role in establishing linkages between TVET Institutions and Industry",
+            "passageId": "cblm07-p6-61188f24"
+          }
         ]
       }
     }
@@ -191,5 +296,86 @@
       "path": "practice.short",
       "note": "Short Questions Q30 has no answer guide: the paper says the question is merged with the next MCQ. The model answer is built only from CBLM 7 p.6. Check the original paper wording."
     }
-  ]
+  ],
+  "visual": {
+    "kind": "table",
+    "title": "Who links trainers with industry (p.6-7)",
+    "title_bn": "Trainer আর industry-কে কে যুক্ত করে",
+    "columns": [
+      "Body",
+      "Role"
+    ],
+    "rows": [
+      [
+        "Industry Skill Councils",
+        {
+          "text": "Establish linkages between TVET institutions and industry for trainer training.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm07",
+              "page": 6,
+              "quote": "Industry Skill Councils in selected sectors will play an important role in establishing linkages between TVET Institutions and Industry in terms of TVET teacher/trainers training delivery."
+            }
+          ]
+        }
+      ],
+      [
+        "Industry Skill Councils",
+        {
+          "text": "Identify companies willing to cooperate in technical skills upgrading training.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm07",
+              "page": 6,
+              "quote": "Industry Skill Councils will assist in identifying those companies/industries that are willing to cooperate with TVET Institutions with regards to Technical Skills Upgrading training."
+            }
+          ]
+        }
+      ],
+      [
+        "Regional Coordinators",
+        {
+          "text": "Identify and select willing industrial establishments in their regions.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm07",
+              "page": 6,
+              "quote": "Regional Coordinators shall also identify and select those industrial establishments in their respective regions who are willing to cooperate"
+            }
+          ]
+        }
+      ],
+      [
+        "Staff of Regional Offices",
+        {
+          "text": "Coordinate and supervise implementation of the programs.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm07",
+              "page": 6,
+              "quote": "Staff of Regional Offices shall also coordinate and supervise implementation of the programs."
+            }
+          ]
+        }
+      ],
+      [
+        "Industrial establishment",
+        {
+          "text": "Trainers undergo upgrading training at its premises.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm07",
+              "page": 6,
+              "quote": "TVET teachers/trainers will undergo Technical Skills upgrading training at the premises of selected industrial establishment."
+            }
+          ]
+        }
+      ]
+    ]
+  }
 }

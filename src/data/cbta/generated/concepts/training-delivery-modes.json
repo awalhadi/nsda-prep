@@ -32,6 +32,120 @@
     "bn": "একই কোর্সে দুটো mode মিলিয়েও ব্যবহার করা যায়।",
     "en": "Garment trainees first learn in the institute (off the job). Later they practise on the factory floor (on the job)."
   },
+  "extra": [
+    {
+      "bn": [
+        "কোন mode বেছে নেবেন তা ঠিক হয় competency, program-এর লক্ষ্য, learners, LL&N, resources দেখে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Your choice should be based on appropriateness to the competencies to",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "be achieved, the goals of the training program, the characteristics of the learners,",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "LL&N requirements, availability of resources and equipment.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Base your choice on competencies, program goals, learner characteristics, LL&N, resources and equipment."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c09-p35-delivery-modes"
+      ]
+    },
+    {
+      "bn": "p.35-এর টেবিল এলোমেলো; কিছু point (cheap to administer, mail and return times) ডাক/মুদ্রিত mode-এর মনে হয়। Card-এর ভাগ আর তিনটি mode-এর নাম শিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Mail and return times",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "may slow down",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Mail and return times may slow down."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Requires internet",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "connection and",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "troubleshooting related to",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "On line also 'Requires internet connection and troubleshooting'."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c09-p35-modes-table"
+      ],
+      "text": "The p.35 table is badly laid out. Some points (cheap to administer, mail and return times) seem to belong to a print or mail mode. Learn the card's grouping and the three mode names.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "training-delivery-modes",
   "importance": {
@@ -172,7 +286,14 @@
         "fidelity": "paraphrase",
         "text": "On line: trainees use email and the Internet to access resources."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Off the job — কর্মস্থলের বাইরে; participants group হয়ে নিয়মিত ক্লাসে আসে।",
+      "On the job — কর্মস্থলেই, কাজের জায়গায় training দেওয়া হয়।",
+      "On line — trainees email আর Internet ব্যবহার করে resources ও তথ্য পায়।"
+    ],
+    "title": "Training delivery modes",
+    "titleBn": "Training delivery-র mode বা ধরন"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -514,6 +635,378 @@
       "text": "On line mode requires internet connection and troubleshooting of technology issues."
     }
   ],
+  "visual": {
+    "columns": [
+      "Mode",
+      "Advantages",
+      "Limitations"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Off the job (grouped, attend regularly)",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Provides interaction",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "and social",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "opportunities among",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "participants",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Adjustments can be made",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "continually.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Interaction and social opportunities among participants. Adjustments can be made continually."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Whole group needs to",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Usually course",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "delivery",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "pace set by trainer",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Structured time",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "allocation",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Whole group needs to meet. Course delivery pace set by trainer. Structured time allocation."
+        }
+      ],
+      [
+        "On the job training at work place",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "and problem solving",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "opportunities",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Peer support",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Real workplace",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "situations",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Provides interaction",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Interaction and problem solving opportunities. Peer support. Real workplace situations."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Time and",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "dependent",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "May impinge",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "workplace",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "activities",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Time allocation of",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "peers and mentors",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Time and place dependent. May impinge workplace activities. Time allocation of peers and mentors."
+        }
+      ],
+      [
+        "On line (email and the Internet)",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Trainees use email and",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "the Internet to access",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "resources and information",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Encourages independent",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Trainees use email and the Internet to access resources. Encourages independent learning."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "High degree of",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "literacy required",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Requires internet",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "connection and",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "troubleshooting related to",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "technology issues",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "High degree of literacy required. Requires internet connection and troubleshooting technology issues."
+        }
+      ]
+    ],
+    "title": "Training delivery modes: advantages and limitations (p.35)",
+    "title_bn": "Delivery modes-এর সুবিধা ও সীমাবদ্ধতা"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

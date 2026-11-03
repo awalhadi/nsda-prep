@@ -65,6 +65,8 @@
     "bn": "আগে standard দেখা, তারপর evidence, methods, equipment, শেষে plan আর instruments।"
   },
   "list_answer": {
+    "title": "Steps in designing competency based assessment",
+    "title_bn": "Competency based assessment design করার ধাপ",
     "items": [
       {
         "text": "Identify competency standards and confirm purpose and context of assessment.",
@@ -138,6 +140,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "প্রথমে কোন competency standards-এর ভিত্তিতে assessment হবে তা ঠিক করো, আর assessment-এর purpose ও context নিশ্চিত করো।",
+      "Competent প্রমাণ করতে কোন ধরনের evidence লাগবে, তা ঠিক করো।",
+      "সেই evidence সংগ্রহের উপযুক্ত assessment methods আর instruments বাছাই করো।",
+      "Assessment চালাতে কোন materials, resources আর equipment লাগবে, তা আগেই ঠিক করো।",
+      "উপরের সব কিছু Assessment Plan-এ লিখে রাখো, তারপর stakeholders-এর endorsement বা অনুমোদন নাও।",
+      "শেষে আসল assessment instruments আর দরকারি administrative documents তৈরি করো।"
     ]
   },
   "traps": [
@@ -164,6 +174,93 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "Six steps to design competency based assessment",
+    "title_bn": "CB assessment design-এর ছয় ধাপ",
+    "items": [
+      {
+        "text": "Identify competency standards and confirm purpose and context of assessment.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Identify competency standards & confirm purpose & context of assessment",
+            "passageId": "cblm11-p7-63e51a92"
+          }
+        ]
+      },
+      {
+        "text": "Determine types of evidence required.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Determine types of evidence required",
+            "passageId": "cblm11-p7-14813a1e"
+          }
+        ]
+      },
+      {
+        "text": "Identify suitable assessment methods and instruments.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Identify suitable assessment methods & instruments",
+            "passageId": "cblm11-p7-d9fce172"
+          }
+        ]
+      },
+      {
+        "text": "Identify materials, resources and equipment required.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Identify materials, resources and equipment required",
+            "passageId": "cblm11-p7-0ff81864"
+          }
+        ]
+      },
+      {
+        "text": "Document all the above in an Assessment Plan. Seek endorsement from stakeholders.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Document all the above in an Assessment Plan and seek endorsement from stakeholders",
+            "passageId": "cblm11-p7-71d2427b"
+          }
+        ]
+      },
+      {
+        "text": "Develop relevant assessment instruments and administrative documents.",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 7,
+            "quote": "Develop relevant assessment instruments and administrative documents",
+            "passageId": "cblm11-p7-e8282cf8"
+          }
+        ]
+      }
+    ],
+    "labels_bn": [
+      "প্রথমে কোন competency standards-এর ভিত্তিতে assessment হবে তা ঠিক করো, আর assessment-এর purpose ও context নিশ্চিত করো।",
+      "Competent প্রমাণ করতে কোন ধরনের evidence লাগবে, তা ঠিক করো।",
+      "সেই evidence সংগ্রহের উপযুক্ত assessment methods আর instruments বাছাই করো।",
+      "Assessment চালাতে কোন materials, resources আর equipment লাগবে, তা আগেই ঠিক করো।",
+      "উপরের সব কিছু Assessment Plan-এ লিখে রাখো, তারপর stakeholders-এর endorsement বা অনুমোদন নাও।",
+      "শেষে আসল assessment instruments আর দরকারি administrative documents তৈরি করো।"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are the steps in designing competency-based assessment for a unit or qualification?",

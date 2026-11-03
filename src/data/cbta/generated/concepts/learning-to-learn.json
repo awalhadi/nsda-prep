@@ -32,6 +32,76 @@
     "bn": "ইলেকট্রিক্যাল কোর্সের পিছিয়ে থাকা learner নিজের কাজ নিজে যাচাই করতে শেখে, আত্মবিশ্বাস বাড়ে।",
     "en": "A slow learner in an electrical course learns to check his own work. His confidence and behaviour improve."
   },
+  "extra": [
+    {
+      "bn": [
+        "Engage, Excite, Enliven — তিন E; দুর্বল learner-কে সাহায্য করাই ভালো trainer-এর পরিচয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 53,
+              "printedPage": 53,
+              "quote": "This philosophy engages, excites and enlivens learners.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 53,
+              "printedPage": 53,
+              "quote": "It can\nboost learner motivation and reduce learner behaviour problems.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It engages, excites and enlivens learners, boosts motivation and reduces behaviour problems."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 53,
+              "printedPage": 53,
+              "quote": "All of the strategies listed above involve planning.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 53,
+              "printedPage": 53,
+              "quote": "Your first session with the learners",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 53,
+              "printedPage": 53,
+              "quote": "should embed these strategies",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "All these strategies involve planning; embed them in your first session."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p53-learning-to-learn"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "learning-to-learn",
   "importance": {
@@ -140,7 +210,16 @@
         "fidelity": "verbatim",
         "text": "learners taking responsibility for their own learning needs."
       }
-    ]
+    ],
+    "itemsBn": [
+      "শেখার সময় learner কেমন অনুভব করে, তা গুরুত্ব পায়।",
+      "প্রশিক্ষক আর learner-এর মধ্যে সম্পর্ক কেমন, তাও শেখাকে প্রভাবিত করে।",
+      "কোন পরিবেশে (environment) শেখা হচ্ছে, সেদিকে নজর দেওয়া হয়।",
+      "কোন learning strategies ব্যবহার করা হচ্ছে, তা গুরুত্ব পায়।",
+      "Learners নিজেদের learning needs-এর দায়িত্ব (responsibility) নিজেরাই নেয়।"
+    ],
+    "title": "What the learning to learn philosophy focuses on",
+    "titleBn": "Learning to learn philosophy যেসব বিষয়ে গুরুত্ব দেয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -353,6 +432,7 @@
       "text": "The mark of a good trainer is how they help learners who struggle."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

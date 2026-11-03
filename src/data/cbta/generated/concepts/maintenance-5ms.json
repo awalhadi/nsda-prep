@@ -1,0 +1,877 @@
+{
+  "aliases": [
+    "5Ms of maintenance",
+    "How to maintain?",
+    "Who, What, Where, When of maintenance",
+    "Planned Maintenance System"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 38,
+          "printed": 38
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "Maintenance program বানাতে কয়েকটা প্রশ্নের উত্তর খুঁজতে হয়: Who, What, Where, When আর How।",
+    "Who-তে আটটা প্রশ্ন: কে manage করবে, monitor করবে, schedule বানাবে, implement করবে, records রাখবে, inspection করবে, certify করবে, reports বানাবে।",
+    "How-এর উত্তর হলো 5Ms: Manpower, Money, Methods, Machines, Materials।",
+    "Standards, Methods আর Strategies মিলে একটা integrated Planned Maintenance System তৈরি হয়।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "Garments training center-এ sewing machine-এর যত্ন: কে oil দেবে, কোথায়, কখন, আর কোন 5Ms লাগবে।",
+    "en": "A garments center plans sewing machine care: who, where, when, and which 5Ms."
+  },
+  "extra": [
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will manage the activities?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Who will manage the activities?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will monitor and evaluate the operations?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Who will monitor and evaluate the operations?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who wilt prepare the maintenance schedule?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Who will prepare the maintenance schedule?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will implement the program\"",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Who will implement the program?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will keep the records?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Who will keep the records?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will conduct inspection?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Who will conduct inspection?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will certify and accept the work'?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Who will certify and accept the work?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will prepare the reports?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Who will prepare the reports?"
+        }
+      ],
+      "items_bn": [
+        "কে কাজগুলো পরিচালনা (manage) করবে?",
+        "কে কাজ monitor ও evaluate করবে?",
+        "কে maintenance schedule বানাবে?",
+        "কে program বাস্তবায়ন করবে?",
+        "কে records রাখবে?",
+        "কে inspection করবে?",
+        "কে কাজ certify করে গ্রহণ করবে?",
+        "কে reports তৈরি করবে?"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c06-p38-who"
+      ],
+      "title": "WHO? Questions to answer when planning maintenance",
+      "title_bn": "WHO: আটটি প্রশ্ন"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "What routine actions must be done to keep the device in working order?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "What routine actions must be done to keep the device in working order?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Where is the maintenance activity to be carried out?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Where is the maintenance activity to be carried out?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "When do you perform the maintenance activities?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "When do you perform the maintenance activities?"
+        }
+      ],
+      "items_bn": [
+        "যন্ত্র সচল রাখতে কোন রুটিন কাজ লাগবে?",
+        "Maintenance কোথায় হবে?",
+        "Maintenance কখন হবে?"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c06-p38-what-where-when"
+      ],
+      "title": "What, Where, When?",
+      "title_bn": "কী, কোথায়, কখন"
+    },
+    {
+      "bn": [
+        "How-এর উত্তর 5Ms (card-এর তালিকা); Standards + Methods + Strategies = integrated Planned Maintenance System।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Overall, the combination of Standards, Methods and Strategies are elements of an",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "integrated Planned Maintenance System.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Standards, Methods and Strategies combined are elements of an integrated Planned Maintenance System."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p38-how-5ms"
+      ]
+    }
+  ],
+  "highlighted": false,
+  "id": "maintenance-5ms",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "maintenance বাস্তবায়নের পাঁচ M",
+      "en": "5Ms"
+    },
+    {
+      "bn": "লোকবল",
+      "en": "Manpower"
+    },
+    {
+      "bn": "টাকা বা আর্থিক সম্পদ",
+      "en": "Money (Financial Resources)"
+    },
+    {
+      "bn": "মেশিন বা সুবিধা",
+      "en": "Machines (Facilities)"
+    },
+    {
+      "bn": "পরিকল্পিত রক্ষণাবেক্ষণ ব্যবস্থা",
+      "en": "Planned Maintenance System"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": 5,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Manpower",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Manpower"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Money (Financial Resources)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Money (Financial Resources)"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Methods and systems",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Methods and systems"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Machines (Facilities)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Machines (Facilities)"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Materials and Supplies.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Materials and Supplies."
+      }
+    ],
+    "itemsBn": [
+      "লোকবল — কাজটা কারা করবে।",
+      "টাকা বা আর্থিক সম্পদ (financial resources) — খরচ কোথা থেকে আসবে।",
+      "পদ্ধতি ও ব্যবস্থা (methods and systems) — কোন নিয়মে কাজ হবে।",
+      "মেশিন বা facilities — কোন যন্ত্র ও সুবিধার maintenance হবে বা কোনটা লাগবে।",
+      "মালামাল ও সরঞ্জাম (materials and supplies) — কাজের জন্য যা যা কিনতে বা মজুত রাখতে হয়।"
+    ],
+    "title": "The 5Ms of implementing the maintenance program",
+    "titleBn": "Maintenance program বাস্তবায়নের 5Ms"
+  },
+  "mnemonic": {
+    "explain_bn": "লোক, টাকা, পদ্ধতি, মেশিন, মালামাল — পাঁচটাই M দিয়ে শুরু।",
+    "text": "5M = Manpower, Money, Methods, Machines, Materials (people, cash, way, machine, stuff)."
+  },
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 38,
+        "printedPage": 38,
+        "quote": "The question on how do we implement the maintenance program will center on the",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 38,
+        "printedPage": 38,
+        "quote": "5Ms which are as follows;",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "How we implement the maintenance program will center on the 5Ms."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Money (Financial Resources)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Money",
+          "right": "Financial Resources"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Machines (Facilities)",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Machines",
+          "right": "Facilities"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "What routine actions must be done to keep the device in working order?",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "What?",
+          "right": "Routine actions to keep the device in working order"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Where is the maintenance activity to be carried out?",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Where?",
+          "right": "Where the maintenance activity is carried out"
+        }
+      ],
+      "prompt": "Match each planning question with CBLM 6."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 38,
+        "printedPage": 38,
+        "quote": "Machines (Facilities)",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Facilities",
+        "Financial Resources",
+        "Methods and systems",
+        "Materials and Supplies"
+      ],
+      "prompt": "In the 5Ms of maintenance, 'Machines' refers to:"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Manpower",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Manpower"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Money (Financial Resources)",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Money (Financial Resources)"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Methods and systems",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Methods and systems"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Machines (Facilities)",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Machines (Facilities)"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Materials and Supplies.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Materials and Supplies."
+        }
+      ],
+      "marks": 5,
+      "modelAnswer": "How we implement the maintenance program centers on the 5Ms:\n1. Manpower\n2. Money (Financial Resources)\n3. Methods and systems\n4. Machines (Facilities)\n5. Materials and Supplies.",
+      "prompt": "What are the 5Ms of implementing a maintenance program?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Overall, the combination of Standards, Methods and Strategies are elements of an",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The combination of Standards, Methods and Strategies."
+      },
+      "prompt": "What makes up an integrated Planned Maintenance System?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Planning Maintenance: Who, What, Where, When and How (5Ms)",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 38,
+          "printedPage": 38,
+          "quote": "Overall, the combination of Standards, Methods and Strategies are elements of an",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 38,
+          "printedPage": 38,
+          "quote": "integrated Planned Maintenance System.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Standards, Methods and Strategies combined are elements of an integrated Planned Maintenance System."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 38,
+          "printedPage": 38,
+          "quote": "5Ms which are as follows;",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 38,
+          "printedPage": 38,
+          "quote": "Money (Financial Resources)",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 38,
+          "printedPage": 38,
+          "quote": "Machines (Facilities)",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "In the 5Ms: Money = Financial Resources, Machines = Facilities."
+    }
+  ],
+  "visual": {
+    "columns": [
+      "Question",
+      "What CBLM 6 asks"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Who?",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will manage the activities?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will monitor and evaluate the operations?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "prepare the maintenance schedule?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will implement the program",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will keep the records?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will conduct inspection?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will certify and accept the work",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Who will prepare the reports?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Who manages, monitors, schedules, implements, keeps records, inspects, certifies and reports?"
+        }
+      ],
+      [
+        "What?",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "What routine actions must be done to keep the device in working order?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "What routine actions must be done to keep the device in working order?"
+        }
+      ],
+      [
+        "Where?",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Where is the maintenance activity to be carried out?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Where is the maintenance activity to be carried out?"
+        }
+      ],
+      [
+        "When?",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "When do you perform the maintenance activities?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "When do you perform the maintenance activities?"
+        }
+      ],
+      [
+        "How?",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "5Ms which are as follows;",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Manpower",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Money (Financial Resources)",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Methods and systems",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Machines (Facilities)",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Materials and Supplies.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The 5Ms: Manpower, Money, Methods and systems, Machines, Materials and Supplies."
+        }
+      ]
+    ],
+    "title": "Planning questions for a maintenance program (p.38)",
+    "title_bn": "Maintenance program পরিকল্পনার প্রশ্ন"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

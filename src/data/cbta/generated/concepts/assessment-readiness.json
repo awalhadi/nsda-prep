@@ -32,6 +32,73 @@
     "bn": "ওয়েল্ডিং trainer practice দেখেন, trainee-কে জিজ্ঞেস করেন, তারপর criteria মিলিয়ে দেখেন।",
     "en": "A welding trainer watches a trainee practise and asks how confident he feels. Then she checks the assessment criteria."
   },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "This way, gaps in competence can be identified and addressed as early as possible",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "This way, gaps in competence can be identified and addressed as early as possible"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "it is a good idea to integrate assessment tasks for major components",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "This provides information to the trainer about the",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "effectiveness of the training and also provides valuable information to the trainee",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "about their progress.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Integrated assessment tasks give information on training effectiveness and on trainee progress."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p59-readiness"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "assessment-readiness",
   "importance": {
@@ -162,7 +229,15 @@
         "fidelity": "paraphrase",
         "text": "Formally: review the learning outcomes and assessment criteria."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Informal উপায় — ক্লাসের activities বা simulation exercise-এ learner আসলে কী করছে, তা observe করুন।",
+      "Informal উপায় — learner-দের নিজেদের জিজ্ঞেস করুন assessment দিতে তারা কতটা confident বোধ করছে।",
+      "Informal উপায় — learner-এর performance কোন standard-এ আছে, তা দেখায় এমন নির্দিষ্ট data সংগ্রহ করুন।",
+      "Formal উপায় — learning outcomes আর assessment criteria review করে দেখুন learner প্রয়োজনীয় standard-এ পৌঁছেছে কিনা।"
+    ],
+    "title": "Ways to determine learner readiness for assessment",
+    "titleBn": "Learner assessment-এর জন্য ready কিনা বোঝার উপায়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -419,6 +494,134 @@
       "text": "Integrate assessment tasks for major components at various stages during the training."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "Informally, the teacher/trainer can monitor the learner's readiness by observing what",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "they actually do either during classroom activities or in a simulation exercise",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Observe what learners do in classroom activities or a simulation exercise."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "asking for feedback from the learners themselves on how confident they feel",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "about their skill level",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Ask learners how confident they feel about their skill level."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "gathering specific data which reflects the learner's performance standard",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Gather specific data on the learner's performance standard."
+        }
+      ],
+      "title": "Informal",
+      "title_bn": "Informal: অনানুষ্ঠানিক"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "Formally, the teacher/trainer needs to review the learning outcomes and assessment",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "criteria",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Review the learning outcomes and assessment criteria."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "to determine whether the learner has achieved the required standard to be",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "assessed.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Determine whether the learner has achieved the required standard to be assessed."
+        }
+      ],
+      "title": "Formal",
+      "title_bn": "Formal: আনুষ্ঠানিক"
+    },
+    "title": "Informal vs formal ways to determine readiness",
+    "title_bn": "প্রস্তুতি যাচাই: informal বনাম formal"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

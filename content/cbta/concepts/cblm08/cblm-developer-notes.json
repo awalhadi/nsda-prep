@@ -1,0 +1,505 @@
+{
+  "id": "cblm-developer-notes",
+  "canonical_title": "Notes to the CBLM Developer: Writing Each Sheet of a CBLM",
+  "aliases": [
+    "Note to CBLM Developer",
+    "Sample CBLM Format",
+    "How to fill the CBLM template",
+    "Activity sheet and practise sheet"
+  ],
+  "cblmPrimary": 8,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Create a CBLM on a Unit of Competency of your trade using the CBLM Format.",
+    "fidelity": "paraphrase",
+    "cites": [
+      {
+        "src": "cblm08",
+        "page": 38,
+        "quote": "Create a CBLM on any Unit of Competencies of your trade using the CBLM Format"
+      }
+    ]
+  },
+  "keywords": [
+    {
+      "en": "CBLM Developer",
+      "bn": "যিনি CBLM লেখেন"
+    },
+    {
+      "en": "Information sheet",
+      "bn": "তথ্যপত্র — জ্ঞানের অংশ"
+    },
+    {
+      "en": "Self check",
+      "bn": "নিজে যাচাইয়ের প্রশ্ন"
+    },
+    {
+      "en": "Job",
+      "bn": "কাজের ধাপের তালিকা"
+    },
+    {
+      "en": "Activity sheet",
+      "bn": "বড় কাজকে ছোট ভাগে করার শিট"
+    },
+    {
+      "en": "Practise sheet",
+      "bn": "ধাপে ধাপে অনুশীলনের শিট"
+    }
+  ],
+  "bangla_explanation": [
+    "CBLM 8-এর Job-এ নিজের trade-এর একটি Unit of Competency নিয়ে পুরো CBLM বানাতে হয়; p.38–51-এর Sample CBLM Format সেই ছাঁচ।",
+    "প্রতিটি শিটে 'Note to CBLM Developer' আছে — কোন শিটে কী লিখবেন আর কী লিখবেন না।",
+    "সবচেয়ে গুরুত্বপূর্ণ নিয়ম: Information sheet-এ যা দেননি তা নিয়ে Self Check-এ প্রশ্ন করা যাবে না, আর Job-এ নতুন তথ্য দেওয়া যাবে না।",
+    "Activity sheet ও Practise sheet ঐচ্ছিক (optional), কিন্তু ব্যবহার করলে সেগুলো আসল কাজের (real work) দিকে নিতে হবে।"
+  ],
+  "example": {
+    "en": "A plumbing trainer writes a CBLM. The Job lists only the pipe-fitting steps. All knowledge stays in the Information sheet.",
+    "bn": "Plumbing trainer CBLM লিখছেন: Job-এ শুধু pipe লাগানোর ধাপ; pipe-এর ধরন ইত্যাদি জ্ঞান থাকে Information sheet-এ।"
+  },
+  "mnemonic": {
+    "text": "Info gives, Self Check asks only what Info gave, Job only lists steps.",
+    "explain_bn": "Information sheet দেয়, Self Check শুধু তা-ই জিজ্ঞেস করে, Job শুধু ধাপ বলে।"
+  },
+  "list_answer": {
+    "title": "Notes to the CBLM developer: what to write in each sheet of the sample CBLM format",
+    "title_bn": "CBLM-এর প্রতিটি শিটে কী লিখবেন",
+    "items": [
+      {
+        "text": "About this module: brief overview of the module purpose. Learning outcomes come from the elements in the Unit of Competency.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 40,
+            "quote": "Begin with a brief overview of the module purpose"
+          },
+          {
+            "src": "cblm08",
+            "page": 40,
+            "quote": "State the learning outcomes to be achieved in this module (derived from the"
+          },
+          {
+            "src": "cblm08",
+            "page": 40,
+            "quote": "elements in the Unit of Competency)"
+          }
+        ]
+      },
+      {
+        "text": "Information sheet: provide the essential knowledge students need to perform the job tasks.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 43,
+            "quote": "providing the essential knowledge"
+          },
+          {
+            "src": "cblm08",
+            "page": 43,
+            "quote": "your students need to perform the job tasks/learning outcomes"
+          }
+        ]
+      },
+      {
+        "text": "Self check: only ask questions related to the knowledge provided in the Information sheets.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 44,
+            "quote": "Make sure you only ask questions related to the knowledge you have"
+          },
+          {
+            "src": "cblm08",
+            "page": 44,
+            "quote": "provided in the Information sheets"
+          }
+        ]
+      },
+      {
+        "text": "Answer key: answers here for the self check.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 45,
+            "quote": "Answers here for the self check."
+          }
+        ]
+      },
+      {
+        "text": "Job: list all the steps a worker needs. Do not introduce new information.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 46,
+            "quote": "List all the steps a worker will need to do to complete the job. Do not introduce"
+          },
+          {
+            "src": "cblm08",
+            "page": 46,
+            "quote": "new information here."
+          }
+        ]
+      },
+      {
+        "text": "Specification sheet: materials required, tools or special equipment, and recipe, picture or diagrams.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 47,
+            "quote": "A Materials required"
+          },
+          {
+            "src": "cblm08",
+            "page": 47,
+            "quote": "B Tools or special equipment to be used"
+          },
+          {
+            "src": "cblm08",
+            "page": 47,
+            "quote": "C. Recipe/ Picture/Diagrams (with quantities, measurements etc.)"
+          }
+        ]
+      },
+      {
+        "text": "Activity sheet: optional. It breaks big jobs into manageable chunks that lead to one real work.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 48,
+            "quote": "Activity sheet is optional."
+          },
+          {
+            "src": "cblm08",
+            "page": 48,
+            "quote": "jobs into manageable chunks for learners to perform it"
+          },
+          {
+            "src": "cblm08",
+            "page": 48,
+            "quote": "they must lead to one real work not disconnected activities"
+          }
+        ]
+      },
+      {
+        "text": "Practise sheet: optional. It must focus on performing real work, not disconnected activities.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 49,
+            "quote": "Use of practice sheet is optional."
+          },
+          {
+            "src": "cblm08",
+            "page": 49,
+            "quote": "they must focus on the performing of real work not disconnected activities."
+          }
+        ]
+      }
+    ],
+    "items_bn": [
+      "About this module: module-এর উদ্দেশ্য সংক্ষেপে লিখুন; learning outcomes আসে Unit of Competency-র elements থেকে।",
+      "Information sheet: job করতে learner-এর যে জরুরি জ্ঞান লাগে, শুধু সেটাই দিন।",
+      "Self check: Information sheet-এ যা দিয়েছেন, শুধু তা নিয়েই প্রশ্ন করুন।",
+      "Answer key: self check-এর উত্তর এখানে থাকে, যাতে learner নিজেই মিলিয়ে নিতে পারে।",
+      "Job: কাজ শেষ করতে worker-এর সব ধাপ লিখুন; এখানে নতুন তথ্য দেবেন না।",
+      "Specification sheet: কী materials, কোন tools বা special equipment, আর recipe, picture বা diagrams (মাপসহ)।",
+      "Activity sheet: ঐচ্ছিক; বড় job-কে ছোট ছোট ভাগে করে, কিন্তু সব মিলে একটি real work হতে হবে।",
+      "Practise sheet: ঐচ্ছিক; জটিল কাজ ধাপে ধাপে অনুশীলন, তবে real work-এর উপর মনোযোগ রাখতে হবে।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "You cannot ask questions if you have not given the information in the Information sheet.",
+      "fidelity": "verbatim",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 44,
+          "quote": "You cannot ask questions if you have not"
+        },
+        {
+          "src": "cblm08",
+          "page": 44,
+          "quote": "given the information in the Information sheet."
+        }
+      ]
+    },
+    {
+      "text": "Activity and practise sheets are optional. They must not be disconnected activities.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 48,
+          "quote": "Activity sheet is optional."
+        },
+        {
+          "src": "cblm08",
+          "page": 49,
+          "quote": "Use of practice sheet is optional."
+        },
+        {
+          "src": "cblm08",
+          "page": 49,
+          "quote": "real work not disconnected activities"
+        }
+      ]
+    },
+    {
+      "text": "You may have more than one Information sheet if the module has multiple learning outcomes.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm08",
+          "page": 43,
+          "quote": "have more than one Information sheet if you have multiple learning outcomes"
+        },
+        {
+          "src": "cblm08",
+          "page": 43,
+          "quote": "in the module."
+        }
+      ]
+    }
+  ],
+  "visual": {
+    "kind": "compare",
+    "title": "Activity sheet vs Practise sheet (pp.48-49)",
+    "title_bn": "Activity sheet বনাম Practise sheet",
+    "left": {
+      "title": "Activity sheet",
+      "title_bn": "Activity sheet",
+      "points": [
+        {
+          "text": "Activity sheet is optional.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 48,
+              "quote": "Activity sheet is optional."
+            }
+          ]
+        },
+        {
+          "text": "Some big jobs will require performing in small activities.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 48,
+              "quote": "Some big jobs will require performing in small"
+            },
+            {
+              "src": "cblm08",
+              "page": 48,
+              "quote": "activities."
+            }
+          ]
+        },
+        {
+          "text": "They must lead to one real work, not disconnected activities.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 48,
+              "quote": "they must lead to one real work not disconnected activities"
+            }
+          ]
+        }
+      ]
+    },
+    "right": {
+      "title": "Practise sheet",
+      "title_bn": "Practise sheet",
+      "points": [
+        {
+          "text": "Use of practice sheet is optional.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 49,
+              "quote": "Use of practice sheet is optional."
+            }
+          ]
+        },
+        {
+          "text": "Some jobs are complex and need practice in baby steps.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 49,
+              "quote": "Some jobs are complex and/or required practice in baby steps before the"
+            }
+          ]
+        },
+        {
+          "text": "They must focus on the performing of real work.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 49,
+              "quote": "they must focus on the performing of real work"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "practice": {
+    "short": {
+      "prompt": "As a CBLM developer, what rules do you follow for the self check, job and activity sheets?",
+      "modelAnswer": "1. Self check: only ask questions related to the knowledge provided in the Information sheets. You cannot ask questions if you have not given the information.\n2. Job: list all the steps a worker will need to complete the job. Do not introduce new information.\n3. Activity sheet: optional. Break big jobs into manageable chunks. They must lead to one real work, not disconnected activities.",
+      "keyPoints": [
+        {
+          "text": "Only ask questions related to the knowledge provided in the Information sheets.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 44,
+              "quote": "Make sure you only ask questions related to the knowledge you have"
+            },
+            {
+              "src": "cblm08",
+              "page": 44,
+              "quote": "provided in the Information sheets."
+            }
+          ]
+        },
+        {
+          "text": "Job: list all the steps a worker needs. Do not introduce new information.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 46,
+              "quote": "List all the steps a worker will need to do to complete the job. Do not introduce"
+            },
+            {
+              "src": "cblm08",
+              "page": 46,
+              "quote": "new information here."
+            }
+          ]
+        },
+        {
+          "text": "Remember information is provided in the Information sheet.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 46,
+              "quote": "Remember information is provided in the Information sheet"
+            }
+          ]
+        },
+        {
+          "text": "Activity sheet is optional. It must lead to one real work, not disconnected activities.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 48,
+              "quote": "Activity sheet is optional."
+            },
+            {
+              "src": "cblm08",
+              "page": 48,
+              "quote": "they must lead to one real work not disconnected activities"
+            }
+          ]
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "In the sample CBLM format, which statement about the Job sheet is correct?",
+      "options": [
+        "Do not introduce new information here",
+        "Give all the underpinning knowledge here",
+        "Write the self check questions here",
+        "It is optional"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm08",
+        "page": 46,
+        "quote": "Do not introduce new information here"
+      }
+    },
+    "matching": {
+      "prompt": "Match each sheet of the sample CBLM format with its note.",
+      "pairs": [
+        {
+          "left": "Information sheet",
+          "right": "Essential knowledge students need to perform the job tasks",
+          "cite": {
+            "src": "cblm08",
+            "page": 43,
+            "quote": "Delete this text and insert your information, providing the essential knowledge your students need to perform the job tasks"
+          }
+        },
+        {
+          "left": "Self check",
+          "right": "Only questions related to the knowledge provided in the Information sheets",
+          "cite": {
+            "src": "cblm08",
+            "page": 44,
+            "quote": "Make sure you only ask questions related to the knowledge you have provided in the Information sheets"
+          }
+        },
+        {
+          "left": "Specification sheet",
+          "right": "Detailed specifications related to the job",
+          "cite": {
+            "src": "cblm08",
+            "page": 47,
+            "quote": "Specification Sheet Provide students with detailed specifications related to the above job."
+          }
+        },
+        {
+          "left": "Activity sheet",
+          "right": "Optional; big jobs performed in small activities",
+          "cite": {
+            "src": "cblm08",
+            "page": 48,
+            "quote": "Activity 1.1 Activity sheet is optional. Some big jobs will require performing in small activities."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Can you ask a self check question on something not in the Information sheet?",
+      "answer": {
+        "text": "No. You cannot ask questions if you have not given the information in the Information sheet.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 44,
+            "quote": "You cannot ask questions if you have not"
+          },
+          {
+            "src": "cblm08",
+            "page": 44,
+            "quote": "given the information in the Information sheet."
+          }
+        ]
+      }
+    }
+  },
+  "checks": []
+}

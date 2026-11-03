@@ -37,6 +37,624 @@
     "bn": "গার্মেন্টস মালিক ISC-তে বসে বলেন কোন দক্ষতা দরকার। এটাই industry-র ভূমিকা শক্তিশালী করা।",
     "en": "A garments factory owner sits on the Industry Skills Council. He tells trainers which skills the factory needs."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "The National Skills Development Policy in Bangladesh will guide skill development strategies and facilitate improved coordination of all elements of skills training and the parties involved.",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "The National Skills Development Policy in Bangladesh will guide skill development strategies and facilitate improved coordination of all elements of skills training and the parties involved."
+      },
+      "kind": "qa",
+      "outline": [
+        "c01-p6-nsdp-definition"
+      ],
+      "q": "What is the National Skills Development Policy?",
+      "q_bn": "National Skills Development Policy কী?",
+      "tip": "Add: it gives the vision and direction for skills development (GoB, 2011).",
+      "tip_bn": "সাথে লিখুন: policy-টি skills development-এর vision and direction দেয় (GoB, 2011)।"
+    },
+    {
+      "bn": [
+        "Policy-টি আগামী বছরগুলোর skills development-এর দিকনির্দেশনা দেয়; সরকার industry, workers আর civil society-র সাথে মিলে বাস্তবায়ন করবে। সংজ্ঞার উৎস: GoB, 2011।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "The policy provides the vision and direction for skills development over coming years.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The policy provides the vision and direction for skills development over coming years."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "Government will implement",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "in partnership with industry, workers and civil society",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Government will implement it in partnership with industry, workers and civil society."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p6-nsdp-definition"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "demand-driven, flexible and responsive training provision",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "demand-driven, flexible and responsive training provision"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "nationally recognized qualifications",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "nationally recognized qualifications"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "competency based training",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "competency based training"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "quality assurance",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "quality assurance"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "accurate skills and labour market data",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "accurate skills and labour market data"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "competent TVET instructors and managers",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "competent TVET instructors and managers"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "strengthened apprenticeships",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "strengthened apprenticeships"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "recognition of prior learning",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "recognition of prior learning"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "improved access for under-privileged groups",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "improved access for under-privileged groups"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "private training provision",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "private training provision"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "industry training",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "industry training"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "TVET financing",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "TVET financing"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "skills development for overseas employment",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "skills development for overseas employment"
+        }
+      ],
+      "items_bn": [
+        "চাহিদাভিত্তিক, নমনীয় আর সাড়াদানকারী training ব্যবস্থা।",
+        "জাতীয়ভাবে স্বীকৃত qualifications।",
+        "Competency based training — দক্ষতাভিত্তিক প্রশিক্ষণ।",
+        "Quality assurance — মান নিশ্চিত করা।",
+        "Skills আর labour market-এর সঠিক data।",
+        "দক্ষ TVET instructors আর managers।",
+        "শক্তিশালী apprenticeships।",
+        "আগে শেখার স্বীকৃতি (recognition of prior learning)।",
+        "সুবিধাবঞ্চিত (under-privileged) গোষ্ঠীর জন্য সুযোগ বাড়ানো।",
+        "বেসরকারি (private) training ব্যবস্থা।",
+        "Industry training — শিল্পে প্রশিক্ষণ।",
+        "TVET financing — অর্থায়ন।",
+        "বিদেশে কর্মসংস্থানের (overseas employment) জন্য skills development।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c01-p6-nsdp-issues"
+      ],
+      "title": "Issues and other elements the policy addresses (p.6)",
+      "title_bn": "Policy যে বিষয়গুলো দেখে"
+    },
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 7,
+                "printedPage": 7,
+                "quote": "agro-food processing",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "agro-food processing"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 7,
+                "printedPage": 7,
+                "quote": "transport equipment (e.g. ship-building)",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "transport equipment (e.g. ship-building)"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 7,
+                "printedPage": 7,
+                "quote": "leather and leather products",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "leather and leather products"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 7,
+                "printedPage": 7,
+                "quote": "information technology",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "information technology"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 7,
+                "printedPage": 7,
+                "quote": "tourism meanwhile",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "tourism"
+          }
+        ],
+        "title": "ISCs set up by the TVET reform project",
+        "title_bn": "TVET reform project-এর ISC (৫টি sector)"
+      },
+      "outline": [
+        "c01-p7-industry-skills-councils"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 7,
+                "printedPage": 7,
+                "quote": "construction",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "construction"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 7,
+                "printedPage": 7,
+                "quote": "light engineering",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "light engineering"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 7,
+                "printedPage": 7,
+                "quote": "readymade garments",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "readymade garments"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 7,
+                "printedPage": 7,
+                "quote": "the informal economy",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "the informal economy"
+          }
+        ],
+        "title": "Sector working groups set up by the SDP",
+        "title_bn": "SDP-র sector working groups (৪টি)"
+      },
+      "title": "Industry Skills Councils vs sector working groups (p.7)",
+      "title_bn": "ISC বনাম SDP-র sector working groups"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "The engagement of industry",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "one of the",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "important",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "in the policy",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The engagement of industry is one important element in the policy."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "iscs the",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "identify the long and medium term skills demand for their sectors",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "The ISCs have been instrumental in helping identify the long and medium term skills",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "ISCs help identify the long and medium term skills demand for their sectors."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Identify",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "priority occupations where training is needed",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Identify priority occupations where training is needed."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "technical experts as members on the Standards and Curriculum Development Committees (SCDCs)",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Recommend technical experts as members on the Standards and Curriculum Development Committees (SCDCs)."
+        }
+      ],
+      "items_bn": [
+        "ISC-র মাধ্যমে industry-কে skills development-এ যুক্ত করা হয়।",
+        "নিজের sector-এ দীর্ঘ ও মধ্যমেয়াদি skills demand চিহ্নিত করে।",
+        "কোন priority occupations-এ training দরকার, তা চিহ্নিত করে।",
+        "SCDC-তে সদস্য হিসেবে technical experts সুপারিশ করে।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c01-p7-industry-skills-councils"
+      ],
+      "title": "What the ISCs do (p.7)",
+      "title_bn": "ISC-র কাজ"
+    },
+    {
+      "bn": [
+        "সব competency based training course NTVQF-এর সাথে মিলিয়ে (aligned) সাজানো হবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Competency based training courses will be aligned with the",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "ntvqf main",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Competency based training courses will be aligned with the NTVQF."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p7-industry-skills-councils",
+        "c01-p7-nsdp-main-features"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "national-skills-development-policy",
   "importance": {
@@ -227,7 +845,21 @@
         "fidelity": "verbatim",
         "text": "Accurate Labour Market Information"
       }
-    ]
+    ],
+    "itemsBn": [
+      "জাতীয় কারিগরি ও বৃত্তিমূলক যোগ্যতা কাঠামো — NTVQF দিয়ে সারা দেশের qualification একই কাঠামোতে সাজানো হয়।",
+      "যোগ্যতাভিত্তিক training ও assessment — শিক্ষার্থী কাজটা পারে কিনা (competency), সেটাই শেখানো ও যাচাই করা হয়।",
+      "মান নিশ্চিত করার ব্যবস্থা — QAS দিয়ে training ও assessment-এর quality নিশ্চিত করা হয়।",
+      "Skills development-এ industry sectors-এর ভূমিকা জোরদার — industry যুক্ত থাকলে শেখানো দক্ষতা কাজের চাহিদার সাথে মেলে।",
+      "দক্ষ ও সনদপ্রাপ্ত instructors ও trainers — যারা শেখাবেন, তাদের নিজেদেরও competent ও certified হতে হবে।",
+      "কার্যকর ও নমনীয় প্রতিষ্ঠান পরিচালনা — institutional management যেন দক্ষ হয় এবং প্রয়োজনে বদলাতে পারে।",
+      "Apprenticeships জোরদার করা — কাজ করতে করতে শেখার সুযোগ বাড়ানো।",
+      "আগে শেখা দক্ষতার স্বীকৃতি — কাজ করে যে দক্ষতা অর্জন হয়েছে, RPL দিয়ে তা যাচাই করে স্বীকৃতি দেওয়া।",
+      "সুবিধাবঞ্চিত মানুষের সুযোগ — পিছিয়ে পড়া মানুষও যেন skills training-এ access পায়।",
+      "শ্রমবাজারের সঠিক তথ্য — কোন দক্ষতার চাহিদা আছে জানলে সেই অনুযায়ী training পরিকল্পনা করা যায়।"
+    ],
+    "title": "Main features of the National Skills Development Policy (NSDP)",
+    "titleBn": "জাতীয় দক্ষতা উন্নয়ন নীতি (NSDP)-র প্রধান বৈশিষ্ট্য"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -591,6 +1223,7 @@
       "text": "The TVET reform agenda outputs are a separate list from the policy's main features."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

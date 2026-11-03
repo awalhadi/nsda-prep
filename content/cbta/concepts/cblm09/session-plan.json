@@ -3,19 +3,11 @@
   "canonical_title": "Session Plan",
   "aliases": [
     "The session plan",
-    "Planning training sessions",
     "Why do you need a session plan?"
   ],
   "cblmPrimary": 9,
   "source_type": "cblm",
   "covers": [
-    "cblm09-p31-82ad38f8",
-    "cblm09-p31-d2e19c41",
-    "cblm09-p31-8666e1e6",
-    "cblm09-p31-a0852166",
-    "cblm09-p31-784ef005",
-    "cblm09-p31-d8cc100e",
-    "cblm09-p31-f154fa4a",
     "cblm09-p33-8888bb9f",
     "cblm09-p41-1d322384"
   ],
@@ -66,6 +58,8 @@
     "bn": "প্রতিটি ক্লাসের আগে এমন একটি লিখিত session plan রাখুন।"
   },
   "list_answer": {
+    "title": "Why a session plan is needed",
+    "title_bn": "কেন session plan দরকার",
     "items": [
       {
         "text": "It documents the session structure and keeps track of where the session is going.",
@@ -122,6 +116,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Session-এর কাঠামো লিখিত থাকে, তাই session কোথা থেকে এসেছে আর কোথায় যাচ্ছে তা track করা যায়।",
+      "Trainer বুঝতে পারেন এখন কোথায় আছেন আর এরপর কোথায় যেতে হবে, ফলে পথ হারান না।",
+      "Trainer আর learners দুই পক্ষই পরিষ্কার জানেন তারা কী করছেন।",
+      "Learners কোন কোন training session করেছে, তার লিখিত হিসাব থেকে যায়।",
+      "পরে trainer নিজের performance review করার একটি শক্ত ভিত্তি পান।"
     ]
   },
   "traps": [

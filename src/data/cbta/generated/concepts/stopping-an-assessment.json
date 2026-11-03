@@ -36,6 +36,17 @@
     "bn": "গার্মেন্টসে টেস্টের সময় সেলাই মেশিন নষ্ট হলো, তাই assessor assessment থামিয়ে দিলেন।",
     "en": "In a garments factory test, the sewing machine breaks down. The assessor stops the assessment."
   },
+  "extra": [
+    {
+      "bn": "নিরাপত্তা, যন্ত্র, trainee-র চাপ, স্পষ্ট অদক্ষতা, ক্ষতির ঝুঁকি, production-এ প্রভাব।",
+      "kind": "note",
+      "outline": [
+        "c12-p15-when-to-stop"
+      ],
+      "text": "Self Check Q5 asks for any four. Safety, Equipment, Trainee, Competence, Damage, Production: S-E-T-C-D-P.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "stopping-an-assessment",
   "importance": {
@@ -160,7 +171,17 @@
         "fidelity": "verbatim",
         "text": "The assessment is having an effect on production (when conducted in a workplace)."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Safety-র কোনো নিয়ম ভাঙলে বা ঝুঁকি দেখা দিলে সঙ্গে সঙ্গে assessment থামাতে হয়।",
+      "Equipment নষ্ট হয়ে গেলে কাজ চালানো যায় না, তাই থামাতে হয়।",
+      "Trainee চাপে (stressed) পড়লে বা নিজে থামাতে বললে assessment থামাতে হয়।",
+      "Trainee যে competent নয়, তার পরিষ্কার প্রমাণ মিলে গেলে আর চালানোর দরকার নেই।",
+      "সম্পত্তি বা equipment-এর ক্ষতির সম্ভাবনা থাকলে থামাতে হয়।",
+      "Workplace-এ assessment-এর কারণে production-এ প্রভাব পড়লে থামাতে হয়।"
+    ],
+    "title": "When to stop an assessment",
+    "titleBn": "কখন assessment থামাতে হয়"
   },
   "mnemonic": {
     "explain_bn": "ছয়টি কারণের প্রথম অক্ষর মনে রাখুন: Safety, Equipment, Trainee, Competence, Damage, Production।",
@@ -508,6 +529,7 @@
       "text": "Stop for a chance of damage to property or equipment."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 1
 }

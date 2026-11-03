@@ -36,6 +36,34 @@
     "bn": "এক ঘণ্টা শুধু lecture, কোনো প্রশ্ন নেই: এটা one-way communication।",
     "en": "A trainer lectures for an hour on wiring and never asks a question. This is one-way communication."
   },
+  "extra": [
+    {
+      "bn": "Answer key-তে ১২টি, info sheet-এ ১৩টি; exam-এ ১৩টিই লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Not having any real experience in industry",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Not having any real experience in industry"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c10-p38-things-to-avoid"
+      ],
+      "text": "Answer Key 2 lists 12 items and drops this one. The information sheet has 13. Write all 13.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "trainer-things-to-avoid",
   "importance": {
@@ -265,7 +293,24 @@
         "fidelity": "verbatim",
         "text": "Not having any real experience in industry"
       }
-    ]
+    ],
+    "itemsBn": [
+      "প্রস্তুতি ছাড়া (poorly prepared) ক্লাসে যাওয়া।",
+      "শেখানোয় কোনো variety না রাখা, একঘেয়ে এক পদ্ধতিতে চলা।",
+      "Learners-এর আগে থেকে থাকা skills ও abilities-কে ছোট করে দেখা (underestimating)।",
+      "শুধু নিজে বলে যাওয়া (one way communication), learners-কে বলার সুযোগ না দেওয়া।",
+      "Learners-কে তাচ্ছিল্য করে বা ছোট করে কথা বলা (patronising)।",
+      "Waffling — মূল বিষয়ে focused না থেকে অপ্রাসঙ্গিক কথা বলা।",
+      "এমনভাবে শেখানো যাতে learners বিভ্রান্ত হয়ে পড়ে (confusing the learners)।",
+      "নিজেকে সবজান্তা expert হিসেবে জাহির করা।",
+      "Learners-এর কথা মন দিয়ে না শোনা।",
+      "Learners-এর অবস্থা বোঝার চেষ্টা না করা (lacking empathy)।",
+      "না জেনে আগেই কিছু ধরে নেওয়া (making assumptions)।",
+      "Learner যে level-এ আছে, সেখান থেকে শুরু না করা।",
+      "Industry-তে নিজের কোনো বাস্তব অভিজ্ঞতা না থাকা।"
+    ],
+    "title": "Things a TVET trainer should avoid",
+    "titleBn": "একজন TVET trainer-এর যা এড়িয়ে চলা উচিত"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -550,6 +595,7 @@
       "text": "Avoid setting yourself up as the expert; start at the level the learner is at."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

@@ -1,0 +1,388 @@
+{
+  "id": "maintenance-reporting-documentation",
+  "canonical_title": "Reporting Process and Documentation Process (Inspection Reports)",
+  "aliases": [
+    "Reporting process",
+    "Documentation process",
+    "Inspection report",
+    "Breakdown/repair report",
+    "Salvage report"
+  ],
+  "cblmPrimary": 6,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "In the reporting process, you act based on the inspection report.",
+    "cites": [
+      {
+        "src": "cblm06",
+        "page": 27,
+        "quote": "You act based on the inspection report by;"
+      }
+    ],
+    "fidelity": "paraphrase"
+  },
+  "keywords": [
+    {
+      "en": "Inspection report",
+      "bn": "পরিদর্শনের প্রতিবেদন"
+    },
+    {
+      "en": "Reporting process",
+      "bn": "report পেয়ে কী করতে হয়"
+    },
+    {
+      "en": "Documentation process",
+      "bn": "পরিদর্শন লিখিতভাবে করার ধাপ"
+    },
+    {
+      "en": "Breakdown/repair report",
+      "bn": "যন্ত্র নষ্ট হলে তার প্রতিবেদন"
+    },
+    {
+      "en": "Salvage Report",
+      "bn": "বাতিল বা উদ্বৃত্ত অংশের প্রতিবেদন"
+    }
+  ],
+  "bangla_explanation": [
+    "Inspection report হাতে পেলে চারটা কাজ: report analyse করা, facilities-এর অবস্থা যাচাই, repair improvement schedule বানানো, আর continuous maintenance চালু রাখা।",
+    "Documentation process-এর assessment অংশে পাঁচটা ধাপ: standards যাচাই, standard value ঠিক করা, check list বানানো, অবস্থা assess করা, report জমা দেওয়া।",
+    "এই অংশে তিনটা নমুনা ফর্ম আছে: Inspection Report, Breakdown/repair report আর Salvage Report।",
+    "এগুলো PC 1.5 ও 2.5 পূরণে সাহায্য করে: কাগজপত্র রাখা আর maintenance-এর report করা।"
+  ],
+  "example": {
+    "en": "A lab in-charge finds an overheating printer. He writes a breakdown report: send it to the service center.",
+    "bn": "Computer lab-এর printer over heating হলে in-charge breakdown report লেখেন: service center-এ পাঠাও।"
+  },
+  "list_answer": {
+    "title": "Reporting process: how you act on the inspection report",
+    "title_bn": "Inspection report পেয়ে করণীয় (reporting process)",
+    "items": [
+      {
+        "text": "Analysing the report.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Analysing the report."
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Investigate condition of Facilities based on the inspection report and in conformance with standards.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Investigate condition of Facilities based on the inspection report and in conformance with standards."
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Prepare repair improvement schedule to correct malfunctions and damages (if any).",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Prepare repair improvement schedule to correct malfunctions and"
+          },
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "damages. (if any)"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Install continuous maintenance of facilities.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Install continuous maintenance of facilities."
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "items_bn": [
+      "প্রথমে report-টা ভালো করে পড়ে বিশ্লেষণ (analyse) করুন।",
+      "Report আর standards অনুযায়ী facilities-এর আসল অবস্থা সরেজমিনে যাচাই করুন।",
+      "কোনো ত্রুটি বা ক্ষতি থাকলে তা ঠিক করতে repair improvement schedule বানান।",
+      "এরপর facilities-এর continuous maintenance চালু রাখুন।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "Assessment starts by verifying quality characteristics standards. It ends with submitting the inspection report.",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 29,
+          "quote": "1. Verify quality characteristics standards."
+        },
+        {
+          "src": "cblm06",
+          "page": 29,
+          "quote": "5. Prepare and submit inspection report."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "The Inspection Report Template lists facility type, incident, action taken and progress/remarks.",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 28,
+          "quote": "Inspection Report Template"
+        },
+        {
+          "src": "cblm06",
+          "page": 28,
+          "quote": "FACILITY TYPE INCIDENT ACTION PROGRESS/REMARKS TAKEN"
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "The breakdown/repair report template lists facility type, nature of break down and recommendations.",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 29,
+          "quote": "Sample Template; Breakdown /repair report."
+        },
+        {
+          "src": "cblm06",
+          "page": 29,
+          "quote": "Facility Type Nature of break down Recommendations"
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "The salvage report template lists facility type, part ID and recommendation.",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 29,
+          "quote": "Sample Template: for Salvage Report"
+        },
+        {
+          "src": "cblm06",
+          "page": 29,
+          "quote": "Facility Type PART ID RECOMMENDATION"
+        }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "visual": {
+    "kind": "steps",
+    "title": "Documentation process: assessment steps (p.29)",
+    "title_bn": "Documentation process: assessment-এর পাঁচ ধাপ",
+    "items": [
+      {
+        "text": "Verify quality characteristics standards.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 29,
+            "quote": "Verify quality characteristics standards."
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Create and set standard value for inspection.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 29,
+            "quote": "Create and set standard value for inspection."
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Prepare inspection check list based on standards.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 29,
+            "quote": "Prepare inspection check list based on standards."
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Assess condition of facilities based on inspection and check list and maintenance program.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 29,
+            "quote": "Assess condition of facilities based on inspection and check list and maintenance program."
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Prepare and submit inspection report.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 29,
+            "quote": "Prepare and submit inspection report."
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "labels_bn": [
+      "আগে quality characteristics-এর standards যাচাই করুন।",
+      "Inspection-এর জন্য standard value ঠিক করে দিন।",
+      "Standards অনুযায়ী inspection check list তৈরি করুন।",
+      "Inspection, check list আর maintenance program দেখে facilities-এর অবস্থা assess করুন।",
+      "শেষে inspection report তৈরি করে জমা দিন।"
+    ]
+  },
+  "practice": {
+    "short": {
+      "prompt": "Describe the reporting process after a facility inspection.",
+      "modelAnswer": "You act based on the inspection report by:\n1. Analysing the report.\n2. Investigating the condition of facilities against the report and standards.\n3. Preparing a repair improvement schedule to correct malfunctions and damages (if any).\n4. Installing continuous maintenance of facilities.",
+      "keyPoints": [
+        {
+          "text": "Analysing the report.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "Analysing the report."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Investigate condition of Facilities based on the inspection report and in conformance with standards.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "Investigate condition of Facilities based on the inspection report and in conformance with standards."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Prepare repair improvement schedule to correct malfunctions and damages (if any).",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "Prepare repair improvement schedule to correct malfunctions and"
+            },
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "damages. (if any)"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Install continuous maintenance of facilities.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 27,
+              "quote": "Install continuous maintenance of facilities."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      "marks": 4
+    },
+    "mcq": {
+      "prompt": "What is the first step of the documentation (assessment) process?",
+      "options": [
+        "Verify quality characteristics standards",
+        "Prepare and submit inspection report",
+        "Install continuous maintenance of facilities",
+        "Send the equipment to the service center"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm06",
+        "page": 29,
+        "quote": "1. Verify quality characteristics standards."
+      }
+    },
+    "matching": {
+      "prompt": "Match each CBLM 6 report with a column it contains.",
+      "pairs": [
+        {
+          "left": "Inspection Report",
+          "right": "Incident and action taken",
+          "cite": {
+            "src": "cblm06",
+            "page": 28,
+            "quote": "Inspection Report Template Area/Section Practical Work Area/Computer Laboratory In-Charge Name: FACILITY TYPE INCIDENT ACTION PROGRESS/REMARKS TAKEN"
+          }
+        },
+        {
+          "left": "Breakdown/repair report",
+          "right": "Nature of break down",
+          "cite": {
+            "src": "cblm06",
+            "page": 29,
+            "quote": "Sample Template; Breakdown /repair report. Area/Section Practical work area/ laboratory area In-Charge Name: Facility Type Nature of break down"
+          }
+        },
+        {
+          "left": "Salvage Report",
+          "right": "Part ID",
+          "cite": {
+            "src": "cblm06",
+            "page": 29,
+            "quote": "Sample Template: for Salvage Report Area/Section Practical Work Area/Laboratory Personnel Name: Facility Type PART ID"
+          }
+        },
+        {
+          "left": "Last assessment step",
+          "right": "Prepare and submit inspection report",
+          "cite": {
+            "src": "cblm06",
+            "page": 29,
+            "quote": "5. Prepare and submit inspection report."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What do you do first when you receive an inspection report?",
+      "answer": {
+        "text": "You act on it, first by analysing the report.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "You act based on the inspection report by;"
+          },
+          {
+            "src": "cblm06",
+            "page": 27,
+            "quote": "Analysing the report."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": []
+}

@@ -60,6 +60,86 @@
     "en": "In a welding shop, burns are likely and serious. The risk matrix puts this risk high. The trainer fixes it first.",
     "bn": "ওয়েল্ডিং শপে পুড়ে যাওয়ার likelihood আর consequence দুটোই বেশি, তাই আগে এটা ঠিক করতে হবে।"
   },
+  "list_answer": {
+    "title": "Aspects that may help determine the likelihood of a risk",
+    "title_bn": "Risk-এর likelihood ঠিক করতে যে বিষয়গুলো সাহায্য করে",
+    "items": [
+      {
+        "text": "Other risks that add to the increase of likelihood",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 9,
+            "quote": "Other risks that add to the increase of likelihood"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Frequency of occurrence",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 9,
+            "quote": "Frequency of occurrence"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Duration of risk occurrence",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 9,
+            "quote": "Duration of risk occurrence"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Number of people being exposed",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 9,
+            "quote": "Number of people being exposed"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Likely dose of exposure",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 9,
+            "quote": "Likely dose of exposure"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Required exposure levels",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 9,
+            "quote": "Required exposure levels"
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "items_bn": [
+      "অন্য risks যেগুলো likelihood আরও বাড়িয়ে দেয়।",
+      "ঘটনাটি কত ঘন ঘন ঘটে (frequency)।",
+      "Risk কতক্ষণ ধরে থাকে (duration)।",
+      "কতজন মানুষ exposed হচ্ছে।",
+      "সম্ভাব্য কতটা dose-এর exposure হবে।",
+      "কোন মাত্রার exposure হলে ক্ষতি হয় (required exposure levels)।"
+    ]
+  },
   "traps": [
     {
       "text": "The CBLM answer is Risk Matrix, not a risk-analysis checklist.",
@@ -126,6 +206,89 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Likelihood vs consequence of a risk (p.9)",
+    "title_bn": "Likelihood বনাম consequence",
+    "left": {
+      "title": "Likelihood",
+      "title_bn": "ঘটার সম্ভাবনা",
+      "points": [
+        {
+          "text": "Levels go from almost certain to rare.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 9,
+              "quote": "levels of both likelihood (from almost certain to rare)"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Ask: how likely is it the hazard could cause an injury or illness?",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 29,
+              "quote": "how likely is it the hazard could cause an injury or illness? (likelihood)"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Consequence",
+      "title_bn": "ক্ষতির মাত্রা",
+      "points": [
+        {
+          "text": "Levels go from insignificant to catastrophic.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 9,
+              "quote": "to define levels of both likelihood (from almost certain to rare) and consequence (from insignificant to catastrophic)"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Property and environmental damage can be expressed in terms of money.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 9,
+              "quote": "With regard to property and environmental damage these consequences can be expressed in terms of money."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "When people are harmed, express the seriousness of the illness or injury.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 9,
+              "quote": "Whenever people are harmed the consequences can be expressed in terms of seriousness of the illness or injury."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Consider who is harmed, like expectant mothers or young people.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 9,
+              "quote": "put in relation to who is harmed, especially people at a particular risk such as expectant mothers or young people"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "To define and classify likelihood and consequences of a risk, what tool do we use?",

@@ -40,6 +40,150 @@
     "bn": "ঢাকা আর খুলনায় একই checklist ব্যবহার হলে দুই জায়গার ফল তুলনা করা যায়।",
     "en": "Two assessors test welding trainees in Dhaka and Khulna. Both use the same checklist and instructions."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Assessment practices should be monitored and reviewed to ensure that there is consistency in the interpretation of evidence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 10,
+            "printedPage": 10,
+            "quote": "Assessors must be competent in terms of the national competency standards for assessment",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Monitor and review practices for consistent interpretation of evidence. Assessors must be competent in national assessment standards."
+      },
+      "concept": "reliability-in-assessment",
+      "example": {
+        "bn": "যে assessor-ই দেখুক, একই evidence-এ একই সিদ্ধান্ত: এটাই reliability।",
+        "en": "Two assessors in Dhaka and Khulna give the same result for the same weld."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p10-reliability"
+      ],
+      "q": "How do you explain the reliability principles of assessment?",
+      "q_bn": "Reliability principle কীভাবে ব্যাখ্যা করবে?",
+      "tip": "Reliable = consistent every time, every assessor.",
+      "tip_bn": "Reliability মানে consistency বা ধারাবাহিকতা।"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "administering assessments in the same way for each candidate",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "administering assessments in the same way for each candidate"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "ensuring that instructions to candidates are clear, consistent and unambiguous",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "ensuring that instructions to candidates are clear, consistent and unambiguous"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "ensuring that assessors use well planned guides, for observations and for making judgements about evidence",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "ensuring assessors use well planned guides for observations and judging evidence"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "making sure that assessment events are 'just right' neither too hard nor too easy",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "making sure assessment events are 'just right': neither too hard nor too easy"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "evaluating and revising the assessment tools and their results with other assessors and/ or subject experts on a regular basis",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "regularly evaluating and revising tools and results with other assessors or subject experts"
+        }
+      ],
+      "items_bn": [
+        "প্রত্যেক candidate-এর assessment একই নিয়মে নিতে হয়, যাতে কেউ আলাদা সুবিধা না পায়।",
+        "Candidates-কে দেওয়া instructions পরিষ্কার, সবার জন্য এক এবং দ্ব্যর্থহীন হতে হয়।",
+        "Assessors কাজ দেখা ও evidence বিচারের জন্য ভালোভাবে তৈরি guides ব্যবহার করেন, যাতে সবার বিচার একরকম হয়।",
+        "Assessment খুব কঠিনও নয়, খুব সহজও নয় — একদম ঠিকঠাক হতে হবে।",
+        "অন্য assessors বা subject experts-এর সাথে মিলে নিয়মিত assessment tools যাচাই ও সংশোধন করতে হয়।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c11-p11-reliability-improved"
+      ],
+      "title": "Ways to improve reliability of assessment",
+      "title_bn": "Reliability বাড়ানোর ৫টি উপায়"
+    },
+    {
+      "bn": "Self Check 1 Q5-এ ২টা principle লেখো; \"কীভাবে বাড়াবে\" জিজ্ঞেস করলে ৫টা উপায়।",
+      "kind": "note",
+      "outline": [
+        "c11-p10-reliability",
+        "c11-p11-reliability-improved"
+      ],
+      "text": "Two different questions: 'reliability principles' wants the 2 'means' points; 'improve reliability' wants the 5 ways.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "reliability-in-assessment",
   "importance": {
@@ -150,7 +294,16 @@
         "fidelity": "paraphrase",
         "text": "Regularly evaluate and revise the assessment tools with other assessors or subject experts."
       }
-    ]
+    ],
+    "itemsBn": [
+      "প্রত্যেক candidate-এর assessment একই নিয়মে নিতে হয়, যাতে কেউ আলাদা সুবিধা না পায়।",
+      "Candidates-কে দেওয়া instructions পরিষ্কার, সবার জন্য এক এবং দ্ব্যর্থহীন হতে হয়।",
+      "Assessors কাজ দেখা ও evidence বিচারের জন্য ভালোভাবে তৈরি guides ব্যবহার করেন, যাতে সবার বিচার একরকম হয়।",
+      "Assessment খুব কঠিনও নয়, খুব সহজও নয় — একদম ঠিকঠাক হতে হবে।",
+      "অন্য assessors বা subject experts-এর সাথে মিলে নিয়মিত assessment tools যাচাই ও সংশোধন করতে হয়।"
+    ],
+    "title": "Ways to make assessment reliable",
+    "titleBn": "Assessment reliable করার উপায়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -402,6 +555,7 @@
       "text": "Do not confuse the reliability principles with how reliability can be improved."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

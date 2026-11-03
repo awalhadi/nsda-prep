@@ -26,7 +26,7 @@
   "banglaExplanation": [
     "Delivery plan হলো পুরো unit বা qualification কীভাবে দেওয়া হবে তার বড় ছবি।",
     "এখানে থাকে nominal hours, কয়টি session, প্রতিটির duration, elements আর performance criteria।",
-    "Training mode off the job, on the job নাকি দুটো মিলিয়ে, সেটাও লেখা থাকে।",
+    "Training mode কর্মস্থলের বাইরে, কর্মস্থলে নাকি দুটো মিলিয়ে — সেটাও লেখা থাকে।",
     "এটা adult learning principles মেনে বানাতে হয়, যাতে facilitation focused থাকে।"
   ],
   "breakdown": {
@@ -40,6 +40,270 @@
     "bn": "Biscuit dough unit-কে session-এ ভাগ করে প্রতিটির elements আর resources লিখে রাখা হয়।",
     "en": "A baking trainer plans the unit Produce Biscuit Dough. Each 30-minute session lists elements, criteria, mode and resources."
   },
+  "extra": [
+    {
+      "bn": "আগে সংজ্ঞা, তারপর ১২টি item; Specification Sheet 2.1-এ এর ফাঁকা template আছে।",
+      "kind": "note",
+      "outline": [
+        "c09-p30-delivery-plan",
+        "c09-p30-delivery-plan-includes"
+      ],
+      "text": "Definition first (how a qualification is obtained via training mode), then the 12 items it may include. Specification Sheet 2.1 is the template.",
+      "tone": "tip"
+    },
+    {
+      "bn": [
+        "Delivery plan বানাতে adult learning-এর নীতি, learning styles আর বিশেষ সহায়তার চাহিদা মাথায় রাখুন।",
+        "উদ্দেশ্য: কাঠামোবদ্ধ delivery, যাতে facilitation লক্ষ্যে থাকে আর intended outcomes অর্জিত হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Your delivery plan must be developed with the principles of adult learning in mind.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Develop the delivery plan with the principles of adult learning in mind."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "You also need to consider the various learning styles of your learners and any equity",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "or additional support needs they may have.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Consider learning styles and any equity or additional support needs."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Your approach should provide variety",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "and plenty of interaction.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Your approach should provide variety and plenty of interaction."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Many trainers prefer to develop individual session",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "plans for each of the sessions to be delivered, while other facilitators prefer to",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "develop one overall plan.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Some trainers write individual session plans; others prefer one overall plan."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "the overall program may be broken down into a number of sessions;",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "each of these sessions will need to contain an outline of what is to be achieved and",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "how it will be achieved.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "An overall plan is broken into sessions. Each outlines what is achieved and how."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c09-p30-delivery-plan-purpose"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Clarify the learning outcomes (by interpreting the competency standard",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "document)",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Clarify the learning outcomes, by interpreting the competency standard document."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Sequence the content-identify the content requirements, including the",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "introduction and the conclusion",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Sequence the content, including the introduction and the conclusion."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Choose training methods-confirm timelines and resource requirements",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Choose training methods; confirm timelines and resource requirements."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Develop learning resources (Competency Based Learning Materials)",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Develop learning resources (Competency Based Learning Materials)"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Review the plan-confirm it meets the requirements.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Review the plan; confirm it meets the requirements."
+        }
+      ],
+      "items_bn": [
+        "Competency standard পড়ে learning outcomes স্পষ্ট করুন।",
+        "Content সাজান — introduction ও conclusion সহ।",
+        "Training methods বাছুন; সময় ও resources নিশ্চিত করুন।",
+        "Learning resources (CBLM) তৈরি করুন।",
+        "Plan review করে দেখুন requirements মেটে কি না।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c09-p30-plan-steps"
+      ],
+      "title": "Steps involved in developing a plan (p.30)",
+      "title_bn": "Plan তৈরির পাঁচটি ধাপ (p.30)"
+    }
+  ],
   "highlighted": true,
   "id": "program-delivery-plan",
   "importance": {
@@ -252,7 +516,23 @@
         "fidelity": "verbatim",
         "text": "Any additional requirements to meet special needs of learners"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Nominal hours — পুরো unit বা program-এর জন্য নির্ধারিত মোট সময়।",
+      "No. of Session — পুরো program কয়টি session-এ ভাগ করে দেওয়া হবে।",
+      "Duration of each session — প্রতিটি session কতক্ষণ চলবে।",
+      "Individual or group objectives — প্রত্যেক learner বা পুরো group training শেষে কী অর্জন করবে।",
+      "Formative assessment opportunities — শেখার মাঝপথে কোথায় কোথায় যাচাই করার সুযোগ থাকবে।",
+      "Location of training — training কোথায় অনুষ্ঠিত হবে।",
+      "Number of learners — কতজন learners অংশ নেবে।",
+      "Elements covered — unit-এর কোন কোন elements এই plan-এ শেখানো হবে।",
+      "Performance criteria covered — কোন কোন performance criteria এই plan-এ শেখানো হবে।",
+      "Delivery mode — training কোন mode-এ আর কোন কৌশলে দেওয়া হবে।",
+      "Equipment and resources — whiteboard, overhead projector, handouts-এর মতো কী কী উপকরণ লাগবে।",
+      "Learners-দের special needs মেটাতে বাড়তি কোনো ব্যবস্থা লাগলে, তাও plan-এ লিখে রাখতে হবে।"
+    ],
+    "title": "Contents of a program delivery plan",
+    "titleBn": "Program delivery plan-এ যা যা থাকে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -520,6 +800,7 @@
       "text": "Mostly a CBT program has many sessions and session plans."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

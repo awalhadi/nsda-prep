@@ -58,10 +58,335 @@
     "bn": "বিদেশি video পেলেই চালাবেন না, আগে language আর relevance দেখে নিন।",
     "en": "An electrical trainer finds a foreign video. He checks its language and relevance first."
   },
+  "extra": [
+    {
+      "bn": [
+        "কোনো resource আছে বলেই কপি করে বিলিয়ে দেওয়া যায় না — আগে তিনটি factor যাচাই করুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "resources that have already been developed that you",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "can use in the learning session",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "does not mean that you can",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "simply copy them and distribute them to the learners.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "You can use resources already developed, but you cannot simply copy and distribute them."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p16-checking-resources"
+      ]
+    },
+    {
+      "bn": [
+        "কঠিন jargon থাকলে সহজ করে ব্যাখ্যা দিন; শুরু করুন material নিজে পড়ে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "Sometimes it is",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "important for learners to be aware of industry-specific jargon, but it should be",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "explained clearly and carefully.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Learners may need industry jargon, but explain it clearly and carefully."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p16-language"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "Are safe and accessible",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Are safe and accessible"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "reflect diversity",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "reflect diversity"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "does not demonstrate disrespect towards gender, religion, culture",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "or local customs in any form",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "does not demonstrate disrespect towards gender, religion, culture or local customs in any form"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "that learners can relate to the situations portrayed.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "that learners can relate to the situations portrayed."
+        }
+      ],
+      "items_bn": [
+        "নিরাপদ ও সবার নাগালে (accessible) কিনা।",
+        "বৈচিত্র্য (diversity) প্রতিফলিত করে কিনা।",
+        "Gender, religion, culture বা local customs-এর প্রতি কোনো অসম্মান নেই তো।",
+        "দেখানো পরিস্থিতির সাথে learner নিজেকে মেলাতে পারে কিনা।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c08-p16-learner-characteristics"
+      ],
+      "title": "Learner characteristics: you need to check that resources",
+      "title_bn": "Learner characteristics: resource-এ ৪টি জিনিস যাচাই"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Customizing means taking existing",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "material and tailoring it to meet the needs of your learners.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Customizing means taking existing material and tailoring it to meet the needs of your learners."
+      },
+      "kind": "qa",
+      "outline": [
+        "c08-p18-customizing"
+      ],
+      "q": "What does customizing a resource mean?",
+      "q_bn": "Resource customize করা মানে কী?",
+      "tip": "Check whether resources can be customised and follow copyright.",
+      "tip_bn": "Customize করার আগে copyright-এর নিয়ম মানা যাবে কিনা দেখুন।"
+    },
+    {
+      "bn": "p.16 আর p.18-এর বাক্যের শেষ অংশ উল্টে ছাপা হয়েছে; পরীক্ষায় লিখুন: Customizing = existing material নিয়ে learner-এর প্রয়োজন মতো সাজানো।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "The best place to start is by reading the material yourself. This may",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The best place to start is by reading the material yourself. This may"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Customizing means taking existing sound like an obvious suggestion",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Customizing means taking existing sound like an obvious suggestion"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "with application to their learning material and tailoring it to meet the needs of your learners.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "with application to their learning material and tailoring it to meet the needs of your learners."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c08-p18-customizing",
+        "c08-p16-language"
+      ],
+      "text": "The printed text is mixed up across pp.16 and 18. Sentence ends are swapped. Write: customizing means taking existing material and tailoring it to your learners' needs.",
+      "tone": "caution"
+    },
+    {
+      "bn": [
+        "অনেক handout দিলেই শেখা হয় না; learner-কে বুঝতে হবে resource তার কাজে লাগবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Sometimes it is tempting to prepare for a session by preparing lots of handouts. This",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "will not, in itself, ensure that the learner understands the material",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Lots of handouts alone will not ensure that the learner understands."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Importantly, the learner must see them as relevant, with application to their learning",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The learner must see the resources as relevant to their learning."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p18-relevance"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "checking-existing-resources",
   "importance": {
-    "bn": "CBLM 9 Self Check 3 (Q2)-এ এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "bn": "CBLM 9 Self Check 3 (Q2)-এ এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
     "en": "Asked in CBLM 9 Self Check 3 (Q2). Highlighted in CBLM 8. Comes as short question."
   },
   "keywords": [
@@ -193,7 +518,14 @@
         "fidelity": "paraphrase",
         "text": "Relevance: resources match units of competency, their elements and learning outcomes."
       }
-    ]
+    ],
+    "itemsBn": [
+      "ভাষা — learners আর training level-এর উপযোগী কিনা, jargon বা লম্বা কঠিন শব্দ বেশি কিনা।",
+      "শিক্ষার্থীর বৈশিষ্ট্য — resources safe ও accessible কিনা, diversity দেখায় কিনা, কাউকে অসম্মান করে কিনা।",
+      "প্রাসঙ্গিকতা — units of competency, তার elements আর learning outcomes-এর সাথে মেলে কিনা।"
+    ],
+    "title": "What to check in existing learning resources",
+    "titleBn": "আগে থেকে থাকা learning resources-এ যা যাচাই করবেন"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -408,7 +740,7 @@
   ],
   "score": 7,
   "sourceType": "cblm",
-  "stars": 2,
+  "stars": 3,
   "status": "draft",
   "title": "Checking Existing Learning Resources",
   "traps": [
@@ -494,6 +826,125 @@
       "text": "Also address: checklist for selecting resources and consumable resources."
     }
   ],
+  "visual": {
+    "columns": [
+      "Factor",
+      "What to check"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Language",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "Is the language appropriate for the learners for the level of training? Does it contain a",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "lot of jargon or long words that the learners will struggle with?",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Is the language appropriate for the learners and level? Is there a lot of jargon?"
+        }
+      ],
+      [
+        "Learner characteristics",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "Are safe and accessible",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "reflect diversity,",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "does not demonstrate disrespect towards gender, religion, culture",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "that learners can relate to the situations portrayed.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Safe and accessible, reflect diversity, no disrespect; learners can relate to the situations portrayed."
+        }
+      ],
+      [
+        "Relevance",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "The resources used must be relevant in terms of:",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Units of competency and their elements",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Session learning outcomes.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Relevant to units of competency, their elements and session learning outcomes."
+        }
+      ]
+    ],
+    "title": "Factors to address when checking existing resources (pp.16, 18)",
+    "title_bn": "Existing resource যাচাইয়ের তিনটি factor"
+  },
   "vivaDerived": true,
   "warnings": 1
 }

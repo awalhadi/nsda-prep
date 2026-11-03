@@ -1,0 +1,599 @@
+{
+  "aliases": [
+    "Preparing a self-assessment guide",
+    "Self-assessment checklist",
+    "Pre-self assessment"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 9,
+      "pages": [
+        {
+          "pdf": 7,
+          "printed": 7
+        },
+        {
+          "pdf": 11,
+          "printed": 11
+        },
+        {
+          "pdf": 12,
+          "printed": 12
+        },
+        {
+          "pdf": 28,
+          "printed": 28
+        }
+      ],
+      "src": "cblm09"
+    }
+  ],
+  "banglaExplanation": [
+    "Self-assessment guide হলো competency areas-এর একটা তালিকা — trainee নিজেই টিক দিয়ে বলে কোনটা পারে, কোনটা পারে না।",
+    "Session শুরুর আগেই এটা দিন, তাহলে trainee-র level of competency বোঝা যায়।",
+    "এতে trainer আর trainee দুজনেই জানে training-এর best starting point কোথায়।",
+    "Guide বানানো হয় unit of competency-র performance criteria থেকে; প্রতিটি লাইনে \"Can you...\" আর Yes/No।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 9,
+  "errata": [],
+  "example": {
+    "bn": "Welding কোর্সের আগে প্রত্যেক trainee প্রতিটি performance criteria-র পাশে Yes বা No টিক দেয়।",
+    "en": "Before a welding course, Chattogram trainees tick Yes or No for each criterion."
+  },
+  "extra": [
+    {
+      "bn": [
+        "Guide-এ প্রতিটি PC একটি প্রশ্ন: \"Can you...?\" — trainee Yes বা No দেয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "trainees to complete a self assessment guide will help you and trainees know the",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "best starting point for any training.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A self assessment guide shows you and trainees the best starting point for any training."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c09-p11-self-assessment-guide"
+      ]
+    },
+    {
+      "cite": {
+        "cblm": 9,
+        "match": "exact",
+        "page": 12,
+        "printedPage": 12,
+        "quote": "Example of a Self-Assessment Checklist",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      },
+      "columns": [
+        "Can you... Performance Criteria",
+        "Yes",
+        "No"
+      ],
+      "fields": [
+        "Trainee Name:",
+        "Contact:",
+        "Unit: TRAWEL10014A Perform Shielded Metal Arc Welding-Position 1G, 2G"
+      ],
+      "footer": [
+        "Trainee Signature:",
+        "Date:"
+      ],
+      "kind": "form",
+      "note_bn": "প্রতিটি লাইন unit-এর একটি performance criteria; trainee Yes বা No টিক দেয়। No-গুলোই তার training need।",
+      "outline": [
+        "c09-p12-self-assessment-checklist"
+      ],
+      "rows": [
+        [
+          "1.1 Observe Safe work practices and personal protective equipment (PPE) as required for the work performed.",
+          "☐",
+          "☐"
+        ],
+        [
+          "2.1 Identify weld requirements, specifications from work place drawing.",
+          "☐",
+          "☐"
+        ],
+        [
+          "3.1 Select materials",
+          "☐",
+          "☐"
+        ],
+        [
+          "3.2 Mark materials (plate) and cut as per dimension of specification, drawing.",
+          "☐",
+          "☐"
+        ],
+        [
+          "3.3 Prepare edges prepared as per job specification to meet industry requirements.",
+          "☐",
+          "☐"
+        ],
+        [
+          "3.4 Assemble materials and align with required gap.",
+          "☐",
+          "☐"
+        ],
+        [
+          "3.5 Use weld gauge and or measuring instruments as per workplace/industry requirements.",
+          "☐",
+          "☐"
+        ],
+        [
+          "4.1. Set up Job using a clamp at required position (1G or 2G)",
+          "☐",
+          "☐"
+        ],
+        [
+          "5.1. Set up welding equipment and adjust as per job requirements.",
+          "☐",
+          "☐"
+        ],
+        [
+          "6.1 Perform weld as per specification and standard (WPS).",
+          "☐",
+          "☐"
+        ],
+        [
+          "6.2 Clean welds in accordance with standard operating procedures",
+          "☐",
+          "☐"
+        ],
+        [
+          "6.3. Check weld for quality and any defects are identified and corrective action is taken to standard operating procedures.",
+          "☐",
+          "☐"
+        ]
+      ],
+      "title": "Example of a Self-Assessment Checklist",
+      "title_bn": "Self-Assessment Checklist-এর নমুনা (welding)"
+    }
+  ],
+  "highlighted": true,
+  "id": "self-assessment-guide",
+  "importance": {
+    "bn": "CBLM 9-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 9."
+  },
+  "keywords": [
+    {
+      "bn": "নিজের দক্ষতা নিজে যাচাইয়ের তালিকা",
+      "en": "Self-assessment guide"
+    },
+    {
+      "bn": "দক্ষতার ক্ষেত্রগুলো",
+      "en": "Competency areas"
+    },
+    {
+      "bn": "কতটা দক্ষ, সেই মাত্রা",
+      "en": "Level of expertise"
+    },
+    {
+      "bn": "training কোথা থেকে শুরু করা ভালো",
+      "en": "Best starting point"
+    },
+    {
+      "bn": "কাজের মান যাচাইয়ের মানদণ্ড",
+      "en": "Performance criteria"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Trainee Name:",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Trainee Name: Contact:",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Trainee name and contact."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Unit: TRAWEL10014A Perform Shielded Metal Arc Welding-Position 1G, 2G",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Unit, e.g. TRAWEL10014A Perform Shielded Metal Arc Welding-Position 1G, 2G."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Can you... Performance Criteria",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "'Can you...' performance criteria."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Performance Criteria Yes No",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Yes or No against each performance criteria."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "What other competencies you want to learn?",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "What other competencies you want to learn?"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 12,
+            "printedPage": 12,
+            "quote": "Trainee Signature: Date:",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Trainee signature and date."
+      }
+    ],
+    "itemsBn": [
+      "উপরে trainee-র নাম আর contact লেখা থাকে।",
+      "কোন Unit-এর জন্য checklist, তা লেখা থাকে — যেমন welding-এর TRAWEL10014A।",
+      "প্রতিটি লাইনে \"Can you...\" দিয়ে একটি performance criteria — trainee নিজেকে প্রশ্ন করে।",
+      "প্রতিটি criteria-র পাশে Yes বা No — পারলে Yes, না পারলে No।",
+      "অনুশীলনী ১.২-এর ফর্মে শেষে trainee লেখে আর কী কী competencies শিখতে চায়।",
+      "শেষে trainee-র signature আর date।"
+    ],
+    "title": "Parts of a self-assessment checklist (p.12 and p.28)",
+    "titleBn": "Self-assessment checklist-এর অংশগুলো"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 9,
+        "match": "exact",
+        "page": 11,
+        "printedPage": 11,
+        "quote": "A self-assessment guide is a listing of competency areas that allows the trainee to self assess his level of expertise (technical skills).",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "A self-assessment guide is a listing of competency areas. The trainee uses it to self assess his level of expertise."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "A self-assessment guide is a listing of competency areas",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Self-assessment guide",
+          "right": "Listing of competency areas"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "pre-self assessment before you proceed in your session",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "When to give it",
+          "right": "Before you proceed in your session"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "know the best starting point for any training.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Benefit",
+          "right": "Best starting point for any training"
+        },
+        {
+          "cite": {
+            "cblm": 9,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Based on the unit of competency performance criteria self assessment tools",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          },
+          "left": "Basis of the tool",
+          "right": "Unit of competency performance criteria"
+        }
+      ],
+      "prompt": "Match each part of self assessment with its meaning."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 9,
+        "match": "exact",
+        "page": 11,
+        "printedPage": 11,
+        "quote": "A self-assessment guide is a listing of competency areas",
+        "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+        "src": "cblm09"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Competency areas",
+        "Session review questions",
+        "Training venues",
+        "Consumable materials"
+      ],
+      "prompt": "A self-assessment guide is a listing of:"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "A self-assessment guide is a listing of competency areas",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A self-assessment guide is a listing of competency areas."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "give your trainee a pre-self assessment before you proceed in your session so that you can determine their level of competency.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Give it before the session to determine the trainee's level of competency."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "will help you and trainees know the best starting point for any training.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It helps you and trainees know the best starting point for any training."
+        }
+      ],
+      "modelAnswer": "A self-assessment guide is a listing of competency areas. It allows the trainee to self assess his level of expertise (technical skills).\nWhy:\n1. Give it before you proceed in your session.\n2. It helps you determine their level of competency.\n3. It helps you and trainees know the best starting point for any training.",
+      "prompt": "What is a self-assessment guide? Why do you give it to trainees?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 11,
+            "quote": "Asking trainees to complete a self assessment guide will help you and trainees know the best starting point for any training.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "It helps you and trainees know the best starting point for any training."
+      },
+      "prompt": "Why ask trainees to complete a self assessment guide?"
+    }
+  },
+  "realQuestions": [],
+  "score": 3,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Self-Assessment Guide (Pre-Training Self-Assessment Checklist)",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 11,
+          "printedPage": 11,
+          "quote": "It is always important that you give your trainee a pre-self assessment before you proceed in your session",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Give the pre-self assessment before you proceed in your session."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 9,
+          "match": "exact",
+          "page": 7,
+          "printedPage": 7,
+          "quote": "Based on the unit of competency performance criteria self assessment tools can be prepared",
+          "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+          "src": "cblm09"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Self assessment tools are based on the unit of competency performance criteria."
+    }
+  ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "Based on the unit of competency performance criteria self assessment tools can be prepared",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Prepare self assessment tools from the unit of competency performance criteria."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "administered to trainees prior to training commencement or at the beginning of the course.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Administer them before training commencement or at the beginning of the course."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "The results should be analysed",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Analyse the results."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "the program adjusted accordingly.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Adjust the program accordingly."
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "Unit of competency-র performance criteria থেকে tool বানান।",
+      "Training শুরুর আগে বা কোর্সের শুরুতে trainee-দের দিয়ে পূরণ করান।",
+      "ফলাফল analyse করুন — কোথায় gap আছে দেখুন।",
+      "সেই অনুযায়ী program adjust করুন — যা জানে তা বাদ, যা জানে না তাতে জোর।"
+    ],
+    "title": "Using a self assessment tool before training (p.7 and p.11)",
+    "title_bn": "Self assessment tool ব্যবহারের ধাপ"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

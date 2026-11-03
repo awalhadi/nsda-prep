@@ -40,6 +40,351 @@
     "bn": "ইলেকট্রিক্যাল ট্রেডের plan-এ লেখা থাকে কী, কীভাবে, কোথায়, কখন assessment হবে।",
     "en": "An electrical trainer writes an assessment plan. It says what, how, where and when trainees are assessed."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "An assessment plan is the overall planning document for the assessment process",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 45,
+            "printedPage": 45,
+            "quote": "An assessment plan is developed by an assessment designer",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "It is the overall planning document for the assessment process. An assessment designer develops it."
+      },
+      "concept": "assessment-plan",
+      "example": {
+        "bn": "Assessment plan = পুরো assessment-এর রোডম্যাপ; বানায় assessment designer।",
+        "en": "Like a road map: it tells assessors what, how, where and when to assess."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p45-assessment-plan-definition"
+      ],
+      "q": "What is an assessment plan? Who develops it?",
+      "q_bn": "Assessment plan কী? কে তৈরি করে?",
+      "tip": "Plan = overall document; maker = assessment designer.",
+      "tip_bn": "দুই অংশই লিখবে: কী (overall planning document) আর কে (assessment designer)।"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "includes a range of information to guide assessors which may include purpose, context, personnel, competency standards/assessment benchmarks, assessment methods and tools, the evidence plan",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It guides assessors: purpose, context, personnel, benchmarks, methods and tools, and the evidence plan."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "organisational arrangements including physical and material resources and equipment and other relevant information",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It also covers organisational arrangements: physical and material resources and equipment."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p45-assessment-plan-definition"
+      ]
+    },
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 45,
+                "printedPage": 45,
+                "quote": "purpose and aims of assessment",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Purpose and aims of assessment"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 45,
+                "printedPage": 45,
+                "quote": "context of assessment",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Context of assessment"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 45,
+                "printedPage": 45,
+                "quote": "relevant benchmarks for assessment",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Relevant benchmarks for assessment"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 45,
+                "printedPage": 45,
+                "quote": "other assessment information and documentation identified as relevant",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 45,
+                "printedPage": 45,
+                "quote": "what is to be assessed o how assessment is to take place o where assessment is to take place o when assessment is to take place",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Other relevant information: what, how, where and when assessment takes place."
+          }
+        ],
+        "title": "Assessment plan includes",
+        "title_bn": "Plan-এ থাকে"
+      },
+      "outline": [
+        "c11-p45-plan-includes",
+        "c11-p45-effective-plan"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 45,
+                "printedPage": 45,
+                "quote": "The program's learning outcomes should align with the program's objectives",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "The program's learning outcomes align with the program's objectives."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 45,
+                "printedPage": 45,
+                "quote": "Multiple methods of assessment should be used including both direct and indirect methods",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Multiple methods are used, both direct and indirect."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 45,
+                "printedPage": 45,
+                "quote": "Trainer should be very involved in the process of assessing trainee learning",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "The trainer is very involved in assessing trainee learning."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 45,
+                "printedPage": 45,
+                "quote": "Assessment results should inform improvement in designing of future assessment events",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Results inform improvement in designing future assessment events."
+          }
+        ],
+        "title": "An effective plan",
+        "title_bn": "কার্যকর plan"
+      },
+      "title": "What a plan includes vs what makes it effective",
+      "title_bn": "Plan-এ কী থাকে বনাম কার্যকর plan-এর বৈশিষ্ট্য"
+    },
+    {
+      "bn": "দুটো আলাদা list: plan-এ কী থাকে, আর ভালো plan কেমন হয়।",
+      "kind": "note",
+      "outline": [
+        "c11-p45-plan-includes",
+        "c11-p45-effective-plan"
+      ],
+      "text": "'Plan includes' = purpose, context, benchmarks, and what-how-where-when. 'Effective plan' = 4 characteristics. Do not mix them.",
+      "tone": "tip"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 51,
+            "printedPage": null,
+            "quote": "Reviewing the assessment plan is critical to ensure that the proposed outcomes of the assessment plan have achieved what was intended",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "To ensure the plan's proposed outcomes have achieved what was intended."
+      },
+      "concept": "assessment-plan",
+      "example": {
+        "bn": "কয়েকবার খসড়া হওয়া স্বাভাবিক; শেষেরটা সবার সাথে নিশ্চিত করে রেকর্ড করো।",
+        "en": "The first draft forgot PPE; colleagues spot it, and version 2 fixes it."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p51-reviewing-plan"
+      ],
+      "q": "Why do you need to review your assessment plan?",
+      "q_bn": "Assessment plan কেন review করবে?",
+      "tip": "Review → Agree → Confirm → Record.",
+      "tip_bn": "চেক, একমত, নিশ্চিত, রেকর্ড (version control)।"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "It is normal to have several versions of the assessment plan",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Several versions of the plan are normal."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "before you finally reach agreement with your colleagues or stakeholders",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Finally reach agreement with colleagues or stakeholders."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "the final version is communicated and confirmed with key stakeholders",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Communicate and confirm the final version with key stakeholders."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "and recorded. This can be achieved using version control",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Record it. This can be achieved using version control."
+        }
+      ],
+      "kind": "steps",
+      "labels_bn": [
+        "Plan-এর কয়েকটি version বা খসড়া হওয়াই স্বাভাবিক, প্রথমবারেই নিখুঁত হতে হবে না।",
+        "শেষে সহকর্মী বা stakeholders-এর সাথে একমত হতে হয়।",
+        "চূড়ান্ত version মূল stakeholders-কে জানিয়ে নিশ্চিত করতে হয়।",
+        "চূড়ান্ত plan record করে রাখো — version control দিয়ে এটা করা যায়।"
+      ],
+      "outline": [
+        "c11-p51-reviewing-plan"
+      ],
+      "title": "Reviewing the assessment plan",
+      "title_bn": "Plan review-এর ধারা"
+    }
+  ],
   "highlighted": true,
   "id": "assessment-plan",
   "importance": {
@@ -143,7 +488,15 @@
         "fidelity": "paraphrase",
         "text": "Other relevant information: what, how, where and when assessment takes place."
       }
-    ]
+    ],
+    "itemsBn": [
+      "কেন assessment হচ্ছে আর কী অর্জন করতে চায় — বাকি সব কিছু এই উদ্দেশ্য ধরে ঠিক হয়।",
+      "কোন পরিবেশে, কোন অবস্থায় assessment হবে — অর্থাৎ assessment-এর context।",
+      "কোন মানদণ্ডের সাথে মিলিয়ে বিচার হবে — সেই relevant benchmarks plan-এ লেখা থাকে।",
+      "বাকি দরকারি তথ্য: কীসের assessment হবে, কীভাবে, কোথায় আর কখন — যাতে সবাই আগে থেকে জানে।"
+    ],
+    "title": "What an assessment plan includes",
+    "titleBn": "Assessment plan-এ যা যা থাকে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -435,8 +788,178 @@
       ],
       "fidelity": "paraphrase",
       "text": "Several versions are normal. The final version must be communicated, confirmed and recorded."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 46,
+          "printedPage": 46,
+          "quote": "It is important that you specify who does what when",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        },
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 46,
+          "printedPage": 46,
+          "quote": "If responsibility is clearly defined the tasks are much more likely to be completed",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Specify who does what when. Clearly defined responsibility gets tasks completed."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "purpose and aims of assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Purpose and aims of assessment"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "context of assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Context of assessment"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "relevant benchmarks for assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Relevant benchmarks for assessment"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "other assessment information and documentation identified as relevant",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "what is to be assessed o how assessment is to take place o where assessment is to take place o when assessment is to take place",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Other relevant information: what, how, where and when assessment takes place."
+        }
+      ],
+      "title": "Assessment plan includes",
+      "title_bn": "Plan-এ থাকে"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "The program's learning outcomes should align with the program's objectives",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The program's learning outcomes align with the program's objectives."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "Multiple methods of assessment should be used including both direct and indirect methods",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Multiple methods are used, both direct and indirect."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "Trainer should be very involved in the process of assessing trainee learning",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The trainer is very involved in assessing trainee learning."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 45,
+              "printedPage": 45,
+              "quote": "Assessment results should inform improvement in designing of future assessment events",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Results inform improvement in designing future assessment events."
+        }
+      ],
+      "title": "An effective plan",
+      "title_bn": "কার্যকর plan"
+    },
+    "title": "What a plan includes vs what makes it effective",
+    "title_bn": "Plan-এ কী থাকে বনাম ভালো plan-এর বৈশিষ্ট্য"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

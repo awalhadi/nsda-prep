@@ -32,10 +32,73 @@
     "bn": "গত বছরের দুর্ঘটনার রেকর্ড আর trainee-দের রিপোর্ট দুটোই hazard খোঁজার উৎস।",
     "en": "An electrical workshop looks at last year's accidents. Trainees also report a broken socket. Both are sources for hazard identification."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 8,
+            "quote": "A hazard is anything that is a threat to health and safety in an organization.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "A hazard is anything that is a threat to health and safety in an organization."
+      },
+      "kind": "qa",
+      "outline": [
+        "c03-p8-identifying-hazards"
+      ],
+      "q": "What is a hazard, as used for identifying hazards?",
+      "q_bn": "Hazard identification-এ hazard বলতে কী বোঝায়?",
+      "tip": "A hazard includes processes and procedures, not just equipment or materials.",
+      "tip_bn": "Hazard শুধু যন্ত্র বা material নয়, কাজের process ও procedure-ও hazard হতে পারে।"
+    },
+    {
+      "bn": [
+        "Hazard খোঁজা শুধু safety officer-এর কাজ নয়; সবার অংশগ্রহণ লাগে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "everybody has to",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "contribute to finding hazards at his or her workplace.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Everybody has to contribute to finding hazards at his or her workplace."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p8-identifying-hazards",
+        "c03-p8-identification-sources"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "hazard-identification-sources",
   "importance": {
-    "bn": "Unit 02 Short Questions (Short 2) আর Short Questions (Short 76): 2 জায়গায় এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "bn": "Unit 02 Short Questions (Short 2) আর Short Questions (Short 76): 2 জায়গায় এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
     "en": "Asked in Unit 02 Short Questions (Short 2) and Short Questions (Short 76). Highlighted in CBLM 3. Comes as short question."
   },
   "keywords": [
@@ -157,7 +220,17 @@
         "fidelity": "verbatim",
         "text": "Advice from legislation, standards, checklists or external consultants"
       }
-    ]
+    ],
+    "itemsBn": [
+      "আগের incidents ও accidents — আগে কী ঘটেছিল দেখে বোঝা যায় কোথায় বিপদ আছে।",
+      "কর্মীদের মতামত (input by employees) — যারা প্রতিদিন কাজ করে, তারাই বিপদ সবচেয়ে কাছ থেকে দেখে।",
+      "কাজের জায়গা সরেজমিনে দেখা (examining workplaces) — ঘুরে দেখলে চোখে পড়া hazards ধরা পড়ে।",
+      "Equipment ও materials-এর safety instruction পড়ে দেখা — নির্দেশনায় থাকা সতর্কতা থেকে hazard জানা যায়।",
+      "সৃজনশীল চিন্তা, যেমন brainstorming — সবাই মিলে ভাবলে লুকানো hazard-ও বের হয়ে আসে।",
+      "Legislation, standards, checklists বা বাইরের consultants-এর পরামর্শ — এসব উৎস থেকে বাদ পড়া hazard ধরা যায়।"
+    ],
+    "title": "Sources for hazard identification",
+    "titleBn": "Hazard identification-এর উৎস"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -407,7 +480,7 @@
   ],
   "score": 7,
   "sourceType": "cblm",
-  "stars": 2,
+  "stars": 3,
   "status": "draft",
   "title": "Sources for Hazard Identification",
   "traps": [
@@ -457,6 +530,7 @@
       "text": "In some countries, employers must legally consult their employees."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

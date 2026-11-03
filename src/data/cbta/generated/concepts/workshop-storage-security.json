@@ -38,6 +38,453 @@
     "bn": "Thinner-এর মতো flammable জিনিস fireproof cabinet-এ রাখতে হয়।",
     "en": "In a chemistry lab, thinner is kept in a fireproof cabinet. A fire extinguisher hangs nearby."
   },
+  "extra": [
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Flammable and poisonous materials should be labeled and kept in storage areas that",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "are lockable and have adequate ventilation.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Flammable and poisonous materials are labeled and kept in lockable, ventilated storage areas."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "The shelf life of the items must be",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "indicated clearly.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The shelf life of the items must be indicated clearly."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Racks in each store should be fixed, and warning signs depicting dangers must be",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "prominently displayed.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Racks in each store should be fixed. Warning signs depicting dangers must be prominently displayed."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Dangerous materials must be stored in accordance with local regulations.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Dangerous materials must be stored in accordance with local regulations."
+        }
+      ],
+      "items_bn": [
+        "দাহ্য আর বিষাক্ত জিনিসে label দিন; তালা দেওয়া যায় আর বাতাস চলে এমন জায়গায় রাখুন।",
+        "প্রতিটি জিনিসের shelf life (কতদিন ভালো থাকে) পরিষ্কার লিখে রাখুন।",
+        "Store-এর rack স্থির (fixed) থাকবে; বিপদের warning signs সহজে চোখে পড়বে।",
+        "বিপজ্জনক জিনিস স্থানীয় নিয়ম (local regulations) মেনে রাখুন।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c06-p10-storage-requirements"
+      ],
+      "title": "Storage requirements for dangerous materials (p.10)",
+      "title_bn": "বিপজ্জনক জিনিস রাখার শর্ত"
+    },
+    {
+      "bn": [
+        "দুই ধরনের জিনিসে বিশেষ ব্যবস্থা: দাহ্য (flammable) আর বিষাক্ত (poisonous) — card-এর তুলনা দেখুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "We shall",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "consider two categories of materials that require special storage arrangements.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Flammable materials are easily ignited",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Poisonous materials are substances",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Two categories need special storage: flammable materials and poisonous materials."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p10-flammable-poisonous",
+        "c06-p10-other-storage-space"
+      ]
+    },
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 6,
+                "match": "exact",
+                "page": 10,
+                "printedPage": 10,
+                "quote": "Well-organized open shelving within the workshop area may be adequate for certain",
+                "sourceTitle": "Maintain Training Equipment and Facility",
+                "src": "cblm06"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Well-organized open shelving within the workshop may be adequate for certain items."
+          }
+        ],
+        "title": "Open shelving",
+        "title_bn": "খোলা তাক"
+      },
+      "outline": [
+        "c06-p10-storage-main-aspect"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 6,
+                "match": "exact",
+                "page": 10,
+                "printedPage": 10,
+                "quote": "while secured storage may be necessary for others.",
+                "sourceTitle": "Maintain Training Equipment and Facility",
+                "src": "cblm06"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Secured storage may be necessary for others."
+          }
+        ],
+        "title": "Secured storage",
+        "title_bn": "তালাবদ্ধ store"
+      },
+      "title": "Open shelving vs secured storage (p.10)",
+      "title_bn": "খোলা তাক বনাম সুরক্ষিত store"
+    },
+    {
+      "bn": [
+        "Store দামি হোক বা সাধারণ, মূল লক্ষ্য তিনটা: সহজে রাখা-তোলা, stock control আর security।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "storage facilities can vary from the very",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "sophisticated and expensive to very basic.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Storage facilities vary from very sophisticated and expensive to very basic."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "allow easy storage and retrieval, ease of stock control (if applicable) and security.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "allow easy storage and retrieval, ease of stock control (if applicable) and security."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p10-storage-main-aspect"
+      ]
+    },
+    {
+      "bn": [
+        "দুর্ঘটনা হলে দায়িত্বপ্রাপ্ত শিক্ষককে negligence-এর জন্য দায়ী করা হতে পারে — তাই personal risk বেশি গুরুত্বপূর্ণ।",
+        "Workshop-এর equipment-এর হিসাব শিক্ষকের কাছে; ভালো storage থাকলে হারানো কমে আর হিসাব রাখা সহজ হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Protection against personal risk and liability is the more critical of the two, as those",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "responsible for the safety of others could be held liable for negligence",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Protection against personal risk is more critical: those responsible could be held liable for negligence."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Commitment to a well-organized workshop and attention to correct",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "storage will lessen the risk of personal injury.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Commitment to a well-organized workshop and correct storage lessens the risk of personal injury."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Prevention of loss is also essential as most teachers and instructors are in a position",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "of being accountable for their workshop/laboratories and its equipment.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Prevention of loss matters because teachers are accountable for their workshop and its equipment."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Storage of equipment must be such that it eases this burden of responsibility by",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "making control",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "an efficient and not laborious task.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Storage should make control efficient, not laborious."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p10-security"
+      ],
+      "title": "Security: why each reason matters"
+    },
+    {
+      "bn": [
+        "Trainee-রা স্বাধীনভাবে ঢুকতে পারলে store আরও সুরক্ষিত করতে হয় — risk আর loss দুই দিক ভেবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "If free access is anticipated, this will have significant implication on the type of storage that may then",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "be necessary",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "If free access is anticipated, it affects the type of storage needed."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "most technical and vocational",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "areas involve expensive machinery and tools, which often create the potential for",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "personal risk.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Most technical areas have expensive machinery and tools that create personal risk."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p11-access"
+      ],
+      "title": "Access"
+    }
+  ],
   "highlighted": true,
   "id": "workshop-storage-security",
   "importance": {
@@ -152,7 +599,14 @@
         "fidelity": "paraphrase",
         "text": "Storage space for waste materials."
       }
-    ]
+    ],
+    "itemsBn": [
+      "কাজের উপকরণ আর ব্যবহারে শেষ হয়ে যায় এমন জিনিস রাখার জায়গা।",
+      "Tools আর equipment রাখার নির্দিষ্ট জায়গা, যাতে সহজে রাখা ও বের করা যায়।",
+      "Waste materials — বর্জ্য জমিয়ে রাখার আলাদা জায়গা।"
+    ],
+    "title": "Storage space needed in a workshop besides dangerous materials",
+    "titleBn": "বিপজ্জনক জিনিস ছাড়াও workshop-এ যেসব storage space লাগে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -445,6 +899,140 @@
       "text": "Free access without supervision is rarely possible in technical areas."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Flammable materials are easily ignited by external sources, such as sparks or flames",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Easily ignited by external sources, such as sparks or flames."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "must be stored in an indoor fireproof cabinet or room.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Store in an indoor fireproof cabinet or room."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Appropriate,",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "portable fire extinguishers must be provided.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Provide appropriate, portable fire extinguishers."
+        }
+      ],
+      "title": "Flammable materials",
+      "title_bn": "দাহ্য (সহজে আগুন ধরে)"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Poisonous materials are substances that are liable to cause death or serious injury if",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "swallowed, inhaled or come in contact with the skin",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Liable to cause death or serious injury if swallowed, inhaled or on the skin."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "restricted areas that are at least three meters from other dangerous materials and",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Keep in restricted areas at least three meters from other dangerous materials."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "away from sources of ignition or heat",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Adequate fire extinguishers must be provided",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Keep away from ignition or heat. Provide adequate fire extinguishers nearby."
+        }
+      ],
+      "title": "Poisonous materials",
+      "title_bn": "বিষাক্ত (মৃত্যু বা গুরুতর আঘাত)"
+    },
+    "title": "Flammable vs poisonous materials: storage (p.10)",
+    "title_bn": "দাহ্য বনাম বিষাক্ত জিনিস রাখার নিয়ম"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

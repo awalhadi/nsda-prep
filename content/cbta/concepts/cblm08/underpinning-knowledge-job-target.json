@@ -75,6 +75,8 @@
     "bn": "দেয়াল রং করার আগে দেয়াল, brush আর রঙের ধরন জানা হলো underpinning knowledge।"
   },
   "list_answer": {
+    "title": "Job target: must know, should know, could know",
+    "title_bn": "Job target: অবশ্যই জানতে হবে, জানা উচিত, জানলে ভালো",
     "items": [
       {
         "text": "Must know: information, skills or qualities the trainee must have to achieve the learning outcomes.",
@@ -121,6 +123,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "অবশ্যই জানতে হবে — যে তথ্য, skills বা গুণ ছাড়া trainee learning outcomes অর্জন করতে পারবে না।",
+      "জানা উচিত — বাড়তি তথ্য, গুরুত্বপূর্ণ কিন্তু ততটা জরুরি নয়।",
+      "জানলে ভালো — কাজের সাথে সম্পর্কিত অন্য তথ্য, কাজে লাগে কিন্তু অপরিহার্য নয়।"
     ],
     "declaredCount": {
       "n": 3,
@@ -297,5 +304,286 @@
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "table",
+    "title": "Task: Operating an automatic toaster (p.31)",
+    "title_bn": "উদাহরণ: automatic toaster চালানোর task analysis",
+    "columns": [
+      "Element (step)",
+      "Knowledge",
+      "Skills",
+      "Attitudes"
+    ],
+    "rows": [
+      [
+        {
+          "text": "1. Pre-use toaster check",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "1. Pre-use toaster"
+            }
+          ]
+        },
+        {
+          "text": "Effect of using an unsafe toaster",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Effect of using an"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "unsafe toaster"
+            }
+          ]
+        },
+        {
+          "text": "Place in a safe location; check cable for safety; connect to the power supply and turn on.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Place toaster in a"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "safe location"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "cable for safety"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Connect to the power supply and turn on"
+            }
+          ]
+        },
+        {
+          "text": "Choose to accomplish task safely",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Choose to"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "accomplish task"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Check toaster safely"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "2. Use toaster",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "2. Use toaster"
+            }
+          ]
+        },
+        {
+          "text": "Bread suited to toasting; how to turn toaster on; safe handling techniques.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Use types of"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "bread suited to"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "toasting"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "How to turn"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "toaster on"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Safe handling"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "techniques"
+            }
+          ]
+        },
+        {
+          "text": "Place bread in toaster; adjust timer; activate toaster to start; toast bread and remove.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Place bread"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "in toaster (if"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Adjust timer"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Activate"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "toaster to start Toast bread and remove"
+            }
+          ]
+        },
+        {
+          "text": "Willing to use appropriate breads",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Willing to use"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "appropriate breads"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "3. Shut down toaster",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "3.Shut down toaster"
+            }
+          ]
+        },
+        {
+          "text": "How to disconnect from power supply; how to clean.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "disconnect from"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "power supply"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "How to clean"
+            }
+          ]
+        },
+        {
+          "text": "Turn off at power supply; unplug; clean and remove loose objects once cooled down.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Turn off toaster at"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Unplug toaster"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Clean and"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "remove loose"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "(once toaster has cooled down)"
+            }
+          ]
+        },
+        {
+          "text": "Choose to use toaster safely; willing to keep equipment clean.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Choose to use"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "toaster safely"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "Willing to keep"
+            },
+            {
+              "src": "cblm08",
+              "page": 31,
+              "quote": "equipment clean"
+            }
+          ]
+        }
+      ]
+    ]
+  }
 }

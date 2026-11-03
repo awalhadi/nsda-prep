@@ -3,11 +3,11 @@
 
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
-import { Concept, type ConceptT, type CiteT, type ClaimT } from "../../../src/lib/cbta/schema.ts";
+import { Concept, Guide, OutlineFile, type ConceptT, type CiteT, type ClaimT, type GuideT, type OutlineT } from "../../../src/lib/cbta/schema.ts";
 import { assignStars, priorityScore, type PrioritySignals, type Stars } from "../../../src/lib/cbta/priority.ts";
 import { importanceReason } from "../../../src/lib/cbta/importance.ts";
 import { canonicalJson, sha256 } from "./canonical-json.ts";
-import { checkConcept, type CiteResult, type Issue } from "./checks.ts";
+import { checkConcept, checkGuide, type CiteResult, type GuideCheck, type Issue } from "./checks.ts";
 import { loadEvidence, printedPage, type EvQuestion, type Evidence } from "./evidence.ts";
 import { contentHash, effectiveStatus, evidenceHash, loadLedger, type EffectiveStatus, type Ledger } from "./ledger.ts";
 import { ROOT } from "./raw.ts";
@@ -17,6 +17,14 @@ import { normalizeForMatch } from "./normalize.ts";
 
 export const CONCEPTS_DIR = join(ROOT, "content/cbta/concepts");
 export const GENERATED_DIR = join(ROOT, "src/data/cbta/generated");
+export const GUIDES_DIR = join(ROOT, "content/cbta/guides");
+export const OUTLINE_DIR = join(ROOT, "content/cbta/authoring/outline");
+
+export interface GuideResult extends GuideCheck {
+  cblm: number;
+  file: string;
+  guide: GuideT | null;
+}
 
 export interface Erratum {
   id: string;
@@ -53,6 +61,7 @@ export interface ConceptResult {
 
 export interface BuildResult {
   results: ConceptResult[];
+  guides: GuideResult[];
   globalIssues: Issue[];
   outputs: Map<string, string>;
   coverage: { src: string; cblm: number; total: number; covered: number; uncovered: string[] }[];
@@ -67,6 +76,7 @@ export interface BuildOptions {
   requireApproved?: string[];
   ledger?: Ledger;
   conceptsDir?: string;
+  guidesDir?: string;
   evidence?: Evidence;
 }
 
@@ -124,6 +134,20 @@ function enrichCite(ev: Evidence, results: CiteResult[], cite: CiteT) {
 
 function enrichClaim(ev: Evidence, results: CiteResult[], c: ClaimT) {
   return { ...c, cites: c.cites.map((x) => enrichCite(ev, results, x)) };
+}
+
+/** Deep copy of a guide/visual value with every cite enriched (claims and stand-alone cites). */
+function enrichDeep(ev: Evidence, results: CiteResult[], v: unknown): unknown {
+  if (Array.isArray(v)) return v.map((x) => enrichDeep(ev, results, x));
+  if (!v || typeof v !== "object") return v;
+  if ("src" in v && "page" in v && "quote" in v) return enrichCite(ev, results, v as CiteT);
+  return Object.fromEntries(Object.entries(v).map(([k, x]) => [k, enrichDeep(ev, results, x)]));
+}
+
+/** Outline file for a CBLM, or null when none is written yet. */
+export function loadOutline(cblm: number, dir = OUTLINE_DIR): OutlineT | null {
+  const p = join(dir, `cblm${String(cblm).padStart(2, "0")}.json`);
+  return existsSync(p) ? OutlineFile.parse(readJson(p)) : null;
 }
 
 export function realQuestion(ev: Evidence, id: string) {
@@ -271,6 +295,19 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
     };
   });
 
+  // ---------- study guides ----------
+  const cardCblm = new Map(results.filter((r) => r.concept).map((r) => [r.id, r.concept!.cblmPrimary]));
+  const guides: GuideResult[] = walkJson(opts.guidesDir ?? GUIDES_DIR).sort().map((file) => {
+    const rel = relative(ROOT, file);
+    const parsed = Guide.safeParse(readJson<unknown>(file));
+    if (!parsed.success) return {
+      cblm: Number(/cblm(\d+)/.exec(file)?.[1] ?? 0), file: rel, guide: null, cites: [], outline: null,
+      issues: parsed.error.issues.map((i) => ({ level: "error" as const, code: "schema", path: i.path.join("."), message: i.message })),
+    };
+    const g = parsed.data;
+    return { cblm: g.cblm, file: rel, guide: g, ...checkGuide(g, ev, cardCblm, loadOutline(g.cblm)) };
+  });
+
   // ---------- coverage ----------
   const coveredIds = new Set([...results.flatMap((r) => r.concept?.covers ?? []), ...[...links.passages.values()].flat()]);
   const coverage = [...ev.passagesBySrc].map(([src, ps]) => ({
@@ -303,6 +340,7 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
   // ---------- outputs ----------
   const contentVersion = sha256(canonicalJson({
     concepts: results.map((r) => [r.id, r.hashes.content, r.hashes.evidence, r.status]),
+    guides: guides.map((g) => sha256(canonicalJson(g.guide))),
     evidence: readFileSync(join(ROOT, "content/cbta/evidence/summary.json"), "utf8"),
     errata,
   })).slice(0, 12);
@@ -321,6 +359,32 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
       asked: r.concept!.questions.length, types: r.likelyTypes,
     })),
   });
+  // Topic list per CBLM, in CBLM order. From the study guide when there is one;
+  // otherwise cards ordered by their first cited page, grouped by Information Sheet.
+  const topicGroups = (cblm: number, src: string) => {
+    const g = guides.find((x) => x.cblm === cblm && x.guide)?.guide;
+    if (g) return g.sections.map((s) => ({
+      label: s.label, title: s.title, title_bn: s.title_bn,
+      topics: s.topics.map((t) => ({
+        id: t.id, concept: t.concept ?? null,
+        title: t.title ?? valid.find((r) => r.id === t.concept)?.concept!.canonical_title ?? t.id, title_bn: t.title_bn,
+      })),
+    }));
+    const firstPage = (r: ConceptResult) => Math.min(...(r.appearsIn.find((a) => a.src === src)?.pages.map((p) => p.pdf) ?? [9999]));
+    const cards = valid.filter((r) => r.concept!.cblmPrimary === cblm).sort((a, b) => firstPage(a) - firstPage(b) || a.id.localeCompare(b.id));
+    const groups: { label: string; title: string; title_bn: string | null; topics: { id: string; concept: string; title: string; title_bn: null }[] }[] = [];
+    for (const r of cards) {
+      const page = ev.pages.get(src)?.find((p) => p.page === firstPage(r));
+      const sec = page?.section?.match(/^(?:info|job|selfcheck|answerkey)(\d+)$/);
+      const label = sec ? `Information Sheet ${sec[1]}` : "Topics";
+      const title = page?.sectionTitle ?? "";
+      let grp = groups.find((x) => x.label === label);
+      if (!grp) groups.push(grp = { label, title, title_bn: null, topics: [] });
+      grp.topics.push({ id: r.id, concept: r.id, title: r.concept!.canonical_title, title_bn: null });
+    }
+    return groups;
+  };
+
   gen("cblms.json", [...ev.sources.values()].filter((s) => s.kind === "cblm").sort((a, b) => a.cblm! - b.cblm!).map((s) => {
     const cov = coverage.find((c) => c.src === s.id);
     return {
@@ -328,6 +392,11 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
       conceptIds: valid.filter((r) => r.appearsIn.some((a) => a.cblm === s.cblm) || r.concept!.cblmPrimary === s.cblm)
         .sort((a, b) => b.score - a.score || a.id.localeCompare(b.id)).map((r) => r.id),
       highlights: cov?.total ?? 0, covered: cov?.covered ?? 0,
+      groups: topicGroups(s.cblm!, s.id),
+      guide: (() => {
+        const g = guides.find((x) => x.cblm === s.cblm && x.guide);
+        return g ? { sections: g.guide!.sections.length, outline: g.outline ? { total: g.outline.total, covered: g.outline.covered } : null } : null;
+      })(),
     };
   }));
   for (const r of valid) {
@@ -340,8 +409,22 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
       likelyTypes: r.likelyTypes, vivaDerived: true, highlighted: r.signals.highlighted, appearsIn: r.appearsIn,
       oneLineAnswer: ecl(c.one_line_answer), keywords: c.keywords, banglaExplanation: c.bangla_explanation,
       example: c.example, mnemonic: c.mnemonic ?? null,
-      listAnswer: c.list_answer ? { items: c.list_answer.items.map(ecl), declaredCount: c.list_answer.declaredCount?.n ?? null } : null,
+      listAnswer: c.list_answer ? {
+        title: c.list_answer.title ?? null, titleBn: c.list_answer.title_bn ?? null,
+        items: c.list_answer.items.map(ecl), itemsBn: c.list_answer.items_bn ?? [],
+        declaredCount: c.list_answer.declaredCount?.n ?? null,
+      } : null,
       traps: c.traps.map(ecl),
+      visual: c.visual ? enrichDeep(ev, r.cites, c.visual) : null,
+      extra: (() => {
+        // Guide blocks shown under the card, minus lists/flows that only repeat the card's own list or picture.
+        const own = new Set([...(c.list_answer?.items ?? []), ...(c.visual?.kind === "steps" ? c.visual.items : [])].map((x) => normalizeForMatch(x.text)));
+        const repeats = (b: { kind: string; items?: ClaimT[] }) =>
+          (b.kind === "steps" || b.kind === "list") && !!b.items?.length && b.items.every((x) => own.has(normalizeForMatch(x.text)));
+        for (const gr of guides) for (const sec of gr.guide?.sections ?? []) for (const t of sec.topics)
+          if (t.concept === r.id) return enrichDeep(ev, gr.cites, t.blocks.filter((b) => !repeats(b)));
+        return [];
+      })(),
       practice: {
         short: { ...c.practice.short, keyPoints: c.practice.short.keyPoints.map(ecl) },
         mcq: { ...c.practice.mcq, answerCite: ec(c.practice.mcq.answerCite) },
@@ -352,6 +435,21 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
       errata: errata.filter((e) => e.status === "confirmed" && e.conceptIds.includes(r.id)),
       openChecks: c.checks.length,
       warnings: r.issues.filter((i) => i.level === "warn").length,
+    });
+  }
+
+  for (const gr of guides) {
+    if (!gr.guide) continue;
+    const g = gr.guide;
+    const enriched = enrichDeep(ev, gr.cites, g) as Record<string, unknown>;
+    gen(`guides/cblm${String(g.cblm).padStart(2, "0")}.json`, {
+      ...enriched,
+      selfChecks: g.selfChecks.map((sc, i) => ({
+        ...(enriched.selfChecks as Record<string, unknown>[])[i],
+        real: realQuestion(ev, sc.question),
+      })),
+      outline: gr.outline,
+      warnings: gr.issues.filter((i) => i.level === "warn").length,
     });
   }
 
@@ -384,6 +482,7 @@ export function runBuild(opts: BuildOptions = {}): BuildResult {
   outputs.set(join(ROOT, "docs/plan/PATTERN_ANALYSIS.md"), renderPatternAnalysis(ev, results));
 
   const errorCount = globalIssues.filter((i) => i.level === "error").length +
-    results.reduce((s, r) => s + r.issues.filter((i) => i.level === "error").length, 0);
-  return { results, globalIssues, outputs, coverage, contentVersion, errorCount };
+    results.reduce((s, r) => s + r.issues.filter((i) => i.level === "error").length, 0) +
+    guides.reduce((s, g) => s + g.issues.filter((i) => i.level === "error").length, 0);
+  return { results, guides, globalIssues, outputs, coverage, contentVersion, errorCount };
 }

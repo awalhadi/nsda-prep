@@ -32,6 +32,38 @@
     "bn": "খাদ্য কারখানায় OSH assess করতে food industry standards-ই benchmark।",
     "en": "To assess OSH practices in a food factory, the assessor consults the food industry standards."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "The benchmark is the Industry Competency Standards from the relevant industry",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "The benchmark is the Industry Competency Standards from the relevant industry"
+      },
+      "concept": "assessment-benchmark",
+      "example": {
+        "bn": "যে industry, সেই industry-র competency standard।",
+        "en": "To assess OSH practice in a bakery, consult the food industry standards."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p17-benchmark"
+      ],
+      "q": "What is the benchmark for assessment?",
+      "q_bn": "Assessment-এর benchmark কী?",
+      "tip": "Benchmark = Industry Competency Standards.",
+      "tip_bn": "Benchmark = যার সাথে মিলিয়ে বিচার করবে।"
+    }
+  ],
   "highlighted": true,
   "id": "assessment-benchmark",
   "importance": {
@@ -253,6 +285,7 @@
       "text": "Use the standards of the relevant industry, e.g. food industry standards for food OSH."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

@@ -74,6 +74,8 @@
     "explain_bn": "প্রতিটি অক্ষর একটি stage-এর প্রথম শব্দ, উপর থেকে নিচে ক্রমে।"
   },
   "list_answer": {
+    "title": "Stages of competency based assessment",
+    "title_bn": "Competency based assessment-এর ধাপ",
     "items": [
       {
         "text": "Prepare candidates and administrate self assessment instruments",
@@ -142,6 +144,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Candidate-কে প্রস্তুত করা আর self assessment instruments পূরণ করানো, যাতে সে নিজেই বোঝে প্রস্তুত কি না।",
+      "Assessment instruments ব্যবহার করে assessment event চালানো আর evidence সংগ্রহ করা।",
+      "সংগৃহীত evidence দেখে সিদ্ধান্ত নেওয়া — candidate competent কি না।",
+      "সিদ্ধান্তের পর candidate-কে feedback দেওয়া — আগে decision, তারপর feedback।",
+      "Assessment outcomes লিখে রাখা আর BTEB-কে report করা।",
+      "শেষে পুরো assessment process review করা, যাতে পরেরবার আরও ভালো হয়।"
     ]
   },
   "traps": [
@@ -168,6 +178,87 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "Six stages of competency based assessment (p.7)",
+    "title_bn": "Competency assessment-এর ছয়টি ধাপ",
+    "items": [
+      {
+        "text": "Prepare candidates and administrate self assessment instruments",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Prepare candidates and administrate self assessment instruments"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Collect evidence/conduct assessment event using assessment tool/instruments",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Collect evidence/conduct assessment event using assessment tool/instruments"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Make assessment decision",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Make assessment decision"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Provide feedback to candidate",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Provide feedback to candidate"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Record and report assessment outcomes to BTEB",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Record and report assessment outcomes to BTEB"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Review assessment process",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 7,
+            "quote": "Review assessment process"
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "labels_bn": [
+      "Candidate-কে প্রস্তুত করা আর self assessment instruments পূরণ করানো, যাতে সে নিজেই বোঝে প্রস্তুত কি না।",
+      "Assessment instruments ব্যবহার করে assessment event চালানো আর evidence সংগ্রহ করা।",
+      "সংগৃহীত evidence দেখে সিদ্ধান্ত নেওয়া — candidate competent কি না।",
+      "সিদ্ধান্তের পর candidate-কে feedback দেওয়া — আগে decision, তারপর feedback।",
+      "Assessment outcomes লিখে রাখা আর BTEB-কে report করা।",
+      "শেষে পুরো assessment process review করা, যাতে পরেরবার আরও ভালো হয়।"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Outline the stages of competency assessment.",

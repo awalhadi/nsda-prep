@@ -32,6 +32,162 @@
     "bn": "ওয়েল্ডিং ওয়ার্কশপে assessor কাজ দেখে, criteria-র সাথে মিলিয়ে সিদ্ধান্ত ও feedback দেন।",
     "en": "In a welding workshop, the assessor watches a candidate weld a joint. He checks the work against the performance criteria. He decides the candidate is competent. Then he gives constructive feedback."
   },
+  "extra": [
+    {
+      "bn": [
+        "বাজারে পাকা ফল বাছাই করাও এক ধরনের assessment; তবে পেশাগত assessment-এ ফলাফল মানুষের জীবনে বড় প্রভাব ফেলে।",
+        "ফলাফল যত গুরুত্বপূর্ণ, assessment-এ তত বেশি যত্ন লাগে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "People make many assessment in their daily lives-selecting fresh ripe fruit,",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "People make many assessments daily, like selecting fresh ripe fruit."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "How much care we",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "take when making assessment often depends on how important we think the",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "outcome of the assessment is",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "How much care we take depends on how important the outcome is."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p8-preparing-candidates-heading",
+        "c12-p8-preparing-environment"
+      ],
+      "title": "Preparing the assessment environment"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "the duties and responsibilities of an assessor",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "the duties and responsibilities of an assessor"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "approaches and purposes of assessment methods and techniques",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "approaches and purposes of assessment methods and techniques"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "planning and organizing assessment",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "planning and organizing assessment"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "recording of results and",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "recording of results"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "reviewing of assessment methods and processes",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "reviewing of assessment methods and processes"
+        }
+      ],
+      "items_bn": [
+        "Assessor-এর কাজ ও দায়িত্ব কী কী।",
+        "Assessment methods আর techniques-এর approach ও purpose কী।",
+        "Assessment-এর পরিকল্পনা ও আয়োজন কীভাবে করতে হয়।",
+        "ফলাফল কীভাবে record করতে হয়।",
+        "Assessment methods আর processes কীভাবে review করতে হয়।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c12-p8-assessor-familiarize"
+      ],
+      "title": "What an assessor should also be familiar with",
+      "title_bn": "আরও যা জানতে হবে"
+    }
+  ],
   "highlighted": true,
   "id": "assessor-role",
   "importance": {
@@ -172,7 +328,18 @@
         "fidelity": "verbatim",
         "text": "Provide constructive feedback to the candidates"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Assessment-এর criteria ঠিকভাবে বুঝে ব্যাখ্যা করা, যাতে কী মাপা হবে তা পরিষ্কার থাকে।",
+      "যে technical area-য় assessment করছেন, সেখানে নিজের উঁচু মানের knowledge, skills ও attitudes থাকা।",
+      "Candidate-এর সাথে ভালোভাবে কাজ করতে দরকারি interpersonal skills দেখানো।",
+      "পরিস্থিতি অনুযায়ী উপযুক্ত assessment techniques প্রয়োগ করা।",
+      "Candidate যে evidence দিয়েছে তা যথেষ্ট (sufficient) কি না নিশ্চিত করা।",
+      "পক্ষপাতহীন (impartial) সিদ্ধান্ত দেওয়া, কারণ এই সিদ্ধান্ত candidate-এর ওপর বড় প্রভাব ফেলে।",
+      "শুধু রায় নয়, candidate-কে গঠনমূলক (constructive) feedback দেওয়া, যাতে সে উন্নতি করতে পারে।"
+    ],
+    "title": "What an assessor of competency must be able to do",
+    "titleBn": "Competency assessor-কে যা যা পারতে হবে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -444,6 +611,7 @@
       "text": "Judgment must be impartial. Feedback must be constructive."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

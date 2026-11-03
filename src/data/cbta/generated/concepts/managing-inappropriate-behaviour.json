@@ -33,6 +33,43 @@
     "bn": "দুই trainee মেশিন নিয়ে ঝগড়া করলে trainer দুজনের সাথে কথা বলে, সমাধান বের করে, agreement করায়।",
     "en": "Two trainees argue loudly over a machine. The trainer talks with both, finds options and gets an agreement."
   },
+  "extra": [
+    {
+      "bn": [
+        "Bullying থেকে শুরু করে safety instructions না মানা — সাতটি উদাহরণ card-এ আছে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 49,
+              "printedPage": 49,
+              "quote": "Something that you will not always anticipate (but you must always be aware of) is",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 49,
+              "printedPage": 49,
+              "quote": "inappropriate behaviour from learners.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "You will not always anticipate inappropriate behaviour, but you must always be aware of it."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p49-inappropriate-behaviour"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "managing-inappropriate-behaviour",
   "importance": {
@@ -175,7 +212,18 @@
         "fidelity": "verbatim",
         "text": "violent or inappropriate language."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Bullying — অন্য learner-কে ভয় দেখানো বা হয়রানি করা।",
+      "Disruptive behaviour — এমন আচরণ যা ক্লাসের কাজে বিঘ্ন ঘটায়।",
+      "Dominant বা overbearing behaviour — নিজের মত চাপিয়ে দেওয়া, অন্যদের জায়গা না দেওয়া।",
+      "অন্য learners বা trainer-এর প্রতি কথায় বা শারীরিকভাবে অসংবেদনশীল (insensitive) আচরণ।",
+      "Safety instructions না মানা — নিরাপত্তার নির্দেশ অমান্য করা।",
+      "Verbal বা physical abuse — কথায় গালাগাল করা বা শারীরিকভাবে আঘাত করা।",
+      "Violent বা inappropriate language — হিংস্র বা অশোভন ভাষা ব্যবহার করা।"
+    ],
+    "title": "Examples of inappropriate learner behaviour",
+    "titleBn": "Learner-এর inappropriate behaviour-এর উদাহরণ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -467,6 +515,7 @@
       "text": "Early intervention is the key to success."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

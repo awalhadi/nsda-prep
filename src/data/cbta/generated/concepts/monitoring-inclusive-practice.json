@@ -1,7 +1,6 @@
 {
   "aliases": [
     "How will you monitor and improve inclusive work practices?",
-    "Reflective practice",
     "Reviewing strategies and policies to support inclusivity"
   ],
   "appearsIn": [
@@ -41,6 +40,104 @@
     "bn": "প্রতিটি batch শেষে trainer colleagues-এর সাথে সমস্যা নিয়ে আলোচনা করেন, পরিবর্তন লিখে principal-কে report করেন।",
     "en": "After each batch, a trainer discusses problems with colleagues. She records a change and reports it to the principal."
   },
+  "extra": [
+    {
+      "bn": [
+        "Strategies ও policies নিয়মিত review করা প্রতিষ্ঠানের continuous improvement-এর অংশ।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "It is imperative that you regularly review the strategies and policies that you",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "assessment institution's continuous improvement processes.",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Regularly review strategies and policies as part of continuous improvement processes."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c02-p27-monitoring",
+        "c02-p27-reviewing-strategies"
+      ]
+    },
+    {
+      "bn": [
+        "পরিবর্তনের প্রস্তাব লিখে higher management-কে জানাতে হয়; staff meeting-এ Continuous Improvement Register নিয়ে আলোচনা হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "any changes proposed to the strategies and policies",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "that support inclusivity must be documented and reported to higher management.",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Document proposed policy changes and report them to higher management."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "ensure the Continuous Improvement Register is",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "discussed at all staff meetings",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Discuss the Continuous Improvement Register at all staff meetings."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c02-p27-documenting-reporting"
+      ],
+      "title": "Documenting and reporting policy changes"
+    }
+  ],
   "highlighted": true,
   "id": "monitoring-inclusive-practice",
   "importance": {
@@ -130,7 +227,14 @@
         "fidelity": "verbatim",
         "text": "Documenting and reporting policy changes"
       }
-    ]
+    ],
+    "itemsBn": [
+      "নিজের work practices চিহ্নিত করা, বদলানো ও উন্নত করা — যাতে inclusivity আরও বাড়ে।",
+      "Inclusivity-র জন্য strategies ও policies review করা — কোনটা কাজ করছে আর কোনটা বদলাতে হবে বোঝা যায়।",
+      "Policy changes লিখে রাখা ও reporting করা — যাতে সংশ্লিষ্ট সবাই পরিবর্তনের কথা জানতে পারে।"
+    ],
+    "title": "Ways to monitor and improve inclusive work practices",
+    "titleBn": "Inclusive work practices monitor ও উন্নত করার উপায়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -457,6 +561,7 @@
       "text": "Review strategies and policies regularly, as part of continuous improvement processes."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

@@ -76,6 +76,8 @@
     "explain_bn": "শুরুতে মনোযোগ, মাঝে শেখানো আর practice, শেষে assess আর মনে রাখা — এই ক্রমে মনে রাখুন।"
   },
   "list_answer": {
+    "title": "Gagné's steps for writing learning materials",
+    "title_bn": "Learning materials লেখার জন্য Gagné-এর ধাপসমূহ",
     "items": [
       {
         "text": "Gain Attention: to orientate and motivate the learner.",
@@ -209,6 +211,17 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "মনোযোগ আকর্ষণ — learner-কে বিষয়ের দিকে ফিরিয়ে আনা আর আগ্রহী (motivate) করা।",
+      "লক্ষ্য জানানো — কী শিখবে তা আগে বললে learner নিজের চিন্তা গুছিয়ে নিতে পারে।",
+      "আগের জ্ঞান মনে করানো — বড়রা জানা জিনিসের সাথে নতুনকে মিলিয়ে শেখে।",
+      "বিষয় উপস্থাপন — এমনভাবে দেওয়া, যাতে সহজে বোঝা ও হজম করা যায়।",
+      "শেখার পথ দেখানো — নতুন তথ্যকে আগের জ্ঞানের সাথে জুড়তে সাহায্য করা।",
+      "করে দেখানোর সুযোগ — নিরাপদে practice করার সুযোগ দেওয়া।",
+      "Feedback দেওয়া — ঠিক হলে শেখাটা পাকা করা, ভুল হলে শুধরে দেওয়া।",
+      "Performance যাচাই — assessment-এর মাধ্যমে learner নিজের সাফল্যের স্বীকৃতি পায়।",
+      "মনে রাখা ও কাজে লাগানো — যা শিখল তা কীভাবে প্রয়োগ করবে, learner-কে তার plan করতে উৎসাহ দেওয়া।"
     ]
   },
   "traps": [
@@ -371,5 +384,122 @@
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "steps",
+    "title": "Gagné's nine steps in order (p.19)",
+    "title_bn": "Gagné-এর ৯টি ধাপ — ক্রম মনে রাখুন",
+    "items": [
+      {
+        "text": "Gain Attention",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 19,
+            "quote": "Gain Attention - to orientate and motivate the learner"
+          }
+        ]
+      },
+      {
+        "text": "Inform Learners of Objectives",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 19,
+            "quote": "Inform Learners of Objectives - to guide learners and to assist them to"
+          }
+        ]
+      },
+      {
+        "text": "Stimulate Recall of Prior Knowledge",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 19,
+            "quote": "Stimulate Recall of Prior Knowledge - because adults learn by establishing"
+          }
+        ]
+      },
+      {
+        "text": "Present the material",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 19,
+            "quote": "Present the material - in a way that appeals to the different learning"
+          }
+        ]
+      },
+      {
+        "text": "Provide guidance for learning",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 19,
+            "quote": "Provide guidance for learning - by providing opportunities to integrate new"
+          }
+        ]
+      },
+      {
+        "text": "Elicit performance",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 19,
+            "quote": "Elicit performance by providing safe opportunities to practice"
+          }
+        ]
+      },
+      {
+        "text": "Provide feedback",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 19,
+            "quote": "Provide feedback - to reinforce or correct learning"
+          }
+        ]
+      },
+      {
+        "text": "Assess performance",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 19,
+            "quote": "Assess performance - learners should be given the opportunity for"
+          }
+        ]
+      },
+      {
+        "text": "Enhance retention and transfer",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 19,
+            "quote": "Enhance retention and transfer - by encouraging learner to plan the"
+          }
+        ]
+      }
+    ],
+    "labels_bn": [
+      "মনোযোগ আকর্ষণ — শুরুতেই আগ্রহ জাগান।",
+      "লক্ষ্য জানান — কী শিখবে আগে বলুন।",
+      "আগের জ্ঞান মনে করান — নতুনকে পুরনোর সাথে জুড়ুন।",
+      "বিষয় উপস্থাপন — সহজে হজম হয় এমনভাবে।",
+      "শেখার পথ দেখান — নতুন তথ্য পুরনো জ্ঞানের সাথে মেলাতে সাহায্য।",
+      "অনুশীলন করান — নিরাপদ সুযোগ দিন।",
+      "Feedback দিন — ঠিক হলে শক্ত করুন, ভুল হলে শুধরে দিন।",
+      "মূল্যায়ন করুন — সাফল্যের স্বীকৃতি দিন।",
+      "মনে রাখা ও কাজে লাগানো — শেখা কাজে কীভাবে লাগাবে তার plan।"
+    ]
+  }
 }

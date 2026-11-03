@@ -58,6 +58,8 @@
     "bn": "ওয়েল্ডিং trainer practice দেখেন, trainee-কে জিজ্ঞেস করেন, তারপর criteria মিলিয়ে দেখেন।"
   },
   "list_answer": {
+    "title": "Ways to determine learner readiness for assessment",
+    "title_bn": "Learner assessment-এর জন্য ready কিনা বোঝার উপায়",
     "items": [
       {
         "text": "Informally: observe what learners do in classroom activities or a simulation exercise.",
@@ -123,6 +125,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Informal উপায় — ক্লাসের activities বা simulation exercise-এ learner আসলে কী করছে, তা observe করুন।",
+      "Informal উপায় — learner-দের নিজেদের জিজ্ঞেস করুন assessment দিতে তারা কতটা confident বোধ করছে।",
+      "Informal উপায় — learner-এর performance কোন standard-এ আছে, তা দেখায় এমন নির্দিষ্ট data সংগ্রহ করুন।",
+      "Formal উপায় — learning outcomes আর assessment criteria review করে দেখুন learner প্রয়োজনীয় standard-এ পৌঁছেছে কিনা।"
     ]
   },
   "traps": [
@@ -159,6 +167,98 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Informal vs formal ways to determine readiness",
+    "title_bn": "প্রস্তুতি যাচাই: informal বনাম formal",
+    "left": {
+      "title": "Informal",
+      "title_bn": "Informal: অনানুষ্ঠানিক",
+      "points": [
+        {
+          "text": "Observe what learners do in classroom activities or a simulation exercise.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 59,
+              "quote": "Informally, the teacher/trainer can monitor the learner's readiness by observing what"
+            },
+            {
+              "src": "cblm10",
+              "page": 59,
+              "quote": "they actually do either during classroom activities or in a simulation exercise"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Ask learners how confident they feel about their skill level.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 59,
+              "quote": "asking for feedback from the learners themselves on how confident they feel"
+            },
+            {
+              "src": "cblm10",
+              "page": 59,
+              "quote": "about their skill level"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Gather specific data on the learner's performance standard.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 59,
+              "quote": "gathering specific data which reflects the learner's performance standard"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Formal",
+      "title_bn": "Formal: আনুষ্ঠানিক",
+      "points": [
+        {
+          "text": "Review the learning outcomes and assessment criteria.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 59,
+              "quote": "Formally, the teacher/trainer needs to review the learning outcomes and assessment"
+            },
+            {
+              "src": "cblm10",
+              "page": 59,
+              "quote": "criteria"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Determine whether the learner has achieved the required standard to be assessed.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 59,
+              "quote": "to determine whether the learner has achieved the required standard to be"
+            },
+            {
+              "src": "cblm10",
+              "page": 59,
+              "quote": "assessed."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "How do you determine that learners are ready for assessment?",

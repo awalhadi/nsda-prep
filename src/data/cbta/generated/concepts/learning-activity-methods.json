@@ -44,6 +44,957 @@
     "bn": "দেরিতে shipment যাওয়ার একটা case study দিয়ে শিক্ষার্থীদের সমস্যা সমাধান করতে দেওয়া।",
     "en": "A garments trainer gives a case study about a late shipment. Learners solve the problem."
   },
+  "extra": [
+    {
+      "bn": [
+        "নানা রকম activity থাকলে সব ধরনের learner যুক্ত থাকে — তাই বাছাই ও ক্রম দুটোই জরুরি।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Careful selection and sequencing of learning",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "activities and methods is fundamental",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Careful selection and sequencing of activities and methods is fundamental."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p20-choosing-methods"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "The way data is organized and stored on a hard drive is like how we store hard",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "stored in folders, just",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "like we do in filing cabinets.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Data on a hard drive is stored like files in folders and filing cabinets."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Organizations resist change in much the same way as a thermostat regulates the",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "temperature in a room.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "maintain a steady temperature",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Organizations resist change like a thermostat keeps a steady room temperature."
+        }
+      ],
+      "items_bn": [
+        "Hard drive-এ data রাখা অফিসের folder আর filing cabinet-এ কাগজ রাখার মতো।",
+        "প্রতিষ্ঠান পরিবর্তন ঠেকায়, যেমন thermostat ঘরের তাপমাত্রা একই রাখে।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c08-p20-analogies"
+      ],
+      "title": "Analogies: examples",
+      "title_bn": "Analogy-র দুটি উদাহরণ"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Making sure they are as realistic as possible for the learners",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Making sure they are as realistic as possible for the learners"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Getting the right balance of complexity for the learners needs",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Getting the right balance of complexity for the learners needs"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Ensuring enough background information about the characters, environment",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "and the issues or problems is provided",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Ensuring enough background information about the characters, environment and the issues or problems"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Being specific about the problem to be analyzed or resolved",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Being specific about the problem to be analyzed or resolved"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Providing very clear instructions to the learners",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Providing very clear instructions to the learners"
+        }
+      ],
+      "items_bn": [
+        "যতটা সম্ভব বাস্তব (realistic) করুন।",
+        "জটিলতা learner-এর প্রয়োজন মতো — খুব সহজও না, খুব কঠিনও না।",
+        "চরিত্র, পরিবেশ আর সমস্যার যথেষ্ট পটভূমি দিন।",
+        "কোন সমস্যা বিশ্লেষণ বা সমাধান করতে হবে, স্পষ্ট বলুন।",
+        "Learner-দের খুব পরিষ্কার নির্দেশনা দিন।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c08-p20-case-studies"
+      ],
+      "title": "Key issues to keep in mind in developing or selecting case studies",
+      "title_bn": "Case study বানানো বা বাছাইয়ের ৫টি মূল বিষয়"
+    },
+    {
+      "bn": [
+        "ছোট scenario: 'এই পরিস্থিতিতে আপনি কী করবেন?' — learner নিজে সমাধান ভাবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "You can also use short scenarios to provide learners with the opportunity of solving issues.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Short scenarios give learners the opportunity of solving issues."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p20-case-studies"
+      ]
+    },
+    {
+      "bn": [
+        "Word, Excel, Powerpoint দিয়ে সহজেই chart ও diagram বানানো যায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Modern software packages (eg Word, Excel, Powerpoint) enable us",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "to quickly produce graphics, such as bar and pie charts, and detailed diagrams.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Software like Word, Excel and Powerpoint quickly produces bar and pie charts and diagrams."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p21-charts-diagrams"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "At the end of a topic as a reminder and self affirmation by the learner of the",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "key points",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "At the end of a topic, as a reminder of key points"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "For use in there workplace as a job aide",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "For use in there workplace as a job aide"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "To provide the learner with a method of determining if they are ready for",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "assessment",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "To let the learner determine if they are ready for assessment"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "At the start of a topic to gain a learners attention",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "At the start of a topic to gain a learners attention"
+        }
+      ],
+      "items_bn": [
+        "Topic শেষে মূল পয়েন্ট মনে করিয়ে দেয়।",
+        "কর্মক্ষেত্রে job aid হিসেবে কাজে লাগে।",
+        "Learner বুঝতে পারে assessment-এর জন্য প্রস্তুত কিনা।",
+        "Topic-এর শুরুতে মনোযোগ আকর্ষণ করে।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c08-p21-checklists"
+      ],
+      "title": "Purposes of checklists",
+      "title_bn": "Checklist-এর ৪টি ব্যবহার"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "They should be relevant to their needs and work situation",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "They should be relevant to their needs and work situation"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "The easiest way to create your own is to mimic the format and character of",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "existing games and simulations",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Mimic the format and character of existing games and simulations"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Modifying existing games and simulations to meet your needs",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Modifying existing games and simulations to meet your needs"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Starting with fun or contrived games and moving and following with more",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "serious, less contrived games later",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Start with fun or contrived games, then more serious, less contrived games later"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Make sure your instructions are well thought out and clearly communicated",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Make sure your instructions are well thought out and clearly communicated"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Make sure you provide adequate opportunities to discuss or reflect on what",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "happened and what was (or could be) learnt",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Provide adequate opportunities to discuss or reflect on what was learnt"
+        }
+      ],
+      "items_bn": [
+        "Learner-এর প্রয়োজন ও কাজের পরিস্থিতির সাথে প্রাসঙ্গিক হতে হবে।",
+        "নিজে বানাতে চাইলে পরিচিত game-এর ধরন নকল করুন (যেমন Monopoly)।",
+        "Existing game নিজের প্রয়োজনে বদলে নিন।",
+        "আগে মজার সহজ game, পরে গুরুতর game।",
+        "নির্দেশনা ভালোভাবে ভেবে পরিষ্কার করে দিন।",
+        "শেষে কী হলো, কী শেখা গেল — আলোচনার সুযোগ দিন।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c08-p21-games"
+      ],
+      "title": "Principles for choosing or developing games and simulations (Silberman and Auerbach, 1990)",
+      "title_bn": "Game ও simulation বাছাইয়ের ৬টি নীতি"
+    },
+    {
+      "bn": [
+        "Mind map-এ বিষয়টা মাঝখানে ছবি হিসেবে থাকে, মূল topic-গুলো শাখার মতো চারদিকে ছড়ায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Mind maps are graphical techniques that help us think and remember better,",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "creatively solve problems and take action.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Mind maps help us think and remember better, solve problems and take action."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Some uses included note taking and note",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "making, essay planning and problem solving.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Uses: note taking and note making, essay planning and problem solving."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p21-mind-maps"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "get some plain paper and colour pens or pencils",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "get some plain paper and colour pens or pencils"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Draw your a picture that captures the subject you wish to map",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Draw a picture that captures the subject you wish to map"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Add the branches, and sub branches to portray the topics.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Add the branches and sub branches to portray the topics"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "As thoughts about the subject occur to you add these to the appropriate",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "branch or sub branch",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Add thoughts to the appropriate branch or sub branch"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Use arrows to connect linked ideas",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Use arrows to connect linked ideas"
+        }
+      ],
+      "kind": "steps",
+      "labels_bn": [
+        "সাদা কাগজ আর রঙিন কলম বা পেন্সিল নিন।",
+        "মাঝখানে বিষয়ের একটা ছবি আঁকুন।",
+        "Topic-গুলোর জন্য শাখা ও উপশাখা আঁকুন — শব্দ ও ছবি দুটোই চলে।",
+        "নতুন ভাবনা এলে ঠিক শাখায় যোগ করুন।",
+        "সম্পর্কিত ভাবনা তীর (arrow) দিয়ে যুক্ত করুন।"
+      ],
+      "outline": [
+        "c08-p21-mind-maps"
+      ],
+      "title": "To create a mind map (pp.21-22)",
+      "title_bn": "Mind map বানানোর ৫টি ধাপ"
+    },
+    {
+      "bn": [
+        "Model জটিল ধারণা সহজ করে দেখায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "It is relatively easy to draw these and cut and paste them into your",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "materials.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Models are relatively easy to draw and cut and paste into your materials."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p22-models"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Reliability - striving to eliminate mistakes and errors",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Reliability - striving to eliminate mistakes and errors"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Assurance - demonstrating to clients that they are valued",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Assurance - demonstrating to clients that they are valued"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Tangibles - the concrete things are delivered",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Tangibles - the concrete things are delivered"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Empathy - how well the service provider understood how the other person felt",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Empathy - how well the provider understood how the other person felt"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Responsiveness - were the clients needs dealt with in a timely manner",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Responsiveness - were the clients needs dealt with in a timely manner"
+        }
+      ],
+      "items_bn": [
+        "Reliability — ভুল-ত্রুটি দূর করার চেষ্টা।",
+        "Assurance — client-কে বোঝানো যে তিনি মূল্যবান।",
+        "Tangibles — যে বাস্তব জিনিস দেওয়া হয়।",
+        "Empathy — অন্যের অনুভূতি ও চাওয়া কতটা বোঝা গেল।",
+        "Responsiveness — client-এর প্রয়োজন সময়মতো মেটানো হলো কিনা।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c08-p22-mnemonic-rater"
+      ],
+      "title": "RATER: five factors clients use to rate the quality of service",
+      "title_bn": "RATER: service-এর মান বিচারের ৫টি factor (mnemonic-এর উদাহরণ)"
+    },
+    {
+      "bn": [
+        "গল্প বাস্তব উদাহরণ দেয়; quiz দিলে উত্তরের feedback কত তাড়াতাড়ি দেবেন, তা আগে ঠিক করুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "As the old adage says 'A picture is worth a 1,000 words'.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "'A picture is worth a 1,000 words'."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "It gives you an opportunity to share some of your",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "experiences with the reader",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It gives you an opportunity to share your experiences with the reader."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "important that you consider how timely feedback on the answers will be given",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "For self tests, consider how timely feedback on the answers will be given."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p22-pictures",
+        "c08-p22-stories",
+        "c08-p22-self-tests"
+      ]
+    },
+    {
+      "bn": [
+        "Writing task-এ learner নিজের বোঝাপড়া নিয়ে ভাবে — ছোট প্রশ্নোত্তর থেকে বড় project পর্যন্ত।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "Writing activities can rage from short question and answer tasks, worksheets or",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "through to longer assignments and",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "research projects.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Writing activities range from short question and answer tasks to research projects."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p23-writing-tasks"
+      ]
+    },
+    {
+      "bn": "Answer key-এর Q04 মাঝপথে থেমে গেছে; সংজ্ঞার পর p.20-এর ৫টি key issue লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "apply or consolidate their learnings. Key issues to keep in mind in developing or",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "apply or consolidate their learnings. Key issues to keep in mind in developing or"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "selecting your",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "selecting your"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c08-p20-case-studies",
+        "c08-p35-answer-key-1"
+      ],
+      "text": "Answer Key Q04 stops mid-sentence. Write the definition, then the five key issues from p.20.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "learning-activity-methods",
   "importance": {
@@ -259,7 +1210,23 @@
         "fidelity": "verbatim",
         "text": "Writing Tasks"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Analogies — অজানা বিষয়কে পরিচিত জিনিসের সাথে তুলনা করে বোঝানো।",
+      "Case studies — বাস্তব ঘটনা বিশ্লেষণ করে সমস্যার সমাধান খোঁজা।",
+      "Charts আর diagrams — তথ্য চিত্রে সাজিয়ে সহজে দেখানো।",
+      "Checklists — যাচাই করার সহজ তালিকা।",
+      "Instructional games আর simulations — খেলা বা বাস্তবের নকল পরিবেশে অনুশীলন।",
+      "Mind maps — মাঝখানের একটা ছবি থেকে শাখা বের করে বিষয় সাজানো।",
+      "Models — জটিল ধারণা সহজে বোঝাতে সাহায্য করে।",
+      "Mnemonic aids — মনে রাখতে সাহায্য করার কৌশল।",
+      "Pictures — ছবি দিয়ে বিষয় চোখের সামনে তুলে ধরা।",
+      "Stories — গল্পের মাধ্যমে বাস্তব উদাহরণ দেওয়া।",
+      "Self tests, quizzes আর questionnaires — learner নিজেই যাচাই করে কতটা শিখল।",
+      "Writing tasks — লিখে লিখে শেখার কাজ।"
+    ],
+    "title": "Learning activities and methods for learning materials",
+    "titleBn": "Learning materials-এ ব্যবহারযোগ্য শেখার activities ও methods"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -613,6 +1580,305 @@
       "text": "In a mind map, the subject is a central image. Main topics radiate out on branches."
     }
   ],
+  "visual": {
+    "columns": [
+      "Method",
+      "What it does"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Analogies",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Assist learners to make connections with the materials and what they already know.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Help learners connect the materials with what they already know."
+        }
+      ],
+      [
+        "Case Studies",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Case studies are an excellent way of providing opportunities for analysis of 'real",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "world' situations which pose problems for the learner to solve",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Analysis of 'real world' situations that pose problems for the learner to solve."
+        }
+      ],
+      [
+        "Charts and Diagrams",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Graphics improve the comprehension of underlying principles and maintain a",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "viewer's interest.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Graphics improve the comprehension of underlying principles and maintain interest."
+        }
+      ],
+      [
+        "Checklists",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Checklists are simple tools that can be used for a variety of purposes.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Simple tools that can be used for a variety of purposes."
+        }
+      ],
+      [
+        "Instructional Games and Simulations",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "These can be excellent, and enjoyable, way for learners to become involved in the",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "learning process",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "An enjoyable way for learners to become involved in the learning process."
+        }
+      ],
+      [
+        "Mind Maps",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Mind maps are graphical techniques that help us think and remember better,",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Graphical techniques that help us think and remember better."
+        }
+      ],
+      [
+        "Models",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Models, help us communicate complex ideas in a way that is more easily understood",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "and remembered.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Help communicate complex ideas in a way more easily understood and remembered."
+        }
+      ],
+      [
+        "Mnemonic Aids",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Are used to assist learners in remembering key concepts or principles.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assist learners in remembering key concepts or principles."
+        }
+      ],
+      [
+        "Pictures",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "They can also be very useful in creating context for what is being presented and for",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "assisting learners to anchor the learning.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Useful in creating context for what is presented and assisting learners to anchor the learning."
+        }
+      ],
+      [
+        "Stories",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Are excellent ways of providing real examples of how the information you are",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "providing works in the real world?",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Give real examples of how the information works in the real world."
+        }
+      ],
+      [
+        "Self Tests, Quizzes and Questionnaires",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "Tests, quizzes and questionnaires all add variety",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "powerful tools for gaining a learners attention",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "providing opportunities for learners to measure their progress",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Add variety; gain attention; let learners measure their progress."
+        }
+      ],
+      [
+        "Writing Tasks",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "This activity allows an individual to reflect carefully on their own understanding.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Allow an individual to reflect carefully on their own understanding."
+        }
+      ]
+    ],
+    "title": "Learning activities and methods: what each one does (pp.20-23)",
+    "title_bn": "প্রতিটি learning method কী কাজে লাগে"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

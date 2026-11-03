@@ -1,0 +1,277 @@
+{
+  "id": "physical-environment-support-needs",
+  "canonical_title": "Physical Environment Support Needs",
+  "aliases": [
+    "Incorporating physical environment support needs into work practices"
+  ],
+  "cblmPrimary": 2,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Acknowledge and incorporate physical environment support needs into work practices, where practicable and approved.",
+    "cites": [
+      {
+        "src": "cblm02",
+        "page": 25,
+        "quote": "you also need to acknowledge and"
+      },
+      {
+        "src": "cblm02",
+        "page": 25,
+        "quote": "incorporate any physical environment support needs into your work practices (where"
+      },
+      {
+        "src": "cblm02",
+        "page": 25,
+        "quote": "these are practicable and approved by appropriate personnel), including:"
+      }
+    ],
+    "fidelity": "paraphrase"
+  },
+  "keywords": [
+    {
+      "en": "Physical environment support needs",
+      "bn": "জায়গা/পরিবেশ-সংক্রান্ত সহায়তার প্রয়োজন"
+    },
+    {
+      "en": "Layout of premises",
+      "bn": "ভবন ও ঘরের বিন্যাস"
+    },
+    {
+      "en": "Equipment modifications",
+      "bn": "যন্ত্রপাতিতে পরিবর্তন"
+    },
+    {
+      "en": "Adaptive technologies",
+      "bn": "বিশেষ প্রযুক্তি"
+    },
+    {
+      "en": "Job design",
+      "bn": "কাজের নকশা"
+    }
+  ],
+  "bangla_explanation": [
+    "সহায়ক মানুষ ঠিক করার পর দেখতে হবে পরিবেশে (physical environment) কী পরিবর্তন লাগবে।",
+    "মডিউলে পাঁচটি আছে: premises-এর layout, equipment modifications, adaptive technologies, work schedules আর job design।",
+    "শর্ত মনে রাখুন: যেখানে practicable আর appropriate personnel approve করেন, শুধু সেখানেই।"
+  ],
+  "example": {
+    "en": "A trainee in a welding workshop uses a wheelchair. With the principal's approval, staff add a ramp and a low bench.",
+    "bn": "Principal অনুমোদন দেওয়ার পর welding workshop-এ wheelchair ব্যবহারকারী trainee-র জন্য ramp আর নিচু work bench করা হয়।"
+  },
+  "list_answer": {
+    "title": "Physical environment support needs to incorporate into work practices",
+    "title_bn": "Work practices-এ যুক্ত করার মতো physical environment support",
+    "items": [
+      {
+        "text": "Modifications to the layout of premises",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 25,
+            "quote": "Modifications to the layout of premises"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Equipment modifications",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 25,
+            "quote": "Equipment modifications"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Use of adaptive technologies",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 25,
+            "quote": "Use of adaptive technologies"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Changes to work schedules",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 25,
+            "quote": "Changes to work schedules"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Modifications to job design",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 25,
+            "quote": "Modifications to job design"
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "items_bn": [
+      "ভবন বা ঘরের layout বদলানো — যেমন চলাচলের পথ খোলা রাখা।",
+      "Equipment modifications — যন্ত্রপাতি learner-এর উপযোগী করে বদলানো।",
+      "Adaptive technologies ব্যবহার — বিশেষ প্রয়োজনের জন্য তৈরি প্রযুক্তি কাজে লাগানো।",
+      "Work schedules বদলানো — সময়সূচি learner-এর প্রয়োজন অনুযায়ী সাজানো।",
+      "Job design বদলানো — কাজটা এমনভাবে সাজানো যাতে learner করতে পারে।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "Incorporate them only where practicable and approved by appropriate personnel.",
+      "cites": [
+        {
+          "src": "cblm02",
+          "page": 25,
+          "quote": "incorporate any physical environment support needs into your work practices (where"
+        },
+        {
+          "src": "cblm02",
+          "page": 25,
+          "quote": "these are practicable and approved by appropriate personnel), including:"
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Changes to work schedules are also physical environment support needs.",
+      "cites": [
+        {
+          "src": "cblm02",
+          "page": 25,
+          "quote": "changes to work schedules; and"
+        },
+        {
+          "src": "cblm02",
+          "page": 25,
+          "quote": "incorporate any physical environment support needs into your work practices (where"
+        }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What physical environment support needs may you incorporate into work practices?",
+      "modelAnswer": "Where practicable and approved by appropriate personnel, I will incorporate:\n1. Modifications to the layout of premises\n2. Equipment modifications\n3. Use of adaptive technologies\n4. Changes to work schedules\n5. Modifications to job design",
+      "keyPoints": [
+        {
+          "text": "modifications to the layout of premises",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "modifications to the layout of premises"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "use of adaptive technologies",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "use of adaptive technologies"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "modifications to job design",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "modifications to job design"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a physical environment support need?",
+      "options": [
+        "Use of adaptive technologies",
+        "Peer support",
+        "Note takers",
+        "Policies on fee reduction"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm02",
+        "page": 25,
+        "quote": "use of adaptive technologies;"
+      }
+    },
+    "matching": {
+      "prompt": "Complete each physical environment support need.",
+      "pairs": [
+        {
+          "left": "Modifications to the layout",
+          "right": "of premises",
+          "cite": {
+            "src": "cblm02",
+            "page": 25,
+            "quote": "modifications to the layout of premises;"
+          }
+        },
+        {
+          "left": "Use of",
+          "right": "adaptive technologies",
+          "cite": {
+            "src": "cblm02",
+            "page": 25,
+            "quote": "use of adaptive technologies;"
+          }
+        },
+        {
+          "left": "Changes to",
+          "right": "work schedules",
+          "cite": {
+            "src": "cblm02",
+            "page": 25,
+            "quote": "changes to work schedules; and"
+          }
+        },
+        {
+          "left": "Modifications to",
+          "right": "job design",
+          "cite": {
+            "src": "cblm02",
+            "page": 25,
+            "quote": "modifications to job design"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "When do you incorporate physical environment support needs?",
+      "answer": {
+        "text": "Where they are practicable and approved by appropriate personnel.",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 25,
+            "quote": "these are practicable and approved by appropriate personnel), including:"
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": []
+}

@@ -36,6 +36,17 @@
     "bn": "Electrical trainer কঠিন শব্দ যেমন 'earthing' চিহ্ন দিয়ে পরে ব্যাখ্যা করেন।",
     "en": "An electrical trainer marks uncommon terms like 'earthing' for further defining."
   },
+  "extra": [
+    {
+      "bn": "ক্রম মনে রাখুন: copyright → জরুরি তথ্য → title → learner-এর level → layout → কঠিন শব্দ চিহ্নিত → acknowledgement।",
+      "kind": "note",
+      "outline": [
+        "c08-p28-good-info-sheet"
+      ],
+      "text": "Remember the order: copyright, essential information, title, level, layout, uncommon terms, acknowledgement.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "good-information-sheet",
   "importance": {
@@ -182,7 +193,18 @@
         "fidelity": "verbatim",
         "text": "Has acknowledgement per copied part of the sheet."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Copyright law ভাঙে না — অনুমতি ছাড়া অন্যের লেখা কপি করা হয় না।",
+      "Learning outcomes অর্জনের জন্য যা দরকার, সেই জরুরি তথ্য থাকে।",
+      "Title দেখেই বোঝা যায় sheet-এ কী কী আছে।",
+      "Content আর উপস্থাপন learner-এর আগ্রহ আর reading level অনুযায়ী হয়।",
+      "Layout, লেখা আর drawings দেখতে আকর্ষণীয়, আর পরিষ্কার পড়া যায় (legible)।",
+      "অপরিচিত শব্দ (uncommon terms) চিহ্নিত থাকে, যাতে আলাদা করে তার অর্থ বলা যায়।",
+      "যেখান থেকে কপি করা, প্রতিটি অংশে তার acknowledgement থাকে।"
+    ],
+    "title": "Characteristics of a good information sheet",
+    "titleBn": "ভালো information sheet-এর বৈশিষ্ট্য"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -432,6 +454,7 @@
       "text": "The information sheet supports the job sheet with underpinning knowledge."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

@@ -1,0 +1,360 @@
+{
+  "id": "risk-management-process",
+  "canonical_title": "Risk Management Process in OSH",
+  "aliases": [
+    "Managing risks",
+    "Process in occupational health and safety",
+    "Risk management"
+  ],
+  "cblmPrimary": 3,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Risk management identifies and assesses risks from hazards. Then it leads to action.",
+    "cites": [
+      {
+        "src": "cblm03",
+        "page": 7,
+        "quote": "It serves to identify and assess the risks derived from the hazards."
+      },
+      {
+        "src": "cblm03",
+        "page": 7,
+        "quote": "It finally leads to appropriate action to reduce or even eliminate such risks."
+      }
+    ],
+    "fidelity": "paraphrase"
+  },
+  "keywords": [
+    {
+      "en": "Risk management",
+      "bn": "ঝুঁকি ব্যবস্থাপনা"
+    },
+    {
+      "en": "Mitigate",
+      "bn": "কমানো / প্রশমন করা"
+    },
+    {
+      "en": "Likelihood",
+      "bn": "ঘটার সম্ভাবনা"
+    },
+    {
+      "en": "Consequence",
+      "bn": "ফলাফল / ক্ষতির মাত্রা"
+    },
+    {
+      "en": "Risk Register",
+      "bn": "ঝুঁকির তালিকা রাখার খাতা (Risk Log)"
+    }
+  ],
+  "bangla_explanation": [
+    "Risk management হলো OSH-এর অবিচ্ছেদ্য অংশ; বলা হয়েছে, risk management মানেই health and safety।",
+    "চারটি ধাপ: hazard খোঁজা (identifying), risk মাপা (assessing), risk কমাতে action নেওয়া, আর action কাজ করছে কি না monitoring করা।",
+    "Monitoring দুই স্তরে: action এখনো effective কি না, আর action থেকে নতুন hazard তৈরি হলো কি না।",
+    "সব analysis, assessment আর action একটি Risk Register বা Risk Log-এ লিখে রাখতে হয়।",
+    "এক cycle শেষ হলে পরের cycle schedule করতে হয়, কারণ নতুন hazard আসতেই থাকে।"
+  ],
+  "example": {
+    "en": "A garments factory safety team lists and rates hazards. They fix the worst first. Next month they check again.",
+    "bn": "গার্মেন্টসে safety team hazard তালিকা করে, rate করে, সবচেয়ে বড়টি আগে ঠিক করে, পরের মাসে আবার যাচাই করে।"
+  },
+  "list_answer": {
+    "title": "Process of risk management in occupational health and safety",
+    "title_bn": "OSH-এ risk management-এর চারটি ধাপ",
+    "items": [
+      {
+        "text": "Identifying hazards",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Identifying hazards"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Assessing associated risks",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Assessing associated risks"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Taking action to mitigate risks",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Taking action to mitigate risks"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Monitoring the effectiveness",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Monitoring the effectiveness"
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "items_bn": [
+      "Identifying hazards — কর্মস্থলে কোথায় কী hazard আছে তা খুঁজে বের করা।",
+      "Assessing associated risks — প্রতিটি hazard থেকে risk কতটা, likelihood ও consequence দিয়ে মাপা।",
+      "Taking action to mitigate risks — risk কমাতে বা দূর করতে action নেওয়া।",
+      "Monitoring the effectiveness — action কাজ করছে কি না আর নতুন hazard এলো কি না, তা দেখা।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "Hazards and risks resulting from hazards are something different.",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 9,
+          "quote": "clearly understand that hazards and risks resulting from hazards are something different"
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Review each action on two levels. Is it still effective? Did it add a new hazard?",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 10,
+          "quote": "The outcome of each risk mitigating action has to be reviewed on two levels"
+        },
+        {
+          "src": "cblm03",
+          "page": 10,
+          "quote": "To ensure that the actions taken are effective and continue to be effective."
+        },
+        {
+          "src": "cblm03",
+          "page": 10,
+          "quote": "To ensure that no new hazard/risk was introduced by the actions taken."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "All analysis, assessments and actions are recorded in a Risk Register or Risk Log.",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 10,
+          "quote": "All analysis and assessments made as well as all actions taken need to be recorded."
+        },
+        {
+          "src": "cblm03",
+          "page": 10,
+          "quote": "A Risk Register or Risk Log will serve to do so."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "The most effective action is usually also the most difficult, sometimes most expensive.",
+      "cites": [
+        {
+          "src": "cblm03",
+          "page": 9,
+          "quote": "the most effective usually is also the most difficult and sometimes most expensive to realize"
+        }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "visual": {
+    "kind": "steps",
+    "title": "The risk management cycle (p.8-10)",
+    "title_bn": "Risk management চক্র",
+    "cycle": true,
+    "items": [
+      {
+        "text": "Identifying hazards",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Identifying hazards"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Assessing associated risks",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Assessing associated risks"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Taking action to mitigate risks",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Taking action to mitigate risks"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Monitoring the effectiveness",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 8,
+            "quote": "Monitoring the effectiveness"
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "labels_bn": [
+      "Hazard খোঁজা",
+      "Risk মাপা (likelihood × consequence)",
+      "Risk কমাতে action",
+      "Action কাজ করছে কি না দেখা, তারপর আবার শুরু"
+    ]
+  },
+  "practice": {
+    "short": {
+      "prompt": "Write down the process of risk management in occupational health and safety.",
+      "modelAnswer": "Risk management is an integral part of occupational health and safety. Its process is:\n1. Identifying hazards\n2. Assessing associated risks\n3. Taking action to mitigate risks\n4. Monitoring the effectiveness\nAll analysis, assessments and actions are recorded in a Risk Register or Risk Log.",
+      "keyPoints": [
+        {
+          "text": "Risk management is an integral part of performing occupational health and safety.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 7,
+              "quote": "Risk management is an integral part of performing occupational health and safety."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Mitigating actions focus on reducing the likelihood and/or consequence.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 9,
+              "quote": "Mitigating actions focus on reducing the likelihood and/or consequence."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Control measures have to be maintained so they are kept in working order.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 10,
+              "quote": "Any control measures have to be maintained in order to ensure that they are kept in working order."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "After one entire cycle of risk management, the next has to be scheduled.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 10,
+              "quote": "After completing one entire cycle of risk management the next has to be scheduled"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Where are all risk analyses, assessments and actions recorded?",
+      "options": [
+        "A Risk Register or Risk Log",
+        "A risk matrix",
+        "A hazard inspection checklist",
+        "An emergency response plan"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm03",
+        "page": 10,
+        "quote": "A Risk Register or Risk Log will serve to do so."
+      }
+    },
+    "matching": {
+      "prompt": "Match each part of risk management with what it means.",
+      "pairs": [
+        {
+          "left": "Risk Register",
+          "right": "Records all analysis and actions taken",
+          "cite": {
+            "src": "cblm03",
+            "page": 10,
+            "quote": "All analysis and assessments made as well as all actions taken need to be recorded. A Risk Register or Risk Log will serve to do so."
+          }
+        },
+        {
+          "left": "Mitigating actions",
+          "right": "Reducing the likelihood and/or consequence",
+          "cite": {
+            "src": "cblm03",
+            "page": 9,
+            "quote": "Mitigating actions focus on reducing the likelihood and/or consequence."
+          }
+        },
+        {
+          "left": "Monitoring the effectiveness",
+          "right": "Actions taken are effective and continue to be effective",
+          "cite": {
+            "src": "cblm03",
+            "page": 10,
+            "quote": "To ensure that the actions taken are effective and continue to be effective."
+          }
+        },
+        {
+          "left": "Assessing a risk",
+          "right": "By its likelihood and its consequence",
+          "cite": {
+            "src": "cblm03",
+            "page": 9,
+            "quote": "Typically, a risk is assessed by its likelihood and its consequence."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Is risk management done only once?",
+      "answer": {
+        "text": "No. After completing one entire cycle of risk management, the next has to be scheduled.",
+        "cites": [
+          {
+            "src": "cblm03",
+            "page": 10,
+            "quote": "After completing one entire cycle of risk management the next has to be scheduled"
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": []
+}

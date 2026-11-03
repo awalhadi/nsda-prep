@@ -80,6 +80,8 @@
     "bn": "ঈদের চাপে নতুন helper training পায়নি, প্রশ্ন করতেও ভয় পেয়েছে, তাই আহত হয়েছে।"
   },
   "list_answer": {
+    "title": "Factors contributing to injuries of young workers",
+    "title_bn": "তরুণ কর্মীদের আহত হওয়ার কারণসমূহ",
     "items": [
       {
         "text": "Not enough training: temporary or busy jobs may give no proper training.",
@@ -171,6 +173,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "যথেষ্ট training না পাওয়া — অস্থায়ী বা ব্যস্ত কাজে অনেক সময় ঠিকমতো training দেওয়া হয় না।",
+      "যথেষ্ট experience না থাকা — নতুন কর্মী কাজের hazards চেনে না।",
+      "নিজের legal rights না জানা — জানার, অংশ নেওয়ার ও অনিরাপদ কাজ refuse করার অধিকার সম্পর্কে ধারণা থাকে না।",
+      "প্রশ্ন করতে ভয় পাওয়া — অযোগ্য (incompetent) মনে হওয়ার ভয়ে চুপ থাকে, ফলে না বুঝেই কাজ করে।",
+      "পড়াশোনা ও অন্য কাজের সাথে চাকরি সামলাতে গিয়ে ক্লান্ত (tired) থাকা — ক্লান্ত শরীরে মনোযোগ কমে যায়।"
     ]
   },
   "traps": [
@@ -219,6 +228,73 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Getting hurt also affects others (p.12)",
+    "title_bn": "আঘাত পেলে আর কারা ক্ষতিগ্রস্ত হয়",
+    "columns": [
+      "Who is affected",
+      "How"
+    ],
+    "rows": [
+      [
+        "Family and friends",
+        {
+          "text": "It's very hard to see someone you love in pain or permanently disabled.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 12,
+              "quote": "Family and friends - it's very hard to see someone you love in pain or permanently disabled"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Employer",
+        {
+          "text": "Loss of a valuable employee hurts production, productivity and reputation.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 12,
+              "quote": "Employer - loss of a valuable employee will hurt production, productivity and reputation"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Co-workers",
+        {
+          "text": "Staff morale may drop. People may have to work harder if you're not there.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 12,
+              "quote": "Co-workers - staff morale may drop and people may have to work harder if you're not there"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Community",
+        {
+          "text": "You may not take part in community events like sports or volunteer work.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 12,
+              "quote": "Community - you may not be able to take part in community events like sports or volunteer work"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "List four factors contributing to high injury rates among industrial workers.",

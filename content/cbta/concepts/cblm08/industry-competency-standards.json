@@ -77,6 +77,8 @@
     "bn": "গার্মেন্টসের sewing operator-এর standard বলে দেয় কাজে কী কী জানতে ও পারতে হবে।"
   },
   "list_answer": {
+    "title": "What an industry competency standard includes",
+    "title_bn": "Industry competency standard-এ যা থাকে",
     "items": [
       {
         "text": "Skills, knowledge and attitude requirements for the level of work.",
@@ -155,6 +157,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "কাজের level অনুযায়ী কী skills, knowledge আর attitude লাগবে।",
+      "Quality indicators — কাজের মান বোঝার লক্ষণ।",
+      "Competent প্রমাণিত হলে কোন national qualifications পাওয়া যাবে।",
+      "Learning strategies — training কীভাবে সাজাতে হবে তার নির্দেশনা, learning materials সহ।",
+      "Assessment guidelines — assessment কীভাবে করতে হবে তার নির্দেশিকা।",
+      "Assessment-এর methods আর materials।"
     ]
   },
   "traps": [
@@ -317,5 +327,54 @@
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "table",
+    "title": "How competency standards are built (p.6)",
+    "title_bn": "Competency standards কী দিয়ে তৈরি",
+    "columns": [
+      "Part",
+      "Is made up of"
+    ],
+    "rows": [
+      [
+        "Competency standards",
+        {
+          "text": "Units of competency.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 6,
+              "quote": "standards are made up of units of competency"
+            }
+          ]
+        }
+      ],
+      [
+        "Unit of competency",
+        {
+          "text": "Elements of competency, with performance criteria, a range of variables and an evidence guide.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 6,
+              "quote": "which are themselves made up of"
+            },
+            {
+              "src": "cblm08",
+              "page": 6,
+              "quote": "elements of competency, together with performance criteria, a range of variables,"
+            },
+            {
+              "src": "cblm08",
+              "page": 6,
+              "quote": "and an evidence guide."
+            }
+          ]
+        }
+      ]
+    ]
+  }
 }

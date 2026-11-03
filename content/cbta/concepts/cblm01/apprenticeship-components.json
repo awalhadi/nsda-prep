@@ -51,10 +51,8 @@
     "bn": "Motor workshop-এ দক্ষ mechanic-এর অধীনে কাজ শিখছে, wages পাচ্ছে, ক্লাসও করছে।"
   },
   "list_answer": {
-    "declaredCount": {
-      "n": 8,
-      "cite": { "src": "cblm01", "page": 30, "quote": "Eight Essential Components of Apprenticeship Training", "passageId": "cblm01-p30-c94f6546" }
-    },
+    "title": "Essential components of apprenticeship training",
+    "title_bn": "Apprenticeship training-এর অপরিহার্য উপাদানসমূহ",
     "items": [
       {
         "text": "Structured Training: supervised, structured on-the-job training with related instruction.",
@@ -123,7 +121,21 @@
           { "src": "cblm01", "page": 32, "quote": "written agreement, or contract between the apprentice, the employer, and the state." }
         ]
       }
-    ]
+    ],
+    "items_bn": [
+      "পরিকল্পিত, তদারকিতে চলা প্রশিক্ষণ — কাজের জায়গায় on the job training-এর সাথে related instruction-ও থাকে।",
+      "দক্ষ কাজের জন্য প্রস্তুতি — প্রশিক্ষণ শেষে মানুষ নথিভুক্ত (documented) কর্মক্ষেত্রে skilled employment পাওয়ার উপযোগী হয়।",
+      "আইনি সুরক্ষা — national laws ন্যূনতম শর্ত ঠিক করে দেয়, যাতে apprentice-এর welfare রক্ষা হয়।",
+      "স্বীকৃত সনদ — legal contract অনুযায়ী training শেষ করলে certificate of completion পাওয়া যায়।",
+      "সবার বিনিয়োগ — apprentice, sponsor আর employer তিন পক্ষই training-এ বাস্তব (tangible) investment করে।",
+      "উপার্জন করতে করতে শেখা — শেখার সময়েও apprentice wages পায়, তাই আয় বন্ধ রেখে শিখতে হয় না।",
+      "দক্ষ কর্মীর তত্ত্বাবধানে শেখা — skilled workers-এর সরাসরি supervision-এ কাজ করে হাতে-কলমে শেখে।",
+      "লিখিত চুক্তি — apprentice, employer আর state-এর মধ্যে written agreement হয়, তাই কার কী দায়িত্ব তা পরিষ্কার থাকে।"
+    ],
+    "declaredCount": {
+      "n": 8,
+      "cite": { "src": "cblm01", "page": 30, "quote": "Eight Essential Components of Apprenticeship Training", "passageId": "cblm01-p30-c94f6546" }
+    }
   },
   "traps": [
     {

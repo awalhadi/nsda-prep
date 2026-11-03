@@ -72,6 +72,8 @@
     "explain_bn": "প্রতিটি শব্দের প্রথম অক্ষর একটি ধাপ: Eliminate, Substitute, Isolation, Engineering, Administrative, PPE।"
   },
   "list_answer": {
+    "title": "Hierarchy of controls",
+    "title_bn": "Hazard control-এর hierarchy (পছন্দের ক্রম)",
     "items": [
       {
         "text": "Eliminate: remove the risk altogether.",
@@ -190,6 +192,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Eliminate — risk পুরোপুরি সরিয়ে ফেলা; hazard-ই না থাকলে ক্ষতির প্রশ্ন নেই, তাই এটা সবচেয়ে ভালো উপায়।",
+      "Substitute — কম ক্ষতিকর device, substance বা method দিয়ে বদলে নেওয়া।",
+      "Isolation — risk-কে মানুষ থেকে আলাদা (separate) করে রাখা।",
+      "Engineering controls — নকশা বদলে risk সরানো (design it out), guards লাগানো, ventilation দেওয়া।",
+      "Administrative controls — safe work procedures, information, job rotation ও induction দিয়ে কাজের নিয়ম বদলে risk কমানো।",
+      "PPE — অন্য controls সম্ভব (practicable) না হলে তবেই ব্যবহার; তাই এটা last resort।"
     ]
   },
   "traps": [

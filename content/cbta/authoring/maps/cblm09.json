@@ -14,6 +14,13 @@
       ]
     },
     {
+      "id": "tvet-learner-profile",
+      "title": "Who Is the TVET Learner?",
+      "cblmPrimary": 9,
+      "covers": [],
+      "questions": []
+    },
+    {
       "id": "learner-characteristics-planning",
       "title": "Learner Characteristics for Session Planning",
       "cblmPrimary": 9,
@@ -76,13 +83,21 @@
         "cblm09-p11-6cac6771",
         "cblm09-p11-8290abc6",
         "cblm09-p11-7ba062d3",
-        "cblm09-p12-fbaacb96",
         "cblm09-p23-e5cb6755"
       ],
       "questions": [
         "cblm09-sc1-q1",
         "cblm09-sc1-q2"
       ]
+    },
+    {
+      "id": "self-assessment-guide",
+      "title": "Self-Assessment Guide (Pre-Training Self-Assessment Checklist)",
+      "cblmPrimary": 9,
+      "covers": [
+        "cblm09-p12-fbaacb96"
+      ],
+      "questions": []
     },
     {
       "id": "competency-standard-components",
@@ -121,11 +136,19 @@
       ]
     },
     {
+      "id": "training-program-aim",
+      "title": "Overall Aim and Outcome of a Training Program",
+      "cblmPrimary": 9,
+      "covers": [
+        "cblm09-p29-75988f5a"
+      ],
+      "questions": []
+    },
+    {
       "id": "program-delivery-plan",
       "title": "Program Delivery Plan",
       "cblmPrimary": 9,
       "covers": [
-        "cblm09-p29-75988f5a",
         "cblm09-p30-6c0ac76c",
         "cblm09-p30-d5a0e598",
         "cblm09-p30-46a83636",
@@ -138,8 +161,8 @@
       "questions": []
     },
     {
-      "id": "session-plan",
-      "title": "Session Plan",
+      "id": "planning-training-sessions",
+      "title": "Training Session and Factors in Planning a Session",
       "cblmPrimary": 9,
       "covers": [
         "cblm09-p31-82ad38f8",
@@ -148,7 +171,15 @@
         "cblm09-p31-a0852166",
         "cblm09-p31-784ef005",
         "cblm09-p31-d8cc100e",
-        "cblm09-p31-f154fa4a",
+        "cblm09-p31-f154fa4a"
+      ],
+      "questions": []
+    },
+    {
+      "id": "session-plan",
+      "title": "Session Plan",
+      "cblmPrimary": 9,
+      "covers": [
         "cblm09-p33-8888bb9f",
         "cblm09-p41-1d322384"
       ],
@@ -289,6 +320,13 @@
       "questions": [
         "cblm09-sc3-q3"
       ]
+    },
+    {
+      "id": "training-support-people",
+      "title": "People Involved in a Training Program and How They Help",
+      "cblmPrimary": 9,
+      "covers": [],
+      "questions": []
     }
   ]
 }

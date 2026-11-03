@@ -80,6 +80,8 @@
     "explain_bn": "প্রতিটি শব্দ একটি ধাপ: আগে কেন আর কার জন্য, তারপর কী আর কীভাবে, শেষে লেখা, মূল্যায়ন আর follow-up।"
   },
   "list_answer": {
+    "title": "Steps in preparing a session plan",
+    "title_bn": "Session plan তৈরির ধাপসমূহ",
     "items": [
       {
         "text": "Define the purpose of the training and the target trainees.",
@@ -177,6 +179,16 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "প্রথমে ঠিক করুন training কেন হচ্ছে (purpose) আর কাদের জন্য (target trainees)।",
+      "অংশগ্রহণকারীদের কী দরকার (participants needs) তা বের করুন, যাতে training তাদের কাজে লাগে।",
+      "Training শেষে কী অর্জন করতে চান, সেই goals and objectives ঠিক করে লিখুন।",
+      "কোন কোন বিষয় শেখাবেন, training content-এর একটি outline তৈরি করুন।",
+      "Content শেখানোর জন্য কী কী কাজ ও কার্যক্রম হবে (instructional activities), তা তৈরি করুন।",
+      "আগের সব সিদ্ধান্ত মিলিয়ে লিখিত session plan প্রস্তুত করুন।",
+      "অংশগ্রহণকারীরা course-টি নিয়ে মতামত দিতে পারে, সেজন্য participants evaluation form তৈরি করুন।",
+      "Training শেষ হওয়ার পরে কী কাজ হবে (follow up activities), তা ঠিক করুন।"
     ]
   },
   "traps": [
@@ -249,6 +261,119 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "Eight steps to follow in preparing a session plan (p.33)",
+    "title_bn": "Session plan তৈরির আটটি ধাপ",
+    "items": [
+      {
+        "text": "Define the purpose of the training and the target trainees.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "Step 1. Define the purpose of the training and the target trainees.",
+            "passageId": "cblm09-p33-7ed28031"
+          }
+        ]
+      },
+      {
+        "text": "Determine the participants needs.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "Step 2. Determine the participants needs.",
+            "passageId": "cblm09-p33-62362fbf"
+          }
+        ]
+      },
+      {
+        "text": "Define Training goals and objectives.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "Step 3. Define Training goals and objectives.",
+            "passageId": "cblm09-p33-d18401b1"
+          }
+        ]
+      },
+      {
+        "text": "Outline the training content.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "Step 4. Outline the training content.",
+            "passageId": "cblm09-p33-b1b98699"
+          }
+        ]
+      },
+      {
+        "text": "Develop instructional activities.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "Step 5. Develop instructional activities.",
+            "passageId": "cblm09-p33-cdc25f2c"
+          }
+        ]
+      },
+      {
+        "text": "Prepare the written session plan.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "Step 6. Prepare the written session plan.",
+            "passageId": "cblm09-p33-ee3ef934"
+          }
+        ]
+      },
+      {
+        "text": "Prepare course participants evaluation Form.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "Step 7. Prepare course participants evaluation Form.",
+            "passageId": "cblm09-p33-34c64359"
+          }
+        ]
+      },
+      {
+        "text": "Determine follow-up activities of the event.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 33,
+            "quote": "Step 8. Determine follow-up activities of the event.",
+            "passageId": "cblm09-p33-5696e975"
+          }
+        ]
+      }
+    ],
+    "labels_bn": [
+      "প্রথমে ঠিক করুন training কেন হচ্ছে (purpose) আর কাদের জন্য (target trainees)।",
+      "অংশগ্রহণকারীদের কী দরকার (participants needs) তা বের করুন, যাতে training তাদের কাজে লাগে।",
+      "Training শেষে কী অর্জন করতে চান, সেই goals and objectives ঠিক করে লিখুন।",
+      "কোন কোন বিষয় শেখাবেন, training content-এর একটি outline তৈরি করুন।",
+      "Content শেখানোর জন্য কী কী কাজ ও কার্যক্রম হবে (instructional activities), তা তৈরি করুন।",
+      "আগের সব সিদ্ধান্ত মিলিয়ে লিখিত session plan প্রস্তুত করুন।",
+      "অংশগ্রহণকারীরা course-টি নিয়ে মতামত দিতে পারে, সেজন্য participants evaluation form তৈরি করুন।",
+      "Training শেষ হওয়ার পরে কী কাজ হবে (follow up activities), তা ঠিক করুন।"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are the eight (8) steps in designing an effective session plan?",

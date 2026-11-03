@@ -22,11 +22,26 @@
     ]
   },
   "keywords": [
-    { "en": "Competency", "bn": "যোগ্যতা: জ্ঞান, দক্ষতা ও মনোভাব একসাথে" },
-    { "en": "Knowledge (K)", "bn": "জ্ঞান" },
-    { "en": "Skills (S)", "bn": "হাতে-কলমে কাজ করার দক্ষতা" },
-    { "en": "Attitude (A)", "bn": "মনোভাব, আচরণ" },
-    { "en": "Observable", "bn": "চোখে দেখা যায় এমন" }
+    {
+      "en": "Competency",
+      "bn": "যোগ্যতা: জ্ঞান, দক্ষতা ও মনোভাব একসাথে"
+    },
+    {
+      "en": "Knowledge (K)",
+      "bn": "জ্ঞান"
+    },
+    {
+      "en": "Skills (S)",
+      "bn": "হাতে-কলমে কাজ করার দক্ষতা"
+    },
+    {
+      "en": "Attitude (A)",
+      "bn": "মনোভাব, আচরণ"
+    },
+    {
+      "en": "Observable",
+      "bn": "চোখে দেখা যায় এমন"
+    }
   ],
   "bangla_explanation": [
     "Competency মানে শুধু হাতের skill নয়; knowledge, skill আর attitude তিনটাই লাগে (KSA)।",
@@ -43,6 +58,8 @@
     "explain_bn": "Knowledge = জানা, Skill = করে দেখানো, Attitude = সঠিক আচরণ।"
   },
   "list_answer": {
+    "title": "Key features of competency",
+    "title_bn": "Competency-র মূল বৈশিষ্ট্য",
     "items": [
       {
         "text": "being able to do the job",
@@ -72,6 +89,12 @@
           { "src": "cblm01", "page": 12, "quote": "having the right approach to do a job properly and safely." }
         ]
       }
+    ],
+    "items_bn": [
+      "কাজটা করতে পারা — শুধু জানলে হবে না, হাতে-কলমে job করে দেখাতে পারতে হবে।",
+      "কাজ কীভাবে আর কেন করা হয় তা জানা — এটা knowledge অংশ; না বুঝে নকল করা নয়।",
+      "কিছু ভুল হলে কী করতে হবে তা জানা — হঠাৎ সমস্যা হলেও কাজ সামলাতে পারা।",
+      "কাজটা ঠিকভাবে ও নিরাপদে (safely) করার সঠিক approach থাকা — এটাই attitude অংশ।"
     ]
   },
   "traps": [
@@ -92,6 +115,47 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Competency types (p.12)",
+    "title_bn": "Competency-র তিন ধরন",
+    "columns": [
+      "Type",
+      "Meaning"
+    ],
+    "rows": [
+      [
+        "Knowledge Competencies",
+        {
+          "text": "practical or theoretical understanding of subjects",
+          "cites": [
+            { "src": "cblm01", "page": 12, "quote": "practical or theoretical understanding of subjects" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Skill Competencies",
+        {
+          "text": "natural or learned capacities to perform acts",
+          "cites": [
+            { "src": "cblm01", "page": 12, "quote": "natural or learned capacities to perform acts" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Attitude Competencies",
+        {
+          "text": "patterns of action or conduct",
+          "cites": [
+            { "src": "cblm01", "page": 12, "quote": "patterns of action or conduct" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are the key features of competency?",

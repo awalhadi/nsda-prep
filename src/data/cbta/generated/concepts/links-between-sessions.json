@@ -40,6 +40,52 @@
     "bn": "আগের ক্লাসের কথা মনে করিয়ে নতুন বিষয় শুরু করুন।",
     "en": "Yesterday trainees learned to change a car tyre. Today the trainer starts by recalling it before teaching wheel alignment."
   },
+  "extra": [
+    {
+      "bn": [
+        "উদাহরণ (CBLM): নতুন television-এর switch অন্য জায়গায় থাকলেও পুরোনো জ্ঞান দিয়ে খুঁজে পান — এটাই link।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "If you are introducing completely new material, you should try to relate the",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "information to something that the learners will already know, either through life",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "experience or by use of an appropriate comparison.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "For completely new material, relate it to life experience or an appropriate comparison."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c09-p39-links"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "links-between-sessions",
   "importance": {
@@ -104,7 +150,13 @@
         "fidelity": "paraphrase",
         "text": "Learners need to tie new information into existing knowledge."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Session-এর প্রথম আর শেষের কথাগুলো learners সবচেয়ে ভালো মনে রাখে, তাই শুরু ও শেষে link দিলে তা মনে থাকে।",
+      "নতুন তথ্যকে learners আগের জানা জিনিসের (existing knowledge) সাথে জুড়ে শেখে, তাই আগের শেখার সাথে link দরকার।"
+    ],
+    "title": "Learning principles met by links between sessions",
+    "titleBn": "Session-এর মধ্যে link দিলে যে learning principles পূরণ হয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -308,6 +360,63 @@
       "text": "New television: you link in to existing knowledge to know the control switches."
     }
   ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "in your introduction, summarise the key points from the previous session",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "In your introduction, summarise the key points from the previous session."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "and tie them in to the information to be covered in the current session.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Tie them in to the information covered in the current session."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 9,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "In your review, you should refer to how this session will relate to the next.",
+            "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+            "src": "cblm09"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "In your review, refer to how this session will relate to the next."
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "Introduction-এ আগের session-এর মূল points সংক্ষেপে বলুন।",
+      "সেগুলোকে আজকের session-এর information-এর সাথে জুড়ে দিন।",
+      "Review-তে বলুন এই session পরের session-এর সাথে কীভাবে যুক্ত।"
+    ],
+    "title": "How to link sessions (p.39)",
+    "title_bn": "Session-গুলোর মধ্যে link তৈরির ধাপ"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

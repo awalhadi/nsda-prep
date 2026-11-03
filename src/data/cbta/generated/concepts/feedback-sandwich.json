@@ -37,6 +37,43 @@
     "bn": "গার্মেন্টস ট্রেইনিকে আগে প্রশংসা, তারপর কলার ঠিক করার পরামর্শ, শেষে উৎসাহ।",
     "en": "A garments trainee sews a shirt. First say: your stitches are straight. Then: fix the collar like this. End: you are doing well."
   },
+  "extra": [
+    {
+      "bn": [
+        "CBLM 10 p.57 আর CBLM 12-এর Kiss-Kick-Kiss একই জিনিস।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 57,
+              "printedPage": 57,
+              "quote": "need to give a negative comment, give a positive piece of feedback first, then the negative and",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 57,
+              "printedPage": 57,
+              "quote": "finish off with a positive comment.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "For a negative comment: give positive feedback first, then the negative, then a positive."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p57-effective-feedback"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "feedback-sandwich",
   "importance": {
@@ -120,7 +157,14 @@
         "fidelity": "paraphrase",
         "text": "Kiss: finish with an encouraging statement."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Kiss — প্রথমে learner-এর কাজে চোখে পড়া একটা ভালো দিক বলুন, তাহলে সে মন দিয়ে শোনে।",
+      "Kick — তারপর কোথায় উন্নতি দরকার আর কীভাবে করবে, তা বুঝিয়ে বলুন।",
+      "Kiss — শেষে উৎসাহ দিয়ে কথা শেষ করুন, যাতে সে আবার চেষ্টা করে।"
+    ],
+    "title": "The feedback sandwich: Kiss, Kick, Kiss",
+    "titleBn": "Feedback sandwich-এর তিন ধাপ"
   },
   "mnemonic": {
     "explain_bn": "স্যান্ডউইচের দুই পাশে নরম রুটি (ভালো কথা), মাঝে আসল কথা (উন্নতির জায়গা)।",
@@ -275,6 +319,126 @@
           ],
           "fidelity": "paraphrase",
           "text": "Self assessment helps the trainee take more responsibility for their learning."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "informative feedback and constructive advice, the",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "assessor should ensure the trainee understands how to",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "overcome any problems or weaknesses.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Informative feedback helps the trainee overcome problems or weaknesses."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "Even when the trainee has provided evidence of",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "competence",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "the feedback session can be used to explore",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "the next stage in learning or development.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Even after competence, feedback can explore the next stage in learning."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "Always ask the trainee how they felt about the assessment before offering your feedback.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Always ask the trainee how they felt about the assessment before offering your feedback."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "The trainee's self-esteem should be enhanced by having the opportunity to critically reflect on their own performance.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Critically reflecting on their own performance enhances the trainee's self-esteem."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "A good facilitator will also encourage trainees to get feedback from other trainees",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A good facilitator encourages trainees to get feedback from other trainees."
         }
       ],
       "modelAnswer": "I will use the feedback sandwich:\n1. Start by asking the candidate to judge how well he/she performed.\n2. Kiss: tell the learner something positive I have noticed.\n3. Kick: advise the learner of an area that could be improved, and how.\n4. Kiss: finish with an encouraging statement.",
@@ -434,6 +598,63 @@
       "text": "Focus on corrective actions not mistakes."
     }
   ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Kiss Tell the learner about something positive you have noticed",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Kiss: tell the learner about something positive you have noticed."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Kick Advise the learner of an area that could be improved and how they",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Kick: advise the learner of an area to improve, and how."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 23,
+            "printedPage": 23,
+            "quote": "Kiss Finish with an encouraging statement",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Kiss: finish with an encouraging statement."
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "Kiss — প্রথমে learner-এর কাজে চোখে পড়া একটা ভালো দিক বলুন, তাহলে সে মন দিয়ে শোনে।",
+      "Kick — তারপর কোথায় উন্নতি দরকার আর কীভাবে করবে, তা বুঝিয়ে বলুন।",
+      "Kiss — শেষে উৎসাহ দিয়ে কথা শেষ করুন, যাতে সে আবার চেষ্টা করে।"
+    ],
+    "title": "The feedback sandwich (p.23)",
+    "title_bn": "Feedback sandwich: প্রশংসা → উন্নতি → উৎসাহ"
+  },
   "vivaDerived": true,
   "warnings": 1
 }

@@ -100,3 +100,19 @@ describe("detectDeclaredCount", () => {
     expect(detectDeclaredCount(text)).toBe(n);
   });
 });
+
+describe("lists say what they are and explain each point in Bangla", () => {
+  it("a list without a name is rejected", () => {
+    const c = gold();
+    Reflect.deleteProperty(c.list_answer!, "title");
+    expect(codes(c)).toContain("list-title-missing");
+  });
+
+  it("every item needs its own Bangla line", () => {
+    const c = gold();
+    c.list_answer!.items_bn = ["শুধু একটি লাইন"];
+    expect(codes(c)).toContain("list-bn-count");
+    Reflect.deleteProperty(c.list_answer!, "items_bn");
+    expect(codes(c)).toContain("list-bn-missing");
+  });
+});

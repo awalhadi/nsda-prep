@@ -72,6 +72,8 @@
     "bn": "ওয়েল্ডিং শপে মেশিনের জায়গা আলাদা, আর CBLM রাখার জায়গা তার পাশেই।"
   },
   "list_answer": {
+    "title": "Areas of a CBT shop (competency-based training room)",
+    "title_bn": "CBT shop (competency-based training room)-এর বিভিন্ন area",
     "items": [
       {
         "text": "Practical Work Area: learners acquire the skills and knowledge of the competencies.",
@@ -186,6 +188,16 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Practical Work Area — মূল জায়গা, যেখানে learners standard অনুযায়ী competencies-এর skills ও knowledge হাতে-কলমে শেখে।",
+      "Learning Resource Area — শেখার materials এখানে রাখা থাকে, আর এখান থেকেই trainees-দের দেওয়া হয়।",
+      "Institutional Assessment Area — প্রতিষ্ঠানের ভেতরে assessment নেওয়ার জন্য আলাদা জায়গা।",
+      "Computer Laboratory — computer-এ কাজ ও শেখার জন্য আলাদা ঘর।",
+      "Trainers Resource Area — trainers-দের জায়গা, যেখানে নতুন learning materials তৈরি হয় আর standards ও curriculum materials রাখা থাকে।",
+      "Quality Control Area — training-এর মান ঠিক আছে কিনা, তা নিয়ন্ত্রণ (quality control) করার জায়গা।",
+      "Contextual Learning Area — কাজের পেছনের underpinning knowledge, অর্থাৎ science, mathematics আর communication principles এখানে শেখানো হয়।",
+      "Support Service Area — training-কে সহায়তা করার সেবাগুলোর জন্য জায়গা।"
     ]
   },
   "traps": [
@@ -245,6 +257,107 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "The five areas taught in Information Sheet 1 (p.6-7)",
+    "title_bn": "Information Sheet 1-এ শেখানো পাঁচটি area",
+    "columns": [
+      "Area (Information Sheet 1)",
+      "What it is for"
+    ],
+    "rows": [
+      [
+        "Practical Work Area",
+        {
+          "text": "Learners acquire the skills and knowledge of the competencies.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 6,
+              "quote": "This is the area where the learner is supposed to acquire skills and knowledge"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Learning Resource Area",
+        {
+          "text": "Storage and release of learning materials; close to the practical work area.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 6,
+              "quote": "This is the area for the storage and release of learning materials to trainees."
+            },
+            {
+              "src": "cblm10",
+              "page": 6,
+              "quote": "This is the area proximate to the heart - the practical work area"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Contextual Learning Area",
+        {
+          "text": "Underpinning knowledge: science, mathematics and communication principles.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 6,
+              "quote": "the underpinning knowledge, the science and mathematics and"
+            },
+            {
+              "src": "cblm10",
+              "page": 6,
+              "quote": "communication principles as applied to the technology"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Quality Control Area",
+        {
+          "text": "Trainees ensure correctness, orderliness and maintenance of training inputs and materials.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 7,
+              "quote": "It is where the trainees collectively ensure"
+            },
+            {
+              "src": "cblm10",
+              "page": 7,
+              "quote": "correctness, orderliness and maintenance of training delivery inputs and materials"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Trainers Resource Area",
+        {
+          "text": "Materials are designed and developed; Skills Standards and curriculum materials are stored.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 7,
+              "quote": "This houses the learning materials in the process of being designed and developed."
+            },
+            {
+              "src": "cblm10",
+              "page": 7,
+              "quote": "The Skills Standards and curriculum materials are stored in this area."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What factors should be considered when preparing a CBT shop layout?",

@@ -37,6 +37,110 @@
     "bn": "Welding trainer প্রতিষ্ঠানের policy মানেন আর এমন কথা বলেন না যাতে কোনো learner কষ্ট পায়।",
     "en": "A welding trainer follows the centre's access and equity policy. She avoids words that hurt any learner."
   },
+  "extra": [
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Building on individual differences",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Building on individual differences"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "1.2 Integrating the principles of inclusivity into your work practices",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "1.2 Integrating the principles of inclusivity into your work practices"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "1.3 Using your institution's access and equity policy to guide your work",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "practices",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "1.3 Using your institution's access and equity policy to guide your work practices"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "1.4 Using verbal and body language that is sensitive to difference",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "1.4 Using verbal and body language that is sensitive to difference"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Modeling Inclusiveness in work performance",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Modeling Inclusiveness in work performance"
+        }
+      ],
+      "kind": "steps",
+      "labels_bn": [
+        "Individual differences চিনে সম্মান করা (p.7)।",
+        "Inclusivity-র principles কাজে মেশানো (p.10)।",
+        "প্রতিষ্ঠানের access and equity policy দিয়ে কাজ চালানো (p.13)।",
+        "ভিন্নতার প্রতি sensitive কথা ও শরীরী ভাষা (p.14)।",
+        "নিজের কাজে inclusiveness-এর model হওয়া — ground rules ইত্যাদি (pp.14-16)।"
+      ],
+      "outline": [
+        "c02-p7-acknowledging-heading",
+        "c02-p7-how-practise"
+      ],
+      "title": "Road map of Information Sheet 1: the five ways, one heading each",
+      "title_bn": "Information Sheet 1-এর পাঁচটি অংশ"
+    }
+  ],
   "highlighted": true,
   "id": "practising-inclusivity",
   "importance": {
@@ -146,7 +250,16 @@
         "fidelity": "verbatim",
         "text": "Modeling inclusiveness in work performance"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Individual differences-এর উপর ভিত্তি করে শেখানো — প্রত্যেকের পার্থক্যকে বাধা নয়, শেখার ভিত্তি হিসেবে কাজে লাগানো।",
+      "Principles of inclusivity নিজের work practices-এ মিশিয়ে নেওয়া — প্রতিদিনের কাজেই এই নীতিগুলো মানা।",
+      "প্রতিষ্ঠানের access and equity policy দেখে কাজ করা — policy-ই দেখিয়ে দেয় কীভাবে সবাইকে সমান সুযোগ দিতে হবে।",
+      "ভিন্নতার প্রতি sensitive ভাষা ব্যবহার — কথায় যেন কেউ আঘাত না পায় বা ছোট না হয়।",
+      "নিজের কাজে inclusiveness-এর model হওয়া (modeling) — trainer নিজে সবাইকে সাথে নিয়ে চললে অন্যরাও শেখে।"
+    ],
+    "title": "Ways to practise inclusivity",
+    "titleBn": "Inclusivity চর্চার উপায়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -392,6 +505,7 @@
       "text": "Do not confuse how to practise inclusivity with why practice inclusivity."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

@@ -65,6 +65,8 @@
     "bn": "মিশ্র গ্রুপে experience-এর পার্থক্য কাজে লাগান, অভিজ্ঞদের সাথে নতুনদের জোড়া করুন।"
   },
   "list_answer": {
+    "title": "Learner characteristics to consider in session planning",
+    "title_bn": "Session planning-এ যে learner characteristics বিবেচনা করতে হয়",
     "items": [
       {
         "text": "Language, literacy and numeracy (LL&N): influences language and suitable activities.",
@@ -197,6 +199,17 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "LL&N — learner-এর ভাষা, পড়া-লেখা ও হিসাবের দক্ষতা; এটা দেখেই ঠিক করবেন কোন language আর কোন activities চলবে।",
+      "Cultural and language background — ক্লাসে ভিন্ন ভিন্ন culture ও ভাষার দক্ষতার মানুষ থাকতে পারে, তাই এ বিষয়ে সচেতন থাকুন।",
+      "Education and general knowledge — learner-দের শিক্ষার level জানলে বোঝা যায় delivery কোন level-এ রাখতে হবে।",
+      "Gender — group-টি সব female, সব male নাকি মিশ্র, তার ওপর পুরো plan বদলে যেতে পারে।",
+      "Age — বয়স অনুযায়ী ঠিক হয় কী শেখাবেন, কীভাবে শেখাবেন আর কত দ্রুত (pace)।",
+      "Physical ability — কোন learner অন্যদের চেয়ে শারীরিক কাজে কম সক্ষম, তা আগে থেকে জেনে রাখুন।",
+      "Previous experience with the topic — বিষয়টি নিয়ে learner-দের অভিজ্ঞতা ভিন্ন ভিন্ন হয়; এটা কাজে লাগানো যায়, তাই আগে থেকে plan করুন।",
+      "Experience in competency based training — এটা শেখার একটি আলাদা ধরন, তাই কিছু learner-এর কাছে কঠিন লাগতে পারে।",
+      "Previous learning experience — আগে কীভাবে শিখেছে তা জানলে trainees-দের শেখার প্রতি general attitude বোঝা যায়।"
     ]
   },
   "traps": [
@@ -228,6 +241,253 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Characteristics of learners: what does this mean for planning? (p.8)",
+    "title_bn": "Learner-এর বৈশিষ্ট্য আর planning-এ তার প্রভাব",
+    "columns": [
+      "Characteristics of Learners",
+      "What does this mean for Planning?"
+    ],
+    "rows": [
+      [
+        "Language, Literacy and Numeracy (LL&N) skills",
+        {
+          "text": "Influences the language and suitable activities. Assess LL&N skill levels; provide instruction at all levels.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "This influences the language you can"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "use and the activities and tasks that are"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "suitable. You need to assess LL&N skill"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "levels and provide instruction and"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "resources at all appropriate level."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Cultural and Language background",
+        {
+          "text": "Be aware of different cultures and language abilities. Some activities may not be appropriate.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "You must be aware of different cultures"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "and language abilities. There might be"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "activities that you choose which are not"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "appropriate because of culture and"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Education and General Knowledge",
+        {
+          "text": "Know general education levels, so you know what level to pitch the delivery.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "Getting an idea of general education"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "levels is important so that you know what"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "level to pitch in the delivery of the"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Gender",
+        {
+          "text": "Can affect your whole plan: all female, all male or mixed groups. Matters for demonstration or role play.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "This can affect your whole plan if you"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "have a group of all female, all males or a"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "mixture-, if there are activities that"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "involve demonstration, role play, etc."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Age",
+        {
+          "text": "Affects what is delivered, how and at what pace.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "Age can affect your plan depending on"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "what is delivered, how and what pace."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Physical Ability",
+        {
+          "text": "Know any learner less able than others to perform physical tasks.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "you need to be aware of any learner who"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "is less able than others to perform"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "physical tasks."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Previous experience with the topic/lesson",
+        {
+          "text": "Different experience levels can be useful. Plan ahead to know who has what experience.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "Different levels of experience can be"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "useful, and you need to plan ahead, so"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "that you know who has what experience,"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Experience in Competency based Training",
+        {
+          "text": "CBT is a unique way of learning. It can be difficult, especially assessment.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "Competency based training is a unique"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "way of learning and can be difficult for"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "some learners, especially in the concept"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "of assessment."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Previous Learning Experience",
+        {
+          "text": "Know the trainees' general attitude of learning. Some may be very anxious.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "It is important that you have knowledge"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "of the trainees general attitude of"
+            },
+            {
+              "src": "cblm09",
+              "page": 8,
+              "quote": "learning. Some may be very anxious"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "List the learner characteristics a trainer must consider when planning a session.",

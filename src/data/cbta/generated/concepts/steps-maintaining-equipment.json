@@ -53,6 +53,34 @@
     "bn": "ভাঙা জ্যাক tag করে সরিয়ে রাখা আর report করা: এটাই সঠিক কাজ।",
     "en": "In a motor mechanic workshop, a trainer finds a cracked jack. He tags it, removes it from use and reports it."
   },
+  "extra": [
+    {
+      "bn": "সাত ধাপের তালিকা প্রশ্নপত্রের; CBLM 6-এর নিজের তালিকা Specification 02-এর পাঁচটি কাজ।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Tool maintenance activities checklist",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Tool maintenance activities checklist"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c06-p42-specification-2"
+      ],
+      "text": "The seven steps on this card come from a question paper, not CBLM 6. CBLM 6's own list is the five tool maintenance activities in Specification 02.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": false,
   "id": "steps-maintaining-equipment",
   "importance": {
@@ -186,7 +214,18 @@
         "fidelity": "paraphrase",
         "text": "Training and Awareness."
       }
-    ]
+    ],
+    "itemsBn": [
+      "নিয়মিত পরিদর্শন — বারবার দেখে নষ্ট বা unsafe কিছু আছে কিনা খুঁজে বের করা।",
+      "পরিষ্কার করা — tools আর equipment পরিষ্কার রাখা।",
+      "সঠিকভাবে গুছিয়ে রাখা, যাতে নষ্ট না হয় আর দরকারে সহজে পাওয়া যায়।",
+      "Preventive maintenance — নষ্ট হওয়ার আগেই নিয়মিত যত্ন নেওয়া।",
+      "মেরামত বা বদল — নষ্ট জিনিস ঠিক করা, ঠিক না হলে বদলে দেওয়া।",
+      "Documentation — কী maintenance বা মেরামত হলো, তা লিখে রেকর্ড রাখা।",
+      "Training and awareness — ব্যবহারকারীদের সঠিক ব্যবহার শেখানো আর সচেতন করা।"
+    ],
+    "title": "Steps in maintaining training equipment and tools",
+    "titleBn": "প্রশিক্ষণের equipment ও tools রক্ষণাবেক্ষণের ধাপ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -570,6 +609,7 @@
       "text": "Proper use of tools and equipment is the first and foremost task in maintenance."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

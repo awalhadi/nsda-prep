@@ -81,6 +81,8 @@
     "bn": "বই থাকে bookshelves-এ, আর computer/printer ধুলা থেকে দূরে।"
   },
   "list_answer": {
+    "title": "Learning resources that may need to be accommodated in a learning facility",
+    "title_bn": "শেখার জায়গায় রাখার ব্যবস্থা করতে হতে পারে এমন learning resources",
     "items": [
       {
         "text": "Text books.",
@@ -198,6 +200,18 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Text books — পাঠ্যবই, শেখার মূল লিখিত উপকরণ।",
+      "Workshop manuals আর technical information — যন্ত্র ও কাজের বিস্তারিত নির্দেশনা।",
+      "Product information — বিভিন্ন পণ্যের বিবরণ ও তথ্য।",
+      "Instructor নিজে যে learning materials তৈরি করেন।",
+      "Videos — দেখে শেখার উপকরণ; চালাতে equipment লাগে।",
+      "Compact Discs (CD) আর audio tapes — শুনে শেখার উপকরণ, এগুলোও equipment দিয়ে চালাতে হয়।",
+      "Product samples — আসল পণ্যের নমুনা, যা হাতে নিয়ে দেখা যায়।",
+      "Slides — পর্দায় দেখানোর ছবি বা লেখা।",
+      "Slide/tape presentations — slides-এর সাথে tape-এ রেকর্ড করা কথা মিলিয়ে উপস্থাপনা।",
+      "Models — বাস্তব জিনিসের নমুনা রূপ, যা দেখে গঠন বোঝা যায়।"
     ]
   },
   "traps": [
@@ -281,6 +295,121 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "How to store learning resources (p.17)",
+    "title_bn": "কোন learning resource কোথায় রাখবেন",
+    "columns": [
+      "Resource",
+      "Storage"
+    ],
+    "rows": [
+      [
+        "Paper-based resources",
+        {
+          "text": "Bookshelves and filing cabinets.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 17,
+              "quote": "Bookshelves and filing cabinets are probably the most effective ways of"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Hard cover publications",
+        {
+          "text": "Open shelving if there is no dust problem. Glass-door book cabinets if dust is significant.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 17,
+              "quote": "Hard cover or substantial publications can be accommodated on open"
+            },
+            {
+              "src": "cblm06",
+              "page": 17,
+              "quote": "shelving if there is not a dust problem. Glass-door book cabinets may be"
+            },
+            {
+              "src": "cblm06",
+              "page": 17,
+              "quote": "required if dust is a significant issue."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Student worksheets and workbooks",
+        {
+          "text": "Filing cabinets.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 17,
+              "quote": "Worksheets or student workbooks are best stored in filing cabinets."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Slides",
+        {
+          "text": "In the carousel or trays. Trays and carousels go in glass-door cupboards.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 17,
+              "quote": "Carousel should be kept in the carousel"
+            },
+            {
+              "src": "cblm06",
+              "page": 17,
+              "quote": "then in the appropriate trays."
+            },
+            {
+              "src": "cblm06",
+              "page": 17,
+              "quote": "Trays and carousels can be kept in glass-door cupboard"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Computer discs",
+        {
+          "text": "Closed and lockable computer disc storage boxes.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 17,
+              "quote": "Closed and lockable computer disc storage boxes are the most appropriate way to"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "All learning resources",
+        {
+          "text": "A lockable learning resources centre close to the workshop.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 17,
+              "quote": "a lockable, learning resources centre alongside or close to the actual workshop or"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "List the equipment required to use learning resources in a training facility.",

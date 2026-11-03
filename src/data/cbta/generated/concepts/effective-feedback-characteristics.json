@@ -40,6 +40,72 @@
     "bn": "'তুমি অমনোযোগী' না বলে বলুন 'কোণার সেলাইটা সরে গেছে': এটা behaviour নিয়ে feedback।",
     "en": "A trainer says the seam drifted at the corner. He does not call the learner careless."
   },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 57,
+              "printedPage": 57,
+              "quote": "Feedback is important in developing a positive relationship between the learner and",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Feedback is important in developing a positive relationship between the learner and"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 57,
+              "printedPage": 57,
+              "quote": "Effective learning involves the sharing of information with each other.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Effective learning involves the sharing of information with each other."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p57-feedback"
+      ]
+    },
+    {
+      "bn": "Answer key-তে ৮টি, info sheet-এ ১২টি; প্রশ্ন চায় ৫টি — যেকোনো পাঁচটি লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 65,
+              "printedPage": 65,
+              "quote": "Focus on description, rather than judgment. Describe what has occurred,",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Focus on description, rather than judgment. Describe what has occurred,"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c10-p57-effective-feedback"
+      ],
+      "text": "Answer Key 2 (Q7) stops after 8 characteristics. The information sheet (p.57) has 12. The question asks for five; any five are correct.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "effective-feedback-characteristics",
   "importance": {
@@ -302,7 +368,23 @@
         "fidelity": "paraphrase",
         "text": "Use the 'feedback sandwich': positive, then negative, then a positive comment."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Feedback পরিষ্কার হবে, আর মানুষটাকে নয়, তার behaviour (কী করেছে) নিয়ে কথা বলবে।",
+      "নিজের অনুমান (inferences) নয়, যা চোখে দেখেছেন সেই observations বলুন।",
+      "সরাসরি advice চাপিয়ে না দিয়ে ideas আর information ভাগ করুন।",
+      "একটাই উত্তর বা সমাধান বলে না দিয়ে learner-এর সাথে বিকল্প (alternatives) খুঁজে দেখুন।",
+      "একটি goal অর্জনের নানা উপায় (procedures and means) আছে, সেদিকে নজর দিন।",
+      "Feedback learner-এর কাছে কতটা কাজের (value), সেটাই মূল বিবেচনা।",
+      "আপনি কত বলতে চান তা নয়, learner যতটুকু তথ্য কাজে লাগাতে পারবে ততটুকুই দিন।",
+      "ভালো-খারাপ রায় (judgment) না দিয়ে কী হয়েছে তার description দিন।",
+      "অনেক আগের কোনো ঘটনা ('there and then') নয়, এখনকার ('here and now') কাজ নিয়ে কথা বলুন।",
+      "কেন বলেছে তা নিয়ে নয়, কী বলেছে তা নিয়ে কথা বলুন।",
+      "Feedback দেওয়ার সঠিক সময় ও জায়গা বেছে নিন, আর confidentiality বজায় রাখুন।",
+      "'Feedback sandwich' — আগে একটি positive কথা, তারপর negative, শেষে আবার একটি positive comment।"
+    ],
+    "title": "Characteristics of effective feedback",
+    "titleBn": "কার্যকর feedback-এর বৈশিষ্ট্য"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -550,6 +632,7 @@
       "text": "Focus on behaviour, not the person; on description, not judgment."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

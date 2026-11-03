@@ -109,68 +109,68 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 | 59 | Reliability of Assessment | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Short Questions (Short 50) and CBLM 11 Self Check 1 (Q5). Highlighted in CBLM 11. Comes as short question. |
 | 60 | Summative Assessment Methods and Their Tools | 11 | ★★★ | 8 | 3 | 1 | 4 | Asked in Final Formative 01 (MCQ 8) and CBLM 11 Self Check 2 (Q1). Highlighted in CBLM 11. Comes as MCQ and short question. |
 | 61 | Learning/Training Strategy for Technical Competency: Course or Industrial Attachment (CBLM 7) | 7 | ★★★ | 8 | 3 | 1 | 4 | Asked in CBLM 7 Self Check 1 (Q3, Q5). Highlighted in CBLM 7. Comes as short question. |
-| 62 | Checking Existing Learning Resources | 8 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 9 Self Check 3 (Q2). Highlighted in CBLM 8. Comes as short question. |
-| 63 | Context of Assessment | 12 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 11 Self Check 1 (Q4). Highlighted in CBLM 12. Comes as short question. |
-| 64 | Examining Our Perceptions | 2 | ★★★ | 7 | 3 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 5). Highlighted in CBLM 2. Comes as MCQ. |
-| 65 | Learning Resources, Equipment and Their Storage in a Training Facility | 6 | ★★★ | 7 | 3 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Matching 2, 5). Highlighted in CBLM 6. Comes as matching. |
-| 66 | Gagné's Nine Steps for Writing Learning Materials | 8 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 8 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question. |
-| 67 | Sources for Hazard Identification | 3 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Unit 02 Short Questions (Short 2) and Short Questions (Short 76). Highlighted in CBLM 3. Comes as short question. |
-| 68 | Holistic Assessment Design and Clustering Competencies | 11 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Final Formative 01 (MCQ 7) and Short Questions (Short 70). Highlighted in CBLM 11. Comes as MCQ and short question. |
-| 69 | Informing Candidates Before Assessment | 12 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Short Questions (Short 60, 81) and CBLM 12 Self Check 1 (Q2). Highlighted in CBLM 12. Comes as short question. |
-| 70 | Planning, Scheduling and Goals of the Maintenance Department | 6 | ★★☆ | 7 | 2 | 1 | 4 | Asked in CBLM 6 Self Check 1 (Q1, Q2). Highlighted in CBLM 6. Comes as short question. |
-| 71 | Major Parts of a CBLM | 8 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 8 Self Check 1 (Q5). Highlighted in CBLM 8. Comes as short question. |
-| 72 | Range of Learning Operational Resources | 8 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 10 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question. |
-| 73 | Hazard and PPE Symbols | 3 | ★★☆ | 7 | 2 | 1 | 4 | Asked in CBLM 3 Self Check 2 (Q1, Q2). Highlighted in CBLM 3. Comes as short question. |
-| 74 | Task Analysis for a Learning Session | 1 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Unit 01 Short Questions (Short 19) and Short Questions (Short 33). Highlighted in CBLM 1. Comes as short question. |
-| 75 | Validating Training Requirements | 8 | ★★☆ | 7 | 3 | 2 | 2 | Asked in CBLM 9 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question. |
-| 76 | Characteristics of a Well-Organised Workshop | 6 | ★★★ | 7 | 3 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Matching 1). Highlighted in CBLM 6. Comes as matching. |
-| 77 | Why Young Workers Get Hurt | 3 | ★★☆ | 7 | 2 | 1 | 4 | Asked in Unit 02 Short Questions (Short 13) and Short Questions (Short 16). Highlighted in CBLM 3. Comes as short question. |
-| 78 | Eight Essential Components of Apprenticeship Training | 1 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 1 Self Check 2 (Q5). Highlighted in CBLM 1. Comes as short question. |
-| 79 | Assessing Your Professional Skills and Future Career Options (CBLM 5) | 5 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 5 Self Check 2 (Q1). Highlighted in CBLM 5. Comes as short question. |
-| 80 | Stages of Competency Assessment | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q1). Highlighted in CBLM 12. Comes as short question. |
-| 81 | Identifying the Needs of Candidates | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 6). Highlighted in CBLM 11. Comes as short question. |
-| 82 | Causes of Accidents | 3 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 14). Highlighted in CBLM 3. Comes as short question. |
-| 83 | How the Designer Checks Each Rule of Evidence | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 46, 47, Short 48, 51, Short 78). Highlighted in CBLM 11. Comes as short question. |
-| 84 | Choosing Assessment Methods | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 57). Highlighted in CBLM 11. Comes as short question. |
-| 85 | Characteristics of Effective Feedback in Training | 10 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q7). Highlighted in CBLM 10. Comes as short question. |
-| 86 | Free Consent and Confidentiality | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 61). Highlighted in CBLM 12. Comes as short question. |
-| 87 | Effects of Physical, Biological, Chemical and Ergonomic Hazards | 3 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 17). Highlighted in CBLM 3. Comes as short question. |
-| 88 | Individual Differences of Learners | 2 | ★★★ | 6 | 2 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 2). Highlighted in CBLM 2. Comes as MCQ. |
-| 89 | Analysing Your Institution's Goals and Objectives (CBLM 5) | 5 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 5 Self Check 1 (Q3). Highlighted in CBLM 5. Comes as short question. |
-| 90 | Learning Activities and Methods for Learning Materials | 8 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 8 Self Check 1 (Q4). Highlighted in CBLM 8. Comes as short question. |
-| 91 | Legal and Ethical Responsibilities in Assessment | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 62, 77). Highlighted in CBLM 12. Comes as short question. |
-| 92 | Links Between Learning Sessions | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q4). Highlighted in CBLM 9. Comes as short question. |
-| 93 | Workplace Issues: Managing Work and Work Relationships | 1 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 1 Self Check 3 (Q1). Highlighted in CBLM 1. Comes as short question. |
-| 94 | Modelling Professional Techniques and Strategies (CBLM 5) | 5 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 5 Self Check 1 (Q1). Highlighted in CBLM 5. Comes as short question. |
-| 95 | Periodic Maintenance and the Historical Record | 6 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 6 Self Check 1 (Q3). Highlighted in CBLM 6. Comes as short question. |
-| 96 | Planning for Training Resources | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 3 (Q1). Highlighted in CBLM 9. Comes as short question. |
-| 97 | Preventive vs Corrective Maintenance | 6 | ★★★ | 6 | 2 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 7, MCQ 6, 7, Matching 3). Highlighted in CBLM 6. Comes as matching, MCQ and short question. |
-| 98 | Principles of Competency Based Assessment | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 64). Highlighted in CBLM 11. Comes as short question. |
-| 99 | Professional Networks for Continuous Learning (CBLM 5) | 5 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 5 Self Check 3 (Q3). Highlighted in CBLM 5. Comes as short question. |
-| 100 | Reviewing the Assessment Process | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q18). Highlighted in CBLM 12. Comes as short question. |
-| 101 | Self Evaluation of Training Performance | 10 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 10 Self Check 3 (Q3). Highlighted in CBLM 10. Comes as short question. |
-| 102 | Session Plan | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q1). Highlighted in CBLM 9. Comes as short question. |
-| 103 | Steps in Preparing a Session Plan | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q3). Highlighted in CBLM 9. Comes as short question. |
-| 104 | Sources of Feedback on Your Performance (CBLM 5) | 5 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 5 Self Check 2 (Q2). Highlighted in CBLM 5. Comes as short question. |
-| 105 | Personal Plan for Technical Competency (CBLM 7) | 7 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 7 Self Check 1 (Q4). Highlighted in CBLM 7. Comes as short question. |
-| 106 | Third Party Report | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 11 Self Check 4 (Q3). Highlighted in CBLM 11. Comes as short question. |
-| 107 | Selecting a Training Venue | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 3 (Q3). Highlighted in CBLM 9. Comes as short question. |
-| 108 | Types of Emergency | 3 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Unit 02 Short Questions (Short 7). Highlighted in CBLM 3. Comes as short question. |
-| 109 | Continuous Learning and Four Ways to Professional Development (CBLM 5) | 5 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 5 Self Check 3 (Q2). Highlighted in CBLM 5. Comes as short question. |
-| 110 | Why Use Learning Materials | 8 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 8 Self Check 1 (Q2). Highlighted in CBLM 8. Comes as short question. |
-| 111 | Workplace Hazard | 3 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 3 Self Check 1 (Q1). Highlighted in CBLM 3. Comes as short question. |
-| 112 | Acute and Chronic Injuries and Illnesses | 3 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Unit 02 Short Questions (Short 16). Highlighted in CBLM 3. Comes as short question. |
-| 113 | Assessment Benchmark | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 49). Highlighted in CBLM 11. Comes as short question. |
-| 114 | Determining Learner Readiness for Assessment | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q10). Highlighted in CBLM 10. Comes as short question. |
-| 115 | Benefits of Feedback on Assessment | 12 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q17). Highlighted in CBLM 12. Comes as short question. |
-| 116 | Planning a Facility for Competency-Based Training (CBT Curriculum) | 6 | ★★☆ | 5 | 3 | 2 | 0 | Highlighted in CBLM 6. |
-| 117 | Competency Based Training (CBT) Program | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q1). Highlighted in CBLM 10. Comes as short question. |
-| 118 | Traditional Training vs CBT Programs | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q2). Highlighted in CBLM 10. Comes as short question. |
-| 119 | Checking Learner Needs and Understanding | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q9). Highlighted in CBLM 10. Comes as short question. |
-| 120 | Competency Based Assessment: Definition and Characteristics | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 54, 72). Highlighted in CBLM 11. Comes as short question. |
-| 121 | Competency: Definition, Types and Key Features | 1 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Unit 01 Short Questions (Short 2). Highlighted in CBLM 1. Comes as short question. |
-| 122 | Sources of Competency Standards Documents (CBLM 7) | 7 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 7 Self Check 1 (Q2). Highlighted in CBLM 7. Comes as short question. |
-| 123 | Conflict of Interest in Assessment | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 63, 82). Highlighted in CBLM 11. Comes as short question. |
+| 62 | Checking Existing Learning Resources | 8 | ★★★ | 7 | 3 | 2 | 2 | Asked in CBLM 9 Self Check 3 (Q2). Highlighted in CBLM 8. Comes as short question. |
+| 63 | Examining Our Perceptions | 2 | ★★★ | 7 | 3 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 5). Highlighted in CBLM 2. Comes as MCQ. |
+| 64 | Learning Resources, Equipment and Their Storage in a Training Facility | 6 | ★★★ | 7 | 3 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Matching 2, 5). Highlighted in CBLM 6. Comes as matching. |
+| 65 | Gagné's Nine Steps for Writing Learning Materials | 8 | ★★★ | 7 | 3 | 2 | 2 | Asked in CBLM 8 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question. |
+| 66 | Sources for Hazard Identification | 3 | ★★★ | 7 | 2 | 1 | 4 | Asked in Unit 02 Short Questions (Short 2) and Short Questions (Short 76). Highlighted in CBLM 3. Comes as short question. |
+| 67 | Holistic Assessment Design and Clustering Competencies | 11 | ★★★ | 7 | 2 | 1 | 4 | Asked in Final Formative 01 (MCQ 7) and Short Questions (Short 70). Highlighted in CBLM 11. Comes as MCQ and short question. |
+| 68 | Informing Candidates Before Assessment | 12 | ★★★ | 7 | 2 | 1 | 4 | Asked in Short Questions (Short 60, 81) and CBLM 12 Self Check 1 (Q2). Highlighted in CBLM 12. Comes as short question. |
+| 69 | Planning, Scheduling and Goals of the Maintenance Department | 6 | ★★★ | 7 | 2 | 1 | 4 | Asked in CBLM 6 Self Check 1 (Q1, Q2). Highlighted in CBLM 6. Comes as short question. |
+| 70 | Major Parts of a CBLM | 8 | ★★★ | 7 | 3 | 2 | 2 | Asked in CBLM 8 Self Check 1 (Q5). Highlighted in CBLM 8. Comes as short question. |
+| 71 | Range of Learning Operational Resources | 8 | ★★★ | 7 | 3 | 2 | 2 | Asked in CBLM 10 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question. |
+| 72 | Hazard and PPE Symbols | 3 | ★★★ | 7 | 2 | 1 | 4 | Asked in CBLM 3 Self Check 2 (Q1, Q2). Highlighted in CBLM 3. Comes as short question. |
+| 73 | Task Analysis for a Learning Session | 1 | ★★★ | 7 | 2 | 1 | 4 | Asked in Unit 01 Short Questions (Short 19) and Short Questions (Short 33). Highlighted in CBLM 1. Comes as short question. |
+| 74 | Validating Training Requirements | 8 | ★★★ | 7 | 3 | 2 | 2 | Asked in CBLM 9 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question. |
+| 75 | Characteristics of a Well-Organised Workshop | 6 | ★★★ | 7 | 3 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Matching 1). Highlighted in CBLM 6. Comes as matching. |
+| 76 | Why Young Workers Get Hurt | 3 | ★★★ | 7 | 2 | 1 | 4 | Asked in Unit 02 Short Questions (Short 13) and Short Questions (Short 16). Highlighted in CBLM 3. Comes as short question. |
+| 77 | Eight Essential Components of Apprenticeship Training | 1 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 1 Self Check 2 (Q5). Highlighted in CBLM 1. Comes as short question. |
+| 78 | Assessing Your Professional Skills and Future Career Options (CBLM 5) | 5 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 5 Self Check 2 (Q1). Highlighted in CBLM 5. Comes as short question. |
+| 79 | Stages of Competency Assessment | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q1). Highlighted in CBLM 12. Comes as short question. |
+| 80 | Identifying the Needs of Candidates | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 6). Highlighted in CBLM 11. Comes as short question. |
+| 81 | Causes of Accidents | 3 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 14). Highlighted in CBLM 3. Comes as short question. |
+| 82 | How the Designer Checks Each Rule of Evidence | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 46, 47, Short 48, 51, Short 78). Highlighted in CBLM 11. Comes as short question. |
+| 83 | Choosing Assessment Methods | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 57). Highlighted in CBLM 11. Comes as short question. |
+| 84 | Characteristics of Effective Feedback in Training | 10 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q7). Highlighted in CBLM 10. Comes as short question. |
+| 85 | Free Consent and Confidentiality | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 61). Highlighted in CBLM 12. Comes as short question. |
+| 86 | Effects of Physical, Biological, Chemical and Ergonomic Hazards | 3 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 17). Highlighted in CBLM 3. Comes as short question. |
+| 87 | Individual Differences of Learners | 2 | ★★★ | 6 | 2 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 2). Highlighted in CBLM 2. Comes as MCQ. |
+| 88 | Analysing Your Institution's Goals and Objectives (CBLM 5) | 5 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 5 Self Check 1 (Q3). Highlighted in CBLM 5. Comes as short question. |
+| 89 | Learning Activities and Methods for Learning Materials | 8 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 8 Self Check 1 (Q4). Highlighted in CBLM 8. Comes as short question. |
+| 90 | Legal and Ethical Responsibilities in Assessment | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 62, 77). Highlighted in CBLM 12. Comes as short question. |
+| 91 | Links Between Learning Sessions | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q4). Highlighted in CBLM 9. Comes as short question. |
+| 92 | Modelling Professional Techniques and Strategies (CBLM 5) | 5 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 5 Self Check 1 (Q1). Highlighted in CBLM 5. Comes as short question. |
+| 93 | Periodic Maintenance and the Historical Record | 6 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 6 Self Check 1 (Q3). Highlighted in CBLM 6. Comes as short question. |
+| 94 | Planning for Training Resources | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 3 (Q1). Highlighted in CBLM 9. Comes as short question. |
+| 95 | Preventive vs Corrective Maintenance | 6 | ★★★ | 6 | 2 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 7, MCQ 6, 7, Matching 3). Highlighted in CBLM 6. Comes as matching, MCQ and short question. |
+| 96 | Principles of Competency Based Assessment | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Short Questions (Short 64). Highlighted in CBLM 11. Comes as short question. |
+| 97 | Professional Networks for Continuous Learning (CBLM 5) | 5 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 5 Self Check 3 (Q3). Highlighted in CBLM 5. Comes as short question. |
+| 98 | Reviewing the Assessment Process | 12 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q18). Highlighted in CBLM 12. Comes as short question. |
+| 99 | Self Evaluation of Training Performance | 10 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 10 Self Check 3 (Q3). Highlighted in CBLM 10. Comes as short question. |
+| 100 | Session Plan | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q1). Highlighted in CBLM 9. Comes as short question. |
+| 101 | Steps in Preparing a Session Plan | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q3). Highlighted in CBLM 9. Comes as short question. |
+| 102 | Sources of Feedback on Your Performance (CBLM 5) | 5 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 5 Self Check 2 (Q2). Highlighted in CBLM 5. Comes as short question. |
+| 103 | Personal Plan for Technical Competency (CBLM 7) | 7 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 7 Self Check 1 (Q4). Highlighted in CBLM 7. Comes as short question. |
+| 104 | Third Party Report | 11 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 11 Self Check 4 (Q3). Highlighted in CBLM 11. Comes as short question. |
+| 105 | Selecting a Training Venue | 9 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 9 Self Check 3 (Q3). Highlighted in CBLM 9. Comes as short question. |
+| 106 | Types of Emergency | 3 | ★★☆ | 6 | 3 | 1 | 2 | Asked in Unit 02 Short Questions (Short 7). Highlighted in CBLM 3. Comes as short question. |
+| 107 | Continuous Learning and Four Ways to Professional Development (CBLM 5) | 5 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 5 Self Check 3 (Q2). Highlighted in CBLM 5. Comes as short question. |
+| 108 | Why Use Learning Materials | 8 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 8 Self Check 1 (Q2). Highlighted in CBLM 8. Comes as short question. |
+| 109 | Workplace Hazard | 3 | ★★☆ | 6 | 3 | 1 | 2 | Asked in CBLM 3 Self Check 1 (Q1). Highlighted in CBLM 3. Comes as short question. |
+| 110 | Acute and Chronic Injuries and Illnesses | 3 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Unit 02 Short Questions (Short 16). Highlighted in CBLM 3. Comes as short question. |
+| 111 | Assessment Benchmark | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 49). Highlighted in CBLM 11. Comes as short question. |
+| 112 | What the Assessment Context Includes | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 11 Self Check 1 (Q4). Highlighted in CBLM 11. Comes as short question. |
+| 113 | Determining Learner Readiness for Assessment | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q10). Highlighted in CBLM 10. Comes as short question. |
+| 114 | Benefits of Feedback on Assessment | 12 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 12 Self Check 1 (Q17). Highlighted in CBLM 12. Comes as short question. |
+| 115 | Planning a Facility for Competency-Based Training (CBT Curriculum) | 6 | ★★☆ | 5 | 3 | 2 | 0 | Highlighted in CBLM 6. |
+| 116 | Competency Based Training (CBT) Program | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q1). Highlighted in CBLM 10. Comes as short question. |
+| 117 | Traditional Training vs CBT Programs | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q2). Highlighted in CBLM 10. Comes as short question. |
+| 118 | Checking Learner Needs and Understanding | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q9). Highlighted in CBLM 10. Comes as short question. |
+| 119 | Competency Based Assessment: Definition and Characteristics | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 54, 72). Highlighted in CBLM 11. Comes as short question. |
+| 120 | Competency: Definition, Types and Key Features | 1 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Unit 01 Short Questions (Short 2). Highlighted in CBLM 1. Comes as short question. |
+| 121 | Sources of Competency Standards Documents (CBLM 7) | 7 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 7 Self Check 1 (Q2). Highlighted in CBLM 7. Comes as short question. |
+| 122 | Conflict of Interest in Assessment | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 63, 82). Highlighted in CBLM 11. Comes as short question. |
+| 123 | Context of Assessment | 12 | ★★☆ | 5 | 3 | 2 | 0 | Highlighted in CBLM 12. |
 | 124 | Controlling Hazards: Source, Path, Worker | 3 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Final Formative 01 (Matching 13). Highlighted in CBLM 3. Comes as matching. |
 | 125 | Steps in Designing Competency Based Assessment | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 43). Highlighted in CBLM 11. Comes as short question. |
 | 126 | Employer's Safety Duties | 3 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 3 Self Check 1 (Q5). Highlighted in CBLM 3. Comes as short question. |
@@ -180,98 +180,153 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 | 130 | Five-Step Process of Modelling (CBLM 5) | 5 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 5 Self Check 1 (Q2). Highlighted in CBLM 5. Comes as short question. |
 | 131 | Ground Rules for Modelling Inclusiveness | 2 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Unit 02 Short Questions (Short 8). Highlighted in CBLM 2. Comes as short question. |
 | 132 | Housekeeping in the Training Workshop | 6 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 6 Self Check 1 (Q4). Highlighted in CBLM 6. Comes as short question. |
-| 133 | Observation Checklist | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 41, 42). Highlighted in CBLM 11. Comes as short question. |
-| 134 | Organisational and Legal Requirements for Personal Work Goals (CBLM 5) | 5 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 5 Self Check 1 (Q4). Highlighted in CBLM 5. Comes as short question. |
-| 135 | Occupational Health and Safety Management System | 3 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 3 Self Check 1 (Q2). Highlighted in CBLM 3. Comes as short question. |
-| 136 | Preparing Candidates and a Supportive Environment | 12 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 83). Highlighted in CBLM 12. Comes as short question. |
-| 137 | Registered Training Organisation (RTO) and Its Benefits | 1 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 1 Self Check 2 (Q4). Highlighted in CBLM 1. Comes as short question. |
-| 138 | Criteria for Session Learning Outcomes (Observable, Measurable, Action Verbs) | 9 | ★★☆ | 5 | 3 | 2 | 0 | Highlighted in CBLM 9. |
-| 139 | Supervisor's Safety Responsibilities | 3 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 15). Highlighted in CBLM 3. Comes as short question. |
-| 140 | Teachers' Roles and Requirements in Supporting Learners | 1 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 1 Self Check 4 (Q2). Highlighted in CBLM 1. Comes as short question. |
-| 141 | Things a TVET Trainer Should Avoid | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q4). Highlighted in CBLM 10. Comes as short question. |
-| 142 | Training Methods, Coaching and Mentoring | 9 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q2). Highlighted in CBLM 9. Comes as short question. |
-| 143 | Training Needs: The Competency Gap | 9 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 9 Self Check 1 (Q2). Highlighted in CBLM 9. Comes as short question. |
-| 144 | Role of a Competent TVET Teacher/Trainer | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q3). Highlighted in CBLM 10. Comes as short question. |
-| 145 | Steps for Adapting Existing Learning Materials | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
-| 146 | Adult Learning Principles that Resemble Inclusivity | 2 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 2. |
-| 147 | Legal and Ethical Requirements for Assessment Design | 11 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 11. |
-| 148 | Identifying Material and Resource Requirements | 11 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 11. |
-| 149 | Client Needs, Expectations and Operational Limits | 1 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 1. |
-| 150 | Key Points for Developing Your Writing Style | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
-| 151 | 5S Approach in Workshop Keeping | 6 | ★★★ | 4 | 0 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 8). Comes as short question. |
-| 152 | Methods of Formative Assessment | 11 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 11. |
-| 153 | Strategies for Gender Inclusivity in the Class | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
-| 154 | Giving and Receiving Feedback on a Learning Session | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
-| 155 | Preparing Learners in the First Session (GLOSS Model) | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
-| 156 | What Makes Good Learning Material | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
-| 157 | System of Instruction and Workshop Design (Teacher-Centred vs Student-Centred) | 6 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 6. |
-| 158 | Guidelines for Learner Behaviour and Sample Ground Rules | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
-| 159 | Tips for Preparing and Showing PowerPoint Slides | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
-| 160 | Preparing to Write Learning Materials | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
-| 161 | Relaxed Presentation: Voice and Body Language (SOLER) | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
-| 162 | Eight Principles of Learning | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
-| 163 | Program Delivery Plan | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
-| 164 | Strategies to Include Persons with Disability (PWDs) in the Class | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
-| 165 | Seven Question Types for Facilitators | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
-| 166 | Shadow Board and Tool Boards | 6 | ★★★ | 4 | 0 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 9). Comes as MCQ. |
-| 167 | Factors to Consider in Laying Out a Shop | 6 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 6. |
-| 168 | SMART Goals for Personal Development (CBLM 5) | 5 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 5. |
-| 169 | Steps in Maintaining Training Equipment and Tools | 6 | ★★★ | 4 | 0 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 9, MCQ 8). Comes as MCQ and short question. |
-| 170 | Self-Assessment of Own Technical Skills: Four Steps (CBLM 7) | 7 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 7. |
-| 171 | Disposal of Toxic Waste and Recycling | 6 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 6. |
-| 172 | VARK Learning Styles | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
-| 173 | Guidelines for Using Blackboards and Whiteboards | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
-| 174 | Workshop Environmental Factors: Temperature, Ventilation and Lighting | 6 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 6. |
-| 175 | Workshop Storage, Security and Access | 6 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 6. |
-| 176 | Writing Learning Outcomes and Assessment Criteria | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
-| 177 | Access and Equity Policy | 2 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 2. |
-| 178 | Accident and Incident | 3 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 3. |
-| 179 | What the Assessment Context Includes | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
-| 180 | Roles and Responsibilities of an Assessment Designer | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
-| 181 | Role of an Assessor of Competency | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
-| 182 | Principles of Competency Based Training System | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
-| 183 | Communication Strategies for Learner Participation | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
-| 184 | Competency Assessment Result Summary (CARS) | 12 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in Short Questions (Short 75). Comes as short question. |
-| 185 | Computer Based Learning: Advantages and Limitations | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
-| 186 | Development Opportunities that Support Continuous Learning (CBLM 5) | 5 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in CBLM 5 Self Check 3 (Q1). Comes as short question. |
-| 187 | Characteristics of a Good Information Sheet | 8 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 8. |
-| 188 | Identifying Existing Learning Resources | 8 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 8. |
-| 189 | Features of an Inclusive Learning Environment | 2 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 2. |
-| 190 | Planning for Inclusiveness and Work Strategies to Support It | 2 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in CBLM 2 Self Check 2 (Q1). Comes as short question. |
-| 191 | Learner Characteristics for Session Planning | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
-| 192 | Learning Domains: Cognitive, Affective and Psychomotor | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
-| 193 | Learning to Learn Philosophy | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
-| 194 | Managing Inappropriate Learner Behaviour | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
-| 195 | MS Word Basics: Bullets and Merging Table Cells | 4 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in Short Questions (Short 20, 21). Comes as short question. |
-| 196 | Main Functions of the NSDA | 1 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in Short Questions (Short 5). Comes as short question. |
-| 197 | Learning Outcomes of the OSH Unit | 3 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 3. |
-| 198 | Performance Appraisal Methods (CBLM 5) | 5 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 5. |
-| 199 | Portfolio of Evidence | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
-| 200 | Posters and Charts: Purpose and Layout Tips | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
-| 201 | Providing Practice Opportunities | 10 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q6). Comes as short question. |
-| 202 | How to Practise Inclusivity (Five Ways) | 2 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 2. |
-| 203 | Pre-Training and In-Training Support for Clients | 1 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in CBLM 1 Self Check 4 (Q1). Comes as short question. |
-| 204 | Purposes of Assessment | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
-| 205 | Components of a Quality Plan (CBLM 5) | 5 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 5. |
-| 206 | Recognition Assessment: People and Evidence | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
-| 207 | Selecting Appropriate Delivery Techniques | 10 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q5). Comes as short question. |
-| 208 | Self-Assessment Instruments | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
-| 209 | Verbal and Body Language Sensitive to Difference | 2 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 2. |
-| 210 | Session Outcomes (Performance, Standards, Conditions) | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
-| 211 | Session Review (Conclusion) | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
-| 212 | Sequencing the Content of a Session | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
-| 213 | Steps of a Skill Demonstration | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
-| 214 | Role of Students in a CBT System | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
-| 215 | Underpinning Skills and Knowledge: Finding Own Skills and Knowledge Gaps (CBLM 7) | 7 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 7. |
-| 216 | Training Delivery Modes | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
-| 217 | Developments and Trends Impacting Professional Practice (CBLM 5) | 5 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in CBLM 5 Self Check 2 (Q3). Comes as short question. |
-| 218 | Why Provide Variety in Delivering Sessions | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
-| 219 | Using Video in Training | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
-| 220 | Competency Based Learning Material (CBLM) | 8 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 8. |
-| 221 | Why Review Training Delivery | 10 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in CBLM 10 Self Check 3 (Q1). Comes as short question. |
-| 222 | Excel and PowerPoint Terms: Workbook vs Worksheet, Animation vs Transition | 4 | ★☆☆ | 3 | 0 | 1 | 2 | Asked in Short Questions (Short 22, 23). Comes as short question. |
-| 223 | Considerations for Workplace Assessment | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
-| 224 | Safety Factors: Procedures for a Safe Workshop | 6 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 6. |
+| 133 | Workplace Issues: Managing Work and Work Relationships | 1 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 1 Self Check 3 (Q1). Highlighted in CBLM 1. Comes as short question. |
+| 134 | Observation Checklist | 11 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 41, 42). Highlighted in CBLM 11. Comes as short question. |
+| 135 | Organisational and Legal Requirements for Personal Work Goals (CBLM 5) | 5 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 5 Self Check 1 (Q4). Highlighted in CBLM 5. Comes as short question. |
+| 136 | Occupational Health and Safety Management System | 3 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 3 Self Check 1 (Q2). Highlighted in CBLM 3. Comes as short question. |
+| 137 | Preparing Candidates and a Supportive Environment | 12 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 83). Highlighted in CBLM 12. Comes as short question. |
+| 138 | Registered Training Organisation (RTO) and Its Benefits | 1 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 1 Self Check 2 (Q4). Highlighted in CBLM 1. Comes as short question. |
+| 139 | Criteria for Session Learning Outcomes (Observable, Measurable, Action Verbs) | 9 | ★★☆ | 5 | 3 | 2 | 0 | Highlighted in CBLM 9. |
+| 140 | Supervisor's Safety Responsibilities | 3 | ★★☆ | 5 | 2 | 1 | 2 | Asked in Short Questions (Short 15). Highlighted in CBLM 3. Comes as short question. |
+| 141 | Teachers' Roles and Requirements in Supporting Learners | 1 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 1 Self Check 4 (Q2). Highlighted in CBLM 1. Comes as short question. |
+| 142 | Things a TVET Trainer Should Avoid | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q4). Highlighted in CBLM 10. Comes as short question. |
+| 143 | Training Methods, Coaching and Mentoring | 9 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 9 Self Check 2 (Q2). Highlighted in CBLM 9. Comes as short question. |
+| 144 | Training Needs: The Competency Gap | 9 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 9 Self Check 1 (Q2). Highlighted in CBLM 9. Comes as short question. |
+| 145 | Role of a Competent TVET Teacher/Trainer | 10 | ★★☆ | 5 | 2 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q3). Highlighted in CBLM 10. Comes as short question. |
+| 146 | Steps for Adapting Existing Learning Materials | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
+| 147 | Adult Learning Principles that Resemble Inclusivity | 2 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 2. |
+| 148 | Legal and Ethical Requirements for Assessment Design | 11 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 11. |
+| 149 | Identifying Material and Resource Requirements | 11 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 11. |
+| 150 | Client Needs, Expectations and Operational Limits | 1 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 1. |
+| 151 | Key Points for Developing Your Writing Style | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
+| 152 | 5S Approach in Workshop Keeping | 6 | ★★★ | 4 | 0 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 8). Comes as short question. |
+| 153 | Methods of Formative Assessment | 11 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 11. |
+| 154 | Strategies for Gender Inclusivity in the Class | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
+| 155 | Giving and Receiving Feedback on a Learning Session | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 156 | Preparing Learners in the First Session (GLOSS Model) | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 157 | What Makes Good Learning Material | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
+| 158 | System of Instruction and Workshop Design (Teacher-Centred vs Student-Centred) | 6 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 6. |
+| 159 | Guidelines for Learner Behaviour and Sample Ground Rules | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 160 | Tips for Preparing and Showing PowerPoint Slides | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 161 | Preparing to Write Learning Materials | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
+| 162 | Relaxed Presentation: Voice and Body Language (SOLER) | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 163 | Eight Principles of Learning | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 164 | Program Delivery Plan | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
+| 165 | Strategies to Include Persons with Disability (PWDs) in the Class | 9 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 9. |
+| 166 | Seven Question Types for Facilitators | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 167 | Seeking Feedback on Work-Management Skills and Professional Relationships | 1 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 1. |
+| 168 | Shadow Board and Tool Boards | 6 | ★★★ | 4 | 0 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (MCQ 9). Comes as MCQ. |
+| 169 | Factors to Consider in Laying Out a Shop | 6 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 6. |
+| 170 | SMART Goals for Personal Development (CBLM 5) | 5 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 5. |
+| 171 | Steps in Maintaining Training Equipment and Tools | 6 | ★★★ | 4 | 0 | 1 | 3 | Asked in CBT&A L4 Written Test — Inclusivity & Maintenance (Short 9, MCQ 8). Comes as MCQ and short question. |
+| 172 | Self-Assessment of Own Technical Skills: Four Steps (CBLM 7) | 7 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 7. |
+| 173 | Disposal of Toxic Waste and Recycling | 6 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 6. |
+| 174 | VARK Learning Styles | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 175 | Guidelines for Using Blackboards and Whiteboards | 10 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 10. |
+| 176 | Workshop Environmental Factors: Temperature, Ventilation and Lighting | 6 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 6. |
+| 177 | Workshop Storage, Security and Access | 6 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 6. |
+| 178 | Writing Learning Outcomes and Assessment Criteria | 8 | ★★☆ | 4 | 3 | 1 | 0 | Highlighted in CBLM 8. |
+| 179 | Access and Equity Policy | 2 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 2. |
+| 180 | Accident and Incident | 3 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 3. |
+| 181 | Roles and Responsibilities of an Assessment Designer | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
+| 182 | Role of an Assessor of Competency | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
+| 183 | Principles of Competency Based Training System | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 184 | Communication Strategies for Learner Participation | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 185 | Competency Assessment Result Summary (CARS) | 12 | ★★☆ | 3 | 0 | 1 | 2 | Asked in Short Questions (Short 75). Comes as short question. |
+| 186 | Computer Based Learning: Advantages and Limitations | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 187 | Development Opportunities that Support Continuous Learning (CBLM 5) | 5 | ★★☆ | 3 | 0 | 1 | 2 | Asked in CBLM 5 Self Check 3 (Q1). Comes as short question. |
+| 188 | Emergency Response Plan | 3 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 3. |
+| 189 | Characteristics of a Good Information Sheet | 8 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 8. |
+| 190 | Identifying Existing Learning Resources | 8 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 8. |
+| 191 | Features of an Inclusive Learning Environment | 2 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 2. |
+| 192 | Planning for Inclusiveness and Work Strategies to Support It | 2 | ★★☆ | 3 | 0 | 1 | 2 | Asked in CBLM 2 Self Check 2 (Q1). Comes as short question. |
+| 193 | Informing Relevant People About Assessment | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
+| 194 | Learner Characteristics for Session Planning | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
+| 195 | Learning Domains: Cognitive, Affective and Psychomotor | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 196 | Learning to Learn Philosophy | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 197 | Managing Inappropriate Learner Behaviour | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 198 | MS Word Basics: Bullets and Merging Table Cells | 4 | ★★☆ | 3 | 0 | 1 | 2 | Asked in Short Questions (Short 20, 21). Comes as short question. |
+| 199 | Main Functions of the NSDA | 1 | ★★☆ | 3 | 0 | 1 | 2 | Asked in Short Questions (Short 5). Comes as short question. |
+| 200 | Learning Outcomes of the OSH Unit | 3 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 3. |
+| 201 | Performance Appraisal Methods (CBLM 5) | 5 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 5. |
+| 202 | Training Session and Factors in Planning a Session | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
+| 203 | Portfolio of Evidence | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
+| 204 | Posters and Charts: Purpose and Layout Tips | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 205 | Providing Practice Opportunities | 10 | ★★☆ | 3 | 0 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q6). Comes as short question. |
+| 206 | How to Practise Inclusivity (Five Ways) | 2 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 2. |
+| 207 | Pre-Training and In-Training Support for Clients | 1 | ★★☆ | 3 | 0 | 1 | 2 | Asked in CBLM 1 Self Check 4 (Q1). Comes as short question. |
+| 208 | Psychosocial Hazards: Stress and Violence | 3 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 3. |
+| 209 | Purposes of Assessment | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
+| 210 | Components of a Quality Plan (CBLM 5) | 5 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 5. |
+| 211 | Recognition Assessment: People and Evidence | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
+| 212 | Responsibilities of a Reviewer | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
+| 213 | Selecting Appropriate Delivery Techniques | 10 | ★★☆ | 3 | 0 | 1 | 2 | Asked in CBLM 10 Self Check 2 (Q5). Comes as short question. |
+| 214 | Self-Assessment Guide (Pre-Training Self-Assessment Checklist) | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
+| 215 | Self-Assessment Instruments | 12 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 12. |
+| 216 | Verbal and Body Language Sensitive to Difference | 2 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 2. |
+| 217 | Session Outcomes (Performance, Standards, Conditions) | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
+| 218 | Session Review (Conclusion) | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
+| 219 | Sequencing the Content of a Session | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
+| 220 | Steps of a Skill Demonstration | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 221 | Role of Students in a CBT System | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 222 | Team Building: Working Collaboratively with Colleagues | 1 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 1. |
+| 223 | Underpinning Skills and Knowledge: Finding Own Skills and Knowledge Gaps (CBLM 7) | 7 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 7. |
+| 224 | Training Delivery Modes | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
+| 225 | Overall Aim and Outcome of a Training Program | 9 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 9. |
+| 226 | Developments and Trends Impacting Professional Practice (CBLM 5) | 5 | ★★☆ | 3 | 0 | 1 | 2 | Asked in CBLM 5 Self Check 2 (Q3). Comes as short question. |
+| 227 | Reformed TVET System: Outputs of the TVET Reform Agenda | 1 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 1. |
+| 228 | Why Provide Variety in Delivering Sessions | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 229 | Using Video in Training | 10 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 10. |
+| 230 | Competency Based Learning Material (CBLM) | 8 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 8. |
+| 231 | Why Review Training Delivery | 10 | ★★☆ | 3 | 0 | 1 | 2 | Asked in CBLM 10 Self Check 3 (Q1). Comes as short question. |
+| 232 | Excel and PowerPoint Terms: Workbook vs Worksheet, Animation vs Transition | 4 | ★★☆ | 3 | 0 | 1 | 2 | Asked in Short Questions (Short 22, 23). Comes as short question. |
+| 233 | Considerations for Workplace Assessment | 11 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 11. |
+| 234 | Safety Factors: Procedures for a Safe Workshop | 6 | ★★☆ | 3 | 2 | 1 | 0 | Highlighted in CBLM 6. |
+| 235 | Components of an Assessment Activity | 12 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 236 | Costs of Assessment and Assessment Timeframes | 11 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 237 | Assessment Process and Pathways | 11 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 238 | Notes to the CBLM Developer: Writing Each Sheet of a CBLM | 8 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 239 | Checklist for Selecting Learning Resources | 8 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 240 | Choosing Training Facilities and Learning Resources | 10 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 241 | Conflict Resolution and Negotiation Skills with Learners | 10 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 242 | Copyright Considerations When Writing Learning Materials | 8 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 243 | Dealing with Hazards: Report and Ask Key Questions | 3 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 244 | Documented Resources to Support Inclusive Practices | 2 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 245 | Duty of Care: Consider the Individual Learner | 3 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 246 | Emergency Equipment and Being Prepared | 3 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 247 | Equipment Maintenance Schedule and Inspection Checklist | 6 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 248 | Handouts and Print-Based Training Materials | 10 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 249 | Icebreakers in the First Session | 10 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 250 | Communication and Interpersonal Skills for Inclusive Learning | 2 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 251 | The Internet as a Learning Resource | 10 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 252 | Learning from Session Evaluation and Action Plans | 10 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 253 | Planning Maintenance: Who, What, Where, When and How (5Ms) | 6 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 254 | Maintenance Program and Maintenance Schedule | 6 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 255 | Reporting Process and Documentation Process (Inspection Reports) | 6 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 256 | Managing and Monitoring Training Activities | 10 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 257 | Proper Use of Equipment and the Manufacturer's Manual | 6 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 258 | Modelling Inclusiveness in Work Performance | 2 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 259 | Feedback on a Negative Assessment | 12 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 260 | OHS Issues Associated with Inclusivity (Duty of Care) | 2 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 261 | Using the Overhead Projector (OHP) | 10 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 262 | Physical Environment Support Needs | 2 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 263 | Presentation Methods and Learning Activities for Competency Development | 10 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 264 | Prove Competency: Evidence to the Industry Specialist and Certification (CBLM 7) | 7 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 265 | Real Time vs Simulated (Structured) Evidence | 11 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 266 | Record of Competency Assessment Results (Pro-forma) | 12 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 267 | Reflective Practice to Improve Inclusive Work | 2 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 268 | Reflecting Responsibilities and Accountabilities in Personal Work Goals (CBLM 5) | 5 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 269 | Risk Management Process in OSH | 3 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 270 | Safety Training: General and Specific | 3 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 271 | Sample Assessment Plan | 11 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 272 | Assessment Process: Select, Review and Modify Methods and Tools | 11 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 273 | Storage Considerations: Stores Manager, Racks and Mezzanine Storage | 6 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 274 | Strategic Plan of a Registered Training Organisation (CBLM 5) | 5 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 275 | Providing Support for Special Needs | 2 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 276 | Technical Competency Development Planner: Summary, Plan and Certification (CBLM 7) | 7 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 277 | People Involved in a Training Program and How They Help | 9 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 278 | Who Is the TVET Learner? | 9 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
+| 279 | Workplace Considerations: Workspace and Location of Equipment | 6 | ★☆☆ | 1 | 0 | 1 | 0 | Not yet seen in a paper or highlight. |
 
 ## Common traps (from authored cards)
 
@@ -316,8 +371,10 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Rules of Evidence**: Extra: Consistent and Recent evidence are also rules of evidence.
 - **Rules of Evidence**: Page 21 gives Valid, Authentic, Reliable, Sufficient, Current and consistency of achievement. It has Reliable, not Recent.
 - **Rules of Evidence**: Do not mix Valid and Sufficient. Sufficient covers all the elements. Valid is relevant to the performance criteria.
+- **Rules of Evidence**: Recent means the evidence is less than five years old in CBLM 12.
 - **Assessment Plan**: An assessment plan is developed by an assessment designer.
 - **Assessment Plan**: Several versions are normal. The final version must be communicated, confirmed and recorded.
+- **Assessment Plan**: Specify who does what when. Clearly defined responsibility gets tasks completed.
 - **Errors Commonly Made by Assessors**: The halo effect is a positive judgement. The Horn effect is its opposite.
 - **Errors Commonly Made by Assessors**: Marking down the middle means sitting on the fence.
 - **Errors Commonly Made by Assessors**: Assessors might also be biased, display favouritism or be prejudiced.
@@ -372,6 +429,7 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Inclusivity: Meaning and Why Practise It**: Inclusivity also means learners have a range of individual needs and diverse communities.
 - **Inclusivity: Meaning and Why Practise It**: Paper answer: inclusivity means everyone feels welcome, valued and respected.
 - **Inclusivity: Meaning and Why Practise It**: 'Why practice inclusivity?' asks what an inclusive learning culture helps the organization do.
+- **Inclusivity: Meaning and Why Practise It**: Inclusivity is not one way for all; each learner needs a learning experience that 'fits'.
 - **Assessing Learners with Low Literacy or Numeracy**: Read printed information to the candidate. Do not give the answer: not a reasonable adjustment.
 - **Assessing Learners with Low Literacy or Numeracy**: For low literacy, use oral questioning and verbal responses.
 - **Monitoring and Improving Inclusive Work Practices**: Policy changes must be documented and reported to higher management.
@@ -417,7 +475,7 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Why Maintain and Enhance Technical Competency (CBLM 7)**: The framework is NTVQF. It is not PTQF or AQTF.
 - **Why Maintain and Enhance Technical Competency (CBLM 7)**: Technical skills of TVET trainers are both institution based and industry based.
 - **Why Maintain and Enhance Technical Competency (CBLM 7)**: Upgrading training takes place at the premises of selected industrial establishments.
-- **Maintenance: Definition**: Repair is different: it fixes a device that is out of order or broken.
+- **Maintenance: Definition**: Repair is different: fix a device when it is out of order or broken.
 - **Maintenance: Definition**: Other definition: all actions to retain or restore an item to perform its required function.
 - **Pre-assessment of a Trainee's Current Competency**: Related documents: previous assessment reports, resume, enterprise training records, supervisor performance reports.
 - **Pre-assessment of a Trainee's Current Competency**: Pre-assessment determines current competency. Training needs are determined by identifying the gap.
@@ -437,8 +495,6 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Checking Existing Learning Resources**: Do not simply copy existing resources and distribute them to learners.
 - **Checking Existing Learning Resources**: Industry jargon is allowed, but it should be explained clearly and carefully.
 - **Checking Existing Learning Resources**: Also address: checklist for selecting resources and consumable resources.
-- **Context of Assessment**: Environment has two parts: physical environment and social environment.
-- **Context of Assessment**: It is not necessary to notify everyone who has some interest.
 - **Examining Our Perceptions**: The right reason: examining perceptions is an important starting point for an inclusive environment.
 - **Examining Our Perceptions**: Do not examine perceptions only once. Continually examine and revise them.
 - **Learning Resources, Equipment and Their Storage in a Training Facility**: Text book is a resource. Computer/printer is equipment.
@@ -485,6 +541,7 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Stages of Competency Assessment**: Record and report outcomes before you review the assessment process.
 - **Identifying the Needs of Candidates**: Candidates with special needs include anxious or inexperienced candidates, not only those with disabilities.
 - **Identifying the Needs of Candidates**: Check files for background information, but be aware of confidentiality.
+- **Identifying the Needs of Candidates**: Adjustments are reasonable only if assessment stays valid and reliable within resource capabilities.
 - **Causes of Accidents**: Anybody who sees a hazard and does nothing contributes to an accident.
 - **Causes of Accidents**: Poor housekeeping is the same as untidy condition of workplace.
 - **Causes of Accidents**: People's attitudes govern what they do or fail to do.
@@ -513,8 +570,6 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Legal and Ethical Responsibilities in Assessment**: Consent comes after the candidate has understood the purpose and procedures.
 - **Legal and Ethical Responsibilities in Assessment**: The assessment must not hinder the systems of the workplace.
 - **Links Between Learning Sessions**: New television: you link in to existing knowledge to know the control switches.
-- **Workplace Issues: Managing Work and Work Relationships**: Evaluating and acting upon feedback is even more important than getting it.
-- **Workplace Issues: Managing Work and Work Relationships**: Work collaboratively by sharing information and ideas and working together to achieve outcomes.
 - **Modelling Professional Techniques and Strategies (CBLM 5)**: These eight are techniques to improve. The Five Step process of modelling is how you improve.
 - **Modelling Professional Techniques and Strategies (CBLM 5)**: Asking colleagues may not be easy, but it could prove quite valuable.
 - **Periodic Maintenance and the Historical Record**: Answer key (a) says same as preventive maintenance. But periodic is preferred over preventive.
@@ -528,6 +583,7 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Preventive vs Corrective Maintenance**: Preventive maintenance also has risks, such as equipment failure or human error.
 - **Principles of Competency Based Assessment**: Authenticity, currency, cost-effectiveness and reasonable adjustment are other principles, not the main four.
 - **Principles of Competency Based Assessment**: Flexibility: there is no single approach to the assessment of performance.
+- **Principles of Competency Based Assessment**: Reasonable adjustment examples include a scribe and a large print version of papers.
 - **Professional Networks for Continuous Learning (CBLM 5)**: BPTA and BPTC are for polytechnic teachers. Other associations exist for vocational institution teachers.
 - **Professional Networks for Continuous Learning (CBLM 5)**: If you don't reciprocate, other people will stop being helpful to you.
 - **Reviewing the Assessment Process**: Reviewing the assessment event is an important role of the assessor.
@@ -562,6 +618,8 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Acute and Chronic Injuries and Illnesses**: Some hazards, like slippery floors, cause injuries right away. Others take longer.
 - **Acute and Chronic Injuries and Illnesses**: Hearing loss is a chronic illness. Acute means immediate injuries.
 - **Assessment Benchmark**: Use the standards of the relevant industry, e.g. food industry standards for food OSH.
+- **What the Assessment Context Includes**: A venue for assessment should be accessible to the candidates.
+- **What the Assessment Context Includes**: The purpose must be clear to both the assessor and the assessee, not only one.
 - **Determining Learner Readiness for Assessment**: A good teacher/trainer will continuously monitor progress and provide feedback.
 - **Determining Learner Readiness for Assessment**: Integrate assessment tasks for major components at various stages during the training.
 - **Benefits of Feedback on Assessment**: Benefits are for both sides. Feedback also reviews the assessor's own performance.
@@ -584,9 +642,11 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Sources of Competency Standards Documents (CBLM 7)**: The TVET Reform Project developed these standards up to level 3. Later, up to level 6.
 - **Conflict of Interest in Assessment**: Whatever the situation, report a possible conflict of interest to your supervisor immediately.
 - **Conflict of Interest in Assessment**: They may ask you to assess them, thinking knowing you personally can help them.
+- **Context of Assessment**: Environment has two parts: physical environment and social environment.
+- **Context of Assessment**: It is not necessary to notify everyone who has some interest.
 - **Controlling Hazards: Source, Path, Worker**: The best control is at the source. The last choice is at the worker.
 - **Controlling Hazards: Source, Path, Worker**: Every control must control the hazard, create no new hazards, and allow comfortable work.
-- **Controlling Hazards: Source, Path, Worker**: Like the hierarchy of controls, personal protective equipment is the last choice.
+- **Controlling Hazards: Source, Path, Worker**: Like the hierarchy of controls, personal protective equipment (PPE) is the last choice.
 - **Controlling Hazards: Source, Path, Worker**: Lockout makes sure machinery won't start during set-up or clean-up.
 - **Steps in Designing Competency Based Assessment**: Endorsement from stakeholders comes after documenting the Assessment Plan.
 - **Steps in Designing Competency Based Assessment**: Developing assessment instruments and administrative documents is the last step.
@@ -605,8 +665,13 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Ground Rules for Modelling Inclusiveness**: Ground rules are negotiated and established collaboratively with your learners.
 - **Housekeeping in the Training Workshop**: Housekeeping covers janitorial and grounds keeping work, not repair or construction.
 - **Housekeeping in the Training Workshop**: The answer key lists repair and construction for housekeeping.
+- **Workplace Issues: Managing Work and Work Relationships**: Evaluating and acting upon feedback is even more important than getting it.
+- **Workplace Issues: Managing Work and Work Relationships**: Work collaboratively by sharing information and ideas and working together to achieve outcomes.
 - **Observation Checklist**: A checklist is a prompt for the assessor and also a guide for the candidate.
 - **Observation Checklist**: Observation is not appropriate where workplace safety may be compromised.
+- **Observation Checklist**: Observation is not appropriate for irregular, long or hard-to-observe activities.
+- **Observation Checklist**: Observation is not appropriate for activities that require privacy and confidentiality.
+- **Observation Checklist**: Observation is not appropriate where observing may be culturally inappropriate.
 - **Organisational and Legal Requirements for Personal Work Goals (CBLM 5)**: For five items, write complaints, risk and OHS, quality, staff recruitment, and records management.
 - **Organisational and Legal Requirements for Personal Work Goals (CBLM 5)**: If your work goals do not show responsibility or accountability, no one would trust them.
 - **Occupational Health and Safety Management System**: True: occupational health and safety already is a legal requirement in Bangladesh.
@@ -680,6 +745,8 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Strategies to Include Persons with Disability (PWDs) in the Class**: PWDs are capable of achieving like any other normal person.
 - **Seven Question Types for Facilitators**: Leading questions are one of the seven types. They are also a type to avoid.
 - **Seven Question Types for Facilitators**: Learners can feel intimidated by direct questions, so be careful.
+- **Seeking Feedback on Work-Management Skills and Professional Relationships**: What is even more important is your ability to evaluate and act upon the feedback.
+- **Seeking Feedback on Work-Management Skills and Professional Relationships**: Learners and candidates for assessment also give feedback.
 - **Shadow Board and Tool Boards**: Answer: visually organize and track tool usage. Not: store tools in safe environment.
 - **Shadow Board and Tool Boards**: Tools hang on hooks or pegs so that they fit their shadows.
 - **Factors to Consider in Laying Out a Shop**: Last five: future expansion, shop hazards, student capacity, first aid, project storage.
@@ -713,8 +780,6 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Accident and Incident**: Most accidents come from human error. These accidents can be prevented.
 - **Accident and Incident**: Accidents result in harm to humans, or property or environmental damage.
 - **Accident and Incident**: Attitude is an all-important factor in the chain of events.
-- **What the Assessment Context Includes**: A venue for assessment should be accessible to the candidates.
-- **What the Assessment Context Includes**: The purpose must be clear to both the assessor and the assessee, not only one.
 - **Roles and Responsibilities of an Assessment Designer**: Be clear about evidence requirements in CB assessment.
 - **Roles and Responsibilities of an Assessment Designer**: Be competent in assessment planning and designing assessment instruments.
 - **Role of an Assessor of Competency**: The judgment is either competent or not yet competent.
@@ -727,6 +792,11 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Computer Based Learning: Advantages and Limitations**: Computers do not train well in affective, motor and interpersonal skills.
 - **Computer Based Learning: Advantages and Limitations**: Computers also help manage learning: processing student records and preparing teaching material.
 - **Development Opportunities that Support Continuous Learning (CBLM 5)**: Industry attachment is a development opportunity. Industry visit is one of the ways to professional development.
+- **Emergency Response Plan**: Managers having control of a workplace develop the site specific Emergency Response Plan.
+- **Emergency Response Plan**: Reporting procedure is the process for what to do when an emergency happens.
+- **Emergency Response Plan**: Emergency arrangements should be tested or practised periodically, and a record kept.
+- **Emergency Response Plan**: The Emergency Response Plan must be displayed prominently throughout the workplace.
+- **Emergency Response Plan**: Employees and visitors must know the emergency arrangements. This is usually part of the induction.
 - **Characteristics of a Good Information Sheet**: Copied parts are allowed only with acknowledgement and no copyright violation.
 - **Characteristics of a Good Information Sheet**: The information sheet supports the job sheet with underpinning knowledge.
 - **Identifying Existing Learning Resources**: A print based resource cannot simply be converted to HTML and called online.
@@ -735,6 +805,9 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Features of an Inclusive Learning Environment**: Do not confuse an inclusive learning environment with why practice inclusivity.
 - **Planning for Inclusiveness and Work Strategies to Support It**: Planning for inclusiveness is a continuous improvement process, not a one-time task.
 - **Planning for Inclusiveness and Work Strategies to Support It**: Develop a plan for inclusiveness and implement work strategies; write both.
+- **Informing Relevant People About Assessment**: It is not necessary to notify everyone who has some interest in the assessment.
+- **Informing Relevant People About Assessment**: Certain people need only the outcome, to keep their records up to date.
+- **Informing Relevant People About Assessment**: The candidate most needs to know about the assessment in detail.
 - **Learner Characteristics for Session Planning**: Gender can affect the whole plan, especially for demonstration or role play.
 - **Learner Characteristics for Session Planning**: Competency based training can be difficult for some learners, especially assessment.
 - **Learning Domains: Cognitive, Affective and Psychomotor**: Psychomotor skills are measured by speed, precision, distance, procedures or techniques.
@@ -752,6 +825,8 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Learning Outcomes of the OSH Unit**: Appropriate PPE is selected and worn.
 - **Performance Appraisal Methods (CBLM 5)**: Self-assessment uses your own records. Peer or team assessment uses feedback from team members.
 - **Performance Appraisal Methods (CBLM 5)**: Clarify the feedback by paraphrasing and asking questions.
+- **Training Session and Factors in Planning a Session**: Each session has one or a number of training outcomes.
+- **Training Session and Factors in Planning a Session**: The program is the overall framework; a session achieves one portion of the training.
 - **Portfolio of Evidence**: Where a portfolio is presented, the assessor needs an evaluation form.
 - **Portfolio of Evidence**: The evaluation form checks the evidence is valid, authentic, sufficient, current, recent and consistent.
 - **Posters and Charts: Purpose and Layout Tips**: Charts can be more complex in design and content than posters.
@@ -760,15 +835,25 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Providing Practice Opportunities**: Workplace practice under a mentor is ideal but still limited in Bangladesh TVET.
 - **How to Practise Inclusivity (Five Ways)**: Building on individual differences means you acknowledge, respect and value them.
 - **How to Practise Inclusivity (Five Ways)**: Do not confuse how to practise inclusivity with why practice inclusivity.
-- **Pre-Training and In-Training Support for Clients**: Pre-training support: provide advice on financial assistance.
-- **Pre-Training and In-Training Support for Clients**: In-training support: organize for interpreters to be present.
+- **Pre-Training and In-Training Support for Clients**: Provide advice on financial assistance is a pre-training support.
+- **Pre-Training and In-Training Support for Clients**: Organize for interpreters to be present is an in-training support.
+- **Pre-Training and In-Training Support for Clients**: Use adaptive technology is a pre-training support.
+- **Psychosocial Hazards: Stress and Violence**: Psychosocial hazards are in addition to the four main hazard types.
+- **Psychosocial Hazards: Stress and Violence**: You should report any act of violence right away.
+- **Psychosocial Hazards: Stress and Violence**: Stress and violence can lead to headaches or trouble sleeping.
+- **Psychosocial Hazards: Stress and Violence**: Violence prevention, anti-bullying and stress reduction programs help lower stress.
 - **Purposes of Assessment**: Diagnosis is about learner's needs. Education and training needs is about employees' training needs.
 - **Purposes of Assessment**: NTVQF uses National Certificate levels one to six. There are also two prevocational levels.
 - **Components of a Quality Plan (CBLM 5)**: A quality plan is not the strategic plan. It supports the strategic plan.
 - **Recognition Assessment: People and Evidence**: Evidence of current competence is preferred to more historic evidence.
 - **Recognition Assessment: People and Evidence**: An assessor looks at the whole picture (unit of competency), not the fragments.
+- **Responsibilities of a Reviewer**: People need to be reassured that the review process will be non-threatening.
+- **Responsibilities of a Reviewer**: Discuss your activities with other assessors. This helps consistency and reliability in assessment.
+- **Responsibilities of a Reviewer**: Verifying corrective procedures is done only if requested by the client.
 - **Selecting Appropriate Delivery Techniques**: The activity must relate to the session learning outcomes
 - **Selecting Appropriate Delivery Techniques**: The number of people affects the outcome and the percentage who contribute.
+- **Self-Assessment Guide (Pre-Training Self-Assessment Checklist)**: Give the pre-self assessment before you proceed in your session.
+- **Self-Assessment Guide (Pre-Training Self-Assessment Checklist)**: Self assessment tools are based on the unit of competency performance criteria.
 - **Self-Assessment Instruments**: Self assessment checks readiness. It is not the formal assessment itself.
 - **Self-Assessment Instruments**: In self assessment, the learner plays an active role in his or her own learning.
 - **Verbal and Body Language Sensitive to Difference**: Use sensitive verbal AND body language, not only verbal language.
@@ -782,12 +867,20 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Steps of a Skill Demonstration**: First do it normal, as per industry standards; only then do it slow.
 - **Role of Students in a CBT System**: Credit for prior knowledge comes through pre-testing or a review of a task list.
 - **Role of Students in a CBT System**: Paper and pencil tests are used mainly to check knowledge of the task.
+- **Team Building: Working Collaboratively with Colleagues**: Work collaboratively by sharing information and ideas and working together.
+- **Team Building: Working Collaboratively with Colleagues**: A member who doesn't agree with team goals can impact team effectiveness.
+- **Team Building: Working Collaboratively with Colleagues**: Trust and support ensures goals are met and timeframes are kept.
 - **Underpinning Skills and Knowledge: Finding Own Skills and Knowledge Gaps (CBLM 7)**: "Safe handling of spades and garden forks" is knowledge. "Handling the equipment safely" is a skill.
 - **Underpinning Skills and Knowledge: Finding Own Skills and Knowledge Gaps (CBLM 7)**: Underpinning knowledge consists of only MUST KNOW knowledge.
 - **Underpinning Skills and Knowledge: Finding Own Skills and Knowledge Gaps (CBLM 7)**: Required skills are a vital part of the Unit of Competency (UoC).
 - **Training Delivery Modes**: Off the job: whole group needs to meet; course pace set by trainer.
 - **Training Delivery Modes**: On line mode requires internet connection and troubleshooting of technology issues.
+- **Overall Aim and Outcome of a Training Program**: The outcome is a description of the main work tasks and topics trainees need.
+- **Overall Aim and Outcome of a Training Program**: The aim is very similar to the vocational need decided earlier.
+- **Overall Aim and Outcome of a Training Program**: First have a big picture of what trainees should do and how it is assessed.
 - **Developments and Trends Impacting Professional Practice (CBLM 5)**: Trade skills are not enough. Teachers also need training in TVET teaching methods.
+- **Reformed TVET System: Outputs of the TVET Reform Agenda**: TVET reform agenda outputs differ from the main features of the National Skills Development Policy.
+- **Reformed TVET System: Outputs of the TVET Reform Agenda**: RPL is a reform output and also an NSDP main feature.
 - **Why Provide Variety in Delivering Sessions**: Too much or too little variety can impact negatively on the session.
 - **Why Provide Variety in Delivering Sessions**: Keep an appropriate mix of theory and practice in training sessions.
 - **Using Video in Training**: Always preview the video before using it in training.
@@ -802,3 +895,131 @@ stars: ★★★ top 25% (or asked in an official paper) · ★★ next 40% · �
 - **Considerations for Workplace Assessment**: A typical environment is a training institute or workplace.
 - **Safety Factors: Procedures for a Safe Workshop**: Report structural hazards to the appropriate authority; do not just ignore them.
 - **Safety Factors: Procedures for a Safe Workshop**: First aid kits are stocked in consultation with appropriate authorities, not alone.
+- **Components of an Assessment Activity**: An assessment activity constitutes four things: assessee, assessor, venue and recognized authorities.
+- **Components of an Assessment Activity**: Candidates are assessed according to established guidelines.
+- **Components of an Assessment Activity**: Trainees get an assessment guidelines document. It makes clear what skills and knowledge will be assessed.
+- **Costs of Assessment and Assessment Timeframes**: In the workplace, candidates and others may be taken off work activities.
+- **Costs of Assessment and Assessment Timeframes**: Timing is estimated and planned so the learner is ready and arrangements are made.
+- **Assessment Process and Pathways**: Validation comes after assessment. It reviews tools, processes and evidence.
+- **Assessment Process and Pathways**: Identify the methods first. Then develop the tools that help collect evidence.
+- **Notes to the CBLM Developer: Writing Each Sheet of a CBLM**: You cannot ask questions if you have not given the information in the Information sheet.
+- **Notes to the CBLM Developer: Writing Each Sheet of a CBLM**: Activity and practise sheets are optional. They must not be disconnected activities.
+- **Notes to the CBLM Developer: Writing Each Sheet of a CBLM**: You may have more than one Information sheet if the module has multiple learning outcomes.
+- **Checklist for Selecting Learning Resources**: Before the 13 questions, analyse the curriculum document. Be clear on assessment procedures and recommended resources.
+- **Checklist for Selecting Learning Resources**: Portrayals of characters show diversity, not disrespect towards local culture, religion and customs.
+- **Choosing Training Facilities and Learning Resources**: Because there are so many variables you will need a flexible attitude.
+- **Choosing Training Facilities and Learning Resources**: Be prepared to change and experiment if the situation requires it.
+- **Choosing Training Facilities and Learning Resources**: Use what is relevant, copy ideas and change any activity to suit your situation.
+- **Conflict Resolution and Negotiation Skills with Learners**: Conflict becomes unhealthy when it is avoided.
+- **Conflict Resolution and Negotiation Skills with Learners**: Aim to foster a Collaborating response. Compromising is always a good middle-ground.
+- **Conflict Resolution and Negotiation Skills with Learners**: Guide Competing, Accommodating and Avoiding responses towards Collaborating or Compromising.
+- **Conflict Resolution and Negotiation Skills with Learners**: Conflict is often experienced in the storming phase of group development.
+- **Copyright Considerations When Writing Learning Materials**: A work is protected by copyright even without a copyright notice on it.
+- **Copyright Considerations When Writing Learning Materials**: Reproducing or communicating part of a work may also infringe copyright.
+- **Copyright Considerations When Writing Learning Materials**: Government documents and publications are not copyrighted. Remove government logos if you change them.
+- **Dealing with Hazards: Report and Ask Key Questions**: Reporting hazards will help your employer meet their responsibility for your health and safety.
+- **Dealing with Hazards: Report and Ask Key Questions**: In Bangladesh, a teacher reports to the head of the department. The head reports to the Principal.
+- **Dealing with Hazards: Report and Ask Key Questions**: Report hazards to the designated person or the supervisor.
+- **Dealing with Hazards: Report and Ask Key Questions**: Before you start a new job, stop and think. If you're not sure, ask someone.
+- **Documented Resources to Support Inclusive Practices**: Use both national and institutional policies on access and equity.
+- **Documented Resources to Support Inclusive Practices**: First identify the resources; then identify the support services.
+- **Duty of Care: Consider the Individual Learner**: Consider not only the learner's skill levels, but other characteristics too.
+- **Duty of Care: Consider the Individual Learner**: Workgroup language, literacy and numeracy influence the selection of controls.
+- **Duty of Care: Consider the Individual Learner**: No environment is hazard free. This applies to learning and assessment environments too.
+- **Emergency Equipment and Being Prepared**: Before using a fire extinguisher, make sure you're trained on its proper use.
+- **Emergency Equipment and Being Prepared**: The emergency procedure includes an emergency plan and emergency equipment.
+- **Emergency Equipment and Being Prepared**: Some jobs have emergency eye wash stations or showers. Make sure you're shown how to use them.
+- **Equipment Maintenance Schedule and Inspection Checklist**: One best source of the list of maintenance activities is the manufacturer's manual.
+- **Equipment Maintenance Schedule and Inspection Checklist**: In the absence of the manual, the plan can be derived from known maintenance methods.
+- **Equipment Maintenance Schedule and Inspection Checklist**: Inspection items are stated in a question form. They serve as the criteria or standards of maintenance.
+- **Equipment Maintenance Schedule and Inspection Checklist**: Regular inspections assure activities are done on the planned date and time, to defined standards.
+- **Handouts and Print-Based Training Materials**: Give out any handout when the time is right or it could be a distraction.
+- **Handouts and Print-Based Training Materials**: Good presentation means wide margins/ headings that stand out and plenty of white space.
+- **Handouts and Print-Based Training Materials**: Include a table of contents and place similar items together.
+- **Icebreakers in the First Session**: Some learners find icebreakers particularly challenging and embarrassing
+- **Icebreakers in the First Session**: Age, gender, culture, religion, prior experience and attitudes affect how learners respond.
+- **Icebreakers in the First Session**: An icebreaker activity or anecdote is a GLOSS strategy to get attention.
+- **Communication and Interpersonal Skills for Inclusive Learning**: Engage in two-way interaction, not one-way interaction.
+- **Communication and Interpersonal Skills for Inclusive Learning**: Active listening means retaining eye contact and nodding to show understanding.
+- **Communication and Interpersonal Skills for Inclusive Learning**: Communication and interpersonal skills differ from the features of sensitive verbal and body language.
+- **The Internet as a Learning Resource**: It facilitates plagiarism.
+- **The Internet as a Learning Resource**: Some learners find it hard to distinguish the quality of the source material.
+- **The Internet as a Learning Resource**: It can be a real time-waster.
+- **Learning from Session Evaluation and Action Plans**: Evaluation of process is how information was delivered; content is what was delivered.
+- **Learning from Session Evaluation and Action Plans**: Have ownership of the evaluation process. Make that decision for yourself.
+- **Learning from Session Evaluation and Action Plans**: Action learning solves work-based problems through an action learning group with a facilitator.
+- **Planning Maintenance: Who, What, Where, When and How (5Ms)**: Standards, Methods and Strategies combined are elements of an integrated Planned Maintenance System.
+- **Planning Maintenance: Who, What, Where, When and How (5Ms)**: In the 5Ms: Money = Financial Resources, Machines = Facilities.
+- **Maintenance Program and Maintenance Schedule**: The Maintenance schedule is just a part of the Maintenance Program
+- **Maintenance Program and Maintenance Schedule**: In preparing the Maintenance program, it is best to adhere to the Quality Management cycle.
+- **Maintenance Program and Maintenance Schedule**: A Maintenance Schedule is drawn to guide the personnel in the proper methods and system.
+- **Reporting Process and Documentation Process (Inspection Reports)**: Assessment starts by verifying quality characteristics standards. It ends with submitting the inspection report.
+- **Reporting Process and Documentation Process (Inspection Reports)**: The Inspection Report Template lists facility type, incident, action taken and progress/remarks.
+- **Reporting Process and Documentation Process (Inspection Reports)**: The breakdown/repair report template lists facility type, nature of break down and recommendations.
+- **Reporting Process and Documentation Process (Inspection Reports)**: The salvage report template lists facility type, part ID and recommendation.
+- **Managing and Monitoring Training Activities**: Manage - to handle or direct with a degree of skill.
+- **Managing and Monitoring Training Activities**: Monitor-to watch, keep track of or check.
+- **Managing and Monitoring Training Activities**: Activity - an educational procedure designed to stimulate learning by firsthand experience.
+- **Managing and Monitoring Training Activities**: Summative assessment should confirm competency, not be a potential failure situation.
+- **Proper Use of Equipment and the Manufacturer's Manual**: The users manuals must be kept handy, within the area where the equipment is kept.
+- **Proper Use of Equipment and the Manufacturer's Manual**: Using tools by the manufacturer's manuals would evidently extend the life of equipment and tools.
+- **Proper Use of Equipment and the Manufacturer's Manual**: Maintenance procedures are followed in accordance with the manufacturers manual and organization policies.
+- **Modelling Inclusiveness in Work Performance**: Creating a responsive learning environment is not static; it needs a continually proactive approach.
+- **Modelling Inclusiveness in Work Performance**: Learning is an ongoing lifelong process at individual, team, organisational and societal level.
+- **Feedback on a Negative Assessment**: Stay positive without raising any false expectations.
+- **Feedback on a Negative Assessment**: Be precise about the gaps. General comments like 'good work' are not enough.
+- **Feedback on a Negative Assessment**: Explain which competency has been achieved, and which has not.
+- **OHS Issues Associated with Inclusivity (Duty of Care)**: Employees are still obliged to take care while undertaking their work.
+- **OHS Issues Associated with Inclusivity (Duty of Care)**: As a trainer, you have a duty of care for your learners.
+- **OHS Issues Associated with Inclusivity (Duty of Care)**: 2.4 OSH issues in the PC; 2.4 Addressing OHS issues in the information sheet.
+- **Using the Overhead Projector (OHP)**: Screen brightness is OK in a normal room. Avoid strong direct sun or artificial light.
+- **Using the Overhead Projector (OHP)**: Limit each transparency to six lines, with letters at least 6 mm high.
+- **Using the Overhead Projector (OHP)**: Scripts or parts of diagrams can be revealed step by step.
+- **Physical Environment Support Needs**: Incorporate them only where practicable and approved by appropriate personnel.
+- **Physical Environment Support Needs**: Changes to work schedules are also physical environment support needs.
+- **Presentation Methods and Learning Activities for Competency Development**: Questioning and using visual aids are presentation methods used across all topic areas.
+- **Presentation Methods and Learning Activities for Competency Development**: Visual aids gain learners' attention, as sight is the dominant learning sense.
+- **Presentation Methods and Learning Activities for Competency Development**: Other methods can be selected to suit the learning domain, competency and subject matter.
+- **Prove Competency: Evidence to the Industry Specialist and Certification (CBLM 7)**: Present one direct and two indirect evidences, not one of each.
+- **Prove Competency: Evidence to the Industry Specialist and Certification (CBLM 7)**: Full qualification gives a Competency Certificate. A few Units of Competency give a Statement of Achievement.
+- **Prove Competency: Evidence to the Industry Specialist and Certification (CBLM 7)**: The evidences are documented and kept as proof of competency earned.
+- **Real Time vs Simulated (Structured) Evidence**: Real work projects done outside real work time or place are structured evidence.
+- **Real Time vs Simulated (Structured) Evidence**: Third party reporting is real time evidence, used when the assessor cannot observe.
+- **Record of Competency Assessment Results (Pro-forma)**: Assessment results show each unit of competency as competent or not yet competent.
+- **Record of Competency Assessment Results (Pro-forma)**: Candidate feedback on this form is informal feedback at the end of the activity.
+- **Record of Competency Assessment Results (Pro-forma)**: Recording of results includes recommendation or non recommendation of a certificate of competency.
+- **Reflective Practice to Improve Inclusive Work**: Reflective practice means taking time out on a regular basis.
+- **Reflective Practice to Improve Inclusive Work**: You take conscious actions to modify and improve your own work practices.
+- **Reflecting Responsibilities and Accountabilities in Personal Work Goals (CBLM 5)**: If your goals do not show responsibility or accountability, no one would trust them.
+- **Reflecting Responsibilities and Accountabilities in Personal Work Goals (CBLM 5)**: Not incorporating these plans may deviate your actions from the most efficient business path.
+- **Risk Management Process in OSH**: Hazards and risks resulting from hazards are something different.
+- **Risk Management Process in OSH**: Review each action on two levels. Is it still effective? Did it add a new hazard?
+- **Risk Management Process in OSH**: All analysis, assessments and actions are recorded in a Risk Register or Risk Log.
+- **Risk Management Process in OSH**: The most effective action is usually also the most difficult, sometimes most expensive.
+- **Safety Training: General and Specific**: General training applies to everyone; specific training is for your particular job.
+- **Safety Training: General and Specific**: How to get first aid is general training, not specific training.
+- **Safety Training: General and Specific**: Ask questions to be sure you get the training and information you need.
+- **Sample Assessment Plan**: The sample assessment uses both process and product as evidence.
+- **Sample Assessment Plan**: Column C is 'Completed product and/or document' on p.47 but 'Portfolio' on p.60.
+- **Assessment Process: Select, Review and Modify Methods and Tools**: Review may be done by more than one assessor. It is also validation of the tool.
+- **Assessment Process: Select, Review and Modify Methods and Tools**: Integrated assessment focuses on performing a whole job or a real work task.
+- **Assessment Process: Select, Review and Modify Methods and Tools**: First choose a method, then decide what you need to use it.
+- **Storage Considerations: Stores Manager, Racks and Mezzanine Storage**: A mezzanine floor is a half-storey between the ground floor and the second storey.
+- **Storage Considerations: Stores Manager, Racks and Mezzanine Storage**: In small departments, the individual instructor or teacher monitors these issues.
+- **Storage Considerations: Stores Manager, Racks and Mezzanine Storage**: Storage racks must be structurally sound and designed for the maximum load.
+- **Storage Considerations: Stores Manager, Racks and Mezzanine Storage**: Racks for dangerous materials must be constructed using compatible materials.
+- **Strategic Plan of a Registered Training Organisation (CBLM 5)**: A strategic plan is long-term: usually one year and up to five years or more.
+- **Strategic Plan of a Registered Training Organisation (CBLM 5)**: The quality plan supports the strategic plan. They are two different plans.
+- **Providing Support for Special Needs**: Support for special needs is a separate list from clients with particular needs.
+- **Providing Support for Special Needs**: OHS issues must be addressed as part of support for special needs.
+- **Technical Competency Development Planner: Summary, Plan and Certification (CBLM 7)**: Performance criteria column: what evidence will you produce? Use the relevant unit of competency as reference.
+- **Technical Competency Development Planner: Summary, Plan and Certification (CBLM 7)**: Two approvals: approved by Principal/Supervisor, and approved by Agency.
+- **Technical Competency Development Planner: Summary, Plan and Certification (CBLM 7)**: The industry person completes the certification with name, organization, designation and signature.
+- **People Involved in a Training Program and How They Help**: Actual position titles may differ in your organisation. Some tasks may not be relevant.
+- **People Involved in a Training Program and How They Help**: Trainees' supervisors help determine training needs and trainees' current competencies.
+- **Who Is the TVET Learner?**: A typical TVET learner has usually completed schooling up to year 8.
+- **Who Is the TVET Learner?**: Understand who the learners are, why they are there, and what keeps their interest.
+- **Workplace Considerations: Workspace and Location of Equipment**: Clear space excludes desks, benches, machinery and any other fittings.
+- **Workplace Considerations: Workspace and Location of Equipment**: Aisles, passageways and access to cupboards or doors are in addition to clear workstation space.
+- **Workplace Considerations: Workspace and Location of Equipment**: Heat or noise may require increases to the recommended size.
+- **Workplace Considerations: Workspace and Location of Equipment**: Signed letters of agreement are essential to protect the rights of all concerned.

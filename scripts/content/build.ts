@@ -19,8 +19,10 @@ const check = args.includes("--check");
 
 const result = runBuild({ strict: listArg("strict"), requireApproved: listArg("require-approved") });
 
-const conceptDir = join(GENERATED_DIR, "concepts");
-const existingGenerated = existsSync(conceptDir) ? readdirSync(conceptDir).map((f) => join(conceptDir, f)) : [];
+const existingGenerated = ["concepts", "guides"].flatMap((d) => {
+  const dir = join(GENERATED_DIR, d);
+  return existsSync(dir) ? readdirSync(dir).map((f) => join(dir, f)) : [];
+});
 const stale = existingGenerated.filter((f) => !result.outputs.has(f));
 
 if (check) {
@@ -35,7 +37,7 @@ if (check) {
   let written = 0;
   for (const [p, text] of result.outputs) written += +writeText(p, text);
   for (const f of stale) rmSync(f);
-  console.log(`content:build: ${result.results.length} concept(s), ${written} file(s) updated, ${stale.length} removed`);
+  console.log(`content:build: ${result.results.length} concept(s), ${result.guides.length} guide(s), ${written} file(s) updated, ${stale.length} removed`);
 }
 
 const statuses = result.results.reduce<Record<string, number>>((m, r) => ((m[r.status] = (m[r.status] ?? 0) + 1), m), {});
@@ -45,5 +47,7 @@ if (result.errorCount) {
   for (const i of result.globalIssues.filter((x) => x.level === "error")) console.error(`  ✗ ${i.code}: ${i.message}`);
   for (const r of result.results) for (const i of r.issues.filter((x) => x.level === "error"))
     console.error(`  ✗ ${r.id} ${i.path}: ${i.code}: ${i.message}`);
+  for (const g of result.guides) for (const i of g.issues.filter((x) => x.level === "error"))
+    console.error(`  ✗ ${g.file} ${i.path}: ${i.code}: ${i.message}`);
   process.exitCode = 1;
 }

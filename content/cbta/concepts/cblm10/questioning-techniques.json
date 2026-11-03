@@ -73,6 +73,8 @@
     "bn": "IT ক্লাসে 'ফাইল সেভ হলো না কেন মনে হয়?': এটা open question।"
   },
   "list_answer": {
+    "title": "Types of questions a facilitator can use",
+    "title_bn": "Facilitator যে ধরনের প্রশ্ন ব্যবহার করতে পারেন",
     "items": [
       {
         "text": "Open questions: encourage participation; learners express their ideas and opinions.",
@@ -168,6 +170,15 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Open questions — participation বাড়ায়; learners নিজের ideas ও opinions খুলে বলতে পারে।",
+      "Closed questions — কিছু নিশ্চিত করতে (confirmation) ব্যবহার হয়; উত্তর সাধারণত Yes বা No।",
+      "Direct questions — নির্দিষ্ট কোনো ব্যক্তি বা group-কে করা হয়, যাতে তারা নিজের expertise ভাগ করে।",
+      "Indirect questions — সবার জন্য খোলা; কে কতটা অংশ নেবে, learners নিজেরাই বেছে নেয়।",
+      "Leading questions — প্রশ্নটাই learners-কে সেই উত্তরের দিকে নিয়ে যায়, যা আপনি আশা করছেন।",
+      "Factual questions — knowledge যাচাই করে; learners facts মনে করতে (recall) পারছে কিনা দেখে।",
+      "Probing questions — উত্তরে যথেষ্ট গভীরতা না থাকলে আরও জানতে পরের প্রশ্ন; সবসময় open question আকারে করা হয়।"
     ]
   },
   "traps": [
@@ -210,6 +221,89 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Open vs closed questions",
+    "title_bn": "Open বনাম closed প্রশ্ন",
+    "left": {
+      "title": "Open questions",
+      "title_bn": "Open: আলোচনা খোলে",
+      "points": [
+        {
+          "text": "These encourage participation and interaction.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 43,
+              "quote": "These encourage participation and interaction."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "They encourage learners to express their ideas and opinions.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 43,
+              "quote": "They encourage learners to express their ideas and opinions."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Why do you think this happens?",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 43,
+              "quote": "Why do you think this happens?"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "right": {
+      "title": "Closed questions",
+      "title_bn": "Closed: হ্যাঁ/না, নিশ্চিত করা",
+      "points": [
+        {
+          "text": "These are used for confirmation.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 43,
+              "quote": "These are used for confirmation."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "They are usually answered with Yes or No.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 43,
+              "quote": "They are usually answered with Yes or No."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Is everyone finished?",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 43,
+              "quote": "Is everyone finished?"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "Name the question types a facilitator can use, and the types to avoid.",

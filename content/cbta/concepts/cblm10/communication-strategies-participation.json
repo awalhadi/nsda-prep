@@ -56,6 +56,8 @@
     "bn": "Trainer প্রশ্ন করে, মন দিয়ে শোনে, নিজের ভাষায় বলে, শেষে summary দেয়।"
   },
   "list_answer": {
+    "title": "Communication strategies to encourage learner participation",
+    "title_bn": "Learner participation বাড়ানোর communication strategies",
     "items": [
       {
         "text": "Plan your message: research learner characteristics; avoid making unfounded assumptions.",
@@ -117,6 +119,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Plan your message — আগে learner characteristics নিয়ে খোঁজ নিন, যাতে না জেনে ভুল ধারণা (unfounded assumptions) না করেন।",
+      "Be empathetic — নিজেকে learner-এর জায়গায় বসিয়ে তার দৃষ্টিভঙ্গি (perspective) থেকে দেখুন।",
+      "Seek and give feedback — open ও reflective questions করুন, আর learners-কে উত্তর দিতে আমন্ত্রণ জানান।",
+      "Respond actively — learner-এর দিকে মনোযোগ দিন, relaxed থাকুন, আর clarify ও paraphrase করে কথাটা বুঝে নিন।",
+      "শেষে reflect ও summarise করুন — এতে নিশ্চিত হন যে learners কথাটা ঠিকভাবে বুঝেছে।"
     ]
   },
   "traps": [
@@ -144,6 +153,128 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Presentation methods vs communication strategies (p.45 table)",
+    "title_bn": "Presentation methods বনাম communication strategies",
+    "left": {
+      "title": "Presentation methods",
+      "title_bn": "উপস্থাপনের পদ্ধতি",
+      "points": [
+        {
+          "text": "Graphics, icons, illustrations; fonts, headings.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "graphics, icons, illustrations"
+            },
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "fonts, headings"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "A variety of learning activities: case study, guided visualisation, stories, ice breakers/energizers.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "use of a variety of learning"
+            },
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "activities:-case study"
+            },
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "guided visualisation"
+            },
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "paraphrasing information\n- stories"
+            },
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "ice breakers/ energizers"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Communication strategies",
+      "title_bn": "যোগাযোগের কৌশল",
+      "points": [
+        {
+          "text": "Planning content carefully; using 'you' to convey empathy.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "Planning content careful"
+            },
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "using 'you' to convey empathy"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Seeking and giving feedback; encouraging, clarifying and paraphrasing information.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "seeking and giving feedback"
+            },
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "encouraging, clarifying and"
+            },
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "paraphrasing information"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Summarising; use of appropriate, plain and simple language.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "summarising"
+            },
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "use of appropriate language"
+            },
+            {
+              "src": "cblm10",
+              "page": 45,
+              "quote": "(plain and simple language)"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "How can you use communication strategies to encourage learner participation?",

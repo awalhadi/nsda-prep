@@ -22,6 +22,7 @@
     "bn": "একটা marks file (workbook)-এর ভেতরে প্রতিটা batch-এর আলাদা sheet (worksheet)।",
     "en": "At an IT training centre, one Excel workbook holds trainee marks. Each batch has its own worksheet."
   },
+  "extra": [],
   "highlighted": false,
   "id": "workbook-worksheet-animation-transition",
   "importance": {
@@ -259,7 +260,7 @@
   ],
   "score": 3,
   "sourceType": "question-paper-only",
-  "stars": 1,
+  "stars": 2,
   "status": "draft",
   "title": "Excel and PowerPoint Terms: Workbook vs Worksheet, Animation vs Transition",
   "traps": [
@@ -292,6 +293,7 @@
       "text": "Animation applies to text or objects within a slide. Transition is between slides."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

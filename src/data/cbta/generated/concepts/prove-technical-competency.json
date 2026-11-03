@@ -1,0 +1,599 @@
+{
+  "aliases": [
+    "Prove competency",
+    "Present evidence to the industry specialist",
+    "Technical Competency Certification",
+    "Competency Certificate or Statement of Achievement"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 7,
+      "pages": [
+        {
+          "pdf": 18,
+          "printed": 17
+        }
+      ],
+      "src": "cblm07"
+    }
+  ],
+  "banglaExplanation": [
+    "Training বা industrial attachment শেষ হলেই কাজ শেষ নয়; এবার প্রমাণ করতে হবে যে আপনি সত্যিই competent।",
+    "Industry specialist-এর সামনে সাধারণত one direct আর two indirect evidences দেখাতে হয়।",
+    "Industry specialist evidence যাচাই করে competent ঘোষণা করেন; evidence-গুলো document করে রাখা হয়।",
+    "পুরো qualification শেষ হলে Competency Certificate, কয়েকটা Units of Competency শেষ হলে Statement of Achievement পাবেন।",
+    "শেষ ধাপ: সনদটা Institutional Supervisor বা appropriate authority-র কাছে approval-এর জন্য জমা দেওয়া।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 7,
+  "errata": [],
+  "example": {
+    "bn": "একটা direct (সামনে weld করে দেখানো) আর দুটো indirect (written test, supervisor-এর report) evidence।",
+    "en": "A welding instructor finishes an attachment at a local factory. He shows a 6G weld to the industry specialist. He also gives a written test result and a supervisor report."
+  },
+  "extra": [
+    {
+      "bn": [
+        "Training শেষ মানেই সনদ নয় — আগে evidence দিয়ে প্রমাণ করতে হবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 17,
+              "quote": "After the successful completion of the training or industrial\nattachment program it is now obligatory for the teacher/trainer\nto provide proof of his competency.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 17,
+              "quote": "Competency Certificate for the full\nqualification course or statement of achievement for few Units\nof Competency (UoC) completed.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "After training, proof of competency is obligatory. It earns a Competency Certificate or Statement of Achievement."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p18-section-4",
+        "c07-p18-prove-competency"
+      ]
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "generally s/he will have to present one direct and two indirect\nevidences for his proof of competency on selected unit of competency.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Generally one direct and two indirect evidences on the selected unit of competency."
+      },
+      "concept": "prove-technical-competency",
+      "example": {
+        "bn": "১টি direct + ২টি indirect — যেমন সামনে কাজ দেখানো, written test আর employer-এর report।",
+        "en": "A transport-sector electrician trainer wires a panel before the specialist (direct). He adds a written test and an employer report (indirect)."
+      },
+      "kind": "qa",
+      "outline": [
+        "c07-p18-present-evidence"
+      ],
+      "q": "How many evidences must a trainer present to the industry specialist?",
+      "q_bn": "Industry specialist-কে কয়টি evidence দেখাতে হয়?"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "The TVET trainer is\nnow required to submit the Certificate or Statement of Achievement to the\nInstitutional Supervisor or appropriate authority for approval.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "To the Institutional Supervisor or appropriate authority for approval."
+      },
+      "concept": "prove-technical-competency",
+      "kind": "qa",
+      "outline": [
+        "c07-p18-certification"
+      ],
+      "q": "Where does the trainer submit the certificate?",
+      "q_bn": "Certificate কোথায় জমা দিতে হয়?"
+    },
+    {
+      "bn": "Self Check No 1-এর ছয়টি প্রশ্ন পুরো module থেকে — নিচের Self Check অংশে উত্তর লিখে অনুশীলন করুন।",
+      "kind": "note",
+      "outline": [
+        "c07-p19-self-check-1"
+      ],
+      "text": "Self Check No 1 (p.19-20) has six questions from all four parts of this module. Answer them in the Self Checks tab.",
+      "tone": "tip"
+    },
+    {
+      "bn": "Self Check আর Job 1-এর শিরোনাম শুধু LO 1-এর, কিন্তু প্রশ্নগুলো পুরো module থেকে।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 18,
+              "quote": "Self Check No 1: Identify relevant competency\nstandards for own technical field",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Self Check No 1: Identify relevant competency\nstandards for own technical field"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 19,
+              "quote": "Who will authorize the technical competency enhancement plan?",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Who will authorize the technical competency enhancement plan?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 19,
+              "quote": "How can you classify evidence required for competency?",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "How can you classify evidence required for competency?"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c07-p19-self-check-1",
+        "c07-p21-answer-key-1"
+      ],
+      "text": "Self Check, Answer Key and Job 1 carry only the LO 1 title. Yet their questions and steps cover all four LOs. Study the whole module for them.",
+      "tone": "caution"
+    }
+  ],
+  "highlighted": false,
+  "id": "prove-technical-competency",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "দক্ষতা যে অর্জিত হয়েছে তার প্রমাণ",
+      "en": "Proof of competency"
+    },
+    {
+      "bn": "industry-র অভিজ্ঞ বিশেষজ্ঞ, যিনি evidence যাচাই করেন",
+      "en": "Industry specialist"
+    },
+    {
+      "bn": "পুরো qualification শেষ করলে পাওয়া সনদ",
+      "en": "Competency Certificate"
+    },
+    {
+      "bn": "কয়েকটা Units of Competency শেষ করলে পাওয়া অর্জনের বিবরণ",
+      "en": "Statement of Achievement"
+    },
+    {
+      "bn": "যেখানে সনদ জমা দিয়ে approval নিতে হয়",
+      "en": "Appropriate authority"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "Evidence of competency to industry specialist is presented using agreed method.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Evidence of competency to industry specialist is presented using agreed method."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "Technical competency certification is completed and submitted to appropriate authority.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Technical competency certification is completed and submitted to appropriate authority."
+      }
+    ],
+    "itemsBn": [
+      "নির্ধারিত (agreed) পদ্ধতিতে industry specialist-কে নিজের competency-র evidence দেখানো।",
+      "Technical competency certification সম্পন্ন করে appropriate authority-র কাছে জমা দেওয়া।"
+    ],
+    "title": "Steps to prove technical competency",
+    "titleBn": "কারিগরি দক্ষতা প্রমাণ করার ধাপ"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 7,
+        "match": "exact",
+        "page": 18,
+        "printedPage": 17,
+        "quote": "After the successful completion of the training or industrial attachment program it is now obligatory for the teacher/trainer to provide proof of his competency.",
+        "sourceTitle": "Maintain and Enhance Technical Competency",
+        "src": "cblm07"
+      },
+      {
+        "cblm": 7,
+        "match": "exact",
+        "page": 18,
+        "printedPage": 17,
+        "quote": "This evidence will be required for him to get the Competency Certificate for the full qualification course or statement of achievement for few Units of Competency (UoC) completed.",
+        "sourceTitle": "Maintain and Enhance Technical Competency",
+        "src": "cblm07"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "After training, the trainer must prove competency with evidence. This evidence earns a Competency Certificate or Statement of Achievement."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "The industry specialist will later assess and evaluate those evidences",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          "left": "Industry specialist",
+          "right": "Assesses and evaluates the evidences"
+        },
+        {
+          "cite": {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "Competency Certificate for the full qualification course",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          "left": "Competency Certificate",
+          "right": "Full qualification course"
+        },
+        {
+          "cite": {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "statement of achievement for few Units of Competency (UoC) completed.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          "left": "Statement of Achievement",
+          "right": "A few Units of Competency completed"
+        },
+        {
+          "cite": {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "submit the Certificate or Statement of Achievement to the Institutional Supervisor or appropriate authority for approval.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          "left": "Institutional Supervisor",
+          "right": "Receives the certificate for approval"
+        }
+      ],
+      "prompt": "Match each item with what CBLM 7 says about it."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 7,
+        "match": "exact",
+        "page": 18,
+        "printedPage": 17,
+        "quote": "generally s/he will have to present one direct and two indirect evidences",
+        "sourceTitle": "Maintain and Enhance Technical Competency",
+        "src": "cblm07"
+      },
+      "answerIndex": 2,
+      "options": [
+        "One direct and one indirect evidence",
+        "Two direct and one indirect evidences",
+        "One direct and two indirect evidences",
+        "Three indirect evidences only"
+      ],
+      "prompt": "To prove competency on a selected unit, a trainer generally presents:"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 17,
+              "quote": "After the successful completion of the training or industrial attachment program it is now obligatory for the teacher/trainer to provide proof of his competency.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "After the training or attachment, it is obligatory to provide proof of competency."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 17,
+              "quote": "present and demonstrate evidence to the industry specialist",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 17,
+              "quote": "one direct and two indirect evidences",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Present one direct and two indirect evidences to the industry specialist."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 17,
+              "quote": "submit the Certificate or Statement of Achievement to the Institutional Supervisor or appropriate authority for approval.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Submit the Certificate or Statement of Achievement to the Institutional Supervisor for approval."
+        }
+      ],
+      "modelAnswer": "After training, proof of competency is obligatory.\n1. Present evidence to the industry specialist: one direct and two indirect evidences.\n2. The industry specialist assesses the evidences and certifies the trainer.\n3. The authority gives a Competency Certificate (full qualification) or Statement of Achievement (few UoCs).\n4. Submit it to the Institutional Supervisor or appropriate authority for approval.",
+      "prompt": "How does a TVET trainer prove technical competency after training?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "Based on the evidence and the proof of competency the industry or training authority will provide him with the Competency Certificate or Statement of Achievement",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The industry or training authority, based on the evidence and proof of competency."
+      },
+      "prompt": "Who provides the Competency Certificate or Statement of Achievement?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Prove Competency: Evidence to the Industry Specialist and Certification (CBLM 7)",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 7,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 17,
+          "quote": "generally s/he will have to present one direct and two indirect evidences for his proof of competency on selected unit of competency.",
+          "sourceTitle": "Maintain and Enhance Technical Competency",
+          "src": "cblm07"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Present one direct and two indirect evidences, not one of each."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 7,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 17,
+          "quote": "Competency Certificate for the full qualification course or statement of achievement for few Units of Competency (UoC) completed.",
+          "sourceTitle": "Maintain and Enhance Technical Competency",
+          "src": "cblm07"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Full qualification gives a Competency Certificate. A few Units of Competency give a Statement of Achievement."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 7,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 17,
+          "quote": "Later these evidences will be documented and kept as proof of competency earned by the teacher/trainer.",
+          "sourceTitle": "Maintain and Enhance Technical Competency",
+          "src": "cblm07"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The evidences are documented and kept as proof of competency earned."
+    }
+  ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "After the successful completion of the training or industrial attachment program",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Complete the training or industrial attachment program."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "Trainer/teacher must present and demonstrate evidence to the industry specialist",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "generally s/he will have to present one direct and two indirect evidences",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Present one direct and two indirect evidences to the industry specialist."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "The industry specialist will later assess and evaluate those evidences",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The industry specialist assesses and evaluates the evidences."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "the industry or training authority will provide him with the Competency Certificate or Statement of Achievement",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The authority provides a Competency Certificate or Statement of Achievement."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 17,
+            "quote": "submit the Certificate or Statement of Achievement to the Institutional Supervisor or appropriate authority for approval.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Submit the certificate to the Institutional Supervisor or appropriate authority for approval."
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "আগে training বা industrial attachment সফলভাবে শেষ করুন।",
+      "Industry specialist-কে one direct আর two indirect evidences দেখান।",
+      "Industry specialist সেই evidences যাচাই ও মূল্যায়ন করেন।",
+      "Industry বা training authority Competency Certificate বা Statement of Achievement দেয়।",
+      "সনদটা Institutional Supervisor বা appropriate authority-র কাছে approval-এর জন্য জমা দিন।"
+    ],
+    "title": "From training to an approved certificate (p.18)",
+    "title_bn": "Training শেষ থেকে অনুমোদিত সনদ পর্যন্ত"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

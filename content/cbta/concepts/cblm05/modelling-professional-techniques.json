@@ -46,11 +46,26 @@
     ]
   },
   "keywords": [
-    { "en": "Modelling", "bn": "যে কৌশল ভালো কাজ করে, তা দেখে নিজে অনুসরণ করা" },
-    { "en": "Commitment", "bn": "উন্নতি করার দৃঢ় প্রতিজ্ঞা" },
-    { "en": "Checklist for self evaluation", "bn": "নিজেকে সৎভাবে যাচাই করার তালিকা" },
-    { "en": "Performance issues", "bn": "কাজের দুর্বল দিক বা সমস্যা" },
-    { "en": "Colleagues", "bn": "সহকর্মী" }
+    {
+      "en": "Modelling",
+      "bn": "যে কৌশল ভালো কাজ করে, তা দেখে নিজে অনুসরণ করা"
+    },
+    {
+      "en": "Commitment",
+      "bn": "উন্নতি করার দৃঢ় প্রতিজ্ঞা"
+    },
+    {
+      "en": "Checklist for self evaluation",
+      "bn": "নিজেকে সৎভাবে যাচাই করার তালিকা"
+    },
+    {
+      "en": "Performance issues",
+      "bn": "কাজের দুর্বল দিক বা সমস্যা"
+    },
+    {
+      "en": "Colleagues",
+      "bn": "সহকর্মী"
+    }
   ],
   "bangla_explanation": [
     "Modelling মানে যে strategies কাজ করে, সেগুলো খুঁজে নিজে অনুসরণ করা।",
@@ -63,47 +78,108 @@
     "bn": "ক্লাসে কেউ বারবার চ্যালেঞ্জ করলে, যিনি ভালো সামলান তাঁকে দেখে শিখুন ও অনুশীলন করুন।"
   },
   "list_answer": {
+    "title": "Professional techniques and strategies you may need to become more proficient in",
+    "title_bn": "যেসব পেশাগত কৌশলে আরও দক্ষ হওয়া দরকার হতে পারে",
     "items": [
       {
         "text": "Techniques for initiating action and directing decision making",
         "fidelity": "verbatim",
-        "cites": [{ "src": "cblm05", "page": 10, "quote": "techniques for initiating action and directing decision making", "passageId": "cblm05-p10-04e8696e" }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "techniques for initiating action and directing decision making",
+            "passageId": "cblm05-p10-04e8696e"
+          }
+        ]
       },
       {
         "text": "Strategies for presenting a confident and assured manner in challenging situations",
         "fidelity": "verbatim",
-        "cites": [{ "src": "cblm05", "page": 10, "quote": "strategies for presenting a confident and assured manner in challenging situations" }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "strategies for presenting a confident and assured manner in challenging situations"
+          }
+        ]
       },
       {
         "text": "Maintaining ethical practice in the face of opposition",
         "fidelity": "verbatim",
-        "cites": [{ "src": "cblm05", "page": 10, "quote": "maintaining ethical practice in the face of opposition" }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "maintaining ethical practice in the face of opposition"
+          }
+        ]
       },
       {
         "text": "Modelling behavioural and personal presentation standards",
         "fidelity": "verbatim",
-        "cites": [{ "src": "cblm05", "page": 10, "quote": "modelling behavioural and personal presentation standards" }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "modelling behavioural and personal presentation standards"
+          }
+        ]
       },
       {
         "text": "Motivation strategies",
         "fidelity": "verbatim",
-        "cites": [{ "src": "cblm05", "page": 10, "quote": "motivation strategies" }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "motivation strategies"
+          }
+        ]
       },
       {
         "text": "Time management",
         "fidelity": "verbatim",
-        "cites": [{ "src": "cblm05", "page": 10, "quote": "motivation strategies time management" }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "motivation strategies time management"
+          }
+        ]
       },
       {
         "text": "Strategies for acknowledging and respecting the attitudes and beliefs of others",
         "fidelity": "verbatim",
-        "cites": [{ "src": "cblm05", "page": 10, "quote": "strategies for acknowledging and respecting the attitudes and beliefs of others" }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "strategies for acknowledging and respecting the attitudes and beliefs of others"
+          }
+        ]
       },
       {
         "text": "Techniques for promoting active participation",
         "fidelity": "verbatim",
-        "cites": [{ "src": "cblm05", "page": 10, "quote": "techniques for promoting active participation." }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "techniques for promoting active participation."
+          }
+        ]
       }
+    ],
+    "items_bn": [
+      "নিজে উদ্যোগ নিয়ে কাজ শুরু করা, আর decision making-কে সঠিক দিকে চালিত করার কৌশল।",
+      "কঠিন পরিস্থিতিতেও আত্মবিশ্বাসী আর দৃঢ়ভাবে নিজেকে উপস্থাপন করার strategies।",
+      "বিরোধিতা এলেও নৈতিক পথ থেকে না সরা — মানে ethical practice ধরে রাখা।",
+      "নিজের আচরণ আর উপস্থাপনায় এমন মান দেখানো, যা দেখে অন্যরা অনুসরণ করতে পারে।",
+      "নিজেকে ও অন্যকে কাজে উৎসাহী রাখার motivation strategies।",
+      "Time management — সময় ঠিকভাবে ভাগ করে কাজে লাগানো, যাতে কাজ সময়মতো শেষ হয়।",
+      "অন্যের মনোভাব আর বিশ্বাসকে স্বীকার করা ও সম্মান দেখানোর strategies।",
+      "সবাই যেন সক্রিয়ভাবে অংশ নেয় — active participation বাড়ানোর কৌশল।"
     ]
   },
   "traps": [
@@ -141,6 +217,73 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "How to model professional techniques and strategies (p.10-11)",
+    "title_bn": "পেশাগত কৌশল modelling করার ধাপ",
+    "items": [
+      {
+        "text": "Make the commitment to improve.",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "The first step is to make the"
+          },
+          {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "commitment to improve."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Identify areas of your performance in which you are lacking.",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "identify areas of your performance in which you feel"
+          },
+          {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "you are lacking."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Identify strategies that work.",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "identify strategies that work"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Model these strategies.",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "model these strategies."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    ],
+    "labels_bn": [
+      "প্রথমে মন থেকে প্রতিজ্ঞা (commitment) নিন যে উন্নতি করবেন।",
+      "নিজের performance-এর কোন জায়গায় ঘাটতি, তা checklist দিয়ে সৎভাবে খুঁজুন।",
+      "যে strategies কাজ করে, সেগুলো খুঁজুন — books, colleagues বা experts থেকে।",
+      "তারপর সেই strategies নিজে অনুসরণ করুন (model)।"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "How do you model professional techniques and strategies?",
@@ -149,37 +292,83 @@
         {
           "text": "Everybody can improve their professional performance.",
           "fidelity": "verbatim",
-          "cites": [{ "src": "cblm05", "page": 10, "quote": "Everybody can improve their professional performance." }]
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 10,
+              "quote": "Everybody can improve their professional performance."
+            }
+          ]
         },
         {
           "text": "The first step is to make the commitment to improve.",
           "fidelity": "verbatim",
-          "cites": [{ "src": "cblm05", "page": 10, "quote": "The first step is to make the commitment to improve." }]
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 10,
+              "quote": "The first step is to make the commitment to improve."
+            }
+          ]
         },
         {
           "text": "Make an honest checklist for self evaluation.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm05", "page": 10, "quote": "Make a checklist for yourself similar to the one given below and be honest in your assessment." },
-            { "src": "cblm05", "page": 11, "quote": "Checklist for self evaluation" }
+            {
+              "src": "cblm05",
+              "page": 10,
+              "quote": "Make a checklist for yourself similar to the one given below and be honest in your assessment."
+            },
+            {
+              "src": "cblm05",
+              "page": 11,
+              "quote": "Checklist for self evaluation"
+            }
           ]
         },
         {
           "text": "An effective way to address performance issues: identify strategies that work, then model them.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm05", "page": 16, "quote": "An effective way to address performance issues is to:", "passageId": "cblm05-p16-ce81e9fd" },
-            { "src": "cblm05", "page": 16, "quote": "identify strategies that work" },
-            { "src": "cblm05", "page": 16, "quote": "model these strategies." }
+            {
+              "src": "cblm05",
+              "page": 16,
+              "quote": "An effective way to address performance issues is to:",
+              "passageId": "cblm05-p16-ce81e9fd"
+            },
+            {
+              "src": "cblm05",
+              "page": 16,
+              "quote": "identify strategies that work"
+            },
+            {
+              "src": "cblm05",
+              "page": 16,
+              "quote": "model these strategies."
+            }
           ]
         },
         {
           "text": "Strategies may come from books, training courses, colleagues, networks, experts and open communication.",
           "fidelity": "paraphrase",
           "cites": [
-            { "src": "cblm05", "page": 16, "quote": "The strategies that work may come from:", "passageId": "cblm05-p16-1b268018" },
-            { "src": "cblm05", "page": 16, "quote": "books training courses colleagues participation in networks experts in your field" },
-            { "src": "cblm05", "page": 16, "quote": "open and ongoing communication with colleagues." }
+            {
+              "src": "cblm05",
+              "page": 16,
+              "quote": "The strategies that work may come from:",
+              "passageId": "cblm05-p16-1b268018"
+            },
+            {
+              "src": "cblm05",
+              "page": 16,
+              "quote": "books training courses colleagues participation in networks experts in your field"
+            },
+            {
+              "src": "cblm05",
+              "page": 16,
+              "quote": "open and ongoing communication with colleagues."
+            }
           ]
         }
       ]
@@ -205,22 +394,38 @@
         {
           "left": "Commitment to improve",
           "right": "The first step",
-          "cite": { "src": "cblm05", "page": 10, "quote": "The first step is to make the commitment to improve." }
+          "cite": {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "The first step is to make the commitment to improve."
+          }
         },
         {
           "left": "Colleagues",
           "right": "May have a fresh insight into your performance",
-          "cite": { "src": "cblm05", "page": 11, "quote": "They may have a fresh insight into your performance that you have not considered." }
+          "cite": {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "They may have a fresh insight into your performance that you have not considered."
+          }
         },
         {
           "left": "Self evaluation checklist",
           "right": "Be honest in your assessment",
-          "cite": { "src": "cblm05", "page": 10, "quote": "Make a checklist for yourself similar to the one given below and be honest in your assessment." }
+          "cite": {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "Make a checklist for yourself similar to the one given below and be honest in your assessment."
+          }
         },
         {
           "left": "Reflect on your own performance",
           "right": "A vital skill for any professional",
-          "cite": { "src": "cblm05", "page": 10, "quote": "The ability to reflect on your own performance is a vital skill for any professional." }
+          "cite": {
+            "src": "cblm05",
+            "page": 10,
+            "quote": "The ability to reflect on your own performance is a vital skill for any professional."
+          }
         }
       ]
     },
@@ -230,9 +435,21 @@
         "text": "Identify strategies that work, then model these strategies.",
         "fidelity": "paraphrase",
         "cites": [
-          { "src": "cblm05", "page": 11, "quote": "An effective way to address performance issues is to:" },
-          { "src": "cblm05", "page": 11, "quote": "identify strategies that work" },
-          { "src": "cblm05", "page": 11, "quote": "model these strategies." }
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "An effective way to address performance issues is to:"
+          },
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "identify strategies that work"
+          },
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "model these strategies."
+          }
         ]
       }
     }

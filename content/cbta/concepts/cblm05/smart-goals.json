@@ -79,6 +79,8 @@
     "explain_bn": "প্রতিটি অক্ষর goal-এর একটি গুণ।"
   },
   "list_answer": {
+    "title": "SMART goals: what each letter means",
+    "title_bn": "SMART goal: প্রতিটি অক্ষরের অর্থ",
     "items": [
       {
         "text": "S- Specific.",
@@ -135,6 +137,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Specific — নির্দিষ্ট; ঠিক কী করবেন তা পরিষ্কার করে বলা, অস্পষ্ট নয়।",
+      "Measurable — মাপা যায় এমন, যাতে বোঝা যায় goal কতটা পূরণ হলো।",
+      "Achievable — অর্জন করা সম্ভব; নিজের ওপর অবাস্তব চাপ দেবেন না।",
+      "প্রাসঙ্গিক ও বাস্তবসম্মত — নিজের responsibilities, accountabilities আর aspirations-এর সাথে মিল থাকতে হবে।",
+      "Time-referenced — সময়সীমা থাকবে; সময় বাঁধা থাকলে goal-এর progress মাপা যায়।"
     ]
   },
   "traps": [
@@ -161,6 +170,97 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "An example of a SMART goal (p.26)",
+    "title_bn": "SMART goal-এর উদাহরণ: people management course",
+    "columns": [
+      "Letter",
+      "Example"
+    ],
+    "rows": [
+      [
+        "S",
+        {
+          "text": "Improve people management skills by completing \"Ensure Team Effectiveness\" course.",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 26,
+              "quote": "Improve people management skills by completing \"Ensure Team Effectiveness\" course."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "M",
+        {
+          "text": "Complete the course, and at the end of the year assess my own skills.",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 26,
+              "quote": "Complete the course, and at the end of the year assess my own skills"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "A",
+        {
+          "text": "The course runs one night a week for ten weeks, which I can fit in.",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 26,
+              "quote": "The course can be completed over one night a week for ten weeks, which I"
+            },
+            {
+              "src": "cblm05",
+              "page": 26,
+              "quote": "can fit in."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "R",
+        {
+          "text": "The course is relevant to my future. The organisation needs effective people managers.",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 26,
+              "quote": "The course is relevant to where I want to go in the future, and the"
+            },
+            {
+              "src": "cblm05",
+              "page": 26,
+              "quote": "organisation needs a base of people with effective people management skills."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "T",
+        {
+          "text": "The course is set for July - mid September. This is a short-term goal.",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 26,
+              "quote": "The course is set for July - mid September. This is a short-term goal."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are SMART goals?",

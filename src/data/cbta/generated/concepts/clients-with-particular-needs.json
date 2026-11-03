@@ -1,7 +1,6 @@
 {
   "aliases": [
-    "What do you understand by 'clients with particular needs'?",
-    "Providing support for special needs"
+    "What do you understand by 'clients with particular needs'?"
   ],
   "appearsIn": [
     {
@@ -32,6 +31,17 @@
     "bn": "Welding course-এ নারী কম, আর কিছু learner চর এলাকা থেকে আসে; তাদের more time ও support দেওয়া হয়।",
     "en": "A welding course has few women and some learners from remote char areas. The centre gives them more time and support."
   },
+  "extra": [
+    {
+      "bn": "মনে রাখুন: নারী (কম প্রতিনিধিত্ব), কম পড়া-লেখা, disability, গ্রাম/দূরের, ঝুঁকিতে থাকা তরুণ।",
+      "kind": "note",
+      "outline": [
+        "c02-p7-particular-needs"
+      ],
+      "text": "Memory aid: Women, Low LLN, Disability, Rural, Youth.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "clients-with-particular-needs",
   "importance": {
@@ -142,7 +152,16 @@
         "fidelity": "verbatim",
         "text": "Youth at risk"
       }
-    ]
+    ],
+    "itemsBn": [
+      "যেখানে নারীদের অংশগ্রহণ কম (under represented), সেখানকার women — তাদের অংশ নিতে আলাদা উৎসাহ ও সহায়তা লাগে।",
+      "যারা পড়তে-লিখতে বা হিসাব করতে কম পারেন (low literacy, numeracy) — লেখা-পড়া নির্ভর কাজে তাদের বাড়তি সহায়তা লাগে।",
+      "প্রতিবন্ধিতা আছে এমন মানুষ (people with disability) — তাদের জন্য পরিবেশ ও পদ্ধতি মানিয়ে নিতে হতে পারে।",
+      "গ্রাম বা দূরবর্তী এলাকার learners (rural and remote) — দূরত্বের কারণে শেখার সুযোগ পাওয়া ও যোগাযোগ কঠিন হতে পারে।",
+      "ঝুঁকিতে থাকা তরুণ (youth at risk) — তাদের প্রতি বাড়তি মনোযোগ ও সহায়তা দরকার।"
+    ],
+    "title": "Clients with particular needs",
+    "titleBn": "বিশেষ চাহিদাসম্পন্ন clients"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -505,6 +524,7 @@
       "text": "Clients with particular needs is not the same list as individual differences."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

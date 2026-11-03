@@ -32,6 +32,64 @@
     "bn": "পার্কিং-এ ফেল করা candidate-কে সিদ্ধান্তের কারণ বলুন আর কী অনুশীলন করবে তা জানান।",
     "en": "A driving test candidate fails at parking. The assessor explains the decision. He also gives guidance for further training."
   },
+  "extra": [
+    {
+      "bn": [
+        "Feedback শুধু candidate-এর জন্য নয়; assessor নিজের performance ও documents-ও review করতে পারেন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "Candidates are usually anxious about results of assessment",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Candidates are usually anxious about results of assessment"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "debriefing should be a thorough and positive experience for the candidate",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "debriefing should be a thorough and positive experience for the candidate"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "Feedback is beneficial both to the assessor and the candidate",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Feedback is beneficial both to the assessor and the candidate"
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p25-debriefing"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "benefits-of-feedback",
   "importance": {
@@ -156,7 +214,17 @@
         "fidelity": "verbatim",
         "text": "Encouragement of candidate who has not achieved the required level of competence"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Assessor নিজের performance কেমন হলো, তা review করার সুযোগ পান।",
+      "Assessment process আর assessment documents কতটা কাজ করল, তা যাচাই করা যায়।",
+      "কেন এই assessment decision নেওয়া হলো, তা candidate-কে বুঝিয়ে বলার সুযোগ মেলে।",
+      "Candidate-এর strengths আর weaknesses কোথায়, তা চিহ্নিত হয়।",
+      "পরের training-এ কী করতে হবে, সেই guidance দেওয়া যায়।",
+      "যে candidate প্রয়োজনীয় level-এ পৌঁছায়নি, তাকে উৎসাহ দেওয়া যায়, যাতে সে আবার চেষ্টা করে।"
+    ],
+    "title": "Benefits of feedback on assessment",
+    "titleBn": "Assessment-এর পর feedback দেওয়ার সুবিধা"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -406,6 +474,7 @@
       "text": "Feedback also encourages a candidate who has not achieved the required competence."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

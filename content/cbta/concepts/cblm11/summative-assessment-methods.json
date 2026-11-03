@@ -73,6 +73,8 @@
     "bn": "ওয়ার্কশপে demonstration-এর সময় assessor checklist দিয়ে evidence নেন।"
   },
   "list_answer": {
+    "title": "Methods used for summative assessment",
+    "title_bn": "Summative assessment-এর পদ্ধতি",
     "items": [
       {
         "text": "Written Test: for \"knowing\" and \"thinking\" learning outcomes; a paper and pencil test.",
@@ -141,6 +143,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Written Test — কাগজ-কলমের পরীক্ষা; trainee কী জানে আর কীভাবে চিন্তা করে, তা মাপা হয়।",
+      "Oral Questioning — মুখে প্রশ্ন; একা, বা demonstration কিংবা on the job observation-এর সাথে মিলিয়ে করা যায়।",
+      "Demonstration — trainee আসল বা simulated অবস্থায় কাজটা করে দেখায়।",
+      "On the Job Observation — job site-এ কাজ করার সময় observation checklist দিয়ে দেখা হয়।",
+      "Trainee Portfolio — training চলাকালে trainee নিজের অর্জনের evidence জমা করে রাখে।"
     ]
   },
   "traps": [
@@ -183,6 +192,101 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Assessment method and its evidence gathering tool (p.36)",
+    "title_bn": "Method আর তার tool",
+    "columns": [
+      "Assessment method",
+      "Evidence gathering tool"
+    ],
+    "rows": [
+      [
+        "1. Written test",
+        {
+          "text": "Short test questions, essay, etc.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 36,
+              "quote": "1. Written test 1. Short test questions, essay, etc"
+            }
+          ]
+        }
+      ],
+      [
+        "2. Oral Questioning",
+        {
+          "text": "List of questions and response sheet",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 36,
+              "quote": "2. Oral Questioning 2. List of questions and response sheet"
+            }
+          ]
+        }
+      ],
+      [
+        "3. Observation",
+        {
+          "text": "Task observation checklist",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 36,
+              "quote": "3. Observation 3. Task observation checklist"
+            }
+          ]
+        }
+      ],
+      [
+        "4. Demonstration",
+        {
+          "text": "Task Observation checklist",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 36,
+              "quote": "4. Demonstration 4. Task Observation checklist"
+            }
+          ]
+        }
+      ],
+      [
+        "5. On-the-job observation",
+        {
+          "text": "On-the-job observation checklist",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 36,
+              "quote": "5. On-the-job observation 5. On-the-job observation checklist"
+            }
+          ]
+        }
+      ],
+      [
+        "6. Portfolio",
+        {
+          "text": "Portfolio evaluation checklist",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 36,
+              "quote": "6. Portfolio 6. Portfolio evaluation checklist"
+            }
+          ]
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "List the methods of assessment suitable for use when assessing competency.",

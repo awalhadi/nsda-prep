@@ -67,6 +67,8 @@
     "bn": "Print করার আগে পাঁচজন operator দিয়ে handout-টা pilot test করানো হলো।"
   },
   "list_answer": {
+    "title": "Steps for adapting existing learning materials",
+    "title_bn": "আগে থেকে থাকা learning materials adapt করার ধাপ",
     "items": [
       {
         "text": "Assess needs and resources.",
@@ -152,6 +154,15 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "প্রয়োজন আর হাতে থাকা resources যাচাই করা — কী লাগবে আর কী আছে, তা আগে বোঝা।",
+      "Material-টা মূল্যায়ন (evaluate) করা — আপনার কাজের উপযুক্ত কিনা দেখা।",
+      "Material ব্যবহার বা adapt করতে permission লাগবে কিনা, তা জেনে নেওয়া।",
+      "Pilot test — চূড়ান্ত করার আগে audience-এর কয়েকজনকে দিয়ে material পরীক্ষা করানো।",
+      "Pilot test-এ যা পাওয়া গেল, সেই অনুযায়ী পরিবর্তন করা।",
+      "Material চূড়ান্ত করে ব্যবহার শুরু করা (finalize and implement)।",
+      "Adapt করা material কতটা কাজ করল, শেষে তা evaluate করা।"
     ]
   },
   "traps": [
@@ -332,5 +343,148 @@
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "steps",
+    "title": "Seven tips for evaluating and adapting materials, in order (pp.14-15)",
+    "title_bn": "Material adapt করার ৭টি ধাপ",
+    "items": [
+      {
+        "text": "1. Assess needs and resources: time, personnel, budget; know your audience.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 14,
+            "quote": "1. Assess needs and resources"
+          },
+          {
+            "src": "cblm08",
+            "page": 14,
+            "quote": "Identify program resources (time, personnel, budget) for material"
+          },
+          {
+            "src": "cblm08",
+            "page": 14,
+            "quote": "Get to know your audience"
+          }
+        ]
+      },
+      {
+        "text": "2. Evaluate the material: can it be used as is, adapted, or a new material developed?",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 14,
+            "quote": "2. Evaluate the material"
+          },
+          {
+            "src": "cblm08",
+            "page": 14,
+            "quote": "can be used as is, if it can be adapted, or if a new material should be"
+          },
+          {
+            "src": "cblm08",
+            "page": 14,
+            "quote": "developed"
+          }
+        ]
+      },
+      {
+        "text": "3. Find out whether you need permission to use or adapt it.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 15,
+            "quote": "3. Find out whether you need permission to use or adapt the existing material"
+          }
+        ]
+      },
+      {
+        "text": "4. Pilot test (field test) with members of your audience.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 15,
+            "quote": "4. Pilot test (field test) new or adapted materials with members of your"
+          },
+          {
+            "src": "cblm08",
+            "page": 15,
+            "quote": "audience"
+          }
+        ]
+      },
+      {
+        "text": "5. Make changes based on pilot test comments and suggestions.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 15,
+            "quote": "5. Make changes based on pilot test"
+          },
+          {
+            "src": "cblm08",
+            "page": 15,
+            "quote": "Make changes to the materials based on comments and suggestions."
+          }
+        ]
+      },
+      {
+        "text": "6. Finalize and implement: copies, distribution and marketing plan.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 15,
+            "quote": "6. Finalize and implement"
+          },
+          {
+            "src": "cblm08",
+            "page": 15,
+            "quote": "Determine how many copies of the materials are needed."
+          },
+          {
+            "src": "cblm08",
+            "page": 15,
+            "quote": "Develop a distribution and marketing plan for the materials."
+          }
+        ]
+      },
+      {
+        "text": "7. Evaluate your adapted material: monitor use; periodically re-evaluate and revise.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm08",
+            "page": 15,
+            "quote": "7. Evaluate your adapted material"
+          },
+          {
+            "src": "cblm08",
+            "page": 15,
+            "quote": "Monitor the quantity of materials distributed and determine how the materials"
+          },
+          {
+            "src": "cblm08",
+            "page": 15,
+            "quote": "Periodically re-evaluate, update, and revise the materials as needed."
+          }
+        ]
+      }
+    ],
+    "labels_bn": [
+      "সময়, লোকবল, বাজেট কত আছে দেখুন; audience-কে চিনুন — তারা কী জানে আর কী শিখতে হবে।",
+      "Material যাচাই করুন: যেমন আছে চলবে, adapt করতে হবে, নাকি নতুন বানাতে হবে।",
+      "ব্যবহার বা adapt করতে permission লাগবে কিনা জানুন — copyright-এর নিয়ম মানুন।",
+      "চূড়ান্ত করার আগে audience-এর কয়েকজনকে দিয়ে pilot test করুন।",
+      "Pilot test-এর মন্তব্য ও পরামর্শ অনুযায়ী material বদলান।",
+      "কত কপি লাগবে ঠিক করুন, বিতরণ ও marketing plan বানান।",
+      "কতটা বিতরণ হলো, কীভাবে ব্যবহার হচ্ছে দেখুন; মাঝে মাঝে আবার যাচাই করে update করুন।"
+    ]
+  }
 }

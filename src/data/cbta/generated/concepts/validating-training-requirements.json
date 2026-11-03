@@ -46,10 +46,21 @@
     "bn": "IT training centre তার course-এর চাহিদা employers আর BTEB assessors-দের সাথে মিলিয়ে নেয়।",
     "en": "An IT training centre checks its course needs with local employers and BTEB registered assessors."
   },
+  "extra": [
+    {
+      "bn": "তালিকা p.10 থেকে p.11-এ গেছে — শেষের দুটি (Consultative Committees, BTEB registered Assessors) বাদ দেবেন না; মোট ৮টি।",
+      "kind": "note",
+      "outline": [
+        "c08-p10-validating"
+      ],
+      "text": "The list continues on p.11. Do not forget Consultative Committees and BTEB registered Assessors.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "validating-training-requirements",
   "importance": {
-    "bn": "CBLM 9 Self Check 1 (Q3)-এ এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "bn": "CBLM 9 Self Check 1 (Q3)-এ এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
     "en": "Asked in CBLM 9 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question."
   },
   "keywords": [
@@ -203,7 +214,19 @@
         "fidelity": "paraphrase",
         "text": "BTEB registered Assessors or Assessment Centers."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Trainee যে trade-এ শিখছে, সেই trade-এর experts।",
+      "Supervisors বা trainee-র employers — কাজে আসলে কী লাগে, তাঁরা জানেন।",
+      "Training providers, employers আর human resources departments, যাঁরা training আর কর্মী দুটোই দেখেন।",
+      "Trainers, teachers আর assessors — যাঁরা সরাসরি শেখান ও মূল্যায়ন করেন।",
+      "দক্ষতায় এগিয়ে থাকা participant trainee বা learner।",
+      "সরকারি নিয়ন্ত্রক সংস্থা (government regulatory bodies)।",
+      "Consultative Committees — পরামর্শ কমিটি।",
+      "BTEB-এ registered assessors বা assessment centers।"
+    ],
+    "title": "Persons/officers who validate learner training requirements",
+    "titleBn": "যাঁদের সাথে learner-এর training requirements যাচাই করা হয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -444,7 +467,7 @@
   ],
   "score": 7,
   "sourceType": "cblm",
-  "stars": 2,
+  "stars": 3,
   "status": "draft",
   "title": "Validating Training Requirements",
   "traps": [
@@ -497,6 +520,7 @@
       "text": "An advanced trainee or learner can also help validate training requirements."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 1
 }

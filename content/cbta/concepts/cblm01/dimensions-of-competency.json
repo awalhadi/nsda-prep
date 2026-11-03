@@ -42,11 +42,26 @@
     ]
   },
   "keywords": [
-    { "en": "Dimension", "bn": "দিক বা মাত্রা" },
-    { "en": "Task skills", "bn": "নির্দিষ্ট মান অনুযায়ী একটা কাজ করা" },
-    { "en": "Task management skills", "bn": "একসাথে কয়েকটা কাজ পরিকল্পনা করে সামলানো" },
-    { "en": "Contingency management skills", "bn": "হঠাৎ সমস্যা বা ভাঙন হলে সামলানো" },
-    { "en": "Job/role environment skills", "bn": "অন্যদের সাথে কাজ করা ও পরিবেশের সাথে মানিয়ে চলা" }
+    {
+      "en": "Dimension",
+      "bn": "দিক বা মাত্রা"
+    },
+    {
+      "en": "Task skills",
+      "bn": "নির্দিষ্ট মান অনুযায়ী একটা কাজ করা"
+    },
+    {
+      "en": "Task management skills",
+      "bn": "একসাথে কয়েকটা কাজ পরিকল্পনা করে সামলানো"
+    },
+    {
+      "en": "Contingency management skills",
+      "bn": "হঠাৎ সমস্যা বা ভাঙন হলে সামলানো"
+    },
+    {
+      "en": "Job/role environment skills",
+      "bn": "অন্যদের সাথে কাজ করা ও পরিবেশের সাথে মানিয়ে চলা"
+    }
   ],
   "bangla_explanation": [
     "একজন কর্মীর competency আছে কিনা বুঝতে চারটা দিক দেখতে হয়।",
@@ -63,6 +78,8 @@
     "explain_bn": "ছোট থেকে বড়: একটা task, অনেক task, সমস্যার সময়, আর পুরো কাজের পরিবেশ।"
   },
   "list_answer": {
+    "title": "Dimensions of competency",
+    "title_bn": "Competency-র dimensions (দিকসমূহ)",
     "items": [
       {
         "text": "Task skills: perform the task to the set standard in the unit of competency.",
@@ -92,6 +109,12 @@
           { "src": "cblm01", "page": 13, "quote": "Job/Role Environment Skills is the capacity to work with others and adapt to different situations", "passageId": "cblm01-p13-418e1915" }
         ]
       }
+    ],
+    "items_bn": [
+      "Task skills — unit of competency-তে যে standard দেওয়া আছে, সেই মান অনুযায়ী একটা কাজ করতে পারা।",
+      "Task management skills — কয়েকটা আলাদা কাজ plan করে মিলিয়ে নিয়ে পুরো কাজের ফল (work outcome) বের করা।",
+      "Contingency management skills — হঠাৎ অনিয়ম, breakdowns বা অজানা সমস্যা হলে সামলাতে পারা, যাতে কাজ থেমে না যায়।",
+      "Job/role environment skills — অন্যদের সাথে মিলে কাজ করা আর ভিন্ন ভিন্ন পরিস্থিতিতে মানিয়ে নেওয়া।"
     ]
   },
   "traps": [
@@ -118,6 +141,88 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Dimensions of competency: where found and photocopier example (p.13-14)",
+    "title_bn": "চার dimension: UoC-এর কোথায় থাকে, আর photocopier উদাহরণ",
+    "columns": [
+      "Dimension",
+      "Usually found in the UoC",
+      "Photocopier operator task"
+    ],
+    "rows": [
+      [
+        "Task Skills",
+        {
+          "text": "Task skills are usually described in the elements and performance criteria.",
+          "cites": [
+            { "src": "cblm01", "page": 13, "quote": "Task skills are usually described in the elements and performance criteria." }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Use a photocopier",
+          "cites": [
+            { "src": "cblm01", "page": 14, "quote": "Use a photocopier" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Task Management Skills",
+        {
+          "text": "Found in the performance criteria, underpinning skills and knowledge; may also appear in the range statements.",
+          "cites": [
+            { "src": "cblm01", "page": 13, "quote": "Found in the performance criteria, underpinning skills and knowledge" },
+            { "src": "cblm01", "page": 13, "quote": "may also appear in the range statements" }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Select the right paper and functions",
+          "cites": [
+            { "src": "cblm01", "page": 14, "quote": "Select the right paper and functions" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Contingency Management Skills",
+        {
+          "text": "Usually found in the critical aspects of evidence, performance criteria and underpinning skills and knowledge; also appear in the range statements.",
+          "cites": [
+            { "src": "cblm01", "page": 13, "quote": "Usually found in the critical aspects of evidence, performance criteria and underpinning skills and knowledge" },
+            { "src": "cblm01", "page": 13, "quote": "also appear in the range statements" }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Clear paper jams",
+          "cites": [
+            { "src": "cblm01", "page": 14, "quote": "Clear paper jams" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Job/Role Environment Skills",
+        {
+          "text": "Mostly covered in the key competencies and underpinning skills and knowledge.",
+          "cites": [
+            { "src": "cblm01", "page": 13, "quote": "Mostly covered in the key competencies and underpinning skills and knowledge." }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Liaise with team members on print job requirements",
+          "cites": [
+            { "src": "cblm01", "page": 14, "quote": "Liaise with team members on print job requirements" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are the four dimensions of competency? Where are they found in a unit of competency?",

@@ -41,6 +41,113 @@
     "bn": "গার্মেন্টস কর্মী ভালো লিখতে পারেন না; assessor মুখে প্রশ্ন করেন আর collar সেলাই দেখে মূল্যায়ন করেন।",
     "en": "A garments worker cannot write well. The assessor asks set questions orally and watches her sew a collar."
   },
+  "extra": [
+    {
+      "bn": "Answer key-এ মাত্র তিনটি পদ্ধতি; পূর্ণ নম্বরের জন্য low levels of education সারির পদ্ধতিগুলোও লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Answer 4",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Verbal assessment using predetermined questions",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Presentations or demonstrations can be used rather than writing",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Use of diagrams as visual cues",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Answer 4: verbal assessment, presentations or demonstrations, and diagrams as visual cues."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "Learner Needs and Reasonable Adjustments",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "Possible range of methods and",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Candidates with",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "low levels of",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "education",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The table also lists methods for candidates with low levels of education."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c02-p8-row-low-literacy",
+        "c02-p9-row-low-education"
+      ],
+      "text": "Answer Key 1 (p.19) gives only the three methods of the first table row. For full marks, also write the low-education row: check LLN impact, demonstration and oral questioning, read printed information, short tasks.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "low-literacy-numeracy-assessment",
   "importance": {
@@ -169,7 +276,14 @@
         "fidelity": "paraphrase",
         "text": "Use diagrams as visual cues when asking questions, or for the candidate to explain answers."
       }
-    ]
+    ],
+    "itemsBn": [
+      "আগে থেকে ঠিক করা প্রশ্ন মুখে জিজ্ঞেস করা (verbal assessment) — উত্তর recorded রাখা যায় বা scribe লিখে দেন, ফলে লিখতে না পারলেও জ্ঞান দেখানো যায়।",
+      "লেখার বদলে presentations বা demonstrations — কাজটা করে বা বলে দেখালেই দক্ষতা বোঝা যায়।",
+      "প্রশ্ন করার সময় বা candidate-এর উত্তর বোঝাতে diagrams-কে visual cues হিসেবে ব্যবহার — ছবি দেখে বোঝা ও বোঝানো সহজ হয়।"
+    ],
+    "title": "Strategies to assess learners with low literacy or numeracy",
+    "titleBn": "কম literacy বা numeracy-র learners-কে মূল্যায়নের কৌশল"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -611,6 +725,210 @@
       "text": "For low literacy, use oral questioning and verbal responses."
     }
   ],
+  "visual": {
+    "columns": [
+      "Particular need",
+      "Potential issue",
+      "Possible range of methods and tools"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Low literacy or numeracy",
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "o Writing",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "o Reading",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "o Calculating",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "o Confidence",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Writing, reading, calculating, confidence"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "o Verbal assessment using",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "predetermined questions (this",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "o Presentations or demonstrations",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "o Use of diagrams as visual cues",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Verbal assessment with predetermined questions; presentations or demonstrations; diagrams as visual cues."
+        }
+      ],
+      [
+        "Candidates with low levels of education",
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "o Reading",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "o Writing",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "o Numeracy",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "o Limited study skills",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "o Confidence",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Reading, writing, numeracy, limited study skills, confidence"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "o Check if language, literacy or",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "o Demonstration and oral",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "questioning, perhaps recording",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "o Read any printed information to",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "o Use short assessment tasks",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Check LLN impact; demonstration and oral questioning; read printed information; short assessment tasks."
+        }
+      ]
+    ],
+    "title": "Learner Needs and Reasonable Adjustments: literacy rows (pp.8-9)",
+    "title_bn": "পড়া-লেখা কম এমন learner: সমস্যা ও পদ্ধতি"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

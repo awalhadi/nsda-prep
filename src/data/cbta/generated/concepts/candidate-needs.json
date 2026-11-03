@@ -15,6 +15,10 @@
         {
           "pdf": 18,
           "printed": 18
+        },
+        {
+          "pdf": 19,
+          "printed": 19
         }
       ],
       "src": "cblm11"
@@ -37,6 +41,456 @@
     "bn": "আগে জানলে assessor উপযুক্ত পদ্ধতি বেছে নিতে পারেন।",
     "en": "A trainee at a garments training centre cannot read well. The assessor checks enrolment information first."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "it means choosing alternative assessment methods or tools where necessary to meet the individual needs of candidates",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Choosing alternative methods or tools where necessary to meet candidates' individual needs."
+      },
+      "concept": "candidate-needs",
+      "kind": "qa",
+      "outline": [
+        "c11-p18-needs-of-candidates"
+      ],
+      "q": "What does considering the needs of candidates mean?",
+      "q_bn": "Candidate-এর needs বিবেচনা মানে কী?",
+      "tip": "This process is called reasonable adjustment.",
+      "tip_bn": "এই প্রক্রিয়ার নামই reasonable adjustment।"
+    },
+    {
+      "bn": [
+        "Adjustment তখনই reasonable যখন assessment valid ও reliable থাকে আর প্রতিষ্ঠানের সামর্থ্যের মধ্যে থাকে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Adjustments are considered reasonable if they still allow for a valid and reliable assessment within the resource capabilities of the training/assessment organization",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Adjustments are reasonable if assessment stays valid and reliable within the organization's resources."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "You need to know the characteristics of the candidates so that you can plan and organise assessment according to their needs",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Know candidates' characteristics so you can plan assessment for their needs."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p18-needs-of-candidates"
+      ],
+      "title": "The 'reasonable' test"
+    },
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Candidates should be encouraged to disclose if they have any equity or additional support needs",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Encourage candidates to disclose equity or additional support needs."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Discuss with experienced teachers, trainers and assessors if necessary",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Discuss with experienced teachers, trainers and assessors."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Check enrolment information",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Check enrolment information."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Speak to relevant workplace personnel or other trainers who may be aware of less obvious needs",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Speak to workplace personnel or trainers aware of less obvious needs."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Check files for background information, but be aware of confidentiality considerations",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Check files for background information, but be aware of confidentiality."
+          }
+        ],
+        "title": "Starting points to identify candidates' characteristics",
+        "title_bn": "Candidate-কে জানার শুরু"
+      },
+      "outline": [
+        "c11-p18-characteristics-starting-points",
+        "c11-p19-designer-equity-role"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "understand equity and support issues",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Understand equity and support issues."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "provide information on access and support",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Provide information on access and support."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "keep up to date with issues and information about who can provide assistance",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Keep up to date with who can provide assistance."
+          }
+        ],
+        "title": "The designer's role",
+        "title_bn": "Designer-এর কাজ"
+      },
+      "title": "Finding candidates' needs vs the designer's role",
+      "title_bn": "Candidate-এর বৈশিষ্ট্য জানার উপায় বনাম designer-এর ভূমিকা"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "level and experiences of previous learning and assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "level and experiences of previous learning and assessment"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "motivation for assessment-personal or organisational",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "motivation for assessment: personal or organisational"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "language, literacy and/or numeracy levels or needs",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "language, literacy and/or numeracy levels or needs"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "physical impairment or disability such as those involving hearing, vision, voice, or mobility",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "physical impairment or disability such as those involving hearing, vision, voice, or mobility"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "intellectual impairment or disability",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "intellectual impairment or disability"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "learning progress",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "learning progress"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "psychiatric or psychological disability",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "psychiatric or psychological disability"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "religious and spiritual observances",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "religious and spiritual observances"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "cultural background",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "cultural background"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "perceptions age gender",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "perceptions"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "perceptions age gender",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "age"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "perceptions age gender",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "gender"
+        }
+      ],
+      "items_bn": [
+        "আগে কতটুকু শিখেছে আর কেমন assessment দিয়েছে — তা জানলে assessment তার উপযোগী করা যায়।",
+        "কেন assessment দিচ্ছে — নিজের জন্য নাকি প্রতিষ্ঠানের জন্য; এতে তার আগ্রহ ও প্রস্তুতি বোঝা যায়।",
+        "ভাষা, পড়া-লেখা বা হিসাবে কতটা দক্ষ আর কী সাহায্য লাগবে, তা জানতে হয়।",
+        "শোনা, দেখা, কথা বলা বা চলাফেরায় কোনো শারীরিক অসুবিধা থাকলে সেই অনুযায়ী ব্যবস্থা নিতে হয়।",
+        "বুদ্ধিগত কোনো অসুবিধা থাকলে assessment-এর ধরন সেই অনুযায়ী ঠিক করতে হয়।",
+        "শেখায় এখন পর্যন্ত কতটা এগিয়েছে, তা দেখে বোঝা যায় সে assessment-এর জন্য প্রস্তুত কি না।",
+        "মানসিক বা psychological কোনো সমস্যা থাকলে তা মাথায় রেখে assessment সাজাতে হয়।",
+        "ধর্মীয় আচার বা প্রার্থনার সময় মাথায় রেখে assessment-এর সময় ঠিক করতে হয়।",
+        "Candidate-এর সাংস্কৃতিক পটভূমি জানা দরকার, যাতে assessment কারও জন্য অস্বস্তিকর বা অন্যায্য না হয়।",
+        "Assessment নিয়ে candidate কী ভাবে বা কী ধারণা রাখে, তা জানলে তাকে ঠিকভাবে বোঝানো যায়।",
+        "বয়স অনুযায়ী candidate-এর চাহিদা আলাদা হতে পারে, তাই এটাও বিবেচনায় রাখতে হয়।",
+        "নারী-পুরুষ ভেদে প্রয়োজন আলাদা হতে পারে; assessment যেন কারও প্রতি পক্ষপাত না করে।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c11-p18-special-needs-list"
+      ],
+      "title": "Special needs of candidates to consider",
+      "title_bn": "যে special needs বিবেচনা করতে হতে পারে (১২টি)"
+    },
+    {
+      "bn": [
+        "রোজার মাসে সময় বদলানো, চশমা ছাড়া পড়তে না পারা trainee-কে বড় হরফ: এগুলোই special needs মেটানো।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "accommodating special needs is part of your role in planning and organizing assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "These people can help you develop strategies and methods",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Accommodating special needs is part of your role. Others can help you develop strategies."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p18-special-needs-list"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "candidate-needs",
   "importance": {
@@ -252,7 +706,23 @@
         "fidelity": "paraphrase",
         "text": "Gender"
       }
-    ]
+    ],
+    "itemsBn": [
+      "আগে কতটুকু শিখেছে আর কেমন assessment দিয়েছে — তা জানলে assessment তার উপযোগী করা যায়।",
+      "কেন assessment দিচ্ছে — নিজের জন্য নাকি প্রতিষ্ঠানের জন্য; এতে তার আগ্রহ ও প্রস্তুতি বোঝা যায়।",
+      "ভাষা, পড়া-লেখা বা হিসাবে কতটা দক্ষ আর কী সাহায্য লাগবে, তা জানতে হয়।",
+      "শোনা, দেখা, কথা বলা বা চলাফেরায় কোনো শারীরিক অসুবিধা থাকলে সেই অনুযায়ী ব্যবস্থা নিতে হয়।",
+      "বুদ্ধিগত কোনো অসুবিধা থাকলে assessment-এর ধরন সেই অনুযায়ী ঠিক করতে হয়।",
+      "শেখায় এখন পর্যন্ত কতটা এগিয়েছে, তা দেখে বোঝা যায় সে assessment-এর জন্য প্রস্তুত কি না।",
+      "মানসিক বা psychological কোনো সমস্যা থাকলে তা মাথায় রেখে assessment সাজাতে হয়।",
+      "ধর্মীয় আচার বা প্রার্থনার সময় মাথায় রেখে assessment-এর সময় ঠিক করতে হয়।",
+      "Candidate-এর সাংস্কৃতিক পটভূমি জানা দরকার, যাতে assessment কারও জন্য অস্বস্তিকর বা অন্যায্য না হয়।",
+      "Assessment নিয়ে candidate কী ভাবে বা কী ধারণা রাখে, তা জানলে তাকে ঠিকভাবে বোঝানো যায়।",
+      "বয়স অনুযায়ী candidate-এর চাহিদা আলাদা হতে পারে, তাই এটাও বিবেচনায় রাখতে হয়।",
+      "নারী-পুরুষ ভেদে প্রয়োজন আলাদা হতে পারে; assessment যেন কারও প্রতি পক্ষপাত না করে।"
+    ],
+    "title": "Candidate characteristics and special needs to consider",
+    "titleBn": "Assessment plan-এর আগে candidate-এর যেসব বৈশিষ্ট্য ও চাহিদা জানতে হয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -503,8 +973,160 @@
       ],
       "fidelity": "paraphrase",
       "text": "Check files for background information, but be aware of confidentiality."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 18,
+          "printedPage": 18,
+          "quote": "Adjustments are considered reasonable if they still allow for a valid and reliable assessment within the resource capabilities",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Adjustments are reasonable only if assessment stays valid and reliable within resource capabilities."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Candidates should be encouraged to disclose if they have any equity or additional support needs",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Encourage candidates to disclose equity or additional support needs."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Discuss with experienced teachers, trainers and assessors if necessary",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Discuss with experienced teachers, trainers and assessors."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Check enrolment information",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Check enrolment information."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Speak to relevant workplace personnel or other trainers who may be aware of less obvious needs",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Speak to workplace personnel or trainers aware of less obvious needs."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Check files for background information, but be aware of confidentiality considerations",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Check files for background information, but be aware of confidentiality."
+        }
+      ],
+      "title": "Starting points to identify candidates' characteristics",
+      "title_bn": "Candidate-কে জানার শুরু"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "understand equity and support issues",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Understand equity and support issues."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "provide information on access and support",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Provide information on access and support."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "keep up to date with issues and information about who can provide assistance",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Keep up to date with who can provide assistance."
+        }
+      ],
+      "title": "The designer's role",
+      "title_bn": "Designer-এর কাজ"
+    },
+    "title": "Finding candidates' needs vs the designer's role",
+    "title_bn": "চাহিদা খোঁজা বনাম designer-এর ভূমিকা"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

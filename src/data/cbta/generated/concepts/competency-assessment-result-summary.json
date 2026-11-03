@@ -21,6 +21,7 @@
     "bn": "Welding assessment-এর পর CARS দেখে বোঝা যায় কোন criteria met হয়েছে আর কোথায় improvement লাগবে।",
     "en": "After a welding assessment, the CARS shows the competencies assessed. It also shows where improvement is needed."
   },
+  "extra": [],
   "highlighted": false,
   "id": "competency-assessment-result-summary",
   "importance": {
@@ -97,7 +98,14 @@
         "fidelity": "verbatim",
         "text": "Where improvement is needed."
       }
-    ]
+    ],
+    "itemsBn": [
+      "কোন কোন competencies assessed হয়েছে, তা দেখায়।",
+      "কোন criteria পূরণ (met) হয়েছে, তা দেখায়।",
+      "কোথায় improvement দরকার, তা দেখায় — তাই পরের প্রস্তুতি কোথায় লাগবে বোঝা যায়।"
+    ],
+    "title": "What a competency assessment result summary (CARS) shows",
+    "titleBn": "CARS-এ যা দেখা যায়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -276,7 +284,7 @@
   ],
   "score": 3,
   "sourceType": "question-paper-only",
-  "stars": 1,
+  "stars": 2,
   "status": "draft",
   "title": "Competency Assessment Result Summary (CARS)",
   "traps": [
@@ -303,6 +311,7 @@
       "text": "Recording means documenting assessment results. CARS is a concise summary of outcomes."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

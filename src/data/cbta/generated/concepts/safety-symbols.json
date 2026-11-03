@@ -41,10 +41,669 @@
     "bn": "ল্যাবের বোতলে আগুনের চিহ্ন (Class B) আর goggles-এর চিহ্ন: goggles পরুন, আগুন দূরে রাখুন।",
     "en": "A chemistry lab bottle shows a flame symbol and a goggles symbol. The trainee wears goggles and keeps fire away."
   },
+  "extra": [
+    {
+      "columns": [
+        "Class",
+        "Meaning",
+        "Examples"
+      ],
+      "kind": "table",
+      "outline": [
+        "c03-p32-hazard-classes"
+      ],
+      "rows": [
+        [
+          "Class A",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Class A Compressed Gas Classifying material which is a gas",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "at normal temperature and pressure, packaged under pressure in",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "a cylinder or other container.",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Compressed Gas: a gas at normal temperature and pressure, packaged under pressure in a cylinder."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "compressed air, hydrogen or nitrogen.",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Compressed air, hydrogen or nitrogen."
+          }
+        ],
+        [
+          "Class B",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Class B Flammable and Combustible Materials Classifying",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "material that will ignite and continue to burn in air if exposed to a",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Flammable and Combustible Materials: will ignite and continue to burn in air."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Many laboratory solvents and cleaning materials used on",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Many laboratory solvents and cleaning materials."
+          }
+        ],
+        [
+          "Class C",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Class C Oxidizing Materials This symbol identifies material",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "that releases oxygen or other oxidizing substances and thereby",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "contributing to the combustion of other flammable materials.",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Oxidizing Materials: release oxygen and contribute to the combustion of flammable materials."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Oxidizers such as chlorine, nitrogen dioxide and hydrogen",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "peroxide are found in many",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Chlorine, nitrogen dioxide and hydrogen peroxide."
+          }
+        ],
+        [
+          "Class D",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Class D These symbols represent the class of materials that",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "pose the greatest potential hazard to our life and health.",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Materials that pose the greatest potential hazard to life and health."
+          },
+          "Three divisions (below)"
+        ],
+        [
+          "Class D, Division 1",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Division 1: Materials Causing Immediate and Serious",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Toxic Effects The skull and cross bones identifies acutely toxic",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Materials causing immediate and serious toxic effects. Skull and cross bones symbol."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Examples are cyanide compounds, styrene.",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Cyanide compounds, styrene."
+          }
+        ],
+        [
+          "Class D, Division 2",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Division 2: Materials Causing Other Toxic Effects This",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "through long term exposure. Further, this material may be a",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "suspected carcinogen",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Materials causing other toxic effects through long term exposure. May be a suspected carcinogen."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Our labs, work areas and shops contain materials marked with",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Labs, work areas and shops contain such materials."
+          }
+        ],
+        [
+          "Class D, Division 3",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Division 3: Biohazardous Infectious Material This",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "danger of biological or viral infection on contact.",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Biohazardous Infectious Material: risk of biological or viral infection on contact."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Containers for biomedical waste and used syringes, needles and",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "sharps are marked with this symbol.",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Containers for biomedical waste and used syringes, needles and sharps."
+          }
+        ],
+        [
+          "Class E",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Corrosive Material Corrosive material can attack metals and",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "other substances and can cause permanent damage to human",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "tissues and organs.",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Corrosive Material: attacks metals and can permanently damage human tissues and organs."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Strong acids, ammonia and fluorine are",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Strong acids, ammonia and fluorine."
+          }
+        ],
+        [
+          "Class F",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "Dangerously Reactive Material This symbol identifies",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "These materials may react",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "violently under certain conditions or react violently with water.",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Dangerously Reactive Material: may react violently, or react violently with water."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "of our work areas use or store these materials.",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Few work areas use or store these materials."
+          }
+        ]
+      ],
+      "title": "Hazard classified symbols, Class A to F (p.32)",
+      "title_bn": "Hazard class-এর symbol ও অর্থ"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Dust mask required",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Dust mask required"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Air Purifying Respirator",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Air Purifying Respirator"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Supplied Air Respirator",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Supplied Air Respirator"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Apron - An apron made of material resistant to the hazardous material",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Apron - An apron made of material resistant to the hazardous material"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Chemical Protective Clothing",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Chemical Protective Clothing"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Goggles - Chemical-resistant, splash-proof goggles must be worn.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Goggles - Chemical-resistant, splash-proof goggles must be worn."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Face Shield - Face shield must be worn.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Face Shield - Face shield must be worn."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Foot Protection",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Foot Protection"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Hand Protection",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Hand Protection"
+        }
+      ],
+      "items_bn": [
+        "Dust mask পরতে হবে।",
+        "Chemical cartridge respirator; আগে বিশেষ training লাগে।",
+        "SCBA বা supplied air system; বিশেষ training লাগে।",
+        "Hazardous material প্রতিরোধী apron পরতে হবে।",
+        "Hooded বা পুরো শরীর ঢাকা suit পরতে হবে।",
+        "Chemical-resistant, splash-proof goggles পরতে হবে।",
+        "Face shield-এর সাথে safety glasses বা goggles-ও পরতে হবে।",
+        "Hazard অনুযায়ী protective footwear।",
+        "Hazard অনুযায়ী gloves।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c03-p33-ppe-symbols"
+      ],
+      "title": "PPE symbols you may encounter (p.33)",
+      "title_bn": "যে PPE symbol-গুলো দেখতে পারেন"
+    },
+    {
+      "bn": "তালিকাটি সম্পূর্ণ নয়; অচেনা symbol দেখলে Safety Office-এ জিজ্ঞেস করুন।",
+      "kind": "note",
+      "outline": [
+        "c03-p33-ppe-symbols"
+      ],
+      "text": "This is not an exhaustive list. If unsure of a symbol, contact the Safety Office.",
+      "tone": "tip"
+    },
+    {
+      "bn": "Self Check 2-এ শুধু ছবি থাকে; প্রতিটি symbol-এর নাম ও অর্থ একসাথে মুখস্থ করুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Answer Key: 2 - Work Hazards",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Class B Flammable and Combustible Materials Classifying material that will ignite",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Answer key Q1: Class B Flammable and Combustible Materials."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Apron Goggles Face Shield Hand Protection",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Answer key Q2: Apron, Goggles, Face Shield, Hand Protection."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c03-p34-self-check-2"
+      ],
+      "text": "Self Check 2 shows pictures only (p.34). The pictures are not in the text; learn each symbol name with its meaning.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "safety-symbols",
   "importance": {
-    "bn": "CBLM 3 Self Check 2 (Q1, Q2)-এ এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "bn": "CBLM 3 Self Check 2 (Q1, Q2)-এ এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
     "en": "Asked in CBLM 3 Self Check 2 (Q1, Q2). Highlighted in CBLM 3. Comes as short question."
   },
   "keywords": [
@@ -277,7 +936,17 @@
         "fidelity": "paraphrase",
         "text": "Class F Dangerously Reactive Material: may react violently, even with water."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Class A, Compressed Gas — চাপ দিয়ে cylinder-এ ভরা গ্যাস; চাপের কারণেই বিপজ্জনক।",
+      "Class B, Flammable ও Combustible — সহজে আগুন ধরে আর জ্বলতেই থাকে।",
+      "Class C, Oxidizing — oxygen ছাড়ে, ফলে দাহ্য জিনিসের আগুন আরও বাড়িয়ে দেয়।",
+      "Class D, Toxic ও Infectious — জীবন ও স্বাস্থ্যের জন্য সবচেয়ে বড় সম্ভাব্য বিপদ।",
+      "Class E, Corrosive — ধাতু ক্ষয় করে আর মানুষের শরীরের কোষ-কলা নষ্ট করে।",
+      "Class F, Dangerously Reactive — হঠাৎ প্রচণ্ড বিক্রিয়া করতে পারে, এমনকি পানির সাথেও।"
+    ],
+    "title": "Classes of hazard symbols",
+    "titleBn": "Hazard symbol-এর Class (শ্রেণি)"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -550,7 +1219,7 @@
   ],
   "score": 7,
   "sourceType": "cblm",
-  "stars": 2,
+  "stars": 3,
   "status": "draft",
   "title": "Hazard and PPE Symbols",
   "traps": [
@@ -642,6 +1311,224 @@
       "text": "Respirators require specialized training before use."
     }
   ],
+  "visual": {
+    "columns": [
+      "PPE symbol",
+      "Meaning"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Dust mask required",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "A dust mask must be used.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "A dust mask must be used."
+        }
+      ],
+      [
+        "Air Purifying Respirator",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Air Purifying Respirator - chemical cartridge respirator must be",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "requires specialized training",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A chemical cartridge respirator must be used. It requires specialized training."
+        }
+      ],
+      [
+        "Supplied Air Respirator",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Supplied Air Respirator - SCBA or Supplied Air system must be used.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "requires specialized training",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "SCBA or Supplied Air system must be used. It requires specialized training."
+        }
+      ],
+      [
+        "Apron",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "An apron made of material resistant to the hazardous material must be worn.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "An apron resistant to the hazardous material must be worn."
+        }
+      ],
+      [
+        "Chemical Protective Clothing",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Either a hooded or fully",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "encapsulating suit of appropriate material must be worn.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Consult MSDS for appropriate level of protection.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A hooded or fully-encapsulating suit must be worn. Consult MSDS."
+        }
+      ],
+      [
+        "Goggles",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Chemical-resistant, splash-proof goggles must be worn.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Chemical-resistant, splash-proof goggles must be worn."
+        }
+      ],
+      [
+        "Face Shield",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Face Shield - Face shield must be worn.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "approved safety glasses or goggles must also be worn with this",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Face shield must be worn. Approved safety glasses or goggles must also be worn."
+        }
+      ],
+      [
+        "Foot Protection",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Protective footwear appropriate to the hazard must be worn.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Protective footwear appropriate to the hazard must be worn."
+        }
+      ],
+      [
+        "Hand Protection",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 33,
+              "printedPage": 33,
+              "quote": "Gloves offering appropriate protection to the hazard must be worn.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Gloves offering appropriate protection to the hazard must be worn."
+        }
+      ]
+    ],
+    "title": "PPE symbols and their meaning (p.33)",
+    "title_bn": "PPE symbol ও তার অর্থ"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

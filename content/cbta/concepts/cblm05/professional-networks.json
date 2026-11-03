@@ -60,6 +60,8 @@
     "bn": "BPTA-তে যোগ দিলে অন্য polytechnic-এর শিক্ষকদের সাথে পরিচয় ও তথ্য বিনিময় হয়।"
   },
   "list_answer": {
+    "title": "Informal and formal professional networks",
+    "title_bn": "অনানুষ্ঠানিক ও আনুষ্ঠানিক পেশাগত networks",
     "items": [
       {
         "text": "Informal: other trainers/facilitators, assessors",
@@ -149,6 +151,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Informal — অন্য প্রশিক্ষক, সহায়ক প্রশিক্ষক আর assessors-এর সাথে সরাসরি যোগাযোগ রাখা।",
+      "Informal — industry বা vocational area-তে যাঁরা কাজ করেন, তাঁদের সাথে যোগাযোগ রাখা।",
+      "Informal — vocational education and training জগতের পরিচিত মানুষদের (contacts) সাথে যোগাযোগ।",
+      "Formal — স্থানীয় বা অন্য অঞ্চলের assessor/trainer networks-এ যুক্ত হওয়া।",
+      "Formal — আঞ্চলিক বা বিশেষায়িত (specialist) associations-এর সাথে যুক্ত হওয়া।",
+      "Formal — নিজের পেশার professional associations-এ যুক্ত থাকা।"
     ]
   },
   "traps": [
@@ -185,6 +195,89 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Informal networks vs formal networks (p.41-42)",
+    "title_bn": "অনানুষ্ঠানিক বনাম আনুষ্ঠানিক network",
+    "left": {
+      "title": "Informal networks with",
+      "title_bn": "অনানুষ্ঠানিক যোগাযোগ",
+      "points": [
+        {
+          "text": "other trainers/facilitators, assessors",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 41,
+              "quote": "other trainers/facilitators, assessors"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "people working in industry/vocational area",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 41,
+              "quote": "people working in industry/vocational area"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "contacts in vocational education and training",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 41,
+              "quote": "contacts in vocational education and training"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "right": {
+      "title": "Formal networks such as",
+      "title_bn": "আনুষ্ঠানিক সংগঠন",
+      "points": [
+        {
+          "text": "local/interstate assessor/trainer networks",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 42,
+              "quote": "local/interstate assessor/trainer networks"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "regional, specialist associations",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 42,
+              "quote": "regional, specialist associations"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "professional/occupation associations",
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 42,
+              "quote": "professional/occupation associations"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "Is there any association for TVET professionals in Bangladesh?",

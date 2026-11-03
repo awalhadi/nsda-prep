@@ -32,6 +32,112 @@
     "bn": "একজন রাঁধুনি certificates, খাবারের ছবি আর menu দিয়ে portfolio বানান।",
     "en": "A cook brings a file to the assessor. It has training certificates, photos of dishes and sample menus."
   },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 69,
+              "printedPage": 69,
+              "quote": "Where a portfolio is presented you will need to create an evaluation form similar to the one below",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Where a portfolio is presented, create an evaluation form."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p69-portfolio-evaluation-form"
+      ]
+    },
+    {
+      "cite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 69,
+        "printedPage": 69,
+        "quote": "Sample portfolio evaluation form",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "columns": [
+        "The contents of the portfolio provided satisfactory evidence that the candidate:",
+        "Item no[s]"
+      ],
+      "fields": [
+        "Candidate name",
+        "Unit[s] of competency: Operate a Personal Computer",
+        "The evidence provided by the candidate is: valid / authentic / sufficient / current / recent / consistent"
+      ],
+      "kind": "form",
+      "note_bn": "উপরের ৬টি শব্দ (valid, authentic, sufficient, current, recent, consistent) আসলে rules of evidence। প্রতিটি কাজের পাশে portfolio-র item নম্বর লেখো।",
+      "outline": [
+        "c11-p69-portfolio-evaluation-form"
+      ],
+      "rows": [
+        [
+          "safely operated computer equipment and peripherals",
+          ""
+        ],
+        [
+          "performed basic computer operations to access and retrieve data",
+          ""
+        ],
+        [
+          "selected and opened correct software application",
+          ""
+        ],
+        [
+          "used basic software applications to create new files and documents",
+          ""
+        ],
+        [
+          "used basic functions of a WWW-browser to locate information",
+          ""
+        ],
+        [
+          "established information requirements for Internet search",
+          ""
+        ],
+        [
+          "launched browser and loads search engine",
+          ""
+        ],
+        [
+          "entered appropriate search criteria / or URL of site",
+          ""
+        ],
+        [
+          "followed relevant links to locate required information",
+          ""
+        ],
+        [
+          "bookmarked useful pages are as required",
+          ""
+        ],
+        [
+          "knew and applied basic ergonomics of keyboard and computer use",
+          ""
+        ],
+        [
+          "knows types of computers and basic features of different operating system",
+          ""
+        ],
+        [
+          "identified main parts of a computer",
+          ""
+        ]
+      ],
+      "title": "Sample portfolio evaluation form",
+      "title_bn": "নমুনা Portfolio evaluation form"
+    }
+  ],
   "highlighted": true,
   "id": "portfolio-of-evidence",
   "importance": {
@@ -184,7 +290,19 @@
         "fidelity": "paraphrase",
         "text": "Work samples: menus, letters, memos, budgets."
       }
-    ]
+    ],
+    "itemsBn": [
+      "আগের training-এর ফলাফল বা certificates — candidate কী শিখে পাস করেছে তার প্রমাণ।",
+      "Training-এর সময় যে workbooks পূরণ করেছে, সেগুলোও শেখার প্রমাণ।",
+      "সহকর্মী বা employers-এর লেখা references — অন্য কেউ candidate-এর কাজের পক্ষে সাক্ষ্য দিচ্ছে।",
+      "আগের job descriptions বা কাজের অভিজ্ঞতা — candidate আসলে কী কাজ করেছে তা দেখায়।",
+      "কাজ করার photos বা videos — কাজটা কীভাবে হয়েছে তা সরাসরি দেখা যায়।",
+      "নিয়মিত লেখা work journal বা diary — দিনে দিনে কী কাজ করেছে তার রেকর্ড।",
+      "কাজের জন্য পাওয়া awards — ভালো কাজের স্বীকৃতির প্রমাণ।",
+      "নিজের হাতে করা কাজের নমুনা, যেমন menus, letters, memos, budgets।"
+    ],
+    "title": "What a portfolio of evidence may include",
+    "titleBn": "Portfolio-তে কী কী evidence থাকতে পারে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -389,6 +507,7 @@
       "text": "The evaluation form checks the evidence is valid, authentic, sufficient, current, recent and consistent."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

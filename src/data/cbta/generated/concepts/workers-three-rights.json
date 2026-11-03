@@ -41,6 +41,388 @@
     "bn": "Guard ছাড়া grinder চালাতে বললে trainee না বলতে পারে; এটাই right to refuse।",
     "en": "A supervisor tells a trainee to use a grinder without a guard. The trainee says no. This is the right to refuse."
   },
+  "extra": [
+    {
+      "bn": [
+        "Right to know: কাজ শুরুর আগেই training, তথ্য আর নির্দেশনা পাওয়ার অধিকার — \"পরে শিখিয়ে দেব\" মানবেন না।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Your employer must provide you with the",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "training, supervision and hazard information you need to perform",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "you should also get training before you start the job.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Your employer must provide training, supervision and hazard information. Get training before you start."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Don't start a new job or machine with the promise of training later.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Don't start a new job or machine with the promise of training later."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p14-your-rights",
+        "c03-p14-right-to-know"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "One way to do this is by being a Health and Safety Representative",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "to do this is by being a Health and Safety Representative or a member of the Joint",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Health and Safety Committee.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Be a Health and Safety Representative or a Joint Health and Safety Committee member."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Ask questions",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Ask questions"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Help with health and safety inspections",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Help with health and safety inspections"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Take part in training",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Take part in training"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Identify hazards and possible solutions",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Identify hazards and possible solutions"
+        }
+      ],
+      "items_bn": [
+        "Health and Safety Representative বা Joint Health and Safety Committee-র সদস্য হওয়া।",
+        "প্রশ্ন করা।",
+        "Health and safety inspections-এ সাহায্য করা।",
+        "Training-এ অংশ নেওয়া।",
+        "Hazard আর তার সম্ভাব্য সমাধান চিহ্নিত করা।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c03-p14-right-to-participate"
+      ],
+      "title": "Ways to participate in keeping your workplace healthy and safe (p.14)",
+      "title_bn": "নিরাপত্তায় অংশ নেওয়ার উপায়"
+    },
+    {
+      "bn": [
+        "Right to refuse: কেউ আঘাত পাবে মনে হলে \"না\" বলুন; কোনো job আঘাতের মূল্য রাখে না।",
+        "কিন্তু police, firefighter, কিছু health care worker আর বিপদে থাকা ছাত্রদের teacher-এর এ অধিকার সীমিত।",
+        "অস্বীকারের জন্য শাস্তি (reprisal) দেওয়া যায় না; হলে MOLE-কে জানান, তারা union বা Labour Relations Board-এ পাঠাবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "But you should say no if you think someone will get hurt. No job is worth getting",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "injured.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Say no if you think someone will get hurt. No job is worth getting injured."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Certain workers, such as those with a responsibility to protect public safety,",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "cannot refuse unsafe work if the danger is a normal part of the job",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Some workers cannot refuse if the danger is a normal part of the job."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "or if the refusal",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "would endanger the life, health or safety of another person.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Nor if the refusal would endanger another person's life, health or safety."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "These workers can",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "include police officers, firefighters certain health care workers and teachers, if pupils",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "are in imminent jeopardy.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Examples: police, firefighters, certain health care workers, teachers if pupils are in imminent jeopardy."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "Your employer cannot punish or fire you for refusing work that you think is unsafe.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Your employer cannot punish or fire you for refusing work you think is unsafe."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "The Occupational Health and Safety Act provide you with protection from any",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "reprisals like being sent home without pay, having your hours drastically cut or being fired.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The Act protects you from reprisals: sent home without pay, hours cut, or fired."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "If you think you have been disciplined you can report it to the Ministry of Labour",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "and Employment (MOLE).",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "will guide you to either your union if you have one in your workplace or to the Labour",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "Relations Board",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "If disciplined, report to MOLE. MOLE guides you to your union or the Labour Relations Board."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p14-right-to-refuse",
+        "c03-p15-refuse-limits"
+      ],
+      "title": "The right to refuse and its limits"
+    },
+    {
+      "bn": "Self Check 1-এর সাতটি প্রশ্ন নিচের Self Check অংশে উত্তরসহ আছে।",
+      "kind": "note",
+      "outline": [
+        "c03-p16-self-check-1"
+      ],
+      "text": "Self Check 1 has seven questions (p.16); answers are on p.17. Practise them in the Self Check list below.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "workers-three-rights",
   "importance": {
@@ -141,7 +523,14 @@
         "fidelity": "paraphrase",
         "text": "The right to refuse: say no to unsafe work."
       }
-    ]
+    ],
+    "itemsBn": [
+      "জানার অধিকার (right to know) — কাজের জায়গায় কী বিপদ আছে আর তখন কী করতে হবে, তা জানা।",
+      "অংশ নেওয়ার অধিকার (right to participate) — workplace সুস্থ ও নিরাপদ রাখার কাজে নিজেও অংশ নেওয়া।",
+      "না বলার অধিকার (right to refuse) — অনিরাপদ কাজ করতে অস্বীকার করা; এ জন্য কর্মীকে শাস্তি দেওয়া যায় না।"
+    ],
+    "title": "Workers' safety rights",
+    "titleBn": "কর্মীর নিরাপত্তা-সংক্রান্ত অধিকার"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -503,6 +892,7 @@
       "text": "If you are disciplined, report it to the Ministry of Labour and Employment (MOLE)."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

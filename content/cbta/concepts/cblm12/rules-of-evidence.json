@@ -73,7 +73,13 @@
     "en": "A welding candidate brings a photo of a weld. The assessor asks: is it his own work? This checks the Authentic rule.",
     "bn": "ওয়েল্ডিং-এর ছবিটা candidate-এর নিজের কাজ কিনা দেখা মানে Authentic যাচাই করা।"
   },
+  "mnemonic": {
+    "text": "Very Smart Candidates Answer → V-S-C-A",
+    "explain_bn": "প্রতিটি শব্দের প্রথম অক্ষর একটি rule: Valid, Sufficient, Current, Authentic।"
+  },
   "list_answer": {
+    "title": "Rules of evidence",
+    "title_bn": "Evidence-এর নিয়ম (rules of evidence)",
     "items": [
       {
         "text": "Valid: the evidence is relevant to the current standards, elements and performance criteria.",
@@ -150,6 +156,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Valid — evidence বর্তমান standards, elements আর performance criteria-র সাথে সম্পর্কিত হতে হবে।",
+      "Sufficient — evidence যথেষ্ট হতে হবে: সব elements আর চারটি dimensions of competency ঢাকতে হবে।",
+      "Current — evidence দেখাবে candidate এখন কী জানে ও পারে, পুরনো দক্ষতা নয়।",
+      "Authentic — evidence-টা সত্যিই candidate-এর নিজের কাজ, অন্য কারো নয়।"
     ]
   },
   "traps": [
@@ -211,8 +223,94 @@
           "quote": "Valid - Is the evidence related to the current version of the standards? Is it relevant to the elements and performance criteria in the standards?"
         }
       ]
+    },
+    {
+      "text": "Recent means the evidence is less than five years old in CBLM 12.",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 20,
+          "quote": "Recent -Is the evidence less than five years old?"
+        }
+      ],
+      "fidelity": "paraphrase"
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Checklist to evaluate evidence against the rules of evidence (p.20)",
+    "title_bn": "প্রতিটি evidence-এর জন্য চেকলিস্ট",
+    "columns": [
+      "Evidence",
+      "Valid",
+      "Sufficient",
+      "Current",
+      "Authentic"
+    ],
+    "rows": [
+      [
+        "Question to ask",
+        {
+          "text": "Relevant to the elements and performance criteria?",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 20,
+              "quote": "it relevant to the elements and performance criteria in the standards?"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Covers all the elements?",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 20,
+              "quote": "Does the evidence cover all the elements?"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Reflects current knowledge and/or skill?",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 20,
+              "quote": "Does the evidence reflect the candidate's current knowledge and/or"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "The candidate's own work?",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 20,
+              "quote": "Does the evidence represent the candidate's own work?"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Evidence 1",
+        "Yes / No",
+        "Yes / No",
+        "Yes / No",
+        "Yes / No"
+      ],
+      [
+        "Evidence 2",
+        "Yes / No",
+        "Yes / No",
+        "Yes / No",
+        "Yes / No"
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are the rules of evidence?",
@@ -357,9 +455,5 @@
       "path": "questions",
       "note": "paper-short-questions-q48 answer guide says valid evidence must 'cover all relevant elements and performance criteria, competency dimensions...'. CBLM p.20 assigns 'cover all the elements' and the four dimensions to Sufficient, and defines Valid as relevant to the current standards, elements and performance criteria. Card follows CBLM p.20."
     }
-  ],
-  "mnemonic": {
-    "text": "Very Smart Candidates Answer → V-S-C-A",
-    "explain_bn": "প্রতিটি শব্দের প্রথম অক্ষর একটি rule: Valid, Sufficient, Current, Authentic।"
-  }
+  ]
 }

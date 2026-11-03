@@ -70,6 +70,8 @@
     "bn": "হাসপাতালের nursing trainer প্রথম খসড়া লিখে অভিজ্ঞ nurse-কে review করতে দেন।"
   },
   "list_answer": {
+    "title": "Key points for developing your writing style",
+    "title_bn": "নিজের লেখার ধরন (writing style) গড়ে তোলার মূল কথা",
     "items": [
       {
         "text": "Know your audience.",
@@ -179,6 +181,17 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "আপনার audience কারা, তা জানুন — তাদের জন্যই লিখছেন।",
+      "Learners-কে শেষে কোথায় পৌঁছাতে চান, সেখান থেকে ভাবা শুরু করুন।",
+      "Competency বিশ্লেষণ করে ঠিক করুন কোন কোন topics থাকবে।",
+      "লেখার আগে materials-এর পরিকল্পনা করুন।",
+      "তবে planning-এ আটকে থাকবেন না, লেখা শুরু করুন।",
+      "First draft নিখুঁত করার জন্য আঁকড়ে বসে থাকবেন না; একবার ঠিক করে review-এর জন্য দিয়ে দিন।",
+      "মনে রাখুন, সবাই একভাবে শেখে না — তাই একাধিক উপায়ে বোঝান।",
+      "Learner-কে ধাপে ধাপে শেখার process-এর মধ্য দিয়ে এগিয়ে নিন।",
+      "নির্ভরযোগ্য মানুষ খুঁজে তাঁদের দিয়ে নিজের লেখা review করান।"
     ]
   },
   "traps": [
@@ -351,5 +364,97 @@
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "table",
+    "title": "Improving your Writing: Booher's (1999) tips (p.26)",
+    "title_bn": "লেখা উন্নত করার Booher-এর ৪টি টিপস",
+    "columns": [
+      "Tip",
+      "How to do it"
+    ],
+    "rows": [
+      [
+        "Using overviews instead of introductions.",
+        {
+          "text": "Use overviews to give the key concepts and to draw interest.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 26,
+              "quote": "writers should use overviews to provide the learner with the key concepts and to"
+            },
+            {
+              "src": "cblm08",
+              "page": 26,
+              "quote": "draw interest."
+            }
+          ]
+        }
+      ],
+      [
+        "Make the dialogue sound real, not artificial.",
+        {
+          "text": "Use clear, crisp and simple language. Read it out loud, then edit.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 26,
+              "quote": "Use clear, crisp and simple language that reflects authentic speech."
+            },
+            {
+              "src": "cblm08",
+              "page": 26,
+              "quote": "read it out loud"
+            },
+            {
+              "src": "cblm08",
+              "page": 26,
+              "quote": "Then edit straight"
+            }
+          ]
+        }
+      ],
+      [
+        "Create interesting case studies and role plays.",
+        {
+          "text": "Use real-sounding names and situations relevant to the learners.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 26,
+              "quote": "Use real-sounding names and situations relevant to the learners."
+            }
+          ]
+        }
+      ],
+      [
+        "Position ideas for highlighting.",
+        {
+          "text": "First sentence of a paragraph and end of a sentence are the most important spots.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 26,
+              "quote": "The most"
+            },
+            {
+              "src": "cblm08",
+              "page": 26,
+              "quote": "important spot in a paragraph is the first sentence and the most important spot in a"
+            },
+            {
+              "src": "cblm08",
+              "page": 26,
+              "quote": "sentence is at the end."
+            }
+          ]
+        }
+      ]
+    ]
+  }
 }

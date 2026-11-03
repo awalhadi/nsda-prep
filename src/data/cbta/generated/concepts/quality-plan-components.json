@@ -33,6 +33,144 @@
     "bn": "Quality plan-এ audit-এর সময় লেখা থাকে, তাই trainer আগে থেকেই records গুছিয়ে রাখেন।",
     "en": "A garments training centre's quality plan sets audit dates. Each trainer keeps records ready for the audit."
   },
+  "extra": [
+    {
+      "bn": [
+        "Quality plan-এর সাতটি উপাদান উপরের card-এর তালিকায় আছে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "An institution's strategic plan is supported by a quality plan.",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "An institution's strategic plan is supported by a quality plan."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c05-p10-quality-plan-components"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "quality vision and objectives",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "quality vision and objectives"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "authorisations and responsibilities",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "authorisations and responsibilities"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "critical success factors and methods of measurement in the quality plan.",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "critical success factors and methods of measurement in the quality plan."
+        }
+      ],
+      "items_bn": [
+        "প্রতিষ্ঠানের quality vision ও objectives কী।",
+        "কে কী অনুমোদন করেন আর কার কী দায়িত্ব (authorisations and responsibilities)।",
+        "Critical success factors কী, আর সেগুলো কোন methods of measurement দিয়ে মাপা হয়।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c05-p10-research-quality-plan"
+      ],
+      "title": "Research your institution's quality plan to identify",
+      "title_bn": "Quality plan পড়ে যে তিনটি জিনিস খুঁজবেন"
+    },
+    {
+      "bn": [
+        "সব staff quality plan জানলে সবাই মিলে মাপা যায় এমন (quantifiable) লক্ষ্যের দিকে কাজ করতে পারে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Then you can work towards supporting the plan in your day-today actions.",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Then you can work towards supporting the plan in your day-to-day actions."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Quality plans that are communicated to all staff can be supported and people can work",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "towards the quantifiable targets for improvement.",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Quality plans communicated to all staff can be supported. People can work towards quantifiable targets."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c05-p10-research-quality-plan"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "quality-plan-components",
   "importance": {
@@ -171,7 +309,18 @@
         "fidelity": "verbatim",
         "text": "Inspection, audit and review procedures"
       }
-    ]
+    ],
+    "itemsBn": [
+      "মানের লক্ষ্য আর নীতি — প্রতিষ্ঠান কোন মান অর্জন করতে চায়, তা স্পষ্ট করা।",
+      "Organisational chart — প্রতিষ্ঠানে কে কার অধীনে তার চিত্র, যাতে দায়িত্বের ধারা বোঝা যায়।",
+      "কার কী করার অনুমতি (authorisations) আর কার কী দায়িত্ব, তা নির্ধারণ।",
+      "Critical Success Factors — যে মূল কাজগুলো ভালো না হলে লক্ষ্য পূরণ হয় না।",
+      "কাজের মান কীভাবে মাপা হবে, তার পদ্ধতি (methods of measurement)।",
+      "কত পরপর আর কীভাবে quality control করা হবে।",
+      "Inspection, audit আর review — কাজ নিয়ম মেনে হচ্ছে কিনা তা যাচাইয়ের procedures।"
+    ],
+    "title": "Components of a typical quality plan",
+    "titleBn": "একটি সাধারণ quality plan-এর উপাদান"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -410,6 +559,7 @@
       "text": "A quality plan is not the strategic plan. It supports the strategic plan."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

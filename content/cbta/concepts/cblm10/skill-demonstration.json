@@ -66,6 +66,8 @@
     "explain_bn": "ছড়ার চার লাইন = demonstration-এর ক্রম: স্বাভাবিক গতিতে, ধীরে, একসাথে, তারপর learner নিজে।"
   },
   "list_answer": {
+    "title": "Steps of a skill demonstration",
+    "title_bn": "Skill demonstration-এর ধাপ",
     "items": [
       {
         "text": "Short spoken preview: tell what you will do and how; show finished products.",
@@ -135,6 +137,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Short spoken preview — শুরুতে বলুন কী করবেন আর কীভাবে, এবং finished products দেখান।",
+      "পুরো কাজটা normal speed-এ চুপচাপ করে দেখান, যাতে learners শুধু দেখায় মন দিতে পারে।",
+      "এবার ধীরে ধীরে করুন — সব explain করুন, checkpoints দেখিয়ে দিন, আর learners-কে জিনিসগুলো ছুঁয়ে দেখতে দিন।",
+      "Learners আপনার সাথে কাজটা করে; আপনি ধাপগুলো মুখে বলে দিন, যাতে তারা স্বস্তি পায়।",
+      "Learners নিজে করে, আপনি দেখেন আর positive, non threatening feedback দেন।"
     ]
   },
   "traps": [
@@ -166,6 +175,63 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "The old rhyme of skill demonstration",
+    "title_bn": "Demonstration-এর ছড়া: normal → slow → together → off you go",
+    "items": [
+      {
+        "text": "do it normal (as per industry standards)",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 42,
+            "quote": "do it normal (as per industry standards)"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "do it slow (with explanation)",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 42,
+            "quote": "do it slow (with explanation)"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "do it together, (involve the learners)",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 42,
+            "quote": "do it together, (involve the learners)"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "off you go!",
+        "cites": [
+          {
+            "src": "cblm10",
+            "page": 42,
+            "quote": "off you go!"
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "labels_bn": [
+      "প্রথমে স্বাভাবিক গতিতে, industry standards মেনে কাজটা দেখান।",
+      "তারপর ধীরে ধীরে, ব্যাখ্যা করে দেখান।",
+      "এরপর learners-কে সাথে নিয়ে একসাথে করুন।",
+      "শেষে learners নিজেরা করবে — off you go!"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Describe the steps you follow to demonstrate a skill.",

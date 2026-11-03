@@ -58,6 +58,688 @@
     "bn": "Element হলো কাজ, performance criteria হলো সেই কাজের মাপকাঠি।",
     "en": "A baking unit has the element 'Produce biscuit dough'. Its performance criteria tell the assessor what standard is competent."
   },
+  "extra": [
+    {
+      "bn": [
+        "নিচের table-এ CBLM 1-এর ভাষায় প্রতিটি component-এর অর্থ দেওয়া আছে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "Each Competency Standard needs",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "details of",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "skills, knowledge, attitude and performance criteria",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "To be of value, each Competency Standard needs to",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Each Competency Standard needs details of skills, knowledge, attitude and performance criteria."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "also referred",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "needs to",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "specific evidence required to assess an individual's competence",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It also needs the specific evidence required to assess an individual's competence."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p15-cs-components"
+      ]
+    },
+    {
+      "columns": [
+        "Component",
+        "What it is"
+      ],
+      "kind": "table",
+      "outline": [
+        "c01-p15-unit-code-title",
+        "c01-p15-nominal-hours",
+        "c01-p15-unit-descriptor",
+        "c01-p15-elements-of-competency",
+        "c01-p15-performance-criteria",
+        "c01-p16-skills-knowledge-requirement",
+        "c01-p16-accreditation-requirements"
+      ],
+      "rows": [
+        [
+          "1. Unit code and title",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 15,
+                "printedPage": 15,
+                "quote": "A unit title is assigned to each unit of competency as a distinguishing feature.",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "A unit title is assigned to each unit of competency as a distinguishing feature."
+          }
+        ],
+        [
+          "2. Nominal hours",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 15,
+                "printedPage": 15,
+                "quote": "An approximate time line",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 15,
+                "printedPage": 15,
+                "quote": "required to complete the specified unit of competency",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "An approximate time line required to complete the specified unit of competency."
+          }
+        ],
+        [
+          "3. Unit descriptor",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 15,
+                "printedPage": 15,
+                "quote": "The unit descriptor gives a short summary which specifies the scope and level of performance required.",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "The unit descriptor gives a short summary which specifies the scope and level of performance required."
+          }
+        ],
+        [
+          "4. Elements of competency",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 15,
+                "printedPage": 15,
+                "quote": "The basic components of a unit",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 15,
+                "printedPage": 15,
+                "quote": "they describe",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 15,
+                "printedPage": 15,
+                "quote": "the key activities",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 15,
+                "printedPage": 15,
+                "quote": "of the work",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "The basic components of a unit; they describe the key activities of the work."
+          }
+        ],
+        [
+          "5. Performance criteria",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 15,
+                "printedPage": 15,
+                "quote": "Standards of performance in terms of",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 15,
+                "printedPage": 15,
+                "quote": "outcomes",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 15,
+                "printedPage": 15,
+                "quote": "to be deemed competent",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Standards of performance in terms of outcomes needed to be deemed competent."
+          }
+        ],
+        [
+          "6. Skills and knowledge requirement",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 16,
+                "printedPage": 16,
+                "quote": "The essential skills and knowledge and their level, required for this unit.",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "The essential skills and knowledge and their level, required for this unit."
+          }
+        ],
+        [
+          "7. Range statement",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 16,
+                "printedPage": 16,
+                "quote": "The range of contexts and conditions under which the competency is applicable.",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "The range of contexts and conditions under which the competency is applicable."
+          }
+        ],
+        [
+          "8. Evidence guide",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 16,
+                "printedPage": 16,
+                "quote": "Guidance to the interpretation and assessment of the unit of competency.",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Guidance to the interpretation and assessment of the unit of competency."
+          }
+        ],
+        [
+          "9. Accreditation requirements",
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 16,
+                "printedPage": 16,
+                "quote": "Information",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 16,
+                "printedPage": 16,
+                "quote": "gaining national accreditation",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 16,
+                "printedPage": 16,
+                "quote": "sets out",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 16,
+                "printedPage": 16,
+                "quote": "national",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              },
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 16,
+                "printedPage": 16,
+                "quote": "quality assurance requirements",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Information for gaining national accreditation; it sets out national quality assurance requirements."
+          }
+        ]
+      ],
+      "title": "Components of a competency standard as CBLM 1 defines them (p.15-16)",
+      "title_bn": "প্রতিটি component-এর অর্থ"
+    },
+    {
+      "bn": [
+        "Unit title দেখেই industry, learning field আর level বোঝা যায়।",
+        "Performance criteria-কে curriculum-এ assessment criteria-ও বলা হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "A unit title should indicate the relevant industry, learning field and level of qualification.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "A unit title should indicate the relevant industry, learning field and level of qualification."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "Elements",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "describe, in outcome terms, functions a person is able to perform",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Elements describe, in outcome terms, functions a person is able to perform."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "Performance criteria",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "also referred to as assessment criteria in curriculum documents",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Performance criteria are also referred to as assessment criteria in curriculum documents."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p15-unit-code-title",
+        "c01-p15-elements-of-competency",
+        "c01-p15-performance-criteria"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "Legislation such as Occupational Safety and Health",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Legislation such as Occupational Safety and Health"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "The range of equipment, tools, processes and procedures",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The range of equipment, tools, processes and procedures"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "Special characteristics and needs of learners group",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Special characteristics and needs of learners group"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "Particular locations",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Particular locations"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "The range of applications arising from particular quality assurance systems",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The range of applications arising from particular quality assurance systems"
+        }
+      ],
+      "items_bn": [
+        "আইন, যেমন Occupational Safety and Health।",
+        "কোন কোন equipment, tools, processes আর procedures।",
+        "Learners group-এর বিশেষ বৈশিষ্ট্য ও চাহিদা।",
+        "নির্দিষ্ট স্থান (locations)।",
+        "নির্দিষ্ট quality assurance systems থেকে আসা প্রয়োগক্ষেত্র।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c01-p16-range-statement"
+      ],
+      "title": "Range statements information includes (p.16)",
+      "title_bn": "Range statement-এ কী থাকে (৫টি)"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "the underpinning knowledge, skills and attitude requirements for the unit",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "the underpinning knowledge, skills and attitude requirements for the unit"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "the aspects which need to be emphasised in assessment",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "the aspects which need to be emphasised in assessment"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "relationships to other units",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "relationships to other units"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "the required evidence of competency",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "the required evidence of competency"
+        }
+      ],
+      "items_bn": [
+        "Unit-এর জন্য ভিত্তি knowledge, skills আর attitude কী লাগবে।",
+        "Assessment-এ কোন দিকগুলোতে জোর দিতে হবে।",
+        "অন্য units-এর সাথে সম্পর্ক।",
+        "Competency প্রমাণে কী evidence লাগবে।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c01-p16-evidence-guide"
+      ],
+      "title": "The evidence guide provides guidance on (p.16)",
+      "title_bn": "Evidence guide কী কী বলে (৪টি)"
+    },
+    {
+      "bn": "CBLM 9-এ ৮টি, CBLM 1-এ ৯টি component। পরীক্ষায় নয়টিই লিখুন — বাড়তি সঠিক তথ্যে নম্বর কাটে না।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "1 competency",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "answer key",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "competency standards have mainly 9",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "components",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The CBLM 1 answer key says competency standards have mainly 9 components."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "Skills and knowledge requirement for the unit",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "Different components of an Industry competency standard",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Its components include 'Skills and knowledge requirement for the unit'."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c01-p15-cs-components"
+      ],
+      "text": "CBLM 9 lists eight components and leaves out 'Skills and knowledge requirement'. In the exam, write all nine. Also, CBLM 1 calls nominal hours an 'approximate time line'.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "competency-standard-components",
   "importance": {
@@ -257,7 +939,20 @@
         "fidelity": "paraphrase",
         "text": "Accreditation requirements: quality assurance requirements for the training provider."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Unit code and title — unit-এর পরিচয়; title বলে দেয় কোন particular function করতে কোন area of competence লাগে।",
+      "Nominal hours — একজন novice trainee গড়ে কত ঘণ্টায় এই competency অর্জন করতে পারে, তার আনুমানিক হিসাব।",
+      "Unit descriptor — পুরো unit-এর ছোট summary; কাজের scope কতটা আর performance কোন level-এর লাগবে তা বলে।",
+      "Elements of competency — unit-এর ছোট ছোট অংশ (sub components), যা কাজের মূল activities বর্ণনা করে।",
+      "Performance criteria — কোন standard-এ কাজ করলে competent ধরা হবে, সেই মাপকাঠি।",
+      "Skills and knowledge requirement — এই unit-এর জন্য কোন skills ও knowledge অপরিহার্য এবং কোন level পর্যন্ত লাগবে, তা বলে।",
+      "Range statement — কোন contexts and conditions-এ এই competency প্রযোজ্য, তার সীমা ঠিক করে দেয়।",
+      "Evidence guide — unit-টি কীভাবে বুঝতে হবে আর এর assessment কীভাবে হবে, তার guidance দেয়।",
+      "Accreditation requirements — training provider-কে কোন quality assurance requirements পূরণ করতে হবে, তা জানায়।"
+    ],
+    "title": "Components of a competency standard (unit of competency)",
+    "titleBn": "Competency standard (unit of competency)-এর উপাদানসমূহ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -1203,6 +1898,7 @@
       "text": "Different list: a competency standard also includes quality indicators and assessment guidelines."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 2
 }

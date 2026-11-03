@@ -36,6 +36,187 @@
     "bn": "বেকারি assessment-এর আগে checklist ধরে oven, mixing machine আর PPE প্রস্তুত রাখা হয়।",
     "en": "A bakery assessment needs a weighing scale, electric oven, mixing machine and chef jackets."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Consider items like the availability of plant; the venue; technology; other personnel and equipment; sufficient and appropriate protective equipment; or other preexisting assessment resources",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Plant, venue, technology, other personnel and equipment, protective equipment and existing assessment resources."
+      },
+      "concept": "assessment-resources",
+      "example": {
+        "bn": "আগে থেকে না সাজালে assessment-এর দিন সময় ও টাকা দুটোই নষ্ট।",
+        "en": "A bakery assessment needs an oven, mixing machine, chef jackets and a registered assessor."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p37-material-resources"
+      ],
+      "q": "What material and resource requirements should you consider?",
+      "q_bn": "কোন material ও resource বিবেচনা করবে?"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "you may need to obtain materials or resources",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "This can affect the time and costs involved with assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Obtaining materials or resources can affect assessment time and costs."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p37-material-resources"
+      ]
+    },
+    {
+      "cite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 37,
+        "printedPage": 37,
+        "quote": "Sample of an assessment resources checklist",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "columns": [
+        "Done (tick once arranged)",
+        "Particulars",
+        "Quantity",
+        "Remarks"
+      ],
+      "fields": [
+        "Unit of competency to be assessed",
+        "Module Title",
+        "Date (from - to)",
+        "Venue"
+      ],
+      "footer": [
+        "Add more columns if necessary"
+      ],
+      "kind": "form",
+      "note_bn": "দুটো ভাগ: Physical Resources (মানুষ ও জায়গা) আর Equipment and Tools। প্রতিটি সাজানো হলে টিক দাও।",
+      "outline": [
+        "c11-p37-resources-checklist"
+      ],
+      "rows": [
+        [
+          "",
+          "Physical Resources",
+          "",
+          ""
+        ],
+        [
+          "☐",
+          "Assessor",
+          "1",
+          "BTEB registered"
+        ],
+        [
+          "☐",
+          "Observer",
+          "1",
+          "Contact ISC for name"
+        ],
+        [
+          "☐",
+          "Technician",
+          "1",
+          ""
+        ],
+        [
+          "☐",
+          "Venue for assessment",
+          "1",
+          ""
+        ],
+        [
+          "",
+          "Equipment and Tools",
+          "",
+          ""
+        ],
+        [
+          "☐",
+          "Weighing scale",
+          "1",
+          ""
+        ],
+        [
+          "☐",
+          "Mixing machine",
+          "2",
+          "One manual and one digital"
+        ],
+        [
+          "☐",
+          "Electric oven",
+          "1",
+          ""
+        ],
+        [
+          "☐",
+          "Fermentation cabinet",
+          "1",
+          ""
+        ],
+        [
+          "☐",
+          "Baking tray",
+          "",
+          ""
+        ],
+        [
+          "☐",
+          "Working table",
+          "1",
+          ""
+        ],
+        [
+          "☐",
+          "Dough cutter",
+          "1",
+          ""
+        ],
+        [
+          "☐",
+          "Personal protective equipment (chef jacket, hand gloves, apron, rubber sole shoes)",
+          "1 pair",
+          ""
+        ]
+      ],
+      "title": "Sample Assessment Resources Checklist",
+      "title_bn": "নমুনা Assessment Resources Checklist (bakery)"
+    }
+  ],
   "highlighted": true,
   "id": "assessment-resources",
   "importance": {
@@ -167,7 +348,17 @@
         "fidelity": "paraphrase",
         "text": "Other preexisting assessment resources"
       }
-    ]
+    ],
+    "itemsBn": [
+      "কাজের জন্য দরকারি plant বা যন্ত্রপাতি পাওয়া যাবে কি না, তা আগে দেখে নিতে হয়।",
+      "Assessment কোথায় হবে, সেই venue আগে থেকে ঠিক করে রাখতে হয়।",
+      "কোন technology লাগবে, তা আগেই ঠিক করে প্রস্তুত রাখতে হয়।",
+      "Assessor ছাড়াও আর কোন লোকজন (personnel) আর equipment লাগবে, তা হিসাব করতে হয়।",
+      "নিরাপত্তার জন্য যথেষ্ট পরিমাণে আর উপযুক্ত protective equipment থাকতে হবে।",
+      "আগে থেকে যে assessment resources আছে, সেগুলোও কাজে লাগানো যায় কি না দেখতে হয়।"
+    ],
+    "title": "Materials and resources to consider for assessment",
+    "titleBn": "Assessment-এর জন্য যেসব materials ও resources বিবেচনা করতে হয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -434,6 +625,7 @@
       "text": "Assessor, observer and technician are listed under Physical Resources."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

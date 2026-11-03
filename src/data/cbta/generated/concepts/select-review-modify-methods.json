@@ -1,0 +1,640 @@
+{
+  "aliases": [
+    "Assessment process definition",
+    "Finalising assessment methods and tools",
+    "Integrated assessment"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 11,
+      "pages": [
+        {
+          "pdf": 31,
+          "printed": 31
+        },
+        {
+          "pdf": 32,
+          "printed": 32
+        }
+      ],
+      "src": "cblm11"
+    }
+  ],
+  "banglaExplanation": [
+    "Assessment process মানে candidate আর assessor যে ধাপগুলো পার হয়।",
+    "আগে methods ও tools select করো, তারপর review করে দেখো rules of evidence আর principles মানছে কি না।",
+    "Review একাধিক assessor করতে পারে, এটাই tool-এর validation।",
+    "দরকার হলে modify করো, আর special needs-এর জন্য reasonably adjust করো, যাতে assessment fair ও flexible হয়।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 11,
+  "errata": [],
+  "example": {
+    "bn": "দুজন assessor review করলো (validation), তারপর বিশেষ চাহিদা অনুযায়ী adjust।",
+    "en": "An IT centre reviews its typing test with two assessors. They then adjust it for a candidate with low vision."
+  },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "When planning an assessment it is important to determine which particular assessment method is relevant",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "you will need to determine what you need to do in order to conduct the assessment event",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "First determine which assessment method is relevant. Then determine what you need to conduct the event."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p31-assessment-process-definition"
+      ]
+    },
+    {
+      "bn": [
+        "Review করা মানে tool-টা validate করা; দরকার হলে একাধিক assessor মিলে দেখবে।",
+        "Special needs = fair আর flexible রাখার জন্য reasonable adjustment।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Select Assessment Methods and Tools, make sure they",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Collect evidence that meets the rules of evidence",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Allow you to collect evidence in line with the principles of assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Selected methods and tools meet the rules of evidence and the principles of assessment."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Review Assessment Methods and Tools",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "This task may be done by more than one assessor if needed, and is also a process of validation of the assessment tool",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Review may be done by more than one assessor. It is also validation of the tool."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p32-review-methods-tools"
+      ]
+    },
+    {
+      "bn": "বাছাই আর যাচাই দুই ধাপেই rules of evidence ও principles মিলিয়ে দেখতে হয়।",
+      "kind": "note",
+      "outline": [
+        "c11-p32-select-methods-tools"
+      ],
+      "text": "Memory: S-R-M-M (Select, Review, Modify, Meet needs). Rules of evidence + principles are checked twice.",
+      "tone": "tip"
+    }
+  ],
+  "highlighted": false,
+  "id": "select-review-modify-methods",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "মূল্যায়নের ধারাবাহিক ধাপ",
+      "en": "Assessment process"
+    },
+    {
+      "bn": "বাছাই করা",
+      "en": "Select"
+    },
+    {
+      "bn": "যাচাই করে দেখা",
+      "en": "Review"
+    },
+    {
+      "bn": "পরিবর্তন বা সংশোধন করা",
+      "en": "Modify"
+    },
+    {
+      "bn": "বিশেষ চাহিদা",
+      "en": "Special needs"
+    },
+    {
+      "bn": "পুরো কাজ একসাথে মূল্যায়ন",
+      "en": "Integrated assessment"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Select Assessment Methods and Tools, make sure they",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Collect evidence that meets the rules of evidence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "collect evidence in line with the principles of assessment",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Select: methods and tools collect evidence meeting the rules of evidence and principles of assessment."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Review Assessment Methods and Tools Make sure they meet the rules of evidence and principles of assessment",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Review: check they meet the rules of evidence and principles of assessment."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Modify Assessment Methods and Tools After reviewing the assessment tools and methods, make adjustments or choose other tools",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Modify: after reviewing, make adjustments or choose other tools."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Meet Special Needs of Participant/s Make sure that the assessment is fair and flexible",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "may need to be altered and reasonably adjusted to cater for the specific characteristics of participants",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Meet special needs: alter and reasonably adjust methods so assessment is fair and flexible."
+      }
+    ],
+    "itemsBn": [
+      "প্রথমে এমন methods ও tools select করো, যা rules of evidence আর principles of assessment মেনে evidence সংগ্রহ করে।",
+      "তারপর review করো — সত্যিই rules of evidence আর principles মানছে কি না যাচাই করো।",
+      "Review-এর পর দরকার হলে adjustments করো, বা অন্য tools বেছে নাও।",
+      "কারও special needs থাকলে methods একটু বদলে বা reasonably adjust করে নাও, যাতে assessment fair ও flexible হয়।"
+    ],
+    "title": "Steps to finalise assessment methods and tools",
+    "titleBn": "Assessment methods ও tools চূড়ান্ত করার ধাপ"
+  },
+  "mnemonic": {
+    "explain_bn": "চার ধাপ: বাছো, যাচাই করো, বদলাও, বিশেষ চাহিদা মেটাও।",
+    "text": "S-R-M-M: Select, Review, Modify, Meet needs"
+  },
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 11,
+        "match": "exact",
+        "page": 31,
+        "printedPage": 31,
+        "quote": "The assessment process is the series of steps that candidates and assessors move through while undertaking assessment",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "The assessment process is the series of steps candidates and assessors move through."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Select Assessment Methods and Tools, make sure they: • Collect evidence that meets the rules of evidence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Select",
+          "right": "Collect evidence that meets the rules of evidence"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Review Assessment Methods and Tools Make sure they meet the rules of evidence and principles of assessment. This task may be done by more than one assessor if needed, and is also a process of validation",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Review",
+          "right": "Also a process of validation"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Modify Assessment Methods and Tools After reviewing the assessment tools and methods, make adjustments or choose other tools",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Modify",
+          "right": "Make adjustments or choose other tools"
+        },
+        {
+          "cite": {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Meet Special Needs of Participant/s Make sure that the assessment is fair and flexible",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          "left": "Meet special needs",
+          "right": "Make sure assessment is fair and flexible"
+        }
+      ],
+      "prompt": "Match each step with what you do."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 32,
+        "printedPage": 32,
+        "quote": "is also a process of validation of the assessment tool",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Validation of the assessment tool",
+        "Recognition of prior learning",
+        "Reasonable adjustment",
+        "Clustering competencies"
+      ],
+      "prompt": "Reviewing assessment methods and tools, with more than one assessor, is also a process of:"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Select Assessment Methods and Tools, make sure they",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Collect evidence that meets the rules of evidence",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "collect evidence in line with the principles of assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Select: methods and tools collect evidence meeting the rules of evidence and principles of assessment."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Modify Assessment Methods and Tools After reviewing the assessment tools and methods, make adjustments or choose other tools",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Modify: after reviewing, make adjustments or choose other tools."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "It covers the clustering of multiple units and/or elements from relevant units of competency",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Integrated assessment clusters multiple units or elements of competency."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "This assessment combines the application and demonstration of: • knowledge • skills • attitude • ethics from a range of work activities",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It combines knowledge, skills, attitude and ethics from a range of work activities."
+        }
+      ],
+      "modelAnswer": "The assessment process is the series of steps candidates and assessors move through. To finalise methods and tools:\n1. Select them to meet the rules of evidence and principles of assessment.\n2. Review them; this is also validation.\n3. Modify them or choose other tools.\n4. Meet participants' special needs with reasonable adjustment.",
+      "prompt": "What is the assessment process? How do you finalise assessment methods and tools?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 31,
+            "printedPage": 31,
+            "quote": "Integrated assessment is an assessment approach that focuses on 'performing a whole job' or a real work task",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "An approach that focuses on performing a whole job or a real work task."
+      },
+      "prompt": "What is integrated assessment?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Assessment Process: Select, Review and Modify Methods and Tools",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 32,
+          "printedPage": 32,
+          "quote": "This task may be done by more than one assessor if needed, and is also a process of validation of the assessment tool",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Review may be done by more than one assessor. It is also validation of the tool."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 31,
+          "printedPage": 31,
+          "quote": "Integrated assessment is an assessment approach that focuses on 'performing a whole job' or a real work task",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Integrated assessment focuses on performing a whole job or a real work task."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 11,
+          "match": "exact",
+          "page": 31,
+          "printedPage": 31,
+          "quote": "Assessment planning requires you to choose an assessment method and then decide what you need in order to use that method of assessment",
+          "sourceTitle": "Design and Develop Competency Based Assessment",
+          "src": "cblm11"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "First choose a method, then decide what you need to use it."
+    }
+  ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Select Assessment Methods and Tools, make sure they",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Collect evidence that meets the rules of evidence",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "collect evidence in line with the principles of assessment",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Select: methods and tools collect evidence meeting the rules of evidence and principles of assessment."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Review Assessment Methods and Tools Make sure they meet the rules of evidence and principles of assessment",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Review: check they meet the rules of evidence and principles of assessment."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Modify Assessment Methods and Tools After reviewing the assessment tools and methods, make adjustments or choose other tools",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Modify: after reviewing, make adjustments or choose other tools."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "Meet Special Needs of Participant/s Make sure that the assessment is fair and flexible",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 32,
+            "printedPage": 32,
+            "quote": "may need to be altered and reasonably adjusted to cater for the specific characteristics of participants",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Meet special needs: alter and reasonably adjust methods so assessment is fair and flexible."
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "প্রথমে এমন methods ও tools select করো, যা rules of evidence আর principles of assessment মেনে evidence সংগ্রহ করে।",
+      "তারপর review করো — সত্যিই rules of evidence আর principles মানছে কি না যাচাই করো।",
+      "Review-এর পর দরকার হলে adjustments করো, বা অন্য tools বেছে নাও।",
+      "কারও special needs থাকলে methods একটু বদলে বা reasonably adjust করে নাও, যাতে assessment fair ও flexible হয়।"
+    ],
+    "title": "Finalising assessment methods and tools (p.32)",
+    "title_bn": "Method ও tool চূড়ান্ত করার ধাপ"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

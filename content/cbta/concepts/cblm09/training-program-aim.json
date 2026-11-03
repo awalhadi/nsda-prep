@@ -1,0 +1,300 @@
+{
+  "id": "training-program-aim",
+  "canonical_title": "Overall Aim and Outcome of a Training Program",
+  "aliases": [
+    "Overall aim of a training program",
+    "The outcome of the training program",
+    "Big picture of a training program"
+  ],
+  "cblmPrimary": 9,
+  "source_type": "cblm",
+  "covers": [
+    "cblm09-p29-75988f5a"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "The overall aim is a general statement of the focus and direction of the program.",
+    "cites": [
+      {
+        "src": "cblm09",
+        "page": 29,
+        "quote": "This aim is a general statement of the focus and direction of the program or course and sets the boundaries for the types of learning outcomes expected."
+      }
+    ],
+    "fidelity": "paraphrase"
+  },
+  "keywords": [
+    {
+      "en": "Overall aim",
+      "bn": "পুরো training program-এর মূল লক্ষ্য"
+    },
+    {
+      "en": "Big picture",
+      "bn": "শুরুতেই পুরো ছবিটা দেখা"
+    },
+    {
+      "en": "Focus and direction",
+      "bn": "কোন দিকে, কী নিয়ে program চলবে"
+    },
+    {
+      "en": "Boundaries",
+      "bn": "কোন learning outcomes আসবে তার সীমা"
+    },
+    {
+      "en": "Outcome",
+      "bn": "program শেষে trainee কী পারবে"
+    }
+  ],
+  "bangla_explanation": [
+    "Jigsaw puzzle পুরো ছবি দেখে মেলানো সহজ — training design-ও তাই, আগে big picture দরকার।",
+    "Big picture মানে: training শেষে trainees কী পারবে আর সেটা কীভাবে assessed হবে।",
+    "এই big picture-কে একটা overall aim হিসেবে লেখা হয় — program-এর focus and direction।",
+    "Aim ঠিক করে দেয় কোন ধরনের learning outcomes আসবে (boundaries)।"
+  ],
+  "example": {
+    "en": "A garments centre writes the aim of its Sewing Machine Operator program first.",
+    "bn": "কোনো session plan করার আগে garments centre প্রথমে Sewing Machine Operator program-এর overall aim লিখে নেয়।"
+  },
+  "traps": [
+    {
+      "text": "The outcome is a description of the main work tasks and topics trainees need.",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 29,
+          "quote": "The outcome for a training program is a escription of the main work tasks and topics of information the trainees need."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "The aim is very similar to the vocational need decided earlier.",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 29,
+          "quote": "It is very similar to the vocational need you decided on earlier."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "First have a big picture of what trainees should do and how it is assessed.",
+      "cites": [
+        {
+          "src": "cblm09",
+          "page": 29,
+          "quote": "It is necessary to first have a big picture of what the trainees should be able to do as a result of the training and how that will be assessed."
+        }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "visual": {
+    "kind": "steps",
+    "title": "Before, during and after the training program (p.29)",
+    "title_bn": "Training program-এর আগে, চলাকালীন ও পরে",
+    "items": [
+      {
+        "text": "Before: where the trainees currently are in their skills and knowledge about X.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "This is where the trainees"
+          },
+          {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "are currently in their skills"
+          },
+          {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "and knowledge about X."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "During: the skills and knowledge about X are delivered and practised.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "program the skills and"
+          },
+          {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "knowledge about X are"
+          },
+          {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "delivered and practised."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "After: the point trainees need to get to. This is the overall outcome.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "This is the point that the"
+          },
+          {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "trainees need to get to in their"
+          },
+          {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "This is the overall outcome of"
+          },
+          {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "the training program."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    ],
+    "labels_bn": [
+      "আগে: trainees এখন skills ও knowledge-এ কোথায় আছে।",
+      "চলাকালীন: skills ও knowledge শেখানো (delivered) আর অনুশীলন (practised) হয়।",
+      "পরে: trainees-কে যেখানে পৌঁছাতে হবে — এটাই program-এর overall outcome।"
+    ]
+  },
+  "practice": {
+    "short": {
+      "prompt": "What is the overall aim of a training program? Give one example.",
+      "modelAnswer": "The overall aim is a general statement of the focus and direction of the program or course. It sets the boundaries for the types of learning outcomes expected.\nExample: Lathe Operator — to safely start, operate, maintain, shut down, clean, report problems about and keep relevant records for the lathe.",
+      "keyPoints": [
+        {
+          "text": "The aim is a general statement of the focus and direction of the program.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 29,
+              "quote": "This aim is a general statement of the focus and direction of the program or course"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "It sets the boundaries for the types of learning outcomes expected.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 29,
+              "quote": "sets the boundaries for the types of learning outcomes expected."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Photocopier Operator: to use a photocopy to copy documents.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 29,
+              "quote": "Photocopier Operator"
+            },
+            {
+              "src": "cblm09",
+              "page": 29,
+              "quote": "to use a photocopy to copy documents."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "The overall aim of a training program is:",
+      "options": [
+        "A general statement of the focus and direction of the program",
+        "A list of consumable materials",
+        "The session review questions",
+        "The trainee's enrolment form"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm09",
+        "page": 29,
+        "quote": "This aim is a general statement of the focus and direction of the program"
+      }
+    },
+    "matching": {
+      "prompt": "Match each training program title with its overall aim.",
+      "pairs": [
+        {
+          "left": "Photocopier Operator",
+          "right": "To use a photocopy to copy documents",
+          "cite": {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "Photocopier Operator to use a photocopy to copy documents."
+          }
+        },
+        {
+          "left": "Lathe Operator",
+          "right": "To safely start, operate, maintain, shut down and clean the lathe",
+          "cite": {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "Lathe Operator to safely start, operate, maintain, shut down, clean,"
+          }
+        },
+        {
+          "left": "PC Printer Installation",
+          "right": "To safely install printing software and carry out a test print",
+          "cite": {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "PC Printer Installation to safely install printing software, follow installation"
+          }
+        },
+        {
+          "left": "Program outcome",
+          "right": "Main work tasks and topics trainees need",
+          "cite": {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "The outcome for a training program is a escription of the main work tasks and topics"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why compare training design with a jigsaw puzzle?",
+      "answer": {
+        "text": "A jigsaw puzzle is easier with the completed picture. Training design first needs a big picture.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "If you have ever tried to solve a jigsaw puzzle, you will know that it is much easier if you have a completed picture of it."
+          },
+          {
+            "src": "cblm09",
+            "page": 29,
+            "quote": "It is necessary to first have a big picture"
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "visual",
+      "note": "The p.29 before/during/after diagram is extracted with its three columns interleaved; the quotes are short fragments. Confirm the column reading against the PDF."
+    }
+  ]
+}

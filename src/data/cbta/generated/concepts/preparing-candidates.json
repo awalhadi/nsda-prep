@@ -32,6 +32,126 @@
     "bn": "ড্রাইভিং টেস্টের আগে: শুভেচ্ছা, ব্যাখ্যা, একটু বিশ্রাম, তারপর প্রশ্নের সুযোগ।",
     "en": "At a driving test centre, the assessor greets each candidate. She explains the test and the evidence needed. She lets them sit and relax for five minutes. Then she asks, \"Any questions?\""
   },
+  "extra": [
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "explain the context and purpose of the assessment and the assessment process",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "explain the context and purpose of the assessment and the assessment process"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "explain the Unit(s) of Competency to be assessed and the evidence to be collected",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "explain the Unit(s) of Competency to be assessed and the evidence to be collected"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "outline the assessment procedure, the preparation which the candidate should undertake and answer any questions",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "outline the assessment procedure, the preparation which the candidate should undertake and answer any questions"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "assess the needs of the candidate and establish any allowable adjustments in the assessment procedure",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "assess the needs of the candidate and establish any allowable adjustments in the assessment procedure"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "seek feedback regarding the candidate's understanding of the competency standards, evidence requirements and assessment process",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "seek feedback regarding the candidate's understanding of the competency standards, evidence requirements and assessment process"
+        }
+      ],
+      "items_bn": [
+        "Assessment-এর context, purpose আর পুরো process candidate-কে বুঝিয়ে বলা।",
+        "কোন Unit(s) of Competency assess হবে আর কী evidence সংগ্রহ হবে, তা ব্যাখ্যা করা।",
+        "Assessment procedure আর candidate-এর কী প্রস্তুতি নিতে হবে তা জানানো, আর প্রশ্নের উত্তর দেওয়া।",
+        "Candidate-এর প্রয়োজন বুঝে procedure-এ কী adjustments চলবে, তা ঠিক করা।",
+        "Competency standards, evidence requirements আর process candidate কতটা বুঝল, তা feedback নিয়ে যাচাই করা।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c12-p10-preparing-event"
+      ],
+      "title": "What the assessor must do to prepare candidates for an assessment event",
+      "title_bn": "Candidate প্রস্তুত করতে assessor যা পারবেন"
+    },
+    {
+      "bn": [
+        "Candidate ভয় পেলে আসল দক্ষতা দেখাতে পারে না; তাই শুরুর আগে স্বাগত জানান, rapport তৈরি করুন, প্রশ্ন করতে দিন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "Regardless of the assessment context, the assessor must provide a supportive",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Provide this supportive environment regardless of the assessment context."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p10-supportive-environment"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "preparing-candidates",
   "importance": {
@@ -142,7 +262,16 @@
         "fidelity": "verbatim",
         "text": "Inviting the candidate to ask questions"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Assessment-এর জায়গা ও পরিবেশ উপযুক্ত কি না, আগে নিশ্চিত করুন।",
+      "Candidate যেন relaxed থাকে, বেশি ভয় বা দুশ্চিন্তায় (apprehensive) না থাকে — তাহলে সে নিজের কাজ ভালোভাবে দেখাতে পারে।",
+      "শুভেচ্ছা জানিয়ে স্বাগত জানান, আর candidate-এর সাথে সুসম্পর্ক (rapport) তৈরি করুন।",
+      "শুরুর আগে candidate-কে একটু সময় দিন, যাতে সে মানিয়ে নিয়ে স্বস্তি বোধ করে।",
+      "Candidate-কে প্রশ্ন করার সুযোগ দিন, যাতে কোনো সন্দেহ না থাকে।"
+    ],
+    "title": "Ways to provide a supportive environment before assessment",
+    "titleBn": "Assessment-এর আগে সহায়ক পরিবেশ তৈরির উপায়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -460,6 +589,7 @@
       "text": "Assess candidate needs and establish any allowable adjustments while preparing."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

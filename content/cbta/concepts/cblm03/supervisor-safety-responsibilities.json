@@ -74,6 +74,8 @@
     "bn": "মোটর ওয়ার্কশপে supervisor নতুন trainee-র কাছে থাকেন, হাতে-কলমে দেখান, goggles পরছে কিনা দেখেন।"
   },
   "list_answer": {
+    "title": "Supervisor's legal safety responsibilities",
+    "title_bn": "Safety-তে supervisor-এর আইনগত দায়িত্ব",
     "items": [
       {
         "text": "Make sure that you follow the law and the company's safety rules",
@@ -109,6 +111,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "আপনি যেন law ও company-র safety rules মেনে চলেন, তা নিশ্চিত করা — নিয়ম মানা হচ্ছে কিনা তিনি দেখেন।",
+      "কাজের hazards বা বিপদ সম্পর্কে আপনাকে জানানো — বিপদ জানলে আপনি সাবধানে কাজ করতে পারেন।",
+      "Safety equipment ঠিকভাবে ব্যবহার করছেন কিনা নিশ্চিত করা — ভুল ব্যবহারে সুরক্ষা পাওয়া যায় না।"
     ]
   },
   "traps": [
@@ -187,6 +194,121 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Supervisor's legal responsibilities vs what a good supervisor should do (p.13)",
+    "title_bn": "আইনি দায়িত্ব বনাম ভালো supervisor-এর কাজ",
+    "left": {
+      "title": "Legal responsibilities",
+      "title_bn": "আইনি দায়িত্ব (৩টি)",
+      "points": [
+        {
+          "text": "Make sure that you follow the law and the company's safety rules",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "Make sure that you follow the law and the company's safety rules"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Tell you about any job hazards or dangers",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "Tell you about any job hazards or dangers"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Make sure you use safety equipment properly",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "Make sure you use safety equipment properly"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "right": {
+      "title": "A good supervisor should",
+      "title_bn": "ভালো supervisor যা করেন (৫টি)",
+      "points": [
+        {
+          "text": "Work near or with the workers.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "work near or with the workers"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Be available to answer workers' questions.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "be available to answer workers' questions"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Provide feedback on how the job is being done.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "provide feedback on how the job is being done"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Provide hands-on training until the work is done correctly, confidently and safely.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "provide hands-on training until the work can be done correctly, confidently"
+            },
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "and safely by the worker"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Monitor the job so it is done safely, with the right safety equipment.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "monitor the job to make sure it is being done safely and with the right"
+            },
+            {
+              "src": "cblm03",
+              "page": 13,
+              "quote": "safety equipment"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What are a supervisor's OSH responsibilities toward workers?",

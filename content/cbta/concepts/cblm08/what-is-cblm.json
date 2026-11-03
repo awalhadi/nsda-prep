@@ -49,7 +49,7 @@
   ],
   "bangla_explanation": [
     "CBLM হলো একটা learning guide, যা learner-কে একটার পর একটা activities করিয়ে শেখায়।",
-    "ক্লাসে বসে বা নিজের গতিতে (own pace) দুইভাবেই CBLM ব্যবহার করা যায়।",
+    "ক্লাসে বসে বা নিজের গতিতে দুইভাবেই CBLM ব্যবহার করা যায়।",
     "প্রতিটি unit of competency-র জন্য একটি করে CBLM থাকে।",
     "CBLM শুধু তথ্য দেয় না, workplace-এ দরকারি competency মাপার instrument হিসেবেও কাজ করে।"
   ],
@@ -58,6 +58,8 @@
     "bn": "Welding trainee নিজে CBLM পড়ে, self check করে, তারপর কাজটা হাতে-কলমে করে।"
   },
   "list_answer": {
+    "title": "Overall we can say that CBLM is",
+    "title_bn": "সব মিলিয়ে CBLM হলো (৪টি দিক)",
     "items": [
       {
         "text": "Media that contain information related to work requirement",
@@ -109,6 +111,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Media — কাজের প্রয়োজন (work requirement) সম্পর্কিত তথ্য বহন করে।",
+      "Guided learning — workplace-এ দরকারি competency অর্জনের দিকে শেখাকে এগিয়ে নেয়।",
+      "Tool — প্রত্যেক learner-এর নিজের শেখার process সহজ করে।",
+      "Instrument — workplace-এ দরকারি competency মাপার যন্ত্র হিসেবেও কাজ করে।"
     ]
   },
   "traps": [
@@ -277,5 +285,121 @@
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "compare",
+    "title": "What CBLM is vs Reasons for using CBLM (p.27)",
+    "title_bn": "CBLM কী বনাম কেন CBLM ব্যবহার করি",
+    "left": {
+      "title": "Overall, CBLM is",
+      "title_bn": "CBLM হলো",
+      "points": [
+        {
+          "text": "Media with information related to work requirement.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Media that contain information related to work requirement"
+            }
+          ]
+        },
+        {
+          "text": "Learning guided towards the competency required in the workplace.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Learning that is guided towards achieving the competency required in the"
+            }
+          ]
+        },
+        {
+          "text": "Tools that facilitate individual learning process.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Tools that facilitate individual learning process"
+            }
+          ]
+        },
+        {
+          "text": "Instrument that measure the competency required in the workplace.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Instrument that measure the competency required in the workplace."
+            }
+          ]
+        }
+      ]
+    },
+    "right": {
+      "title": "Reasons for Using CBLM",
+      "title_bn": "CBLM ব্যবহারের ৫টি কারণ",
+      "points": [
+        {
+          "text": "Learning is self-paced.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Learning is self-paced;"
+            }
+          ]
+        },
+        {
+          "text": "Learning is student-centered.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Learning is student-centered;"
+            }
+          ]
+        },
+        {
+          "text": "Develop learning mastery.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Develop learning mastery;"
+            }
+          ]
+        },
+        {
+          "text": "Immediate feedback on the achievement of learning.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Immediate feedback on the achievement of learning; and"
+            }
+          ]
+        },
+        {
+          "text": "Training is well-planned.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 27,
+              "quote": "Training is well-planned"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

@@ -8,12 +8,28 @@
       "cblm": 12,
       "pages": [
         {
+          "pdf": 8,
+          "printed": 8
+        },
+        {
           "pdf": 18,
           "printed": 18
         },
         {
           "pdf": 19,
           "printed": 19
+        },
+        {
+          "pdf": 20,
+          "printed": 20
+        },
+        {
+          "pdf": 22,
+          "printed": 22
+        },
+        {
+          "pdf": 26,
+          "printed": 26
         }
       ],
       "src": "cblm12"
@@ -36,6 +52,395 @@
     "bn": "Driving test-এ নিজের গ্রামের ছেলে বলে ভালো নম্বর দেওয়া হলো halo effect।",
     "en": "A trainee at a driving test is from the assessor's village. The assessor passes him without careful checking. That is the halo effect."
   },
+  "extra": [
+    {
+      "columns": [
+        "Error",
+        "What it means (p.18-19)",
+        "CBLM point that helps avoid it"
+      ],
+      "kind": "table",
+      "outline": [
+        "c12-p18-assessor-errors",
+        "c12-p18-halo-horn",
+        "c12-p19-failing-record",
+        "c12-p19-failing-observe",
+        "c12-p19-marking-middle",
+        "c12-p19-overlooking-cheating"
+      ],
+      "rows": [
+        [
+          "Halo effect",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Making positive judgements about a trainee based on reputation or your personal",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Positive judgements about a trainee based on reputation or personal preference."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "make impartial judgment",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "make impartial judgment"
+          }
+        ],
+        [
+          "Horn effect",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "The halo effect",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              },
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "The opposite of this referred to as the Horn effect.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "The opposite of the halo effect."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 8,
+                "printedPage": 8,
+                "quote": "make impartial judgment",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "make impartial judgment"
+          }
+        ],
+        [
+          "Failing to record",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "Due to inadequate planning for, or underestimation of, recording requirements",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Due to inadequate planning for, or underestimation of, recording requirements"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 26,
+                "printedPage": 26,
+                "quote": "Recording must be planned and integrated with the assessment process.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Recording must be planned and integrated with the assessment process."
+          }
+        ],
+        [
+          "Failing to observe",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "missing critical points or cues due to inexperience, or lack of preparation.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "missing critical points or cues due to inexperience, or lack of preparation."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 18,
+                "printedPage": 18,
+                "quote": "Weigh the evidence and take time to make an informed decision.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Weigh the evidence and take time to make an informed decision."
+          }
+        ],
+        [
+          "Marking down the middle",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "'Sitting on the fence', especially common with rating scales.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "'Sitting on the fence', especially common with rating scales."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 22,
+                "printedPage": 22,
+                "quote": "be clear about the reasons you have for reaching your decision.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "be clear about the reasons you have for reaching your decision."
+          }
+        ],
+        [
+          "Overlooking cheating",
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 19,
+                "printedPage": 19,
+                "quote": "Being unwilling to confront cheating issues, or bending to outside pressures.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Being unwilling to confront cheating issues, or bending to outside pressures."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 20,
+                "printedPage": 20,
+                "quote": "Authentic - Does the evidence represent the candidate's own work?",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Check: does the evidence represent the candidate's own work?"
+          }
+        ]
+      ],
+      "title": "Assessor errors and the CBLM point that guards against each",
+      "title_bn": "Assessor-এর ভুল এবং তা এড়ানোর উপায়"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "Making positive judgements about a trainee based on reputation or your personal",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "preference",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 18,
+            "printedPage": 18,
+            "quote": "The opposite of this referred to as the Horn effect.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Halo: positive judgements based on reputation or personal preference. Horn: the opposite of this."
+      },
+      "concept": "assessor-errors",
+      "example": {
+        "bn": "একই এলাকার বা একই রকম পোশাকের candidate-কে বেশি নম্বর দেওয়া halo; অপছন্দের কারণে কম দেওয়া horn।",
+        "en": "Halo: an assessor rates a trainee highly because he went to the same institute."
+      },
+      "kind": "qa",
+      "outline": [
+        "c12-p18-halo-horn"
+      ],
+      "q": "What is the halo effect, and what is the horn effect?",
+      "q_bn": "Halo effect আর Horn effect কী?",
+      "tip": "Halo is positive, Horn is negative. Both judge the person, not the evidence.",
+      "tip_bn": "মানুষকে নয়, evidence-কে বিচার করুন।"
+    },
+    {
+      "bn": "অনেক trainee একসাথে assess করলে গুরুত্বপূর্ণ point চোখ এড়িয়ে যায়; rating scale-এ সবসময় মাঝের ঘর বেছে নেওয়া মানে 'sitting on the fence'।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "requirements especially when assessing large numbers of trainees.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "requirements especially when assessing large numbers of trainees."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c12-p19-failing-observe",
+        "c12-p19-marking-middle"
+      ],
+      "text": "Failing to observe happens especially when assessing large numbers of trainees. Marking down the middle is 'sitting on the fence'.",
+      "tone": "tip"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "be biased when assessing",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "be biased when assessing"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "display favouritism • be prejudiced",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "display favouritism"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "be prejudiced • assess in ways",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "be prejudiced"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "assess in ways that disadvantage some groups, for example, women and trainees",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "from low literacy backgrounds.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "assess in ways that disadvantage some groups, for example women and low literacy trainees"
+        }
+      ],
+      "items_bn": [
+        "Assess করার সময় পক্ষপাতদুষ্ট (biased) হওয়া।",
+        "কারও প্রতি বিশেষ পক্ষপাত (favouritism) দেখানো।",
+        "আগে থেকেই কারও সম্পর্কে বিরূপ ধারণা (prejudiced) রাখা।",
+        "এমনভাবে assess করা যাতে কিছু group, যেমন নারী বা কম literacy-র trainees, অসুবিধায় পড়ে।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c12-p19-workplace-concerns"
+      ],
+      "title": "Other common concerns: ways assessors might be unfair",
+      "title_bn": "কর্মস্থলে assessment নিয়ে আরও চারটি উদ্বেগ"
+    }
+  ],
   "highlighted": true,
   "id": "assessor-errors",
   "importance": {
@@ -158,7 +563,16 @@
         "fidelity": "paraphrase",
         "text": "Overlooking cheating: being unwilling to confront cheating issues, or bending to outside pressures."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Halo effect — সুনাম বা ব্যক্তিগত পছন্দের কারণে কাউকে ভালো বিচার করা; এর উল্টোটা হলো Horn effect।",
+      "Failing to record — ঠিকমতো পরিকল্পনা না করা বা recording-এর কাজ কম ভাবার কারণে দরকারি তথ্য না লেখা।",
+      "Failing to observe — অভিজ্ঞতা বা প্রস্তুতির অভাবে গুরুত্বপূর্ণ points বা cues চোখ এড়িয়ে যাওয়া।",
+      "Marking down the middle — সিদ্ধান্ত না নিয়ে মাঝামাঝি নম্বর দেওয়া ('sitting on the fence'); rating scales-এ এটা বেশি হয়।",
+      "Overlooking cheating — নকল নিয়ে মুখোমুখি হতে না চাওয়া, বা বাইরের চাপে নতি স্বীকার করা।"
+    ],
+    "title": "Errors commonly made by assessors",
+    "titleBn": "Assessor-দের সাধারণ ভুল"
   },
   "mnemonic": {
     "explain_bn": "পাঁচটি ভুলের মূল শব্দ মনে রাখুন: Halo, Record, Observe, Middle, Cheating।",
@@ -563,6 +977,225 @@
       "text": "Assessors might also be biased, display favouritism or be prejudiced."
     }
   ],
+  "visual": {
+    "columns": [
+      "Error",
+      "What it means (p.18-19)",
+      "CBLM point that helps avoid it"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Halo effect",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Making positive judgements about a trainee based on reputation or your personal",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Positive judgements about a trainee based on reputation or personal preference."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "make impartial judgment",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "make impartial judgment"
+        }
+      ],
+      [
+        "Horn effect",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "The halo effect",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "The opposite of this referred to as the Horn effect.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The opposite of the halo effect."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 8,
+              "quote": "make impartial judgment",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "make impartial judgment"
+        }
+      ],
+      [
+        "Failing to record",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Due to inadequate planning for, or underestimation of, recording requirements",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Due to inadequate planning for, or underestimation of, recording requirements"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Recording must be planned and integrated with the assessment process.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Recording must be planned and integrated with the assessment process."
+        }
+      ],
+      [
+        "Failing to observe",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "missing critical points or cues due to inexperience, or lack of preparation.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "missing critical points or cues due to inexperience, or lack of preparation."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 18,
+              "printedPage": 18,
+              "quote": "Weigh the evidence and take time to make an informed decision.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Weigh the evidence and take time to make an informed decision."
+        }
+      ],
+      [
+        "Marking down the middle",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "'Sitting on the fence', especially common with rating scales.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "'Sitting on the fence', especially common with rating scales."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 22,
+              "printedPage": 22,
+              "quote": "be clear about the reasons you have for reaching your decision.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "be clear about the reasons you have for reaching your decision."
+        }
+      ],
+      [
+        "Overlooking cheating",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Being unwilling to confront cheating issues, or bending to outside pressures.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Being unwilling to confront cheating issues, or bending to outside pressures."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Authentic - Does the evidence represent the candidate's own work?",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Check: does the evidence represent the candidate's own work?"
+        }
+      ]
+    ],
+    "title": "Assessor errors and the CBLM point that guards against each",
+    "title_bn": "Assessor-এর ভুল এবং তা এড়ানোর উপায়"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

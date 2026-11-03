@@ -1,0 +1,660 @@
+{
+  "aliases": [
+    "The responsibilities of a reviewer",
+    "Hints for a good review process"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 12,
+      "pages": [
+        {
+          "pdf": 30,
+          "printed": 30
+        },
+        {
+          "pdf": 31,
+          "printed": 31
+        },
+        {
+          "pdf": 32,
+          "printed": 32
+        }
+      ],
+      "src": "cblm12"
+    }
+  ],
+  "banglaExplanation": [
+    "Review মানে দোষ ধরা নয়; people-কে আশ্বস্ত করতে হয় যে review non threatening।",
+    "Reviewer-এর কাজ: review effectively, efficiently ও ethically করা, legal ও safety requirements মানা।",
+    "সব observations documenting করা, review results reporting করা, আর documents safeguarding করা।",
+    "Client চাইলে corrective procedures কাজ করছে কিনা verifying করাও reviewer-এর দায়িত্ব।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 12,
+  "errata": [],
+  "example": {
+    "bn": "Senior assessor review করে observation লেখেন, report দেন, আর ফাইলগুলো নিরাপদে রাখেন।",
+    "en": "A senior assessor reviews a TTC's welding assessments. She notes her observations, reports results and keeps the files safe."
+  },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "ensure that the needs of the people involved, as well as the needs of the institutions,",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "are met and that you are continually improving your assessment practices.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "To meet the needs of people and institutions, and to continually improve assessment practices."
+      },
+      "concept": "review-cycle",
+      "kind": "qa",
+      "outline": [
+        "c12-p30-reviewing-process"
+      ],
+      "q": "Why review the assessment process?",
+      "q_bn": "Assessment process কেন review করবেন?",
+      "tip": "Reviewing the assessment event is an important role of the assessor.",
+      "tip_bn": "Review মানে পরেরবার আরও ভালো করা।"
+    },
+    {
+      "bn": [
+        "অন্য assessor-দের সাথে আলোচনা করলে সবার সিদ্ধান্ত একই মানের থাকে (consistency, reliability)।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "A part of ensuring consistency and reliability in assessment is to discuss your",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "activities with other assessors and anyone else who has a stake in the process.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Discuss your activities with other assessors and stakeholders. This ensures consistency and reliability."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p30-discuss-assessors"
+      ]
+    }
+  ],
+  "highlighted": true,
+  "id": "reviewer-responsibilities",
+  "importance": {
+    "bn": "CBLM 12-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 12."
+  },
+  "keywords": [
+    {
+      "bn": "যিনি assessment process review করেন",
+      "en": "Reviewer"
+    },
+    {
+      "bn": "নৈতিকভাবে, নিয়ম মেনে",
+      "en": "Ethically"
+    },
+    {
+      "bn": "ভুল সংশোধনের ব্যবস্থা",
+      "en": "Corrective procedures"
+    },
+    {
+      "bn": "নিরাপদে সংরক্ষণ করা",
+      "en": "Safeguarding"
+    },
+    {
+      "bn": "ভয়ের নয়, সহায়ক",
+      "en": "Non-threatening"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "planning and carrying out review duties effectively, efficiently and ethically",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "planning and carrying out review duties effectively, efficiently and ethically"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "ensuring that the review process takes into account all necessary legal and safety requirements",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "ensuring that the review process takes into account all necessary legal and safety requirements"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "documenting the observations made during the review process",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "documenting the observations made during the review process"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "reporting the review results",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "reporting the review results"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "verifying the effectiveness of corrective procedures taken as a result of the review,",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "if requested by the client",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Verifying the effectiveness of corrective procedures after the review, if the client requests."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "retaining and safeguarding documents pertaining to the review",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "retaining and safeguarding documents pertaining to the review"
+      }
+    ],
+    "itemsBn": [
+      "Review-এর কাজ পরিকল্পনা করে effectively, efficiently আর ethically সম্পন্ন করা।",
+      "Review process-এ সব দরকারি legal ও safety requirements মানা হচ্ছে কি না নিশ্চিত করা।",
+      "Review চলাকালে যা observe করা হলো, সব লিখে রাখা (documenting)।",
+      "Review-এর ফলাফল report করা।",
+      "Client চাইলে review-এর পর নেওয়া corrective procedures কাজ করছে কি না যাচাই করা।",
+      "Review সংক্রান্ত সব documents রেখে দেওয়া আর নিরাপদে সংরক্ষণ (safeguarding) করা।"
+    ],
+    "title": "Responsibilities of a reviewer",
+    "titleBn": "Reviewer-এর দায়িত্ব"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 30,
+        "passageId": "cblm12-p30-6b0f4d99",
+        "printedPage": 30,
+        "quote": "A reviewer is responsible for:",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 30,
+        "printedPage": 30,
+        "quote": "planning and carrying out review duties",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 30,
+        "printedPage": 30,
+        "quote": "documenting the observations made during the review process",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 30,
+        "printedPage": 30,
+        "quote": "reporting the review results",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      {
+        "cblm": 12,
+        "match": "exact",
+        "page": 30,
+        "printedPage": 30,
+        "quote": "retaining and safeguarding documents pertaining to the review.",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "A reviewer plans and carries out the review, documents, reports and safeguards documents."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "planning and carrying out review duties effectively, efficiently and ethically",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Planning and carrying out review duties",
+          "right": "effectively, efficiently and ethically"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "documenting the observations made during the review process",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Documenting",
+          "right": "the observations made during the review process"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "verifying the effectiveness of corrective procedures taken as a result of the review, if requested by the client",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Verifying corrective procedures",
+          "right": "if requested by the client"
+        },
+        {
+          "cite": {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "retaining and safeguarding documents pertaining to the review.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          "left": "Retaining and safeguarding",
+          "right": "documents pertaining to the review"
+        }
+      ],
+      "prompt": "Complete each responsibility of a reviewer."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 12,
+        "match": "exact",
+        "page": 30,
+        "printedPage": 30,
+        "quote": "retaining and safeguarding documents pertaining to the review.",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Retaining and safeguarding documents pertaining to the review",
+        "Issuing the national certificate to candidates",
+        "Writing the competency standard",
+        "Training the candidates before assessment"
+      ],
+      "prompt": "Which is a responsibility of a reviewer?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Reviewing the assessment event is an important role of the assessor.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Reviewing the assessment event is an important role of the assessor."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "You should ensure that the needs of the people involved, as well as the needs of the institutions, are met",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Ensure the needs of people involved and of institutions are met."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "you are continually improving your assessment practices",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "you are continually improving your assessment practices"
+        }
+      ],
+      "modelAnswer": "A reviewer is responsible for:\n1. Planning and carrying out review duties effectively, efficiently and ethically.\n2. Ensuring the review covers all legal and safety requirements.\n3. Documenting the observations made during the review.\n4. Reporting the review results.\n5. Verifying corrective procedures, if requested by the client.\n6. Retaining and safeguarding documents of the review.",
+      "prompt": "What are the responsibilities of a reviewer?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "documenting the observations made during the review process",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 30,
+            "printedPage": 30,
+            "quote": "reporting the review results",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Documenting the observations made during the review. Reporting the review results."
+      },
+      "prompt": "Name two responsibilities of a reviewer."
+    }
+  },
+  "realQuestions": [],
+  "score": 3,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Responsibilities of a Reviewer",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 31,
+          "printedPage": 31,
+          "quote": "People need to be reassured that the review process will be non-threatening.",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        }
+      ],
+      "fidelity": "verbatim",
+      "text": "People need to be reassured that the review process will be non-threatening."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 30,
+          "printedPage": 30,
+          "quote": "A part of ensuring consistency and reliability in assessment is to discuss your",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        },
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 30,
+          "printedPage": 30,
+          "quote": "activities with other assessors",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Discuss your activities with other assessors. This helps consistency and reliability in assessment."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 30,
+          "printedPage": 30,
+          "quote": "verifying the effectiveness of corrective procedures",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        },
+        {
+          "cblm": 12,
+          "match": "exact",
+          "page": 30,
+          "printedPage": 30,
+          "quote": "if requested by the client",
+          "sourceTitle": "Organise and Conduct Competency Assessment",
+          "src": "cblm12"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Verifying corrective procedures is done only if requested by the client."
+    }
+  ],
+  "visual": {
+    "columns": [
+      "#",
+      "Key feature of a good internal review"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "1",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Relevant staff are made aware of and prepared for the review.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Relevant staff are made aware of and prepared for the review."
+        }
+      ],
+      [
+        "2",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Time and resources are made available before and during the review.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Time and resources are made available before and during the review."
+        }
+      ],
+      [
+        "3",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "The reviewer and the organisation have an agreed plan of action for the review process.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The reviewer and the organisation have an agreed plan of action for the review process."
+        }
+      ],
+      [
+        "4",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "The organisation provides the evidence in a user friendly format for the reviewer.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The organisation provides the evidence in a user friendly format for the reviewer."
+        }
+      ],
+      [
+        "5",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Reporting back at the end of the review is in positive terms.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Reporting back at the end of the review is in positive terms."
+        }
+      ],
+      [
+        "6",
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Strengths are commented on and suggestions made for areas of improvement.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Strengths are commented on and suggestions made for areas of improvement."
+        }
+      ]
+    ],
+    "title": "Hints for a good review process",
+    "title_bn": "ভালো review-এর বৈশিষ্ট্য"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

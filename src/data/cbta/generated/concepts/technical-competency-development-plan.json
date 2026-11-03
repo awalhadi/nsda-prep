@@ -2,7 +2,6 @@
   "aliases": [
     "Develop personal training plan for development of technical competency",
     "Technical competency development plan",
-    "TVET Teacher/Trainer Technical Competency Development Planner",
     "Who will authorize the technical competency enhancement plan?"
   ],
   "appearsIn": [
@@ -51,6 +50,59 @@
     "bn": "Plan লিখুন, principal-এর approval নিন, তারপর training-এ যান।",
     "en": "A welding instructor plans a course and an industry attachment. His principal approves the plan. He then joins the training."
   },
+  "extra": [
+    {
+      "bn": [
+        "Gap পেলেন → planner বানান → Principal/Supervisor-এর সাথে বসে plan বাস্তবসম্মত করুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 10,
+              "quote": "After identifying the skill and knowledge gaps the TVET\nteachers/trainers need to develop technical competency\ndevelopment planner.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 10,
+              "quote": "This planner will include all the detail\nabout the additional skills or competencies to be acquired.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "After finding gaps, the trainer develops a planner. It details the additional skills or competencies."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 10,
+              "quote": "a TVET teacher/trainer needs to consult his/her\ninstitutional Principal/Supervisor on some of issues listed\nbelow for the plan to be realistic and achievable.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Consult the institutional Principal/Supervisor so the plan is realistic and achievable."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p11-section-3",
+        "c07-p11-personal-training-plan"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "technical-competency-development-plan",
   "importance": {
@@ -160,7 +212,16 @@
         "fidelity": "verbatim",
         "text": "Own technical upskilling program is participated to achieve relevant competencies."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Competencies অর্জনে কী কী learning outcomes লাগবে, তা ঠিক করা।",
+      "Competency প্রমাণ করতে কী evidence লাগবে, তা আগে থেকে ঠিক করা।",
+      "প্রাসঙ্গিক ব্যক্তিদের (relevant personnel) সাথে পরামর্শ করে training strategy ঠিক করা — কোথায়, কতদিন, কত খরচে।",
+      "Training নেওয়ার জন্য কর্তৃপক্ষের approval নেওয়া।",
+      "Plan অনুযায়ী নিজের technical upskilling program-এ অংশ নিয়ে competencies অর্জন করা।"
+    ],
+    "title": "Steps in developing a personal plan for technical competency",
+    "titleBn": "কারিগরি দক্ষতা উন্নয়নের ব্যক্তিগত পরিকল্পনা তৈরির ধাপ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -454,6 +515,95 @@
       "text": "To prove competency, present one direct and two indirect evidences to the industry specialist."
     }
   ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 10,
+            "quote": "After identifying the skill and knowledge gaps the TVET teachers/trainers need to develop technical competency development planner.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "After identifying the gaps, develop the technical competency development planner."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 10,
+            "quote": "needs to consult his/her institutional Principal/Supervisor on some of issues listed below for the plan to be realistic and achievable.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Consult the Principal/Supervisor so the plan is realistic and achievable."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 16,
+            "quote": "need to get approval on the plan from the Principal and the higher authority to execute.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Get approval on the plan from the Principal and the higher authority."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 16,
+            "quote": "the teacher/trainer can now start the up-skilling training course or participate in the industry attachment program as described in the plan.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Start the up-skilling course or the industry attachment program."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 16,
+            "quote": "can either participate in Off-The-Job training or On-The-Job training program as per the plan.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Participate in Off-The-Job or On-The-Job training as per the plan."
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "Skill আর knowledge gaps পাওয়ার পর planner বানান।",
+      "Plan যেন realistic আর achievable হয়, তাই Principal/Supervisor-এর সাথে consult করুন।",
+      "Principal আর higher authority-র approval নিন।",
+      "Approval পেলে up-skilling course বা industry attachment শুরু করুন।",
+      "Plan অনুযায়ী Off-The-Job বা On-The-Job training-এ অংশ নিন।"
+    ],
+    "title": "From planner to participation (p.11, 17)",
+    "title_bn": "Planner থেকে training-এ অংশ নেওয়া পর্যন্ত"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

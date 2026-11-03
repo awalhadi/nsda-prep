@@ -72,6 +72,8 @@
     "bn": "চুপচাপ মেয়েটির ভালো কথাটা আলোচনার কেন্দ্রে আনুন, তাহলে সে আত্মবিশ্বাস পাবে।"
   },
   "list_answer": {
+    "title": "Strategies for gender inclusivity in the class",
+    "title_bn": "ক্লাসে gender inclusivity নিশ্চিত করার কৌশল",
     "items": [
       {
         "text": "Assume nothing about students' gender; treat them equally and respect their differences.",
@@ -139,6 +141,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Gender দেখে শিক্ষার্থী সম্পর্কে আগে থেকে কিছু ধরে নেবেন না; সবাইকে সমান চোখে দেখুন, তবে তাদের differences-কে সম্মান করুন।",
+      "বিশেষ করে শুরুর দিকে খেয়াল করুন ক্লাসে ছেলে-মেয়েরা কীভাবে আচরণ করছে, কে কথা বলছে আর কে চুপ — এটাই gender dynamics।",
+      "নানা রকম উৎসাহমূলক responses দিয়ে সবাইকে কথা বলার আমন্ত্রণ জানান, যাতে কেউ মুখ খুলতে ভয় না পায়।",
+      "যে নারীরা চুপচাপ (reticent), তাদের small groups বা supportive pairs-এ কাজ দিন, যাতে ছোট পরিসরে সহজে কথা বলতে পারে।",
+      "Culture বা training-এর কারণে যে নারীরা পিছিয়ে আছে, তাদের আলাদাভাবে উৎসাহ দিন যাতে তারাও সমানভাবে অংশ নেয়।"
     ]
   },
   "traps": [
@@ -170,6 +179,79 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Roles and forms of addressing gender issues (p.9)",
+    "title_bn": "Gender issues মোকাবিলার উপায়",
+    "columns": [
+      "Area",
+      "What to do"
+    ],
+    "rows": [
+      [
+        "Forms of address",
+        {
+          "text": "Avoid gendered forms of address. Say 'police officer', not 'policemen'.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 9,
+              "quote": "Avoid the gendered forms of address when discussing the various types"
+            },
+            {
+              "src": "cblm09",
+              "page": 9,
+              "quote": "referring to \"police officer\" instead of \"policemen\" is more inclusive."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Choice of examples",
+        {
+          "text": "Consider how your examples affect students' sense of inclusion. Sporting examples are often male-based.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 9,
+              "quote": "Consider how your choice of examples affects your students' sense"
+            },
+            {
+              "src": "cblm09",
+              "page": 9,
+              "quote": "Sporting examples are often based on male experiences"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Leadership and access",
+        {
+          "text": "Give women as well as men leadership roles. Insist women have equal access to classroom spaces or lab facilities.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 9,
+              "quote": "Make sure that you give women as well as men opportunities to take"
+            },
+            {
+              "src": "cblm09",
+              "page": 9,
+              "quote": "leadership roles or to assist you in class. Insist that women have equal"
+            },
+            {
+              "src": "cblm09",
+              "page": 9,
+              "quote": "access to classroom spaces or lab facilities."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Write the strategies to ensure gender inclusivity in the class.",

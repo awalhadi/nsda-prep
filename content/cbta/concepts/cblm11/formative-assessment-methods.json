@@ -57,6 +57,8 @@
     "bn": "পরের ক্লাসে trainer অস্পষ্ট বিষয়গুলো আবার বোঝান।"
   },
   "list_answer": {
+    "title": "Methods of formative assessment",
+    "title_bn": "Formative assessment-এর পদ্ধতি",
     "items": [
       {
         "text": "Written Test: short test items, usually after each topic.",
@@ -148,6 +150,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "প্রতিটি topic শেষে ছোট ছোট লিখিত প্রশ্ন দিয়ে দেখা হয় trainees কতটা বুঝেছে।",
+      "মুখে বা লিখে প্রশ্ন করা — closed প্রশ্নে নির্দিষ্ট উত্তর, open-ended প্রশ্নে বিস্তারিত উত্তর লাগে।",
+      "Trainees practice tasks করার সময় trainer দেখেন আর প্রশ্ন করেন, যাতে কাজ আর বোঝা দুটোই যাচাই হয়।",
+      "Trainees নিজের খাতায় লেখে আজ সবচেয়ে গুরুত্বপূর্ণ কী শিখল; এতে বোঝা যায় শেখা কোথায় দাঁড়িয়ে।",
+      "দলগত কাজের মূল্যায়ন — group-এর প্রত্যেক member-কে assessment form-এর একটা কপি দেওয়া হয়।"
     ]
   },
   "traps": [
@@ -179,6 +188,313 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Formative methods and what to do with the data (p.34-35)",
+    "title_bn": "Formative method আর data দিয়ে কী করবে",
+    "columns": [
+      "Method",
+      "Description",
+      "What to do with the data"
+    ],
+    "rows": [
+      [
+        "Written Test",
+        {
+          "text": "Short test items, usually after each topic, to verify learning of concepts.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "Short test items. usually after each"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "topic to verify learning of"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "concepts. mistake. Use this to review"
+            }
+          ]
+        },
+        {
+          "text": "Identify where trainees committed the most mistakes. Review and revise your learning materials.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "Identify where trainees"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "committed the most"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "mistake. Use this to review"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "your learning materials"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "You may need to revise"
+            }
+          ]
+        }
+      ],
+      [
+        "Questioning",
+        {
+          "text": "Oral or written. Closed questions need a specific response. Open-ended questions need a more detailed response.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "Either oral or written There are"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "and open-ended questions Closed"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "requires a specific response Open"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "ended questions when a more"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "detailed response is required"
+            }
+          ]
+        },
+        {
+          "text": "Get clues from their answers as a basis for coaching or mentoring.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "Get clues from their"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "answers as basis for"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "coaching or mentoring."
+            }
+          ]
+        }
+      ],
+      [
+        "Observation and Questioning",
+        {
+          "text": "Used when trainees perform practice tasks. Observe their movements, coach, and ask what and why questions.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "This is used when the trainees are"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "performing practice tasks."
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "Observe the movements of the"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "perform the task Coach and"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "what. and why questions to"
+            }
+          ]
+        },
+        {
+          "text": "Make a tally of trainees' weaknesses. Focus your demonstration on them. Review responses and note useful comments.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "Make a tally of the"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "weaknesses of the trainees"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "may focus your"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "demonstration on these"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "Review responses and"
+            },
+            {
+              "src": "cblm11",
+              "page": 34,
+              "quote": "note any useful comments."
+            }
+          ]
+        }
+      ],
+      [
+        "Learning Diary",
+        {
+          "text": "At the end of class, trainees write the most important and least clear points.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "During the last few minutes of the"
+            },
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "class period, ask trainees to"
+            },
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "is the most important point you"
+            },
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "remains least clear to you"
+            }
+          ]
+        },
+        {
+          "text": "During the next class periods, emphasize the issues trainees' comments raised.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "During the next class"
+            },
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "periods emphasize the"
+            },
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "issues illuminated by your"
+            },
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "trainees' comments"
+            }
+          ]
+        }
+      ],
+      [
+        "Group Work Assessment",
+        {
+          "text": "Each group member gets a copy of the group assessment form. This makes performance expectations visible.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "activity, each member of the group"
+            },
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "is provided a copy of the group"
+            },
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "assessment form. This will make"
+            },
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "performance expectations visible"
+            }
+          ]
+        },
+        {
+          "text": "Works best when trust is high, confidentiality assured, honesty respected and courtesy maintained.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "Assessment works best"
+            },
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "when trust is high,"
+            },
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "confidentiality is assured,"
+            },
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "honesty is respected. and"
+            },
+            {
+              "src": "cblm11",
+              "page": 35,
+              "quote": "courtesy is maintained"
+            }
+          ]
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Name the methods of formative assessment.",

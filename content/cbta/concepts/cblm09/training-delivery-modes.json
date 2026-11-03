@@ -63,6 +63,8 @@
     "bn": "একই কোর্সে দুটো mode মিলিয়েও ব্যবহার করা যায়।"
   },
   "list_answer": {
+    "title": "Training delivery modes",
+    "title_bn": "Training delivery-র mode বা ধরন",
     "items": [
       {
         "text": "Off the job: participants are grouped and attend regularly.",
@@ -132,6 +134,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Off the job — কর্মস্থলের বাইরে; participants group হয়ে নিয়মিত ক্লাসে আসে।",
+      "On the job — কর্মস্থলেই, কাজের জায়গায় training দেওয়া হয়।",
+      "On line — trainees email আর Internet ব্যবহার করে resources ও তথ্য পায়।"
     ]
   },
   "traps": [
@@ -178,6 +185,238 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Training delivery modes: advantages and limitations (p.35)",
+    "title_bn": "Delivery modes-এর সুবিধা ও সীমাবদ্ধতা",
+    "columns": [
+      "Mode",
+      "Advantages",
+      "Limitations"
+    ],
+    "rows": [
+      [
+        "Off the job (grouped, attend regularly)",
+        {
+          "text": "Interaction and social opportunities among participants. Adjustments can be made continually.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Provides interaction"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "and social"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "opportunities among"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "participants"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Adjustments can be made"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "continually."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Whole group needs to meet. Course delivery pace set by trainer. Structured time allocation.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Whole group needs to"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Usually course"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "delivery"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "pace set by trainer"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Structured time"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "allocation"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "On the job training at work place",
+        {
+          "text": "Interaction and problem solving opportunities. Peer support. Real workplace situations.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "and problem solving"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "opportunities"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Peer support"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Real workplace"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "situations"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Provides interaction"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Time and place dependent. May impinge workplace activities. Time allocation of peers and mentors.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Time and"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "dependent"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "May impinge"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "workplace"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "activities"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Time allocation of"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "peers and mentors"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "On line (email and the Internet)",
+        {
+          "text": "Trainees use email and the Internet to access resources. Encourages independent learning.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Trainees use email and"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "the Internet to access"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "resources and information"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Encourages independent"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "High degree of literacy required. Requires internet connection and troubleshooting technology issues.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "High degree of"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "literacy required"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "Requires internet"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "connection and"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "troubleshooting related to"
+            },
+            {
+              "src": "cblm09",
+              "page": 35,
+              "quote": "technology issues"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are the training delivery modes, and how do you choose one?",
@@ -343,8 +582,8 @@
   },
   "checks": [
     {
-      "path": "list_answer",
-      "note": "The p.35 delivery modes table is extracted cell by cell, so advantages and limitations cannot be tied to a mode with certainty. It also seems to mix in a mail-based mode ('Mail and return times may slow down process', 'No technical skills required') that conflicts with 'On line ... Requires internet connection'. Check the PDF table before adding advantages/limitations per mode."
+      "path": "visual",
+      "note": "The p.35 delivery modes table is extracted cell by cell. The visual groups advantages and limitations by their position in the layout text. Points that seem to belong to a mail/print mode ('Cheap to administer', 'Easy to transport', 'No technical skills required', 'Can stand alone', 'Mail and return times may slow down process', 'direction and motivation needed') are left out of the On line row. Check against the PDF."
     }
   ]
 }

@@ -42,6 +42,268 @@
     "bn": "ভালো রাখা workshop দেখে মানুষ প্রতিষ্ঠানকে বিশ্বাস করে।",
     "en": "A welding workshop keeps its machines in good condition. Trainees work safely, and classes start on time."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "General Objective: To maintain the optimum condition of physical facilities at",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "acceptable levels and minimum cost to satisfy the expected demands of TVET",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "programs and activities.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "General objective: maintain the optimum condition of physical facilities at acceptable levels and minimum cost. This satisfies the expected demands of TVET programs."
+      },
+      "kind": "qa",
+      "outline": [
+        "c06-p37-why-maintain"
+      ],
+      "q": "Why maintain equipment?",
+      "q_bn": "Equipment কেন maintain করবেন?",
+      "tip": "Self Check 2 Q3. Write the general objective, then the four specific objectives.",
+      "tip_bn": "আগে general objective, তারপর চারটি specific objective লিখুন।"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "To extend the useful life of physical facilities",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "To extend the useful life of physical facilities"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "To assure the operational readiness of installed equipment and maximum possible return on investments.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "To assure the operational readiness of installed equipment and maximum possible return on investments."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "To properly discard hazardous wastes",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "To properly discard hazardous wastes"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "To ensure the safety of personnel using the facilities, physical properties and",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "the environment",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "To ensure the safety of personnel using the facilities, physical properties and the environment."
+        }
+      ],
+      "items_bn": [
+        "Facilities-এর ব্যবহারযোগ্য আয়ু বাড়ানো।",
+        "বসানো equipment সবসময় চালু রাখা আর বিনিয়োগের সর্বোচ্চ ফেরত পাওয়া।",
+        "বিপজ্জনক বর্জ্য সঠিকভাবে ফেলা।",
+        "ব্যবহারকারী, সম্পদ আর পরিবেশের নিরাপত্তা নিশ্চিত করা।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c06-p37-why-maintain"
+      ],
+      "title": "Specific objectives of maintaining equipment and facilities",
+      "title_bn": "Maintenance-এর চারটি specific objective"
+    },
+    {
+      "bn": "Answer key-এ শুধু general objective; পুরো নম্বরের জন্য চারটি specific objective-ও লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Answer Key No: 2- Maintain training equipment and",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "To maintain the optimum condition of physical facilities at acceptable levels and",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "minimum cost",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Answer key Q3: maintain the optimum condition of physical facilities at minimum cost."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "Specific Objectives 1. To extend the useful life of physical facilities",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Specific Objectives"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c06-p40-self-check-2",
+        "c06-p41-answer-key-2"
+      ],
+      "text": "Self Check 2 Q3 answer key gives only the general objective. Page 37 also lists four specific objectives. Write both for full marks.",
+      "tone": "caution"
+    },
+    {
+      "bn": [
+        "ছয়টি লাভ card-এর তালিকায়; বড় হাতের শব্দগুলো মনে রাখুন: SAFE, MORALE, COST, PRODUCTION, LIFE।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Ensured SAFE environment",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Improved MORALE of human resources",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Reduced operational COST",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Increased PRODUCTION",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Prolonged LIFE facilities.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Prompt delivery of services and products.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Gains: safe environment, morale, lower cost, production, longer life, prompt delivery."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p38-gains"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "why-maintain-facilities",
   "importance": {
@@ -167,7 +429,17 @@
         "fidelity": "paraphrase",
         "text": "Prompt delivery of services and products."
       }
-    ]
+    ],
+    "itemsBn": [
+      "নিরাপদ (SAFE) পরিবেশ নিশ্চিত হয়, কারণ facilities ভালো অবস্থায় থাকে।",
+      "কর্মীদের মনোবল (MORALE) বাড়ে; গোছানো, সচল পরিবেশে কাজ করতে ভালো লাগে।",
+      "চালানোর খরচ (operational COST) কমে।",
+      "উৎপাদন (PRODUCTION) বাড়ে, কারণ যন্ত্র ঠিকমতো চলে।",
+      "Facilities-এর আয়ু (LIFE) বাড়ে, অনেক দিন ব্যবহার করা যায়।",
+      "সেবা আর পণ্য দ্রুত, সময়মতো (prompt) পৌঁছে দেওয়া যায়।"
+    ],
+    "title": "Gains from maintaining equipment and facilities",
+    "titleBn": "Equipment ও facilities রক্ষণাবেক্ষণের লাভ"
   },
   "mnemonic": {
     "explain_bn": "বড় হাতের শব্দগুলো মনে রাখুন: SAFE, MORALE, COST, PRODUCTION, LIFE, তারপর Prompt delivery।",
@@ -509,6 +781,7 @@
       "text": "Specific objective 3 is to properly discard hazardous wastes."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 1
 }

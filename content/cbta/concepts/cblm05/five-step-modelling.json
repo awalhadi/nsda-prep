@@ -53,11 +53,26 @@
     ]
   },
   "keywords": [
-    { "en": "Model of excellence", "bn": "যিনি কাজটা সবচেয়ে ভালো করেন, আদর্শ উদাহরণ" },
-    { "en": "Observe", "bn": "মনোযোগ দিয়ে দেখা" },
-    { "en": "Record", "bn": "video বা অন্য মাধ্যমে ধরে রাখা" },
-    { "en": "Practice", "bn": "বারবার অনুশীলন" },
-    { "en": "Transfer", "bn": "অন্যকে শিখিয়ে দেওয়া" }
+    {
+      "en": "Model of excellence",
+      "bn": "যিনি কাজটা সবচেয়ে ভালো করেন, আদর্শ উদাহরণ"
+    },
+    {
+      "en": "Observe",
+      "bn": "মনোযোগ দিয়ে দেখা"
+    },
+    {
+      "en": "Record",
+      "bn": "video বা অন্য মাধ্যমে ধরে রাখা"
+    },
+    {
+      "en": "Practice",
+      "bn": "বারবার অনুশীলন"
+    },
+    {
+      "en": "Transfer",
+      "bn": "অন্যকে শিখিয়ে দেওয়া"
+    }
   ],
   "bangla_explanation": [
     "Modelling-এর ৫টি ধাপ আছে, আর ক্রমটা মনে রাখা জরুরি।",
@@ -75,50 +90,180 @@
     "explain_bn": "বেছে নিন, দেখুন, অনুশীলন করুন, যাচাই করুন, শেখান।"
   },
   "list_answer": {
+    "title": "Steps of the modelling process",
+    "title_bn": "Modelling প্রক্রিয়ার ধাপসমূহ",
     "items": [
       {
         "text": "Select a model of excellence. Determine what outcomes you would like to achieve, by when.",
         "fidelity": "verbatim",
-        "cites": [{ "src": "cblm05", "page": 11, "quote": "Select a model of excellence. Determine what outcomes you would like to achieve, by when.", "passageId": "cblm05-p11-bc0020db" }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Select a model of excellence. Determine what outcomes you would like to achieve, by when.",
+            "passageId": "cblm05-p11-bc0020db"
+          }
+        ]
       },
       {
         "text": "Observe and ideally record the model via video or other medium.",
         "fidelity": "verbatim",
-        "cites": [{ "src": "cblm05", "page": 11, "quote": "Observe and ideally record the model via video or other medium." }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Observe and ideally record the model via video or other medium."
+          }
+        ]
       },
       {
         "text": "Practice the skill until the same set of responses is received.",
         "fidelity": "verbatim",
-        "cites": [{ "src": "cblm05", "page": 11, "quote": "Practice the skill until the same set of responses is received." }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Practice the skill until the same set of responses is received."
+          }
+        ]
       },
       {
         "text": "Using video or other medium, test your skill against the model.",
         "fidelity": "verbatim",
-        "cites": [{ "src": "cblm05", "page": 11, "quote": "Using video or other medium, test your skill against the model." }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Using video or other medium, test your skill against the model."
+          }
+        ]
       },
       {
         "text": "Teach (transfer) the skill to someone else.",
         "fidelity": "verbatim",
-        "cites": [{ "src": "cblm05", "page": 11, "quote": "Teach (transfer) the skill to someone else." }]
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Teach (transfer) the skill to someone else."
+          }
+        ]
       }
+    ],
+    "items_bn": [
+      "বাছাই — যিনি কাজটা সবচেয়ে ভালো করেন সেই model of excellence বেছে নিন, আর কবের মধ্যে কী outcomes চান তা ঠিক করুন।",
+      "পর্যবেক্ষণ — model-কে মনোযোগ দিয়ে observe করুন, সম্ভব হলে video-তে record করে রাখুন যাতে বারবার দেখা যায়।",
+      "অনুশীলন — model-এর মতো একই ফল না আসা পর্যন্ত skill-টা বারবার practice করুন।",
+      "যাচাই — video বা অন্য মাধ্যমে নিজের skill-কে model-এর সাথে মিলিয়ে দেখুন কতটা কাছাকাছি হলো।",
+      "শেখানো — শেখা skill-টা অন্য কাউকে teach করুন, মানে নিজের কাছ থেকে অন্যের কাছে transfer করা।"
     ],
     "declaredCount": {
       "n": 5,
-      "cite": { "src": "cblm05", "page": 11, "quote": "Five Step process of modeling" }
+      "cite": {
+        "src": "cblm05",
+        "page": 11,
+        "quote": "Five Step process of modeling"
+      }
     }
   },
   "traps": [
     {
       "text": "The last step is to teach (transfer) the skill to someone else.",
       "fidelity": "paraphrase",
-      "cites": [{ "src": "cblm05", "page": 11, "quote": "Teach (transfer) the skill to someone else." }]
+      "cites": [
+        {
+          "src": "cblm05",
+          "page": 11,
+          "quote": "Teach (transfer) the skill to someone else."
+        }
+      ]
     },
     {
       "text": "Select a model, and also determine what outcomes you would like to achieve, by when.",
       "fidelity": "paraphrase",
-      "cites": [{ "src": "cblm05", "page": 11, "quote": "Select a model of excellence. Determine what outcomes you would like to achieve, by when." }]
+      "cites": [
+        {
+          "src": "cblm05",
+          "page": 11,
+          "quote": "Select a model of excellence. Determine what outcomes you would like to achieve, by when."
+        }
+      ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "Five Step process of modeling (p.11)",
+    "title_bn": "Modelling-এর পাঁচটি ধাপ",
+    "items": [
+      {
+        "text": "Select a model of excellence and the outcomes you want, by when.",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Select a model of excellence. Determine what outcomes you would like to"
+          },
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "achieve, by when."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Observe and ideally record the model.",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Observe and ideally record the model via video or other medium."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Practice the skill until the same responses are received.",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Practice the skill until the same set of responses is received."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Test your skill against the model, using video.",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Using video or other medium, test your skill against the model."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Teach (transfer) the skill to someone else.",
+        "cites": [
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Teach (transfer) the skill to someone else."
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "labels_bn": [
+      "Select — একজন model of excellence বাছুন, আর ঠিক করুন কী outcome চান, কবের মধ্যে।",
+      "Observe — model-কে খেয়াল করে দেখুন, সম্ভব হলে video করে রাখুন।",
+      "Practice — একই রকম responses না পাওয়া পর্যন্ত বারবার অনুশীলন করুন।",
+      "Test — video দিয়ে নিজের skill-কে model-এর সাথে মিলিয়ে দেখুন।",
+      "Teach — শেখা skill অন্য কাউকে শিখিয়ে দিন (transfer)।"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are the steps of modelling?",
@@ -127,17 +272,35 @@
         {
           "text": "Practice over and over, using different scenarios.",
           "fidelity": "paraphrase",
-          "cites": [{ "src": "cblm05", "page": 11, "quote": "Then, you could practice this yourself, over and over, using different scenarios." }]
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 11,
+              "quote": "Then, you could practice this yourself, over and over, using different scenarios."
+            }
+          ]
         },
         {
           "text": "Videoing yourself is useful, or someone whose opinion you value can evaluate you.",
           "fidelity": "paraphrase",
-          "cites": [{ "src": "cblm05", "page": 11, "quote": "Videoing yourself would be useful, or having someone whose opinion you value evaluate you." }]
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 11,
+              "quote": "Videoing yourself would be useful, or having someone whose opinion you value evaluate you."
+            }
+          ]
         },
         {
           "text": "Once you are confident, pass your new skill onto someone else.",
           "fidelity": "paraphrase",
-          "cites": [{ "src": "cblm05", "page": 11, "quote": "Once you are confident, you could pass your new skill onto someone else." }]
+          "cites": [
+            {
+              "src": "cblm05",
+              "page": 11,
+              "quote": "Once you are confident, you could pass your new skill onto someone else."
+            }
+          ]
         }
       ]
     },
@@ -162,27 +325,47 @@
         {
           "left": "Select",
           "right": "A model of excellence",
-          "cite": { "src": "cblm05", "page": 11, "quote": "Select a model of excellence." }
+          "cite": {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Select a model of excellence."
+          }
         },
         {
           "left": "Observe",
           "right": "Ideally record the model via video",
-          "cite": { "src": "cblm05", "page": 11, "quote": "Observe and ideally record the model via video or other medium." }
+          "cite": {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Observe and ideally record the model via video or other medium."
+          }
         },
         {
           "left": "Practice",
           "right": "Until the same set of responses is received",
-          "cite": { "src": "cblm05", "page": 11, "quote": "Practice the skill until the same set of responses is received." }
+          "cite": {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Practice the skill until the same set of responses is received."
+          }
         },
         {
           "left": "Test",
           "right": "Your skill against the model",
-          "cite": { "src": "cblm05", "page": 11, "quote": "Using video or other medium, test your skill against the model." }
+          "cite": {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Using video or other medium, test your skill against the model."
+          }
         },
         {
           "left": "Teach",
           "right": "Transfer the skill to someone else",
-          "cite": { "src": "cblm05", "page": 11, "quote": "Teach (transfer) the skill to someone else." }
+          "cite": {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Teach (transfer) the skill to someone else."
+          }
         }
       ]
     },
@@ -192,8 +375,16 @@
         "text": "So you can later test your skill against the model, using the video.",
         "fidelity": "paraphrase",
         "cites": [
-          { "src": "cblm05", "page": 11, "quote": "Observe and ideally record the model via video or other medium." },
-          { "src": "cblm05", "page": 11, "quote": "Using video or other medium, test your skill against the model." }
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Observe and ideally record the model via video or other medium."
+          },
+          {
+            "src": "cblm05",
+            "page": 11,
+            "quote": "Using video or other medium, test your skill against the model."
+          }
         ]
       }
     }

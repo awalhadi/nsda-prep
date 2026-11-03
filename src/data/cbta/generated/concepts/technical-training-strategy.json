@@ -25,7 +25,7 @@
     }
   ],
   "banglaExplanation": [
-    "Gap পূরণের দুটো পথ: training course-এ ভর্তি হওয়া, অথবা industrial attachment করা।",
+    "ঘাটতি পূরণের দুটো পথ: training course-এ ভর্তি হওয়া, অথবা industrial attachment করা।",
     "Industry-তে এখন চলা new technology শিখতে চাইলে industrial attachment বেশি relevant।",
     "শুধু skills improvement দরকার হলে training course-ই যথেষ্ট।",
     "Strategy ঠিক করার পর location, duration আর cost ঠিক করতে হয়; local industries আগে।",
@@ -42,6 +42,187 @@
     "bn": "নতুন technology শিখতে local factory-তে industrial attachment সবচেয়ে ভালো।",
     "en": "A leather machine trainer needs a new stitching technology. He chooses a three-month attachment at a local leather factory."
   },
+  "extra": [
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "One can either get admitted to some training\ncourses",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Get admitted to some training courses."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "for the case of skills improvement one can\nattend training program/courses.",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "For skills improvement, attend training program/courses."
+          }
+        ],
+        "title": "Training course/program",
+        "title_bn": "দক্ষতা আরও ভালো করতে"
+      },
+      "outline": [
+        "c07-p13-training-strategy"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "or arrange industrial attachment program.",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Arrange an industrial attachment program."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 7,
+                "match": "exact",
+                "page": 13,
+                "printedPage": 12,
+                "quote": "If the TVET teacher/trainer needs\nto learn new technology currently practising in the industry then industrial\nattachment is more relevant",
+                "sourceTitle": "Maintain and Enhance Technical Competency",
+                "src": "cblm07"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "To learn new technology practised in industry, attachment is more relevant."
+          }
+        ],
+        "title": "Industrial attachment",
+        "title_bn": "নতুন technology শিখতে"
+      },
+      "title": "Training course vs industrial attachment (p.13)",
+      "title_bn": "কখন course, কখন industrial attachment"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 12,
+              "quote": "it is vital to decide upon the suitable location for\nthe training program or industrial attachment.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "industries should get initial preference to start with",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Location: decide a suitable location. Local industries get initial preference."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "Duration/Timeframe:",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "1. Short-term Program\n2. Long-term Program",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Duration/Timeframe: short-term or long-term program."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "Cost: Depending upon all the issues decided above now it is important to\nfinalize the cost",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "collect quotations for different institutes and\nconsult the supervisor.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "decide\nwho will bear the cost",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Cost: collect quotations, consult the supervisor, decide who bears the cost."
+        }
+      ],
+      "items_bn": [
+        "Location — কাছের জায়গা আগে; local industries প্রথম পছন্দ।",
+        "Duration — training কত দিনের: short-term না long-term; নিয়মিত ক্লাসও সামলাতে হবে।",
+        "Cost — কয়েক জায়গার quotation নিয়ে supervisor-এর সাথে আলোচনা; খরচ কে দেবেন তাও ঠিক করুন।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c07-p13-location",
+        "c07-p14-duration",
+        "c07-p14-cost"
+      ],
+      "title": "Issues to decide after choosing the strategy",
+      "title_bn": "Strategy বাছাইয়ের পর যা ঠিক করবেন"
+    }
+  ],
   "highlighted": true,
   "id": "technical-training-strategy",
   "importance": {
@@ -124,7 +305,13 @@
         "fidelity": "paraphrase",
         "text": "Industrial attachment: more relevant to learn new technology practised in industry."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Training course/program — শুধু দক্ষতা বাড়ানো (skills improvement) দরকার হলে কোনো training course-এ অংশ নেওয়া।",
+      "Industrial attachment — industry-তে এখন চালু new technology শিখতে চাইলে এটাই বেশি relevant।"
+    ],
+    "title": "Strategies for technical competency enhancement",
+    "titleBn": "কারিগরি দক্ষতা বাড়ানোর strategy"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -443,6 +630,170 @@
       "text": "Cost: collect quotations and consult the supervisor. Cost may be institutional or personal."
     }
   ],
+  "visual": {
+    "columns": [
+      "Issue",
+      "What CBLM 7 says"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Location",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 12,
+              "quote": "One should first look for the technical competency development facilities in the close location.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "industries should get initial preference to start with",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Look for facilities in the close location first. Local industries get initial preference."
+        }
+      ],
+      [
+        "Why local first",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "a TVET teacher/trainer first need to learn the technology used in local industries and spread those skills and knowledge among the students to meet the demand of those industries.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Learn the technology used in local industries. Spread it among students to meet their demand."
+        }
+      ],
+      [
+        "Duration / Timeframe",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "There can be mainly two types of training program based on timeframe.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "1. Short-term Program 2. Long-term Program",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Two types of program by timeframe: short-term and long-term."
+        }
+      ],
+      [
+        "Regular sessions",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "A TVET Teacher/Trainer also need to consider how s/he will manage the regular sessions and continue the training or industrial attachment simultaneously.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Plan how to manage regular sessions and the training simultaneously."
+        }
+      ],
+      [
+        "Cost",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "It is required for the trainer to collect quotations for different institutes and consult the supervisor.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Collect quotations from different institutes and consult the supervisor."
+        }
+      ],
+      [
+        "Best offer",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "Based on the best offer given to them they can later initiate the training or industrial attachment.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Initiate the training or attachment based on the best offer."
+        }
+      ],
+      [
+        "Who bears the cost",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "It is also important to decide who will bear the cost of the technical competency enhancement.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 13,
+              "quote": "It can be either institutional or personal effort",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Decide who will bear the cost: institutional or personal effort."
+        }
+      ]
+    ],
+    "title": "Deciding location, duration and cost (p.13-14)",
+    "title_bn": "Location, duration আর cost কীভাবে ঠিক করবেন"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

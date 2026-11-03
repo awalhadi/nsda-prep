@@ -36,6 +36,99 @@
     "bn": "Wiring-এর assessment plan করার আগে unit-এর evidence guide পড়তে হয়।",
     "en": "A trainer plans an electrical wiring assessment. First, she reads the evidence guide of the unit."
   },
+  "extra": [
+    {
+      "bn": [
+        "Competency চোখে দেখা যায় না; কাজ দেখে অনুমান করতে হয়। তাই যথেষ্ট ও মানসম্মত evidence লাগে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Competency cannot be observed directly. It can only be inferred from performance.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Competency cannot be observed directly. It can only be inferred from performance."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "gather evidence of sufficient quantity and quality to make sound judgements about an individual's competence",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Gather evidence of sufficient quantity and quality for sound judgements."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Such judgements cannot be absolute.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Such judgements cannot be absolute."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p20-analysing-standards"
+      ]
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "Evidence guide",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 20,
+            "printedPage": 20,
+            "quote": "Evidence guides",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The evidence guide."
+      },
+      "concept": "analysing-standards-for-evidence",
+      "kind": "qa",
+      "outline": [
+        "c11-p20-key-factors"
+      ],
+      "q": "Which section of a competency standard should you consult for assessment guidelines?",
+      "q_bn": "Assessment guideline পেতে competency standard-এর কোন অংশ দেখবে?",
+      "tip": "Assessment guidance lives in the Evidence Guide.",
+      "tip_bn": "Assessment-এর নির্দেশনা = Evidence Guide।"
+    }
+  ],
   "highlighted": true,
   "id": "analysing-standards-for-evidence",
   "importance": {
@@ -176,7 +269,18 @@
         "fidelity": "verbatim",
         "text": "Evidence guides"
       }
-    ]
+    ],
+    "itemsBn": [
+      "NTVQ level descriptors বলে দেয় কোন level-এ কতটা দক্ষতা আশা করা হয়, তাই evidence সেই level-এর মাপে ঠিক করতে হয়।",
+      "কাজে কতটা ভাষা, পড়া-লেখা আর হিসাবের দক্ষতা লাগে তা দেখা, যাতে evidence সেই level-এর সাথে মেলে।",
+      "কাজটা করতে যে জ্ঞান আর দক্ষতা অবশ্যই লাগে — এগুলোই benchmarks, তাই এদের evidence চাই।",
+      "শুধু একটা কাজ নয়, competency-র সব dimensions দেখতে হয়, তাই evidence-ও সব দিক থেকে নিতে হয়।",
+      "কাজটা কোন মানে করতে হবে তা performance criteria বলে দেয়; evidence এর সাথেই মেলানো হয়।",
+      "কোন কোন পরিস্থিতিতে কাজটা হতে পারে তা range statements-এ থাকে, তাই evidence সেই পরিস্থিতিগুলো ধরে নিতে হয়।",
+      "Evidence guide সরাসরি বলে দেয় কী evidence লাগবে, তাই evidence ঠিক করতে এটা অবশ্যই দেখতে হয়।"
+    ],
+    "title": "Key factors to analyse in competency standards to determine evidence",
+    "titleBn": "Evidence ঠিক করতে competency standards-এর যেসব factor analyse করতে হয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -440,6 +544,7 @@
       "text": "Competency cannot be observed directly. It can only be inferred from performance."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

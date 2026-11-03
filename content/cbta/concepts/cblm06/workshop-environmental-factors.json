@@ -63,6 +63,8 @@
     "bn": "AC না থাকলে জানালা-দরজা খুলে ঠান্ডা বাতাস ঢোকানো।"
   },
   "list_answer": {
+    "title": "Main steps for good lighting in a workshop",
+    "title_bn": "Workshop-এ ভালো আলোর ব্যবস্থার প্রধান ধাপ",
     "items": [
       {
         "text": "Design the workshop to avoid lighting problems.",
@@ -98,6 +100,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "নকশা — শুরুতেই workshop এমনভাবে design করা, যাতে আলোর সমস্যা না হয়।",
+      "সমস্যা খোঁজা — workshop-এ আলোর কী সমস্যা আছে, তা চিহ্নিত করে মূল্যায়ন করা।",
+      "সমাধান — পাওয়া আলোর সমস্যাগুলোর সমাধান বের করা।"
     ]
   },
   "traps": [
@@ -160,6 +167,99 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Three elements of the workshop environment (p.22-23)",
+    "title_bn": "Workshop পরিবেশের তিন উপাদান",
+    "columns": [
+      "Element",
+      "What CBLM 6 says"
+    ],
+    "rows": [
+      [
+        "Temperature",
+        {
+          "text": "Protect trainees from thermal stress. At least 15 degrees Celsius where manual work is done.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 22,
+              "quote": "temperature range to protect trainees from thermal stress"
+            },
+            {
+              "src": "cblm06",
+              "page": 22,
+              "quote": "A temperature of at least 15 degrees Celsius is recommended where manual work is"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Ventilation",
+        {
+          "text": "Ventilation and mechanical cooling counteract excessive heat. Without air conditioning, use windows, insulation and awnings.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 22,
+              "quote": "Ventilation and mechanical cooling systems should be arranged to counteract excessive heat"
+            },
+            {
+              "src": "cblm06",
+              "page": 23,
+              "quote": "If a capacity does not exist to control the temperature and ventilation by air conditioning"
+            },
+            {
+              "src": "cblm06",
+              "page": 23,
+              "quote": "ensure enough windows and doors are fitted"
+            },
+            {
+              "src": "cblm06",
+              "page": 23,
+              "quote": "insulate ceilings/roof where appropriate"
+            },
+            {
+              "src": "cblm06",
+              "page": 23,
+              "quote": "use external awnings to protect window"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Lighting",
+        {
+          "text": "Sufficient to work safely and without eyestrain. Task lights improve intensity where light is insufficient.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 23,
+              "quote": "Lighting where people work should be sufficient to allow the work to be performed"
+            },
+            {
+              "src": "cblm06",
+              "page": 23,
+              "quote": "safely and without eyestrain"
+            },
+            {
+              "src": "cblm06",
+              "page": 23,
+              "quote": "Individual or task lights improve the intensity of light in"
+            },
+            {
+              "src": "cblm06",
+              "page": 23,
+              "quote": "areas where natural or general artificial lighting is insufficient."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are the three main steps for good lighting in a workshop?",

@@ -8,7 +8,6 @@
   "cblmPrimary": 9,
   "source_type": "cblm",
   "covers": [
-    "cblm09-p29-75988f5a",
     "cblm09-p30-6c0ac76c",
     "cblm09-p30-d5a0e598",
     "cblm09-p30-46a83636",
@@ -56,7 +55,7 @@
   "bangla_explanation": [
     "Delivery plan হলো পুরো unit বা qualification কীভাবে দেওয়া হবে তার বড় ছবি।",
     "এখানে থাকে nominal hours, কয়টি session, প্রতিটির duration, elements আর performance criteria।",
-    "Training mode off the job, on the job নাকি দুটো মিলিয়ে, সেটাও লেখা থাকে।",
+    "Training mode কর্মস্থলের বাইরে, কর্মস্থলে নাকি দুটো মিলিয়ে — সেটাও লেখা থাকে।",
     "এটা adult learning principles মেনে বানাতে হয়, যাতে facilitation focused থাকে।"
   ],
   "example": {
@@ -64,6 +63,8 @@
     "bn": "Biscuit dough unit-কে session-এ ভাগ করে প্রতিটির elements আর resources লিখে রাখা হয়।"
   },
   "list_answer": {
+    "title": "Contents of a program delivery plan",
+    "title_bn": "Program delivery plan-এ যা যা থাকে",
     "items": [
       {
         "text": "Nominal hours",
@@ -197,6 +198,20 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Nominal hours — পুরো unit বা program-এর জন্য নির্ধারিত মোট সময়।",
+      "No. of Session — পুরো program কয়টি session-এ ভাগ করে দেওয়া হবে।",
+      "Duration of each session — প্রতিটি session কতক্ষণ চলবে।",
+      "Individual or group objectives — প্রত্যেক learner বা পুরো group training শেষে কী অর্জন করবে।",
+      "Formative assessment opportunities — শেখার মাঝপথে কোথায় কোথায় যাচাই করার সুযোগ থাকবে।",
+      "Location of training — training কোথায় অনুষ্ঠিত হবে।",
+      "Number of learners — কতজন learners অংশ নেবে।",
+      "Elements covered — unit-এর কোন কোন elements এই plan-এ শেখানো হবে।",
+      "Performance criteria covered — কোন কোন performance criteria এই plan-এ শেখানো হবে।",
+      "Delivery mode — training কোন mode-এ আর কোন কৌশলে দেওয়া হবে।",
+      "Equipment and resources — whiteboard, overhead projector, handouts-এর মতো কী কী উপকরণ লাগবে।",
+      "Learners-দের special needs মেটাতে বাড়তি কোনো ব্যবস্থা লাগলে, তাও plan-এ লিখে রাখতে হবে।"
     ]
   },
   "traps": [

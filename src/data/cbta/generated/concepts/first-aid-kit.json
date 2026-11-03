@@ -32,6 +32,140 @@
     "bn": "দেয়ালে ঝোলানো, বড় cross দেওয়া, তালা ছাড়া বাক্স: এটাই first aid kit।",
     "en": "In a motor mechanic workshop, the first aid kit hangs on the wall. It has a large cross."
   },
+  "extra": [
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "The contents of the kit should be a solid, sturdy dust-proof container which is",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "large enough to adequately house the contents.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A solid, sturdy dust-proof container, large enough to house the contents."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "It should be capable of being fixed to a wall or another location and it should",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "not be locked.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It can be fixed to a wall or another location. It should not be locked."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "It is usually identified by a large cross.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "It is usually identified by a large cross."
+        }
+      ],
+      "items_bn": [
+        "মজবুত, ধুলা ঢোকে না এমন বাক্স, যাতে সব জিনিস ধরে।",
+        "দেয়ালে লাগানো যায়, কিন্তু তালা দেওয়া যাবে না — জরুরি সময় সাথে সাথে খুলতে হবে।",
+        "সাধারণত বড় একটা cross চিহ্ন দিয়ে চেনা যায়।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c06-p9-first-aid-kit-container"
+      ],
+      "title": "Requirements of a basic first aid kit container",
+      "title_bn": "First aid kit-এর বাক্স কেমন হবে"
+    },
+    {
+      "bn": [
+        "ভেতরের ১২টি জিনিস card-এর তালিকায় আছে; প্রথমটি first aid notes, শেষটি eye baths।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "Contents of the kit should include:",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "basic first aid notes",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "eye baths",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The kit should include 12 items, from basic first aid notes to eye baths."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p9-first-aid-kit-contents"
+      ]
+    },
+    {
+      "bn": "Specification 1-এর checklist-এও kit দেখা হয়: হাতের কাছে, চিহ্নিত, ভরা আর মেয়াদ আছে।",
+      "kind": "note",
+      "outline": [
+        "c06-p9-first-aid-kit-contents"
+      ],
+      "text": "Specification 1 checks the kit too: kept and marked in an accessible area, stocked and in-date.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "first-aid-kit",
   "importance": {
@@ -247,7 +381,23 @@
         "fidelity": "paraphrase",
         "text": "Eye baths."
       }
-    ]
+    ],
+    "itemsBn": [
+      "প্রাথমিক চিকিৎসার নির্দেশিকা notes — বিপদের সময় কী করতে হবে তা দেখে নেওয়া যায়।",
+      "আলাদা প্যাকেটে মোড়া জীবাণুমুক্ত আঠালো পট্টি; খোলার আগ পর্যন্ত sterile থাকে।",
+      "Sterile eye pads — চোখে আঘাত লাগলে ঢেকে রাখার জীবাণুমুক্ত প্যাড।",
+      "গুরুতর ক্ষত ঢাকার জন্য জীবাণুমুক্ত আবরণ (sterile coverings)।",
+      "Triangular bandages — তিনকোনা কাপড়ের ব্যান্ডেজ, আঘাতের জায়গা বাঁধতে কাজে লাগে।",
+      "Safety pins — ব্যান্ডেজ আটকে রাখার পিন।",
+      "ওষুধ ছাড়া জীবাণুমুক্ত ক্ষতের dressings — ছোট, মাঝারি ও বড়, ক্ষতের মাপ অনুযায়ী।",
+      "Adhesive tape — dressings বা ব্যান্ডেজ জায়গামতো আটকে রাখার আঠালো টেপ।",
+      "Rubber thread বা crepe bandages — টানলে বাড়ে এমন ব্যান্ডেজ, তাই শক্ত করে পেঁচানো যায়।",
+      "Scissors — ব্যান্ডেজ বা টেপ কাটার কাঁচি।",
+      "Disposable gloves — একবার ব্যবহারের গ্লাভস, যাতে ক্ষতের রক্ত সরাসরি হাতে না লাগে।",
+      "Eye baths — চোখ ধোয়ার ছোট পাত্র।"
+    ],
+    "title": "Contents of a basic first aid kit",
+    "titleBn": "প্রাথমিক চিকিৎসার বাক্সে (first aid kit) যা থাকে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -523,6 +673,7 @@
       "text": "First aid kits are stocked in consultation with appropriate authorities."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 1
 }

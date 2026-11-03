@@ -4,7 +4,8 @@ import { notFound } from "next/navigation";
 import { ArrowLeft } from "lucide-react";
 import ConceptCard from "@/components/cbta/ConceptCard";
 import CardActions from "@/components/cbta/CardActions";
-import { CONCEPT_INDEX, getConcept, getIndexEntry } from "@/data/cbta/loader";
+import TopicNav from "@/components/cbta/TopicNav";
+import { CONCEPT_INDEX, getConcept, getIndexEntry, topicPlace } from "@/data/cbta/loader";
 
 export const dynamicParams = false;
 
@@ -22,13 +23,15 @@ export default async function ConceptPage({ params }: { params: Promise<{ id: st
   const { id } = await params;
   const c = getConcept(id);
   if (!c) notFound();
+  const place = topicPlace(c.cblmPrimary, (t) => t.concept === c.id);
   return (
     <main className="mx-auto max-w-3xl space-y-3 px-4 pb-20 pt-4 sm:px-6">
       <Link href={`/cbta/cblm/${c.cblmPrimary}`} className="inline-flex min-h-11 items-center gap-1.5 text-sm font-semibold text-ink-3 hover:text-brand">
-        <ArrowLeft size={15} aria-hidden /> CBLM {c.cblmPrimary}
+        <ArrowLeft size={15} aria-hidden /> All topics of CBLM {c.cblmPrimary}
       </Link>
-      <ConceptCard c={c} />
-      <div className="flex justify-center pt-2"><CardActions conceptId={c.id} /></div>
+      <ConceptCard c={c} place={place} />
+      <div className="flex justify-center pt-1"><CardActions conceptId={c.id} /></div>
+      {place && <TopicNav cblm={c.cblmPrimary} prev={place.prev} next={place.next} />}
     </main>
   );
 }

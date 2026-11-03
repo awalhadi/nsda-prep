@@ -58,6 +58,8 @@
     "bn": "মেশিন safety বোঝানোর পরে একজন learner-কে নিজের ভাষায় বলতে বলা হয়।"
   },
   "list_answer": {
+    "title": "Areas on which to confirm learners' understanding",
+    "title_bn": "যেসব বিষয়ে learners-এর understanding নিশ্চিত করতে হয়",
     "items": [
       {
         "text": "Outcomes and content.",
@@ -114,6 +116,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "শেখার outcomes কী আর কোন content শেখানো হবে, learners তা আপনার মতোই বুঝেছে কিনা দেখুন।",
+      "শেখা কোন ক্রমে (sequence) আর কোন কাঠামোয় (structure) এগোবে, তা learners জানে কিনা নিশ্চিত করুন।",
+      "দরকার হলে কোথা থেকে কী সহায়তা পাবে (support mechanisms), তা learners বুঝেছে কিনা দেখুন।",
+      "কখন ও কীভাবে feedback দেওয়া-নেওয়ার সুযোগ থাকবে, তা পরিষ্কার করুন।",
+      "Assessment tasks কী হবে আর কোন assessment criteria-তে বিচার হবে, তা learners বুঝেছে কিনা নিশ্চিত করুন।"
     ]
   },
   "traps": [
@@ -150,6 +159,104 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Two ways to verify your planning: research and communicate",
+    "title_bn": "Planning যাচাইয়ের দুই উপায়",
+    "left": {
+      "title": "Research",
+      "title_bn": "Research: খোঁজখবর",
+      "points": [
+        {
+          "text": "Contact your supervisor or colleagues and check you are on track.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 29,
+              "quote": "contact your supervisor or colleagues and check that you are on track"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Scan available resource material for similar planning.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 29,
+              "quote": "scan any available resource material and see if you have planned along similar"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Analyse pre-session information, such as the enrolment form, for learner needs.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 29,
+              "quote": "analyse any pre-session information that may be available (enrolment form, pre-"
+            },
+            {
+              "src": "cblm10",
+              "page": 29,
+              "quote": "for information on learner needs."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Communicate",
+      "title_bn": "Communicate: learners-এর সাথে কথা",
+      "points": [
+        {
+          "text": "Observe learners; give a task or quiz to check existing skills and knowledge.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 29,
+              "quote": "You can observe your learners and maybe give them a task or quiz to check for"
+            },
+            {
+              "src": "cblm10",
+              "page": 30,
+              "quote": "an indication of -their existing skills and/or knowledge"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Ask learners questions that show their needs.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 30,
+              "quote": "Ask the learners questions that will indicate to you their needs"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Get learners to write something, to screen for LLN and other needs.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 30,
+              "quote": "get the learners to write something so you can scan for any"
+            },
+            {
+              "src": "cblm10",
+              "page": 30,
+              "quote": "screening for LLN and other learner needs."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "How do you determine learners' understanding?",

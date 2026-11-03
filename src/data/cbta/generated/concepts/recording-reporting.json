@@ -9,6 +9,10 @@
       "cblm": 12,
       "pages": [
         {
+          "pdf": 4,
+          "printed": 4
+        },
+        {
           "pdf": 26,
           "printed": 26
         },
@@ -37,6 +41,716 @@
     "bn": "হাসপাতালের ট্রেনিং সেন্টারে assessor অনুমোদিত ফর্মে ফলাফল লিখে সই করেন।",
     "en": "A nursing candidate finishes her assessment. The assessor records the results in the approved format. Then he signs the record."
   },
+  "extra": [
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 26,
+                "printedPage": 26,
+                "quote": "Assessment recording is the process of documenting assessment results.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Assessment recording is the process of documenting assessment results."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 26,
+                "printedPage": 26,
+                "quote": "Recording must be planned and integrated with the assessment process.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Recording must be planned and integrated with the assessment process."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 26,
+                "printedPage": 26,
+                "quote": "The assessment record should track the whole assessment process.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "The assessment record should track the whole assessment process."
+          }
+        ],
+        "title": "Recording",
+        "title_bn": "ফলাফল লিখে রাখা"
+      },
+      "outline": [
+        "c12-p26-recording-reporting"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 26,
+                "printedPage": 26,
+                "quote": "Assessment reporting involves conveying information on the assessment outcome",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              },
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 26,
+                "printedPage": 26,
+                "quote": "to appropriate personnel",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Reporting conveys information on the assessment outcome to appropriate personnel."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 26,
+                "printedPage": 26,
+                "quote": "school administrators, assessment centre managers and employers",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Examples: school administrators, assessment centre managers and employers."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 4,
+                "printedPage": 4,
+                "quote": "Assessment decision is informed to the relevant parties where required, according",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              },
+              {
+                "cblm": 12,
+                "match": "exact",
+                "page": 4,
+                "printedPage": 4,
+                "quote": "to confidentiality conventions.",
+                "sourceTitle": "Organise and Conduct Competency Assessment",
+                "src": "cblm12"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "The decision is informed to relevant parties, according to confidentiality conventions."
+          }
+        ],
+        "title": "Reporting",
+        "title_bn": "ফলাফল সঠিক লোককে জানানো"
+      },
+      "title": "Recording vs reporting (p.26)",
+      "title_bn": "Recording বনাম reporting"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "Records must be kept for clear documentation to assist assessors to maintain",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "transparent and fair decision-making processes.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "The documents provide all",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          },
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 26,
+            "printedPage": 26,
+            "quote": "information relevant to decisions made.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Records keep decision-making transparent and fair. They provide all information relevant to decisions made."
+      },
+      "concept": "recording-reporting",
+      "kind": "qa",
+      "outline": [
+        "c12-p26-importance"
+      ],
+      "q": "Why is assessment recording and reporting important?",
+      "q_bn": "Recording ও reporting কেন গুরুত্বপূর্ণ?"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Provide proof of the candidate's competence that can be used as evidence in",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "training, future assessment or job promotion.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Provide proof of competence for training, future assessment or job promotion."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Provide supporting documents for the issuance of the certificate of competence",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Provide supporting documents for the issuance of the certificate of competence"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Serve as basis for credit transfer arrangements or recognition of prior learning",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Serve as basis for credit transfer arrangements or recognition of prior learning"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Provide a basis for feedback",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Provide a basis for feedback"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Provide information for further enhancement of the assessment process",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Provide information for further enhancement of the assessment process"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Provide proof that the assessment activity actually took place.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Provide proof that the assessment activity actually took place."
+        }
+      ],
+      "items_bn": [
+        "Training, ভবিষ্যৎ assessment বা job promotion-এর জন্য competence-এর প্রমাণ দেয়।",
+        "Certificate of competence দেওয়ার জন্য সহায়ক documents দেয়।",
+        "Credit transfer বা recognition of prior learning-এর ভিত্তি হিসেবে কাজ করে।",
+        "Feedback দেওয়ার ভিত্তি তৈরি করে।",
+        "Assessment process আরও উন্নত করার জন্য তথ্য দেয়।",
+        "Assessment activity যে সত্যিই হয়েছে, তার প্রমাণ দেয়।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c12-p26-importance"
+      ],
+      "title": "Purposes of effective assessment recording and reporting",
+      "title_bn": "Recording ও reporting-এর ছয়টি কাজ"
+    },
+    {
+      "bn": "ছাপায় ৪টি bullet দেখা গেলেও আসলে ৬টি বক্তব্য; ছয়টিই লিখুন।",
+      "kind": "note",
+      "outline": [
+        "c12-p26-importance"
+      ],
+      "text": "On p.26 two of these points run on without their own bullet. The answer key (p.39) prints them the same way. Count six points.",
+      "tone": "tip"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Qualification applied for,",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Qualification applied for,"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Unit of competency",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Unit of competency"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Assessor's name",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Assessor's name"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Date of Assessment.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Date of Assessment."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Summary of evidence",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Summary of evidence"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Summary of Evidence Gathering tools.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Summary of Evidence Gathering tools."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Assessment Decisions",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Assessment Decisions"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Signature of Assessor.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Signature of Assessor."
+        }
+      ],
+      "items_bn": [
+        "কোন qualification-এর জন্য আবেদন করা হয়েছে।",
+        "কোন unit of competency assess হয়েছে।",
+        "Assessor-এর নাম।",
+        "Assessment-এর তারিখ।",
+        "সংগৃহীত evidence-এর সারাংশ।",
+        "কোন evidence gathering tools ব্যবহার হয়েছে, তার সারাংশ।",
+        "Assessment-এর সিদ্ধান্ত।",
+        "Assessor-এর সই।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c12-p26-record-features"
+      ],
+      "title": "What a good assessment record contains",
+      "title_bn": "ভালো record-এ যে আটটি তথ্য থাকে"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Ease of use • Minimal",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Ease of use"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Minimal cost of operation and maintenance",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Minimal cost of operation and maintenance"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Ease of retrieval of information.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Ease of retrieval of information."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Relevance of assessment information held in the records.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Relevance of assessment information held in the records."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Data security. • Compliance",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Data security."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Compliance with the system by all users.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Compliance with the system by all users."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Control of documentation and documented procedures",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Control of documentation and documented procedures"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "documented procedures • Review process.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Review process."
+        }
+      ],
+      "items_bn": [
+        "ব্যবহার করা সহজ।",
+        "চালানো ও রক্ষণাবেক্ষণে খরচ কম।",
+        "দরকারের সময় তথ্য সহজে খুঁজে বের করা যায়।",
+        "Records-এ রাখা তথ্য প্রাসঙ্গিক।",
+        "তথ্য নিরাপদ থাকে (data security)।",
+        "সব ব্যবহারকারী system মেনে চলে।",
+        "Documentation আর documented procedures নিয়ন্ত্রণে থাকে।",
+        "System নিয়মিত review করার ব্যবস্থা থাকে।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c12-p26-effective-system"
+      ],
+      "title": "Characteristics of an effective recording and reporting process",
+      "title_bn": "কার্যকর recording system-এর আটটি গুণ"
+    },
+    {
+      "bn": [
+        "সব assessment center একই নিয়মে record রাখবে; তাহলে তথ্য খুঁজে পাওয়া ও যাচাই করা সহজ।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "A uniform procedure for reporting and",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "recording results is a must for all registered assessment organizations.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A uniform procedure for reporting and recording results is a must for registered assessment organizations."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p26-effective-system"
+      ]
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Particular care must be taken to ensure full documentation of the performances of,",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "and reasons for, all decisions made",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Fully document the performances of, and reasons for, all decisions made."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p27-full-documentation"
+      ]
+    },
+    {
+      "bn": [
+        "Record সবাই দেখতে পারবে না; শুধু অনুমোদিত লোক।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Assessors should not overlook the importance of restricting access to the assessment",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "record about each candidate.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "The organization should have clear policy and",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "procedures on keeping the assessment record confidential.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Restrict access to each candidate's assessment record. The organization keeps it confidential by clear policy."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p27-restrict-access"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "recording-reporting",
   "importance": {
@@ -162,7 +876,17 @@
         "fidelity": "verbatim",
         "text": "Signs assessment record."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Evidence plan আর evidence gathering tools-এর সাথে মিলিয়ে assessment decision আবার দেখে নেন।",
+      "নিজের মতো করে নয়, approved recording format-এ assessment results লেখেন।",
+      "Results ঠিকভাবে লেখা হয়েছে কি না, আবার check করেন।",
+      "Assessment record নিয়ে candidate-এর সাথে আলোচনা করেন।",
+      "Documents রাখার দায়িত্বে যিনি আছেন, তাঁর কাছে assessment record জমা দেন।",
+      "সবশেষে assessment record-এ নিজে সই করেন।"
+    ],
+    "title": "Role of the assessor in recording and reporting results",
+    "titleBn": "Results record ও report করার সময় assessor-এর কাজ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -535,6 +1259,131 @@
       "text": "Restrict access to each candidate's assessment record. Keep it confidential."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Assessment recording is the process of documenting assessment results.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Assessment recording is the process of documenting assessment results."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Recording must be planned and integrated with the assessment process.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Recording must be planned and integrated with the assessment process."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "The assessment record should track the whole assessment process.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The assessment record should track the whole assessment process."
+        }
+      ],
+      "title": "Recording",
+      "title_bn": "ফলাফল লিখে রাখা"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Assessment reporting involves conveying information on the assessment outcome",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "to appropriate personnel",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Reporting conveys information on the assessment outcome to appropriate personnel."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "school administrators, assessment centre managers and employers",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Examples: school administrators, assessment centre managers and employers."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 4,
+              "printedPage": 4,
+              "quote": "Assessment decision is informed to the relevant parties where required, according",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 4,
+              "printedPage": 4,
+              "quote": "to confidentiality conventions.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The decision is informed to relevant parties, according to confidentiality conventions."
+        }
+      ],
+      "title": "Reporting",
+      "title_bn": "ফলাফল সঠিক লোককে জানানো"
+    },
+    "title": "Recording vs reporting (p.26)",
+    "title_bn": "Recording বনাম reporting"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

@@ -41,6 +41,145 @@
     "bn": "খালি shadow দেখলেই বোঝা যায় কোন tool ফেরত আসেনি।",
     "en": "In a carpentry workshop, each saw hangs on its painted shape. An empty shape shows a missing saw."
   },
+  "extra": [
+    {
+      "bn": [
+        "জিনিস এমনভাবে রাখুন যেন এক নজরে চেনা যায় — shadow board তার পুরোনো ও কার্যকর উপায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Storage considerations must take into account the placement of workshop items so",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "that they are easily and accurately identified.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Storage must place workshop items so they are easily and accurately identified."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "a system that has been",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "used for many years in industry and in home workshops is the shadow board.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The shadow board has been used for many years in industry and home workshops."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p21-storage-considerations",
+        "c06-p21-shadow-board"
+      ]
+    },
+    {
+      "bn": [
+        "ভারী জিনিস হাতে না বয়ে trolley বা tool cart ব্যবহার করুন; এগুলো রাখার জায়গাও plan-এ রাখুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "it would be practical and sensible to use mechanical",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "aids, such as trolleys or tool carts.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Such assistance can lessen problems that can",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "occur in the event of incorrect manual handling techniques.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Mechanical aids such as trolleys or tool carts lessen manual handling problems."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "provision needs to be made for the storage",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "of the above items of equipment (tool boards, equipment trolleys, ladders, stools,",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Plan storage for tool boards, equipment trolleys, ladders and stools."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p21-mechanical-aids"
+      ]
+    }
+  ],
   "highlighted": false,
   "id": "shadow-board",
   "importance": {
@@ -339,6 +478,7 @@
       "text": "Tools hang on hooks or pegs so that they fit their shadows."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

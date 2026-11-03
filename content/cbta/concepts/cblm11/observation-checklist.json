@@ -57,6 +57,8 @@
     "bn": "কম্পিউটার ল্যাবে candidate প্রতিটি ধাপ করলে assessor checklist-এ টিক দেন।"
   },
   "list_answer": {
+    "title": "Steps to prepare an observation checklist",
+    "title_bn": "Observation checklist তৈরির ধাপ",
     "items": [
       {
         "text": "Review the Evidence Plan",
@@ -91,6 +93,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "আগে Evidence Plan দেখে নাও — কাজের সময় কী কী observe করতে হবে, তা সেখানেই ঠিক করা থাকে।",
+      "তারপর একটা উপযুক্ত observation checklist template বেছে নাও।",
+      "শেষে কী কী দেখবে সেই observation points template-এ লিখে দাও; এটাই assessor-এর prompt হয়।"
     ]
   },
   "traps": [
@@ -125,8 +132,128 @@
           "quote": "situations where workplace safety may be compromised."
         }
       ]
+    },
+    {
+      "text": "Observation is not appropriate for irregular, long or hard-to-observe activities.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 65,
+          "quote": "activities that occur irregularly, take place over an extended period of time or are difficult to observe"
+        },
+        {
+          "src": "cblm11",
+          "page": 65,
+          "quote": "When observation is not appropriate?"
+        }
+      ]
+    },
+    {
+      "text": "Observation is not appropriate for activities that require privacy and confidentiality.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 65,
+          "quote": "activities that require privacy and confidentiality"
+        },
+        {
+          "src": "cblm11",
+          "page": 65,
+          "quote": "When observation is not appropriate?"
+        }
+      ]
+    },
+    {
+      "text": "Observation is not appropriate where observing may be culturally inappropriate.",
+      "fidelity": "paraphrase",
+      "cites": [
+        {
+          "src": "cblm11",
+          "page": 65,
+          "quote": "situations where it may be culturally inappropriate to observe the activity"
+        },
+        {
+          "src": "cblm11",
+          "page": 65,
+          "quote": "When observation is not appropriate?"
+        }
+      ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "Preparing an observation checklist",
+    "title_bn": "Observation checklist তৈরির ধাপ",
+    "items": [
+      {
+        "text": "Review the Evidence Plan: what must be observed during the work activity?",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 64,
+            "quote": "Review the Evidence Plan What evidence must be observed whilst the work activity is being performed?"
+          }
+        ]
+      },
+      {
+        "text": "Identify elements and performance criteria, underpinning skills, critical aspects and dimensions of competency.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 64,
+            "quote": "elements and performance criteria"
+          },
+          {
+            "src": "cblm11",
+            "page": 64,
+            "quote": "underpinning skills"
+          },
+          {
+            "src": "cblm11",
+            "page": 64,
+            "quote": "critical aspects of competence"
+          },
+          {
+            "src": "cblm11",
+            "page": 64,
+            "quote": "dimensions of competency"
+          }
+        ]
+      },
+      {
+        "text": "Select the observation checklist template",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 64,
+            "quote": "Select the observation checklist template"
+          }
+        ]
+      },
+      {
+        "text": "Enter the observation points in the template",
+        "fidelity": "verbatim",
+        "cites": [
+          {
+            "src": "cblm11",
+            "page": 64,
+            "quote": "Enter the observation points in the template"
+          }
+        ]
+      }
+    ],
+    "labels_bn": [
+      "Evidence Plan review করো — কাজ চলার সময় কী কী observe করতে হবে, তা এখান থেকে বোঝা যায়।",
+      "Elements, performance criteria, underpinning skills, critical aspects আর dimensions of competency চিহ্নিত করো — এগুলোই observation-এর বিষয়।",
+      "তারপর একটা উপযুক্ত observation checklist template বেছে নাও।",
+      "শেষে কী কী দেখবে সেই observation points template-এ লিখে দাও; এটাই assessor-এর prompt হয়।"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What is an observation checklist? What is its purpose?",
@@ -162,6 +289,32 @@
               "src": "cblm11",
               "page": 64,
               "quote": "Review the Evidence Plan What evidence must be observed whilst the work activity is being performed?"
+            }
+          ]
+        },
+        {
+          "text": "Observe elements and performance criteria, underpinning skills, critical aspects and dimensions of competency.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 64,
+              "quote": "elements and performance criteria"
+            },
+            {
+              "src": "cblm11",
+              "page": 64,
+              "quote": "underpinning skills"
+            },
+            {
+              "src": "cblm11",
+              "page": 64,
+              "quote": "critical aspects of competence"
+            },
+            {
+              "src": "cblm11",
+              "page": 64,
+              "quote": "dimensions of competency"
             }
           ]
         }

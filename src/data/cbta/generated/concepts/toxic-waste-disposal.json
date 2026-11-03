@@ -37,6 +37,237 @@
     "bn": "পুরনো batteries আলাদা পাত্রে রেখে recycling-এর জন্য দেওয়া।",
     "en": "A motor workshop collects used batteries in a bin. Local authorities collect them for recycling."
   },
+  "extra": [
+    {
+      "bn": [
+        "আগে চিনুন কোনটা বিষাক্ত; চিনলে তবেই সঠিক পদ্ধতিতে ফেলা যায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "to positively identify",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "any toxic materials that must be disposed of.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "Identification enables the use of the correct procedure for disposal.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Positively identify toxic materials first; identification enables the correct disposal procedure."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p24-toxic-waste"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "steps to be taken to minimize spills or leaks",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "steps to be taken to minimize spills or leaks"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "methods for cleaning up spills and leaks",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "methods for cleaning up spills and leaks"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "precautions to be observed by clean-up personnel:",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "removal of any ignition sources",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "protective clothing and equipment",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "any special equipment required for the clean-up",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Precautions for clean-up personnel: remove ignition sources, protective clothing and equipment, special equipment."
+        }
+      ],
+      "items_bn": [
+        "Spill বা leak যাতে কম হয়, তার ধাপ।",
+        "Spill পরিষ্কারের পদ্ধতি।",
+        "যারা পরিষ্কার করবে: আগুনের উৎস সরানো, protective clothing পরা, বিশেষ যন্ত্র ব্যবহার।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c06-p25-toxic-waste-2"
+      ],
+      "title": "Spill and leak procedures should include",
+      "title_bn": "Spill বা leak হলে procedure-এ যা থাকবে"
+    },
+    {
+      "bn": [
+        "Chemical-এর গায়ে বা সাথের কাগজে manufacturer জানায় সেটা মাটিতে-পানিতে কতদিন থাকে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "Chemical manufacturers normally provide information about their",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "products that include factors such as biodegradability or persistence in",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "soil and water.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Chemical manufacturers provide product information such as biodegradability or persistence in soil and water."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p25-toxic-waste-2"
+      ]
+    },
+    {
+      "bn": [
+        "Recycling-এর ৬টি উপাদান card-এ আছে: glass, plastic, metal, newsprint, অন্য কাগজ/cardboard, batteries।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "can waste be made",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "productive?",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "Many waste materials are regularly collected, treated and processed to be used",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "repeatedly.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Recycling makes waste productive: waste is collected, treated and processed for repeated use."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p25-recycling"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "toxic-waste-disposal",
   "importance": {
@@ -234,7 +465,19 @@
         "fidelity": "paraphrase",
         "text": "Observe recommendations for neutralizing spills."
       }
-    ]
+    ],
+    "itemsBn": [
+      "যে toxic জিনিস ফেলতে হবে, তা আগে নিশ্চিতভাবে চিনে নেওয়া; চিনলে তবেই সঠিক disposal পদ্ধতি বাছা যায়।",
+      "পরিবেশ রক্ষার জন্য disposal-এর নির্দিষ্ট নির্দেশনা (recommendations) মেনে চলা।",
+      "Toxic তরল কখনো sewerage systems-এ ঢালা যাবে না।",
+      "Landfill-এ কঠিন বর্জ্যের পাত্র ফেলার আগে স্থানীয় আইনে বিশেষ সতর্কতা আছে কিনা দেখে নেওয়া।",
+      "বর্জ্য সংগ্রহের ব্যবস্থা আর depots কোথায়, তা জানতে স্থানীয় কর্তৃপক্ষের সাথে যোগাযোগ করা।",
+      "পুড়িয়ে ফেলার (incineration) পরামর্শ থাকলে শর্ত মানা, বিশেষ করে ক্ষতিকর fumes বা smoke যেন না ছড়ায়।",
+      "Toxic substances নিরাপদে পরিবহনে স্থানীয় নিয়ম (regulatory requirements) মানতে হয়।",
+      "ছলকে পড়া জিনিস (spills) নিষ্ক্রিয় (neutralizing) করার নির্দেশনা মেনে চলা।"
+    ],
+    "title": "Procedures for disposal of toxic waste",
+    "titleBn": "বিষাক্ত বর্জ্য (toxic waste) ফেলার নিয়ম"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -503,6 +746,7 @@
       "text": "Recycle: glass, plastic, metal, newsprint, other paper and cardboard, batteries. Six examples."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

@@ -1,0 +1,597 @@
+{
+  "aliases": [
+    "Psychological or social hazards",
+    "Stress and violence at work"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 3,
+      "pages": [
+        {
+          "pdf": 28,
+          "printed": 28
+        },
+        {
+          "pdf": 38,
+          "printed": 38
+        }
+      ],
+      "src": "cblm03"
+    }
+  ],
+  "banglaExplanation": [
+    "চারটি প্রধান hazard types-এর বাইরে মানসিক বা সামাজিক কারণও সমস্যা তৈরি করে।",
+    "Stress আর violence থেকে headaches বা ঘুমের সমস্যা হতে পারে।",
+    "Stress factors: managers বা co-workers-এর সাথে conflict, poor working conditions, heavy workloads।",
+    "Violence মানে threats, harassment, assault — এমন হলে সাথে সাথে report করতে হবে।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 2,
+    "repeat": 1
+  },
+  "cblmPrimary": 3,
+  "errata": [],
+  "example": {
+    "bn": "Shipment-এর আগে গার্মেন্টস কর্মীদের heavy workloads থাকে; অনেকের stress আর headaches হয়।",
+    "en": "Before a shipment, garments workers work very long hours with heavy workloads. Some feel stress and get headaches."
+  },
+  "extra": [
+    {
+      "bn": [
+        "সমস্যা চেপে রাখবেন না; supervisor, পরিবার বা co-worker-এর সাথে কথা বলুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "If you are having problems, make sure you talk to someone: your supervisor, your",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "family or a co-worker.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "If you are having problems, talk to someone: your supervisor, family or a co-worker."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p28-psychosocial"
+      ]
+    }
+  ],
+  "highlighted": true,
+  "id": "psychosocial-hazards",
+  "importance": {
+    "bn": "CBLM 3-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 3."
+  },
+  "keywords": [
+    {
+      "bn": "মানসিক ও সামাজিক",
+      "en": "Psychosocial"
+    },
+    {
+      "bn": "মানসিক চাপ",
+      "en": "Stress"
+    },
+    {
+      "bn": "সহিংসতা",
+      "en": "Violence"
+    },
+    {
+      "bn": "হয়রানি",
+      "en": "Harassment"
+    },
+    {
+      "bn": "কাজের চাপ / কাজের পরিমাণ",
+      "en": "Workloads"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Stress Factors:",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Conflict with managers or co-workers",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Stress factor: conflict with managers or co-workers"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Stress Factors:",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Poor working conditions",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Stress factor: poor working conditions"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Stress Factors:",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Heavy workloads",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Stress factor: heavy workloads"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Violence: Threats",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Violence: threats"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Violence: Threats Harassment",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Violence: harassment"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Violence: Threats",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Harassment Assault",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Violence: assault"
+      }
+    ],
+    "itemsBn": [
+      "Managers বা co-workers-এর সাথে conflict থেকে stress তৈরি হয়।",
+      "খারাপ কাজের পরিবেশ (poor working conditions) stress বাড়ায়।",
+      "অতিরিক্ত কাজের চাপ (heavy workloads) stress-এর কারণ।",
+      "হুমকি (threats) এক ধরনের violence।",
+      "হয়রানি (harassment) এক ধরনের violence।",
+      "শারীরিক আক্রমণ (assault) এক ধরনের violence — সাথে সাথে report করুন।"
+    ],
+    "title": "Psychosocial hazards: stress factors and violence",
+    "titleBn": "Psychosocial hazard: stress-এর কারণ ও violence"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 3,
+        "match": "exact",
+        "page": 28,
+        "passageId": "cblm03-p28-ff0afb76",
+        "printedPage": 28,
+        "quote": "psychological or social factors can cause problems. For example, stress and violence",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Psychological or social factors can also cause problems, like stress and violence."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Stress Factors: Conflict with managers or co-workers",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Conflict with managers",
+          "right": "Stress factor"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "Violence: Threats Harassment Assault",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Harassment",
+          "right": "Violence"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "stress reduction programs will help lower stress",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Stress reduction programs",
+          "right": "Help lower stress"
+        },
+        {
+          "cite": {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "You should report any act of violence right away.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          "left": "Act of violence",
+          "right": "Report right away"
+        }
+      ],
+      "prompt": "Match each item with its group or action."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 3,
+        "match": "exact",
+        "page": 28,
+        "printedPage": 28,
+        "quote": "Psychosocial Hazards In addition to the four main hazard types",
+        "sourceTitle": "Apply OSH in a CBT&A Environment",
+        "src": "cblm03"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Psychosocial hazard",
+        "Ergonomic hazard",
+        "Physical hazard",
+        "Biological hazard"
+      ],
+      "prompt": "Heavy workloads are an example of which kind of hazard?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "If you are having problems, make sure you talk to someone: your supervisor, your family or a co-worker.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "If you are having problems, talk to your supervisor, your family or a co-worker."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "You should report any act of violence right away.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "You should report any act of violence right away."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "Conflict with managers or co-workers Poor working conditions Heavy workloads",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Stress factors: conflict with managers or co-workers, poor working conditions, heavy workloads."
+        }
+      ],
+      "modelAnswer": "Psychosocial hazards are psychological or social factors that can cause problems. They are in addition to the four main hazard types.\nStress factors: conflict with managers or co-workers, poor working conditions, heavy workloads.\nViolence: threats, harassment, assault.\nStress and violence can lead to headaches or trouble sleeping.",
+      "prompt": "What are psychosocial hazards? Give examples."
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "make sure you talk to someone: your supervisor, your family or a co-worker.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          },
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "You should report any act of violence right away.",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Talk to your supervisor, family or a co-worker. Report any act of violence right away."
+      },
+      "prompt": "What should you do if you have problems with stress or violence at work?"
+    }
+  },
+  "realQuestions": [],
+  "score": 3,
+  "sourceType": "cblm",
+  "stars": 2,
+  "status": "draft",
+  "title": "Psychosocial Hazards: Stress and Violence",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 28,
+          "printedPage": 28,
+          "quote": "In addition to the four main hazard types, psychological or social factors can cause problems.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Psychosocial hazards are in addition to the four main hazard types."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 28,
+          "printedPage": 28,
+          "quote": "You should report any act of violence right away.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "verbatim",
+      "text": "You should report any act of violence right away."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 28,
+          "printedPage": 28,
+          "quote": "For example, stress and violence can lead to headaches or trouble sleeping.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Stress and violence can lead to headaches or trouble sleeping."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 3,
+          "match": "exact",
+          "page": 38,
+          "printedPage": 38,
+          "quote": "Violence prevention, anti-bullying and stress reduction programs will help lower stress.",
+          "sourceTitle": "Apply OSH in a CBT&A Environment",
+          "src": "cblm03"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Violence prevention, anti-bullying and stress reduction programs help lower stress."
+    }
+  ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "Conflict with managers or co-workers",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Conflict with managers or co-workers"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "Poor working conditions",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Poor working conditions"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "Heavy workloads",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Heavy workloads"
+        }
+      ],
+      "title": "Stress Factors",
+      "title_bn": "Stress-এর কারণ"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "Violence: Threats",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Threats"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "Threats Harassment",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Harassment"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "Harassment Assault",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Assault"
+        }
+      ],
+      "title": "Violence",
+      "title_bn": "সহিংসতা"
+    },
+    "title": "Stress factors vs violence (p.28)",
+    "title_bn": "Stress-এর কারণ বনাম violence"
+  },
+  "vivaDerived": true,
+  "warnings": 0
+}

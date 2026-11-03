@@ -36,6 +36,177 @@
     "bn": "Driving test-এ \"মোড় নেওয়ার আগে mirror দেখা\" এমন একটি criteria।",
     "en": "In a driving test, \"checks mirrors before turning\" is a criterion the learner must show."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 1,
+            "match": "exact",
+            "page": 27,
+            "printedPage": 27,
+            "quote": "Essentially assessment and performance criteria are the same thing expressed in different words.",
+            "sourceTitle": "Work effectively within TVET Sector",
+            "src": "cblm01"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Essentially assessment and performance criteria are the same thing expressed in different words."
+      },
+      "kind": "qa",
+      "outline": [
+        "c01-p27-assessment-vs-performance-criteria"
+      ],
+      "q": "What is the relationship between assessment criteria and performance criteria?",
+      "q_bn": "Assessment criteria আর performance criteria-র সম্পর্ক কী?",
+      "tip": "Add: 'Performance criteria' comes from the industry competency standards.",
+      "tip_bn": "সাথে লিখুন: 'performance criteria' শব্দটি industry competency standards থেকে আসে।"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "'Performance criteria' is more of a",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "terminology",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "from the industry competency standards",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "is more of a competency based training and",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "'Performance criteria' is more of a CBT&A terminology from the industry competency standards."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 28,
+              "printedPage": 28,
+              "quote": "both parties",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "specify the performance",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "the learner",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "must be demonstrated",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "the learning outcome",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Both specify the performance the learner must demonstrate to achieve the learning outcome."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p27-assessment-vs-performance-criteria"
+      ]
+    },
+    {
+      "bn": "নতুন শব্দে বিভ্রান্ত হলে: বেশি পড়ুন, খোলা মনে থাকুন, প্রচুর প্রশ্ন করুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Strategy",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "read more on the topic, be open minded",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "lots of questions",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Strategy: read more on the topic, be open minded and ask lots of questions."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c01-p27-teacher-quote"
+      ],
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "assessment-vs-performance-criteria",
   "importance": {
@@ -476,6 +647,7 @@
       "text": "'Performance criteria' comes from the industry competency standards."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
-  "warnings": 0
+  "warnings": 2
 }

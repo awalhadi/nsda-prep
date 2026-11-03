@@ -1,0 +1,1077 @@
+{
+  "aliases": [
+    "Sample equipment maintenance schedule",
+    "Equipment Maintenance Schedule template",
+    "Sample equipment inspection checklist",
+    "Maintenance inspection checklist"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 38,
+          "printed": 38
+        },
+        {
+          "pdf": 39,
+          "printed": 39
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "Schedule বানানোর সবচেয়ে ভালো উৎস হলো equipment-এর manufacturer's manual; না থাকলে জানা maintenance methods থেকে plan বানাতে হয়।",
+    "নমুনাটি computer lab-এর desktop computer-এর; প্রতিটি কাজের পাশে কে করবে (IT Personnel) আর মাসের কোন দিনে করবে তার x চিহ্ন।",
+    "Check ধাপে assessment হয়: program plan মতো চলছে কি না; ফল record করে কর্তৃপক্ষকে report করা হয়।",
+    "Inspection checklist একই equipment-এর জন্য; inspection items প্রশ্ন আকারে লেখা, কারণ এগুলোই maintenance-এর criteria বা standards।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "কম্পিউটার ল্যাবে জুন মাসের schedule টাঙানো: কবে cleaning, কবে virus check, প্রতিদিন বন্ধ করা।",
+    "en": "A computer lab posts a monthly schedule: cleaning, virus check, daily switch-off."
+  },
+  "extra": [
+    {
+      "bn": [
+        "নমুনা schedule-এর উৎস manufacturer's manual; না থাকলে জানা maintenance methods।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Below is a sample Maintenance Schedule for a Desk top computer in Practical",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Area/Computer Lab in a Training Center.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Below is a sample Maintenance Schedule for a desktop computer in a training center lab."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p38-sample-schedule"
+      ]
+    },
+    {
+      "cite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 39,
+        "printedPage": 39,
+        "quote": "Template: EQUIPMENT MAINTENANCE SCHEDULE",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "columns": [
+        "ACTIVITIES",
+        "MANPOWER",
+        "Schedule for the Month of (days 1-15)"
+      ],
+      "fields": [
+        "Equipment Type: Desktop Computer",
+        "Property Code/ Number: Computer 1 i 1001A",
+        "Location: Practical Work Area I Computer Laboratory"
+      ],
+      "kind": "form",
+      "note_bn": "প্রতিটি কাজের পাশে কে করবে আর মাসের কোন দিনে করবে (x চিহ্ন); 'বন্ধ করা' প্রায় প্রতিদিন।",
+      "outline": [
+        "c06-p39-schedule-template"
+      ],
+      "rows": [
+        [
+          "1. Clean the computer unit",
+          "IT Personnel",
+          "x x X"
+        ],
+        [
+          "2. Check computer for viruses",
+          "IT Personnel",
+          "x X"
+        ],
+        [
+          "3 Clean computer peripherals",
+          "IT Personnel",
+          "x x x x x x X"
+        ],
+        [
+          "4 Check electric and computer connections",
+          "IT Personnel",
+          "x X"
+        ],
+        [
+          "5 Turn off unit when not in use or at the end of the day.",
+          "IT Personnel",
+          "x x x x X x x X X X x X x"
+        ]
+      ],
+      "title": "Template: EQUIPMENT MAINTENANCE SCHEDULE",
+      "title_bn": "Equipment Maintenance Schedule ফর্ম"
+    },
+    {
+      "bn": "ছাপা ছকে ১২ তারিখ নেই, x চিহ্নও এলোমেলো; দিন নয়, পাঁচটি কাজ আর column মনে রাখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Schedule for the Month of",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "1 2 3 4 5 6 7 8 9 10 11 13 14 15",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Schedule for the Month of: 1 to 11, then 13 to 15."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c06-p39-schedule-template"
+      ],
+      "text": "The printed day row skips day 12 (1-11, then 13-15), and the x marks are hard to align. Learn the five activities and the columns, not the exact days.",
+      "tone": "caution"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "To determine if the maintenance program is implemented according to what is",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "planned, an assessment must be done.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "An assessment must be done to determine if the program is implemented as planned."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "The results of the assessment will then be",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "recorded and reported to the proper authorities for immediate action.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Record the results and report them to the proper authorities for immediate action."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Regular inspections are conducted to assure that the maintenance activities are done",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "on the date and time it was planned",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "defined standards.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Conduct regular inspections: activities on the planned date and time, to defined standards."
+        }
+      ],
+      "kind": "steps",
+      "labels_bn": [
+        "Program plan মতো চলছে কি না, assessment করুন।",
+        "ফল লিখে রাখুন আর কর্তৃপক্ষকে report করুন, যাতে দ্রুত ব্যবস্থা হয়।",
+        "নিয়মিত inspection: কাজ ঠিক দিনে-সময়ে আর standard মেনে হচ্ছে কি না।"
+      ],
+      "outline": [
+        "c06-p39-check"
+      ],
+      "title": "Check: how the maintenance program is checked (p.39)",
+      "title_bn": "Check ধাপ: program ঠিকমতো চলছে কি না"
+    },
+    {
+      "bn": [
+        "Checklist-এর প্রতিটি লাইন প্রশ্ন, যেমন 'Computer unit কি পরিষ্কার করা হয়েছে?' — এটাই maintenance-এর মানদণ্ড।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "this checklist",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "pertains to the same equipment with the Maintenance Schedule",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The checklist covers the same equipment as the Maintenance Schedule."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "This checklist will confirm if the maintenance activities have been performed in order",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "to prolong the life of this particular equipment.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It confirms if maintenance activities were performed to prolong the equipment's life."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "The Inspection Items are stated in a question form as these serve as the criteria or standards of maintenance.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Inspection items are stated in a question form; they serve as criteria or standards."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p39-inspection-checklist"
+      ],
+      "title": "Sample equipment inspection checklist"
+    },
+    {
+      "bn": "Inspection checklist-এর ছক CBLM-এ ছাপা নেই; handout-এ আছে বলা হয়েছে।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Please check your",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "hand outs for a template of Maintenance Check List.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Please check your hand outs for a template of Maintenance Check List."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c06-p39-inspection-checklist"
+      ],
+      "text": "The CBLM does not print the inspection checklist. It says to check your handouts for the template.",
+      "tone": "caution"
+    }
+  ],
+  "highlighted": false,
+  "id": "equipment-maintenance-schedule",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "যন্ত্রের রক্ষণাবেক্ষণের সময়সূচি",
+      "en": "Equipment Maintenance Schedule"
+    },
+    {
+      "bn": "নির্মাতার দেওয়া নির্দেশিকা",
+      "en": "Manufacturer's manual"
+    },
+    {
+      "bn": "সম্পদের কোড নম্বর",
+      "en": "Property Code/ Number"
+    },
+    {
+      "bn": "পরিদর্শনের প্রশ্নভিত্তিক তালিকা",
+      "en": "Inspection checklist"
+    },
+    {
+      "bn": "মানদণ্ড",
+      "en": "Criteria or standards"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "1. Clean the",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "computer unit",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Clean the computer unit."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "2. Check",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "computer for",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Check computer for viruses."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "3 Clean x x x X computer",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "peripherals",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Clean computer peripherals."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "4 Check electric",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "and computer",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "connections",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Check electric and computer connections."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "5 Turn off unit",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "when not in",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "use or at the",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "end of the day.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Turn off unit when not in use or at the end of the day."
+      }
+    ],
+    "itemsBn": [
+      "Computer unit পরিষ্কার করা।",
+      "Computer-এ virus আছে কি না পরীক্ষা করা।",
+      "Computer-এর সাথে লাগানো peripherals পরিষ্কার করা।",
+      "বিদ্যুৎ ও computer connections ঠিক আছে কি না দেখা।",
+      "ব্যবহার না হলে বা দিনের শেষে unit বন্ধ করা — schedule-এ প্রায় প্রতিদিন।"
+    ],
+    "title": "Activities in the sample maintenance schedule for a desktop computer",
+    "titleBn": "Desktop computer-এর নমুনা schedule-এর পাঁচটি কাজ"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 38,
+        "printedPage": 38,
+        "quote": "a Maintenance Schedule",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 38,
+        "printedPage": 38,
+        "quote": "is drawn to guide the personnel in the proper methods and system",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "A Maintenance Schedule is drawn to guide the personnel in the proper methods and system."
+  },
+  "openChecks": 1,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "Equipment Type Desktop Computer",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Equipment Type",
+          "right": "Desktop Computer"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "ACTIVITIES MANPOWER",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Manpower",
+          "right": "IT Personnel"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "The Inspection Items are stated in a question form",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Inspection Items",
+          "right": "Stated in a question form"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "Check To determine if the maintenance program is implemented according to what is planned, an assessment must be done.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Check",
+          "right": "An assessment of whether the program is implemented as planned"
+        }
+      ],
+      "prompt": "Match each item of the sample schedule with its entry."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 38,
+        "printedPage": 38,
+        "quote": "of the list of maintenance activities of an equipment is its manufacturer's manual",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Its manufacturer's manual",
+        "The salvage report",
+        "The trainees' attendance sheet",
+        "The shadow board"
+      ],
+      "prompt": "What is one best source of the list of maintenance activities of an equipment?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "a Maintenance Schedule",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "is drawn to guide the personnel in the proper methods and system",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A Maintenance Schedule is drawn to guide the personnel in the proper methods and system."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "of the list of maintenance activities of an equipment is its manufacturer's manual",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "One best source of the list of maintenance activities is the manufacturer's manual."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "To determine if the maintenance program is implemented according to what is",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "planned, an assessment must be done. The results of the assessment will then be",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "recorded and reported to the proper authorities for immediate action.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "An assessment checks if the program is implemented as planned. Results are recorded and reported."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "This checklist will confirm if the maintenance activities have been performed in order",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The checklist confirms if the maintenance activities have been performed."
+        }
+      ],
+      "marks": 5,
+      "modelAnswer": "1. A Maintenance Schedule guides personnel in the proper methods and system.\n2. Best source: the equipment's manufacturer's manual; otherwise known maintenance methods.\n3. The template shows equipment type, property code, location, activities, manpower and days.\n4. Check: an assessment shows if the program runs as planned; results are recorded and reported.\n5. An inspection checklist, in question form, confirms the activities were done.",
+      "prompt": "How is an equipment maintenance schedule prepared and checked?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "as these serve as the criteria or standards of maintenance.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "They serve as the criteria or standards of maintenance."
+      },
+      "prompt": "Why are inspection items written as questions?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Equipment Maintenance Schedule and Inspection Checklist",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 38,
+          "printedPage": 38,
+          "quote": "One best source",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 38,
+          "printedPage": 38,
+          "quote": "of the list of maintenance activities of an equipment is its manufacturer's manual",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "One best source of the list of maintenance activities is the manufacturer's manual."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 38,
+          "printedPage": 38,
+          "quote": "manufacturer's manual In",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 38,
+          "printedPage": 38,
+          "quote": "the absence of it, the plan can be derived from the known maintenance methods of",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 38,
+          "printedPage": 38,
+          "quote": "the equipment.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "In the absence of the manual, the plan can be derived from known maintenance methods."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 39,
+          "printedPage": 39,
+          "quote": "The Inspection Items are stated in a question form as these serve as the criteria or standards of maintenance.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Inspection items are stated in a question form. They serve as the criteria or standards of maintenance."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 39,
+          "printedPage": 39,
+          "quote": "Regular inspections are conducted to assure that the maintenance activities are done",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 39,
+          "printedPage": 39,
+          "quote": "on the date and time it was planned and that the performance levels adhered to the",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 39,
+          "printedPage": 39,
+          "quote": "defined standards.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Regular inspections assure activities are done on the planned date and time, to defined standards."
+    }
+  ],
+  "visual": {
+    "columns": [
+      "Field",
+      "Sample entry"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Equipment Type",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Desktop Computer",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Desktop Computer"
+        }
+      ],
+      [
+        "Property Code/ Number",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Computer 1 i 1001A",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Computer 1 i 1001A"
+        }
+      ],
+      [
+        "Location",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Practical Work Area I Computer Laboratory",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Practical Work Area I Computer Laboratory"
+        }
+      ],
+      [
+        "Activities",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "1. Clean the",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "computer unit",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "2. Check",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "3 Clean x x x X computer",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "peripherals",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "4 Check electric",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "connections",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "5 Turn off unit",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Clean unit, check viruses, clean peripherals, check connections, turn off unit."
+        }
+      ],
+      [
+        "Manpower",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "IT Personnel x x X computer unit",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "IT Personnel"
+        }
+      ],
+      [
+        "Schedule",
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Schedule for the Month of",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Schedule for the Month of"
+        }
+      ]
+    ],
+    "title": "Template: Equipment Maintenance Schedule (sample, p.39)",
+    "title_bn": "Equipment Maintenance Schedule ফর্মের নমুনা"
+  },
+  "vivaDerived": true,
+  "warnings": 1
+}

@@ -13,10 +13,6 @@
           "printed": 11
         },
         {
-          "pdf": 12,
-          "printed": 12
-        },
-        {
           "pdf": 23,
           "printed": 23
         },
@@ -45,6 +41,18 @@
     "bn": "Welding কোর্সের আগে self-assessment checklist-এ Yes/No টিক দেওয়া হয়।",
     "en": "Before a welding course, each trainee ticks Yes or No for every performance criterion. The trainer reads the CV too."
   },
+  "extra": [
+    {
+      "bn": "Self Check 1 প্রশ্ন ১: pre-assessment-এর দুটি method লিখুন, দ্বিতীয়টির নিচে চারটি related document।",
+      "kind": "note",
+      "outline": [
+        "c09-p11-determine-competency",
+        "c09-p11-related-documents"
+      ],
+      "text": "Self Check 1 Q1 answer: pre-assessment by two methods. Add the four related documents under method 2.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "pre-assessment-of-trainees",
   "importance": {
@@ -111,7 +119,13 @@
         "fidelity": "paraphrase",
         "text": "Analyse pre-session information, like the enrolment form or pre-application form."
       }
-    ]
+    ],
+    "itemsBn": [
+      "প্রথম দেখাতেই learner-কে সরাসরি যাচাই করুন — নিজে নিজের দক্ষতা যাচাইয়ের ফর্ম পূরণ করিয়ে, oral interview নিয়ে বা written test দিয়ে।",
+      "Enrolment form বা ভর্তির আবেদনপত্রের মতো আগে পাওয়া কাগজপত্র analyse করে ট্রেইনি সম্পর্কে আগেই জেনে নিন।"
+    ],
+    "title": "Ways to pre-assess a trainee's current competency",
+    "titleBn": "ট্রেইনির current competency যাচাই (pre-assessment)-এর উপায়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -379,6 +393,125 @@
       "text": "Pre-assessment determines current competency. Training needs are determined by identifying the gap."
     }
   ],
+  "visual": {
+    "columns": [
+      "Method",
+      "What it uses"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "1. Checking with the learner",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "When you meet the trainee (first time), you can ask the learner to respond or undergo a self-assessment instrument or subject them to an oral interview or written test.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "At the first meeting: a self-assessment instrument, an oral interview or a written test."
+        }
+      ],
+      [
+        "2. Analyse pre-session information",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "like enrolment form or -pre- application form and other related documents such as;",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Enrolment form or pre-application form, and related documents."
+        }
+      ],
+      [
+        "Related document",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Reports of previous competency assessment undertaken.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Reports of previous competency assessment undertaken."
+        }
+      ],
+      [
+        "Related document",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Resume or Curriculum Vitae.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Resume or Curriculum Vitae."
+        }
+      ],
+      [
+        "Related document",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Enterprise training and assessment records.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Enterprise training and assessment records."
+        }
+      ],
+      [
+        "Related document",
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Performance Reports from Supervisor.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Performance Reports from Supervisor."
+        }
+      ]
+    ],
+    "title": "Pre-assessment methods and what they use (p.11)",
+    "title_bn": "Pre-assessment-এর উপায় ও কী কী ব্যবহার হয়"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

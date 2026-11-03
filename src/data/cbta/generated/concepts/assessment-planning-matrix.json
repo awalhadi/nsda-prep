@@ -39,6 +39,31 @@
     "bn": "ছকের সারিতে performance criteria, কলামে method; মিল থাকলে টিক দেওয়া হয়।",
     "en": "A trainer draws a table. Rows show each performance criterion. Columns show observation, oral questioning and third party report."
   },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 51,
+              "printedPage": null,
+              "quote": "An assessment planning matrix articulates the program learning goals and identifies courses in which material related to these goals is taught and assessed",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It articulates program learning goals and identifies courses where related material is taught and assessed."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p51-planning-matrix"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "assessment-planning-matrix",
   "importance": {
@@ -336,6 +361,7 @@
       "text": "\"Assessment matrix\" means the assessment planning matrix tool."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

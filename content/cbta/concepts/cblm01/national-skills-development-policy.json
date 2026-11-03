@@ -9,7 +9,6 @@
   "cblmPrimary": 1,
   "source_type": "cblm",
   "covers": [
-    "cblm01-p6-b4a28ddb",
     "cblm01-p6-7ec24305",
     "cblm01-p7-126b325e",
     "cblm01-p7-9741f79a"
@@ -26,20 +25,34 @@
     "text": "The National Skills Development Policy will guide skill development strategies in Bangladesh.",
     "fidelity": "paraphrase",
     "cites": [
-      {
-        "src": "cblm01",
-        "page": 6,
-        "quote": "The National Skills Development Policy in Bangladesh will guide skill development strategies"
-      }
+      { "src": "cblm01", "page": 6, "quote": "The National Skills Development Policy in Bangladesh will guide skill development strategies" }
     ]
   },
   "keywords": [
-    { "en": "NSDP", "bn": "জাতীয় দক্ষতা উন্নয়ন নীতি (National Skills Development Policy)" },
-    { "en": "NTVQF", "bn": "জাতীয় কারিগরি ও বৃত্তিমূলক যোগ্যতা কাঠামো" },
-    { "en": "Quality Assurance System (QAS)", "bn": "মান নিশ্চিত করার ব্যবস্থা" },
-    { "en": "Recognition of Prior Learning (RPL)", "bn": "আগে শেখা দক্ষতার স্বীকৃতি" },
-    { "en": "Industry Skills Council (ISC)", "bn": "শিল্প খাতের দক্ষতা পরিষদ" },
-    { "en": "Under-privileged groups", "bn": "সুবিধাবঞ্চিত মানুষ" }
+    {
+      "en": "NSDP",
+      "bn": "জাতীয় দক্ষতা উন্নয়ন নীতি (National Skills Development Policy)"
+    },
+    {
+      "en": "NTVQF",
+      "bn": "জাতীয় কারিগরি ও বৃত্তিমূলক যোগ্যতা কাঠামো"
+    },
+    {
+      "en": "Quality Assurance System (QAS)",
+      "bn": "মান নিশ্চিত করার ব্যবস্থা"
+    },
+    {
+      "en": "Recognition of Prior Learning (RPL)",
+      "bn": "আগে শেখা দক্ষতার স্বীকৃতি"
+    },
+    {
+      "en": "Industry Skills Council (ISC)",
+      "bn": "শিল্প খাতের দক্ষতা পরিষদ"
+    },
+    {
+      "en": "Under-privileged groups",
+      "bn": "সুবিধাবঞ্চিত মানুষ"
+    }
   ],
   "bangla_explanation": [
     "দেশে দক্ষতা উন্নয়ন কীভাবে হবে, তার দিক ঠিক করে দেয় এই Policy।",
@@ -52,6 +65,8 @@
     "bn": "গার্মেন্টস মালিক ISC-তে বসে বলেন কোন দক্ষতা দরকার। এটাই industry-র ভূমিকা শক্তিশালী করা।"
   },
   "list_answer": {
+    "title": "Main features of the National Skills Development Policy (NSDP)",
+    "title_bn": "জাতীয় দক্ষতা উন্নয়ন নীতি (NSDP)-র প্রধান বৈশিষ্ট্য",
     "items": [
       {
         "text": "National Technical & Vocational Qualification Framework (NTVQF)",
@@ -123,6 +138,18 @@
           { "src": "cblm01", "page": 7, "quote": "Accurate Labour Market Information" }
         ]
       }
+    ],
+    "items_bn": [
+      "জাতীয় কারিগরি ও বৃত্তিমূলক যোগ্যতা কাঠামো — NTVQF দিয়ে সারা দেশের qualification একই কাঠামোতে সাজানো হয়।",
+      "যোগ্যতাভিত্তিক training ও assessment — শিক্ষার্থী কাজটা পারে কিনা (competency), সেটাই শেখানো ও যাচাই করা হয়।",
+      "মান নিশ্চিত করার ব্যবস্থা — QAS দিয়ে training ও assessment-এর quality নিশ্চিত করা হয়।",
+      "Skills development-এ industry sectors-এর ভূমিকা জোরদার — industry যুক্ত থাকলে শেখানো দক্ষতা কাজের চাহিদার সাথে মেলে।",
+      "দক্ষ ও সনদপ্রাপ্ত instructors ও trainers — যারা শেখাবেন, তাদের নিজেদেরও competent ও certified হতে হবে।",
+      "কার্যকর ও নমনীয় প্রতিষ্ঠান পরিচালনা — institutional management যেন দক্ষ হয় এবং প্রয়োজনে বদলাতে পারে।",
+      "Apprenticeships জোরদার করা — কাজ করতে করতে শেখার সুযোগ বাড়ানো।",
+      "আগে শেখা দক্ষতার স্বীকৃতি — কাজ করে যে দক্ষতা অর্জন হয়েছে, RPL দিয়ে তা যাচাই করে স্বীকৃতি দেওয়া।",
+      "সুবিধাবঞ্চিত মানুষের সুযোগ — পিছিয়ে পড়া মানুষও যেন skills training-এ access পায়।",
+      "শ্রমবাজারের সঠিক তথ্য — কোন দক্ষতার চাহিদা আছে জানলে সেই অনুযায়ী training পরিকল্পনা করা যায়।"
     ]
   },
   "traps": [

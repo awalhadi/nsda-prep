@@ -32,6 +32,94 @@
     "bn": "নিজের কাজিন assessment-এ এলে সাথে সাথে supervisor-কে জানাতে হবে।",
     "en": "An assessor's cousin enrols in his electrical wiring assessment. He reports this to his supervisor at once."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "You might know or be related to someone who is scheduled to attend one of your assessment events",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "if you think there may be a conflict of interest you must report it to your supervisor immediately",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "It arises when you know or are related to a candidate. Report it to your supervisor immediately."
+      },
+      "concept": "conflict-of-interest",
+      "example": {
+        "bn": "আত্মীয় বা পরিচিত candidate হলে নিজে assess না করে supervisor-কে জানাও।",
+        "en": "Your cousin is booked into your welding assessment. Tell your supervisor at once."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p17-conflict-of-interest"
+      ],
+      "q": "What is a conflict of interest, and what must you do?",
+      "q_bn": "Conflict of interest কী, তখন কী করবে?",
+      "tip": "Know them? Report it.",
+      "tip_bn": "চিনলে জানাও, লুকিও না।"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "working in close communities can create a situation where the issue of conflict of interest may come up",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Working in close communities can create conflicts of interest."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "take actions to ensure that you act ethically and responsibly",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Consult the BTEB Code of Conduct for Assessors",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Act ethically and responsibly. Consult the BTEB Code of Conduct for Assessors."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p17-conflict-of-interest"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "conflict-of-interest",
   "importance": {
@@ -294,6 +382,7 @@
       "text": "They may ask you to assess them, thinking knowing you personally can help them."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

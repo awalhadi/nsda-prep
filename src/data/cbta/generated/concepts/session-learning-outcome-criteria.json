@@ -52,6 +52,213 @@
     "bn": "'বুঝবে' দেখা যায় না, কিন্তু 'কাটবে' চোখে দেখা ও মাপা যায়।",
     "en": "Bad: Trainees will understand welding. Good: Trainees will cut a steel plate to size."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 11,
+            "printedPage": 10,
+            "quote": "Learning outcomes are statements which drawn from the industry competency\nstanders to clearly describe all the skills the trainee should be able to perform\nas a result of the training.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Statements drawn from industry competency standards. They describe all skills the trainee should perform."
+      },
+      "concept": "session-learning-outcome-criteria",
+      "kind": "qa",
+      "outline": [
+        "c07-p11-learning-outcome"
+      ],
+      "q": "What are learning outcomes?",
+      "q_bn": "Learning outcomes কী?",
+      "tip": "Add: all learning outcomes are derived from the elements of units of competency.",
+      "tip_bn": "মনে রাখুন: learning outcomes আসে UoC-এর elements থেকে।"
+    },
+    {
+      "bn": [
+        "Learning outcome দিয়েই training session-এর তথ্য, skills আর activities plan হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 10,
+              "quote": "Once the overall training plan has been developed, the next step is to identify a\nset of learning outcomes that will meet the aim.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 10,
+              "quote": "The learning outcomes must be\ndescribed in much more precise detail",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "After the overall training plan, identify learning outcomes. Describe them in precise detail."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 10,
+              "quote": "all the learning\noutcomes are derived from the elements of different unit of competencies.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "All learning outcomes are derived from the elements of units of competency."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p11-learning-outcome"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 10,
+              "quote": "They must be observable. Can you actually see or observe the\nprogress of the trainee?",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "They must be observable. Can you see the progress of the trainee?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 11,
+              "quote": "They must be measurable. Can you measure the output or progress of\nthe trainee?",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "They must be measurable. Can you measure the output or progress?"
+        }
+      ],
+      "items_bn": [
+        "Observable — trainee-এর অগ্রগতি চোখে দেখা যায় কি না।",
+        "Measurable — output বা অগ্রগতি মাপা যায় কি না।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c07-p11-two-criteria"
+      ],
+      "title": "Criteria of appropriate learning outcomes (CBLM 7)",
+      "title_bn": "উপযুক্ত learning outcome-এর দুটি শর্ত"
+    },
+    {
+      "bn": [
+        "Welding চোখে দেখা যায় (observable), standard মেনেছে কি না মাপা যায় (measurable)।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 11,
+              "quote": "If the learning outcome is \"Perform Shielded Metal Arc Welding-Position\n5G, 6G\", here one can easily observe the performance",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 11,
+              "quote": "so this learning outcome is observable.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 11,
+              "quote": "Learning outcome is also measurable",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "\"Perform Shielded Metal Arc Welding-Position 5G, 6G\" is observable and measurable."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p12-welding-example"
+      ]
+    },
+    {
+      "bn": "CBLM 7-এ শর্ত দুটি, CBLM 9-এ তিনটি (clear verbs)। CBLM 7-এর প্রশ্নে দুটি লিখুন; চাইলে তৃতীয়টি যোগ করুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 10,
+              "quote": "Appropriate learning outcomes need to meet two criteria.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Appropriate learning outcomes need to meet two criteria."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Appropriate learning outcomes need to meet three criteria.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Appropriate learning outcomes need to meet three criteria."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c07-p11-two-criteria"
+      ],
+      "text": "CBLM 7 names two criteria. CBLM 9 adds a third: clear verbs. For a CBLM 7 question write observable and measurable; you may add clear verbs from CBLM 9.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "session-learning-outcome-criteria",
   "importance": {
@@ -129,7 +336,14 @@
         "fidelity": "paraphrase",
         "text": "Clear verbs: verbs that cannot be subject to ambiguity or misinterpretation."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Observable — trainee-র progress আসলেই চোখে দেখা যায় কিনা; যা দেখা যায় না, তা দিয়ে outcome লেখা চলে না।",
+      "Measurable — trainee-র output বা progress মাপা যায় কিনা; মাপা গেলেই বলা যায় outcome অর্জিত হয়েছে কিনা।",
+      "Clear verbs — এমন verb ব্যবহার করুন যার দুই রকম মানে হয় না, যাতে কেউ ভুল না বোঝে (ambiguity না থাকে)।"
+    ],
+    "title": "Criteria for appropriate session learning outcomes",
+    "titleBn": "সঠিক session learning outcome লেখার মানদণ্ড"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -446,6 +660,101 @@
       "text": "These verbs are not observable, not measurable and not precise."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "Here are some action verbs:",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "load • drive • operate • cut • state • specify • identify • produce • explain",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Use action verbs: load, drive, operate, cut, state, specify, identify, produce, explain."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "An action verb gives a concise description of the type of activity",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "An action verb gives a concise description of the activity."
+        }
+      ],
+      "title": "Use: action verbs",
+      "title_bn": "লিখুন: action verbs"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "understand • realise • be aware of • show interest in •know.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Avoid: understand, realise, be aware of, show interest in, know."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "not suitable because they are not observable,",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 32,
+              "printedPage": 32,
+              "quote": "not measurable and not precise:",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "They are not observable, not measurable and not precise."
+        }
+      ],
+      "title": "Avoid: unsuitable verbs",
+      "title_bn": "এড়িয়ে চলুন"
+    },
+    "title": "Action verbs vs unsuitable verbs (p.32)",
+    "title_bn": "ব্যবহারযোগ্য action verbs বনাম অনুপযুক্ত verbs"
+  },
   "vivaDerived": true,
   "warnings": 1
 }

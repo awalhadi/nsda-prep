@@ -71,6 +71,8 @@
     "bn": "সাপ্তাহিক quiz হলো formative, শেষের সার্টিফিকেট পরীক্ষা হলো summative।"
   },
   "list_answer": {
+    "title": "Two main types of assessment",
+    "title_bn": "Assessment-এর দুটি প্রধান ধরন",
     "items": [
       {
         "text": "Formative assessment: assists and supports learning with feedback on performance and progress.",
@@ -101,6 +103,10 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Formative — শেখার সময় performance আর অগ্রগতি নিয়ে feedback দিয়ে শেখাকে সাহায্য করে; পাস-ফেলের জন্য নয়।",
+      "Summative — trainee competent হয়েছে কি না তা ঠিক করে, যাতে recognition বা certification দেওয়া যায়।"
     ]
   },
   "traps": [
@@ -138,6 +144,89 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Formative vs Summative assessment",
+    "title_bn": "Formative বনাম Summative",
+    "left": {
+      "title": "Formative",
+      "title_bn": "শেখার সময়, শেখাতে সাহায্য",
+      "points": [
+        {
+          "text": "Assists and supports learning with feedback on performance and progress.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 14,
+              "quote": "assessment which assists and supports learning by providing feedback about performance and progress towards the achievement of competency"
+            }
+          ]
+        },
+        {
+          "text": "Conducted during training. Designed and conducted by the trainer.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 14,
+              "quote": "Formative assessment is conducted during training and is designed and conducted by the trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "right": {
+      "title": "Summative",
+      "title_bn": "শেষে, competent কিনা সিদ্ধান্ত",
+      "points": [
+        {
+          "text": "Determines whether a trainee has reached competency or the learning outcomes.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 14,
+              "quote": "determine whether a trainee has reached competency, or has achieved the learning outcomes"
+            }
+          ]
+        },
+        {
+          "text": "Used for recognition, classification or certification following a training program.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 26,
+              "quote": "for the purpose of recognition, classification or certification following a training program"
+            }
+          ]
+        },
+        {
+          "text": "Also known as formal assessment. It confirms if the trainee is competent or not.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 14,
+              "quote": "also known as formal assessment and will confirm if your trainee is competent or not"
+            }
+          ]
+        },
+        {
+          "text": "Usually conducted at the end of a period of training.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm11",
+              "page": 14,
+              "quote": "Summative assessment is usually conducted at the end of a period of training"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "Explain the purpose of formative assessment and summative assessment.",

@@ -45,6 +45,102 @@
     "bn": "IT training centre-এ গ্রামের learner, নারী আর কম দেখেন এমন learner আছেন; trainer সবার জন্য ক্লাস সাজান।",
     "en": "An IT training centre has village learners, women and a learner with weak eyesight. The trainer plans the class so each can learn."
   },
+  "extra": [
+    {
+      "bn": [
+        "Information Sheet 1-এর performance criteria 1.1 থেকে 1.4 — উপরের LO 1 তালিকার মতোই।",
+        "এর চারটি অংশ: 1.1 individual differences, 1.2 principles, 1.3 access and equity policy, 1.4 sensitive language।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "Information1 Practice Inclusivity",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            },
+            {
+              "cblm": 2,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 6,
+              "quote": "1. Practice inclusivity in the training/learning environment",
+              "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+              "src": "cblm02"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Information Sheet 1 teaches LO 1: practice inclusivity in the training/learning environment."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c02-p6-information-sheet-1"
+      ],
+      "title": "Information Sheet 1 at a glance"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 2,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "Inclusivity embraces the idea that since everyone is an individual, we need to",
+            "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+            "src": "cblm02"
+          },
+          {
+            "cblm": 2,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "organise teaching and learning environment so that each learner has a learning",
+            "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+            "src": "cblm02"
+          },
+          {
+            "cblm": 2,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 6,
+            "quote": "experience that 'fits'.",
+            "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+            "src": "cblm02"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Everyone is an individual. So organise learning so each learner's experience 'fits'."
+      },
+      "example": {
+        "bn": "Tailoring ক্লাসে একজন দ্রুত, একজন ধীরে শেখে; trainer দুজনকে তাদের মানানসই কাজ দেন।",
+        "en": "A tailoring class has a fast learner and a slow learner. The trainer gives each a task that fits."
+      },
+      "kind": "qa",
+      "outline": [
+        "c02-p6-inclusivity-fits",
+        "c02-p6-inclusivity-meaning"
+      ],
+      "q": "What idea does inclusivity embrace?",
+      "q_bn": "Inclusivity কোন ধারণাকে গ্রহণ করে?",
+      "tip": "Definition first: recognising, accommodating and meeting the learning needs of all your learners.",
+      "tip_bn": "সংজ্ঞায় তিনটি ক্রিয়া মনে রাখুন: recognising, accommodating, meeting।"
+    },
+    {
+      "bn": "'কেন?' প্রশ্নে প্রতিষ্ঠানের তিন লাভ লিখুন: learner প্রস্তুত, ভালো মানের সেবা, আইন ও standard মানা।",
+      "kind": "note",
+      "outline": [
+        "c02-p6-why-practice"
+      ],
+      "text": "'Why practice inclusivity?' asks what the organisation gains. Write the three: prepare learners, better quality services, meet obligations.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "inclusivity-definition",
   "importance": {
@@ -71,6 +167,10 @@
     {
       "bn": "ভিন্ন ভিন্ন সমাজ বা গোষ্ঠী",
       "en": "Diverse communities"
+    },
+    {
+      "bn": "মানানসই হওয়া, খাপ খাওয়া",
+      "en": "Fit"
     }
   ],
   "likelyTypes": [
@@ -143,7 +243,14 @@
         "fidelity": "verbatim",
         "text": "Ensure it meets its obligations arising out of legislation and standard."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Learners-কে বৈচিত্র্যময় (diverse) workplaces ও communities-এ আরও কার্যকর ও নমনীয়ভাবে কাজের জন্য তৈরি করা — বাস্তবে নানা ধরনের মানুষের সাথেই কাজ করতে হয়।",
+      "প্রতিযোগিতার বাজারে আরও বেশি learners ও clients-কে ভালো মানের services দেওয়া — সবাইকে সেবা দিতে পারলে প্রতিষ্ঠান এগিয়ে থাকে।",
+      "আইন (legislation) ও standard থেকে আসা বাধ্যবাধকতা পূরণ করা — inclusivity মানা প্রতিষ্ঠানের আইনি দায়িত্বও।"
+    ],
+    "title": "Why an organisation practises inclusivity",
+    "titleBn": "একটা প্রতিষ্ঠান কেন inclusivity চর্চা করে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -483,8 +590,42 @@
       ],
       "fidelity": "paraphrase",
       "text": "'Why practice inclusivity?' asks what an inclusive learning culture helps the organization do."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 2,
+          "match": "exact",
+          "page": 6,
+          "printedPage": 6,
+          "quote": "Inclusivity embraces the idea that since everyone is an individual, we need to",
+          "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+          "src": "cblm02"
+        },
+        {
+          "cblm": 2,
+          "match": "exact",
+          "page": 6,
+          "printedPage": 6,
+          "quote": "organise teaching and learning environment so that each learner has a learning",
+          "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+          "src": "cblm02"
+        },
+        {
+          "cblm": 2,
+          "match": "exact",
+          "page": 6,
+          "printedPage": 6,
+          "quote": "experience that 'fits'.",
+          "sourceTitle": "Promote Inclusive Learning in a CBT&A Environment",
+          "src": "cblm02"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Inclusivity is not one way for all; each learner needs a learning experience that 'fits'."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

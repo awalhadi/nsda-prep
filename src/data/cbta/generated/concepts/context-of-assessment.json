@@ -32,7 +32,7 @@
     "আগে থেকে এগুলো ঠিক করে রাখলে assessment ঠিকমতো, expected ভাবে হয়।"
   ],
   "breakdown": {
-    "exam": 2,
+    "exam": 0,
     "highlight": 3,
     "repeat": 2
   },
@@ -42,11 +42,54 @@
     "bn": "গ্যারেজের যন্ত্র ও জায়গা = physical, সহকর্মীরা = social, এক দিন = time period।",
     "en": "A motor mechanic is assessed in a real garage workshop. The tools and space are the physical environment. The co-workers are the social environment. The test lasts one day."
   },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "A combination of circumstances may be prepared and",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "established prior to the assessment as this will ensure that the assessment",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 9,
+              "quote": "process will take place as expected.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Circumstances are prepared and established prior to assessment, so it takes place as expected."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p9-context-of-assessment"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "context-of-assessment",
   "importance": {
-    "bn": "CBLM 11 Self Check 1 (Q4)-এ এসেছে। CBLM 12-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
-    "en": "Asked in CBLM 11 Self Check 1 (Q4). Highlighted in CBLM 12. Comes as short question."
+    "bn": "CBLM 12-এ highlight করা আছে।",
+    "en": "Highlighted in CBLM 12."
   },
   "keywords": [
     {
@@ -70,9 +113,7 @@
       "en": "Real work"
     }
   ],
-  "likelyTypes": [
-    "short"
-  ],
+  "likelyTypes": [],
   "listAnswer": {
     "declaredCount": null,
     "items": [
@@ -122,7 +163,14 @@
         "fidelity": "verbatim",
         "text": "Time period over which assessment takes place"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Assessment কোন পরিবেশে হবে — physical environment (জায়গা) আর social environment (মানুষজন ও পরিস্থিতি) দুটোই।",
+      "Units of competency-র সাথে candidate-এর real work-এর কী সম্পর্ক, তা দেখা হয়।",
+      "Assessment কত সময় ধরে চলবে — সেই time period-ও context-এর অংশ।"
+    ],
+    "title": "What the context of assessment may include",
+    "titleBn": "Context of assessment-এ যা থাকতে পারে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -317,21 +365,8 @@
       "prompt": "Which two kinds of environment does the context include?"
     }
   },
-  "realQuestions": [
-    {
-      "answer": "The context of assessment is the environment or setting in which the assessment\nactivity takes place. The environment may be prepared and established prior to\nthe assessment as this will ensure that the assessment process will take place as\nexpected.",
-      "flags": [],
-      "id": "cblm11-sc1-q4",
-      "kind": "selfcheck",
-      "label": "CBLM 11 Self Check 1 (Q4)",
-      "page": 25,
-      "printedPage": 25,
-      "question": "What do you understand by context of assessment",
-      "src": "cblm11",
-      "type": "short"
-    }
-  ],
-  "score": 7,
+  "realQuestions": [],
+  "score": 5,
   "sourceType": "cblm",
   "stars": 2,
   "status": "draft",
@@ -368,6 +403,7 @@
       "text": "It is not necessary to notify everyone who has some interest."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 1
 }

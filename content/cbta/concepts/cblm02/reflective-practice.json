@@ -1,0 +1,255 @@
+{
+  "id": "reflective-practice",
+  "canonical_title": "Reflective Practice to Improve Inclusive Work",
+  "aliases": [
+    "Reflective practice",
+    "Identifying, modifying and improving your work practices to enhance inclusivity"
+  ],
+  "cblmPrimary": 2,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Reflective practice means taking time out regularly to reflect on your work and improve it.",
+    "cites": [
+      {
+        "src": "cblm02",
+        "page": 27,
+        "quote": "develop what is called reflective practice, which simply involves"
+      },
+      {
+        "src": "cblm02",
+        "page": 27,
+        "quote": "taking time out (on a regular basis) to reflect on your work and to develop strategies"
+      },
+      {
+        "src": "cblm02",
+        "page": 27,
+        "quote": "to improve your practices."
+      }
+    ],
+    "fidelity": "paraphrase"
+  },
+  "keywords": [
+    {
+      "en": "Reflective practice",
+      "bn": "নিজের কাজ নিয়ে নিয়মিত ভাবা ও শেখা"
+    },
+    {
+      "en": "Conscious actions",
+      "bn": "সচেতন পদক্ষেপ"
+    },
+    {
+      "en": "Critically questioning",
+      "bn": "নিজেকে প্রশ্ন করে যাচাই"
+    },
+    {
+      "en": "Inclusive difficulties",
+      "bn": "সবাইকে সাথে নিতে গিয়ে আসা সমস্যা"
+    }
+  ],
+  "bangla_explanation": [
+    "সত্যিকারের inclusive পরিবেশ গড়তে নিজের কাজের ভালো practices খুঁজে বের করতে আর সচেতনভাবে বদলাতে হয়।",
+    "এর ভালো উপায় reflective practice: নিয়মিত সময় নিয়ে নিজের কাজ নিয়ে ভাবা আর উন্নতির কৌশল ঠিক করা।",
+    "তিনভাবে reflect করা যায়: সমস্যা বিশ্লেষণ, নিজের কাজকে প্রশ্ন করা, আর colleagues ও clients-এর সাথে আলোচনা।"
+  ],
+  "example": {
+    "en": "Every Thursday, an IT trainer notes which learners struggled and asks herself why. She discusses it with a colleague.",
+    "bn": "প্রতি বৃহস্পতিবার একজন IT trainer লিখে রাখেন কোন learner পিছিয়ে ছিল, নিজেকে প্রশ্ন করেন কেন, আর colleague-এর সাথে আলোচনা করেন।"
+  },
+  "list_answer": {
+    "title": "Ways to reflect on your work",
+    "title_bn": "নিজের কাজ নিয়ে reflect করার উপায়",
+    "items": [
+      {
+        "text": "Analysing inclusive difficulties encountered by you, your colleagues and your clients",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 27,
+            "quote": "Analysing inclusive difficulties encountered by you, your colleagues and your clients"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Critically questioning your own work practices",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 27,
+            "quote": "Critically questioning your own work practices"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Holding discussions with colleagues and clients",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 27,
+            "quote": "Holding discussions with colleagues and clients"
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "items_bn": [
+      "আপনি, colleagues আর clients যে inclusive difficulties-এর মুখে পড়েছেন, সেগুলো বিশ্লেষণ করা।",
+      "নিজের work practices-কে নিজেই critically প্রশ্ন করা — কেন এভাবে করছি, আরও ভালো উপায় আছে কি?",
+      "Colleagues আর clients-এর সাথে আলোচনা করা — তারা কী ভাবে জানা।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "Reflective practice means taking time out on a regular basis.",
+      "cites": [
+        {
+          "src": "cblm02",
+          "page": 27,
+          "quote": "taking time out (on a regular basis) to reflect on your work and to develop strategies"
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "You take conscious actions to modify and improve your own work practices.",
+      "cites": [
+        {
+          "src": "cblm02",
+          "page": 27,
+          "quote": "you will also need to take conscious actions to"
+        },
+        {
+          "src": "cblm02",
+          "page": 27,
+          "quote": "modify and improve your own work practices."
+        }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "What is reflective practice? How can you reflect on your work?",
+      "modelAnswer": "Reflective practice means taking time out, on a regular basis, to reflect on my work. I then develop strategies to improve my practices. I can reflect by:\n1. Analysing inclusive difficulties met by me, my colleagues and my clients\n2. Critically questioning my own work practices\n3. Holding discussions with colleagues and clients",
+      "keyPoints": [
+        {
+          "text": "Reflective practice is a good way to review your inclusive approach to work.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 27,
+              "quote": "A good way to review your inclusive approach to work is to develop what is called reflective practice"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "It increases your awareness of inclusivity.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 27,
+              "quote": "Reflective practice is a good way to increase your"
+            },
+            {
+              "src": "cblm02",
+              "page": 27,
+              "quote": "awareness of inclusivity"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "critically questioning your own work practices",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 27,
+              "quote": "critically questioning your own work practices"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Which is a way of reflecting on your work, per CBLM 2?",
+      "options": [
+        "Holding discussions with colleagues and clients",
+        "Attaching support to an individual",
+        "Changing work schedules",
+        "Implementing policies on fee reduction"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm02",
+        "page": 27,
+        "quote": "holding discussions with colleagues and clients."
+      }
+    },
+    "matching": {
+      "prompt": "Match each part of reflective practice.",
+      "pairs": [
+        {
+          "left": "Reflective practice",
+          "right": "taking time out to reflect on your work",
+          "cite": {
+            "src": "cblm02",
+            "page": 27,
+            "quote": "taking time out (on a regular basis) to reflect on your work and to develop strategies"
+          }
+        },
+        {
+          "left": "Analysing",
+          "right": "inclusive difficulties",
+          "cite": {
+            "src": "cblm02",
+            "page": 27,
+            "quote": "analysing inclusive difficulties encountered by you, your colleagues and your"
+          }
+        },
+        {
+          "left": "Critically questioning",
+          "right": "your own work practices",
+          "cite": {
+            "src": "cblm02",
+            "page": 27,
+            "quote": "critically questioning your own work practices; and"
+          }
+        },
+        {
+          "left": "Holding discussions",
+          "right": "with colleagues and clients",
+          "cite": {
+            "src": "cblm02",
+            "page": 27,
+            "quote": "holding discussions with colleagues and clients."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why use reflective practice?",
+      "answer": {
+        "text": "It increases your awareness of inclusivity and improves how you promote inclusion.",
+        "cites": [
+          {
+            "src": "cblm02",
+            "page": 27,
+            "quote": "Reflective practice is a good way to increase your"
+          },
+          {
+            "src": "cblm02",
+            "page": 27,
+            "quote": "awareness of inclusivity and to improve the way in which you promote an inclusive"
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": []
+}

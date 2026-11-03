@@ -47,6 +47,237 @@
     "bn": "আগে থেকে জানা দক্ষতার জন্য RPL দিয়ে credit দেওয়া।",
     "en": "An electrician trainee already wires houses. RPL gives credit, so he skips that module."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "The teacher in charge will schedule the operations of the students so that a smooth",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "no unnecessary hold-ups caused by a number of",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 14,
+            "printedPage": 14,
+            "quote": "students waiting to use the same machinery.",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The teacher schedules students' operations, so no one waits for the same machinery."
+      },
+      "kind": "qa",
+      "outline": [
+        "c06-p14-planning-facility"
+      ],
+      "q": "How does the teacher keep a smooth workflow in a CBT facility?",
+      "q_bn": "CBT facility-তে শিক্ষক কীভাবে কাজের প্রবাহ মসৃণ রাখেন?"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "less equipment is required as there is no need for class sets materials can be",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "purchased for students on a needs basis and requires fewer to be kept in",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Less equipment is required; no class sets; materials bought on a needs basis."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "due to their previous experience and ability, some students will use fewer",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "materials in some exercises",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Due to experience and ability, some students use fewer materials in some exercises."
+        }
+      ],
+      "items_bn": [
+        "Class set লাগে না, প্রয়োজন মতো materials কেনা হয়, store-এ কম রাখতে হয়।",
+        "অভিজ্ঞ ও দক্ষ student-রা কিছু অনুশীলনে কম materials খরচ করে।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c06-p14-cost-effective"
+      ],
+      "title": "Why competency-based instruction is more cost effective",
+      "title_bn": "CBT কেন কম খরচের (২টি কারণ)"
+    },
+    {
+      "bn": [
+        "CBT delivery teacher-centred থেকে self-paced পর্যন্ত নানাভাবে হতে পারে; assessment on বা off-the-job হতে পারে।",
+        "Self-contained unit দিয়ে তৈরি modular training পছন্দনীয়, কারণ learner-এর প্রয়োজনমতো জোড়া লাগানো যায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "It is difficult to put a figure on the individual trainee's space requirements",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Space will depend on the kind of workshop training",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "required for a specific industry.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It is difficult to put a figure on individual trainee space; it depends on the industry."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Industry is progressively developing new classifications and job structures, based on",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "competencies identified in standards endorsed by national authorities.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Industry develops job structures based on competencies in standards endorsed by national authorities."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 14,
+              "printedPage": 14,
+              "quote": "Modular training made up from self-contained units is preferred.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Modular training made up from self-contained units is preferred."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "These can be combined in different ways to meet the specific needs of the learners",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Modules can be combined in different ways to meet learners' specific needs."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p14-cbt-delivery-modular"
+      ]
+    },
+    {
+      "bn": [
+        "Curriculum-এর ১২টি বৈশিষ্ট্য (card-এর তালিকা) workshop-এর নকশায় জায়গা পেতে হবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "The workshop must be designed to allow these characteristics of CBT to be accommodated.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The workshop must be designed to allow these characteristics of CBT to be accommodated."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p15-cbt-curriculum"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "cbt-facility-curriculum",
   "importance": {
@@ -322,7 +553,23 @@
         "fidelity": "paraphrase",
         "text": "Provide for a review to evaluate the appropriateness of curriculum."
       }
-    ]
+    ],
+    "itemsBn": [
+      "আগে শেখা দক্ষতা assess করে তার credit দেওয়া (RPL), যাতে যা আগেই জানে তা আবার শিখতে না হয়।",
+      "Modular form-এ থাকা — প্রশিক্ষণ ছোট ছোট স্বয়ংসম্পূর্ণ ইউনিটে ভাগ করা।",
+      "Articulated training pathways রাখা — এক ধাপের প্রশিক্ষণ শেষে পরের ধাপে যাওয়ার পথ খোলা থাকা।",
+      "আলাদা আলাদা অংশের content আর competencies-কে জুড়ে দেওয়া, যেমন project work-এর মাধ্যমে।",
+      "স্বীকৃত key competencies গড়ে তোলা, যার মধ্যে problem solving-এর মতো cognitive skills আছে।",
+      "নানা ধরনের learning strategies রাখা আর সেগুলোতে free access দেওয়া, যাতে প্রত্যেকে নিজের মতো করে শিখতে পারে।",
+      "শুধু training outcomes নয়, শেখার process-কেও সমান গুরুত্ব দেওয়া।",
+      "Flexible form-এ থাকা — বিভিন্ন জায়গা, সময় আর modes of delivery-তে শেখার সুযোগ।",
+      "Learner কোন কোন competencies অর্জন করল, তার reports আর feedback দেওয়া।",
+      "Assessments সঠিকভাবে রেকর্ড করা, আর দরকারে যেন সেগুলো হাতে পাওয়া যায় (accessible)।",
+      "সবচেয়ে কার্যকর (effective) আর কম অপচয়ে (efficient) competencies অর্জনের সুযোগ করে দেওয়া।",
+      "Curriculum কতটা উপযুক্ত, তা যাচাইয়ের জন্য review-এর ব্যবস্থা রাখা।"
+    ],
+    "title": "Characteristics of a curriculum for competency-based training",
+    "titleBn": "দক্ষতাভিত্তিক প্রশিক্ষণের (CBT) curriculum-এর বৈশিষ্ট্য"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -603,6 +850,7 @@
       "text": "Competency-based assessment may include on or off-the-job assessment."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

@@ -40,6 +40,458 @@
     "bn": "মেশিন হঠাৎ নষ্ট হলে কী করবেন? এটাই contingency question।",
     "en": "An assessor asks a welding trainee: \"What would you do if the machine broke down?\""
   },
+  "extra": [
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "Observation cannot be used",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Observation cannot be used"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "Verifying observations",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Verifying observations"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "Check underpinning knowledge",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Check underpinning knowledge"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "Explore dimensions of competency ie: contingency skills, problem solution etc",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Explore dimensions of competency, e.g. contingency skills, problem solution"
+        }
+      ],
+      "items_bn": [
+        "যে কাজ চোখে দেখে যাচাই করা যায় না, সেখানে প্রশ্ন করে প্রমাণ নেওয়া হয়।",
+        "Observation-এ যা দেখা গেছে তা ঠিক কি না, প্রশ্ন করে নিশ্চিত হওয়া যায়।",
+        "কাজের পেছনের underpinning knowledge candidate জানে কি না, প্রশ্ন করে যাচাই করা হয়।",
+        "হঠাৎ সমস্যা হলে candidate কী করবে — এমন contingency skills আর problem solution প্রশ্ন দিয়ে দেখা হয়।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c11-p66-oral-questioning-when"
+      ],
+      "title": "When oral questioning is prepared",
+      "title_bn": "কখন oral questioning তৈরি করবে"
+    },
+    {
+      "columns": [
+        "Question type",
+        "Example wording"
+      ],
+      "kind": "table",
+      "outline": [
+        "c11-p66-extension-questions",
+        "c11-p66-contingency-questions",
+        "c11-p66-safety-questions",
+        "c11-p66-infrequent-questions",
+        "c11-p66-regulation-questions",
+        "c11-p66-reflective-questions"
+      ],
+      "rows": [
+        [
+          "Extension questions",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What would you do if ... ? (a similar but different situation)",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What if you were using ... instead of ... ? (alternative equipment/procedures",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "What would you do if ...? (a similar but different situation) What if you were using ... instead of ...?"
+          }
+        ],
+        [
+          "Contingency questions",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What would you do in the event of ...? (accident or emergency)",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What would you do if ... ? (equipment broke down or something malfunctioned)",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What would you do if ... (complaint was made or conflict occurred)",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "How do you avoid ... ? (preventative safety measure) Safety questions",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "What would you do in the event of ...? (accident or emergency) What would you do if ...? (equipment broke down) What would you do if ...? (complaint or conflict) How do you avoid ...? (preventative safety measure)"
+          }
+        ],
+        [
+          "Safety questions",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What precautions must you take when ... ?",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What safety equipment and clothing should you use when ... ?",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "Why shouldn't you ... ? (procedure or activity that is not permitted)",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What would you do if ... ? (dangerous situation)",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "What precautions must you take when ...? What safety equipment and clothing should you use when ...? Why shouldn't you ...? What would you do if ...? (dangerous situation) How do you avoid ...?"
+          }
+        ],
+        [
+          "Questions on infrequent activities",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What would you do if ...? (rarely occurring but critical situation)",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "If ... happened, what action would you take?",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "What would you do if ...? (rarely occurring but critical situation) If ... happened, what action would you take?"
+          }
+        ],
+        [
+          "Questions on regulations and procedures",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What are the regulations in respect of ... ?",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What are the specified procedures or steps to ... ?",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What checks are required by the manufacturer to ... ?",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What is the regulation that covers ... ? (situation or activity)",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What are the organisational regulations that apply when ... happens?",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "What are the regulations in respect of ...? What are the specified procedures or steps to ...? What checks does the manufacturer require to ...? What regulation covers ...? What organisational regulations apply when ... happens?"
+          }
+        ],
+        [
+          "Reflective questions",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "If you had to show a fellow worker how to do ......... what would you do?",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "If you were doing this task again what would you do?",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "What is one tip you could give a fellow worker about doing this task?",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 66,
+                "printedPage": 66,
+                "quote": "How could you improve the way in which you performed this task?",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "If you had to show a fellow worker how to do ..., what would you do? If you were doing this task again what would you do? What is one tip for a fellow worker? How could you improve your performance of this task?"
+          }
+        ]
+      ],
+      "title": "Six types of oral questions (p.66)",
+      "title_bn": "৬ ধরনের oral question ও উদাহরণ"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 66,
+            "printedPage": 66,
+            "quote": "What would you do if ... ? (equipment broke down or something malfunctioned)",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "What would you do if equipment broke down or something malfunctioned?"
+      },
+      "concept": "oral-questioning-tool",
+      "example": {
+        "bn": "হঠাৎ সমস্যা হলে কী করবে: এটাই contingency।",
+        "en": "Garments test: 'What would you do if the sewing machine needle broke during stitching?'"
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p66-contingency-questions"
+      ],
+      "q": "Give an example of a contingency question.",
+      "q_bn": "Contingency question-এর একটি উদাহরণ দাও।",
+      "tip": "Contingency = sudden problem (breakdown, accident, complaint).",
+      "tip_bn": "Contingency = আকস্মিক সমস্যা।"
+    },
+    {
+      "bn": "মনে রাখো E-C-S-I-R-R। \"How do you avoid ...?\" প্রশ্নটা contingency আর safety দুই জায়গাতেই আছে।",
+      "kind": "note",
+      "outline": [
+        "c11-p66-extension-questions",
+        "c11-p66-reflective-questions"
+      ],
+      "text": "Tell the 6 types apart: Extension = similar but different case; Contingency = breakdown or emergency; Safety = precautions; Infrequent = rare but critical; Regulations = rules and steps; Reflective = look back and improve.",
+      "tone": "tip"
+    },
+    {
+      "cite": {
+        "cblm": 11,
+        "match": "exact",
+        "page": 67,
+        "printedPage": 67,
+        "quote": "Sample Oral Questioning Tool",
+        "sourceTitle": "Design and Develop Competency Based Assessment",
+        "src": "cblm11"
+      },
+      "columns": [
+        "Questions",
+        "Satisfactory response: Yes",
+        "No"
+      ],
+      "fields": [
+        "Candidate name: Ms. Y",
+        "Assessor name: Mr. X",
+        "Assessment Centre",
+        "Unit of competency: Operate a Personal Computer",
+        "Instructions for the assessor",
+        "Date of assessment",
+        "Location of assessment activity",
+        "The candidate answer of the following questions satisfactorily"
+      ],
+      "footer": [
+        "The candidate's underpinning knowledge was: Satisfactory / Not Satisfactory",
+        "Feedback to candidate",
+        "The candidate's overall performance was: Satisfactory / Not Satisfactory",
+        "Assessor signature",
+        "Date"
+      ],
+      "kind": "form",
+      "note_bn": "দুইবার Satisfactory/Not Satisfactory: একবার underpinning knowledge-এর জন্য, একবার overall performance-এর জন্য।",
+      "outline": [
+        "c11-p67-sample-oral-tool"
+      ],
+      "rows": [
+        [
+          "1. What is the difference between a search engine and a browser?",
+          "☐",
+          "☐"
+        ],
+        [
+          "2. What is a URL?",
+          "☐",
+          "☐"
+        ],
+        [
+          "3. If I wanted information on contextual learning what search criteria would I enter?",
+          "☐",
+          "☐"
+        ],
+        [
+          "4. What do people use bookmarks? How do I create a bookmark?",
+          "☐",
+          "☐"
+        ],
+        [
+          "5. What would you do if you wanted to go to a website you located yesterday but had forgotten the site's address?",
+          "☐",
+          "☐"
+        ],
+        [
+          "6. Based on your experience. List three uses of the Internet in your teaching?",
+          "☐",
+          "☐"
+        ]
+      ],
+      "title": "Sample Oral Questioning Tool",
+      "title_bn": "নমুনা Oral Questioning Tool"
+    }
+  ],
   "highlighted": true,
   "id": "oral-questioning-tool",
   "importance": {
@@ -134,7 +586,15 @@
         "fidelity": "paraphrase",
         "text": "Explore dimensions of competency: contingency skills, problem solution."
       }
-    ]
+    ],
+    "itemsBn": [
+      "যে কাজ চোখে দেখে যাচাই করা যায় না, সেখানে প্রশ্ন করে প্রমাণ নেওয়া হয়।",
+      "Observation-এ যা দেখা গেছে তা ঠিক কি না, প্রশ্ন করে নিশ্চিত হওয়া যায়।",
+      "কাজের পেছনের underpinning knowledge candidate জানে কি না, প্রশ্ন করে যাচাই করা হয়।",
+      "হঠাৎ সমস্যা হলে candidate কী করবে — এমন contingency skills আর problem solution প্রশ্ন দিয়ে দেখা হয়।"
+    ],
+    "title": "When oral questioning is prepared",
+    "titleBn": "কখন oral questioning তৈরি করা হয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -497,6 +957,260 @@
       "text": "Questioning also explores dimensions of competency, like contingency skills and problem solution."
     }
   ],
+  "visual": {
+    "columns": [
+      "Question type",
+      "Example wording"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Extension questions",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What would you do if ... ? (a similar but different situation)",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What if you were using ... instead of ... ? (alternative equipment/procedures",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "What would you do if ...? (a similar but different situation) What if you were using ... instead of ...?"
+        }
+      ],
+      [
+        "Contingency questions",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What would you do in the event of ...? (accident or emergency)",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What would you do if ... ? (equipment broke down or something malfunctioned)",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What would you do if ... (complaint was made or conflict occurred)",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "How do you avoid ... ? (preventative safety measure) Safety questions",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "What would you do in the event of ...? (accident or emergency) What would you do if ...? (equipment broke down) What would you do if ...? (complaint or conflict) How do you avoid ...? (preventative safety measure)"
+        }
+      ],
+      [
+        "Safety questions",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What precautions must you take when ... ?",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What safety equipment and clothing should you use when ... ?",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "Why shouldn't you ... ? (procedure or activity that is not permitted)",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What would you do if ... ? (dangerous situation)",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "What precautions must you take when ...? What safety equipment and clothing should you use when ...? Why shouldn't you ...? What would you do if ...? (dangerous situation) How do you avoid ...?"
+        }
+      ],
+      [
+        "Questions on infrequent activities",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What would you do if ...? (rarely occurring but critical situation)",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "If ... happened, what action would you take?",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "What would you do if ...? (rarely occurring but critical situation) If ... happened, what action would you take?"
+        }
+      ],
+      [
+        "Questions on regulations and procedures",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What are the regulations in respect of ... ?",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What are the specified procedures or steps to ... ?",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What checks are required by the manufacturer to ... ?",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What is the regulation that covers ... ? (situation or activity)",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What are the organisational regulations that apply when ... happens?",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "What are the regulations in respect of ...? What are the specified procedures or steps to ...? What checks does the manufacturer require to ...? What regulation covers ...? What organisational regulations apply when ... happens?"
+        }
+      ],
+      [
+        "Reflective questions",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "If you had to show a fellow worker how to do ......... what would you do?",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "If you were doing this task again what would you do?",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "What is one tip you could give a fellow worker about doing this task?",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 66,
+              "printedPage": 66,
+              "quote": "How could you improve the way in which you performed this task?",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "If you had to show a fellow worker how to do ..., what would you do? If you were doing this task again what would you do? What is one tip for a fellow worker? How could you improve your performance of this task?"
+        }
+      ]
+    ],
+    "title": "Six types of oral questions (p.66)",
+    "title_bn": "ছয় ধরনের oral question"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

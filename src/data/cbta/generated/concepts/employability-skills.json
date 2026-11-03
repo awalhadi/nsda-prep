@@ -45,6 +45,140 @@
     "bn": "Student information system-এ assessment record করা হলো Technology skill।",
     "en": "A trainer records assessments in the student information system. This shows the Technology skill."
   },
+  "extra": [
+    {
+      "bn": "CBLM বলে আটটি, কিন্তু table-এ সাতটি। সাতটি লিখুন; আটটি চাইলে planning and organising যোগ করুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "managing work",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "tasks, timelines and priorities is",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "one of the eight Employability Skills",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "p.41 says managing work tasks, timelines and priorities is one of the eight Employability Skills."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Employability Skill",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Communication",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Teamwork",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 43,
+              "printedPage": 43,
+              "quote": "Problem Solving",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 43,
+              "printedPage": 43,
+              "quote": "Initiative and",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 43,
+              "printedPage": 43,
+              "quote": "Enterprise",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 43,
+              "printedPage": 43,
+              "quote": "Self-management",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 43,
+              "printedPage": 43,
+              "quote": "Learning",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 43,
+              "printedPage": 43,
+              "quote": "Technology",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Employability Skill table: Communication, Teamwork, Problem Solving, Initiative and Enterprise, Self-management, Learning, Technology."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c01-p42-employability-skills",
+        "c01-p42-employability-skills-table"
+      ],
+      "text": "Write the seven skills in the table. If asked for 'eight', add planning and organising as the eighth.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "employability-skills",
   "importance": {
@@ -312,7 +446,18 @@
         "fidelity": "paraphrase",
         "text": "Technology: use technology to enhance outcomes; record assessments in student information systems."
       }
-    ]
+    ],
+    "itemsBn": [
+      "যোগাযোগ — client-এর needs বুঝতে শোনা, প্রশ্ন করা, পড়া আর documents লেখা।",
+      "দলবদ্ধ কাজ — colleagues-এর সাথে মিলে কাজ করা ও assessment validation sessions-এ অংশ নেওয়া।",
+      "সমস্যা সমাধান — hazards চিহ্নিত করা, risks যাচাই করা, আর client needs পূরণের উপায় (options) বের করা।",
+      "উদ্যোগ ও সৃজনশীলতা — clients-এর training needs মেটাতে নিজে থেকে নতুনভাবে চিন্তা করা।",
+      "নিজেকে সামলানো — নিজের কাজ ও কাজের সম্পর্ক manage করা, আর ethical ও legal দায়িত্ব মেনে চলা।",
+      "শেখা — নিজের কাজ নিজে মূল্যায়ন (self evaluation) ও reflection করা, আর colleagues-এর কাছে feedback চাওয়া।",
+      "প্রযুক্তি — technology দিয়ে কাজের ফল ভালো করা, যেমন student information systems-এ assessment রেকর্ড করা।"
+    ],
+    "title": "Employability skills",
+    "titleBn": "Employability skills (চাকরি পাওয়া ও এগিয়ে যাওয়ার দক্ষতা)"
   },
   "mnemonic": {
     "explain_bn": "প্রতিটা অক্ষর একটা skill-এর প্রথম অক্ষর, table-এর ক্রমে।",
@@ -627,6 +772,152 @@
       "text": "Managing work tasks, timelines and priorities is also one of the Employability Skills."
     }
   ],
+  "visual": {
+    "columns": [
+      "Employability Skill",
+      "Industry requirements for this qualification include"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Communication",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "interpreting the needs of the client (and writing to these); utilizing a range of communication skills such as listening, questioning, reading, interpreting and writing documents; writing hazard and incident reports; using effective facilitation and interpersonal skills (including verbal and body language) which are sensitive to the needs of others; applying mentoring, coaching and tutoring techniques",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "interpreting the needs of the client (and writing to these); utilizing a range of communication skills such as listening, questioning, reading, interpreting and writing documents; writing hazard and incident reports; using effective facilitation and interpersonal skills (including verbal and body language) which are sensitive to the needs of others; applying mentoring, coaching and tutoring techniques"
+        }
+      ],
+      [
+        "Teamwork",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "working with colleagues to compare, review and evaluate assessment processes and outcomes; actively participating in assessment validation sessions; managing work relationships and seeking feedback from colleagues and clients on your professional performance; developing and evaluating with others; customizing learning programs for individual or group needs",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "working with colleagues to compare, review and evaluate assessment processes and outcomes; actively participating in assessment validation sessions; managing work relationships and seeking feedback from colleagues and clients on your professional performance; developing and evaluating with others; customizing learning programs for individual or group needs"
+        }
+      ],
+      [
+        "Problem Solving",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 43,
+              "printedPage": 43,
+              "quote": "identifying hazards and assessing risks in the learning environment; using time management skills in designing learning programs; calculating the cost of programs and the logistics of delivery (and accessing appropriate resources); generating a range of options to meet client needs",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "identifying hazards and assessing risks in the learning environment; using time management skills in designing learning programs; calculating the cost of programs and the logistics of delivery (and accessing appropriate resources); generating a range of options to meet client needs"
+        }
+      ],
+      [
+        "Initiative and Enterprise",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 43,
+              "printedPage": 43,
+              "quote": "interpreting the learning environment and selecting",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 43,
+              "printedPage": 43,
+              "quote": "delivery approaches that motivate and engage learners; monitoring and improving work practices to enhance inclusivity and learning; being creative to meet the training needs of clients; applying design skills to develop innovative, flexible and cost-effective programs",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "interpreting the learning environment and selecting delivery approaches that motivate and engage learners; monitoring and improving work practices to enhance inclusivity and learning; being creative to meet the training needs of clients; applying design skills to develop innovative, flexible and cost-effective programs"
+        }
+      ],
+      [
+        "Self-management",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 43,
+              "printedPage": 43,
+              "quote": "working within policy and organizational frameworks; managing work and work relationships; adhering to ethical and legal responsibilities; taking a personal role and responsibility in the planning, delivery and review of training; being a role model for inclusiveness and demonstrating professionalism; examining personal perceptions and attitudes",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "working within policy and organizational frameworks; managing work and work relationships; adhering to ethical and legal responsibilities; taking a personal role and responsibility in the planning, delivery and review of training; being a role model for inclusiveness and demonstrating professionalism; examining personal perceptions and attitudes"
+        }
+      ],
+      [
+        "Learning",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 43,
+              "printedPage": 43,
+              "quote": "undertaking self evaluation and reflection practices; researching information and accessing policies and frameworks to maintain currency of knowledge and skills; promoting a culture of learning in the workplace; seeking feedback from colleagues; facilitating individual, group-based and work-based learning",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "undertaking self evaluation and reflection practices; researching information and accessing policies and frameworks to maintain currency of knowledge and skills; promoting a culture of learning in the workplace; seeking feedback from colleagues; facilitating individual, group-based and work-based learning"
+        }
+      ],
+      [
+        "Technology",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 43,
+              "printedPage": 43,
+              "quote": "using technology to enhance outcomes (including online delivery and web-based research); using student information management systems to record assessments; identifying and organizing technology and equipment needs prior to training; using a range of software (including presentation packages)",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "using technology to enhance outcomes (including online delivery and web-based research); using student information management systems to record assessments; identifying and organizing technology and equipment needs prior to training; using a range of software (including presentation packages)"
+        }
+      ]
+    ],
+    "title": "Employability skills and industry requirements (p.42-44)",
+    "title_bn": "সাতটি employability skill আর প্রতিটির industry requirements"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

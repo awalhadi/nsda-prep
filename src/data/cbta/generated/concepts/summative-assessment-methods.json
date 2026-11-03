@@ -41,6 +41,672 @@
     "bn": "ওয়ার্কশপে demonstration-এর সময় assessor checklist দিয়ে evidence নেন।",
     "en": "A motor mechanic trainee services a car engine in the workshop. The assessor uses a task observation checklist."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 35,
+            "printedPage": 35,
+            "quote": "The purpose of this type of assessment is to determine whether a trainee has reached competency, or achieved learning outcomes, for the purpose of recognition, classification or certification following a training program",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "To determine if a trainee reached competency or learning outcomes, for recognition, classification or certification."
+      },
+      "concept": "formative-summative-assessment",
+      "kind": "qa",
+      "outline": [
+        "c11-p35-summative-assessment-purpose"
+      ],
+      "q": "What is the purpose of summative assessment?",
+      "q_bn": "Summative assessment-এর উদ্দেশ্য কী?"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "This type of assessment is the more formal assessment and will tell you whether your trainee is competent or not",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It is the more formal assessment. It tells you whether your trainee is competent or not."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p35-summative-assessment-purpose"
+      ]
+    },
+    {
+      "columns": [
+        "Method",
+        "Description",
+        "Evidence gathering tool"
+      ],
+      "kind": "table",
+      "outline": [
+        "c11-p35-summative-methods",
+        "c11-p36-on-the-job-observation",
+        "c11-p36-trainee-portfolio"
+      ],
+      "rows": [
+        [
+          "Written Test",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "For \"knowing\" and \"thinking\" kinds of learning outcomes the written tests or sometimes called paper and pencil test is the preferred method of most teachers",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "Written test must consider being able to assess not only recall but the higher level of learning",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "For 'knowing' and 'thinking' outcomes: a paper and pencil test. It assesses recall and higher level learning."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "Short test questions, essay, etc",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Short test questions, essay, etc."
+          }
+        ],
+        [
+          "Oral Questioning",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "This technique can be used alone or in tandem with demonstration or on the job observation",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "The questions must be clear and simple",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "A list of questions and model answers is prepared before you conduct the assessment",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Used alone or with demonstration or job observation. Clear, simple questions; model answers prepared first."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "List of questions and response sheet",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "List of questions and response sheet"
+          }
+        ],
+        [
+          "Demonstration",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "The trainee is asked to perform a task under actual or simulated conditions",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 35,
+                "printedPage": 35,
+                "quote": "The teacher gathers the data or evidence using a previously prepared observation guide",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "The trainee performs a task under actual or simulated conditions. The teacher uses a prepared observation guide."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "Task Observation checklist",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Task observation checklist"
+          }
+        ],
+        [
+          "On the Job Observation",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "While the trainee is performing the task in the job site",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "using a previously prepared observation checklist",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              },
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "Oral questions can be used to verify underpinning knowledge",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "The trainee performs at the job site; a prepared checklist is used. Oral questions verify knowledge."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "On-the-job observation checklist",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "On-the-job observation checklist"
+          }
+        ],
+        [
+          "Trainee Portfolio",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "The trainees are responsible in gathering data or evidence of his accomplishments during the entire training period and usually these are results of the formative assessment",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Trainees gather evidence of accomplishments over the training period, usually formative results."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "Portfolio evaluation checklist",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Portfolio evaluation checklist"
+          }
+        ]
+      ],
+      "title": "Methods used for summative assessment",
+      "title_bn": "Summative assessment-এর method, বর্ণনা ও tool"
+    },
+    {
+      "bn": [
+        "Demonstration-এ যা চোখে দেখা যায় না (task management, contingency), তা oral question দিয়ে যাচাই করো।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "evidence of underpinning knowledge, application of skills, task management skills and contingency management skills",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Oral questioning gives evidence of knowledge, skills application, task and contingency management."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Demonstration",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "task management skills and contingency management skills are asked using an oral question sheet",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "In a demonstration, an oral question sheet checks task and contingency management skills."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "The demonstration may end with a product. If so standards for product quality must be included in the observation criteria",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "If a demonstration ends with a product, include product quality standards in the criteria."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "The teacher may provide assistance to the trainee by identifying the data that has to be collected by the trainee at the beginning of the training period",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The teacher may help by identifying data to be collected at the beginning."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p35-summative-methods",
+        "c11-p36-trainee-portfolio"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "work activities occur irregularly",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Work activities occur irregularly"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "work take place over an extended period of time",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Work takes place over an extended period of time"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "are difficult to observe such as planning a process or managing a team",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Work is difficult to observe, such as planning a process or managing a team"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "work activities that involve issues of privacy such as counseling",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Work involves privacy, such as counseling"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "situations where the presence of an observer may compromise workplace safety",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "An observer's presence may compromise workplace safety"
+        }
+      ],
+      "items_bn": [
+        "কাজটা যদি অনিয়মিতভাবে হয়, তাহলে দেখার সুযোগই মেলে না।",
+        "কাজটা যদি লম্বা সময় ধরে চলে, তাহলে পুরোটা observe করা কঠিন।",
+        "যে কাজ চোখে দেখা কঠিন, যেমন process plan করা বা team manage করা।",
+        "যে কাজে গোপনীয়তা দরকার, যেমন counseling।",
+        "Observer উপস্থিত থাকলে workplace-এর safety ঝুঁকিতে পড়তে পারে।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c11-p36-on-the-job-observation"
+      ],
+      "title": "When on-the-job observation is inappropriate",
+      "title_bn": "কখন on-the-job observation চলবে না"
+    },
+    {
+      "bn": "Answer key-এ ৪টা, info sheet-এ ৫টা। পরীক্ষায় ৫টাই লেখো, On the Job Observation বাদ দিও না।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Oral Questioning",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Written Test",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Demonstration",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Trainee Portfolio",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "p.41 key: Oral Questioning, Written Test, Demonstration, Trainee Portfolio."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 35,
+              "printedPage": 35,
+              "quote": "Methods used for summative assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "On the Job Observation",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "p.35-36: Methods used for summative assessment also describe On the Job Observation."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c11-p35-summative-methods"
+      ],
+      "text": "The Self Check 2 Q1 answer key lists 4 methods; the information sheet describes 5. Write all 5.",
+      "tone": "caution"
+    },
+    {
+      "columns": [
+        "Assessment method",
+        "Evidence gathering tool"
+      ],
+      "kind": "table",
+      "outline": [
+        "c11-p36-method-tool-table"
+      ],
+      "rows": [
+        [
+          "1. Written test",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "1. Written test 1. Short test questions, essay, etc",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Short test questions, essay, etc."
+          }
+        ],
+        [
+          "2. Oral Questioning",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "2. Oral Questioning 2. List of questions and response sheet",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "List of questions and response sheet"
+          }
+        ],
+        [
+          "3. Observation",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "3. Observation 3. Task observation checklist",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Task observation checklist"
+          }
+        ],
+        [
+          "4. Demonstration",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "4. Demonstration 4. Task Observation checklist",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Task Observation checklist"
+          }
+        ],
+        [
+          "5. On-the-job observation",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "5. On-the-job observation 5. On-the-job observation checklist",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "On-the-job observation checklist"
+          }
+        ],
+        [
+          "6. Portfolio",
+          {
+            "cites": [
+              {
+                "cblm": 11,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "6. Portfolio 6. Portfolio evaluation checklist",
+                "sourceTitle": "Design and Develop Competency Based Assessment",
+                "src": "cblm11"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Portfolio evaluation checklist"
+          }
+        ]
+      ],
+      "title": "Assessment method and its evidence gathering tool (p.36)",
+      "title_bn": "প্রতিটি method-এর evidence gathering tool"
+    },
+    {
+      "bn": "Method → tool জোড়া মুখস্থ: Written→questions, Oral→question list, Observation/Demonstration→checklist, Portfolio→evaluation checklist।",
+      "kind": "note",
+      "outline": [
+        "c11-p36-method-tool-table"
+      ],
+      "text": "Observation and Demonstration share the same tool: the task observation checklist. Portfolio uses its own evaluation checklist.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "summative-assessment-methods",
   "importance": {
@@ -175,7 +841,16 @@
         "fidelity": "paraphrase",
         "text": "Trainee Portfolio: trainees gather evidence of accomplishments during the training period."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Written Test — কাগজ-কলমের পরীক্ষা; trainee কী জানে আর কীভাবে চিন্তা করে, তা মাপা হয়।",
+      "Oral Questioning — মুখে প্রশ্ন; একা, বা demonstration কিংবা on the job observation-এর সাথে মিলিয়ে করা যায়।",
+      "Demonstration — trainee আসল বা simulated অবস্থায় কাজটা করে দেখায়।",
+      "On the Job Observation — job site-এ কাজ করার সময় observation checklist দিয়ে দেখা হয়।",
+      "Trainee Portfolio — training চলাকালে trainee নিজের অর্জনের evidence জমা করে রাখে।"
+    ],
+    "title": "Methods used for summative assessment",
+    "titleBn": "Summative assessment-এর পদ্ধতি"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -478,6 +1153,125 @@
       "text": "Written tests must assess not only recall but the higher level of learning."
     }
   ],
+  "visual": {
+    "columns": [
+      "Assessment method",
+      "Evidence gathering tool"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "1. Written test",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "1. Written test 1. Short test questions, essay, etc",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Short test questions, essay, etc."
+        }
+      ],
+      [
+        "2. Oral Questioning",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "2. Oral Questioning 2. List of questions and response sheet",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "List of questions and response sheet"
+        }
+      ],
+      [
+        "3. Observation",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "3. Observation 3. Task observation checklist",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Task observation checklist"
+        }
+      ],
+      [
+        "4. Demonstration",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "4. Demonstration 4. Task Observation checklist",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Task Observation checklist"
+        }
+      ],
+      [
+        "5. On-the-job observation",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "5. On-the-job observation 5. On-the-job observation checklist",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "On-the-job observation checklist"
+        }
+      ],
+      [
+        "6. Portfolio",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "6. Portfolio 6. Portfolio evaluation checklist",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Portfolio evaluation checklist"
+        }
+      ]
+    ],
+    "title": "Assessment method and its evidence gathering tool (p.36)",
+    "title_bn": "Method আর তার tool"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

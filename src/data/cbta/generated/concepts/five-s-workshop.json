@@ -22,6 +22,33 @@
     "bn": "ভাঙা তার ফেলে দেওয়া, tool-এর জায়গা ঠিক করা, রোজ পরিষ্কার: এভাবে 5S শুরু।",
     "en": "In an electrical workshop, trainees remove broken wires (Sort). Each tool gets a marked place (Set in order). They clean benches daily (Shine)."
   },
+  "extra": [
+    {
+      "bn": "5S CBLM 6-এ নেই, প্রশ্নপত্রের answer থেকে এসেছে; housekeeping-এর সাথে মিলিয়ে শিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "match": "exact",
+              "page": 7,
+              "printedPage": null,
+              "quote": "5S is a Japanese workplace-organisation approach used to keep the workshop clean, safe and",
+              "sourceTitle": "CBT&A L4 Written Test — Inclusivity & Maintenance",
+              "src": "paper-written-inclusivity-maintenance"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "5S is a Japanese workplace-organisation approach to keep the workshop clean, safe and efficient."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c06-p7-housekeeping-definition"
+      ],
+      "text": "5S is not in CBLM 6. It comes from a question paper answer key. Learn it as extra; it fits the housekeeping topic.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": false,
   "id": "five-s-workshop",
   "importance": {
@@ -126,7 +153,16 @@
         "fidelity": "paraphrase",
         "text": "Sustain (Shitsuke): make 5S a habit through discipline and regular checking."
       }
-    ]
+    ],
+    "itemsBn": [
+      "বাছাই করা — কাজের জায়গা থেকে অপ্রয়োজনীয় জিনিস সরিয়ে ফেলা, যাতে শুধু দরকারি জিনিস থাকে।",
+      "সাজানো — প্রতিটি জিনিসের নির্দিষ্ট জায়গা, আর প্রতিটি জিনিস তার জায়গায়; ফলে খুঁজতে সময় নষ্ট হয় না।",
+      "ঝকঝকে রাখা — কাজের জায়গা আর equipment নিয়মিত পরিষ্কার করা।",
+      "মান ঠিক করা — প্রথম তিনটা S সবাই যেন একইভাবে করে, তার standards আর procedures বানানো।",
+      "ধরে রাখা — শৃঙ্খলা (discipline) আর নিয়মিত checking দিয়ে 5S-কে অভ্যাসে পরিণত করা।"
+    ],
+    "title": "The 5S approach in workshop keeping",
+    "titleBn": "Workshop গুছিয়ে রাখার 5S পদ্ধতি"
   },
   "mnemonic": {
     "explain_bn": "আগে বাছাই, তারপর জায়গামতো রাখা, তারপর পরিষ্কার; শেষে নিয়ম আর অভ্যাস।",
@@ -389,6 +425,7 @@
       "text": "Standardize sets standards and procedures for the first three S. Sustain makes 5S a habit."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

@@ -71,6 +71,8 @@
     "explain_bn": "Adult learning-এর ছয়টি principle এই ক্রমে মনে রাখুন।"
   },
   "list_answer": {
+    "title": "Principles of adult learning",
+    "title_bn": "বড়দের শেখার (adult learning) মূল নীতি",
     "items": [
       {
         "text": "Learner's need to know.",
@@ -138,6 +140,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Learner জানতে চায় কেন এটা শিখবে — শেখার আগে এই need to know মেটাতে হয়।",
+      "Learner নিজের সম্পর্কে যে ধারণা রাখে (self concept), তা মাথায় রাখতে হয়।",
+      "Learner-এর আগের অভিজ্ঞতা (prior experience) শেখায় কাজে লাগাতে হয়।",
+      "শেখার জন্য learner কতটা প্রস্তুত (readiness to learn)।",
+      "শেখার দিকে learner-এর ঝোঁক বা দৃষ্টিভঙ্গি (orientation to learning)।",
+      "শেখার আগ্রহ বা তাগিদ (motivation to learn)।"
     ],
     "declaredCount": {
       "n": 6,
@@ -348,5 +358,97 @@
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "table",
+    "title": "What makes good learning material? (pp.8-9)",
+    "title_bn": "ভালো learning material-এর চারটি দিক",
+    "columns": [
+      "Point",
+      "What the CBLM says"
+    ],
+    "rows": [
+      [
+        "User-friendly written materials",
+        {
+          "text": "Right material in a logical, well presented form, at the level of the learners.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 8,
+              "quote": "User-friendly written learning materials need to contain the right material in a"
+            },
+            {
+              "src": "cblm08",
+              "page": 8,
+              "quote": "logical and well presented form. They should be at the level of the learners"
+            }
+          ]
+        }
+      ],
+      [
+        "Visual materials need testing",
+        {
+          "text": "Show pictures to the target audience and ask simple questions.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 8,
+              "quote": "Pictures should be shown to the target"
+            },
+            {
+              "src": "cblm08",
+              "page": 8,
+              "quote": "audience and a series of simple questions asked"
+            }
+          ]
+        }
+      ],
+      [
+        "Pre-testing of materials",
+        {
+          "text": "Pre-test for acceptability of the idea and comprehension of pictures and whole message.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 8,
+              "quote": "material should be pre-tested for acceptability of the idea, and comprehension"
+            },
+            {
+              "src": "cblm08",
+              "page": 8,
+              "quote": "of the individual pictures and whole message."
+            }
+          ]
+        }
+      ],
+      [
+        "Long-term outcome and impact assessment",
+        {
+          "text": "Important to evaluate community health learning materials; the material needs a clear goal and message.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 9,
+              "quote": "Long-term outcome and impact assessment is particularly important to"
+            },
+            {
+              "src": "cblm08",
+              "page": 9,
+              "quote": "evaluate community health learning materials. To evaluate the material, it"
+            },
+            {
+              "src": "cblm08",
+              "page": 9,
+              "quote": "must have a clear goal and message."
+            }
+          ]
+        }
+      ]
+    ]
+  }
 }

@@ -41,6 +41,112 @@
     "bn": "সেশনের পরে IT trainer self evaluation ফর্ম পূরণ করে দেখেন practice সময় কম ছিল।",
     "en": "After a session, an IT trainer fills in a self evaluation form. She notes she gave little practice time."
   },
+  "extra": [
+    {
+      "bn": [
+        "Self evaluation সবচেয়ে productive আর সবচেয়ে সহজ: নিয়মিত নিজের teaching নিয়ে ভাবুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 73,
+              "printedPage": 73,
+              "quote": "You need to reflect on your teaching on a regular basis.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "You need to reflect on your teaching on a regular basis."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 73,
+              "printedPage": 73,
+              "quote": "You may devise one that suits your needs more accurately.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "You may devise one that suits your needs more accurately."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p73-self-evaluation",
+        "c10-p73-sample-self-evaluation"
+      ]
+    },
+    {
+      "cite": {
+        "cblm": 10,
+        "match": "exact",
+        "page": 73,
+        "printedPage": 73,
+        "quote": "A sample of self evaluation is given below.",
+        "sourceTitle": "Deliver Competency Based Training",
+        "src": "cblm10"
+      },
+      "columns": [
+        "During the session did I",
+        "Yes",
+        "No",
+        "Comments"
+      ],
+      "kind": "form",
+      "note_bn": "প্রতিটি session-এর পর Yes/No দিন, আর Comments-এ কী বদলাবেন লিখুন।",
+      "outline": [
+        "c10-p73-sample-self-evaluation"
+      ],
+      "rows": [
+        [
+          "Encourage the learners to speak and contribute?",
+          "☐",
+          "☐",
+          ""
+        ],
+        [
+          "Assist the learner articulate to express their ideas.",
+          "☐",
+          "☐",
+          ""
+        ],
+        [
+          "Consider all contributions to be worthwhile?",
+          "☐",
+          "☐",
+          ""
+        ],
+        [
+          "Remain aware of non-verbal communication?",
+          "☐",
+          "☐",
+          ""
+        ],
+        [
+          "Praise effort.",
+          "☐",
+          "☐",
+          ""
+        ],
+        [
+          "Provide opportunities for practice?",
+          "☐",
+          "☐",
+          ""
+        ]
+      ],
+      "title": "Sample self evaluation",
+      "title_bn": "Self evaluation-এর নমুনা"
+    }
+  ],
   "highlighted": true,
   "id": "self-evaluation-trainer",
   "importance": {
@@ -175,7 +281,17 @@
         "fidelity": "paraphrase",
         "text": "Did I provide opportunities for practice?"
       }
-    ]
+    ],
+    "itemsBn": [
+      "নিজেকে জিজ্ঞেস করুন: আমি কি learners-কে কথা বলতে আর অবদান রাখতে উৎসাহ দিয়েছি?",
+      "Learner যেন নিজের ideas প্রকাশ করতে পারে, সে কাজে কি সাহায্য করেছি?",
+      "সবার মতামত বা অবদানকে কি মূল্যবান (worthwhile) হিসেবে নিয়েছি?",
+      "কথা ছাড়া যে ভাব প্রকাশ হয় (non verbal communication), সেদিকে কি খেয়াল রেখেছি?",
+      "Learners-এর চেষ্টার (effort) প্রশংসা কি করেছি?",
+      "Learners-কে practice করার সুযোগ কি দিয়েছি?"
+    ],
+    "title": "Sample self evaluation questions for a trainer",
+    "titleBn": "Trainer-এর self evaluation-এর নমুনা প্রশ্ন"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -450,6 +566,71 @@
       "text": "Don't try to change the world: change works better introduced slowly and monitored carefully."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 73,
+              "printedPage": 73,
+              "quote": "tangible elements (such as learner performance and",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 73,
+              "printedPage": 73,
+              "quote": "feedback)",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Such as learner performance and feedback."
+        }
+      ],
+      "title": "Tangible elements",
+      "title_bn": "Tangible: দেখা-মাপা যায়"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 73,
+              "printedPage": 73,
+              "quote": "intangible elements (like",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 73,
+              "printedPage": 73,
+              "quote": "your 'gut reaction' to the session - did you feel good about it)",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Like your 'gut reaction' to the session: did you feel good about it?"
+        }
+      ],
+      "title": "Intangible elements",
+      "title_bn": "Intangible: মনের অনুভূতি"
+    },
+    "title": "What to look for in self evaluation",
+    "title_bn": "Self evaluation-এ কী দেখবেন"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

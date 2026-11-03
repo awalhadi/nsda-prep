@@ -90,6 +90,50 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Required vs current competency: the gap is the training need (p.7)",
+    "title_bn": "Required বনাম current competency — মাঝের gap-ই training need",
+    "left": {
+      "title": "Required competencies",
+      "title_bn": "যা পারতে হবে",
+      "points": [
+        {
+          "text": "Defined by the unit of competency.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 7,
+              "quote": "the required competencies as defined by the unit of competency"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Current competency",
+      "title_bn": "এখন যা পারে",
+      "points": [
+        {
+          "text": "The trainee's current competency, determined by pre-assessment.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 7,
+              "quote": "and the trainee's current competency."
+            },
+            {
+              "src": "cblm09",
+              "page": 11,
+              "quote": "Trainees' current competency can be determined by pre-assessment."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "How can you determine the training requirements of a specific target group of trainees?",

@@ -88,6 +88,8 @@
     "explain_bn": "পাঁচটি ভুলের মূল শব্দ মনে রাখুন: Halo, Record, Observe, Middle, Cheating।"
   },
   "list_answer": {
+    "title": "Errors commonly made by assessors",
+    "title_bn": "Assessor-দের সাধারণ ভুল",
     "items": [
       {
         "text": "The halo effect: positive judgements based on reputation or personal preference. The opposite is the Horn effect.",
@@ -152,6 +154,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Halo effect — সুনাম বা ব্যক্তিগত পছন্দের কারণে কাউকে ভালো বিচার করা; এর উল্টোটা হলো Horn effect।",
+      "Failing to record — ঠিকমতো পরিকল্পনা না করা বা recording-এর কাজ কম ভাবার কারণে দরকারি তথ্য না লেখা।",
+      "Failing to observe — অভিজ্ঞতা বা প্রস্তুতির অভাবে গুরুত্বপূর্ণ points বা cues চোখ এড়িয়ে যাওয়া।",
+      "Marking down the middle — সিদ্ধান্ত না নিয়ে মাঝামাঝি নম্বর দেওয়া ('sitting on the fence'); rating scales-এ এটা বেশি হয়।",
+      "Overlooking cheating — নকল নিয়ে মুখোমুখি হতে না চাওয়া, বা বাইরের চাপে নতি স্বীকার করা।"
     ]
   },
   "traps": [
@@ -204,6 +213,173 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Assessor errors and the CBLM point that guards against each",
+    "title_bn": "Assessor-এর ভুল এবং তা এড়ানোর উপায়",
+    "columns": [
+      "Error",
+      "What it means (p.18-19)",
+      "CBLM point that helps avoid it"
+    ],
+    "rows": [
+      [
+        "Halo effect",
+        {
+          "text": "Positive judgements about a trainee based on reputation or personal preference.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "Making positive judgements about a trainee based on reputation or your personal"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "make impartial judgment",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 8,
+              "quote": "make impartial judgment"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Horn effect",
+        {
+          "text": "The opposite of the halo effect.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "The halo effect"
+            },
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "The opposite of this referred to as the Horn effect."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "make impartial judgment",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 8,
+              "quote": "make impartial judgment"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Failing to record",
+        {
+          "text": "Due to inadequate planning for, or underestimation of, recording requirements",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 19,
+              "quote": "Due to inadequate planning for, or underestimation of, recording requirements"
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Recording must be planned and integrated with the assessment process.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 26,
+              "quote": "Recording must be planned and integrated with the assessment process."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Failing to observe",
+        {
+          "text": "missing critical points or cues due to inexperience, or lack of preparation.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 19,
+              "quote": "missing critical points or cues due to inexperience, or lack of preparation."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Weigh the evidence and take time to make an informed decision.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 18,
+              "quote": "Weigh the evidence and take time to make an informed decision."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Marking down the middle",
+        {
+          "text": "'Sitting on the fence', especially common with rating scales.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 19,
+              "quote": "'Sitting on the fence', especially common with rating scales."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "be clear about the reasons you have for reaching your decision.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 22,
+              "quote": "be clear about the reasons you have for reaching your decision."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Overlooking cheating",
+        {
+          "text": "Being unwilling to confront cheating issues, or bending to outside pressures.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 19,
+              "quote": "Being unwilling to confront cheating issues, or bending to outside pressures."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Check: does the evidence represent the candidate's own work?",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 20,
+              "quote": "Authentic - Does the evidence represent the candidate's own work?"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are the errors commonly made by the assessors?",

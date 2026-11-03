@@ -36,6 +36,146 @@
     "bn": "ওয়েল্ডিং assessment-এ safety, ফলাফলের গোপনীয়তা আর পরিবেশের নিয়ম মানতে হয়।",
     "en": "A welding assessment plan follows safety rules. It keeps results private and controls fumes."
   },
+  "extra": [
+    {
+      "bn": "Designer হিসেবে নিরাপত্তা, আইন, গোপনীয়তা, সমান সুযোগ, পরিবেশ আর code of practice: ছয়টা।",
+      "kind": "note",
+      "outline": [
+        "c11-p16-legal-ethical"
+      ],
+      "text": "Memory: 'OIL CAPE' style chain: OHS, Industry law, Confidentiality, Access-equity, Environment, Codes of practice.",
+      "tone": "tip"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 17,
+            "printedPage": 17,
+            "quote": "Consultation is important so that you and the stakeholders are clear about how the assessment process will happen",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "So you and the stakeholders are clear about how the assessment process will happen."
+      },
+      "concept": "assessment-design-legal-requirements",
+      "example": {
+        "bn": "আগে কথা বললে পরে ভুল বোঝাবুঝি হয় না।",
+        "en": "Before a workplace test, the trainer talks with the factory supervisor about shift times."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p17-consultation"
+      ],
+      "q": "Why is consultation important when planning assessment?",
+      "q_bn": "Assessment পরিকল্পনায় consultation কেন জরুরি?"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "who you are assessing",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "who you are assessing"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "where you are assessing",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "where you are assessing"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "how you are assessing",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "how you are assessing"
+        }
+      ],
+      "items_bn": [
+        "কাকে assess করছেন — candidate কারা, তার উপর নির্ভর করে কার সাথে পরামর্শ করবেন।",
+        "কোথায় assess করছেন — জায়গা অনুযায়ী কার সাথে পরামর্শ করতে হবে তা বদলায়।",
+        "কীভাবে assess করছেন — method অনুযায়ীও কাকে consult করবেন তা ঠিক হয়।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c11-p17-who-to-consult"
+      ],
+      "title": "What decides who needs to be consulted",
+      "title_bn": "কাকে consult করবে, তা নির্ভর করে"
+    },
+    {
+      "bn": [
+        "Who, where, how: এই তিন প্রশ্নের উত্তরেই ঠিক হয় কাকে জিজ্ঞেস করবে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "You will need to let each person you consult know about the assessment plan and how they fit into the assessment process",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Tell each person you consult about the plan and how they fit in."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "You should consult industry or technical experts and training & assessment experts",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Consult industry or technical experts and training and assessment experts."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p17-who-to-consult"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "assessment-design-legal-requirements",
   "importance": {
@@ -159,7 +299,17 @@
         "fidelity": "verbatim",
         "text": "Industry codes of practice"
       }
-    ]
+    ],
+    "itemsBn": [
+      "কাজের জায়গার স্বাস্থ্য ও নিরাপত্তার নিয়ম (OHS) মানতে হবে, যাতে assessment চলাকালে কেউ ঝুঁকিতে না পড়ে।",
+      "ওই industry-র জন্য নির্দিষ্ট যে আইন আছে, assessment-কেও তা মানতে হবে।",
+      "Candidate-এর ব্যক্তিগত তথ্য ও ফলাফল গোপন রাখার নিয়ম মানতে হবে।",
+      "সবাই যেন সমান সুযোগ পায় — কেউ যেন assessment থেকে বাদ না পড়ে বা পিছিয়ে না থাকে।",
+      "পরিবেশ-সংক্রান্ত বিষয় ও নিয়ম মানতে হবে, যাতে assessment-এর কাজে পরিবেশের ক্ষতি না হয়।",
+      "Industry-তে কাজ করার যে স্বীকৃত নিয়ম বা আচরণবিধি আছে, assessment-ও সেভাবে চলবে।"
+    ],
+    "title": "Legal and ethical requirements assessment events must comply with",
+    "titleBn": "Assessment events যেসব আইনি ও নৈতিক নিয়ম মেনে চলবে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -311,6 +461,51 @@
           ],
           "fidelity": "paraphrase",
           "text": "Consult industry or technical experts and training and assessment experts."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Who needs to be consulted? This will depend on: • who you are assessing • where you are assessing • how you are assessing",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Who you consult depends on who, where and how you are assessing."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "let each person you consult know about the assessment plan and how they fit into the assessment process",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Let each person you consult know the plan and how they fit in."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Consultation is important so that you and the stakeholders are clear about how the assessment process will happen",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Consultation makes you and the stakeholders clear about the assessment process."
         }
       ],
       "modelAnswer": "As a designer of assessment, I must ensure assessment events comply with:\n1. OHS policies and procedures\n2. Industry specific legislation\n3. Confidentiality and privacy regulations\n4. Access and equity regulations\n5. Environmental issues and regulations\n6. Industry codes of practice",
@@ -391,6 +586,7 @@
       "text": "The designer of assessment, not only the assessor, should ensure assessment events comply."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

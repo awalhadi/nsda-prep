@@ -50,10 +50,103 @@
     "bn": "Welding class শুরুতে একটা ছোট গল্প বলে attention ধরা, তারপর objectives বলা।",
     "en": "A welding trainer starts with a short story to gain attention. Then he states the objectives."
   },
+  "extra": [
+    {
+      "bn": [
+        "Competency, content, outcome আর activity এক document-এ মেলাতে কষ্ট হলে Gagné-এর ৯ ধাপ পথ দেখায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "struggling to combine our knowledge of competencies, content,",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Gagné's (1999) model useful in providing a structured approach to developing your",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Gagné's model gives a structured approach when combining competencies, content and activities is hard."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p19-gagne"
+      ]
+    },
+    {
+      "bn": "ধাপ 4-এ 'learning references' ছাপা; অর্থ হলো learning preferences বা learning style।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Present the material - in a way that appeals to the different learning",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Present the material - in a way that appeals to the different learning"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "references and is easy to digest",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "references and is easy to digest"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Learning style preferences and how these can inform our selection of learning",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Learning style preferences and how these can inform our selection of learning"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c08-p19-gagne"
+      ],
+      "text": "Step 4 prints 'learning references'. Read it as learning preferences (styles).",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "gagne-nine-steps",
   "importance": {
-    "bn": "CBLM 8 Self Check 1 (Q3)-এ এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "bn": "CBLM 8 Self Check 1 (Q3)-এ এসেছে। CBLM 8-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
     "en": "Asked in CBLM 8 Self Check 1 (Q3). Highlighted in CBLM 8. Comes as short question."
   },
   "keywords": [
@@ -276,7 +369,20 @@
         "fidelity": "paraphrase",
         "text": "Enhance retention and transfer: encourage learners to plan applying what they learnt."
       }
-    ]
+    ],
+    "itemsBn": [
+      "মনোযোগ আকর্ষণ — learner-কে বিষয়ের দিকে ফিরিয়ে আনা আর আগ্রহী (motivate) করা।",
+      "লক্ষ্য জানানো — কী শিখবে তা আগে বললে learner নিজের চিন্তা গুছিয়ে নিতে পারে।",
+      "আগের জ্ঞান মনে করানো — বড়রা জানা জিনিসের সাথে নতুনকে মিলিয়ে শেখে।",
+      "বিষয় উপস্থাপন — এমনভাবে দেওয়া, যাতে সহজে বোঝা ও হজম করা যায়।",
+      "শেখার পথ দেখানো — নতুন তথ্যকে আগের জ্ঞানের সাথে জুড়তে সাহায্য করা।",
+      "করে দেখানোর সুযোগ — নিরাপদে practice করার সুযোগ দেওয়া।",
+      "Feedback দেওয়া — ঠিক হলে শেখাটা পাকা করা, ভুল হলে শুধরে দেওয়া।",
+      "Performance যাচাই — assessment-এর মাধ্যমে learner নিজের সাফল্যের স্বীকৃতি পায়।",
+      "মনে রাখা ও কাজে লাগানো — যা শিখল তা কীভাবে প্রয়োগ করবে, learner-কে তার plan করতে উৎসাহ দেওয়া।"
+    ],
+    "title": "Gagné's steps for writing learning materials",
+    "titleBn": "Learning materials লেখার জন্য Gagné-এর ধাপসমূহ"
   },
   "mnemonic": {
     "explain_bn": "শুরুতে মনোযোগ, মাঝে শেখানো আর practice, শেষে assess আর মনে রাখা — এই ক্রমে মনে রাখুন।",
@@ -489,7 +595,7 @@
   ],
   "score": 7,
   "sourceType": "cblm",
-  "stars": 2,
+  "stars": 3,
   "status": "draft",
   "title": "Gagné's Nine Steps for Writing Learning Materials",
   "traps": [
@@ -560,6 +666,159 @@
       "text": "Provide feedback comes before Assess performance. Enhance retention and transfer is last."
     }
   ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Gain Attention - to orientate and motivate the learner",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Gain Attention"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Inform Learners of Objectives - to guide learners and to assist them to",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Inform Learners of Objectives"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Stimulate Recall of Prior Knowledge - because adults learn by establishing",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Stimulate Recall of Prior Knowledge"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Present the material - in a way that appeals to the different learning",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Present the material"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Provide guidance for learning - by providing opportunities to integrate new",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Provide guidance for learning"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Elicit performance by providing safe opportunities to practice",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Elicit performance"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Provide feedback - to reinforce or correct learning",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Provide feedback"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Assess performance - learners should be given the opportunity for",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assess performance"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 19,
+            "printedPage": 19,
+            "quote": "Enhance retention and transfer - by encouraging learner to plan the",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Enhance retention and transfer"
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "মনোযোগ আকর্ষণ — শুরুতেই আগ্রহ জাগান।",
+      "লক্ষ্য জানান — কী শিখবে আগে বলুন।",
+      "আগের জ্ঞান মনে করান — নতুনকে পুরনোর সাথে জুড়ুন।",
+      "বিষয় উপস্থাপন — সহজে হজম হয় এমনভাবে।",
+      "শেখার পথ দেখান — নতুন তথ্য পুরনো জ্ঞানের সাথে মেলাতে সাহায্য।",
+      "অনুশীলন করান — নিরাপদ সুযোগ দিন।",
+      "Feedback দিন — ঠিক হলে শক্ত করুন, ভুল হলে শুধরে দিন।",
+      "মূল্যায়ন করুন — সাফল্যের স্বীকৃতি দিন।",
+      "মনে রাখা ও কাজে লাগানো — শেখা কাজে কীভাবে লাগাবে তার plan।"
+    ],
+    "title": "Gagné's nine steps in order (p.19)",
+    "title_bn": "Gagné-এর ৯টি ধাপ — ক্রম মনে রাখুন"
+  },
   "vivaDerived": true,
   "warnings": 1
 }

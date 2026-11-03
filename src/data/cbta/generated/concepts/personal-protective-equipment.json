@@ -41,6 +41,241 @@
     "bn": "গার্মেন্টসের কাটিং মাস্টার ঠিক মাপের, ভালো অবস্থার metal gloves পরেন।",
     "en": "A garments cutting master wears metal gloves. The gloves fit well and are kept in good condition."
   },
+  "extra": [
+    {
+      "bn": [
+        "শরীরের প্রতিটি অংশের জন্য আলাদা PPE: head and eyes, ears, feet, hands, lungs, skin, body।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "When other methods of keeping you safe aren't available, you may need to wear",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "personal protective equipment (PPE).",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "When other methods aren't available, you may need to wear PPE."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Each type is",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "designed to protect against specific hazards.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Each type of PPE is designed to protect against specific hazards."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p39-ppe-types"
+      ]
+    },
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 40,
+                "printedPage": 40,
+                "quote": "Your employer must ensure you have PPE",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Ensure you have PPE."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 40,
+                "printedPage": 40,
+                "quote": "and train you how to use it.",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Train you how to use it."
+          }
+        ],
+        "title": "Your employer must",
+        "title_bn": "Employer-এর দায়িত্ব"
+      },
+      "outline": [
+        "c03-p40-ppe-must"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 40,
+                "printedPage": 40,
+                "quote": "You must",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 40,
+                "printedPage": 40,
+                "quote": "wear it and let your boss know if there are any problems with it.",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Wear it."
+          },
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 40,
+                "printedPage": 40,
+                "quote": "wear it and let your boss know if there are any problems with it.",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Let your boss know if there are any problems with it."
+          }
+        ],
+        "title": "You must",
+        "title_bn": "আপনি"
+      },
+      "title": "Who does what with PPE (p.40)",
+      "title_bn": "PPE নিয়ে কার কী দায়িত্ব"
+    },
+    {
+      "bn": [
+        "PPE ছাড়াও hygiene facilities (হাত ধোয়ার স্থান, shower) থাকে; ঘন ঘন ধুলে hazardous substance শরীরে ঢোকার সম্ভাবনা কমে।",
+        "Emergency eye wash ও shower কখন, কীভাবে ব্যবহার করবেন — আগে শিখে নিন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "some jobs will also have hygiene facilities such",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "as hand washing stations and showers.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Some jobs have hygiene facilities such as hand washing stations and showers."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "Proper and frequent washing will reduce the",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "chance of skin absorption or swallowing a hazardous substance.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Proper and frequent washing reduces the chance of skin absorption or swallowing a hazardous substance."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "They could include emergency eye",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "wash stations or showers. Make sure you're shown when and how to use them.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Some jobs have emergency eye wash stations or showers. Make sure you're shown how to use them."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p40-hygiene-facilities"
+      ],
+      "title": "Hygiene and Emergency Facilities"
+    }
+  ],
   "highlighted": true,
   "id": "personal-protective-equipment",
   "importance": {
@@ -136,7 +371,15 @@
         "fidelity": "verbatim",
         "text": "Not cause new hazards"
       }
-    ]
+    ],
+    "itemsBn": [
+      "আরামদায়ক ও ঠিক মাপের হওয়া (fit properly) — ঢিলা বা আঁটসাঁট হলে PPE ঠিকমতো সুরক্ষা দেয় না।",
+      "রক্ষণাবেক্ষণ করা ও ভালো অবস্থায় রাখা (maintained) — নষ্ট PPE সুরক্ষা দিতে পারে না।",
+      "Hazard অনুযায়ী উপযুক্ত হওয়া — যে বিপদ, তার জন্য সঠিক PPE বাছাই করতে হবে।",
+      "নতুন hazards তৈরি না করা — PPE পরার কারণে যেন অন্য বিপদ না ঘটে।"
+    ],
+    "title": "Essential criteria for the selection and use of PPE",
+    "titleBn": "PPE বাছাই ও ব্যবহারের প্রয়োজনীয় শর্ত"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -495,6 +738,197 @@
       "text": "Each type of PPE is designed to protect against specific hazards."
     }
   ],
+  "visual": {
+    "columns": [
+      "Body part",
+      "PPE and what it protects against"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Head and Eyes",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Hard Hats provide protection from falling objects.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Hard Hats provide protection from falling objects."
+        }
+      ],
+      [
+        "Head and Eyes",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Goggles and face shields protect the eyes from splashing liquids and flying objects",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Goggles and face shields protect the eyes from splashing liquids and flying objects."
+        }
+      ],
+      [
+        "Head and Eyes",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Safety glasses protect you from dust and debris.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Safety glasses protect you from dust and debris."
+        }
+      ],
+      [
+        "Ears",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "Ear muffs and plugs protect your hearing from loud noises",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Ear muffs and plugs protect your hearing from loud noises."
+        }
+      ],
+      [
+        "Feet",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "Safety shoes and boots protect your feet from sharp or heavy objects.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "Footwear should be non-slip.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Safety shoes and boots protect from sharp or heavy objects. Footwear should be non-slip."
+        }
+      ],
+      [
+        "Hands",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "Gloves protect hands from chemicals and sharp objects.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Gloves protect hands from chemicals and sharp objects."
+        }
+      ],
+      [
+        "Lungs",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "Respirators prevent you from inhaling tiny particles in the air that can damage the lungs.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Respirators prevent you from inhaling tiny particles that can damage the lungs."
+        }
+      ],
+      [
+        "Skin",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "Shirts with long sleeves and coveralls can protect you from being scratched, burned or splashed by chemicals",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Shirts with long sleeves and coveralls protect from being scratched, burned or splashed."
+        }
+      ],
+      [
+        "Body",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "Fall protection systems (harnesses that tie off) can prevent serious",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "injury if you fall from a height.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Fall protection systems (harnesses that tie off) can prevent serious injury if you fall from a height."
+        }
+      ]
+    ],
+    "title": "Types of PPE by body part (p.39-40)",
+    "title_bn": "শরীরের কোন অংশে কোন PPE"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

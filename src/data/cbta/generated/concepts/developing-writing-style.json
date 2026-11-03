@@ -40,6 +40,169 @@
     "bn": "হাসপাতালের nursing trainer প্রথম খসড়া লিখে অভিজ্ঞ nurse-কে review করতে দেন।",
     "en": "A hospital nursing trainer writes a first draft. She gives it to a senior nurse to review."
   },
+  "extra": [
+    {
+      "bn": [
+        "লেখা যেন বাস্তব হয় — নিজের অভিজ্ঞতার উদাহরণ দিন, তবে নাম বদলে।",
+        "পাঠক যেন মাথার ভেতর লেখকের কণ্ঠ শুনতে পায় — তাহলেই লেখা ঠিক পথে।",
+        "কয়েকজন মিলে লিখলে ভাষা, ধরন আর flow এক রাখুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "When we write these materials they need to",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "be real. (i.e. based on real examples",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Materials need to be real, based on real examples."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "changing the names to protect confidentiality of course",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Change the names to protect confidentiality."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 25,
+              "printedPage": 25,
+              "quote": "Stay with the one style of writing and check for consistency",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Stay with one style of writing and check for consistency."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p24-writing-style"
+      ]
+    },
+    {
+      "bn": [
+        "প্রথম draft শেষে competency standard-এর সব কিছু এসেছে কিনা মিলিয়ে নিন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Check that you have covered everything in the",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "competency standard once you have finished your first draft",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Check you covered everything in the competency standard after your first draft."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "People that understand training,",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "learning styles and the subject area.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Reviewers should understand training, learning styles and the subject area."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p25-style-key-points"
+      ]
+    },
+    {
+      "bn": [
+        "Booher-এর ৪টি টিপস card-এর table-এ আছে: overview, বাস্তব dialogue, আকর্ষণীয় case study, গুরুত্বপূর্ণ কথা ঠিক জায়গায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "An article by Booher (1999) identified a",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "number of tips to improve your training materials.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Booher (1999) identified a number of tips to improve your training materials."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p26-improving-writing"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "developing-writing-style",
   "importance": {
@@ -216,7 +379,20 @@
         "fidelity": "verbatim",
         "text": "Find reliable people to review your writing."
       }
-    ]
+    ],
+    "itemsBn": [
+      "আপনার audience কারা, তা জানুন — তাদের জন্যই লিখছেন।",
+      "Learners-কে শেষে কোথায় পৌঁছাতে চান, সেখান থেকে ভাবা শুরু করুন।",
+      "Competency বিশ্লেষণ করে ঠিক করুন কোন কোন topics থাকবে।",
+      "লেখার আগে materials-এর পরিকল্পনা করুন।",
+      "তবে planning-এ আটকে থাকবেন না, লেখা শুরু করুন।",
+      "First draft নিখুঁত করার জন্য আঁকড়ে বসে থাকবেন না; একবার ঠিক করে review-এর জন্য দিয়ে দিন।",
+      "মনে রাখুন, সবাই একভাবে শেখে না — তাই একাধিক উপায়ে বোঝান।",
+      "Learner-কে ধাপে ধাপে শেখার process-এর মধ্য দিয়ে এগিয়ে নিন।",
+      "নির্ভরযোগ্য মানুষ খুঁজে তাঁদের দিয়ে নিজের লেখা review করান।"
+    ],
+    "title": "Key points for developing your writing style",
+    "titleBn": "নিজের লেখার ধরন (writing style) গড়ে তোলার মূল কথা"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -493,6 +669,134 @@
       "text": "Use overviews instead of introductions to give key concepts and draw interest."
     }
   ],
+  "visual": {
+    "columns": [
+      "Tip",
+      "How to do it"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Using overviews instead of introductions.",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "writers should use overviews to provide the learner with the key concepts and to",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "draw interest.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Use overviews to give the key concepts and to draw interest."
+        }
+      ],
+      [
+        "Make the dialogue sound real, not artificial.",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Use clear, crisp and simple language that reflects authentic speech.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "read it out loud",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Then edit straight",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Use clear, crisp and simple language. Read it out loud, then edit."
+        }
+      ],
+      [
+        "Create interesting case studies and role plays.",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Use real-sounding names and situations relevant to the learners.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Use real-sounding names and situations relevant to the learners."
+        }
+      ],
+      [
+        "Position ideas for highlighting.",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "The most",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "important spot in a paragraph is the first sentence and the most important spot in a",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "sentence is at the end.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "First sentence of a paragraph and end of a sentence are the most important spots."
+        }
+      ]
+    ],
+    "title": "Improving your Writing: Booher's (1999) tips (p.26)",
+    "title_bn": "লেখা উন্নত করার Booher-এর ৪টি টিপস"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

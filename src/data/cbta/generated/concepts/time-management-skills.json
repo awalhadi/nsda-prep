@@ -41,6 +41,191 @@
     "bn": "বৃহস্পতিবারের deadline: আগে জরুরি কাজ, অপ্রয়োজনীয় distraction বাদ।",
     "en": "A trainer must submit assessment results by Thursday. He finishes urgent marking first and avoids extra meetings."
   },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "To achieve",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "agreed to",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "work outcomes",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "the teacher",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "must plan, prioritize and organize his work",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "To achieve agreed work outcomes, the teacher must plan, prioritize and organize his work."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Continually assess and re-assess your workload and seek guidance and support when work issues arise.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Continually assess and re-assess your workload and seek guidance and support when work issues arise."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p41-planning-organizing",
+        "c01-p41-planning-organizing-skills"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "time pressures",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "time pressures"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "work overload",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "work overload"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "competing demands",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "competing demands"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "unexpected contingencies",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "unexpected contingencies"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "technology problems",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "technology problems"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "your relations with other personnel (including your clients)",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "your relations with other personnel (including your clients)"
+        }
+      ],
+      "items_bn": [
+        "সময়ের চাপ।",
+        "অতিরিক্ত কাজ।",
+        "একসাথে কয়েকটা দাবি।",
+        "হঠাৎ অপ্রত্যাশিত ঘটনা।",
+        "প্রযুক্তির সমস্যা।",
+        "অন্য কর্মী ও clients-এর সাথে সম্পর্ক।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c01-p42-assess-workload"
+      ],
+      "title": "Work issues that need guidance and support (p.42)",
+      "title_bn": "কখন guidance and support চাইবেন (৬টি)"
+    }
+  ],
   "highlighted": true,
   "id": "time-management-skills",
   "importance": {
@@ -150,7 +335,16 @@
         "fidelity": "verbatim",
         "text": "ability to complete tasks assigned to you within agreed timelines"
       }
-    ]
+    ],
+    "itemsBn": [
+      "সময়ভিত্তিক শর্ত ও deadlines মেনে চলা — নির্ধারিত সময়ের মধ্যে কাজ শেষ করার সামর্থ্য।",
+      "কোন কাজ high আর কোনটা low priority তা চিনে সেভাবে সাজানো — জরুরি কাজ আগে হয়।",
+      "সময়ের কার্যকর ব্যবহার — অপ্রাসঙ্গিক বিষয় বা distractions যেন কাজ শেষ করতে বাধা না দেয়।",
+      "নিজের কাজের জন্য যথেষ্ট সময় বরাদ্দ করা — scheduling conflicts এড়িয়ে milestones সময়মতো পূরণ করা।",
+      "যে কাজ দেওয়া হয়েছে তা agreed timelines-এর মধ্যে শেষ করা — সবার সাথে ঠিক করা সময়সীমা মানা।"
+    ],
+    "title": "Key points of time management skills",
+    "titleBn": "Time management skills-এর মূল বিষয়গুলো"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -538,6 +732,170 @@
       "text": "Managing multiple tasks and resources simultaneously is project management, not time management."
     }
   ],
+  "visual": {
+    "columns": [
+      "Skill",
+      "Abilities"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Time management skills",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Meet time-based requirements and deadlines",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "identify and adjust high and low priority tasks",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "use time effectively",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "allocate appropriate amounts of time",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "complete tasks",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "within agreed timelines",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Meet time-based requirements and deadlines; identify and adjust high and low priority tasks; use time effectively; allocate appropriate amounts of time; complete tasks within agreed timelines."
+        }
+      ],
+      [
+        "Project management skills",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "ability to manage multiple tasks and resources",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "simultaneously",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "ability to manage multiple tasks and resources simultaneously"
+        }
+      ],
+      [
+        "Resource allocation skills",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Determine project requirements by breaking",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "them down into tasks",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "take advantage of available resources",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "to complete work tasks efficiently",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Determine project requirements by breaking them down into tasks; take advantage of available resources to complete work tasks efficiently."
+        }
+      ],
+      [
+        "Research skills",
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "ability to collect, analyze and organize information to inform your subsequent work practices and processes",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "ability to collect, analyze and organize information to inform your subsequent work practices and processes"
+        }
+      ]
+    ],
+    "title": "Planning and Organizing Skills (p.41-42)",
+    "title_bn": "Planning ও organizing-এর চার ধরনের skills"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

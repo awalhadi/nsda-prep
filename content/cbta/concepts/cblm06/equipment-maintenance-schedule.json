@@ -1,0 +1,515 @@
+{
+  "id": "equipment-maintenance-schedule",
+  "canonical_title": "Equipment Maintenance Schedule and Inspection Checklist",
+  "aliases": [
+    "Sample equipment maintenance schedule",
+    "Equipment Maintenance Schedule template",
+    "Sample equipment inspection checklist",
+    "Maintenance inspection checklist"
+  ],
+  "cblmPrimary": 6,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "A Maintenance Schedule is drawn to guide the personnel in the proper methods and system.",
+    "cites": [
+      {
+        "src": "cblm06",
+        "page": 38,
+        "quote": "a Maintenance Schedule"
+      },
+      {
+        "src": "cblm06",
+        "page": 38,
+        "quote": "is drawn to guide the personnel in the proper methods and system"
+      }
+    ],
+    "fidelity": "paraphrase"
+  },
+  "keywords": [
+    {
+      "en": "Equipment Maintenance Schedule",
+      "bn": "যন্ত্রের রক্ষণাবেক্ষণের সময়সূচি"
+    },
+    {
+      "en": "Manufacturer's manual",
+      "bn": "নির্মাতার দেওয়া নির্দেশিকা"
+    },
+    {
+      "en": "Property Code/ Number",
+      "bn": "সম্পদের কোড নম্বর"
+    },
+    {
+      "en": "Inspection checklist",
+      "bn": "পরিদর্শনের প্রশ্নভিত্তিক তালিকা"
+    },
+    {
+      "en": "Criteria or standards",
+      "bn": "মানদণ্ড"
+    }
+  ],
+  "bangla_explanation": [
+    "Schedule বানানোর সবচেয়ে ভালো উৎস হলো equipment-এর manufacturer's manual; না থাকলে জানা maintenance methods থেকে plan বানাতে হয়।",
+    "নমুনাটি computer lab-এর desktop computer-এর; প্রতিটি কাজের পাশে কে করবে (IT Personnel) আর মাসের কোন দিনে করবে তার x চিহ্ন।",
+    "Check ধাপে assessment হয়: program plan মতো চলছে কি না; ফল record করে কর্তৃপক্ষকে report করা হয়।",
+    "Inspection checklist একই equipment-এর জন্য; inspection items প্রশ্ন আকারে লেখা, কারণ এগুলোই maintenance-এর criteria বা standards।"
+  ],
+  "example": {
+    "en": "A computer lab posts a monthly schedule: cleaning, virus check, daily switch-off.",
+    "bn": "কম্পিউটার ল্যাবে জুন মাসের schedule টাঙানো: কবে cleaning, কবে virus check, প্রতিদিন বন্ধ করা।"
+  },
+  "list_answer": {
+    "title": "Activities in the sample maintenance schedule for a desktop computer",
+    "title_bn": "Desktop computer-এর নমুনা schedule-এর পাঁচটি কাজ",
+    "items": [
+      {
+        "text": "Clean the computer unit.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "1. Clean the"
+          },
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "computer unit"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Check computer for viruses.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "2. Check"
+          },
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "computer for"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Clean computer peripherals.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "3 Clean x x x X computer"
+          },
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "peripherals"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Check electric and computer connections.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "4 Check electric"
+          },
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "and computer"
+          },
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "connections"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Turn off unit when not in use or at the end of the day.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "5 Turn off unit"
+          },
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "when not in"
+          },
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "use or at the"
+          },
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "end of the day."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    ],
+    "items_bn": [
+      "Computer unit পরিষ্কার করা।",
+      "Computer-এ virus আছে কি না পরীক্ষা করা।",
+      "Computer-এর সাথে লাগানো peripherals পরিষ্কার করা।",
+      "বিদ্যুৎ ও computer connections ঠিক আছে কি না দেখা।",
+      "ব্যবহার না হলে বা দিনের শেষে unit বন্ধ করা — schedule-এ প্রায় প্রতিদিন।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "One best source of the list of maintenance activities is the manufacturer's manual.",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 38,
+          "quote": "One best source"
+        },
+        {
+          "src": "cblm06",
+          "page": 38,
+          "quote": "of the list of maintenance activities of an equipment is its manufacturer's manual"
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "In the absence of the manual, the plan can be derived from known maintenance methods.",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 38,
+          "quote": "manufacturer's manual In"
+        },
+        {
+          "src": "cblm06",
+          "page": 38,
+          "quote": "the absence of it, the plan can be derived from the known maintenance methods of"
+        },
+        {
+          "src": "cblm06",
+          "page": 38,
+          "quote": "the equipment."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Inspection items are stated in a question form. They serve as the criteria or standards of maintenance.",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 39,
+          "quote": "The Inspection Items are stated in a question form as these serve as the criteria or standards of maintenance."
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Regular inspections assure activities are done on the planned date and time, to defined standards.",
+      "cites": [
+        {
+          "src": "cblm06",
+          "page": 39,
+          "quote": "Regular inspections are conducted to assure that the maintenance activities are done"
+        },
+        {
+          "src": "cblm06",
+          "page": 39,
+          "quote": "on the date and time it was planned and that the performance levels adhered to the"
+        },
+        {
+          "src": "cblm06",
+          "page": 39,
+          "quote": "defined standards."
+        }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "visual": {
+    "kind": "table",
+    "title": "Template: Equipment Maintenance Schedule (sample, p.39)",
+    "title_bn": "Equipment Maintenance Schedule ফর্মের নমুনা",
+    "columns": [
+      "Field",
+      "Sample entry"
+    ],
+    "rows": [
+      [
+        "Equipment Type",
+        {
+          "text": "Desktop Computer",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "Desktop Computer"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Property Code/ Number",
+        {
+          "text": "Computer 1 i 1001A",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "Computer 1 i 1001A"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Location",
+        {
+          "text": "Practical Work Area I Computer Laboratory",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "Practical Work Area I Computer Laboratory"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Activities",
+        {
+          "text": "Clean unit, check viruses, clean peripherals, check connections, turn off unit.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "1. Clean the"
+            },
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "computer unit"
+            },
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "2. Check"
+            },
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "3 Clean x x x X computer"
+            },
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "peripherals"
+            },
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "4 Check electric"
+            },
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "connections"
+            },
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "5 Turn off unit"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Manpower",
+        {
+          "text": "IT Personnel",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "IT Personnel x x X computer unit"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Schedule",
+        {
+          "text": "Schedule for the Month of",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "Schedule for the Month of"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    ]
+  },
+  "practice": {
+    "short": {
+      "prompt": "How is an equipment maintenance schedule prepared and checked?",
+      "modelAnswer": "1. A Maintenance Schedule guides personnel in the proper methods and system.\n2. Best source: the equipment's manufacturer's manual; otherwise known maintenance methods.\n3. The template shows equipment type, property code, location, activities, manpower and days.\n4. Check: an assessment shows if the program runs as planned; results are recorded and reported.\n5. An inspection checklist, in question form, confirms the activities were done.",
+      "keyPoints": [
+        {
+          "text": "A Maintenance Schedule is drawn to guide the personnel in the proper methods and system.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 38,
+              "quote": "a Maintenance Schedule"
+            },
+            {
+              "src": "cblm06",
+              "page": 38,
+              "quote": "is drawn to guide the personnel in the proper methods and system"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "One best source of the list of maintenance activities is the manufacturer's manual.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 38,
+              "quote": "of the list of maintenance activities of an equipment is its manufacturer's manual"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "An assessment checks if the program is implemented as planned. Results are recorded and reported.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "To determine if the maintenance program is implemented according to what is"
+            },
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "planned, an assessment must be done. The results of the assessment will then be"
+            },
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "recorded and reported to the proper authorities for immediate action."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "The checklist confirms if the maintenance activities have been performed.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 39,
+              "quote": "This checklist will confirm if the maintenance activities have been performed in order"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      "marks": 5
+    },
+    "mcq": {
+      "prompt": "What is one best source of the list of maintenance activities of an equipment?",
+      "options": [
+        "Its manufacturer's manual",
+        "The salvage report",
+        "The trainees' attendance sheet",
+        "The shadow board"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm06",
+        "page": 38,
+        "quote": "of the list of maintenance activities of an equipment is its manufacturer's manual"
+      }
+    },
+    "matching": {
+      "prompt": "Match each item of the sample schedule with its entry.",
+      "pairs": [
+        {
+          "left": "Equipment Type",
+          "right": "Desktop Computer",
+          "cite": {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "Equipment Type Desktop Computer"
+          }
+        },
+        {
+          "left": "Manpower",
+          "right": "IT Personnel",
+          "cite": {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "ACTIVITIES MANPOWER"
+          }
+        },
+        {
+          "left": "Inspection Items",
+          "right": "Stated in a question form",
+          "cite": {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "The Inspection Items are stated in a question form"
+          }
+        },
+        {
+          "left": "Check",
+          "right": "An assessment of whether the program is implemented as planned",
+          "cite": {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "Check To determine if the maintenance program is implemented according to what is planned, an assessment must be done."
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Why are inspection items written as questions?",
+      "answer": {
+        "text": "They serve as the criteria or standards of maintenance.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 39,
+            "quote": "as these serve as the criteria or standards of maintenance."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "list_answer.items[1]",
+      "note": "p.39 text extraction drops the word 'viruses' (layout text shows '2. Check computer for viruses'). Item kept as printed in the PDF; quote support is partial."
+    }
+  ]
+}

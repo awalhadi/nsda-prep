@@ -1,0 +1,373 @@
+{
+  "id": "record-of-assessment-results",
+  "canonical_title": "Record of Competency Assessment Results (Pro-forma)",
+  "aliases": [
+    "Pro-forma for Record of Competency Assessment Results",
+    "Assessment results record form"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [],
+  "questions": [],
+  "one_line_answer": {
+    "text": "The pro-forma is an example form for the record of competency assessment results.",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 28,
+        "quote": "Example of a Pro-forma for Record of Competency Assessment Results"
+      }
+    ],
+    "fidelity": "paraphrase"
+  },
+  "keywords": [
+    {
+      "en": "Pro-forma",
+      "bn": "আগে থেকে তৈরি ছক বা ফর্ম"
+    },
+    {
+      "en": "Assessment arrangements",
+      "bn": "assessment-এর ব্যবস্থা: তারিখ, স্থান, উপকরণ"
+    },
+    {
+      "en": "Narrative description",
+      "bn": "বর্ণনা করে লেখা ব্যাখ্যা"
+    },
+    {
+      "en": "Informal feedback",
+      "bn": "অনানুষ্ঠানিক মৌখিক মতামত"
+    },
+    {
+      "en": "Recommendation",
+      "bn": "certificate দেওয়ার সুপারিশ"
+    }
+  ],
+  "bangla_explanation": [
+    "এটা একটা example form, যেখানে assessment results record করা হয়।",
+    "উপরে assessor ও candidate-এর তথ্য, তারপর assessment arrangements যেমন pre meeting date, location, consumables।",
+    "মাঝে প্রতিটি unit of competency-র জন্য assessor comments আর competent/not yet competent লেখা হয়।",
+    "শেষে decision-এর narrative description, informal feedback, certificate recommendation আর assessor-এর signature with date।"
+  ],
+  "example": {
+    "en": "After a plumbing assessment, the assessor fills the form. He writes 'Competent' for each unit and signs with the date.",
+    "bn": "Plumbing assessment-এর পর assessor প্রতিটি unit-এ result লিখে তারিখসহ সই করেন।"
+  },
+  "list_answer": {
+    "title": "Sections of the record of competency assessment results",
+    "title_bn": "Competency assessment results record form-এর অংশগুলো",
+    "items": [
+      {
+        "text": "Assessor: name, institute/organization with address, phone numbers and email.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 28,
+            "quote": "ASSESSOR Assessor's Name:"
+          },
+          {
+            "src": "cblm12",
+            "page": 28,
+            "quote": "Assessor's Institute/organization with address:"
+          },
+          {
+            "src": "cblm12",
+            "page": 28,
+            "quote": "Cell phone number: Land phone Number:"
+          },
+          {
+            "src": "cblm12",
+            "page": 28,
+            "quote": "Land phone Number: Email:"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Candidate: name, institute, contact address, phone number and email (if any).",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 28,
+            "quote": "CANDIDATE Name: Institute: Contact Address:"
+          },
+          {
+            "src": "cblm12",
+            "page": 28,
+            "quote": "Cell/Land phone Number: Email (if any):"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Assessment arrangements: pre-meeting date, actual assessment, location and consumables.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 28,
+            "quote": "ASSESSMENT ARRANGEMENTS Pre-meeting date: Actual assessment: Location: Consumables:"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Assessment activity",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 29,
+            "quote": "ASSESSMENT ACTIVITY"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Assessment results: unit of competency, assessor comments, competent/not yet competent.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 29,
+            "quote": "ASSESSMENT RESULTS Unit of Competency Assessor Comments Competent/not yet competent"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Assessment decision: the assessor's narrative description of the assessment decision.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 29,
+            "quote": "ASSESSMENT DECISION Assessor's narrative description of the assessment decision"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Candidate feedback: informal feedback provided at the end of the assessment activity.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 29,
+            "quote": "CANDIDATE FEEDBACK Informal feedback provided to the candidate at the end of the assessment activity"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Recording of results: copies of all documentation, and certificate recommendation or non recommendation.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 29,
+            "quote": "RECORDING OF RESULTS Copies of all documentation Recommendation/non recommendation issuance of National Certificate of"
+          },
+          {
+            "src": "cblm12",
+            "page": 29,
+            "quote": "Competency or Certificate of competency provided"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Assessor's signature with date",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 29,
+            "quote": "ASSESSOR'S SIGNATURE WITH DATE"
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "items_bn": [
+      "Assessor-এর তথ্য — নাম, institute বা প্রতিষ্ঠানের ঠিকানা, phone numbers আর email।",
+      "Candidate-এর তথ্য — নাম, institute, যোগাযোগের ঠিকানা, phone number আর email (যদি থাকে)।",
+      "Assessment-এর ব্যবস্থা — pre-meeting-এর তারিখ, actual assessment-এর দিন, location আর consumables।",
+      "কোন assessment activity করানো হলো, তার বিবরণ।",
+      "প্রতিটি unit of competency-র ফল — assessor comments আর competent/not yet competent।",
+      "Assessor নিজের ভাষায় (narrative description) লেখেন কেন এই decision নিলেন।",
+      "Assessment activity শেষে candidate-কে দেওয়া informal feedback লেখা থাকে।",
+      "সব documentation-এর কপি, আর certificate দেওয়ার recommendation বা non recommendation।",
+      "শেষে assessor তারিখসহ সই করেন, এতে record সম্পূর্ণ হয়।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "Assessment results show each unit of competency as competent or not yet competent.",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 29,
+          "quote": "Unit of Competency Assessor Comments Competent/not yet competent"
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Candidate feedback on this form is informal feedback at the end of the activity.",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 29,
+          "quote": "Informal feedback provided to the candidate at the end of the assessment activity"
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "Recording of results includes recommendation or non recommendation of a certificate of competency.",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 29,
+          "quote": "RECORDING OF RESULTS"
+        },
+        {
+          "src": "cblm12",
+          "page": 29,
+          "quote": "Recommendation/non recommendation issuance of National Certificate of"
+        },
+        {
+          "src": "cblm12",
+          "page": 29,
+          "quote": "Competency or Certificate of competency provided"
+        }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "List the sections of a record of competency assessment results.",
+      "modelAnswer": "A record of competency assessment results (pro-forma) has these sections:\n1. Assessor.\n2. Candidate.\n3. Assessment arrangements.\n4. Assessment activity.\n5. Assessment results (unit, comments, competent/not yet competent).\n6. Assessment decision.\n7. Candidate feedback.\n8. Recording of results.\n9. Assessor's signature with date.",
+      "keyPoints": [
+        {
+          "text": "Arrangements include pre-meeting date, actual assessment, location and consumables.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 28,
+              "quote": "ASSESSMENT ARRANGEMENTS Pre-meeting date: Actual assessment: Location: Consumables:"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "The decision section is the assessor's narrative description of the assessment decision.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 29,
+              "quote": "Assessor's narrative description of the assessment decision"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Recording of results keeps copies of all documentation.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 29,
+              "quote": "RECORDING OF RESULTS Copies of all documentation"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "In the pro-forma, where does the assessor write a narrative description of the decision?",
+      "options": [
+        "Assessment decision",
+        "Assessment arrangements",
+        "Candidate feedback",
+        "Recording of results"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 29,
+        "quote": "ASSESSMENT DECISION Assessor's narrative description of the assessment decision"
+      }
+    },
+    "matching": {
+      "prompt": "Match each section of the pro-forma with its content.",
+      "pairs": [
+        {
+          "left": "Assessment arrangements",
+          "right": "Pre-meeting date, location, consumables",
+          "cite": {
+            "src": "cblm12",
+            "page": 28,
+            "quote": "ASSESSMENT ARRANGEMENTS Pre-meeting date: Actual assessment: Location: Consumables:"
+          }
+        },
+        {
+          "left": "Assessment results",
+          "right": "Competent/not yet competent for each unit",
+          "cite": {
+            "src": "cblm12",
+            "page": 29,
+            "quote": "ASSESSMENT RESULTS Unit of Competency Assessor Comments Competent/not yet competent"
+          }
+        },
+        {
+          "left": "Candidate feedback",
+          "right": "Informal feedback at the end of the activity",
+          "cite": {
+            "src": "cblm12",
+            "page": 29,
+            "quote": "CANDIDATE FEEDBACK Informal feedback provided to the candidate at the end of the assessment activity"
+          }
+        },
+        {
+          "left": "Recording of results",
+          "right": "Copies of all documentation",
+          "cite": {
+            "src": "cblm12",
+            "page": 29,
+            "quote": "RECORDING OF RESULTS Copies of all documentation"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Name four sections of the record of competency assessment results.",
+      "answer": {
+        "text": "Assessor, candidate, assessment results and assessment decision.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 28,
+            "quote": "ASSESSOR Assessor's Name:"
+          },
+          {
+            "src": "cblm12",
+            "page": 28,
+            "quote": "CANDIDATE Name:"
+          },
+          {
+            "src": "cblm12",
+            "page": 29,
+            "quote": "ASSESSMENT RESULTS"
+          },
+          {
+            "src": "cblm12",
+            "page": 29,
+            "quote": "ASSESSMENT DECISION"
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": [
+    {
+      "path": "aliases",
+      "note": "CBLM 12 never uses the term CARS. The paper-only card competency-assessment-result-summary (CARS, paper-short-questions q75) is a 'concise summary of assessment outcomes'. This p.28-29 pro-forma is a full record form, so it is kept as its own card rather than re-citing CARS. Owner to confirm whether the exam treats them as the same."
+    }
+  ]
+}

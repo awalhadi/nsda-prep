@@ -65,6 +65,8 @@
     "bn": "কম্পিউটার ল্যাবে plan, কাজ, inspect আর ব্যবস্থা: এটাই QMC।"
   },
   "list_answer": {
+    "title": "Stages of the Quality Management Cycle (Plan-Do-Check-Act)",
+    "title_bn": "Quality Management Cycle-এর ধাপসমূহ (Plan-Do-Check-Act)",
     "items": [
       {
         "text": "Plan: design or revise business process components to improve results.",
@@ -119,6 +121,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "পরিকল্পনা — ফল ভালো করতে কাজের process-এর অংশগুলো নকশা বা সংশোধন করা।",
+      "বাস্তবায়ন — plan অনুযায়ী কাজ করা, আর তার performance মাপা।",
+      "যাচাই — মাপের ফল বিশ্লেষণ করে decision makers-কে results জানানো।",
+      "পদক্ষেপ — process আরও ভালো করতে কী পরিবর্তন লাগবে, তা ঠিক করা।"
     ]
   },
   "traps": [
@@ -145,6 +153,64 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "QMC in the maintenance program (p.37)",
+    "title_bn": "Maintenance program-এ QMC-র চক্র",
+    "cycle": true,
+    "items": [
+      {
+        "text": "PLAN: prepare all the details of the maintenance program.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "is to PLAN by preparing all the details of the maintenance program"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "DO: implement maintenance methods and strategies based on the maintenance schedule.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "Then DO, wherein the organization implements the methods and strategies of maintenance based on the maintenance schedule."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "CHECK: regularly inspect equipment to see if required procedures are conducted.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "Then CHECK, here the organization regular inspects equipment to determine if the required maintenance procedures are conducted."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "ACT: act on the result of the inspection conducted.",
+        "cites": [
+          {
+            "src": "cblm06",
+            "page": 37,
+            "quote": "Finally ACT. here the organization acts on the result of the inspection conducted"
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    ],
+    "labels_bn": [
+      "Plan — maintenance program-এর সব details আগে তৈরি করা।",
+      "Do — maintenance schedule ধরে methods ও strategies বাস্তবায়ন করা।",
+      "Check — নিয়মিত equipment inspect করে দেখা, নির্ধারিত procedures মানা হচ্ছে কি না।",
+      "Act — inspection-এর result দেখে ব্যবস্থা নেওয়া; তারপর আবার Plan।"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Define Quality Management. Write the steps of the Quality Management Cycle.",

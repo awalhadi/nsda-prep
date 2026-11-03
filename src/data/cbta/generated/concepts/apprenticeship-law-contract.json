@@ -37,6 +37,163 @@
     "bn": "গার্মেন্টসে regular workers-এর তুলনায় কতজন apprentices রাখা যাবে, তা আইন ঠিক করে।",
     "en": "A garments factory takes ten apprentices. The law limits how many apprentices it can have per regular worker."
   },
+  "extra": [
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "The length of training",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "The length of training"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "Type and amount of related instruction",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Type and amount of related instruction"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "Supervision of the apprentice",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Supervision of the apprentice"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "Appropriate ratios of apprentices to regular workers",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Appropriate ratios of apprentices to regular workers"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 31,
+                "printedPage": 31,
+                "quote": "Apprentice selection and recruitment procedures",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Apprentice selection and recruitment procedures"
+          }
+        ],
+        "title": "Apprenticeship laws set minimum requirements",
+        "title_bn": "আইন: ন্যূনতম শর্ত"
+      },
+      "outline": [
+        "c01-p31-apprenticeship-laws"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "the length of the training",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "the length of the training"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "the related school requirements",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "the related school requirements"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "an outline of the skills of the trade to be learned",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "an outline of the skills of the trade to be learned"
+          },
+          {
+            "cites": [
+              {
+                "cblm": 1,
+                "match": "exact",
+                "page": 32,
+                "printedPage": 32,
+                "quote": "the wages the apprentice will receive",
+                "sourceTitle": "Work effectively within TVET Sector",
+                "src": "cblm01"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "the wages the apprentice will receive"
+          }
+        ],
+        "title": "The apprentice contract specifies",
+        "title_bn": "চুক্তি: যা লেখা থাকে"
+      },
+      "title": "Apprenticeship laws vs apprentice contract (p.31-32)",
+      "title_bn": "আইন কী ঠিক করে, চুক্তি কী বলে"
+    }
+  ],
   "highlighted": true,
   "id": "apprenticeship-law-contract",
   "importance": {
@@ -147,7 +304,16 @@
         "fidelity": "verbatim",
         "text": "Apprentice selection and recruitment procedures"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Training-এর মেয়াদ — training কতদিন চলবে তা আইনে ঠিক থাকে, যাতে apprentice পুরো কাজ শেখার সময় পায়।",
+      "কোন ধরনের ও কতটুকু related instruction হবে — শুধু কাজ নয়, সংশ্লিষ্ট ক্লাসও যেন apprentice পায়।",
+      "Apprentice-এর তত্ত্বাবধান — কে, কীভাবে supervision করবে তা ঠিক থাকে, যাতে সে ঠিকভাবে ও নিরাপদে শেখে।",
+      "Regular workers-এর তুলনায় কতজন apprentices রাখা যাবে তার সঠিক ratio — এতে apprentice শোষিত হয় না।",
+      "Apprentice বাছাই ও নিয়োগের নিয়ম — কাকে কীভাবে selection ও recruitment করা হবে তা আগে থেকে ঠিক থাকে।"
+    ],
+    "title": "Minimum requirements of national apprenticeship law",
+    "titleBn": "জাতীয় apprenticeship law-এর ন্যূনতম শর্তসমূহ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -490,6 +656,7 @@
       "text": "Ratios of apprentices to regular workers belong to the law, not the written contract."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

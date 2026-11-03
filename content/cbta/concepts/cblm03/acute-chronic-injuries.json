@@ -67,6 +67,8 @@
     "bn": "ইস্ত্রিতে হাত পোড়া acute; বছরের পর বছর মেশিনের শব্দে hearing loss chronic।"
   },
   "list_answer": {
+    "title": "Types of injuries and illnesses",
+    "title_bn": "Injury ও illness-এর ধরন",
     "items": [
       {
         "text": "Acute: immediate injuries, such as burns, fractures and bruises.",
@@ -95,6 +97,10 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Acute — সাথে সাথে হওয়া ক্ষতি, যেমন burns, fractures ও bruises; কারণ আর ফল একসাথেই দেখা যায়।",
+      "Chronic — অনেক দিন ধরে ধীরে ধীরে তৈরি হওয়া অসুখ, যেমন hearing loss ও cancer; তাই আগে থেকেই সাবধান থাকতে হয়।"
     ]
   },
   "traps": [
@@ -131,6 +137,67 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Acute vs chronic (p.19)",
+    "title_bn": "Acute বনাম chronic",
+    "left": {
+      "title": "Acute",
+      "title_bn": "তাৎক্ষণিক আঘাত",
+      "points": [
+        {
+          "text": "Immediate injuries are called acute.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 19,
+              "quote": "Immediate injuries are called acute."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Examples: burns, fractures, bruises.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 19,
+              "quote": "Examples of acute injuries are burns, fractures, bruises."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Chronic",
+      "title_bn": "দীর্ঘমেয়াদি অসুস্থতা",
+      "points": [
+        {
+          "text": "Illnesses that develop over a long period of time.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 19,
+              "quote": "Illnesses that develop over a long period of time are called chronic."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Examples: repetitive strain, hearing loss, cancer.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 19,
+              "quote": "Examples of chronic illnesses include repetitive strain, hearing loss, and cancer."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "Name the two types of injuries or illnesses in workplace hazard.",

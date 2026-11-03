@@ -79,6 +79,8 @@
     "bn": "বিদেশি video পেলেই চালাবেন না, আগে language আর relevance দেখে নিন।"
   },
   "list_answer": {
+    "title": "What to check in existing learning resources",
+    "title_bn": "আগে থেকে থাকা learning resources-এ যা যাচাই করবেন",
     "items": [
       {
         "text": "Language: is the language appropriate for the learners and level of training?",
@@ -145,6 +147,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "ভাষা — learners আর training level-এর উপযোগী কিনা, jargon বা লম্বা কঠিন শব্দ বেশি কিনা।",
+      "শিক্ষার্থীর বৈশিষ্ট্য — resources safe ও accessible কিনা, diversity দেখায় কিনা, কাউকে অসম্মান করে কিনা।",
+      "প্রাসঙ্গিকতা — units of competency, তার elements আর learning outcomes-এর সাথে মেলে কিনা।"
     ]
   },
   "traps": [
@@ -309,5 +316,88 @@
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "table",
+    "title": "Factors to address when checking existing resources (pp.16, 18)",
+    "title_bn": "Existing resource যাচাইয়ের তিনটি factor",
+    "columns": [
+      "Factor",
+      "What to check"
+    ],
+    "rows": [
+      [
+        "Language",
+        {
+          "text": "Is the language appropriate for the learners and level? Is there a lot of jargon?",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "Is the language appropriate for the learners for the level of training? Does it contain a"
+            },
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "lot of jargon or long words that the learners will struggle with?"
+            }
+          ]
+        }
+      ],
+      [
+        "Learner characteristics",
+        {
+          "text": "Safe and accessible, reflect diversity, no disrespect; learners can relate to the situations portrayed.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "Are safe and accessible"
+            },
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "reflect diversity,"
+            },
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "does not demonstrate disrespect towards gender, religion, culture"
+            },
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "that learners can relate to the situations portrayed."
+            }
+          ]
+        }
+      ],
+      [
+        "Relevance",
+        {
+          "text": "Relevant to units of competency, their elements and session learning outcomes.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 18,
+              "quote": "The resources used must be relevant in terms of:"
+            },
+            {
+              "src": "cblm08",
+              "page": 18,
+              "quote": "Units of competency and their elements"
+            },
+            {
+              "src": "cblm08",
+              "page": 18,
+              "quote": "Session learning outcomes."
+            }
+          ]
+        }
+      ]
+    ]
+  }
 }

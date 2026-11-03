@@ -1,0 +1,210 @@
+{
+  "id": "seeking-feedback",
+  "canonical_title": "Seeking Feedback on Work-Management Skills and Professional Relationships",
+  "aliases": [
+    "Seeking feedback on work-management skills and professional relationships",
+    "Feedback from colleagues and clients"
+  ],
+  "cblmPrimary": 1,
+  "source_type": "cblm",
+  "covers": [
+    "cblm01-p45-29da9bc3",
+    "cblm01-p45-01d8d098",
+    "cblm01-p46-bad63afb"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Seeking feedback on your professional performance is an essential skill in training and assessment services.",
+    "cites": [
+      { "src": "cblm01", "page": 45, "quote": "Seeking feedback on" },
+      { "src": "cblm01", "page": 45, "quote": "your professional performance is an essential skill" },
+      { "src": "cblm01", "page": 45, "quote": "in training and assessment services" }
+    ],
+    "fidelity": "paraphrase"
+  },
+  "keywords": [
+    {
+      "en": "Feedback",
+      "bn": "মতামত: আপনার কাজ কেমন হলো"
+    },
+    {
+      "en": "Professional performance",
+      "bn": "পেশাগত কাজের মান"
+    },
+    {
+      "en": "Evaluate",
+      "bn": "যাচাই/বিচার করা"
+    },
+    {
+      "en": "Act upon",
+      "bn": "সেই অনুযায়ী ব্যবস্থা নেওয়া"
+    },
+    {
+      "en": "Colleagues",
+      "bn": "সহকর্মী"
+    }
+  ],
+  "bangla_explanation": [
+    "Work relationships সামলানো আর নিজের professional performance নিয়ে feedback চাওয়া — সবার জন্য জরুরি skill।",
+    "তার চেয়েও বেশি জরুরি: পাওয়া feedback evaluate করা আর সেই অনুযায়ী act upon করা।",
+    "Feedback আসে ছয় জায়গা থেকে: নিজের ও অন্য প্রতিষ্ঠানের colleagues, enterprises, government, learners আর candidates।",
+    "এটি PC 3.2-এর সাথে মেলে: feedback obtained, evaluated and acted upon।"
+  ],
+  "example": {
+    "en": "After a course, a garments trainer asks the factory manager and learners for feedback. Then he improves his plan.",
+    "bn": "Course শেষে garments trainer factory manager আর learners-এর feedback নিয়ে session plan বদলান।"
+  },
+  "list_answer": {
+    "title": "Colleagues and clients who may give feedback",
+    "title_bn": "কারা feedback দিতে পারেন (ছয় ধরনের)",
+    "items": [
+      {
+        "text": "colleagues from within your training and/or assessment organization",
+        "cites": [
+          { "src": "cblm01", "page": 45, "quote": "colleagues from within your training and/or assessment organization" }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "colleagues from other training and/or assessment organizations",
+        "cites": [
+          { "src": "cblm01", "page": 45, "quote": "colleagues from other training and/or assessment organizations" }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "clients from enterprises and industry sectors",
+        "cites": [
+          { "src": "cblm01", "page": 45, "quote": "clients from enterprises and industry sectors" }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "clients from government departments, agencies and other external organizations",
+        "cites": [
+          { "src": "cblm01", "page": 46, "quote": "clients from government departments, agencies and other external organizations" }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "individual learners, employees, apprentices and trainees",
+        "cites": [
+          { "src": "cblm01", "page": 46, "quote": "individual learners, employees, apprentices and trainees" }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "candidates for assessment",
+        "cites": [
+          { "src": "cblm01", "page": 46, "quote": "candidates for assessment" }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "items_bn": [
+      "নিজের training/assessment প্রতিষ্ঠানের colleagues।",
+      "অন্য training/assessment প্রতিষ্ঠানের colleagues।",
+      "Enterprises আর industry sectors-এর clients।",
+      "Government departments, agencies আর অন্যান্য external organizations-এর clients।",
+      "Individual learners, employees, apprentices আর trainees।",
+      "Assessment-এর candidates।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "What is even more important is your ability to evaluate and act upon the feedback.",
+      "cites": [
+        { "src": "cblm01", "page": 45, "quote": "What is even more important is your ability to evaluate and act upon the feedback." }
+      ],
+      "fidelity": "verbatim"
+    },
+    {
+      "text": "Learners and candidates for assessment also give feedback.",
+      "cites": [
+        { "src": "cblm01", "page": 45, "quote": "feedback you obtain from colleagues and clients" },
+        { "src": "cblm01", "page": 46, "quote": "individual learners, employees, apprentices and trainees" },
+        { "src": "cblm01", "page": 46, "quote": "candidates for assessment" }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "From whom should a TVET teacher seek feedback on work-management skills and professional relationships?",
+      "modelAnswer": "Seeking feedback is an essential skill. It is even more important to evaluate and act upon it. Feedback may come from:\n1. colleagues from within your training and/or assessment organization\n2. colleagues from other training and/or assessment organizations\n3. clients from enterprises and industry sectors\n4. clients from government departments, agencies and other external organizations\n5. individual learners, employees, apprentices and trainees\n6. candidates for assessment",
+      "keyPoints": [
+        {
+          "text": "Seeking feedback on professional performance is an essential skill.",
+          "cites": [
+            { "src": "cblm01", "page": 45, "quote": "Seeking feedback on" },
+            { "src": "cblm01", "page": 45, "quote": "professional performance is an essential skill" }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Evaluate and act upon the feedback you obtain from colleagues and clients.",
+          "cites": [
+            { "src": "cblm01", "page": 45, "quote": "Evaluate and act upon the feedback you obtain from colleagues and clients." }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Feedback from clients and colleagues are obtained, evaluated and acted upon",
+          "cites": [
+            { "src": "cblm01", "page": 3, "quote": "Feedback from clients and colleagues are obtained, evaluated and acted upon" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "According to CBLM 1, what is even more important than seeking feedback?",
+      "options": [
+        "Record the feedback in a diary",
+        "Evaluate and act upon the feedback",
+        "Give feedback only to supervisors",
+        "Seek feedback only from learners"
+      ],
+      "answerIndex": 1,
+      "answerCite": { "src": "cblm01", "page": 45, "quote": "your ability to evaluate and act upon the feedback you obtain" }
+    },
+    "matching": {
+      "prompt": "Match the feedback source with its group.",
+      "pairs": [
+        {
+          "left": "Colleagues within your organization",
+          "right": "Your own training and/or assessment organization",
+          "cite": { "src": "cblm01", "page": 45, "quote": "colleagues from within your training and/or assessment organization" }
+        },
+        {
+          "left": "Clients from industry",
+          "right": "Enterprises and industry sectors",
+          "cite": { "src": "cblm01", "page": 45, "quote": "clients from enterprises and industry sectors" }
+        },
+        {
+          "left": "External clients",
+          "right": "Government departments and agencies",
+          "cite": { "src": "cblm01", "page": 46, "quote": "clients from government departments, agencies and other external organizations" }
+        },
+        {
+          "left": "Learners",
+          "right": "Employees, apprentices and trainees",
+          "cite": { "src": "cblm01", "page": 46, "quote": "individual learners, employees, apprentices and trainees" }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "What must you do after you obtain feedback?",
+      "answer": {
+        "text": "Evaluate the feedback and act upon it.",
+        "cites": [
+          { "src": "cblm01", "page": 45, "quote": "Evaluate" },
+          { "src": "cblm01", "page": 45, "quote": "the feedback" },
+          { "src": "cblm01", "page": 45, "quote": "and act upon" }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": []
+}

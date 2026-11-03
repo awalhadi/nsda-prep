@@ -40,6 +40,58 @@
     "bn": "টিটিসির নিচতলার ওয়ার্কশপে ভারী বৃষ্টিতে পানি ঢুকলে তা severe weather emergency।",
     "en": "Heavy rain floods a ground-floor workshop in a TTC. This is severe weather. Everyone follows the emergency plan."
   },
+  "extra": [
+    {
+      "bn": [
+        "Emergency-তে কী করতে হবে সবাই জানলে ক্ষতি কম হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "You can also stay safe at work by knowing what to do in an emergency.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "You can also stay safe at work by knowing what to do in an emergency."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "It's important",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 40,
+              "printedPage": 40,
+              "quote": "that everyone knows what to do in these situations.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It's important that everyone knows what to do in these situations."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p40-types-of-emergency"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "types-of-emergency",
   "importance": {
@@ -150,7 +202,16 @@
         "fidelity": "verbatim",
         "text": "Severe Weather"
       }
-    ]
+    ],
+    "itemsBn": [
+      "আগুন বা বিস্ফোরণ (fire, explosion) — আগুন লাগা বা কিছু ফেটে যাওয়ায় মুহূর্তে অনেকের জীবন ঝুঁকিতে পড়ে।",
+      "আঘাত (injury) — কাজের সময় কেউ আহত হলে সেটাও emergency।",
+      "বিপজ্জনক পদার্থ ছড়িয়ে পড়া (hazardous material spill) — ক্ষতিকর জিনিস পড়ে গেলে মানুষ ও পরিবেশের ক্ষতি হতে পারে।",
+      "সহিংসতা (violence) — কর্মস্থলে মারামারি বা হামলাও emergency।",
+      "প্রচণ্ড খারাপ আবহাওয়া (severe weather) — এতে কর্মস্থলের মানুষ বিপদে পড়তে পারে।"
+    ],
+    "title": "Types of emergency",
+    "titleBn": "Emergency-র ধরন"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -426,6 +487,7 @@
       "text": "It's important that everyone knows what to do in an emergency."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

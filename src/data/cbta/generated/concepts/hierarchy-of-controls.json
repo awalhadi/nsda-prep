@@ -40,6 +40,374 @@
     "bn": "গার্মেন্টসের শব্দ করা মেশিন: ear plug দেওয়া শেষ উপায়, প্রথম উপায় নয়।",
     "en": "A garments cutting machine is very noisy. First, try a quieter machine. Then put it in a closed room. Ear plugs come last."
   },
+  "extra": [
+    {
+      "bn": [
+        "কোন control বাছবেন, তা পরিবেশ, hazard আর learner-দের ভাষা, literacy, numeracy-র ওপর নির্ভর করে।",
+        "Hierarchy of controls হলো hazard control-এর golden rule।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "The nature or the learning environment and the hazards and characteristics of the",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "workgroup such as language, literacy and numeracy will influence the selection of the",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The learning environment, its hazards and workgroup language, literacy and numeracy influence control selection."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "It is the golden rule for reliably and cost-effectively",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "controlling the hazards.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The hierarchy of controls is the golden rule for reliably and cost-effectively controlling hazards."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p10-control-risks"
+      ]
+    },
+    {
+      "columns": [
+        "Control",
+        "Option",
+        "How"
+      ],
+      "kind": "table",
+      "outline": [
+        "c03-p11-hierarchy-table"
+      ],
+      "rows": [
+        [
+          "Eliminate",
+          "Remove the risk",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Remove the risk Eliminate the risk altogether eg cease using/doing a",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "specific the task, process, substance, or equipment",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Eliminate the risk altogether, e.g. cease using a task, process, substance or equipment."
+          }
+        ],
+        [
+          "Substitute",
+          "Substitute the hazard",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Use a device, substance, method, process, place, or",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "person, that is less harmful or hazardous",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Use a less harmful device, substance, method, process, place or person."
+          }
+        ],
+        [
+          "Isolation",
+          "Separate the risk",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Isolating the hazard from the person environment or",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "business",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Isolate the hazard from the person, environment or business."
+          }
+        ],
+        [
+          "Engineering controls",
+          "Design out or modify",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Adopt a safer",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Can it be done another way",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Adopt a safer process. Can it be done another way?"
+          }
+        ],
+        [
+          "Engineering controls",
+          "Enclose or isolate",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Use guards, close off, move away",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Use guards, close off, move away."
+          }
+        ],
+        [
+          "Engineering controls",
+          "Ventilation",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Provide adequate ventilation",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Provide adequate ventilation"
+          }
+        ],
+        [
+          "Administrative controls",
+          "Safe work procedures",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Correct work procedures",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Correct work procedures"
+          }
+        ],
+        [
+          "Administrative controls",
+          "Information",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Provide appropriate information about risks",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Provide appropriate information about risks"
+          }
+        ],
+        [
+          "Administrative controls",
+          "Job rotation",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Relieve stress/boredom; reduce exposure of",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "individuals",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Relieve stress/boredom; reduce exposure of individuals."
+          }
+        ],
+        [
+          "Administrative controls",
+          "Training/Induction",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Know the dangers. How to do work correctly",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Know the dangers. How to do work correctly"
+          }
+        ],
+        [
+          "Personal Protective Equipment",
+          "Provide and/or use PPE",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Using appropriately designed, maintained, and",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "properly fitting equipment when all of the above",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "control processes are not practicable. Must also",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "provide instruction on correct fitting, use, and",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Use well designed, maintained, properly fitting equipment when other controls are not practicable. Also instruct on fitting, use and maintenance."
+          }
+        ]
+      ],
+      "title": "The hierarchy of controls table (p.11)",
+      "title_bn": "Hierarchy-র প্রতিটি control কীভাবে কাজ করে"
+    },
+    {
+      "bn": "\"Bottom to top\" চাইলে PPE থেকে শুরু করে Elimination-এ শেষ করুন; \"top to bottom\" হলে উল্টো।",
+      "kind": "note",
+      "outline": [
+        "c03-p11-hierarchy-table",
+        "c03-p16-self-check-1"
+      ],
+      "text": "Self Check 1 Q4 asks from bottom to top: start with PPE and end with Elimination.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "hierarchy-of-controls",
   "importance": {
@@ -256,7 +624,17 @@
         "fidelity": "paraphrase",
         "text": "Personal protective equipment (PPE): used when other controls are not practicable."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Eliminate — risk পুরোপুরি সরিয়ে ফেলা; hazard-ই না থাকলে ক্ষতির প্রশ্ন নেই, তাই এটা সবচেয়ে ভালো উপায়।",
+      "Substitute — কম ক্ষতিকর device, substance বা method দিয়ে বদলে নেওয়া।",
+      "Isolation — risk-কে মানুষ থেকে আলাদা (separate) করে রাখা।",
+      "Engineering controls — নকশা বদলে risk সরানো (design it out), guards লাগানো, ventilation দেওয়া।",
+      "Administrative controls — safe work procedures, information, job rotation ও induction দিয়ে কাজের নিয়ম বদলে risk কমানো।",
+      "PPE — অন্য controls সম্ভব (practicable) না হলে তবেই ব্যবহার; তাই এটা last resort।"
+    ],
+    "title": "Hierarchy of controls",
+    "titleBn": "Hazard control-এর hierarchy (পছন্দের ক্রম)"
   },
   "mnemonic": {
     "explain_bn": "প্রতিটি শব্দের প্রথম অক্ষর একটি ধাপ: Eliminate, Substitute, Isolation, Engineering, Administrative, PPE।",
@@ -579,6 +957,7 @@
       "text": "From bottom to top: PPE, Admin, Engineering, Isolation, Substitution, Elimination."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

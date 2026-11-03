@@ -61,6 +61,8 @@
     "bn": "TVET centre enrollment form সহজ করে, প্রত্যেকের specific needs জেনে নেয়, আর wheelchair ব্যবহারকারীর নিরাপত্তা দেখে।"
   },
   "list_answer": {
+    "title": "Work strategies to support inclusiveness",
+    "title_bn": "Inclusiveness-কে সহায়তা করার work strategies",
     "items": [
       {
         "text": "Using documented resources to support and guide inclusive practices",
@@ -106,6 +108,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "লিখিত (documented) resources ব্যবহার করা — এগুলো দেখে inclusive practices ঠিকভাবে চালানো যায়।",
+      "Support services চিহ্নিত করা ও কাজে লাগানো — কার কী সহায়তা লাগবে আর তা কোথায় পাওয়া যায়, জেনে ব্যবস্থা করা।",
+      "Physical environment-এর support needs নিজের work practices-এ রাখা — জায়গা ও সুবিধা যেন সবার ব্যবহারের উপযোগী হয়।",
+      "Inclusivity-র সাথে জড়িত OHS issues সমাধান করা — যাতে পরিবেশ সবার জন্য নিরাপদ থাকে।"
     ]
   },
   "traps": [
@@ -142,6 +150,128 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "The four work strategies and what each includes (pp.25-26)",
+    "title_bn": "চারটি work strategy, প্রতিটিতে কী থাকে",
+    "columns": [
+      "Work strategy",
+      "What it includes"
+    ],
+    "rows": [
+      [
+        "2.1 Documented resources",
+        {
+          "text": "National and institutional access and equity policies; national inclusive practice guidelines.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "National and institutional policies on access and equity"
+            },
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "National guidelines and support materials on inclusive practice"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "2.2 Support services",
+        {
+          "text": "Support people such as family members, interpreters, note takers and career counsellors.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "The support people available to you may"
+            },
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "family members;"
+            },
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "interpreters;"
+            },
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "note takers;"
+            },
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "career counsellors;"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "2.3 Physical environment",
+        {
+          "text": "Layout of premises, equipment, adaptive technologies, work schedules and job design.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "modifications to the layout of premises;"
+            },
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "equipment modifications;"
+            },
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "use of adaptive technologies;"
+            },
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "changes to work schedules; and"
+            },
+            {
+              "src": "cblm02",
+              "page": 25,
+              "quote": "modifications to job design"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "2.4 OHS issues",
+        {
+          "text": "Duty of care: provide a safe working environment for learners.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 26,
+              "quote": "OHS laws impose a duty of care on employers to provide a safe"
+            },
+            {
+              "src": "cblm02",
+              "page": 26,
+              "quote": "working environment"
+            },
+            {
+              "src": "cblm02",
+              "page": 26,
+              "quote": "have a duty of care for your learners"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What strategies will you take to promote an inclusive learning environment?",

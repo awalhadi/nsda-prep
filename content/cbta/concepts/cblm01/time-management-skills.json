@@ -29,11 +29,26 @@
     ]
   },
   "keywords": [
-    { "en": "Deadline", "bn": "কাজ শেষ করার শেষ সময়" },
-    { "en": "Priority", "bn": "অগ্রাধিকার: কোন কাজ আগে" },
-    { "en": "Distraction", "bn": "মনোযোগ নষ্ট করে এমন কিছু" },
-    { "en": "Milestone", "bn": "কাজের মাঝের গুরুত্বপূর্ণ ধাপ" },
-    { "en": "Timeline", "bn": "সময়সূচি" }
+    {
+      "en": "Deadline",
+      "bn": "কাজ শেষ করার শেষ সময়"
+    },
+    {
+      "en": "Priority",
+      "bn": "অগ্রাধিকার: কোন কাজ আগে"
+    },
+    {
+      "en": "Distraction",
+      "bn": "মনোযোগ নষ্ট করে এমন কিছু"
+    },
+    {
+      "en": "Milestone",
+      "bn": "কাজের মাঝের গুরুত্বপূর্ণ ধাপ"
+    },
+    {
+      "en": "Timeline",
+      "bn": "সময়সূচি"
+    }
   ],
   "bangla_explanation": [
     "শিক্ষককে নিজের কাজ সময়মতো শেষ করতে হয়; এজন্য time management জরুরি।",
@@ -46,6 +61,8 @@
     "bn": "বৃহস্পতিবারের deadline: আগে জরুরি কাজ, অপ্রয়োজনীয় distraction বাদ।"
   },
   "list_answer": {
+    "title": "Key points of time management skills",
+    "title_bn": "Time management skills-এর মূল বিষয়গুলো",
     "items": [
       {
         "text": "ability to meet time-based requirements and deadlines",
@@ -82,6 +99,13 @@
           { "src": "cblm01", "page": 41, "quote": "ability to complete tasks assigned to you within agreed timelines" }
         ]
       }
+    ],
+    "items_bn": [
+      "সময়ভিত্তিক শর্ত ও deadlines মেনে চলা — নির্ধারিত সময়ের মধ্যে কাজ শেষ করার সামর্থ্য।",
+      "কোন কাজ high আর কোনটা low priority তা চিনে সেভাবে সাজানো — জরুরি কাজ আগে হয়।",
+      "সময়ের কার্যকর ব্যবহার — অপ্রাসঙ্গিক বিষয় বা distractions যেন কাজ শেষ করতে বাধা না দেয়।",
+      "নিজের কাজের জন্য যথেষ্ট সময় বরাদ্দ করা — scheduling conflicts এড়িয়ে milestones সময়মতো পূরণ করা।",
+      "যে কাজ দেওয়া হয়েছে তা agreed timelines-এর মধ্যে শেষ করা — সবার সাথে ঠিক করা সময়সীমা মানা।"
     ]
   },
   "traps": [
@@ -105,6 +129,66 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Planning and Organizing Skills (p.41-42)",
+    "title_bn": "Planning ও organizing-এর চার ধরনের skills",
+    "columns": [
+      "Skill",
+      "Abilities"
+    ],
+    "rows": [
+      [
+        "Time management skills",
+        {
+          "text": "Meet time-based requirements and deadlines; identify and adjust high and low priority tasks; use time effectively; allocate appropriate amounts of time; complete tasks within agreed timelines.",
+          "cites": [
+            { "src": "cblm01", "page": 41, "quote": "Meet time-based requirements and deadlines" },
+            { "src": "cblm01", "page": 41, "quote": "identify and adjust high and low priority tasks" },
+            { "src": "cblm01", "page": 41, "quote": "use time effectively" },
+            { "src": "cblm01", "page": 41, "quote": "allocate appropriate amounts of time" },
+            { "src": "cblm01", "page": 41, "quote": "complete tasks" },
+            { "src": "cblm01", "page": 41, "quote": "within agreed timelines" }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Project management skills",
+        {
+          "text": "ability to manage multiple tasks and resources simultaneously",
+          "cites": [
+            { "src": "cblm01", "page": 42, "quote": "ability to manage multiple tasks and resources" },
+            { "src": "cblm01", "page": 42, "quote": "simultaneously" }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Resource allocation skills",
+        {
+          "text": "Determine project requirements by breaking them down into tasks; take advantage of available resources to complete work tasks efficiently.",
+          "cites": [
+            { "src": "cblm01", "page": 42, "quote": "Determine project requirements by breaking" },
+            { "src": "cblm01", "page": 42, "quote": "them down into tasks" },
+            { "src": "cblm01", "page": 42, "quote": "take advantage of available resources" },
+            { "src": "cblm01", "page": 42, "quote": "to complete work tasks efficiently" }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Research skills",
+        {
+          "text": "ability to collect, analyze and organize information to inform your subsequent work practices and processes",
+          "cites": [
+            { "src": "cblm01", "page": 42, "quote": "ability to collect, analyze and organize information to inform your subsequent work practices and processes" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "What are the key points of time management skills?",

@@ -70,6 +70,8 @@
     "bn": "Plumbing session-এর আগে trainer learning outcomes বুঝিয়ে বলেন, তারপর demonstrate করেন আর learners practise করে।"
   },
   "list_answer": {
+    "title": "Principles of adult learning that resemble the principles of inclusivity",
+    "title_bn": "Inclusivity-র সাথে মিল থাকা adult learning-এর principles",
     "items": [
       {
         "text": "Learning needs to be learner-centred. Example: use a font and size easy to read.",
@@ -201,6 +203,16 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "শেখা হবে learner centred — learner-এর প্রয়োজন কেন্দ্রে থাকবে; যেমন সহজে পড়া যায় এমন font ও size ব্যবহার।",
+      "শেখার প্রক্রিয়া learner-এর independence ধীরে ধীরে বাড়াবে — যেমন accessible venues, যাতে সে নিজে নিজে আসতে পারে।",
+      "হাতে-কলমে ও অংশগ্রহণমূলক (experiential and participative) শেখায় জোর — এমন activities দিন যেখানে সবাই অংশ নিতে পারে।",
+      "শেখায় modelling থাকবে — trainer আগে skills করে দেখাবেন (demonstrate), তারপর বেশি practice দেবেন।",
+      "প্রত্যেকের নিজস্ব অবস্থা ও প্রয়োজন শেখায় প্রতিফলিত হবে — তাই তাদের কাছে প্রাসঙ্গিক examples ও activities ব্যবহার করুন।",
+      "Adults-এর জীবনের নানা experience আছে, যা তারা শেখার সাথে মেলায় — তাই ভিন্ন ভিন্ন মতকে (points of view) মূল্য দিন।",
+      "Adults জানতে চায় কেন শিখছে আর কী লাভ (benefits) হবে — তাই শুরুতেই learning outcomes বুঝিয়ে বলুন।",
+      "Adults নিজেরাই নিজেদের শেখা পরিচালনা করতে চায় (self directing) — তাই জোর করে কিছু চাপিয়ে দেওয়া যায় না।"
     ]
   },
   "traps": [
@@ -253,6 +265,159 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "What each adult learning principle means (pp.10-11)",
+    "title_bn": "প্রতিটি adult learning principle-এর মানে",
+    "columns": [
+      "Principle",
+      "What it means"
+    ],
+    "rows": [
+      [
+        "Learner-centred",
+        {
+          "text": "A learner-centred approach involves adults in all aspects of the learning process.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 10,
+              "quote": "A learner-centred approach involves"
+            },
+            {
+              "src": "cblm02",
+              "page": 10,
+              "quote": "adults in all aspects of the learning process"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Learner independence",
+        {
+          "text": "With choice, adults take responsibility and ownership for their own learning.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 10,
+              "quote": "When offered choice in the learning process, adults can take responsibility and"
+            },
+            {
+              "src": "cblm02",
+              "page": 10,
+              "quote": "ownership for their own learning."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Experiential and participative",
+        {
+          "text": "Adults learn best by doing; experiential learning equates to learning by doing.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 10,
+              "quote": "Adults learn best by"
+            },
+            {
+              "src": "cblm02",
+              "page": 10,
+              "quote": "doing, and experiential learning equates to learning by doing"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Modelling",
+        {
+          "text": "Adults learn best when they observe, retain and replicate skills shown by an expert.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 11,
+              "quote": "Adults learn best when they can observe, retain and replicate skills that are"
+            },
+            {
+              "src": "cblm02",
+              "page": 11,
+              "quote": "demonstrated by an expert."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Individual circumstances",
+        {
+          "text": "Adults need to see the meaning and relevance of the material to their own situation.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 11,
+              "quote": "they need to identify the"
+            },
+            {
+              "src": "cblm02",
+              "page": 11,
+              "quote": "meaning and relevance of the learning material to their own personal situation."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Life experience",
+        {
+          "text": "Adults' life experiences represent a rich resource for learning.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 11,
+              "quote": "Adults have a variety of life experiences that represent a rich resource for learning."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Know why",
+        {
+          "text": "Adults need to know why they are learning before the learning process begins.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 11,
+              "quote": "Adults need to know why they are learning something before the learning process begins."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Self-directing",
+        {
+          "text": "Adults decide for themselves what they want to learn; they resist imposed views.",
+          "cites": [
+            {
+              "src": "cblm02",
+              "page": 11,
+              "quote": "They need to decide for themselves what they want to learn, and they resist situations"
+            },
+            {
+              "src": "cblm02",
+              "page": 11,
+              "quote": "in which they feel others are imposing views or beliefs on them."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Write the principles of adult learning that closely resemble the principles of inclusivity.",

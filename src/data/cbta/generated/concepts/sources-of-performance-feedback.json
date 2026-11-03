@@ -41,6 +41,65 @@
     "bn": "Supervisor, trainees আর নিজের ভাবনা — তিন দিক থেকেই feedback নিন।",
     "en": "A trainer at a TTC asks his supervisor and trainees for comments. He also reviews his own session notes."
   },
+  "extra": [
+    {
+      "bn": [
+        "অন্যের চোখে নিজের কাজ দেখলে নিজের অজানা দুর্বলতা ধরা পড়ে; পাঁচটি উৎস উপরের card-এ।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "Feedback from colleagues and clients is one of the most valuable resources you have.",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Feedback from colleagues and clients is one of the most valuable resources you have."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "the fresh eyes of others can help you see things you otherwise would not.",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The fresh eyes of others help you see things you otherwise would not."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "but most will be happy to assist you.",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Most people will be happy to assist you."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c05-p23-feedback-colleagues-clients",
+        "c05-p23-feedback-sources"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "sources-of-performance-feedback",
   "importance": {
@@ -151,7 +210,16 @@
         "fidelity": "verbatim",
         "text": "Applying routine organisational methods for monitoring service delivery"
       }
-    ]
+    ],
+    "itemsBn": [
+      "আনুষ্ঠানিক বা অনানুষ্ঠানিক performance appraisals — কাজের মূল্যায়ন থেকে মতামত পাওয়া।",
+      "Supervisors আর colleagues-এর মন্তব্য নেওয়া — তাঁরা কাছ থেকে আপনার কাজ দেখেন।",
+      "যাঁদের আপনি সেবা দেন, সেই clients-এর মন্তব্য নেওয়া।",
+      "নিজের কাজ নিয়ে নিজে ভেবে দেখা — personal reflective behaviour strategies ব্যবহার করা।",
+      "Service delivery ঠিকমতো হচ্ছে কিনা দেখতে প্রতিষ্ঠানের নিয়মিত (routine) পদ্ধতি কাজে লাগানো।"
+    ],
+    "title": "Sources of feedback on your performance",
+    "titleBn": "নিজের কাজ নিয়ে feedback পাওয়ার উৎস"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -382,6 +450,7 @@
       "text": "Decide what weight to give some opinions. Some people have their own agendas."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

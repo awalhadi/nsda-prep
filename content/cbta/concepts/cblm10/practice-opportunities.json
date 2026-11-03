@@ -55,6 +55,8 @@
     "bn": "মোবাইল সার্ভিসিং কোর্সে পুরনো ফোনে নিরাপদ workshop-এ practice, আগে standard বলে দেওয়া হয়।"
   },
   "list_answer": {
+    "title": "How to provide practice opportunities",
+    "title_bn": "Practice-এর সুযোগ তৈরির উপায়",
     "items": [
       {
         "text": "Prepare guidelines: the practice, the standards expected, and how it will be assessed.",
@@ -120,6 +122,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Practice session-এর guidelines তৈরি করুন — কী practice হবে, কোন standards অর্জন করতে হবে আর কীভাবে মূল্যায়ন হবে।",
+      "কত সময়, কী equipment আর কেমন teaching and learning environment লাগবে, তার পরিকল্পনা আগেই করুন।",
+      "Learners-কে প্রস্তুত করুন, যাতে তারা বোঝে এই practice ভবিষ্যতের workplace-এ কেন কাজে লাগবে।",
+      "Practice-এর পরিবেশ যেন safe হয় আর learners ভয় না পায়।"
     ]
   },
   "traps": [
@@ -156,6 +164,113 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Types of practice opportunity (p.55)",
+    "title_bn": "অনুশীলনের সুযোগের ধরন",
+    "columns": [
+      "Type of practice opportunity",
+      "Explanation"
+    ],
+    "rows": [
+      [
+        "Individual skills presentation",
+        {
+          "text": "Learner demonstrates an activity by analysing the task: listing steps, demonstrating skills.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 55,
+              "quote": "Learner demonstrates how to do an activity"
+            },
+            {
+              "src": "cblm10",
+              "page": 55,
+              "quote": "by analysing task"
+            },
+            {
+              "src": "cblm10",
+              "page": 55,
+              "quote": "Listing steps in skill"
+            },
+            {
+              "src": "cblm10",
+              "page": 55,
+              "quote": "Demonstrating practical skills to"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Group skills presentation",
+        {
+          "text": "Two or three learners develop a way of teaching a skill. Each shares responsibility.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 55,
+              "quote": "Two or three learners work together and"
+            },
+            {
+              "src": "cblm10",
+              "page": 55,
+              "quote": "develop a way of teaching/training"
+            },
+            {
+              "src": "cblm10",
+              "page": 55,
+              "quote": "people a skill. Each person shares"
+            },
+            {
+              "src": "cblm10",
+              "page": 55,
+              "quote": "responsibility in demonstrating the skill"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Skills practice (simulation)",
+        {
+          "text": "A simulation skills practice carried out in a controlled environment.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 55,
+              "quote": "A simulation skills practice carried out in"
+            },
+            {
+              "src": "cblm10",
+              "page": 55,
+              "quote": "a controlled environment"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Skills practice (workplace)",
+        {
+          "text": "A practice session carried out in the actual workplace.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 55,
+              "quote": "A practice session carried out in the"
+            },
+            {
+              "src": "cblm10",
+              "page": 55,
+              "quote": "actual workplace"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "How do you provide enough practice opportunities to the learners?",

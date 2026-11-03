@@ -79,6 +79,8 @@
     "bn": "ল্যাবের বোতলে আগুনের চিহ্ন (Class B) আর goggles-এর চিহ্ন: goggles পরুন, আগুন দূরে রাখুন।"
   },
   "list_answer": {
+    "title": "Classes of hazard symbols",
+    "title_bn": "Hazard symbol-এর Class (শ্রেণি)",
     "items": [
       {
         "text": "Class A Compressed Gas: a gas packaged under pressure in a cylinder.",
@@ -206,6 +208,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Class A, Compressed Gas — চাপ দিয়ে cylinder-এ ভরা গ্যাস; চাপের কারণেই বিপজ্জনক।",
+      "Class B, Flammable ও Combustible — সহজে আগুন ধরে আর জ্বলতেই থাকে।",
+      "Class C, Oxidizing — oxygen ছাড়ে, ফলে দাহ্য জিনিসের আগুন আরও বাড়িয়ে দেয়।",
+      "Class D, Toxic ও Infectious — জীবন ও স্বাস্থ্যের জন্য সবচেয়ে বড় সম্ভাব্য বিপদ।",
+      "Class E, Corrosive — ধাতু ক্ষয় করে আর মানুষের শরীরের কোষ-কলা নষ্ট করে।",
+      "Class F, Dangerously Reactive — হঠাৎ প্রচণ্ড বিক্রিয়া করতে পারে, এমনকি পানির সাথেও।"
     ]
   },
   "traps": [
@@ -269,6 +279,168 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "PPE symbols and their meaning (p.33)",
+    "title_bn": "PPE symbol ও তার অর্থ",
+    "columns": [
+      "PPE symbol",
+      "Meaning"
+    ],
+    "rows": [
+      [
+        "Dust mask required",
+        {
+          "text": "A dust mask must be used.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "A dust mask must be used."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Air Purifying Respirator",
+        {
+          "text": "A chemical cartridge respirator must be used. It requires specialized training.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "Air Purifying Respirator - chemical cartridge respirator must be"
+            },
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "requires specialized training"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Supplied Air Respirator",
+        {
+          "text": "SCBA or Supplied Air system must be used. It requires specialized training.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "Supplied Air Respirator - SCBA or Supplied Air system must be used."
+            },
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "requires specialized training"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Apron",
+        {
+          "text": "An apron resistant to the hazardous material must be worn.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "An apron made of material resistant to the hazardous material must be worn."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Chemical Protective Clothing",
+        {
+          "text": "A hooded or fully-encapsulating suit must be worn. Consult MSDS.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "Either a hooded or fully"
+            },
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "encapsulating suit of appropriate material must be worn."
+            },
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "Consult MSDS for appropriate level of protection."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Goggles",
+        {
+          "text": "Chemical-resistant, splash-proof goggles must be worn.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "Chemical-resistant, splash-proof goggles must be worn."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Face Shield",
+        {
+          "text": "Face shield must be worn. Approved safety glasses or goggles must also be worn.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "Face Shield - Face shield must be worn."
+            },
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "approved safety glasses or goggles must also be worn with this"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Foot Protection",
+        {
+          "text": "Protective footwear appropriate to the hazard must be worn.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "Protective footwear appropriate to the hazard must be worn."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "Hand Protection",
+        {
+          "text": "Gloves offering appropriate protection to the hazard must be worn.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 33,
+              "quote": "Gloves offering appropriate protection to the hazard must be worn."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Write down the meaning of the PPE symbols.",

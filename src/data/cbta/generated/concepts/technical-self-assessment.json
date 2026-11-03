@@ -37,6 +37,116 @@
     "bn": "Checklist মিলিয়ে দুটো দুর্বল কাজ পেলেন, principal-এর সাথে আলোচনা করলেন।",
     "en": "A food technician trainer ticks a checklist from his competency standard. He finds two weak tasks. He discusses them with his principal."
   },
+  "extra": [
+    {
+      "bn": [
+        "Standard হাতে → নিজেকে যাচাই → gap খোঁজা → feedback থেকে development plan।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 7,
+              "quote": "After accessing the relevant competency standard document at\ndesired level, now it is required for the TVET teacher/trainer to\nplan his self assessment in respect to the competency\nstandards.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 7,
+              "quote": "This self assessment will be helpful for the\nteacher/trainer to identify his/her skills and/or knowledge gaps.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "After accessing the standard, the trainer plans self assessment. It shows skills and knowledge gaps."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p8-section-2",
+        "c07-p8-assess-own-skills"
+      ]
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 7,
+            "quote": "Self assessment is a way to assess someone's own skills, knowledge and\ncompetencies in respect to some predefined standard to determine the\nknowledge, skills and competencies gap to plan future training and up skilling\nrequirements.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Self assessment assesses own skills, knowledge and competencies against a predefined standard. It finds the gap to plan training."
+      },
+      "concept": "technical-self-assessment",
+      "example": {
+        "bn": "Checklist মিলিয়ে নিজের দুর্বল জায়গা খুঁজে পাওয়াই self assessment।",
+        "en": "An IT support trainer at a TSC ticks a BTEB checklist. He finds he cannot configure a network switch."
+      },
+      "kind": "qa",
+      "outline": [
+        "c07-p8-self-assessment-definition"
+      ],
+      "q": "What is self assessment?",
+      "q_bn": "Self assessment কী?"
+    },
+    {
+      "bn": [
+        "চার ধাপ মনে রাখুন: Identify → Assess → Discuss → Identify (card-এর flow দেখুন)।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 7,
+              "quote": "The four steps of Self-Assessment",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 8,
+              "printedPage": 7,
+              "quote": "Identify own skills and knowledge relating to trade/occupation",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 9,
+              "printedPage": 8,
+              "quote": "Identify further skills, knowledge development needs",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The four steps of Self-Assessment run from identifying own skills to identifying development needs."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p8-four-steps"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "technical-self-assessment",
   "importance": {
@@ -133,7 +243,15 @@
         "fidelity": "verbatim",
         "text": "Identify further skills, knowledge development needs"
       }
-    ]
+    ],
+    "itemsBn": [
+      "নিজের পেশায় এখন কী skills আর knowledge আছে, তা চিহ্নিত করা।",
+      "প্রাসঙ্গিক competency standards-এর checklist দিয়ে নিজের বর্তমান skills আর knowledge মিলিয়ে দেখা।",
+      "Self-assessment-এর ফলাফল নিয়ে supervisor বা principal-এর সাথে আলোচনা করা।",
+      "আর কোন skills ও knowledge শিখতে হবে, মানে development needs খুঁজে বের করা।"
+    ],
+    "title": "Steps of self-assessment of own technical skills",
+    "titleBn": "নিজের কারিগরি দক্ষতার self assessment-এর ধাপ"
   },
   "mnemonic": {
     "explain_bn": "চার ধাপের প্রথম অক্ষর: Identify own skills, Assess against checklist, Discuss results, Identify further needs।",
@@ -350,6 +468,79 @@
       "text": "Step 3: discuss results of self-assessment with supervisor/principal."
     }
   ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 7,
+            "quote": "Identify own skills and knowledge relating to trade/occupation",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Identify own skills and knowledge relating to trade/occupation"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 8,
+            "printedPage": 7,
+            "quote": "Assess current skills and knowledge against a checklist of relevant competency standards",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Assess current skills and knowledge against a checklist of relevant competency standards"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 8,
+            "quote": "Discuss results of self-assessment with supervisor/principal",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Discuss results of self-assessment with supervisor/principal"
+      },
+      {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 9,
+            "printedPage": 8,
+            "quote": "Identify further skills, knowledge development needs",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "Identify further skills, knowledge development needs"
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "নিজের trade-এ এখন কী skills আর knowledge আছে, লিখে ফেলুন।",
+      "Competency standards-এর checklist ধরে নিজের বর্তমান অবস্থা মিলিয়ে দেখুন।",
+      "ফলাফল নিয়ে supervisor বা principal-এর সাথে আলোচনা করুন।",
+      "আর কী শিখতে হবে — development needs — চিহ্নিত করুন।"
+    ],
+    "title": "The four steps of Self-Assessment (p.8-9)",
+    "title_bn": "Self-Assessment-এর চার ধাপ"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

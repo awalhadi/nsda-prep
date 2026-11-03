@@ -36,6 +36,118 @@
     "bn": "IT trainer handout লেখার জন্য দুই ঘণ্টা বিরক্তিহীন সময় রাখেন।",
     "en": "An IT trainer plans a typing handout. He blocks two quiet hours for writing."
   },
+  "extra": [
+    {
+      "bn": [
+        "Material instructor-led হবে নাকি self-paced — আগে ঠিক করুন।",
+        "Trainer-এর জন্য training guide, learner-এর জন্য learning guide।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "It is important to be very clear about how your materials are intended to be used",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Be very clear how your materials are intended to be used."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "We refer to",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 23,
+              "printedPage": 23,
+              "quote": "these materials as training guides (for trainers) or learning guides (for learners).",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Training guides are for trainers; learning guides are for learners."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "They also use a wide variety of learning activities and",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "integrate adult learning principles",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Writers use a wide variety of learning activities and adult learning principles."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p23-writing-effective"
+      ]
+    },
+    {
+      "bn": [
+        "আগে কখনো না লিখলে অভিজ্ঞ লেখকদের সাথে কথা বলুন — তাদের সমস্যা ও সমাধান জানুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "If you have never written training or learning materials before, then spend some time",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 24,
+              "printedPage": 24,
+              "quote": "with people that have",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "If you have never written materials, talk with people who have."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p24-preparation"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "preparing-to-write-materials",
   "importance": {
@@ -143,7 +255,16 @@
         "fidelity": "verbatim",
         "text": "To focus for periods of time without interruption."
       }
-    ]
+    ],
+    "itemsBn": [
+      "লিখতে ভালো লাগা — লেখার কাজটা উপভোগ করতে পারা।",
+      "নিজের বিষয়ের জ্ঞান, আর research-এর জন্য সময় দিতে পারা।",
+      "নিজের প্রাসঙ্গিক অভিজ্ঞতা, যা থেকে উদাহরণ টেনে লেখা যায়।",
+      "Instructional design, adult learning আর training সম্পর্কে উপযুক্ত জ্ঞান।",
+      "কোনো বাধা ছাড়া লম্বা সময় মনোযোগ দিয়ে কাজ করতে পারা।"
+    ],
+    "title": "What you need in preparation for writing learning materials",
+    "titleBn": "Learning materials লেখার প্রস্তুতিতে যা দরকার"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -354,6 +475,89 @@
       "text": "New writers should talk with people who have written materials before."
     }
   ],
+  "visual": {
+    "columns": [
+      "Consider",
+      "Why"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Adult learning principles",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Adult learning principles and their implications for how writers structure their",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "materials",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Their implications for how writers structure their materials."
+        }
+      ],
+      [
+        "Learning style preferences",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Learning style preferences and how these can inform our selection of learning",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "materials and our use of language as we write",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "They inform our selection of learning materials and our use of language."
+        }
+      ],
+      [
+        "Potential barriers to learning",
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 19,
+              "printedPage": 19,
+              "quote": "Potential barriers to learning and how these can be overcome",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "How these can be overcome."
+        }
+      ]
+    ],
+    "title": "Things to consider in designing materials (p.19)",
+    "title_bn": "Material ডিজাইনের সময় তিনটি বিবেচনা"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

@@ -60,6 +60,8 @@
     "bn": "Welding assessment-এর পর CARS দেখে বোঝা যায় কোন criteria met হয়েছে আর কোথায় improvement লাগবে।"
   },
   "list_answer": {
+    "title": "What a competency assessment result summary (CARS) shows",
+    "title_bn": "CARS-এ যা দেখা যায়",
     "items": [
       {
         "text": "Which competencies were assessed.",
@@ -94,6 +96,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "কোন কোন competencies assessed হয়েছে, তা দেখায়।",
+      "কোন criteria পূরণ (met) হয়েছে, তা দেখায়।",
+      "কোথায় improvement দরকার, তা দেখায় — তাই পরের প্রস্তুতি কোথায় লাগবে বোঝা যায়।"
     ]
   },
   "traps": [
@@ -224,7 +231,7 @@
   "checks": [
     {
       "path": "source_type",
-      "note": "Built from a paper answer guide, not a CBLM; owner to confirm. CBLM 12 does not name CARS (p.26 lists what an assessment record includes, e.g. summary of evidence and assessment decisions). Source is paper-short-questions p.10 (Q75, with Q74 for recording/reporting)."
+      "note": "Built from a paper answer guide, not a CBLM; owner to confirm. CBLM 12 never names CARS. Its closest form is the p.28-29 'Pro-forma for Record of Competency Assessment Results' (card record-of-assessment-results), a full record rather than a concise summary, so this card is not re-cited to it. Source is paper-short-questions p.10 (Q75, with Q74 for recording/reporting)."
     }
   ]
 }

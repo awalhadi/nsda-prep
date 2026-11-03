@@ -1,9 +1,9 @@
 // Per-concept fidelity checks. Each issue is an error (blocks the build),
 // a warning (goes to REVIEW_QUEUE) or a check (open [CHECK] item; blocks approval).
 
-import type { ClaimT, CiteT, ConceptT } from "../../../src/lib/cbta/schema.ts";
+import type { ClaimT, CiteT, ConceptT, GuideT, OutlineT } from "../../../src/lib/cbta/schema.ts";
 import { pageText, type Evidence } from "./evidence.ts";
-import { findQuote, supportScore } from "./fuzzy.ts";
+import { findQuote, stem, supportScore } from "./fuzzy.ts";
 import { normalizeForMatch } from "./normalize.ts";
 
 export type Level = "error" | "warn" | "check";
@@ -21,6 +21,25 @@ export const QUOTE_PASS = 0.97;
 export const QUOTE_WARN = 0.9;
 const BENGALI = /[ঀ-৿]/;
 const MAX_WORDS = 15;
+/** Everyday classroom words a Bangla line may use in English without the card defining them. */
+const EVERYDAY = ("learner trainee student trainer teacher instructor assessor candidate class classroom session training " +
+  "workshop laboratory lab group team task job work skill knowledge example question answer exam test point list step").split(" ");
+
+const isClaim = (v: unknown): v is ClaimT =>
+  !!v && typeof v === "object" && "text" in v && "cites" in v && "fidelity" in v;
+const isCite = (v: unknown): v is CiteT =>
+  !!v && typeof v === "object" && "src" in v && "page" in v && "quote" in v;
+
+/** Every Claim and every stand-alone Cite inside any value (guides, visual blocks), with paths. */
+export function walkFacts(v: unknown, path: string, out = { claims: [] as { path: string; claim: ClaimT }[], cites: [] as { path: string; cite: CiteT }[] }) {
+  if (isClaim(v)) {
+    out.claims.push({ path, claim: v });
+    v.cites.forEach((cite, i) => out.cites.push({ path: `${path}.cites[${i}]`, cite }));
+  } else if (isCite(v)) out.cites.push({ path, cite: v });
+  else if (Array.isArray(v)) v.forEach((x, i) => walkFacts(x, `${path}[${i}]`, out));
+  else if (v && typeof v === "object") for (const [k, x] of Object.entries(v)) walkFacts(x, path ? `${path}.${k}` : k, out);
+  return out;
+}
 
 /** Every Cite in a concept, with its path. */
 export function collectCites(c: ConceptT): { path: string; cite: CiteT }[] {
@@ -34,6 +53,7 @@ export function collectCites(c: ConceptT): { path: string; cite: CiteT }[] {
   out.push({ path: "practice.mcq.answerCite", cite: c.practice.mcq.answerCite });
   c.practice.matching.pairs.forEach((p, i) => out.push({ path: `practice.matching.pairs[${i}].cite`, cite: p.cite }));
   claim("practice.viva.answer", c.practice.viva.answer);
+  if (c.visual) out.push(...walkFacts(c.visual, "visual").cites);
   return out;
 }
 
@@ -44,6 +64,7 @@ export function collectClaims(c: ConceptT): { path: string; claim: ClaimT }[] {
   c.traps.forEach((claim, i) => out.push({ path: `traps[${i}]`, claim }));
   c.practice.short.keyPoints.forEach((claim, i) => out.push({ path: `practice.short.keyPoints[${i}]`, claim }));
   out.push({ path: "practice.viva.answer", claim: c.practice.viva.answer });
+  if (c.visual) out.push(...walkFacts(c.visual, "visual").claims);
   return out;
 }
 
@@ -86,13 +107,12 @@ function wordCount(s: string): number {
   return s.replace(/\([^)]*\)/g, "").split(/\s+/).filter((w) => /[A-Za-z0-9]/.test(w)).length;
 }
 
-export function checkConcept(c: ConceptT, ev: Evidence): { issues: Issue[]; cites: CiteResult[] } {
-  const issues: Issue[] = [];
-  const add = (level: Level, code: string, path: string, message: string) => issues.push({ level, code, path, message });
-  const cites: CiteResult[] = [];
+type Add = (level: Level, code: string, path: string, message: string) => void;
 
-  // 1–2. Citations resolve and quotes exist on the cited page.
-  for (const { path, cite } of collectCites(c)) {
+/** Checks 1–3, shared by concept cards and study guides. Returns the verified cites. */
+function checkFacts(ev: Evidence, citeList: { path: string; cite: CiteT }[], claimList: { path: string; claim: ClaimT }[], add: Add): CiteResult[] {
+  const cites: CiteResult[] = [];
+  for (const { path, cite } of citeList) {
     const src = ev.sources.get(cite.src);
     if (!src || !src.file) { add("error", "unknown-source", path, `source ${cite.src} has no PDF`); continue; }
     const m = verifyCite(ev, cite);
@@ -108,7 +128,7 @@ export function checkConcept(c: ConceptT, ev: Evidence): { issues: Issue[]; cite
   }
 
   // 3. Claims are supported by their quotes; verbatim claims match the source exactly.
-  for (const { path, claim } of collectClaims(c)) {
+  for (const { path, claim } of claimList) {
     if (claim.fidelity === "verbatim") {
       const exact = claim.cites.some((cite) => {
         const pt = citedText(ev, cite);
@@ -121,6 +141,36 @@ export function checkConcept(c: ConceptT, ev: Evidence): { issues: Issue[]; cite
       else if (s < 0.7) add("warn", "weak-support", path, `claim only partly supported by its quotes (support ${s})`);
     }
   }
+  return cites;
+}
+
+function checkSentences(items: { path: string; text: string; verbatim: boolean }[], add: Add) {
+  for (const r of items) {
+    for (const s of sentences(r.text)) {
+      const n = wordCount(s);
+      if (n > MAX_WORDS) add(r.verbatim ? "warn" : "error", "sentence-too-long", r.path, `${n} words (max ${MAX_WORDS}): "${s.slice(0, 70)}"`);
+    }
+  }
+}
+
+/**
+ * A learner must see what a list is and what each point means:
+ * a name, a Bangla name (cards and guide lists) and one Bangla line per item.
+ */
+function checkListBangla(l: { title?: string; title_bn?: string; items: unknown[]; items_bn?: string[] }, path: string, add: Add, needTitleBn: boolean) {
+  if (!l.title?.trim()) add("error", "list-title-missing", path, "say what this list is, e.g. \"Characteristics of …\"");
+  if (needTitleBn && !l.title_bn) add("error", "list-title-bn-missing", path, "add title_bn: the list name in Bangla");
+  if (!l.items_bn?.length) add("error", "list-bn-missing", path, "add one Bangla line per item (items_bn / labels_bn)");
+  else if (l.items_bn.length !== l.items.length) add("error", "list-bn-count", path, `${l.items_bn.length} Bangla lines for ${l.items.length} items`);
+}
+
+export function checkConcept(c: ConceptT, ev: Evidence): { issues: Issue[]; cites: CiteResult[] } {
+  const issues: Issue[] = [];
+  const add = (level: Level, code: string, path: string, message: string) => issues.push({ level, code, path, message });
+  const cites: CiteResult[] = [];
+
+  // 1–3. Citations resolve, quotes exist on the cited page, claims are supported.
+  cites.push(...checkFacts(ev, collectCites(c), collectClaims(c), add));
 
   // 4. List count equals the count the source declares.
   if (c.list_answer) {
@@ -138,7 +188,9 @@ export function checkConcept(c: ConceptT, ev: Evidence): { issues: Issue[]; cite
       add("error", "list-count-mismatch", "list_answer.items", `source declares ${declared} items, card lists ${n}`);
     const texts = c.list_answer.items.map((it) => normalizeForMatch(it.text));
     if (new Set(texts).size !== texts.length) add("error", "duplicate-list-item", "list_answer.items", "list has duplicate items");
+    checkListBangla(c.list_answer, "list_answer", add, true);
   }
+  if (c.visual?.kind === "steps") checkListBangla({ title: c.visual.title, items: c.visual.items, items_bn: c.visual.labels_bn }, "visual", add, false);
 
   // 5. MCQ.
   const mcq = c.practice.mcq;
@@ -169,13 +221,9 @@ export function checkConcept(c: ConceptT, ev: Evidence): { issues: Issue[]; cite
     ...(c.list_answer?.items ?? []).map((t, i) => ({ path: `list_answer.items[${i}]`, text: t.text, verbatim: t.fidelity === "verbatim" })),
     ...c.practice.short.keyPoints.map((k, i) => ({ path: `practice.short.keyPoints[${i}]`, text: k.text, verbatim: k.fidelity === "verbatim" })),
     { path: "practice.viva.answer", text: c.practice.viva.answer.text, verbatim: c.practice.viva.answer.fidelity === "verbatim" },
+    ...(c.visual ? walkFacts(c.visual, "visual").claims : []).map(({ path, claim }) => ({ path, text: claim.text, verbatim: claim.fidelity === "verbatim" })),
   ];
-  for (const r of readable) {
-    for (const s of sentences(r.text)) {
-      const n = wordCount(s);
-      if (n > MAX_WORDS) add(r.verbatim ? "warn" : "error", "sentence-too-long", r.path, `${n} words (max ${MAX_WORDS}): "${s.slice(0, 70)}"`);
-    }
-  }
+  checkSentences(readable, add);
 
   // 8. Script: Bangla fields contain Bengali; English fields do not.
   c.keywords.forEach((k, i) => {
@@ -187,6 +235,9 @@ export function checkConcept(c: ConceptT, ev: Evidence): { issues: Issue[]; cite
   });
   if (c.example.bn && !BENGALI.test(c.example.bn)) add("error", "bn-not-bengali", "example.bn", "no Bengali script");
   if (c.mnemonic?.explain_bn && !BENGALI.test(c.mnemonic.explain_bn)) add("error", "bn-not-bengali", "mnemonic.explain_bn", "no Bengali script");
+  [c.list_answer?.title_bn, ...(c.list_answer?.items_bn ?? [])].forEach((l, i) => {
+    if (l !== undefined && !BENGALI.test(l)) add("error", "bn-not-bengali", `list_answer.items_bn[${i - 1}]`, "no Bengali script");
+  });
   for (const { path, claim } of collectClaims(c)) if (BENGALI.test(claim.text)) add("error", "en-has-bengali", path, "claim text must be English");
 
   // 9. Pedagogy term guard: English terms used in Bangla lines must be grounded in the card's claims.
@@ -194,12 +245,17 @@ export function checkConcept(c: ConceptT, ev: Evidence): { issues: Issue[]; cite
     c.canonical_title, ...c.aliases, ...c.keywords.map((k) => k.en),
     ...collectClaims(c).map((x) => x.claim.text), c.example.en,
   ].join(" "));
-  const known = new Set(corpus.split(" "));
-  c.bangla_explanation.forEach((l, i) => {
-    const latin = (l.match(/[A-Za-z][A-Za-z-]{2,}[A-Za-z]/g) ?? []).map((w) => w.toLowerCase());
-    const unknown = latin.filter((w) => !known.has(w) && !known.has(w.replace(/s$/, "")));
-    if (unknown.length) add("warn", "term-not-in-claims", `bangla_explanation[${i}]`, `English term(s) not in the card's claims: ${unknown.join(", ")}`);
-  });
+  // Compare word roots (learner = learners, assess = assessment) and allow everyday classroom words.
+  const known = new Set([...corpus.split(" "), ...EVERYDAY].map(stem));
+  const bnLines = [
+    ...c.bangla_explanation.map((l, i) => ({ l, path: `bangla_explanation[${i}]` })),
+    ...(c.list_answer?.items_bn ?? []).map((l, i) => ({ l, path: `list_answer.items_bn[${i}]` })),
+  ];
+  for (const { l, path } of bnLines) {
+    const latin = (l.match(/[A-Za-z]{3,}/g) ?? []).map((w) => w.toLowerCase());
+    const unknown = latin.filter((w) => !known.has(stem(w)));
+    if (unknown.length) add("warn", "term-not-in-claims", path, `English term(s) not in the card's claims: ${unknown.join(", ")}`);
+  }
 
   // 10. References to evidence exist.
   c.covers.forEach((id, i) => { if (!ev.passages.has(id)) add("error", "unknown-passage", `covers[${i}]`, `passage ${id} does not exist`); });
@@ -209,4 +265,109 @@ export function checkConcept(c: ConceptT, ev: Evidence): { issues: Issue[]; cite
   c.checks.forEach((ch) => add("check", "open-check", ch.path, ch.note));
 
   return { issues, cites };
+}
+
+export interface GuideCheck {
+  issues: Issue[];
+  cites: CiteResult[];
+  outline: { total: number; covered: number; missing: string[] } | null;
+}
+
+/** Fidelity + completeness checks for a CBLM study guide. */
+/** `cards` maps every concept id to its primary CBLM. */
+export function checkGuide(g: GuideT, ev: Evidence, cards: Map<string, number>, outline: OutlineT | null): GuideCheck {
+  const issues: Issue[] = [];
+  const add: Add = (level, code, path, message) => issues.push({ level, code, path, message });
+  const src = `cblm${String(g.cblm).padStart(2, "0")}`;
+
+  // 1–3 + readability, for every fact anywhere in the guide.
+  const facts = walkFacts(g, "");
+  const cites = checkFacts(ev, facts.cites, facts.claims, add);
+  checkSentences(facts.claims.map(({ path, claim }) => ({ path, text: claim.text, verbatim: claim.fidelity === "verbatim" })), add);
+  for (const { path, claim } of facts.claims) if (BENGALI.test(claim.text)) add("error", "en-has-bengali", path, "claim text must be English");
+
+  // Bangla fields are in Bengali script; references point at real cards.
+  const walk = (v: unknown, path: string) => {
+    if (Array.isArray(v)) { v.forEach((x, i) => walk(x, `${path}[${i}]`)); return; }
+    if (!v || typeof v !== "object") return;
+    for (const [k, x] of Object.entries(v)) {
+      const p = path ? `${path}.${k}` : k;
+      if ((k === "bn" || k.endsWith("_bn")) && x !== undefined) {
+        for (const line of Array.isArray(x) ? x : [x]) if (typeof line === "string" && !BENGALI.test(line)) add("error", "bn-not-bengali", p, "Bangla field has no Bengali script");
+      } else if (k === "concept" && typeof x === "string") {
+        if (!cards.has(x)) add("error", "unknown-concept", p, `no concept card ${x}`);
+      } else walk(x, p);
+    }
+  };
+  walk(g, "");
+  // Topic list: each card of this CBLM appears exactly once; ids are unique.
+  const topics = g.sections.flatMap((s) => s.topics);
+  const topicIds = topics.map((t) => t.id);
+  for (const id of new Set(topicIds)) if (topicIds.filter((x) => x === id).length > 1) add("error", "duplicate-topic", "sections", `topic id ${id} is used twice`);
+  const listed = topics.flatMap((t) => (t.concept ? [t.concept] : []));
+  for (const id of new Set(listed)) if (listed.filter((x) => x === id).length > 1) add("error", "duplicate-topic-card", "sections", `card ${id} is listed as a topic twice`);
+  for (const [id, n] of cards) if (n === g.cblm && !listed.includes(id)) add("error", "card-not-in-topics", "sections", `card ${id} is not in the topic list`);
+
+  g.sections.forEach((s, si) => s.topics.forEach((t, ti) => t.blocks.forEach((b, bi) => {
+    const path = `sections[${si}].topics[${ti}].blocks[${bi}]`;
+    if (b.kind === "note" && b.tone === "caution" && !b.claims?.length) add("error", "caution-without-source", path, "a caution states a source fact, so it needs a claim");
+    if (b.kind === "steps") checkListBangla({ title: b.title, items: b.items, items_bn: b.labels_bn }, path, add, false);
+    if (b.kind === "list") checkListBangla(b, path, add, true);
+    if (b.kind === "table") b.rows.forEach((r, ri) => { if (r.length !== b.columns.length) add("error", "table-row-width", `${path}.rows[${ri}]`, `row has ${r.length} cells, table has ${b.columns.length} columns`); });
+    if (b.kind === "form") {
+      // Form labels are copied from the CBLM, so their words must be on the form's pages.
+      const pages = [b.cite.page, ...(b.morePages ?? [])].map((p) => pageText(ev, b.cite.src, p) ?? "").join("\n");
+      const labels = [...(b.fields ?? []), ...(b.columns ?? []), ...(b.rows ?? []).flat(), ...(b.footer ?? [])].filter((l) => /[A-Za-z]{3}/.test(l));
+      for (const l of labels) {
+        const s = supportScore(l, [pages]);
+        if (s < 0.6) add("warn", "form-label-not-on-page", path, `"${l.slice(0, 60)}" is not on ${b.cite.src} p.${[b.cite.page, ...(b.morePages ?? [])].join(",")} (support ${s})`);
+      }
+    }
+  })));
+
+  // Self checks: every one of this CBLM, each a real question.
+  const seen = new Set<string>();
+  g.selfChecks.forEach((sc, i) => {
+    const q = ev.questions.get(sc.question);
+    if (!q) add("error", "unknown-question", `selfChecks[${i}]`, `question ${sc.question} does not exist`);
+    else if (q.kind !== "selfcheck" || q.src !== src) add("error", "foreign-question", `selfChecks[${i}]`, `${sc.question} is not a ${src} self check`);
+    if (seen.has(sc.question)) add("error", "duplicate-self-check", `selfChecks[${i}]`, `${sc.question} appears twice`);
+    seen.add(sc.question);
+  });
+  for (const [id, q] of ev.questions) if (q.kind === "selfcheck" && q.src === src && !seen.has(id))
+    add("error", "missing-self-check", "selfChecks", `${id} is not answered in the guide`);
+
+  // Practice.
+  g.practice.mcq.forEach((m, i) => {
+    if (new Set(m.options.map(normalizeForMatch)).size !== 4) add("error", "mcq-duplicate-options", `practice.mcq[${i}]`, "options must be distinct");
+    const ok = supportScore(m.options[m.answerIndex], [m.answerCite.quote]);
+    if (ok < 0.5) add("warn", "mcq-answer-weak-support", `practice.mcq[${i}]`, `correct option weakly supported by its cite (${ok})`);
+  });
+  for (const side of ["left", "right"] as const) {
+    const vals = g.practice.matching.pairs.map((p) => normalizeForMatch(p[side]));
+    if (new Set(vals).size !== vals.length) add("error", "matching-duplicates", `practice.matching.${side}`, `duplicate ${side} items`);
+  }
+
+  // Completeness: every outline item of the CBLM is explained by some block.
+  let outlineCov: GuideCheck["outline"] = null;
+  if (outline) {
+    const ids = new Set(outline.items.map((o) => o.id));
+    const refs = new Set<string>(g.selfChecks.map((s) => s.question));
+    const collect = (v: unknown) => {
+      if (Array.isArray(v)) v.forEach(collect);
+      else if (v && typeof v === "object") for (const [k, x] of Object.entries(v)) {
+        if (k === "outline" && Array.isArray(x)) x.forEach((id: string) => refs.add(id)); else collect(x);
+      }
+    };
+    collect(g.sections);
+    for (const r of refs) if (!ids.has(r) && !ev.questions.has(r)) add("error", "unknown-outline-item", "outline", `${r} is not in the ${src} outline`);
+    const missing = outline.items.filter((o) => !refs.has(o.id)).map((o) => o.id);
+    for (const id of missing) {
+      const o = outline.items.find((x) => x.id === id)!;
+      add("error", "outline-not-covered", "outline", `${id} (p.${o.page} ${o.title}) is not explained by any guide block`);
+    }
+    outlineCov = { total: outline.items.length, covered: outline.items.length - missing.length, missing };
+  }
+
+  return { issues, cites, outline: outlineCov };
 }

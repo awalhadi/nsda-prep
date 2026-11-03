@@ -37,11 +37,26 @@
     ]
   },
   "keywords": [
-    { "en": "Feedback", "bn": "কাজ কেমন হলো তা জানানো" },
-    { "en": "Feedback sandwich", "bn": "ভালো কথা, উন্নতির জায়গা, তারপর আবার উৎসাহ" },
-    { "en": "Kiss", "bn": "ভালো কথা বা উৎসাহ দেওয়া" },
-    { "en": "Kick", "bn": "কোথায় উন্নতি দরকার তা বলা" },
-    { "en": "Self assessment", "bn": "নিজের কাজ নিজেই যাচাই করা" }
+    {
+      "en": "Feedback",
+      "bn": "কাজ কেমন হলো তা জানানো"
+    },
+    {
+      "en": "Feedback sandwich",
+      "bn": "ভালো কথা, উন্নতির জায়গা, তারপর আবার উৎসাহ"
+    },
+    {
+      "en": "Kiss",
+      "bn": "ভালো কথা বা উৎসাহ দেওয়া"
+    },
+    {
+      "en": "Kick",
+      "bn": "কোথায় উন্নতি দরকার তা বলা"
+    },
+    {
+      "en": "Self assessment",
+      "bn": "নিজের কাজ নিজেই যাচাই করা"
+    }
   ],
   "bangla_explanation": [
     "Feedback দেওয়ার সহজ নিয়ম হলো feedback sandwich: Kiss, Kick, Kiss।",
@@ -58,6 +73,8 @@
     "explain_bn": "স্যান্ডউইচের দুই পাশে নরম রুটি (ভালো কথা), মাঝে আসল কথা (উন্নতির জায়গা)।"
   },
   "list_answer": {
+    "title": "The feedback sandwich: Kiss, Kick, Kiss",
+    "title_bn": "Feedback sandwich-এর তিন ধাপ",
     "items": [
       {
         "text": "Kiss: tell the learner about something positive you have noticed.",
@@ -95,6 +112,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Kiss — প্রথমে learner-এর কাজে চোখে পড়া একটা ভালো দিক বলুন, তাহলে সে মন দিয়ে শোনে।",
+      "Kick — তারপর কোথায় উন্নতি দরকার আর কীভাবে করবে, তা বুঝিয়ে বলুন।",
+      "Kiss — শেষে উৎসাহ দিয়ে কথা শেষ করুন, যাতে সে আবার চেষ্টা করে।"
     ]
   },
   "traps": [
@@ -143,6 +165,51 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "The feedback sandwich (p.23)",
+    "title_bn": "Feedback sandwich: প্রশংসা → উন্নতি → উৎসাহ",
+    "items": [
+      {
+        "text": "Kiss: tell the learner about something positive you have noticed.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 23,
+            "quote": "Kiss Tell the learner about something positive you have noticed"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "Kick: advise the learner of an area to improve, and how.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 23,
+            "quote": "Kick Advise the learner of an area that could be improved and how they"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Kiss: finish with an encouraging statement.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 23,
+            "quote": "Kiss Finish with an encouraging statement"
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "labels_bn": [
+      "Kiss — প্রথমে learner-এর কাজে চোখে পড়া একটা ভালো দিক বলুন, তাহলে সে মন দিয়ে শোনে।",
+      "Kick — তারপর কোথায় উন্নতি দরকার আর কীভাবে করবে, তা বুঝিয়ে বলুন।",
+      "Kiss — শেষে উৎসাহ দিয়ে কথা শেষ করুন, যাতে সে আবার চেষ্টা করে।"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "How would you provide feedback to a candidate?",
@@ -181,6 +248,86 @@
               "quote": "Self assessment can be used to encourage the trainee to take more responsibility for their own learning."
             }
           ]
+        },
+        {
+          "text": "Informative feedback helps the trainee overcome problems or weaknesses.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 23,
+              "quote": "informative feedback and constructive advice, the"
+            },
+            {
+              "src": "cblm12",
+              "page": 23,
+              "quote": "assessor should ensure the trainee understands how to"
+            },
+            {
+              "src": "cblm12",
+              "page": 23,
+              "quote": "overcome any problems or weaknesses."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Even after competence, feedback can explore the next stage in learning.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 23,
+              "quote": "Even when the trainee has provided evidence of"
+            },
+            {
+              "src": "cblm12",
+              "page": 23,
+              "quote": "competence"
+            },
+            {
+              "src": "cblm12",
+              "page": 23,
+              "quote": "the feedback session can be used to explore"
+            },
+            {
+              "src": "cblm12",
+              "page": 23,
+              "quote": "the next stage in learning or development."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Always ask the trainee how they felt about the assessment before offering your feedback.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 23,
+              "quote": "Always ask the trainee how they felt about the assessment before offering your feedback."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Critically reflecting on their own performance enhances the trainee's self-esteem.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 23,
+              "quote": "The trainee's self-esteem should be enhanced by having the opportunity to critically reflect on their own performance."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "A good facilitator encourages trainees to get feedback from other trainees.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 23,
+              "quote": "A good facilitator will also encourage trainees to get feedback from other trainees"
+            }
+          ],
+          "fidelity": "paraphrase"
         }
       ]
     },

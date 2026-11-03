@@ -25,6 +25,16 @@ for (const src of srcs) {
     console.log(`    uncovered ${id} (p.${p.page}): ${p.text.slice(0, 110)}`);
   }
   for (const i of unmapped) console.log(`    unmapped ${i.path}: ${i.message}`);
+  const g = r.guides.find((x) => x.cblm === cov.cblm);
+  if (!g) console.log(`  · ${src}: no study guide yet`);
+  else {
+    const gErr = g.issues.filter((i) => i.level === "error");
+    const ol = g.outline;
+    const gOk = !gErr.length && !!ol && ol.covered === ol.total;
+    if (!gOk) bad++;
+    console.log(`${gOk ? "✓" : "✗"} ${src} study guide: outline ${ol ? `${ol.covered}/${ol.total}` : "file missing"}, ${gErr.length} error(s)`);
+    for (const i of gErr.slice(0, 40)) console.log(`    ${i.code} ${i.path}: ${i.message}`);
+  }
 }
 const errors = r.globalIssues.filter((i) => i.level === "error" && !["uncovered-highlights", "unmapped-question"].includes(i.code));
 for (const i of errors) console.log(`  ✗ ${i.code} ${i.path}: ${i.message}`);

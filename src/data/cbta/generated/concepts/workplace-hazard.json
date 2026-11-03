@@ -53,6 +53,151 @@
     "bn": "ওয়েল্ডিং ওয়ার্কশপে মেঝেতে পড়ে থাকা খোলা তার একটি workplace hazard।",
     "en": "In a welding workshop, a loose cable lies on the floor. A trainee can trip on it. It is a workplace hazard."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 3,
+            "match": "exact",
+            "page": 7,
+            "printedPage": 7,
+            "quote": "A workplace is a place where people practice their occupation (or crafts, professions, trades).",
+            "sourceTitle": "Apply OSH in a CBT&A Environment",
+            "src": "cblm03"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "A workplace is a place where people practice their occupation (or crafts, professions, trades)."
+      },
+      "kind": "qa",
+      "outline": [
+        "c03-p7-information-sheet-1",
+        "c03-p7-workplace-hazard"
+      ],
+      "q": "What is a workplace?",
+      "q_bn": "Workplace কী?",
+      "tip": "Do not stop here in the exam. The question usually asks for a workplace hazard.",
+      "tip_bn": "পরীক্ষায় শুধু workplace লিখে থামবেন না; workplace hazard-এর সংজ্ঞাও লিখুন।"
+    },
+    {
+      "bn": [
+        "কোনো পরিবেশই hazard free নয় — classroom, workshop, assessment centre সবখানেই hazard আছে।",
+        "লক্ষ্য hazard দূর করা (elimination), কিন্তু বাস্তবে বেশিরভাগ সময় risk কমিয়ে (minimise) control করা হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Each environment has its own types of hazards - no environment is hazard free.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Each environment has its own types of hazards. No environment is hazard free."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "Elimination of hazards in a learning environment is the aim but it is more likely that",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "strategies will be in place to control the effect of the hazard",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Eliminating hazards is the aim. More likely, strategies control the effect of the hazard."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "control the effect of the hazard (that is, minimise the risk)",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Controlling the effect means minimising the risk."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p7-no-environment-hazard-free"
+      ]
+    },
+    {
+      "bn": "Answer key শুধু workplace-এর সংজ্ঞা দেয়; আপনি p.7-এর workplace hazard সংজ্ঞা লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 17,
+              "printedPage": 17,
+              "quote": "Ans: A workplace is a place where people practice their occupation (or crafts,",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Answer key: A workplace is a place where people practice their occupation."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "So a workplace hazard would be any situation that has the potential",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 7,
+              "quote": "to cause harm in a place where people practice their",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "A workplace hazard would be any situation that has the potential to cause harm."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c03-p7-workplace-hazard",
+        "c03-p16-self-check-1"
+      ],
+      "text": "Self Check 1 Q1 answer key defines only a workplace. Write the full workplace hazard definition from p.7.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "workplace-hazard",
   "importance": {
@@ -360,6 +505,7 @@
       "text": "Another wording: any condition, practice or behavior that could cause injury or illness."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

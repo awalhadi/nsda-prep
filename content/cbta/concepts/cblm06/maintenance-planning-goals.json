@@ -71,6 +71,8 @@
     "bn": "কোন সপ্তাহে কোন মেশিন সার্ভিস হবে, সেটা ঠিক করে দেওয়াই scheduling।"
   },
   "list_answer": {
+    "title": "Responsibilities and ultimate goal of the maintenance department",
+    "title_bn": "রক্ষণাবেক্ষণ বিভাগের দায়িত্ব ও চূড়ান্ত লক্ষ্য",
     "items": [
       {
         "text": "The health and safety of the public and employees.",
@@ -131,6 +133,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "সাধারণ মানুষ আর কর্মীদের health and safety রক্ষা করা, যাতে কেউ ক্ষতিগ্রস্ত না হয়।",
+      "Production বা ভবনের equipment বন্ধ থাকার সময় (downtime hours) যত সম্ভব কমানো।",
+      "Housekeeping করা, আর facilities-এর সার্বিক চেহারা পরিপাটি রাখা।",
+      "চূড়ান্ত লক্ষ্য — দায়িত্ব (mission) পালনে খরচ করা প্রতিটি maintenance dollar সবচেয়ে ভালোভাবে কাজে লাগানো।"
     ]
   },
   "traps": [
@@ -214,6 +222,82 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Planning vs Scheduling (p.26)",
+    "title_bn": "Planning বনাম Scheduling",
+    "left": {
+      "title": "Planning",
+      "title_bn": "পরিকল্পনা",
+      "points": [
+        {
+          "text": "Selection of objectives.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 26,
+              "quote": "Planning involves the selection of objectives"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Determination of policies, programs and procedures to achieve the objectives.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 26,
+              "quote": "the determination of the policies,"
+            },
+            {
+              "src": "cblm06",
+              "page": 26,
+              "quote": "programs, and procedures to be used for the achievement of the selected objectives."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Scheduling",
+      "title_bn": "সময়সূচি",
+      "points": [
+        {
+          "text": "A method of planning that cites specific objectives in relation to time.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 26,
+              "quote": "Scheduling is a method of planning that cites specific objectives to be accomplished"
+            },
+            {
+              "src": "cblm06",
+              "page": 26,
+              "quote": "in relation to time"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Its major thrust is to improve the efficiency of the maintenance department.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 26,
+              "quote": "major thrust of work scheduling is to improve the efficiency of"
+            },
+            {
+              "src": "cblm06",
+              "page": 26,
+              "quote": "the maintenance department."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What are the methods of identifying maintenance work?",

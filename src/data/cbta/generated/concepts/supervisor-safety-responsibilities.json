@@ -32,6 +32,59 @@
     "bn": "মোটর ওয়ার্কশপে supervisor নতুন trainee-র কাছে থাকেন, হাতে-কলমে দেখান, goggles পরছে কিনা দেখেন।",
     "en": "In a motor workshop, the supervisor stays near a new trainee. He shows the safe way and checks the trainee wears goggles."
   },
+  "extra": [
+    {
+      "bn": [
+        "Supervisor প্রতিদিন কাছ থেকে কাজ দেখেন; তাঁর আইনি দায়িত্ব তিনটি, আর ভালো supervisor আরও পাঁচটি কাজ করেন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Usually, your supervisor works closely with you on a day-to-day",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "plays an important role in keeping you safe",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Your supervisor works closely with you every day. So he or she plays an important role."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "A good supervisor should look after workers.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "A good supervisor should look after workers."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p13-supervisor",
+        "c03-p13-good-supervisor"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "supervisor-safety-responsibilities",
   "importance": {
@@ -112,7 +165,14 @@
         "fidelity": "verbatim",
         "text": "Make sure you use safety equipment properly"
       }
-    ]
+    ],
+    "itemsBn": [
+      "আপনি যেন law ও company-র safety rules মেনে চলেন, তা নিশ্চিত করা — নিয়ম মানা হচ্ছে কিনা তিনি দেখেন।",
+      "কাজের hazards বা বিপদ সম্পর্কে আপনাকে জানানো — বিপদ জানলে আপনি সাবধানে কাজ করতে পারেন।",
+      "Safety equipment ঠিকভাবে ব্যবহার করছেন কিনা নিশ্চিত করা — ভুল ব্যবহারে সুরক্ষা পাওয়া যায় না।"
+    ],
+    "title": "Supervisor's legal safety responsibilities",
+    "titleBn": "Safety-তে supervisor-এর আইনগত দায়িত্ব"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -452,6 +512,161 @@
       "text": "A good supervisor is available, answers questions and gives feedback; legal responsibilities differ."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Make sure that you follow the law and the company's safety rules",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Make sure that you follow the law and the company's safety rules"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Tell you about any job hazards or dangers",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Tell you about any job hazards or dangers"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Make sure you use safety equipment properly",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Make sure you use safety equipment properly"
+        }
+      ],
+      "title": "Legal responsibilities",
+      "title_bn": "আইনি দায়িত্ব (৩টি)"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "work near or with the workers",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Work near or with the workers."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "be available to answer workers' questions",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Be available to answer workers' questions."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "provide feedback on how the job is being done",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Provide feedback on how the job is being done."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "provide hands-on training until the work can be done correctly, confidently",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "and safely by the worker",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Provide hands-on training until the work is done correctly, confidently and safely."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "monitor the job to make sure it is being done safely and with the right",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "safety equipment",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Monitor the job so it is done safely, with the right safety equipment."
+        }
+      ],
+      "title": "A good supervisor should",
+      "title_bn": "ভালো supervisor যা করেন (৫টি)"
+    },
+    "title": "Supervisor's legal responsibilities vs what a good supervisor should do (p.13)",
+    "title_bn": "আইনি দায়িত্ব বনাম ভালো supervisor-এর কাজ"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

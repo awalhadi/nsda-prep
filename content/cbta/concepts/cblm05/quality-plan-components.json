@@ -48,6 +48,8 @@
     "bn": "Quality plan-এ audit-এর সময় লেখা থাকে, তাই trainer আগে থেকেই records গুছিয়ে রাখেন।"
   },
   "list_answer": {
+    "title": "Components of a typical quality plan",
+    "title_bn": "একটি সাধারণ quality plan-এর উপাদান",
     "items": [
       {
         "text": "Quality objectives and policy",
@@ -84,6 +86,15 @@
         "fidelity": "verbatim",
         "cites": [{ "src": "cblm05", "page": 10, "quote": "Inspection, audit and review procedures." }]
       }
+    ],
+    "items_bn": [
+      "মানের লক্ষ্য আর নীতি — প্রতিষ্ঠান কোন মান অর্জন করতে চায়, তা স্পষ্ট করা।",
+      "Organisational chart — প্রতিষ্ঠানে কে কার অধীনে তার চিত্র, যাতে দায়িত্বের ধারা বোঝা যায়।",
+      "কার কী করার অনুমতি (authorisations) আর কার কী দায়িত্ব, তা নির্ধারণ।",
+      "Critical Success Factors — যে মূল কাজগুলো ভালো না হলে লক্ষ্য পূরণ হয় না।",
+      "কাজের মান কীভাবে মাপা হবে, তার পদ্ধতি (methods of measurement)।",
+      "কত পরপর আর কীভাবে quality control করা হবে।",
+      "Inspection, audit আর review — কাজ নিয়ম মেনে হচ্ছে কিনা তা যাচাইয়ের procedures।"
     ]
   },
   "traps": [

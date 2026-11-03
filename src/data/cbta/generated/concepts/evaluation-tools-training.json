@@ -37,6 +37,83 @@
     "bn": "ড্রাইভিং কোর্স শেষে ৪০ জনকে questionnaire, আর পাঁচজনের interview।",
     "en": "After a driving course, the institute sends a questionnaire to all 40 trainees. Then it interviews five of them."
   },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "This is done to gather information relating to training of learners",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "to identify the success rates in national and",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "institutional assessment",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Document review gathers training information and success rates in national and institutional assessment."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "to summarize the written comments of training",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "participants.",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It also summarises the written comments of training participants."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c10-p72-document-review"
+      ],
+      "title": "Document Review"
+    },
+    {
+      "bn": "Self Check 3 Q2 শুধু তিনটি tool চায়: questionnaire, interview, observation।",
+      "kind": "note",
+      "outline": [
+        "c10-p72-evaluation-tools-table"
+      ],
+      "text": "Self Check 3 Q2 asks only for questionnaire, interview and observation. The full table of five tools is on the card.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "evaluation-tools-training",
   "importance": {
@@ -341,7 +418,17 @@
         "fidelity": "paraphrase",
         "text": "Document review: gathers training information, assessment success rates and written comments."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Questionnaire — সবাইকে একই প্রশ্ন, তুলনামূলক সস্তা, আবার ব্যবহার করা যায়, বড় group-এর জন্য আদর্শ; তবে impersonal আর response rate কম।",
+      "Interview — সরাসরি personal contact, অস্পষ্ট উত্তর follow up করা যায়, মূল্যবান qualitative data মেলে; তবে খুব time consuming, আর প্রশ্নকর্তা ফলাফলে bias আনতে পারে।",
+      "Observation — দ্রুত মূল্যবান তথ্য পাওয়া যায়, আর তা প্রশিক্ষকের ওপর নির্ভর করে না; তবে intrusive হতে পারে আর observer biased হতে পারে।",
+      "Reflection — নিজের দৃষ্টিভঙ্গি পাওয়া যায়, private, সস্তা ও সহজ; তবে শুধু একজনের মত, আর অতিরিক্ত negative হয়ে যেতে পারে।",
+      "Group discussion — উত্তর সাধারণত খোলামেলা ও সৎ, দ্রুত অনেক data মেলে; তবে সামলানো কঠিন, আর dominant মানুষ আলোচনা দখল করে নিতে পারে।",
+      "Document review — learners-এর training-এর তথ্য, assessment-এ সাফল্যের হার (success rates) আর participants-এর লিখিত comments এক জায়গায় জড়ো করা হয়।"
+    ],
+    "title": "Evaluation tools for reviewing training delivery",
+    "titleBn": "Training delivery review করার evaluation tools"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -695,6 +782,633 @@
       "text": "Participants, other trainers or supervisors can give feedback."
     }
   ],
+  "visual": {
+    "columns": [
+      "Evaluation tool",
+      "Advantages",
+      "Disadvantages"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Questionnaire",
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Questions asked are",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "consistent across all",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "respondents",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Relatively cheap to",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "implement",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "You can use them again",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "They are ideal for a large",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Questions are consistent across all respondents. Relatively cheap to implement. You can use them again. Ideal for a large group."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "They are impersonal",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Questions can be",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "skewed or inappropriate",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Don't cater for poor",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "implement\nliteracy",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Responses can lack",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "next time\nclarity",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Low response rate",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Can be time consuming",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Hard to follow-up",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "They are impersonal. Questions can be skewed or inappropriate. Don't cater for poor literacy. Responses can lack clarity. Low response rate. Can be time consuming. Hard to follow up responses."
+        }
+      ],
+      [
+        "Interview",
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Personal contact with",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "respondent",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "You can follow-up",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "answers that are",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Interviewers may bias\nunclear",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "You get valuable",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "qualitative data",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Cheap to set up",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Personal contact with respondent. You can follow up unclear answers. You get valuable qualitative data. Cheap to set up."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Very time consuming",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Interviewees may not be",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "open and honest",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Interviewers may bias",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "results (by hearing only",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Very time consuming. Interviewees may not be open and honest. Interviewers may bias results."
+        }
+      ],
+      [
+        "Observation",
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "You can obtain valuable",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "info quickly",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "The process is",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "independent of the",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "teacher/trainer",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Observer can pick-up",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "emotions, dynamics, etc",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Valuable info quickly. The process is independent of the teacher/trainer. Observer can pick up emotions and dynamics."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Can be intrusive",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Having a stranger in",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "the room can distract",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Observers can be biased",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Can be intrusive. A stranger in the room can distract learners. Observers can be biased."
+        }
+      ],
+      [
+        "Reflection",
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Provide your viewpoint",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Private\n• Can be overly",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Cheap and easy to\nimplement",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Good for self-\ndevelopment",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Provides your viewpoint. Private. Cheap and easy to implement. Good for self-development."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Only one point of view",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Can be overly negative",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Only one point of view. Can be overly negative."
+        }
+      ],
+      [
+        "Group discussion",
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Responses are usually",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "open and honest",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Lots of data gathered",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "People with a dominant\nquickly",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Allows respondents to",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "feel valued",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Can prompt deeper",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "levels of discussion",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Responses are usually open and honest. Lots of data gathered quickly. Respondents feel valued. Can prompt deeper discussion."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Can be difficult to",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "People with a dominant",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "personality can take over",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "Can turn into a complaint",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 72,
+              "printedPage": 72,
+              "quote": "session\nlevels",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Can be difficult to manage. Dominant people can take over. Can turn into a complaint session."
+        }
+      ]
+    ],
+    "title": "Evaluation tools: advantages and disadvantages (p.72)",
+    "title_bn": "Evaluation tools: সুবিধা ও অসুবিধা"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

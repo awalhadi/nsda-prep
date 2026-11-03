@@ -36,6 +36,99 @@
     "bn": "কাঠের ওয়ার্কশপে মেঝেতে tools পড়ে আছে, আলোও কম: untidy workplace আর কম light দুটোই কারণ।",
     "en": "In a carpentry shop, tools lie on the floor and the light is poor. A trainee trips and falls."
   },
+  "extra": [
+    {
+      "bn": [
+        "ভাঙা যন্ত্র দেখে report না করা, বা মেঝেতে tools ফেলে রাখাও accident ঘটায়।",
+        "সময়মতো ভেবে কাজ করলে সহকর্মীর বড় ক্ষতি ঠেকানো যায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 20,
+              "printedPage": 20,
+              "quote": "Normally accidents do not just happen. They are caused",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Normally accidents do not just happen. They are caused."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "People's attitudes govern what they do or fail to do.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "People's attitudes govern what they do or fail to do."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "Anybody who sees a hazard and does",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "nothing about it is contributing to the possibility of an accident.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Anybody who sees a hazard and does nothing contributes to the possibility of an accident."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "just going mindlessly about his work may be enough to ensure a workmate being",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "crippled for life.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Going mindlessly about work may be enough to cripple a workmate for life."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p20-causes",
+        "c03-p21-safety-attitudes"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "causes-of-accidents",
   "importance": {
@@ -191,7 +284,19 @@
         "fidelity": "verbatim",
         "text": "Unsafe conditions"
       }
-    ]
+    ],
+    "itemsBn": [
+      "বিপদ সম্পর্কে না জানা (unawareness) — বিপদ চেনা না থাকলে মানুষ সাবধান হয় না।",
+      "Safety-কে গুরুত্ব না দেওয়া (disregard) — জেনেও নিয়ম না মানলে accident ঘটে।",
+      "অবহেলা (negligence) — কাজে অমনোযোগ বা গাফিলতি থেকে দুর্ঘটনা হয়।",
+      "সঠিক safety procedures না বোঝা — নিয়ম ঠিকমতো না বুঝলে কাজটা ভুলভাবে হয়।",
+      "অগোছালো (untidy) workplace — এলোমেলো জায়গায় আঘাত লাগার সুযোগ বাড়ে।",
+      "কম আলো ও বাতাস চলাচল (light, ventilation) — ঠিকমতো দেখা না গেলে বা বাতাস খারাপ হলে বিপদ বাড়ে।",
+      "Tools-এর ভুল ব্যবহার — যে কাজের জন্য যে tool, সেভাবে ব্যবহার না করলে আঘাত লাগে।",
+      "অনিরাপদ অবস্থা (unsafe conditions) — কাজের জায়গার বিপজ্জনক অবস্থা নিজেই accident ঘটাতে পারে।"
+    ],
+    "title": "Causes of accidents",
+    "titleBn": "Accident-এর কারণসমূহ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -438,6 +543,7 @@
       "text": "People's attitudes govern what they do or fail to do."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

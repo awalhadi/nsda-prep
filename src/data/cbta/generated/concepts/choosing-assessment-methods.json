@@ -41,6 +41,253 @@
     "bn": "নিরাপত্তার কারণে হাসপাতালে simulation ভালো পদ্ধতি।",
     "en": "A hospital assesses nurses on a ward. Real emergencies are unsafe to wait for, so the assessor uses a simulation."
   },
+  "extra": [
+    {
+      "bn": [
+        "আগে method বাছো, তারপর সেই method চালাতে কী লাগবে তা ঠিক করো।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Assessment planning requires you to choose an assessment method and then decide what you need in order to use that method of assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Choose an assessment method, then decide what you need to use it."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "There are many evidence-gathering methods that can be used to assess an individual's competence against the benchmark",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "The methods you choose will depend on many factors",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Many evidence-gathering methods exist. Your choice depends on many factors."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p31-choosing-methods-tools"
+      ],
+      "title": "Choosing assessment methods and tools"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Organisational culture, polices and systems",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Organisational culture, policies and systems"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Amount of time and money available.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Amount of time and money available."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Evidence-gathering opportunities. The selection of the methods and tools may need to depend upon when they are available for the evidence-gathering opportunity",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Evidence-gathering opportunities: methods depend on when they are available."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Legal, ethical and OHS requirements may need to be included in an assessment method",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Legal, ethical and OHS requirements in the assessment method"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Single and multiple units of competency.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Single and multiple units of competency."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "The needs of participant/s.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The needs of participant/s."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "The risks and requirements that are connected with the different assessment applications in various contexts",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Risks and requirements of different assessment applications in various contexts"
+        }
+      ],
+      "items_bn": [
+        "প্রতিষ্ঠানের culture, নিয়মনীতি আর systems-এর সাথে method মিলতে হবে।",
+        "হাতে কত time আর money আছে, সেই অনুযায়ী method বাছতে হয়।",
+        "কখন evidence নেওয়ার সুযোগ আছে আর methods ও tools কখন পাওয়া যাবে, তা দেখে বাছাই করতে হয়।",
+        "Method-এ legal, ethical আর OHS নিয়ম মানা হচ্ছে কি না, তা নিশ্চিত করতে হয়।",
+        "একটা unit নাকি একসাথে কয়েকটা units of competency assess হবে, তার উপর method নির্ভর করে।",
+        "Participant-দের কী প্রয়োজন, তা দেখে method ঠিক করতে হয়, যাতে কেউ পিছিয়ে না পড়ে।",
+        "ভিন্ন ভিন্ন context-এ assessment-এর কী ঝুঁকি আর কী চাহিদা, তা আগে ভেবে method বাছতে হয়।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c11-p31-factors-influencing-methods"
+      ],
+      "title": "Factors that influence the choice of assessment methods",
+      "title_bn": "Method বাছাইয়ে প্রভাব ফেলে যে ৭টি factor"
+    },
+    {
+      "bn": "প্রতিষ্ঠানের নিয়ম, সময়-টাকা, সুযোগ, আইন, unit সংখ্যা, candidate-এর চাহিদা, ঝুঁকি: এই সাতটা দেখে method বাছো।",
+      "kind": "note",
+      "outline": [
+        "c11-p31-factors-influencing-methods"
+      ],
+      "text": "Memory chain: Organisation, Time-money, Evidence opportunity, Legal, Single/multiple units, Needs, Risks (O-T-E-L-S-N-R).",
+      "tone": "tip"
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 31,
+            "printedPage": 31,
+            "quote": "Integrated assessment is an assessment approach that focuses on 'performing a whole job' or a real work task",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 31,
+            "printedPage": 31,
+            "quote": "It covers the clustering of multiple units and/or elements from relevant units of competency",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "It focuses on performing a whole job or real work task. It clusters units or elements."
+      },
+      "concept": "holistic-assessment-clustering",
+      "example": {
+        "bn": "আলাদা টুকরো নয়, পুরো কাজটা একবারে দেখা।",
+        "en": "A motor mechanic services a whole car, not just one bolt."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p31-integrated-assessment"
+      ],
+      "q": "What is integrated assessment?",
+      "q_bn": "Integrated assessment কী?"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "knowledge • skills • attitude • ethics from a range of work activities",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It combines knowledge, skills, attitude and ethics from a range of work activities."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p31-integrated-assessment"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "choosing-assessment-methods",
   "importance": {
@@ -180,7 +427,18 @@
         "fidelity": "paraphrase",
         "text": "Risks and requirements of different assessment applications in various contexts."
       }
-    ]
+    ],
+    "itemsBn": [
+      "প্রতিষ্ঠানের culture, নিয়মনীতি আর systems-এর সাথে method মিলতে হবে।",
+      "হাতে কত time আর money আছে, সেই অনুযায়ী method বাছতে হয়।",
+      "কখন evidence নেওয়ার সুযোগ আছে আর methods ও tools কখন পাওয়া যাবে, তা দেখে বাছাই করতে হয়।",
+      "Method-এ legal, ethical আর OHS নিয়ম মানা হচ্ছে কি না, তা নিশ্চিত করতে হয়।",
+      "একটা unit নাকি একসাথে কয়েকটা units of competency assess হবে, তার উপর method নির্ভর করে।",
+      "Participant-দের কী প্রয়োজন, তা দেখে method ঠিক করতে হয়, যাতে কেউ পিছিয়ে না পড়ে।",
+      "ভিন্ন ভিন্ন context-এ assessment-এর কী ঝুঁকি আর কী চাহিদা, তা আগে ভেবে method বাছতে হয়।"
+    ],
+    "title": "Factors that influence the choice of assessment methods",
+    "titleBn": "Assessment method বাছাইয়ে যেসব factors প্রভাব ফেলে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -373,6 +631,21 @@
           ],
           "fidelity": "paraphrase",
           "text": "Consider reasonable adjustments for a candidate with a permanent or temporary disability."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 53,
+              "printedPage": 53,
+              "quote": "how well it can be used to collect evidence in an integrated and realistic way",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Consider how well it collects evidence in an integrated and realistic way."
         }
       ],
       "modelAnswer": "Assessment methods must be relevant. Consider:\n1. The skill or competency being assessed\n2. The purpose and nature of the assessment\n3. Resources available\n4. Evidence that already exists in the workplace\n5. How easy the tools are to use\n6. Whether it is practical in time and cost\n7. Integrated and realistic evidence collection\n8. Reasonable adjustments for a candidate with disability",
@@ -451,6 +724,215 @@
       "text": "Integrated assessment focuses on performing a whole job, not a single task."
     }
   ],
+  "visual": {
+    "columns": [
+      "Method",
+      "Feature"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Interview",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 52,
+              "printedPage": 52,
+              "quote": "Interview can be structure or unstructured",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Can be structured or unstructured."
+        }
+      ],
+      [
+        "Presentation",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 52,
+              "printedPage": 52,
+              "quote": "Presentation for example, assessment of trainer, salesperson",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "For example, assessment of a trainer or salesperson."
+        }
+      ],
+      [
+        "Written assessment",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 52,
+              "printedPage": 52,
+              "quote": "Written assessment assesses underpinning knowledge",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assesses underpinning knowledge."
+        }
+      ],
+      [
+        "Questioning dialogue",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 52,
+              "printedPage": 52,
+              "quote": "Questioning dialogue assesses underpinning knowledge; improves access and equity; when integrated with observation of performance can assess understanding in context",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assesses underpinning knowledge and improves access and equity. With observation, it assesses understanding in context."
+        }
+      ],
+      [
+        "Samples of work",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 52,
+              "printedPage": 52,
+              "quote": "Samples of work often already exist, however you need to ensure authenticity",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Often already exist, but you need to ensure authenticity."
+        }
+      ],
+      [
+        "Portfolio",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 52,
+              "printedPage": 52,
+              "quote": "Portfolio candidate may need guidance in portfolio development, authenticity needs to be assured",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Candidate may need guidance in portfolio development. Authenticity needs to be assured."
+        }
+      ],
+      [
+        "Simulation",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 52,
+              "printedPage": 52,
+              "quote": "Simulation for example, interviewing skills or career consultation; useful for overcoming ethical or safety problems",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "For example, interviewing skills or career consultation. Useful for overcoming ethical or safety problems."
+        }
+      ],
+      [
+        "Observation",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 52,
+              "printedPage": 52,
+              "quote": "Observation needs a well planned guide; difficult to assess underpinning knowledge unless combined with other methods",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Needs a well planned guide. Difficult to assess underpinning knowledge unless combined with other methods."
+        }
+      ],
+      [
+        "Project",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 52,
+              "printedPage": 52,
+              "quote": "Project can combine on-job and off-job activities",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Can combine on-job and off-job activities."
+        }
+      ],
+      [
+        "Self assessment",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 52,
+              "printedPage": 52,
+              "quote": "Self assessment valuable for adult learners; enhances self-esteem and promotes 'critical reflection'",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Valuable for adult learners. Enhances self-esteem and promotes critical reflection."
+        }
+      ],
+      [
+        "Learning journal/log book",
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 52,
+              "printedPage": 52,
+              "quote": "records progress over a period of time; can be combined book with self-assessment",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Records progress over a period of time. Can be combined with self-assessment."
+        }
+      ]
+    ],
+    "title": "Methods of gathering evidence and their features (p.52)",
+    "title_bn": "প্রতিটি method-এর বৈশিষ্ট্য"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

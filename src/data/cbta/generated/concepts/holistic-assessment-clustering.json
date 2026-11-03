@@ -37,10 +37,232 @@
     "bn": "একটি বেকারি কাজেই safety, মাপজোখ আর বেকিং একসাথে assess হয়।",
     "en": "In one bakery task, a trainee follows safety, measures ingredients and bakes bread. Several units are assessed together."
   },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "Holistic assessment design often involves collecting evidence from more than one unit of competency",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Holistic design often collects evidence from more than one unit of competency."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "assessment events should cover several competencies, elements or learning outcomes and reflect the 'real' nature of work",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Events should cover several competencies and reflect the 'real' nature of work."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p15-holistic-design",
+        "c11-p15-designing-cba"
+      ]
+    },
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 15,
+            "printedPage": 15,
+            "quote": "An assessment event can cover more than one unit of competency at a time by clustering of the competencies",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Clustering lets one assessment event cover more than one unit of competency at a time."
+      },
+      "concept": "holistic-assessment-clustering",
+      "example": {
+        "bn": "একটা assessment-এ কয়েকটা unit একসাথে।",
+        "en": "One cooking test covers food safety, food preparation and kitchen hygiene units together."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p15-clustering"
+      ],
+      "q": "What is clustering of competencies?",
+      "q_bn": "Competency clustering কী?"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "assessments should be determined by the logical application of skills and knowledge required in the workplace, not by the way training programs or courses are written",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Base assessments on workplace skills, not on how courses are written."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "The process of gathering evidence can apply to part of a unit, a whole unit, a cluster of units or an entire qualification",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Gathering evidence can apply to part of a unit or a whole unit. It can also apply to a cluster or a qualification."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "Often, real work activities are not adequately described in a single unit of competency",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            },
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "it may need to draw on competencies from a number of units simultaneously",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Real work activities may need competencies from a number of units simultaneously."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "Clustering is a mechanism to support integrated assessment design.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Clustering is a mechanism to support integrated assessment design."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "It is important that the Assessment Plan documents where clustering is appropriate.",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "It is important that the Assessment Plan documents where clustering is appropriate."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p15-clustering"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "it reflects real ways of working",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "it reflects real ways of working"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "evidence for all the dimensions of a competency are more readily available",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "evidence for all the dimensions of a competency are more readily available"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 15,
+              "printedPage": 15,
+              "quote": "it is an efficient use of time and assessment resources",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "it is an efficient use of time and assessment resources"
+        }
+      ],
+      "items_bn": [
+        "বাস্তবে কাজ এক unit-এ আটকে থাকে না, তাই clustering করলে assessment আসল কাজের মতো হয়।",
+        "কয়েকটি unit একসাথে দেখায় competency-র সব dimensions-এর evidence সহজে পাওয়া যায়।",
+        "আলাদা আলাদা assessment না করে একসাথে করায় সময় আর assessment resources বাঁচে।"
+      ],
+      "kind": "list",
+      "ordered": true,
+      "outline": [
+        "c11-p15-clustering-benefits"
+      ],
+      "title": "Benefits of clustering competencies",
+      "title_bn": "Clustering-এর ৩টি সুবিধা"
+    }
+  ],
   "highlighted": true,
   "id": "holistic-assessment-clustering",
   "importance": {
-    "bn": "Final Formative 01 (MCQ 7) আর Short Questions (Short 70): 2 জায়গায় এসেছে। CBLM 11-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে।",
+    "bn": "Final Formative 01 (MCQ 7) আর Short Questions (Short 70): 2 জায়গায় এসেছে। CBLM 11-এ highlight করা আছে। পরীক্ষায় MCQ আর short question হিসেবে আসে। অবশ্যই পড়বেন।",
     "en": "Asked in Final Formative 01 (MCQ 7) and Short Questions (Short 70). Highlighted in CBLM 11. Comes as MCQ and short question."
   },
   "keywords": [
@@ -118,7 +340,14 @@
         "fidelity": "verbatim",
         "text": "It is an efficient use of time and assessment resources."
       }
-    ]
+    ],
+    "itemsBn": [
+      "বাস্তবে কাজ এক unit-এ আটকে থাকে না, তাই clustering করলে assessment আসল কাজের মতো হয়।",
+      "কয়েকটি unit একসাথে দেখায় competency-র সব dimensions-এর evidence সহজে পাওয়া যায়।",
+      "আলাদা আলাদা assessment না করে একসাথে করায় সময় আর assessment resources বাঁচে।"
+    ],
+    "title": "Benefits of clustering competencies",
+    "titleBn": "কয়েকটি competency একসাথে (clustering) assess করার সুবিধা"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -343,7 +572,7 @@
   ],
   "score": 7,
   "sourceType": "cblm",
-  "stars": 2,
+  "stars": 3,
   "status": "draft",
   "title": "Holistic Assessment Design and Clustering Competencies",
   "traps": [
@@ -378,6 +607,7 @@
       "text": "Clustering is a mechanism to support integrated assessment design."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

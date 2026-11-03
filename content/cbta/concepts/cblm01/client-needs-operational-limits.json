@@ -22,11 +22,26 @@
     ]
   },
   "keywords": [
-    { "en": "Needs and expectations", "bn": "প্রয়োজন ও প্রত্যাশা" },
-    { "en": "Learning styles", "bn": "শেখার পছন্দের ধরন" },
-    { "en": "Operational limits", "bn": "প্রতিষ্ঠানের কাজের সীমাবদ্ধতা" },
-    { "en": "Autonomy", "bn": "নিজে সিদ্ধান্ত নেওয়ার স্বাধীনতা" },
-    { "en": "Individualized", "bn": "প্রত্যেকের জন্য আলাদা করে সাজানো" }
+    {
+      "en": "Needs and expectations",
+      "bn": "প্রয়োজন ও প্রত্যাশা"
+    },
+    {
+      "en": "Learning styles",
+      "bn": "শেখার পছন্দের ধরন"
+    },
+    {
+      "en": "Operational limits",
+      "bn": "প্রতিষ্ঠানের কাজের সীমাবদ্ধতা"
+    },
+    {
+      "en": "Autonomy",
+      "bn": "নিজে সিদ্ধান্ত নেওয়ার স্বাধীনতা"
+    },
+    {
+      "en": "Individualized",
+      "bn": "প্রত্যেকের জন্য আলাদা করে সাজানো"
+    }
   ],
   "bangla_explanation": [
     "প্রত্যেক client-এর চাওয়া আলাদা: কেউ new skills চায়, কেউ career advancement।",
@@ -39,6 +54,8 @@
     "bn": "Learner weekend class চায়, কিন্তু staff নেই; এটা staffing limit।"
   },
   "list_answer": {
+    "title": "Needs and expectations of TVET clients",
+    "title_bn": "TVET client-দের needs ও expectations",
     "items": [
       {
         "text": "A focus on individual learner objectives, such as new skills or target qualifications.",
@@ -84,6 +101,14 @@
           { "src": "cblm01", "page": 47, "quote": "information and advice on courses, learning programs, qualifications and assessment" }
         ]
       }
+    ],
+    "items_bn": [
+      "নিজের শেখার লক্ষ্যে মনোযোগ — কেউ new skills চায়, কেউ নির্দিষ্ট qualifications; প্রত্যেকের লক্ষ্য আলাদা।",
+      "Client centered approaches — প্রতিষ্ঠানের সুবিধামতো নয়, client-কে কেন্দ্র করে সব সাজানো।",
+      "নির্দিষ্ট learning styles পছন্দ — প্রত্যেকে নিজের পছন্দের ধরনে শিখতে চায়, তাই শেখানোর পদ্ধতিও সেভাবে মানাতে হয়।",
+      "Individualized learning support — প্রত্যেক learner-এর প্রয়োজন অনুযায়ী আলাদা করে শেখার সহায়তা।",
+      "Individualized organizational training — কোনো প্রতিষ্ঠান নিজেদের প্রয়োজন মতো সাজানো training চায়।",
+      "Courses, learning programs, qualifications ও assessment নিয়ে তথ্য ও পরামর্শ — কোনটা নেবে ঠিক করতে client সঠিক advice চায়।"
     ]
   },
   "traps": [
@@ -107,6 +132,106 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Client needs and expectations vs operational limits (p.46-47)",
+    "title_bn": "Client কী চায় বনাম প্রতিষ্ঠানের সীমা",
+    "left": {
+      "title": "Needs and expectations of clients",
+      "title_bn": "Client-এর চাহিদা ও প্রত্যাশা",
+      "points": [
+        {
+          "text": "a focus on individual learner objectives, such as: new skills, specific competencies, target qualifications; new career, career advancement; improved language, literacy and numeracy skills",
+          "cites": [
+            { "src": "cblm01", "page": 46, "quote": "a focus on individual learner objectives, such as" },
+            { "src": "cblm01", "page": 46, "quote": "new skills" },
+            { "src": "cblm01", "page": 46, "quote": "specific competencies" },
+            { "src": "cblm01", "page": 46, "quote": "target qualifications" },
+            { "src": "cblm01", "page": 46, "quote": "new career" },
+            { "src": "cblm01", "page": 46, "quote": "career advancement" },
+            { "src": "cblm01", "page": 46, "quote": "improved language, literacy and numeracy skills" }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "client-centered approaches",
+          "cites": [
+            { "src": "cblm01", "page": 46, "quote": "client-centered approaches" }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "preferences for particular learning styles",
+          "cites": [
+            { "src": "cblm01", "page": 46, "quote": "preferences for particular learning styles" }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "individualized learning support systems",
+          "cites": [
+            { "src": "cblm01", "page": 46, "quote": "individualized learning support systems" }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "individualized organizational training",
+          "cites": [
+            { "src": "cblm01", "page": 47, "quote": "individualized organizational training" }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "information and advice on courses, learning programs, qualifications and assessment",
+          "cites": [
+            { "src": "cblm01", "page": 47, "quote": "information and advice on courses, learning programs, qualifications and assessment" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "right": {
+      "title": "Operational limits of the organisation",
+      "title_bn": "প্রতিষ্ঠানের operational limits",
+      "points": [
+        {
+          "text": "your level of responsibility, autonomy and classification",
+          "cites": [
+            { "src": "cblm01", "page": 47, "quote": "your level of responsibility, autonomy and classification" }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "staffing resource limitations",
+          "cites": [
+            { "src": "cblm01", "page": 47, "quote": "staffing resource limitations" }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "physical environment limitations",
+          "cites": [
+            { "src": "cblm01", "page": 47, "quote": "physical environment limitations" }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "cost, time and scheduling difficulties",
+          "cites": [
+            { "src": "cblm01", "page": 47, "quote": "cost, time and scheduling difficulties" }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "OHS issues, considerations and implications",
+          "cites": [
+            { "src": "cblm01", "page": 47, "quote": "OHS issues, considerations and implications" }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What operational limits can restrict how a trainer meets client needs?",

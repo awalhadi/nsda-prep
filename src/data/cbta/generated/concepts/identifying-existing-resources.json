@@ -32,6 +32,127 @@
     "bn": "অনলাইনে welding safety video পেলেও আগে মালিকের permission নিতে হবে।",
     "en": "A trainer finds a welding safety video online. She asks the owner for permission first."
   },
+  "extra": [
+    {
+      "bn": [
+        "আগে থেকে থাকা content আবার কাজে লাগালে (repurpose) সময় বাঁচে, আর আকর্ষণীয় interaction বানাতে বেশি সময় দেওয়া যায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "1.2 Existing learning materials and resources are accessed, evaluated",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "1.2 Existing learning materials and resources are accessed, evaluated"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "Written resources, photographs, videos, case studies",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "etc may be available and it may be a matter of",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "repurposing that content for your needs.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Written resources, photographs, videos and case studies may be repurposed for your needs."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "estimate what percentage",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 13,
+              "printedPage": 13,
+              "quote": "of the resource can be repurposed to help inform your staff resourcing needs.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Estimate what percentage of the resource can be repurposed. It informs staff resourcing needs."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p13-identify-existing"
+      ]
+    },
+    {
+      "cite": {
+        "cblm": 8,
+        "match": "exact",
+        "page": 13,
+        "printedPage": 13,
+        "quote": "Below is one example of how resources have been identified.",
+        "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+        "src": "cblm08"
+      },
+      "columns": [
+        "Content Area",
+        "Pre-existing materials used? (yes or no)"
+      ],
+      "kind": "form",
+      "note_bn": "প্রতিটি content area লিখে পাশে yes বা no দিন — যেমন 'Sewing machine safety: yes (video আছে)'।",
+      "outline": [
+        "c08-p13-example-table"
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "title": "Example of how resources have been identified",
+      "title_bn": "Resource চিহ্নিত করার নমুনা ছক"
+    }
+  ],
   "highlighted": true,
   "id": "identifying-existing-resources",
   "importance": {
@@ -111,7 +232,14 @@
         "fidelity": "paraphrase",
         "text": "Apply principles of online learning design so content is fit for purpose."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Copyright laws ভাঙা হচ্ছে না — অন্যের কাজ নিয়মের বাইরে ব্যবহার করা যাবে না।",
+      "Content ব্যবহার বা বদলে নেওয়ার (adapting) আগে যথাযথ permissions নেওয়া।",
+      "Online learning design-এর principles মেনে content সাজানো, যাতে তা fit for purpose হয়।"
+    ],
+    "title": "What to make sure of before using existing resources",
+    "titleBn": "আগে থেকে থাকা resources ব্যবহারের আগে যা নিশ্চিত করবেন"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -341,6 +469,7 @@
       "text": "Existing resources still need permissions before using or adapting content."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

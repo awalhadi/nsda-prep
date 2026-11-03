@@ -4,7 +4,6 @@
   "aliases": [
     "Develop personal training plan for development of technical competency",
     "Technical competency development plan",
-    "TVET Teacher/Trainer Technical Competency Development Planner",
     "Who will authorize the technical competency enhancement plan?"
   ],
   "cblmPrimary": 7,
@@ -70,6 +69,8 @@
     "bn": "Plan লিখুন, principal-এর approval নিন, তারপর training-এ যান।"
   },
   "list_answer": {
+    "title": "Steps in developing a personal plan for technical competency",
+    "title_bn": "কারিগরি দক্ষতা উন্নয়নের ব্যক্তিগত পরিকল্পনা তৈরির ধাপ",
     "items": [
       {
         "text": "Learning outcomes required to achieve competencies are identified.",
@@ -126,6 +127,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Competencies অর্জনে কী কী learning outcomes লাগবে, তা ঠিক করা।",
+      "Competency প্রমাণ করতে কী evidence লাগবে, তা আগে থেকে ঠিক করা।",
+      "প্রাসঙ্গিক ব্যক্তিদের (relevant personnel) সাথে পরামর্শ করে training strategy ঠিক করা — কোথায়, কতদিন, কত খরচে।",
+      "Training নেওয়ার জন্য কর্তৃপক্ষের approval নেওয়া।",
+      "Plan অনুযায়ী নিজের technical upskilling program-এ অংশ নিয়ে competencies অর্জন করা।"
     ]
   },
   "traps": [
@@ -311,5 +319,74 @@
       "path": "traps[0]",
       "note": "Approving authority differs inside CBLM 7 (cblm07-sc1-q4). Information sheet p.17: 'the Principal and the higher authority'. Answer key p.21: 'Principal/ Supervisor of the institution or Designated Authority of BTEB'. The sample planner on p.15 (outside this pack) shows 'Approved by Principal/ Supervisor' and 'Approved by Agency ... BMET'. The card teaches Principal/Supervisor plus a higher authority and quotes the BTEB answer key. Owner to confirm whether learners should write BTEB."
     }
-  ]
+  ],
+  "visual": {
+    "kind": "steps",
+    "title": "From planner to participation (p.11, 17)",
+    "title_bn": "Planner থেকে training-এ অংশ নেওয়া পর্যন্ত",
+    "items": [
+      {
+        "text": "After identifying the gaps, develop the technical competency development planner.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm07",
+            "page": 11,
+            "quote": "After identifying the skill and knowledge gaps the TVET teachers/trainers need to develop technical competency development planner."
+          }
+        ]
+      },
+      {
+        "text": "Consult the Principal/Supervisor so the plan is realistic and achievable.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm07",
+            "page": 11,
+            "quote": "needs to consult his/her institutional Principal/Supervisor on some of issues listed below for the plan to be realistic and achievable."
+          }
+        ]
+      },
+      {
+        "text": "Get approval on the plan from the Principal and the higher authority.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm07",
+            "page": 17,
+            "quote": "need to get approval on the plan from the Principal and the higher authority to execute."
+          }
+        ]
+      },
+      {
+        "text": "Start the up-skilling course or the industry attachment program.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm07",
+            "page": 17,
+            "quote": "the teacher/trainer can now start the up-skilling training course or participate in the industry attachment program as described in the plan."
+          }
+        ]
+      },
+      {
+        "text": "Participate in Off-The-Job or On-The-Job training as per the plan.",
+        "fidelity": "paraphrase",
+        "cites": [
+          {
+            "src": "cblm07",
+            "page": 17,
+            "quote": "can either participate in Off-The-Job training or On-The-Job training program as per the plan."
+          }
+        ]
+      }
+    ],
+    "labels_bn": [
+      "Skill আর knowledge gaps পাওয়ার পর planner বানান।",
+      "Plan যেন realistic আর achievable হয়, তাই Principal/Supervisor-এর সাথে consult করুন।",
+      "Principal আর higher authority-র approval নিন।",
+      "Approval পেলে up-skilling course বা industry attachment শুরু করুন।",
+      "Plan অনুযায়ী Off-The-Job বা On-The-Job training-এ অংশ নিন।"
+    ]
+  }
 }

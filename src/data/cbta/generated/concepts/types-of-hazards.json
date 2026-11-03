@@ -45,6 +45,53 @@
     "bn": "আইটি ট্রেনিং সেন্টারে চেয়ারের তুলনায় টেবিল বেশি উঁচু: এটা ergonomic hazard।",
     "en": "In an IT training centre, the desks are too high for the chairs. Trainees get back pain. This is an ergonomic hazard."
   },
+  "extra": [
+    {
+      "bn": [
+        "চারটি মূল ধরন: Physical, Biological, Chemical, Ergonomic; এর বাইরে Psychosocial।",
+        "মনে রাখার কৌশল: \"PBCE\" — Physical, Biological, Chemical, Ergonomic।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "It helps to know that hazards",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "come in several forms.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 21,
+              "printedPage": 21,
+              "quote": "They are generally grouped into four basic types:",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Hazards come in several forms. They are grouped into four basic types."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p21-types-of-hazards"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "types-of-hazards",
   "importance": {
@@ -232,7 +279,15 @@
         "fidelity": "paraphrase",
         "text": "Ergonomic hazards come from poorly designed workplaces, like poor lighting or repeated movement."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Physical — অনিরাপদ machines ও পরিবেশের অবস্থা থেকে আসা বিপদ, যেমন saw blades ও noise।",
+      "Biological — জীবিত কিছু থেকে আসা বিপদ, যেমন blood, viruses ও পশুপাখির droppings।",
+      "Chemical — দাহ্য, বিস্ফোরক বা বিষাক্ত জিনিস, যেমন cleaning products ও gasoline।",
+      "Ergonomic — খারাপ নকশার কাজের জায়গা থেকে আসা বিপদ, যেমন poor lighting বা একই movement বারবার করা।"
+    ],
+    "title": "Types of hazards",
+    "titleBn": "Hazard-এর ধরন"
   },
   "mnemonic": {
     "explain_bn": "প্রতিটি শব্দের প্রথম অক্ষর একটি type: Physical, Biological, Chemical, Ergonomic।",
@@ -623,6 +678,7 @@
       "text": "Constant noise and prolonged sun or cold are physical hazards."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

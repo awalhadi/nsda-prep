@@ -44,6 +44,217 @@
     "bn": "Bus stand-এর কাছে হলে সবার আসা সহজ: এটাই location বিবেচনা।",
     "en": "A driving theory class has 25 trainees. The trainer visits a hall near the bus stand. He checks parking, sound and room size."
   },
+  "extra": [
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "Does it have a meeting room?",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Does it have a meeting room?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "Does it have a suitable sound system?",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Does it have a suitable sound system?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 60,
+              "printedPage": 60,
+              "quote": "Is there disabled access?",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Is there disabled access?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 60,
+              "printedPage": 60,
+              "quote": "Do windows have blackout capability?",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Do windows have blackout capability?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 60,
+              "printedPage": 60,
+              "quote": "Does the venue use high quality, heavy duty cables and offer free, unlimited Wi-Fi",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Does the venue use high quality, heavy duty cables and offer free, unlimited Wi-Fi?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 60,
+              "printedPage": 60,
+              "quote": "Are there suitable light fittings, power points and unobstructed views in the room?",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Are there suitable light fittings, power points and unobstructed views in the room?"
+        }
+      ],
+      "items_bn": [
+        "Meeting room আছে?",
+        "ভালো sound system আছে?",
+        "প্রতিবন্ধীদের প্রবেশের ব্যবস্থা আছে?",
+        "জানালা অন্ধকার করা যায় (blackout)?",
+        "মজবুত cable আর ফ্রি, সীমাহীন Wi-Fi আছে (দরকার হলে)?",
+        "আলো, power points আর বাধাহীন দৃশ্য আছে?"
+      ],
+      "kind": "list",
+      "outline": [
+        "c09-p59-facilities-questions"
+      ],
+      "title": "Facilities: look out for the following",
+      "title_bn": "Venue-এর facilities-এ যা দেখবেন"
+    },
+    {
+      "bn": [
+        "Brochure বা website-এ যা দেখায়, বাস্তবে তা নাও হতে পারে — তাই site visit।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "Always look at the facilities in a venue before you book. Many venues claim to have",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "'dedicated meeting facilities' but not all do.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Many venues claim 'dedicated meeting facilities' but not all do. Look before you book."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 60,
+              "printedPage": 60,
+              "quote": "note of what you want from the venue a few days before you go to view it.",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Note what you want from the venue a few days before you view it."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c09-p59-venue",
+        "c09-p60-venue-more"
+      ]
+    },
+    {
+      "bn": "Answer key-এ সাতটি ('The Right Fit' নেই), info sheet-এ আটটি — পরীক্ষায় আটটিই লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 65,
+              "printedPage": 65,
+              "quote": "Location • Cost of the venue • The Facilities available",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Key: Location, Cost of the venue, The Facilities available and more."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "The Right Fit",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            },
+            {
+              "cblm": 9,
+              "match": "exact",
+              "page": 59,
+              "printedPage": 59,
+              "quote": "The venue has to be harmonious with the type of event you are running",
+              "sourceTitle": "Plan and Organise Competency Based Training Sessions",
+              "src": "cblm09"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The Right Fit: the venue has to be harmonious with the type of event."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c09-p59-venue"
+      ],
+      "text": "The Self Check 3 Q3 key (p.65) lists seven factors and leaves out 'The Right Fit'. The info sheet (p.59-60) has eight. Write all eight.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "training-venue-selection",
   "importance": {
@@ -253,7 +464,19 @@
         "fidelity": "paraphrase",
         "text": "Building a Good Relationship with the venue staff."
       }
-    ]
+    ],
+    "itemsBn": [
+      "The Right Fit — venue যেন event-এর ধরন আর আপনি যে impression দিতে চান, তার সাথে মানানসই হয়।",
+      "Location — attendees সহজে সেখানে পৌঁছাতে পারবে কিনা, তা সবসময় ভাবুন।",
+      "Cost — ভালো venue এমন fixed price দেয় যার মধ্যে দরকারি সবকিছু ধরা থাকে, ফলে হিসাব সহজ হয়।",
+      "The Facilities — book করার আগে নিজে venue-র facilities দেখে নিন।",
+      "Your Objectives — শুরুতেই পরিষ্কার থাকুন আপনার objectives কী, তাহলে কেমন venue লাগবে তাও পরিষ্কার হবে।",
+      "Make a Site Visit — নিজে গিয়ে venue দেখুন, তারপর ঠিক করুন সেটা আপনার requirements-এর সাথে মেলে কিনা।",
+      "Fit for Purpose — room-এর size learners-এর সংখ্যার সাথে মেলে কিনা আর আপনার room set up style রাখা যায় কিনা দেখুন।",
+      "Building a Good Relationship — venue staff-এর সাথে ভালো সম্পর্ক গড়া যাবে কিনা দেখুন।"
+    ],
+    "title": "Factors to consider when selecting a training venue",
+    "titleBn": "Training venue বাছাইয়ের সময় বিবেচ্য বিষয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -557,6 +780,7 @@
       "text": "Fit for Purpose (right room size) differs from The Right Fit (type of event)."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

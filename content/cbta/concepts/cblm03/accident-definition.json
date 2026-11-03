@@ -63,6 +63,8 @@
     "bn": "তাক থেকে বাক্স পড়ল, কেউ আহত হলো না: এটা incident বা near miss।"
   },
   "list_answer": {
+    "title": "Elements of an accident",
+    "title_bn": "Accident-এর elements (উপাদান)",
     "items": [
       {
         "text": "Human Activities",
@@ -108,6 +110,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "মানুষের কাজকর্ম (human activities) — কর্মীর কাজ বা ভুল (human error) থেকে accident ঘটতে পারে।",
+      "যন্ত্রপাতি ও মেশিন (equipment) — ত্রুটিপূর্ণ বা ভুলভাবে চালানো যন্ত্র accident ঘটাতে পারে।",
+      "উপকরণ ও পদার্থ (materials) — যে জিনিস নিয়ে কাজ হয়, সেটাও বিপদের উৎস হতে পারে।",
+      "কাজের পদ্ধতি বা ব্যবস্থা (process) — কাজের নিয়ম বা ধাপ ভুল হলেও accident ঘটে।"
     ],
     "declaredCount": {
       "n": 4,
@@ -184,6 +192,67 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Accident vs incident (p.20)",
+    "title_bn": "Accident বনাম incident",
+    "left": {
+      "title": "Accident",
+      "title_bn": "দুর্ঘটনা",
+      "points": [
+        {
+          "text": "An unplanned and uncontrolled event.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 20,
+              "quote": "An accident is an unplanned and uncontrolled event"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Results in personal injury, property or environmental damage.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 20,
+              "quote": "results in personal injury or/and property or/and environmental damage"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Incident",
+      "title_bn": "অল্পের জন্য রক্ষা (near miss)",
+      "points": [
+        {
+          "text": "A near miss.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 20,
+              "quote": "may be defined as a near miss"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Under different circumstances, it could have resulted in personal injury or equipment damage.",
+          "cites": [
+            {
+              "src": "cblm03",
+              "page": 20,
+              "quote": "which under different circumstances could have resulted in personal injury, equipment damage"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What is an accident? Name the four elements involved.",

@@ -93,6 +93,8 @@
     "bn": "Coaching = নির্দিষ্ট কাজ শেখানো; mentoring = মানুষটির সার্বিক উন্নতি।"
   },
   "list_answer": {
+    "title": "Training methods",
+    "title_bn": "প্রশিক্ষণের পদ্ধতিসমূহ (training methods)",
     "items": [
       {
         "text": "Presentations: present information to small or large groups.",
@@ -292,6 +294,20 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Presentations — ছোট বা বড় group-এর সামনে trainer তথ্য উপস্থাপন করেন।",
+      "Demonstration — কোনো task বা skill কীভাবে করতে হয়, trainer ধাপে ধাপে করে দেখান।",
+      "Practical sessions — demonstration-এর পর learners নিজে করে; trainer প্রশ্ন করে বোঝাপড়া যাচাই করেন ও feedback দেন।",
+      "Small group discussion — 4-6 জনের ছোট group-এ key points নিয়ে আলোচনা।",
+      "Brainstorming — trainer একটি প্রশ্ন দেন, group-এর সবাই মিলে সমাধান প্রস্তাব করে।",
+      "Coaching — কাজভিত্তিক (task oriented) শেখানো, যাতে শেখা হয় আর performance উন্নত হয়।",
+      "Mentoring — উন্নয়নমূলক একটি partnership, যেখানে একজন আরেকজনকে নিজের knowledge ও skills ভাগ করে দেন।",
+      "Role plays — বাস্তব কাজের মতো পরিস্থিতি অভিনয় করে দেখা; শেষে debriefing করে শিক্ষাটা বের করা জরুরি।",
+      "Individual learning contracts — প্রত্যেক learner-এর সাথে আলোচনা করে (negotiated) তার শেখার পরিকল্পনা ঠিক করা হয়।",
+      "Workplace visits — অন্য organisations বা departments-এ পরিকল্পিতভাবে (structured) গিয়ে দেখা।",
+      "Computer managed learning — প্রত্যেকে আলাদাভাবে, নিজের গতিতে (self pace) শেখে।",
+      "Workplace projects — কর্মস্থলের real information ও resources দিয়ে কর্মস্থলের জন্যই কাজ দেওয়া হয়।"
     ]
   },
   "traps": [
@@ -319,6 +335,325 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "Training methods and their description (p.34)",
+    "title_bn": "Training methods ও তাদের বর্ণনা",
+    "columns": [
+      "Method",
+      "Description"
+    ],
+    "rows": [
+      [
+        "Presentations",
+        {
+          "text": "Present information to small or large groups. Trainer must prepare well. Include visual aids.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "Present information to small or large groups. Trainer"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "must prepare well. Check information is interesting,"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "motivating and logical. Should include visual aids"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Demonstration",
+        {
+          "text": "Show learners a task or skill step by step. Follow with practice and feedback.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "Show learners how to carry out a task or skill, step by"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "step. Should be followed by practice sessions to allow"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "learner to try out skill and receive feedback"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Practical sessions",
+        {
+          "text": "Follow demonstration in a safe environment. Trainer questions and gives informative feedback.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "These should follow demonstration. Allow for safe"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "environment. Trainer should question to check for"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "understanding and provide informative feedback"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Small Group Discussion",
+        {
+          "text": "Discuss key points with clear instruction and questions. Groups report back. Limit size to 4-6.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "Discuss key points presented (eg through video, case"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "study, presentation). Needs clear instruction. Give"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "discussion questions. Groups report back to large"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "group. Limit size to 4-6"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Brainstorming",
+        {
+          "text": "Trainer poses question; group suggests solutions. No comments; ideas recorded, discussed after.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "Trainer poses question, group suggests solutions. No"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "comments, recorded, all ideas discussed and analysed"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "after allocated time"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Coaching",
+        {
+          "text": "Show the desired skill in individual sessions. Task oriented and performance driven.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "Show the learner the desired skill or behaviour in"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "individual coaching sessions and as an active role"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "performance to improve. Coaching is task oriented and"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "it is performance driven."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Mentoring",
+        {
+          "text": "A developmental partnership: one person shares knowledge and skills. Relationship oriented, development driven.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "Mentoring is the developmental partnership through"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "which one person shares knowledge, skills, information"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "growth of someone else. Mentoring is relationship"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "oriented and development driven."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Role-plays",
+        {
+          "text": "Designed to simulate real work. Well planned. Debriefing draws out key themes.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "Designed to simulate"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "planned. Debriefing is essential to draw out key"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "themes and main points learned from activity"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Individual learning contracts",
+        {
+          "text": "Learning plans are negotiated. They need clearly defined purpose and outcomes.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "Learning plans are negotiated. Can involve a number"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "of other learning strategies. They need clearly defined"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "purpose and outcomes"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Workplace visits",
+        {
+          "text": "Structure visits to other organisations or departments. See how training relates to workplace. Debrief after.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "Structure visits to other organisations or different"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "departments. They provide an opportunity to see how"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "training content relates to workplace. Should be"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "followed by discussion or debriefing to reinforce"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Computer managed learning",
+        {
+          "text": "Individual, self pace instruction. Relevant, interesting, with learner interaction. Can give immediate feedback.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "Provide individual, self pace instruction. Must be"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "relevant, interesting and provide plenty of opportunity"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "for learner interaction. Can provide immediate"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "Workplace projects",
+        {
+          "text": "Set for the workplace using real information and resources. Purpose meets workplace and learner needs.",
+          "cites": [
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "Set for the workplace using real information and"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "resources. Need clearly define purpose which relates"
+            },
+            {
+              "src": "cblm09",
+              "page": 34,
+              "quote": "to both needs of workplace and the learner"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Name 3 training methods. Identify the difference between coaching and mentoring.",

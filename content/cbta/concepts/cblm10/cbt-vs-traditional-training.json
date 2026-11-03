@@ -63,6 +63,8 @@
     "bn": "CBT মোটরসাইকেল কোর্সে trainee ready হলে পরীক্ষা দেয়; না পারলে আবার দিতে পারে।"
   },
   "list_answer": {
+    "title": "Differences between traditional training and CBT programs",
+    "title_bn": "প্রচলিত training আর CBT program-এর পার্থক্য",
     "items": [
       {
         "text": "Traditional: instructors focus on managing instruction. CBT: on managing learning.",
@@ -190,6 +192,19 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "প্রচলিত training-এ instructor পড়ানো (instruction) সামলান; CBT-তে instructor students-এর শেখা (learning) সামলান।",
+      "প্রচলিত training-এ প্রায় সবাই একসাথে ভর্তি হয়; CBT-তে students বছরের বিভিন্ন সময়ে ভর্তি হতে পারে।",
+      "প্রচলিত training-এ শেখার গতি instructor ঠিক করেন; CBT-তে প্রত্যেক student নিজের গতিতে (own pace) এগোয়।",
+      "প্রচলিত training-এ সবার পরীক্ষা একসাথে; CBT-তে student যখন mastery দেখাতে ready, তখনই তার পরীক্ষা হয়।",
+      "প্রচলিত training-এ instructor একবারে একটি topic পড়ান; CBT-তে তাকে প্রতিদিন নানা tasks-এর প্রশ্নের উত্তর দিতে হয়।",
+      "প্রচলিত training-এ আবার পরীক্ষা (retesting) নিরুৎসাহিত বা নিষেধ; CBT-তে mastery-র জন্য retesting উৎসাহিত করা হয়।",
+      "প্রচলিত training-এ ধারাবাহিক feedback খুব কম; CBT-তে শেখার গুরুত্বপূর্ণ মুহূর্তে সাথে সাথে (immediate) feedback দেওয়া হয়।",
+      "প্রচলিত training-এ বছরের শেষে student সংখ্যা অর্ধেক বা তারও কমে নামে; CBT-তে খালি আসন পূরণ হতে থাকে বলে enrollment সারা বছর পূর্ণ থাকে।",
+      "প্রচলিত program গ্রীষ্মে বন্ধ বা ছোট করা হয়; CBT program সারা বছর চলে।",
+      "প্রচলিত training-এ কোন topic কখন হবে তা instructor ঠিক করেন; CBT-তে tasks-এর ক্রম (sequence) students নিজেরাই ঠিক করে।",
+      "প্রচলিত training-এ evening program day program থেকে আলাদা; CBT-তে দুটোই সব learning guides ব্যবহার করতে পারে।"
     ]
   },
   "traps": [
@@ -226,6 +241,538 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "table",
+    "title": "All 15 rows as printed (rows 3, 4, 10 and 12 look swapped)",
+    "title_bn": "ছাপা অনুযায়ী পুরো ১৫টি সারি",
+    "columns": [
+      "No.",
+      "Traditional training programs",
+      "CBT training programs"
+    ],
+    "rows": [
+      [
+        "1",
+        {
+          "text": "Instructors focus on managing instruction.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "1.Instructors focus on managing"
+            },
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "instruction."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "Instructors focus on managing learning.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "1.Instructors focus on managing"
+            },
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "instruction.\nlearning"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "2",
+        {
+          "text": "Most students enter at about the same time.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "2.Most students enter at about the same"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Students enter at various times throughout the year.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "2. Students enter at various times"
+            },
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "throughout the year."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "3 (printed)",
+        {
+          "text": "Different students may be training for different occupations within the same program.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "3.Different students may be training for"
+            },
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "different occupations within the same"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "All students cover the same material.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "3.All students cover the same material"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "4 (printed)",
+        {
+          "text": "Each student moves on only after mastering the current task.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "4. Each student moves on to the next"
+            },
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "task only after mastering the task he or"
+            },
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "she is currently working on."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Students all proceed from one topic to the next at the same time.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "4.Students all proceed from one topic to"
+            },
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "the next at the same time."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "5",
+        {
+          "text": "The instructor controls the learning pace.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "5. The instructor controls the learning"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Each student progresses at his or her own pace.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "5. Each student progresses at his or her"
+            },
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "pace.\nown pace."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "6",
+        {
+          "text": "All students are usually tested at once.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "6. All students are usually tested at"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Each student is tested when ready to demonstrate mastery.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "6.Each student is tested when ready to"
+            },
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "demonstrate mastery."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "7",
+        {
+          "text": "The instructor teaches only one topic at a time.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "7.The Instructor is involved in teaching"
+            },
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "only one topic at a time"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "The instructor must answer questions on many different tasks each day.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "7.The instructor must be able to answer"
+            },
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "questions on many different tasks"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "8",
+        {
+          "text": "Retesting is discouraged or not allowed at all.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "8. Retesting is discouraged or not"
+            },
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "allowed at all."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Retesting is encouraged for mastery.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 34,
+              "quote": "Retesting is encouraged for mastery."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ],
+      [
+        "9",
+        {
+          "text": "Very little continuous feedback is given.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "9. Very little continuous feedback is"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Immediate feedback is given to each student at critical points in learning.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "9.Immediate feedback is given to each"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "student at critical points in the learning"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "10 (printed)",
+        {
+          "text": "The instructor must see that all materials for many tasks are readily available.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "10. The instructor must see that all"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "materials needed for many tasks are"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "readily available."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Materials, tools and supplies for only one topic are needed at a time.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "10. Materials, tools, and supplies for only"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "one topic are needed at a time."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "11",
+        {
+          "text": "The number enrolled is maximum at the beginning, then declines to half or less.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "11. The number of students enrolled is"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "maximum capacity at the beginning of"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "the year or term and declines to half or"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "less toward the end."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "As vacancies are filled, enrollment remains at maximum capacity the year long.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "11. As vacancies are filled, student,"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "enrollment remains at maximum capacity"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "the year long."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "12 (printed)",
+        {
+          "text": "The instructor must manage a wide variety of instructional media and materials each day.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "12. The instructor must manage the use"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "of a wide variety of instructional media"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "and materials each day."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Most instruction is delivered by or dependent upon the instructor.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "12 Most instruction is delivered by or"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "dependent upon the instructor"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "13",
+        {
+          "text": "The program is usually closed down or shortened during the summer months.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "13. The program is usually closed down"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "or shortened during the summer months."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "The program usually operates year round.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "13. The program usually operates year"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "14",
+        {
+          "text": "The instructor controls the sequence in which topics will be covered.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "14. The instructor controls the sequence"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "in which topics will be covered."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "If possible, students determine the sequence of tasks.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "14. If possible, students determine the"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "sequence of tasks."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ],
+      [
+        "15",
+        {
+          "text": "The evening program is usually separate and distinct from the day program.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "15. The evening program is usually"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "separate and distinct from the day"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Day and evening programs both have access to all learning guides and resources.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "15. Day and evening programs both have"
+            },
+            {
+              "src": "cblm10",
+              "page": 35,
+              "quote": "access to all learning guides and"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Outline five differences between traditional training and competency based training programs.",

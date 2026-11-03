@@ -97,6 +97,8 @@
     "explain_bn": "প্রতিটি শব্দের প্রথম অক্ষর একটি type: Physical, Biological, Chemical, Ergonomic।"
   },
   "list_answer": {
+    "title": "Types of hazards",
+    "title_bn": "Hazard-এর ধরন",
     "items": [
       {
         "text": "Physical hazards include unsafe machines and environmental conditions, like saw blades and noise.",
@@ -198,6 +200,12 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Physical — অনিরাপদ machines ও পরিবেশের অবস্থা থেকে আসা বিপদ, যেমন saw blades ও noise।",
+      "Biological — জীবিত কিছু থেকে আসা বিপদ, যেমন blood, viruses ও পশুপাখির droppings।",
+      "Chemical — দাহ্য, বিস্ফোরক বা বিষাক্ত জিনিস, যেমন cleaning products ও gasoline।",
+      "Ergonomic — খারাপ নকশার কাজের জায়গা থেকে আসা বিপদ, যেমন poor lighting বা একই movement বারবার করা।"
     ],
     "declaredCount": {
       "n": 4,

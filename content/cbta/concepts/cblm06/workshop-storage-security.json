@@ -70,6 +70,8 @@
     "bn": "Thinner-এর মতো flammable জিনিস fireproof cabinet-এ রাখতে হয়।"
   },
   "list_answer": {
+    "title": "Storage space needed in a workshop besides dangerous materials",
+    "title_bn": "বিপজ্জনক জিনিস ছাড়াও workshop-এ যেসব storage space লাগে",
     "items": [
       {
         "text": "Storage space for materials/consumables.",
@@ -125,6 +127,11 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "কাজের উপকরণ আর ব্যবহারে শেষ হয়ে যায় এমন জিনিস রাখার জায়গা।",
+      "Tools আর equipment রাখার নির্দিষ্ট জায়গা, যাতে সহজে রাখা ও বের করা যায়।",
+      "Waste materials — বর্জ্য জমিয়ে রাখার আলাদা জায়গা।"
     ]
   },
   "traps": [
@@ -173,6 +180,104 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Flammable vs poisonous materials: storage (p.10)",
+    "title_bn": "দাহ্য বনাম বিষাক্ত জিনিস রাখার নিয়ম",
+    "left": {
+      "title": "Flammable materials",
+      "title_bn": "দাহ্য (সহজে আগুন ধরে)",
+      "points": [
+        {
+          "text": "Easily ignited by external sources, such as sparks or flames.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "Flammable materials are easily ignited by external sources, such as sparks or flames"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Store in an indoor fireproof cabinet or room.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "must be stored in an indoor fireproof cabinet or room."
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Provide appropriate, portable fire extinguishers.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "Appropriate,"
+            },
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "portable fire extinguishers must be provided."
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Poisonous materials",
+      "title_bn": "বিষাক্ত (মৃত্যু বা গুরুতর আঘাত)",
+      "points": [
+        {
+          "text": "Liable to cause death or serious injury if swallowed, inhaled or on the skin.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "Poisonous materials are substances that are liable to cause death or serious injury if"
+            },
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "swallowed, inhaled or come in contact with the skin"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Keep in restricted areas at least three meters from other dangerous materials.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "restricted areas that are at least three meters from other dangerous materials and"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Keep away from ignition or heat. Provide adequate fire extinguishers nearby.",
+          "cites": [
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "away from sources of ignition or heat"
+            },
+            {
+              "src": "cblm06",
+              "page": 10,
+              "quote": "Adequate fire extinguishers must be provided"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "Why is security necessary in a workshop? How should dangerous materials be stored?",

@@ -67,6 +67,8 @@
     "bn": "পড়তে কষ্ট হলে প্রশ্ন পড়ে শোনানো যায়, কিন্তু মান একই থাকে।"
   },
   "list_answer": {
+    "title": "Reasonable adjustments an assessor can make",
+    "title_bn": "Assessor যেসব reasonable adjustment করতে পারেন",
     "items": [
       {
         "text": "Consideration of the candidate's language, literacy and numeric capability",
@@ -168,6 +170,17 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Candidate-এর ভাষা, literacy আর হিসাবের (numeric) সক্ষমতা বিবেচনা করে assessment সাজানো।",
+      "দরকার হলে reader, interpreter বা attendant-এর মতো ব্যক্তিগত সহায়তা দেওয়া।",
+      "Candidate-এর বয়স বা gender অনুযায়ী প্রয়োজন বিবেচনা করা।",
+      "সাংস্কৃতিক বিশ্বাস, প্রচলিত রীতি আর ধর্মীয় আচার মাথায় রেখে assessment সাজানো।",
+      "প্রয়োজনে adaptive technology বা বিশেষ equipment ব্যবহার করতে দেওয়া।",
+      "Physical environment বা venue-তে প্রয়োজনীয় পরিবর্তন আনা।",
+      "ক্লান্তি (fatigue) বা অন্য শারীরিক চাহিদার কথা ভেবে assessment sessions flexible রাখা।",
+      "Assessment materials-এর ধরন বদলানো — যেমন candidate-এর first language বা audio-visual aids ব্যবহার।",
+      "প্রস্তাবিত assessment methods বা সরঞ্জাম দরকার হলে সংশোধন করা।"
     ]
   },
   "traps": [
@@ -330,6 +343,48 @@
               "quote": "religious or cultural considerations; age, gender,"
             }
           ]
+        },
+        {
+          "text": "Advice: identify the issues, create a climate of support and ensure access.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 14,
+              "quote": "Advice on reasonable adjustment"
+            },
+            {
+              "src": "cblm12",
+              "page": 14,
+              "quote": "Identify the issues - building a rapport"
+            },
+            {
+              "src": "cblm12",
+              "page": 14,
+              "quote": "Create a climate of support"
+            },
+            {
+              "src": "cblm12",
+              "page": 14,
+              "quote": "Ensure access"
+            }
+          ],
+          "fidelity": "paraphrase"
+        },
+        {
+          "text": "Also appropriately structure assessment and use other expertise.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 14,
+              "quote": "Appropriately structure assessment"
+            },
+            {
+              "src": "cblm12",
+              "page": 14,
+              "quote": "Use other expertise"
+            }
+          ],
+          "fidelity": "paraphrase"
         }
       ]
     },

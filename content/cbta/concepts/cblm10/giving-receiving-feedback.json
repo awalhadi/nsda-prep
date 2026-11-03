@@ -60,6 +60,8 @@
     "bn": "পেছন থেকে শোনা যায় না বললে trainer ধন্যবাদ দিয়ে সাথে সাথে জোরে বলেন।"
   },
   "list_answer": {
+    "title": "Guidelines for receiving feedback",
+    "title_bn": "Feedback গ্রহণ করার নিয়ম",
     "items": [
       {
         "text": "Thank the giver and respect their honesty and their point of view.",
@@ -117,6 +119,13 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "যিনি feedback দিলেন তাকে ধন্যবাদ দিন, আর তার সততা ও দৃষ্টিভঙ্গিকে সম্মান করুন।",
+      "Comments-গুলোকে গুরুত্ব দিন, উড়িয়ে দেবেন না।",
+      "Feedback নিয়ে ভাবুন (reflect), তারপর ঠিক করুন এরপর কী পদক্ষেপ (action) নেবেন।",
+      "বিষয়টা গুরুত্বপূর্ণ হলে সাথে সাথে ব্যবস্থা নিন, অন্তত সমাধানের একটি plan ঠিক করুন।",
+      "আপনি কীভাবে feedback নেন তা দেখে learners শেখে, তাই তাদের জন্য সঠিক role model হন।"
     ]
   },
   "traps": [
@@ -153,6 +162,65 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "Acting on the feedback you receive",
+    "title_bn": "পাওয়া feedback নিয়ে কী করবেন",
+    "left": {
+      "title": "Can be dealt with immediately",
+      "title_bn": "এখনই ঠিক করা যায়",
+      "points": [
+        {
+          "text": "Act quickly, e.g. \"I can't hear what you're saying from back here\".",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 58,
+              "quote": "If the feedback is something which could be dealt with"
+            },
+            {
+              "src": "cblm10",
+              "page": 58,
+              "quote": "immediately e.g."
+            },
+            {
+              "src": "cblm10",
+              "page": 58,
+              "quote": "act quickly."
+            },
+            {
+              "src": "cblm10",
+              "page": 58,
+              "quote": "I can't hear what you're saying from back here"
+            }
+          ],
+          "fidelity": "paraphrase"
+        }
+      ]
+    },
+    "right": {
+      "title": "Long term implications",
+      "title_bn": "দীর্ঘমেয়াদি বিষয়",
+      "points": [
+        {
+          "text": "Sit down with that person and together work out a plan.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 58,
+              "quote": "it's time to sit down with that person and"
+            },
+            {
+              "src": "cblm10",
+              "page": 58,
+              "quote": "together work out a plan to overcome that problem."
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "How should you receive feedback on your learning session?",

@@ -1,8 +1,7 @@
 {
   "aliases": [
     "What a workplace emergency plan should include",
-    "Emergency Response Plan",
-    "Reporting procedure"
+    "Workplace emergency plan"
   ],
   "appearsIn": [
     {
@@ -41,6 +40,135 @@
     "bn": "কারিগরি প্রশিক্ষণ কেন্দ্রের প্রতিটি দরজার পাশে building map: escape routes আর safe meeting area দেখানো।",
     "en": "A technical training centre puts a building map near each door. It shows escape routes and the safe meeting area."
   },
+  "extra": [
+    {
+      "bn": [
+        "Emergency procedure মানে emergency plan আর emergency equipment।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Make sure you know the emergency procedures in your workplace.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Make sure you know the emergency procedures in your workplace."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "The procedure",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "will include an emergency plan and emergency equipment.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The procedure includes an emergency plan and emergency equipment."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p41-emergency-plan"
+      ]
+    },
+    {
+      "bn": "দুটি আলাদা তালিকা: p.41-এর workplace emergency plan (৮টি) আর p.42-এর Emergency Response Plan (৭টি)। Self Check-এ p.41-এর আটটি লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "A workplace emergency plan should include:",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Reporting Procedure",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 41,
+              "printedPage": 41,
+              "quote": "Map of the building",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The workplace emergency plan has eight items, from Reporting Procedure to Map of the building."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Information that should be included in",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "the plan includes:",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 42,
+              "printedPage": 42,
+              "quote": "Workplace location and layout",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Information in the Emergency Response Plan includes workplace location and layout."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c03-p41-emergency-plan"
+      ],
+      "text": "Two different lists: the workplace emergency plan (p.41, eight items) and the Emergency Response Plan information (p.42, seven items). Self Check 3 Q2 uses the p.41 list.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "emergency-plan",
   "importance": {
@@ -205,7 +333,19 @@
         "fidelity": "verbatim",
         "text": "Map of the building"
       }
-    ]
+    ],
+    "itemsBn": [
+      "রিপোর্ট করার নিয়ম (reporting procedure) — emergency হলে কাকে, কীভাবে জানাতে হবে।",
+      "Alarm system-এর বর্ণনা — alarm কেমন আর বাজলে কী বুঝতে হবে, তা সবাই জানবে।",
+      "দায়িত্ব ও কর্তব্য (duties and responsibilities) — emergency-তে কে কী করবে, আগে থেকে ঠিক থাকে।",
+      "বের হওয়ার পথ ও নিরাপদ জমায়েতের জায়গা (escape routes, safe meeting area) — কোন পথে বের হয়ে কোথায় জড়ো হতে হবে।",
+      "যোগাযোগের পদ্ধতি (communication method) — emergency-তে কীভাবে খবর দেওয়া-নেওয়া হবে।",
+      "গুরুত্বপূর্ণ ব্যক্তিদের নাম ও নম্বর (key people) — দরকারের সময় দ্রুত যোগাযোগ করা যায়।",
+      "নিয়মিত মহড়া (regular drills) — অনুশীলন থাকলে আসল emergency-তে সবাই ঠিকভাবে সাড়া দেয়।",
+      "ভবনের নকশা (map of the building) — পথ ও জায়গাগুলো চিনতে সাহায্য করে।"
+    ],
+    "title": "What a workplace emergency plan should include",
+    "titleBn": "Workplace emergency plan-এ যা থাকতে হবে"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -546,6 +686,7 @@
       "text": "Emergency arrangements should be practised periodically, and a record kept."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

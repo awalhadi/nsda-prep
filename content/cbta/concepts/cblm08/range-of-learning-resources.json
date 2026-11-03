@@ -87,6 +87,8 @@
     "bn": "Session-এর আগে data projector আর whiteboard markers ঠিক আছে কিনা দেখে নিন।"
   },
   "list_answer": {
+    "title": "Range of learning operational resources",
+    "title_bn": "শেখানোর কাজে ব্যবহৃত operational resources",
     "items": [
       {
         "text": "Overhead projector and transparencies.",
@@ -209,6 +211,19 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Overhead projector আর transparencies — স্বচ্ছ শিটের লেখা পর্দায় বড় করে দেখানো।",
+      "Internet থেকে পাওয়া web based resources।",
+      "Multimedia বা data projector — পর্দায় ছবি ও লেখা বড় করে দেখানোর যন্ত্র।",
+      "Slides — power point presentation দিয়ে ধাপে ধাপে বিষয় দেখানো।",
+      "Video, CD, DVD — দেখে ও শুনে শেখার উপকরণ।",
+      "Whiteboard, magnetic boards আর cards — লিখে বা কার্ড লাগিয়ে বোঝানো।",
+      "Charts আর posters — দেয়ালে টাঙিয়ে তথ্য দেখানো।",
+      "Notice boards আর handouts — নোটিশ টাঙানো, আর শিক্ষার্থীদের হাতে ছাপানো কাগজ দেওয়া।",
+      "Competency Based Training and Assessment-এর resources আর guides।",
+      "Text books আর references — পাঠ্যবই ও সহায়ক বই।",
+      "Workbooks আর manuals — অনুশীলনের খাতা আর নির্দেশিকা।"
     ]
   },
   "traps": [
@@ -433,5 +448,153 @@
       }
     }
   },
-  "checks": []
+  "checks": [],
+  "visual": {
+    "kind": "compare",
+    "title": "Operational resources vs Consumable resources (pp.16-17)",
+    "title_bn": "Operational resources বনাম Consumable resources",
+    "left": {
+      "title": "Learning operational resources",
+      "title_bn": "বারবার ব্যবহারের resources",
+      "points": [
+        {
+          "text": "Projectors, transparencies, web resources, multimedia, slides, video, CD and DVD.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "Overhead projector and transparencies"
+            },
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "Internet / web based resources"
+            },
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "multimedia / data projector"
+            },
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "slides - power point presentation"
+            },
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "Video / CD / DVD"
+            }
+          ]
+        },
+        {
+          "text": "Whiteboard, magnetic boards and cards, charts, posters, notice boards and handouts.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "Whiteboard, Magnetic boards and cards"
+            },
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "Charts and posters"
+            },
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "Notice boards, Handouts"
+            }
+          ]
+        },
+        {
+          "text": "CBT&A resources and guides, text books, references, workbooks and manuals.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "Competency Based Training and Assessment resources / guides"
+            },
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "Text books and references"
+            },
+            {
+              "src": "cblm08",
+              "page": 16,
+              "quote": "Workbooks and manuals"
+            }
+          ]
+        }
+      ]
+    },
+    "right": {
+      "title": "Consumable materials",
+      "title_bn": "খরচ হয়ে যাওয়া উপকরণ",
+      "points": [
+        {
+          "text": "Marking pens, overhead transparencies, CDs and DVDs, paper for the printer.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 17,
+              "quote": "marking pens"
+            },
+            {
+              "src": "cblm08",
+              "page": 17,
+              "quote": "overhead transparencies"
+            },
+            {
+              "src": "cblm08",
+              "page": 17,
+              "quote": "CDs and DVDs"
+            },
+            {
+              "src": "cblm08",
+              "page": 17,
+              "quote": "paper for the printer"
+            }
+          ]
+        },
+        {
+          "text": "Butcher's paper or flip charts, whiteboard markers and chalks.",
+          "fidelity": "paraphrase",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 17,
+              "quote": "butcher's paper or flip charts"
+            },
+            {
+              "src": "cblm08",
+              "page": 17,
+              "quote": "whiteboard markers"
+            },
+            {
+              "src": "cblm08",
+              "page": 17,
+              "quote": "chalks (yes, there are still some blackboards out there)."
+            }
+          ]
+        },
+        {
+          "text": "Often consumable items are overlooked.",
+          "fidelity": "verbatim",
+          "cites": [
+            {
+              "src": "cblm08",
+              "page": 17,
+              "quote": "Often consumable items are overlooked."
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

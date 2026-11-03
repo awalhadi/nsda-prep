@@ -32,6 +32,130 @@
     "bn": "কারখানায় গিয়ে কাজ শেখা আর journals পড়া — দুটোই development opportunities।",
     "en": "A garments trainer spends two weeks in a factory on industry attachment. She also reads trade journals at home."
   },
+  "extra": [
+    {
+      "bn": [
+        "Plan বানানোর পর কাজ শুরু: journal পড়া, ক্লাসে নতুন পদ্ধতি চেষ্টা, industry visit, training, network-এ যোগ দেওয়া।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Within the scope of a professional development plan, teachers can undertake a range",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "of professional learning activities",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Within a professional development plan, teachers can undertake a range of professional learning activities."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "reading professional journals, trying out",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "new practices in the classroom, visiting industries, attending training or joining",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            },
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "professional networks.",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Examples: reading journals, trying new practices, visiting industries, attending training, joining networks."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c05-p39-information-sheet-3",
+        "c05-p39-professional-learning-activities"
+      ]
+    },
+    {
+      "bn": [
+        "আটটি সুযোগের পুরো তালিকা উপরের card-এ আছে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Development opportunities may include:",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Development opportunities may include:"
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c05-p39-development-opportunities"
+      ]
+    },
+    {
+      "bn": "প্রথম bullet-এ দুটি জিনিস একসাথে লেখা; একটি point হিসেবেই লিখুন, মোট আটটি।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 5,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "undertaking further higher education/TVET qualification participating in skills gap training",
+              "sourceTitle": "Maintain and Enhance Professional Practice",
+              "src": "cblm05"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "undertaking further higher education/TVET qualification participating in skills gap training"
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c05-p39-development-opportunities",
+        "c05-p44-answer-key-3"
+      ],
+      "text": "Item 1 prints as one bullet: further education/TVET qualification and skills gap training. It may be two items. Keep it as one point; the count stays eight.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": false,
   "id": "development-opportunities",
   "importance": {
@@ -186,7 +310,19 @@
         "fidelity": "verbatim",
         "text": "Coaching and/or mentoring"
       }
-    ]
+    ],
+    "itemsBn": [
+      "আরও উচ্চশিক্ষা বা কারিগরি qualification নেওয়া, আর যে দক্ষতার ঘাটতি আছে তা পূরণে skills gap training করা।",
+      "Industry attachment — কিছুদিন শিল্প-কারখানায় যুক্ত থেকে হাতে-কলমে বাস্তব কাজ শেখা।",
+      "নিজের কাজের নির্দিষ্ট কোনো ক্ষেত্রে আলাদা করে professional development নেওয়া।",
+      "নিজের প্রতিষ্ঠানের ভেতরেই আয়োজিত training বা development programs-এ অংশ নেওয়া।",
+      "প্রাসঙ্গিক conferences, seminars আর workshops-এ যোগ দিয়ে নতুন ধারণা জানা।",
+      "প্রাসঙ্গিক journals আর literature পড়ে নিজের জ্ঞান হালনাগাদ রাখা।",
+      "প্রতিষ্ঠানের ভেতরের ও বাইরের colleagues-এর সাথে networking করে অভিজ্ঞতা ভাগাভাগি করা।",
+      "অভিজ্ঞ কারো coaching বা mentoring-এ, তাঁর নির্দেশনায় শেখা।"
+    ],
+    "title": "Development opportunities that support continuous learning",
+    "titleBn": "ধারাবাহিক শেখায় সহায়ক উন্নয়নের সুযোগ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -456,7 +592,7 @@
   ],
   "score": 3,
   "sourceType": "cblm",
-  "stars": 1,
+  "stars": 2,
   "status": "draft",
   "title": "Development Opportunities that Support Continuous Learning (CBLM 5)",
   "traps": [
@@ -503,6 +639,7 @@
       "text": "Industry attachment is a development opportunity. Industry visit is one of the ways to professional development."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

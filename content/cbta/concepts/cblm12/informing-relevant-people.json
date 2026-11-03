@@ -1,0 +1,270 @@
+{
+  "id": "informing-relevant-people",
+  "canonical_title": "Informing Relevant People About Assessment",
+  "aliases": [
+    "People to contact about an assessment",
+    "Notifying people about the assessment"
+  ],
+  "cblmPrimary": 12,
+  "source_type": "cblm",
+  "covers": [
+    "cblm12-p9-1407c2b7"
+  ],
+  "questions": [],
+  "one_line_answer": {
+    "text": "Informing relevant people about assessment helps the assessment proceed smoothly.",
+    "cites": [
+      {
+        "src": "cblm12",
+        "page": 9,
+        "quote": "Informing relevant people about assessment"
+      },
+      {
+        "src": "cblm12",
+        "page": 9,
+        "quote": "make sure that the assessment proceeds smoothly"
+      }
+    ],
+    "fidelity": "paraphrase"
+  },
+  "keywords": [
+    {
+      "en": "Notify",
+      "bn": "জানানো, খবর দেওয়া"
+    },
+    {
+      "en": "Relevant people",
+      "bn": "যাদের জানা দরকার, শুধু তারা"
+    },
+    {
+      "en": "Outcome",
+      "bn": "assessment-এর ফলাফল"
+    },
+    {
+      "en": "Proceeds smoothly",
+      "bn": "কোনো ঝামেলা ছাড়া চলা"
+    },
+    {
+      "en": "Records up to date",
+      "bn": "রেকর্ড হালনাগাদ রাখা"
+    }
+  ],
+  "bangla_explanation": [
+    "Assessment-এর বিস্তারিত সবচেয়ে বেশি জানা দরকার candidate-এর।",
+    "আপনার কাজ হলো assessment যেন smoothly চলে; তাই দরকারি people-কে আগে notify করতে হয়।",
+    "সবাইকে জানানোর দরকার নেই; unnecessary work বাড়াবেন না।",
+    "কিছু মানুষের শুধু outcome জানা দরকার, যাতে তারা records up to date রাখতে পারে।"
+  ],
+  "example": {
+    "en": "Before a garments assessment, tell the trainer, coordinator, store keeper and office staff.",
+    "bn": "Store keeper-কে আগে জানালে মেশিন ও কাপড় প্রস্তুত থাকে; office staff জানলে রুম খোলা থাকে।"
+  },
+  "list_answer": {
+    "title": "Relevant people to notify about assessment",
+    "title_bn": "Assessment-এর বিষয়ে যাদের জানাতে হয়",
+    "items": [
+      {
+        "text": "the person/s who trained your candidates",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "the person/s who trained your candidates"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "the training supervisor/coordinator of the organization",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "the training supervisor/coordinator of the organization"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "people responsible for managing the resources you require to conduct the assessment",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "people responsible for managing the resources you require to conduct the assessment"
+          }
+        ],
+        "fidelity": "verbatim"
+      },
+      {
+        "text": "office staff at the assessment venue/center",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "office staff at the assessment venue/center"
+          }
+        ],
+        "fidelity": "verbatim"
+      }
+    ],
+    "items_bn": [
+      "যিনি বা যারা আপনার candidates-কে প্রশিক্ষণ দিয়েছেন; তাঁদের জানালে assessment smoothly চলতে সাহায্য হয়।",
+      "প্রতিষ্ঠানের training supervisor বা coordinator — training-এর দায়িত্বে যিনি আছেন।",
+      "Assessment চালাতে যে resources লাগবে, সেগুলো যারা দেখাশোনা করেন — না জানালে সেগুলো সময়মতো পাওয়া কঠিন।",
+      "যেখানে assessment হবে, সেই জায়গার office staff, যাতে সেখানে সব ব্যবস্থা ঠিক থাকে।"
+    ]
+  },
+  "traps": [
+    {
+      "text": "It is not necessary to notify everyone who has some interest in the assessment.",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 9,
+          "quote": "It is not necessary to notify everyone who has some interest in the assessment."
+        }
+      ],
+      "fidelity": "verbatim"
+    },
+    {
+      "text": "Certain people need only the outcome, to keep their records up to date.",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 9,
+          "quote": "certain people may not need to be informed when an assessment is to be carried out but will need to"
+        },
+        {
+          "src": "cblm12",
+          "page": 9,
+          "quote": "know the outcome or result of the assessment so that they can keep their records up to date"
+        }
+      ],
+      "fidelity": "paraphrase"
+    },
+    {
+      "text": "The candidate most needs to know about the assessment in detail.",
+      "cites": [
+        {
+          "src": "cblm12",
+          "page": 9,
+          "quote": "The person who most need to know about the assessment activity in detail is the candidate."
+        }
+      ],
+      "fidelity": "paraphrase"
+    }
+  ],
+  "practice": {
+    "short": {
+      "prompt": "Whom may an assessor need to contact before an assessment?",
+      "modelAnswer": "Informing relevant people helps the assessment proceed smoothly. Contact may include:\n1. The person/s who trained your candidates.\n2. The training supervisor/coordinator of the organization.\n3. People responsible for managing the resources you need.\n4. Office staff at the assessment venue/center.\nIt is not necessary to notify everyone. Some need only the outcome.",
+      "keyPoints": [
+        {
+          "text": "Who needs to be notified will vary according to the particular requirements of the situation.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 9,
+              "quote": "Who needs to be notified will vary according to the particular requirements of the situation."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "It is also vital that the assessors put the candidates at ease.",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 9,
+              "quote": "It is also vital that the assessors put the candidates at ease."
+            }
+          ],
+          "fidelity": "verbatim"
+        },
+        {
+          "text": "don't create unnecessary work for yourself",
+          "cites": [
+            {
+              "src": "cblm12",
+              "page": 9,
+              "quote": "don't create unnecessary work for yourself"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "mcq": {
+      "prompt": "Who most needs to know about the assessment activity in detail?",
+      "options": [
+        "The candidate",
+        "The office staff",
+        "The training supervisor",
+        "The resource manager"
+      ],
+      "answerIndex": 0,
+      "answerCite": {
+        "src": "cblm12",
+        "page": 9,
+        "quote": "The person who most need to know about the assessment activity in detail is the candidate."
+      }
+    },
+    "matching": {
+      "prompt": "Match each person with what they need.",
+      "pairs": [
+        {
+          "left": "Candidate",
+          "right": "Needs to know the assessment activity in detail",
+          "cite": {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "The person who most need to know about the assessment activity in detail is the candidate."
+          }
+        },
+        {
+          "left": "Certain people",
+          "right": "Need to know only the outcome",
+          "cite": {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "certain people may not need to be informed when an assessment is to be carried out but will need to know the outcome"
+          }
+        },
+        {
+          "left": "Office staff",
+          "right": "At the assessment venue/center",
+          "cite": {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "office staff at the assessment venue/center."
+          }
+        },
+        {
+          "left": "Training supervisor/coordinator",
+          "right": "Of the organization",
+          "cite": {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "the training supervisor/coordinator of the organization"
+          }
+        }
+      ]
+    },
+    "viva": {
+      "prompt": "Must you notify everyone who has an interest in the assessment?",
+      "answer": {
+        "text": "No. It is not necessary to notify everyone who has some interest.",
+        "cites": [
+          {
+            "src": "cblm12",
+            "page": 9,
+            "quote": "It is not necessary to notify everyone who has some interest in the assessment."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    }
+  },
+  "checks": []
+}

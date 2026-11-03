@@ -21,6 +21,7 @@
     "bn": "Trainee list-এর table-এ উপরের সারির cells select করে Merge Cells দিলে title-এর জন্য একটা বড় ঘর হয়।",
     "en": "At an IT training centre, a trainer makes a trainee list in MS Word. She merges the top row cells for the title."
   },
+  "extra": [],
   "highlighted": false,
   "id": "ms-word-bullets-merge-cells",
   "importance": {
@@ -241,7 +242,7 @@
   ],
   "score": 3,
   "sourceType": "question-paper-only",
-  "stars": 1,
+  "stars": 2,
   "status": "draft",
   "title": "MS Word Basics: Bullets and Merging Table Cells",
   "traps": [
@@ -282,6 +283,7 @@
       "text": "Merge Cells has two routes: right-click, or Table Tools > Layout."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

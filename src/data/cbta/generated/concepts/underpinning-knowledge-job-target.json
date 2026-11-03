@@ -15,6 +15,10 @@
         {
           "pdf": 29,
           "printed": 29
+        },
+        {
+          "pdf": 31,
+          "printed": 31
         }
       ],
       "src": "cblm08"
@@ -37,6 +41,387 @@
     "bn": "দেয়াল রং করার আগে দেয়াল, brush আর রঙের ধরন জানা হলো underpinning knowledge।",
     "en": "To paint a wall, the learner must know types of walls, brushes and paints."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "the first step is to decide what information from the",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "is essential to meet",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "the learning outcomes.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          },
+          {
+            "cblm": 8,
+            "match": "exact",
+            "page": 28,
+            "printedPage": 28,
+            "quote": "what would be covered only if there is time to spare.",
+            "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+            "src": "cblm08"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Decide what information is essential to meet the learning outcomes. Cover the rest only if there is time to spare."
+      },
+      "kind": "qa",
+      "outline": [
+        "c08-p28-underpinning-knowledge"
+      ],
+      "q": "How do you identify underpinning knowledge?",
+      "q_bn": "Underpinning knowledge কীভাবে চিহ্নিত করবেন?",
+      "tip": "Follow the Job sheet and Specification sheet when you identify it.",
+      "tip_bn": "Job sheet ও Specification sheet দেখে কী জানা জরুরি, তা ঠিক করুন।"
+    },
+    {
+      "bn": [
+        "Job target ডায়াগ্রাম: মাঝখানে Must Know, তার বাইরে Should Know, সবচেয়ে বাইরে Could Know।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "This model helps you organize the information into three categories.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "This model helps you organize the information into three categories."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p29-job-target"
+      ]
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "Language: Is the languages appropriate for the learners. Does it contain a lot of",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 29,
+              "printedPage": 29,
+              "quote": "jargon or long words that the learners will struggle with?",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Language: is it appropriate for the learners? Too much jargon or long words?"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "The resources must be relevant in terms of:",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Units of competency and their elements",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Learning outcomes",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Relevance: relevant to units of competency, their elements and learning outcomes."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Symbol: Sometimes you need to add symbols which help to learner to understand",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "the task",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Symbol: add symbols which help the learner understand the task."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Diagram & Picture: It most important to link the job, and also self explanatory that",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "can help a learner to perform the job.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Diagram & Picture: link to the job, self explanatory, help perform the job."
+        }
+      ],
+      "items_bn": [
+        "Language — learner-এর উপযোগী ভাষা; jargon থাকলে ব্যাখ্যা দিন।",
+        "Relevance — UoC, elements ও learning outcomes-এর সাথে মিল থাকতে হবে।",
+        "Symbol — চিহ্ন দিলে task বুঝতে সুবিধা হয়।",
+        "Diagram ও Picture — job-এর সাথে যুক্ত ও নিজেই বোঝা যায় এমন।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c08-p29-language",
+        "c08-p30-relevance-symbol-diagram"
+      ],
+      "title": "Points to check when writing a CBLM (pp.29-30)",
+      "title_bn": "CBLM লেখার সময় ৪টি বিষয় যাচাই"
+    },
+    {
+      "bn": "Language আর Relevance আগেও p.16 ও p.18-এ এসেছে — একই নিয়ম CBLM লেখায়ও খাটে।",
+      "kind": "note",
+      "outline": [
+        "c08-p29-language",
+        "c08-p30-relevance-symbol-diagram"
+      ],
+      "text": "Language and Relevance also appear on pp.16 and 18. The same points apply to CBLM writing.",
+      "tone": "tip"
+    },
+    {
+      "items": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "A) Types of walls",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "A) Types of walls"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "B) Types of brushes",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "B) Types of brushes"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "C) Types of paints",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "C) Types of paints"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Also the attitudes like clean brushes after use.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Attitude: clean brushes after use."
+        }
+      ],
+      "items_bn": [
+        "দেয়ালের ধরন।",
+        "Brush-এর ধরন।",
+        "রঙের ধরন।",
+        "Attitude — ব্যবহারের পর brush পরিষ্কার করা।"
+      ],
+      "kind": "list",
+      "outline": [
+        "c08-p30-example-paint-wall"
+      ],
+      "title": "Example 1: Job: Paint a wall. Underpinning knowledge needed",
+      "title_bn": "উদাহরণ ১: দেয়াল রং করার আগে যা জানতে হবে"
+    },
+    {
+      "bn": [
+        "Task-কে element (ধাপ)-এ ভাগ করে প্রতিটির knowledge, skills, attitudes লিখলে underpinning knowledge বেরিয়ে আসে — card-এর toaster table দেখুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "Mr. Rahim is a waiter of Westin hotel.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 30,
+              "printedPage": 30,
+              "quote": "he will need to operate an automatic toaster machine to prepare toasts.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Mr. Rahim, a Westin hotel waiter, must operate an automatic toaster."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Mr. Rahim break down his task into three steps to",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "perform the job safely and properly.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "He breaks the task into three steps to do it safely and properly."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "you will find the required underpinning knowledge to",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "those are mentioned in the knowledge & attitude column.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The underpinning knowledge is in the knowledge and attitude columns."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c08-p30-example-rahim",
+        "c08-p31-toaster-table"
+      ]
+    },
+    {
+      "bn": "p.32 ফাঁকা Notes পাতা — নিজের নোট লেখার জন্য।",
+      "kind": "note",
+      "outline": [
+        "c08-p32-notes"
+      ],
+      "text": "Page 32 is a blank Notes page. Use it for your own notes.",
+      "tone": "tip"
+    }
+  ],
   "highlighted": true,
   "id": "underpinning-knowledge-job-target",
   "importance": {
@@ -137,7 +522,14 @@
         "fidelity": "paraphrase",
         "text": "Could know: other information relating to the work, useful but not essential."
       }
-    ]
+    ],
+    "itemsBn": [
+      "অবশ্যই জানতে হবে — যে তথ্য, skills বা গুণ ছাড়া trainee learning outcomes অর্জন করতে পারবে না।",
+      "জানা উচিত — বাড়তি তথ্য, গুরুত্বপূর্ণ কিন্তু ততটা জরুরি নয়।",
+      "জানলে ভালো — কাজের সাথে সম্পর্কিত অন্য তথ্য, কাজে লাগে কিন্তু অপরিহার্য নয়।"
+    ],
+    "title": "Job target: must know, should know, could know",
+    "titleBn": "Job target: অবশ্যই জানতে হবে, জানা উচিত, জানলে ভালো"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -482,6 +874,439 @@
       "text": "Should know is important but less critical. Could know is not essential."
     }
   ],
+  "visual": {
+    "columns": [
+      "Element (step)",
+      "Knowledge",
+      "Skills",
+      "Attitudes"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "1. Pre-use toaster",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "1. Pre-use toaster check"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Effect of using an",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "unsafe toaster",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Effect of using an unsafe toaster"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Place toaster in a",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "safe location",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "cable for safety",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Connect to the power supply and turn on",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Place in a safe location; check cable for safety; connect to the power supply and turn on."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Choose to",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "accomplish task",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Check toaster safely",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Choose to accomplish task safely"
+        }
+      ],
+      [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "2. Use toaster",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "2. Use toaster"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Use types of",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "bread suited to",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "toasting",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "How to turn",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "toaster on",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Safe handling",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "techniques",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Bread suited to toasting; how to turn toaster on; safe handling techniques."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Place bread",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "in toaster (if",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Adjust timer",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Activate",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "toaster to start Toast bread and remove",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Place bread in toaster; adjust timer; activate toaster to start; toast bread and remove."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Willing to use",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "appropriate breads",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Willing to use appropriate breads"
+        }
+      ],
+      [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "3.Shut down toaster",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "3. Shut down toaster"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "disconnect from",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "power supply",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "How to clean",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "How to disconnect from power supply; how to clean."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Turn off toaster at",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Unplug toaster",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Clean and",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "remove loose",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "(once toaster has cooled down)",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Turn off at power supply; unplug; clean and remove loose objects once cooled down."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Choose to use",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "toaster safely",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "Willing to keep",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            },
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 31,
+              "printedPage": 31,
+              "quote": "equipment clean",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Choose to use toaster safely; willing to keep equipment clean."
+        }
+      ]
+    ],
+    "title": "Task: Operating an automatic toaster (p.31)",
+    "title_bn": "উদাহরণ: automatic toaster চালানোর task analysis"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

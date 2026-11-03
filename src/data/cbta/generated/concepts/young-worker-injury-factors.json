@@ -32,10 +32,270 @@
     "bn": "ঈদের চাপে নতুন helper training পায়নি, প্রশ্ন করতেও ভয় পেয়েছে, তাই আহত হয়েছে।",
     "en": "A new helper joins a garments factory in Eid rush. Nobody trains him. He is afraid to ask questions and gets hurt."
   },
+  "extra": [
+    {
+      "bn": [
+        "Be Aware: Bangladesh-এ প্রতিদিন কর্মীরা কাজ করতে গিয়ে আহত, অসুস্থ বা নিহত হচ্ছেন — কিন্তু এসব এড়ানো যায়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "but workplaces can be dangerous",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "places. Injuries happen in all kinds of workplaces, but they don't have to.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Workplaces can be dangerous places. Injuries happen in all kinds of workplaces, but they don't have to."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "Every day in Bangladesh, workers like you are",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 11,
+              "printedPage": 11,
+              "quote": "injured, made ill or killed on the job.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Every day in Bangladesh, workers are injured, made ill or killed on the job."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p11-safety-matters"
+      ],
+      "title": "Be aware"
+    },
+    {
+      "columns": [
+        "What",
+        "Figure"
+      ],
+      "kind": "table",
+      "outline": [
+        "c03-p11-statistics"
+      ],
+      "rows": [
+        [
+          "All work related incidents",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Some 622 workers were killed and 395 others injured in various work related",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "622 workers killed and 395 injured."
+          }
+        ],
+        [
+          "At workplaces",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "418 workers were killed and 312 critically injured",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "418 workers killed and 312 critically injured."
+          }
+        ],
+        [
+          "Travelling to and from work",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 12,
+                "printedPage": 12,
+                "quote": "some 204 workers were killed and 83 others injured in",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "204 workers killed and 83 injured."
+          }
+        ],
+        [
+          "Highest casualties by sector",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "transport sector (197)",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "followed by garments sector (90), pharmaceuticals sector (67), construction sector",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "(60), day laborer (59), and agriculture (44).",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Transport 197, garments 90, pharmaceuticals 67, construction 60, day laborer 59, agriculture 44."
+          }
+        ],
+        [
+          "Source",
+          {
+            "cites": [
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "Bangladesh Occupational Safety, Health and Environment Foundation (OSHE)",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              },
+              {
+                "cblm": 3,
+                "match": "exact",
+                "page": 11,
+                "printedPage": 11,
+                "quote": "after monitoring fifteen national daily newspapers",
+                "sourceTitle": "Apply OSH in a CBT&A Environment",
+                "src": "cblm03"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "OSHE monitored fifteen national daily newspapers."
+          }
+        ]
+      ],
+      "title": "OSHE statistics, 1 January to 30 June 2011 (p.11-12)",
+      "title_bn": "২০১১ সালের প্রথম ছয় মাসের পরিসংখ্যান"
+    },
+    {
+      "bn": [
+        "একটি কারণ নয়, কয়েকটি কারণ মিলে তরুণ কর্মীরা আঘাত পায়।",
+        "আঘাতের মূল্য শুধু নিজের নয়; পরিবার, employer, co-workers, community সবাই ক্ষতিগ্রস্ত হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "There's no single reason why so many young workers are getting hurt.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "There's no single reason why so many young workers are getting hurt."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "The costs of injury or illness can be high.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            },
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "And there is a risk of permanent injury or death.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The costs of injury or illness can be high. There is a risk of permanent injury or death."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "getting hurt also affects your family, friends, employer, co-workers and community.",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Getting hurt also affects your family, friends, employer, co-workers and community."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c03-p12-young-workers",
+        "c03-p12-costs-of-injury"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "young-worker-injury-factors",
   "importance": {
-    "bn": "Unit 02 Short Questions (Short 13) আর Short Questions (Short 16): 2 জায়গায় এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে।",
+    "bn": "Unit 02 Short Questions (Short 13) আর Short Questions (Short 16): 2 জায়গায় এসেছে। CBLM 3-এ highlight করা আছে। পরীক্ষায় short question হিসেবে আসে। অবশ্যই পড়বেন।",
     "en": "Asked in Unit 02 Short Questions (Short 13) and Short Questions (Short 16). Highlighted in CBLM 3. Comes as short question."
   },
   "keywords": [
@@ -200,7 +460,16 @@
         "fidelity": "paraphrase",
         "text": "Tired from trying to balance work with school and other activities."
       }
-    ]
+    ],
+    "itemsBn": [
+      "যথেষ্ট training না পাওয়া — অস্থায়ী বা ব্যস্ত কাজে অনেক সময় ঠিকমতো training দেওয়া হয় না।",
+      "যথেষ্ট experience না থাকা — নতুন কর্মী কাজের hazards চেনে না।",
+      "নিজের legal rights না জানা — জানার, অংশ নেওয়ার ও অনিরাপদ কাজ refuse করার অধিকার সম্পর্কে ধারণা থাকে না।",
+      "প্রশ্ন করতে ভয় পাওয়া — অযোগ্য (incompetent) মনে হওয়ার ভয়ে চুপ থাকে, ফলে না বুঝেই কাজ করে।",
+      "পড়াশোনা ও অন্য কাজের সাথে চাকরি সামলাতে গিয়ে ক্লান্ত (tired) থাকা — ক্লান্ত শরীরে মনোযোগ কমে যায়।"
+    ],
+    "title": "Factors contributing to injuries of young workers",
+    "titleBn": "তরুণ কর্মীদের আহত হওয়ার কারণসমূহ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -455,7 +724,7 @@
   ],
   "score": 7,
   "sourceType": "cblm",
-  "stars": 2,
+  "stars": 3,
   "status": "draft",
   "title": "Why Young Workers Get Hurt",
   "traps": [
@@ -522,6 +791,89 @@
       "text": "Injury also affects your family, friends, employer, co-workers and community."
     }
   ],
+  "visual": {
+    "columns": [
+      "Who is affected",
+      "How"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Family and friends",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Family and friends - it's very hard to see someone you love in pain or permanently disabled",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "It's very hard to see someone you love in pain or permanently disabled."
+        }
+      ],
+      [
+        "Employer",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Employer - loss of a valuable employee will hurt production, productivity and reputation",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Loss of a valuable employee hurts production, productivity and reputation."
+        }
+      ],
+      [
+        "Co-workers",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Co-workers - staff morale may drop and people may have to work harder if you're not there",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Staff morale may drop. People may have to work harder if you're not there."
+        }
+      ],
+      [
+        "Community",
+        {
+          "cites": [
+            {
+              "cblm": 3,
+              "match": "exact",
+              "page": 12,
+              "printedPage": 12,
+              "quote": "Community - you may not be able to take part in community events like sports or volunteer work",
+              "sourceTitle": "Apply OSH in a CBT&A Environment",
+              "src": "cblm03"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "You may not take part in community events like sports or volunteer work."
+        }
+      ]
+    ],
+    "title": "Getting hurt also affects others (p.12)",
+    "title_bn": "আঘাত পেলে আর কারা ক্ষতিগ্রস্ত হয়"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

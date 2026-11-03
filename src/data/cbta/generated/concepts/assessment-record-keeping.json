@@ -40,6 +40,123 @@
     "bn": "প্লাম্বিং assessment-এর পর checklist আর result sheet গুছিয়ে BTEB-তে পাঠানো হয়।",
     "en": "After a plumbing assessment, the assessor files checklists, registration forms and result sheets. Then he sends them to BTEB."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Assessment instruments",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Assessment registration forms",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Assessment self check sheet",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Result sheet for recording competency outcomes",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          },
+          {
+            "cblm": 11,
+            "match": "exact",
+            "page": 38,
+            "printedPage": 38,
+            "quote": "Assessment project sheets and specification sheets",
+            "sourceTitle": "Design and Develop Competency Based Assessment",
+            "src": "cblm11"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Assessment instruments, registration forms, self check sheets, result sheets, and project and specification sheets."
+      },
+      "concept": "assessment-record-keeping",
+      "example": {
+        "bn": "সব কাগজ BTEB-এর নিয়মে রাখতে ও জমা দিতে হয়।",
+        "en": "After a BTEB assessment, the centre files the checklists, result sheet and registration forms."
+      },
+      "kind": "qa",
+      "outline": [
+        "c11-p38-record-keeping"
+      ],
+      "q": "Name the documents you need to keep at the time of assessment.",
+      "q_bn": "Assessment-এর সময় কোন documents রাখতে হয়?",
+      "tip": "Instruments + Registration + Self-check + Result + Project/Specification.",
+      "tip_bn": "I-R-S-R-P: পাঁচ ধরনের document।"
+    },
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "Evidence of assessment plans and outcomes will need to be obtained and retained in line with BTEB requirements",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Assessment plans and outcomes are obtained and retained in line with BTEB requirements."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p38-record-keeping"
+      ]
+    },
+    {
+      "bn": [
+        "Self check sheet trainee নিজে assessment-এর আগে পূরণ করে; এটা ভুলে যেও না।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 11,
+              "match": "exact",
+              "page": 38,
+              "printedPage": 38,
+              "quote": "After recording and documenting the assessment requirements, the above mentioned documents should submit to BTEB",
+              "sourceTitle": "Design and Develop Competency Based Assessment",
+              "src": "cblm11"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "After recording and documenting, submit these documents to BTEB."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c11-p38-record-keeping"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "assessment-record-keeping",
   "importance": {
@@ -159,7 +276,16 @@
         "fidelity": "verbatim",
         "text": "Assessment project sheets and specification sheets"
       }
-    ]
+    ],
+    "itemsBn": [
+      "Assessment-এ যা ব্যবহার হয়েছে — observation checklists, oral questioning sheets, written test paper — সব রেখে দিতে হয়।",
+      "কে কে assessment-এ register করেছে, তার প্রমাণ এই forms; তাই এগুলোও রাখতে হয়।",
+      "Trainees assessment-এর আগে নিজেরা যে self check sheet পূরণ করে, সেটাও record-এর অংশ।",
+      "কে competent হলো তা যে result sheet-এ লেখা হয়, সেটাই ফলাফলের মূল record।",
+      "Candidate-কে যে project sheets আর specification sheets দেওয়া হয়েছিল, সেগুলোও রাখতে হয়।"
+    ],
+    "title": "Assessment documents to retain (BTEB requirements)",
+    "titleBn": "Assessment-এর যে documents রেখে দিতে হয়"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -393,6 +519,7 @@
       "text": "After recording, the documents should be submitted to BTEB."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 0
 }

@@ -1,0 +1,473 @@
+{
+  "aliases": [
+    "Proper utilization of equipment and tools",
+    "Manufacturer's Manual",
+    "Users manual",
+    "Why use the manufacturer's manual"
+  ],
+  "appearsIn": [
+    {
+      "cblm": 6,
+      "pages": [
+        {
+          "pdf": 3,
+          "printed": 3
+        },
+        {
+          "pdf": 39,
+          "printed": 39
+        }
+      ],
+      "src": "cblm06"
+    }
+  ],
+  "banglaExplanation": [
+    "Maintenance-এর প্রথম আর সবচেয়ে গুরুত্বপূর্ণ কাজ হলো tools ও equipment সঠিকভাবে ব্যবহার করা।",
+    "Manufacturer's manual মেনে ব্যবহার করলে equipment আর tools-এর আয়ু বাড়ে।",
+    "Manual বলে: equipment-এর parts কী, প্রতিটি part-এর function কী, আর কীভাবে maintain করতে হয়।",
+    "Users manuals হাতের কাছে, যেখানে equipment থাকে সেখানেই রাখতে হবে; PC 2.3-ও বলে maintenance manufacturers manual অনুযায়ী হবে।"
+  ],
+  "breakdown": {
+    "exam": 0,
+    "highlight": 0,
+    "repeat": 1
+  },
+  "cblmPrimary": 6,
+  "errata": [],
+  "example": {
+    "bn": "Lathe machine-এর পাশে হুকে manual ঝোলানো; trainee-রা দেখে নেয় কোথায় oil দিতে হবে।",
+    "en": "A lathe trainer keeps the lathe manual on a hook beside the machine. Trainees check oil points in it."
+  },
+  "extra": [
+    {
+      "bn": [
+        "যেকোনো trade-এ যন্ত্রের সঠিক ব্যবহারই maintenance-এর প্রথম ধাপ — ভুল ব্যবহারে যন্ত্র তাড়াতাড়ি নষ্ট হয়।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "The proper use of the tools and equipment is a very important task",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "of the worker in any trade.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Proper use of tools and equipment is a very important task of any worker."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p39-proper-utilization"
+      ]
+    },
+    {
+      "bn": [
+        "Manual হাতের কাছে রাখুন আর সবসময় দেখে নিন — PC 2.3-এর শর্তও এটাই।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "Manufacturer's Manual: For the Safe and Proper Operation of an Equipment or",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The manufacturer's manual is for the safe and proper operation of equipment or tools."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "We must always refer to it for reference.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "We must always refer to it for reference."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p39-manufacturers-manual"
+      ]
+    }
+  ],
+  "highlighted": false,
+  "id": "manufacturers-manual-proper-use",
+  "importance": {
+    "bn": "এখনো কোনো প্রশ্নপত্র বা highlight-এ পাওয়া যায়নি।",
+    "en": "Not yet seen in a paper or highlight."
+  },
+  "keywords": [
+    {
+      "bn": "যন্ত্রের সঠিক ব্যবহার",
+      "en": "Proper utilization"
+    },
+    {
+      "bn": "নির্মাতার নির্দেশিকা বই",
+      "en": "Manufacturer's manual"
+    },
+    {
+      "bn": "ব্যবহারকারীর নির্দেশিকা",
+      "en": "Users manuals"
+    },
+    {
+      "bn": "প্রতিটি অংশের কাজ",
+      "en": "Functions of each part"
+    },
+    {
+      "bn": "যন্ত্রের আয়ু বাড়ানো",
+      "en": "Extend the life"
+    }
+  ],
+  "likelyTypes": [],
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "This would indicate the parts of the equipment",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The parts of the equipment."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "functions of each part",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The functions of each part."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "the way to maintain it",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The way to maintain it."
+      }
+    ],
+    "itemsBn": [
+      "Equipment-এর কোন কোন parts আছে।",
+      "প্রতিটি part কী কাজ (function) করে।",
+      "Equipment কীভাবে maintain করতে হয়।"
+    ],
+    "title": "What the manufacturer's manual indicates",
+    "titleBn": "Manufacturer's manual-এ যা থাকে"
+  },
+  "mnemonic": null,
+  "oneLineAnswer": {
+    "cites": [
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 39,
+        "printedPage": 39,
+        "quote": "The proper use of the training tools and equipment is the first and foremost task in",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      {
+        "cblm": 6,
+        "match": "exact",
+        "page": 39,
+        "printedPage": 39,
+        "quote": "the maintenance",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      }
+    ],
+    "fidelity": "paraphrase",
+    "text": "Proper use of training tools and equipment is the first and foremost task in maintenance."
+  },
+  "openChecks": 0,
+  "practice": {
+    "matching": {
+      "pairs": [
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "The proper use of the training tools and equipment is the first and foremost task in",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "First and foremost task in maintenance",
+          "right": "Proper use of tools and equipment"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "Manufacturer's manuals This would indicate the parts of the equipment, the functions of each part and the way to maintain it",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Manufacturer's manual shows",
+          "right": "Parts, functions and the way to maintain"
+        },
+        {
+          "cite": {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "The users manuals must be kept handy and within the area where the",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          },
+          "left": "Users manuals",
+          "right": "Kept handy for immediate reference"
+        }
+      ],
+      "prompt": "Match each point with CBLM 6."
+    },
+    "mcq": {
+      "answerCite": {
+        "cblm": 6,
+        "match": "exact",
+        "page": 39,
+        "printedPage": 39,
+        "quote": "The users manuals must be kept handy and within the area where the",
+        "sourceTitle": "Maintain Training Equipment and Facility",
+        "src": "cblm06"
+      },
+      "answerIndex": 0,
+      "options": [
+        "Handy and within the area where the equipment is kept",
+        "Locked in the principal's office",
+        "In the salvage store",
+        "With the supplier only"
+      ],
+      "prompt": "Where must the users manuals be kept?"
+    },
+    "short": {
+      "keyPoints": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "The proper use of the training tools and equipment is the first and foremost task in",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "the maintenance",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Proper use of training tools and equipment is the first and foremost task in maintenance."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "manufacturer's manuals as this would evidently extend the life of the equipment and tools.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Using them by the manufacturer's manuals would extend the life of the equipment and tools."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "This would indicate the parts of the equipment, the",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "functions of each part and the way to maintain it",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The manual indicates the parts, their functions and the way to maintain it."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "The users manuals must be kept handy and within the area where the",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 39,
+              "printedPage": 39,
+              "quote": "equipment is kept for immediate reference.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Users manuals must be kept handy, within the area where the equipment is kept."
+        }
+      ],
+      "marks": 4,
+      "modelAnswer": "1. Proper use of tools and equipment is the first and foremost task in maintenance.\n2. Using them by the manufacturer's manual extends the life of equipment and tools.\n3. The manual shows the parts, the function of each part and the way to maintain it.\n4. Users manuals must be kept handy, where the equipment is kept, for immediate reference.",
+      "prompt": "Why should a trainer use and keep the manufacturer's manual?"
+    },
+    "viva": {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 6,
+            "match": "exact",
+            "page": 39,
+            "printedPage": 39,
+            "quote": "The proper use of the training tools and equipment is the first and foremost task in",
+            "sourceTitle": "Maintain Training Equipment and Facility",
+            "src": "cblm06"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The proper use of the training tools and equipment."
+      },
+      "prompt": "What is the first and foremost task in maintenance?"
+    }
+  },
+  "realQuestions": [],
+  "score": 1,
+  "sourceType": "cblm",
+  "stars": 1,
+  "status": "draft",
+  "title": "Proper Use of Equipment and the Manufacturer's Manual",
+  "traps": [
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 39,
+          "printedPage": 39,
+          "quote": "The users manuals must be kept handy and within the area where the",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        },
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 39,
+          "printedPage": 39,
+          "quote": "equipment is kept for immediate reference.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "The users manuals must be kept handy, within the area where the equipment is kept."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 39,
+          "printedPage": 39,
+          "quote": "manufacturer's manuals as this would evidently extend the life of the equipment and tools.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "paraphrase",
+      "text": "Using tools by the manufacturer's manuals would evidently extend the life of equipment and tools."
+    },
+    {
+      "cites": [
+        {
+          "cblm": 6,
+          "match": "exact",
+          "page": 3,
+          "printedPage": 3,
+          "quote": "Maintenance procedures are followed in accordance with the manufacturers manual and organization policies.",
+          "sourceTitle": "Maintain Training Equipment and Facility",
+          "src": "cblm06"
+        }
+      ],
+      "fidelity": "verbatim",
+      "text": "Maintenance procedures are followed in accordance with the manufacturers manual and organization policies."
+    }
+  ],
+  "visual": null,
+  "vivaDerived": true,
+  "warnings": 0
+}

@@ -59,6 +59,8 @@
     "bn": "সেশনের পরে IT trainer self evaluation ফর্ম পূরণ করে দেখেন practice সময় কম ছিল।"
   },
   "list_answer": {
+    "title": "Sample self evaluation questions for a trainer",
+    "title_bn": "Trainer-এর self evaluation-এর নমুনা প্রশ্ন",
     "items": [
       {
         "text": "Did I encourage the learners to speak and contribute?",
@@ -132,6 +134,14 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "নিজেকে জিজ্ঞেস করুন: আমি কি learners-কে কথা বলতে আর অবদান রাখতে উৎসাহ দিয়েছি?",
+      "Learner যেন নিজের ideas প্রকাশ করতে পারে, সে কাজে কি সাহায্য করেছি?",
+      "সবার মতামত বা অবদানকে কি মূল্যবান (worthwhile) হিসেবে নিয়েছি?",
+      "কথা ছাড়া যে ভাব প্রকাশ হয় (non verbal communication), সেদিকে কি খেয়াল রেখেছি?",
+      "Learners-এর চেষ্টার (effort) প্রশংসা কি করেছি?",
+      "Learners-কে practice করার সুযোগ কি দিয়েছি?"
     ]
   },
   "traps": [
@@ -168,6 +178,55 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "title": "What to look for in self evaluation",
+    "title_bn": "Self evaluation-এ কী দেখবেন",
+    "left": {
+      "title": "Tangible elements",
+      "title_bn": "Tangible: দেখা-মাপা যায়",
+      "points": [
+        {
+          "text": "Such as learner performance and feedback.",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 73,
+              "quote": "tangible elements (such as learner performance and"
+            },
+            {
+              "src": "cblm10",
+              "page": 73,
+              "quote": "feedback)"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    },
+    "right": {
+      "title": "Intangible elements",
+      "title_bn": "Intangible: মনের অনুভূতি",
+      "points": [
+        {
+          "text": "Like your 'gut reaction' to the session: did you feel good about it?",
+          "cites": [
+            {
+              "src": "cblm10",
+              "page": 73,
+              "quote": "intangible elements (like"
+            },
+            {
+              "src": "cblm10",
+              "page": 73,
+              "quote": "your 'gut reaction' to the session - did you feel good about it)"
+            }
+          ],
+          "fidelity": "verbatim"
+        }
+      ]
+    }
+  },
   "practice": {
     "short": {
       "prompt": "What do you understand by self evaluation?",

@@ -60,6 +60,8 @@
     "bn": "আগের ক্লাসের কথা মনে করিয়ে নতুন বিষয় শুরু করুন।"
   },
   "list_answer": {
+    "title": "Learning principles met by links between sessions",
+    "title_bn": "Session-এর মধ্যে link দিলে যে learning principles পূরণ হয়",
     "items": [
       {
         "text": "Learners remember best the first and last points of a learning session.",
@@ -83,6 +85,10 @@
           }
         ]
       }
+    ],
+    "items_bn": [
+      "Session-এর প্রথম আর শেষের কথাগুলো learners সবচেয়ে ভালো মনে রাখে, তাই শুরু ও শেষে link দিলে তা মনে থাকে।",
+      "নতুন তথ্যকে learners আগের জানা জিনিসের (existing knowledge) সাথে জুড়ে শেখে, তাই আগের শেখার সাথে link দরকার।"
     ]
   },
   "traps": [
@@ -98,6 +104,51 @@
       ]
     }
   ],
+  "visual": {
+    "kind": "steps",
+    "title": "How to link sessions (p.39)",
+    "title_bn": "Session-গুলোর মধ্যে link তৈরির ধাপ",
+    "items": [
+      {
+        "text": "In your introduction, summarise the key points from the previous session.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 39,
+            "quote": "in your introduction, summarise the key points from the previous session"
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "Tie them in to the information covered in the current session.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 39,
+            "quote": "and tie them in to the information to be covered in the current session."
+          }
+        ],
+        "fidelity": "paraphrase"
+      },
+      {
+        "text": "In your review, refer to how this session will relate to the next.",
+        "cites": [
+          {
+            "src": "cblm09",
+            "page": 39,
+            "quote": "In your review, you should refer to how this session will relate to the next."
+          }
+        ],
+        "fidelity": "paraphrase"
+      }
+    ],
+    "labels_bn": [
+      "Introduction-এ আগের session-এর মূল points সংক্ষেপে বলুন।",
+      "সেগুলোকে আজকের session-এর information-এর সাথে জুড়ে দিন।",
+      "Review-তে বলুন এই session পরের session-এর সাথে কীভাবে যুক্ত।"
+    ]
+  },
   "practice": {
     "short": {
       "prompt": "Why do you need to provide links in learning sessions?",

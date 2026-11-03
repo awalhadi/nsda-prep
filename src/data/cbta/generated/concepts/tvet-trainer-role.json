@@ -37,6 +37,67 @@
     "bn": "গার্মেন্টস trainer আগে নিজে সেলাই পারে, পরে demo ও practice দেয়, শেষে কাজ যাচাই করে।",
     "en": "A garments trainer first practises the stitch herself. She teaches with a demo and practice, then checks each learner's work."
   },
+  "extra": [
+    {
+      "bn": "Answer key-র শব্দ একটু আলাদা; exam-এ p.37-এর শব্দই লিখুন।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 37,
+              "printedPage": 37,
+              "quote": "be able to perform the job task",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "be able to perform the job task"
+        },
+        {
+          "cites": [
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 63,
+              "printedPage": 63,
+              "quote": "Answer Key 2 Deliver and Facilitate Training Session",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 63,
+              "printedPage": 63,
+              "quote": "know their topic area",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            },
+            {
+              "cblm": 10,
+              "match": "exact",
+              "page": 64,
+              "printedPage": 64,
+              "quote": "integrate fun into learning",
+              "sourceTitle": "Deliver Competency Based Training",
+              "src": "cblm10"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Answer Key 2 says 'know their topic area' and 'integrate fun into learning'."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c10-p37-trainer-role"
+      ],
+      "text": "The answer key words differ slightly from p.37. Write the p.37 words. Say 'perform the job task', 'make learning fun', 'understanding & skills development'.",
+      "tone": "caution"
+    }
+  ],
   "highlighted": true,
   "id": "tvet-trainer-role",
   "importance": {
@@ -251,7 +312,14 @@
         "fidelity": "paraphrase",
         "text": "Review: check for understanding & skills development; seek feedback; provide timely assessment; ensure learning outcomes are achieved; check sessions met learner's needs."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Prepare — নিজে job task করতে পারা, learners কীভাবে শেখে বোঝা, session যত্ন করে তৈরি করা, তথ্য যুক্তিসঙ্গত ক্রমে সাজানো আর অংশ নিতে উৎসাহ দেয় এমন materials বানানো।",
+      "Deliver — learner-এর জীবনের অভিজ্ঞতা কাজে লাগানো, ভিন্ন learning styles-এর জন্য নানা delivery methods, open discussion, মজা করে শেখা, constructive feedback আর practice-এর সুযোগ দেওয়া।",
+      "Review — understanding ও skills development যাচাই করা, feedback নেওয়া, সময়মতো assessment দেওয়া, আর learning outcomes ও learner-এর needs পূরণ হয়েছে কিনা দেখা।"
+    ],
+    "title": "Roles of a competent TVET teacher/trainer",
+    "titleBn": "একজন দক্ষ TVET teacher/trainer-এর ভূমিকা"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -511,6 +579,126 @@
       "text": "Prepare: be able to perform the job task, not only know the topic area."
     }
   ],
+  "visual": {
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "An effective TVET teacher/trainer will\nPrepare",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "be able to perform the job task",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "prepare the session carefully",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Prepare: be able to perform the job task; prepare the session carefully."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Deliver\n•\ndraw upon the learner's life experience",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "use a variety of delivery methods",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "provide appropriate constructive feedback",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "provide opportunities for practice",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Deliver: draw on life experience, use varied methods, give feedback and practice."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "Review\n•\ncheck for understanding & skills development",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "seek feedback",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          },
+          {
+            "cblm": 10,
+            "match": "exact",
+            "page": 37,
+            "printedPage": 37,
+            "quote": "ensure learning outcomes have been achieved",
+            "sourceTitle": "Deliver Competency Based Training",
+            "src": "cblm10"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Review: check understanding and skills, seek feedback, ensure outcomes are achieved."
+      }
+    ],
+    "kind": "steps",
+    "labels_bn": [
+      "Prepare: নিজে কাজটা করতে পারা, session যত্ন করে তৈরি করা।",
+      "Deliver: learner-এর জীবনের অভিজ্ঞতা কাজে লাগানো, নানা method, feedback আর practice দেওয়া।",
+      "Review: বোঝা ও skills যাচাই, feedback চাওয়া, learning outcomes অর্জন নিশ্চিত করা।"
+    ],
+    "title": "Three stages of an effective TVET teacher/trainer's work",
+    "title_bn": "কার্যকর trainer-এর তিন ধাপ: Prepare, Deliver, Review"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

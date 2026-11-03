@@ -46,6 +46,138 @@
     "bn": "নিজে আগে নতুন machine শিখুন, তারপর trainee-কে শেখান।",
     "en": "A welding trainer at a TTC sees new welding machines in local industry. He upgrades his own skills first. Then he teaches his trainees."
   },
+  "extra": [
+    {
+      "answer": {
+        "cites": [
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 5,
+            "quote": "Technical Vocational Education and Training\n(TVET) is a dynamic industry.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          },
+          {
+            "cblm": 7,
+            "match": "exact",
+            "page": 6,
+            "printedPage": 5,
+            "quote": "TVET teachers/trainers also need to\nmaintain and enhance their technical competency\nto cope up with this change.",
+            "sourceTitle": "Maintain and Enhance Technical Competency",
+            "src": "cblm07"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "TVET is a dynamic industry. Trainers maintain and enhance technical competency to cope with change."
+      },
+      "concept": "maintaining-technical-competency",
+      "kind": "qa",
+      "outline": [
+        "c07-p6-information-sheet-1",
+        "c07-p6-section-1",
+        "c07-p6-maintain-technical-competency"
+      ],
+      "q": "Why must a TVET trainer maintain and enhance technical competency?",
+      "q_bn": "TVET trainer-কে কেন technical competency ধরে রাখতে ও বাড়াতে হয়?",
+      "tip": "Keyword first: 'TVET is a dynamic industry'. Then: technology changes, industry demands updated skills.",
+      "tip_bn": "উত্তর শুরু করুন 'dynamic industry' দিয়ে, তারপর technology আর industry demand।"
+    },
+    {
+      "bn": [
+        "দক্ষতা দুই জায়গা থেকে আসে: institution-এ আর industry-তে।",
+        "Industry-তে training দিতে হলে institution আর industry-র শক্ত linkage লাগে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 5,
+              "quote": "Technical Skills of TVET teachers/trainers shall be both Institution based and\nIndustry based.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Technical skills of TVET trainers shall be both institution based and industry based."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 5,
+              "quote": "Strong linkage between industry and TVET Institution is needed to deliver\nindustry based skills upgrading programs.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Strong linkage between industry and TVET institution is needed for industry based upgrading."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p6-institution-industry-based",
+        "c07-p6-industry-linkage-roles"
+      ]
+    },
+    {
+      "bn": [
+        "যেমন: একজন electrician trainer নির্বাচিত কোনো কারখানার ভেতরেই upgrading training নেবেন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 5,
+              "quote": "TVET teachers/trainers will undergo Technical Skills upgrading training at the\npremises of selected industrial establishment.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Trainers undergo upgrading training at the premises of selected industrial establishments."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 5,
+              "quote": "Industry Skill Councils will",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            },
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 7,
+              "printedPage": 6,
+              "quote": "facilitate linkages of training with industry and coordinate implementation of the\ntraining program.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Industry Skill Councils facilitate linkages and coordinate implementation of the training."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c07-p6-training-at-industry"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "maintaining-technical-competency",
   "importance": {
@@ -140,7 +272,15 @@
         "fidelity": "paraphrase",
         "text": "Then they can train the trainees to operate and maintain this new equipment."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Technology প্রতিদিন বদলাচ্ছে, তাই পুরোনো দক্ষতা দিয়ে চলে না।",
+      "Industry এমন দক্ষ লোক চায়, যারা updated technologies ব্যবহার করতে পারে।",
+      "নতুন equipment আর tools চালাতে ও maintain করতে trainer-কে নিজের technical skills upgrade করতে হয়।",
+      "নিজে শিখলে তবেই trainees-কে নতুন equipment চালানো আর রক্ষণাবেক্ষণ শেখানো যায়।"
+    ],
+    "title": "Reasons a TVET trainer must maintain technical competency",
+    "titleBn": "TVET trainer-এর কারিগরি দক্ষতা ধরে রাখার কারণ"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -435,6 +575,107 @@
       "text": "Upgrading training takes place at the premises of selected industrial establishments."
     }
   ],
+  "visual": {
+    "columns": [
+      "Body",
+      "Role"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        "Industry Skill Councils",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 5,
+              "quote": "Industry Skill Councils in selected sectors will play an important role in establishing linkages between TVET Institutions and Industry in terms of TVET teacher/trainers training delivery.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Establish linkages between TVET institutions and industry for trainer training."
+        }
+      ],
+      [
+        "Industry Skill Councils",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 5,
+              "quote": "Industry Skill Councils will assist in identifying those companies/industries that are willing to cooperate with TVET Institutions with regards to Technical Skills Upgrading training.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Identify companies willing to cooperate in technical skills upgrading training."
+        }
+      ],
+      [
+        "Regional Coordinators",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 5,
+              "quote": "Regional Coordinators shall also identify and select those industrial establishments in their respective regions who are willing to cooperate",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Identify and select willing industrial establishments in their regions."
+        }
+      ],
+      [
+        "Staff of Regional Offices",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 5,
+              "quote": "Staff of Regional Offices shall also coordinate and supervise implementation of the programs.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Coordinate and supervise implementation of the programs."
+        }
+      ],
+      [
+        "Industrial establishment",
+        {
+          "cites": [
+            {
+              "cblm": 7,
+              "match": "exact",
+              "page": 6,
+              "printedPage": 5,
+              "quote": "TVET teachers/trainers will undergo Technical Skills upgrading training at the premises of selected industrial establishment.",
+              "sourceTitle": "Maintain and Enhance Technical Competency",
+              "src": "cblm07"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Trainers undergo upgrading training at its premises."
+        }
+      ]
+    ],
+    "title": "Who links trainers with industry (p.6-7)",
+    "title_bn": "Trainer আর industry-কে কে যুক্ত করে"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

@@ -32,6 +32,163 @@
     "bn": "ওয়েল্ডিং trainee প্রতিটি criteria-র পাশে Yes বা No টিক দিয়ে শেষে সই করে।",
     "en": "A welding trainee reads each performance criterion and ticks Yes or No. Then he signs the form."
   },
+  "extra": [
+    {
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "In self or collaborative assessment the learner or candidate plays an active",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "role in his or her own learning.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "In self or collaborative assessment, the learner plays an active role in learning."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "it is important that there is the",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            },
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "right balance between assessor and learner in the assessment.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "There must be the right balance between assessor and learner."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c12-p16-self-collaborative",
+        "c12-p16-administrate-self-assessment"
+      ]
+    },
+    {
+      "cite": {
+        "cblm": 12,
+        "match": "exact",
+        "page": 16,
+        "printedPage": 16,
+        "quote": "Example of a self assessment instrument",
+        "sourceTitle": "Organise and Conduct Competency Assessment",
+        "src": "cblm12"
+      },
+      "columns": [
+        "Can you... Performance Criteria",
+        "Yes",
+        "No"
+      ],
+      "fields": [
+        "Unit: TRAWEL10014A Perform Shielded Metal Arc Welding-Position 1G , 2G"
+      ],
+      "footer": [
+        "I now feel ready to undertake my formal competency assessment.",
+        "Signature of the candidate:",
+        "Date:"
+      ],
+      "kind": "form",
+      "note_bn": "Candidate প্রতিটি criteria পড়ে Yes বা No দেয়, শেষে ready লিখে সই করে। এই সই-ই full consent নিশ্চিত করে।",
+      "outline": [
+        "c12-p16-self-assessment-form"
+      ],
+      "rows": [
+        [
+          "1.1 Safe work practices observed and personal protective equipment (PPE) worn as required for the work performed.",
+          "☐",
+          "☐"
+        ],
+        [
+          "2.1 Weld requirements, specifications are identified from work place drawing.",
+          "☐",
+          "☐"
+        ],
+        [
+          "3.1 Materials are selected",
+          "☐",
+          "☐"
+        ],
+        [
+          "3.2 Materials (plate) are marked and cut as per dimension of specification, drawing.",
+          "☐",
+          "☐"
+        ],
+        [
+          "3.3 Edges are prepared as per job specification to meet industry requirements.",
+          "☐",
+          "☐"
+        ],
+        [
+          "3.4 Materials are assembled and aligned with required gap.",
+          "☐",
+          "☐"
+        ],
+        [
+          "3.5 Weld gauge and or measuring instruments are used as per workplace/industry requirements.",
+          "☐",
+          "☐"
+        ],
+        [
+          "4.1 Job is set up using a clamp at required position (1G or 2G)",
+          "☐",
+          "☐"
+        ],
+        [
+          "5.1. Welding equipment is set up and adjusted as per job requirements.",
+          "☐",
+          "☐"
+        ],
+        [
+          "6.1 Weld is performed as per specification and standard (WPS).",
+          "☐",
+          "☐"
+        ],
+        [
+          "6.2 Welds are cleaned in accordance with standard operating procedures",
+          "☐",
+          "☐"
+        ],
+        [
+          "6.3. Weld is checked for quality and any defects are identified and corrective action is taken to standard operating procedures.",
+          "☐",
+          "☐"
+        ],
+        [
+          "7.1 Equipment is cleaned and stored according to workplace procedures.",
+          "☐",
+          "☐"
+        ]
+      ],
+      "title": "Example of a self assessment instrument",
+      "title_bn": "Self assessment instrument-এর নমুনা"
+    }
+  ],
   "highlighted": true,
   "id": "self-assessment-instruments",
   "importance": {
@@ -61,7 +218,95 @@
     }
   ],
   "likelyTypes": [],
-  "listAnswer": null,
+  "listAnswer": {
+    "declaredCount": null,
+    "items": [
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "Unit: TRAWEL10014A Perform Shielded Metal Arc Welding-Position 1G , 2G",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "The unit title, for example TRAWEL10014A Perform Shielded Metal Arc Welding."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "Can you... Performance Criteria",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "'Can you...' performance criteria."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "Performance Criteria Yes No",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Yes or No against each performance criteria."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "I now feel ready to undertake my formal competency assessment.",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "verbatim",
+        "text": "I now feel ready to undertake my formal competency assessment."
+      },
+      {
+        "cites": [
+          {
+            "cblm": 12,
+            "match": "exact",
+            "page": 16,
+            "printedPage": 16,
+            "quote": "Signature of the candidate: Date:",
+            "sourceTitle": "Organise and Conduct Competency Assessment",
+            "src": "cblm12"
+          }
+        ],
+        "fidelity": "paraphrase",
+        "text": "Signature of the candidate and date."
+      }
+    ],
+    "itemsBn": [
+      "উপরে unit-এর শিরোনাম থাকে, যেমন TRAWEL10014A Perform Shielded Metal Arc Welding।",
+      "'Can you...' দিয়ে প্রতিটি performance criteria প্রশ্ন আকারে লেখা থাকে।",
+      "প্রতিটি performance criteria-র পাশে candidate নিজে Yes বা No দেয়।",
+      "শেষে candidate লেখে যে সে এখন formal competency assessment-এর জন্য ready।",
+      "Candidate সই করে তারিখ দেয় — এটাই তার readiness-এর লিখিত ঘোষণা।"
+    ],
+    "title": "Parts of a self assessment instrument",
+    "titleBn": "Self assessment instrument-এর অংশগুলো"
+  },
   "mnemonic": null,
   "oneLineAnswer": {
     "cites": [
@@ -357,6 +602,75 @@
       "text": "In self assessment, the learner plays an active role in his or her own learning."
     }
   ],
+  "visual": {
+    "columns": [
+      "Can you... (performance criteria)",
+      "Yes",
+      "No"
+    ],
+    "kind": "table",
+    "rows": [
+      [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "3.1 Materials are selected",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "3.1 Materials are selected"
+        },
+        "☐",
+        "☐"
+      ],
+      [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "3.4 Materials are assembled and aligned with required gap.",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "3.4 Materials are assembled and aligned with required gap."
+        },
+        "☐",
+        "☐"
+      ],
+      [
+        {
+          "cites": [
+            {
+              "cblm": 12,
+              "match": "exact",
+              "page": 16,
+              "printedPage": 16,
+              "quote": "4.1 Job is set up using a clamp at required position (1G or 2G)",
+              "sourceTitle": "Organise and Conduct Competency Assessment",
+              "src": "cblm12"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "4.1 Job is set up using a clamp at required position (1G or 2G)"
+        },
+        "☐",
+        "☐"
+      ]
+    ],
+    "title": "Example of a self assessment instrument (p.16, extract)",
+    "title_bn": "Self assessment ফর্মের নমুনা"
+  },
   "vivaDerived": true,
   "warnings": 0
 }

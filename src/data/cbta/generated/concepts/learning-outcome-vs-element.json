@@ -56,6 +56,189 @@
     "bn": "একটি element থেকে module-এ তিনটি learning outcome বানানো যেতে পারে।",
     "en": "One element, \"Prepare sewing machine\", may become three learning outcomes in a garments module."
   },
+  "extra": [
+    {
+      "bn": "p.26-এর CBT Learning Design Process একটি ছবি; লেখা হিসেবে শুধু শিরোনামটি পাওয়া যায়।",
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 26,
+              "printedPage": 26,
+              "quote": "Some linkages between curriculum and industry competency standard terms: CBT Learning Design Process.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Some linkages between curriculum and industry competency standard terms: CBT Learning Design Process."
+        }
+      ],
+      "kind": "note",
+      "outline": [
+        "c01-p26-linkages",
+        "c01-p26-cbt-learning-design-process",
+        "c01-p26-lo-vs-element"
+      ],
+      "text": "The 'CBT Learning Design Process' on p.26 is a picture. Only its title can be read in the CBLM text.",
+      "tone": "tip"
+    },
+    {
+      "bn": [
+        "একটি element = কখনো একটি learning outcome, কখনো ৩-৪টি learning outcome।",
+        "Curriculum বা standard তৈরিতে বিভ্রান্তি হলে colleagues আর mentor-এর সাথে কথা বলুন।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Each element of competence has a number of performance criteria.",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "Each element of competence has a number of performance criteria."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "The learner",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "evaluated against",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "to determine whether or not they are competent",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "The learner is evaluated against them to determine whether or not they are competent."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "Sometimes",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "element of",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "learning outcome",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "a single element",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "might equate to 3 or 4 learning outcomes",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Sometimes an element equals one learning outcome; a single element might equate to 3 or 4 learning outcomes."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "consult with",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "your colleagues and your mentor",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "about the",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            },
+            {
+              "cblm": 1,
+              "match": "exact",
+              "page": 27,
+              "printedPage": 27,
+              "quote": "move towards industry competency standards",
+              "sourceTitle": "Work effectively within TVET Sector",
+              "src": "cblm01"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Consult your colleagues and your mentor about the move towards industry competency standards."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c01-p27-element-pc-lo"
+      ]
+    }
+  ],
   "highlighted": true,
   "id": "learning-outcome-vs-element",
   "importance": {
@@ -243,7 +426,18 @@
         "fidelity": "paraphrase",
         "text": "An element describes the tasks that make up the broader function or job."
       }
-    ]
+    ],
+    "itemsBn": [
+      "Learning outcome শব্দটা curriculum-এর ভাষা।",
+      "Learning outcome বলে দেয়, learner কী করতে পারবে।",
+      "Learning outcome industry-র ঠিক করা competency standards-এর সাথে সম্পর্কিত।",
+      "Learning outcome learner-এর দিক থেকে action statement হিসেবে লেখা হয়, মানে কাজ বোঝায় এমন বাক্যে।",
+      "Element of competency শব্দটা industry competency standards-এর ভাষা।",
+      "Element হলো unit of competence-এর মূল ইট (basic building block)।",
+      "Element বোঝায় সেই tasks, যা মিলে বড় function বা job তৈরি হয়।"
+    ],
+    "title": "Features of a learning outcome and an element of competency",
+    "titleBn": "Learning outcome ও element of competency-র বৈশিষ্ট্য"
   },
   "mnemonic": null,
   "oneLineAnswer": {
@@ -597,6 +791,128 @@
       "text": "Learning outcome is the curriculum term; element is the competency standards term."
     }
   ],
+  "visual": {
+    "kind": "compare",
+    "left": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "is a curriculum term",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Is a curriculum term."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "states what a learner should be able to do towards achieving the purpose of the",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "States what a learner should be able to do."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "relates to standards of competency identified by industry",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Relates to standards of competency identified by industry."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "is written as an action statement from the learner's point of view.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Is an action statement from the learner's point of view."
+        }
+      ],
+      "title": "A learning outcome",
+      "title_bn": "Learning outcome"
+    },
+    "right": {
+      "points": [
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "is a industry competency standards term",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Is an industry competency standards term."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "is the basic building block of a unit of competence",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Is the basic building block of a unit of competence."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 8,
+              "match": "exact",
+              "page": 10,
+              "printedPage": 10,
+              "quote": "describes the tasks that make up the broader function or job.",
+              "sourceTitle": "Design and Modify CBT Learning Material and Resources",
+              "src": "cblm08"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Describes the tasks that make up the broader function or job."
+        }
+      ],
+      "title": "An element of competency",
+      "title_bn": "Element of competency"
+    },
+    "title": "Learning outcome vs Element of competency (p.10)",
+    "title_bn": "Learning outcome বনাম Element of competency"
+  },
   "vivaDerived": true,
   "warnings": 2
 }

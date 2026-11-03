@@ -33,6 +33,145 @@
     "bn": "কম্পিউটার নষ্ট হওয়ার আগেই নিয়মিত পরিষ্কার করা হলো maintenance।",
     "en": "In an IT training centre, staff clean the computers every week. This keeps them in working order."
   },
+  "extra": [
+    {
+      "bn": [
+        "Information Sheet 2 শুরু হয় সংজ্ঞা দিয়ে, যাতে program বানানোর আগে সবাই একই অর্থ বোঝে।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "Before we prepare the maintenance program, it is good idea to make sure that we all",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            },
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "have the same idea on what maintenance means.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "paraphrase",
+          "text": "Before preparing the maintenance program, agree on what maintenance means."
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p36-information-sheet-2"
+      ]
+    },
+    {
+      "bn": [
+        "European Federation of National Maintenance Societies: কোনো item-কে কাজের অবস্থায় রাখা বা ফিরিয়ে আনার সব কাজই maintenance।",
+        "শুধু technical কাজ নয়, administrative, managerial আর supervision-এর কাজও এর অংশ।"
+      ],
+      "claims": [
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "All actions which have as an objective to retain an item in or restore it to, a state in which it can perform the required function.",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "All actions which have as an objective to retain an item in or restore it to, a state in which it can perform the required function."
+        },
+        {
+          "cites": [
+            {
+              "cblm": 6,
+              "match": "exact",
+              "page": 36,
+              "printedPage": 36,
+              "quote": "The actions include the combination of all technical and corresponding administrative, managerial and supervision actions",
+              "sourceTitle": "Maintain Training Equipment and Facility",
+              "src": "cblm06"
+            }
+          ],
+          "fidelity": "verbatim",
+          "text": "The actions include the combination of all technical and corresponding administrative, managerial and supervision actions"
+        }
+      ],
+      "kind": "text",
+      "outline": [
+        "c06-p36-definition-maintenance"
+      ],
+      "title": "The European Federation definition"
+    },
+    {
+      "kind": "compare",
+      "left": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 6,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "Maintenance is performing the routine actions which keep the device in working order, to keep in good condition, to preserve and protect the device.",
+                "sourceTitle": "Maintain Training Equipment and Facility",
+                "src": "cblm06"
+              }
+            ],
+            "fidelity": "verbatim",
+            "text": "Maintenance is performing the routine actions which keep the device in working order, to keep in good condition, to preserve and protect the device."
+          }
+        ],
+        "title": "Maintenance",
+        "title_bn": "রুটিন যত্ন"
+      },
+      "outline": [
+        "c06-p36-repair"
+      ],
+      "right": {
+        "points": [
+          {
+            "cites": [
+              {
+                "cblm": 6,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "Repair is fixing any sort of mechanical or electrical device should it become out of",
+                "sourceTitle": "Maintain Training Equipment and Facility",
+                "src": "cblm06"
+              },
+              {
+                "cblm": 6,
+                "match": "exact",
+                "page": 36,
+                "printedPage": 36,
+                "quote": "order or broken: \"fix it when it breaks.",
+                "sourceTitle": "Maintain Training Equipment and Facility",
+                "src": "cblm06"
+              }
+            ],
+            "fidelity": "paraphrase",
+            "text": "Repair is fixing a device that is out of order or broken. Fix it when it breaks."
+          }
+        ],
+        "title": "Repair",
+        "title_bn": "নষ্ট হলে ঠিক করা"
+      },
+      "title": "Maintenance vs Repair (p.36)",
+      "title_bn": "Maintenance বনাম Repair"
+    }
+  ],
   "highlighted": true,
   "id": "maintenance-definition",
   "importance": {
@@ -283,7 +422,7 @@
         }
       ],
       "fidelity": "paraphrase",
-      "text": "Repair is different: it fixes a device that is out of order or broken."
+      "text": "Repair is different: fix a device when it is out of order or broken."
     },
     {
       "cites": [
@@ -310,6 +449,7 @@
       "text": "Other definition: all actions to retain or restore an item to perform its required function."
     }
   ],
+  "visual": null,
   "vivaDerived": true,
   "warnings": 1
 }
