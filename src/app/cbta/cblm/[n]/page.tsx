@@ -56,6 +56,7 @@ export default async function CblmPage({ params }: { params: Promise<{ n: string
         </header>
       </div>
 
+      <Link href="/cbta/questions" lang="bn" className="block rounded-xl border border-brand bg-brand-soft p-4 font-semibold text-brand-ink">প্রশ্নভান্ডারে এই টপিকগুলোর প্রশ্ন খুঁজুন →</Link>
       {count > 0 && <TopicList groups={groups} />}
 
       {extras.length > 0 && (

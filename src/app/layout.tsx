@@ -1,14 +1,21 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
+import AppShell from "@/components/app/AppShell";
 
 export const metadata: Metadata = {
-  title: "Console // Web Design L-3 Prep",
+  title: { default: "প্রস্তুতি · NSDA Study", template: "%s · প্রস্তুতি" },
+  applicationName: "প্রস্তুতি",
+  appleWebApp: { capable: true, statusBarStyle: "default", title: "প্রস্তুতি" },
+  icons: { icon: "/icons/study-192.png", apple: "/icons/apple-touch-icon.png" },
   description:
-    "Interactive practice console for NSDA Web Design Level-3 (ASSET) — HTML, CSS, JavaScript, jQuery, Bootstrap, UX & color theory. Track your accuracy, drill weak spots, build exam readiness.",
+    "NSDA CBT&A Level 4 এবং Web Design Level 3: বাংলা সহায়তা, প্রশ্নচর্চা, রিভিশন ও ব্যক্তিগত শেখার অগ্রগতি।",
 };
 
 export const viewport: Viewport = {
-  themeColor: "#0d0f14",
+  themeColor: "#4f46e5",
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover",
 };
 
 export default function RootLayout({
@@ -17,7 +24,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="antialiased min-h-screen">
-        {children}
+        <AppShell>{children}</AppShell>
       </body>
     </html>
   );

@@ -1,20 +1,66 @@
 @import "tailwindcss";
+@font-face { font-family: "Study Bengali"; src: url("/fonts/NotoSansBengali-Regular.ttf") format("truetype"); font-weight: 400 500; font-style: normal; font-display: swap; }
+@font-face { font-family: "Study Bengali"; src: url("/fonts/NotoSansBengali-Bold.ttf") format("truetype"); font-weight: 600 900; font-style: normal; font-display: swap; }
 
 :root {
-  --bg-canvas: #0d0f14;
-  --bg-surface: #161922;
-  --bg-surface-2: #1e222d;
-  --bg-surface-3: #262b38;
-  --border-subtle: #2a2f3c;
-  --text-primary: #f2f4f8;
-  --text-muted: #9198ab;
-  --text-faint: #656d80;
-  --accent-amber: #ffb454;
-  --accent-amber-dim: #7a5a2a;
-  --accent-teal: #56e0c9;
-  --accent-teal-dim: #1f5a51;
-  --accent-rose: #fb7185;
-  --accent-violet: #a78bfa;
+  color-scheme: light;
+  --bg-canvas: #f5f6fa;
+  --bg-surface: #ffffff;
+  --bg-surface-2: #eff1f7;
+  --bg-surface-3: #e3e7f0;
+  --border-subtle: #e0e4ed;
+  --text-primary: #20263b;
+  --text-muted: #566079;
+  --text-faint: #69738a;
+  --accent-amber: #a56508;
+  --accent-amber-dim: #f3e1bb;
+  --accent-teal: #4f46e5;
+  --accent-teal-dim: #eae8ff;
+  --accent-rose: #c34357;
+  --accent-violet: #6c57c7;
+  --study-brand: #4f46e5;
+  --study-brand-ink: #4338ca;
+  --study-brand-soft: #eeedff;
+  --study-sand: #fff8e8;
+  --study-sand-line: #eadbb5;
+  --study-danger: #ba3545;
+  --study-danger-soft: #fff0f0;
+  --study-danger-line: #f0cbd0;
+  --study-ok: #087c60;
+  --study-ok-soft: #e8f6f0;
+  --study-hot: #9a5c04;
+  --study-hot-soft: #fff3d9;
+  --study-mark: #f6df8d;
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg-canvas: #0e1320;
+  --bg-surface: #171e2e;
+  --bg-surface-2: #20293c;
+  --bg-surface-3: #2c364d;
+  --border-subtle: #303b51;
+  --text-primary: #edf0f8;
+  --text-muted: #b3bdd2;
+  --text-faint: #97a4bf;
+  --accent-amber: #ecc16c;
+  --accent-amber-dim: #473c28;
+  --accent-teal: #aaa3ff;
+  --accent-teal-dim: #302c51;
+  --accent-rose: #fa9bac;
+  --accent-violet: #bfa9fa;
+  --study-brand: #8176f6;
+  --study-brand-ink: #c1bbff;
+  --study-brand-soft: #282544;
+  --study-sand: #302b20;
+  --study-sand-line: #574931;
+  --study-danger: #ff9dab;
+  --study-danger-soft: #37232d;
+  --study-danger-line: #633743;
+  --study-ok: #75d9b7;
+  --study-ok-soft: #19392f;
+  --study-hot: #edc176;
+  --study-hot-soft: #362e20;
+  --study-mark: #685328;
 }
 
 @theme inline {
@@ -30,79 +76,96 @@
   --color-teal: var(--accent-teal);
   --color-rose: var(--accent-rose);
   --color-violet: var(--accent-violet);
-  --font-display: "Space Grotesk", ui-sans-serif, system-ui, "Segoe UI", Roboto, sans-serif;
-  --font-body: "Inter", ui-sans-serif, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  --font-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", "Menlo", "Consolas", monospace;
-
-  /* CBT&A learning section: light, paper-like, one brand colour (deep green). */
-  --color-paper: #f7f6f2;
-  --color-card: #ffffff;
-  --color-line: #e6e3dc;
-  --color-line-strong: #d3cfc5;
-  --color-ink: #1b1a17;
-  --color-ink-2: #4a4741;
-  --color-ink-3: #85817a;
-  --color-brand: #0e7c5a;
-  --color-brand-ink: #075e44;
-  --color-brand-soft: #e4f3ec;
-  --color-mark: #ffe27a;
-  --color-mark-ink: #4d3a00;
-  --color-sand: #fff6e6;
-  --color-sand-line: #f0dfbd;
-  --color-danger: #b42318;
-  --color-danger-soft: #fdeeec;
-  --color-danger-line: #f6cfc9;
-  --color-ok: #12805c;
-  --color-ok-soft: #e6f5ee;
-  --color-hot: #c2410c;
-  --color-hot-soft: #fff0e6;
+  --font-display: "Plus Jakarta Sans", "Study Bengali", "Noto Sans Bengali", ui-sans-serif, system-ui, sans-serif;
+  --font-body: "Plus Jakarta Sans", "Study Bengali", "Noto Sans Bengali", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, "SFMono-Regular", Consolas, monospace;
+  --color-paper: var(--bg-canvas);
+  --color-card: var(--bg-surface);
+  --color-line: var(--border-subtle);
+  --color-line-strong: var(--bg-surface-3);
+  --color-ink: var(--text-primary);
+  --color-ink-2: var(--text-muted);
+  --color-ink-3: var(--text-faint);
+  --color-brand: var(--study-brand);
+  --color-brand-ink: var(--study-brand-ink);
+  --color-brand-soft: var(--study-brand-soft);
+  --color-mark: var(--study-mark);
+  --color-mark-ink: var(--text-primary);
+  --color-sand: var(--study-sand);
+  --color-sand-line: var(--study-sand-line);
+  --color-danger: var(--study-danger);
+  --color-danger-soft: var(--study-danger-soft);
+  --color-danger-line: var(--study-danger-line);
+  --color-ok: var(--study-ok);
+  --color-ok-soft: var(--study-ok-soft);
+  --color-hot: var(--study-hot);
+  --color-hot-soft: var(--study-hot-soft);
 }
-
-/* In the base layer so utility classes (e.g. border-line) can override it. */
 @layer base {
-  * {
-    border-color: var(--border-subtle);
-  }
+  * { border-color: var(--border-subtle); }
+  body { margin: 0; background: var(--bg-canvas); color: var(--text-primary); font-family: var(--font-body); line-height: 1.65; }
+  button, a, input, select, textarea { -webkit-tap-highlight-color: transparent; }
+  button:not(:disabled), summary, select { cursor: pointer; }
+  button:disabled { cursor: default; }
+  h1, h2, h3 { text-wrap: balance; }
+  p, li { overflow-wrap: anywhere; }
+  [lang="bn"] { font-family: "Study Bengali", "Noto Sans Bengali", var(--font-body); line-height: 1.75; }
+  input, textarea, select { font: inherit; }
 }
-
-html {
-  scroll-behavior: smooth;
-}
-
-body {
-  background: var(--bg-canvas);
-  background-image:
-    radial-gradient(circle at 15% 0%, rgba(86, 224, 201, 0.07), transparent 40%),
-    radial-gradient(circle at 85% 20%, rgba(255, 180, 84, 0.06), transparent 40%);
-  color: var(--text-primary);
-  font-family: var(--font-body), Arial, Helvetica, sans-serif;
-}
-
-::selection {
-  background: var(--accent-amber);
-  color: #1a1200;
-}
-
-/* focus visibility for keyboard users */
-:focus-visible {
-  outline: 2px solid var(--accent-teal);
-  outline-offset: 2px;
-  border-radius: 4px;
-}
-
-::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
-}
-::-webkit-scrollbar-track {
-  background: var(--bg-canvas);
-}
-::-webkit-scrollbar-thumb {
-  background: var(--bg-surface-3);
-  border-radius: 8px;
-}
-::-webkit-scrollbar-thumb:hover {
-  background: var(--accent-teal-dim);
+html { scroll-behavior: smooth; scroll-padding-top: 90px; }
+::selection { background: var(--study-mark); color: var(--text-primary); }
+:focus-visible { outline: 3px solid var(--accent-teal); outline-offset: 3px; }
+.tabular-nums { font-variant-numeric: tabular-nums; }
+.cbta-root { min-height: 80vh; color: var(--text-primary); }
+.cbta-root .scroll-mt-anchor { scroll-margin-top: 6rem; }
+.app-shell { min-height: 100dvh; }
+.app-workspace { min-width: 0; }
+.study-content { min-width: 0; padding-bottom: calc(90px + env(safe-area-inset-bottom)); }
+.app-topbar { height: 76px; position: sticky; top: 0; z-index: 40; display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 0 20px; border-bottom: 1px solid var(--border-subtle); background: var(--bg-canvas); }
+.brand-mark { display: inline-flex; width: 44px; height: 44px; align-items: center; justify-content: center; border-radius: 14px; color: white; background: #4f46e5; flex-shrink: 0; }
+.brand-mark.small { width: 34px; height: 34px; border-radius: 11px; }
+.app-sidebar { display: none; }
+.icon-button { min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; border-radius: 12px; color: var(--text-muted); }
+.icon-button:hover { background: var(--bg-surface-2); color: var(--text-primary); }
+.mobile-course-switch { font-size: 12px; font-weight: 700; border: 1px solid var(--border-subtle); border-radius: 10px; padding: 8px; }
+.mobile-bottom-nav { position: fixed; z-index: 50; bottom: 0; left: 0; right: 0; display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); padding: 8px 8px calc(8px + env(safe-area-inset-bottom)); border-top: 1px solid var(--border-subtle); background: var(--bg-surface); }
+.mobile-bottom-nav a { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; min-height: 52px; border-radius: 12px; color: var(--text-faint); font-size: 12px; font-weight: 600; }
+.mobile-bottom-nav a.active { background: var(--study-brand-soft); color: var(--study-brand-ink); }
+.network-status { display: inline-flex; align-items: center; gap: 5px; color: var(--study-hot); font-size: 12px; }
+.install-button { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; border-radius: 12px; padding: 10px 16px; background: var(--study-brand-soft); color: var(--study-brand-ink); font-size: 14px; font-weight: 700; border: 1px solid var(--border-subtle); }
+.install-dialog { position: fixed; inset: 0; margin: auto; width: min(480px,calc(100% - 32px)); max-height: 85dvh; overflow: auto; border: 1px solid var(--border-subtle); border-radius: 24px; padding: 24px; color: var(--text-primary); background: var(--bg-surface); }
+.install-dialog::backdrop { background: #080d1a99; backdrop-filter: blur(4px); }
+.skip-link { position: fixed; top: -100px; left: 20px; z-index: 100; background: var(--bg-surface); color: var(--text-primary); padding: 12px 20px; border-radius: 12px; }
+.skip-link:focus { top: 10px; }
+.study-panel { background: var(--bg-surface); border: 1px solid var(--border-subtle); border-radius: 22px; padding: 22px; }
+.study-eyebrow { font-size: 11px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: var(--text-faint); }
+.study-primary { min-height: 48px; display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 11px 20px; border-radius: 12px; background: #4f46e5; color: white; font-weight: 700; }
+.study-primary:hover { background: #4338ca; }
+.study-secondary { min-height: 46px; display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 10px 16px; border: 1px solid var(--border-subtle); border-radius: 12px; font-weight: 600; background: var(--bg-surface); }
+.study-secondary:hover { border-color: var(--study-brand); }
+.progress-track { height: 7px; overflow: hidden; border-radius: 10px; background: var(--bg-surface-3); }
+.progress-track > span { display: block; height: 100%; border-radius: inherit; background: var(--study-brand); transition: width .4s; }
+.focus-mode .app-topbar { height: 60px; }
+.focus-mode .study-content { padding-bottom: env(safe-area-inset-bottom); }
+@media (min-width: 1024px) {
+  .app-sidebar { display: flex; flex-direction: column; width: 248px; position: fixed; inset: 0 auto 0 0; background: var(--bg-surface); border-right: 1px solid var(--border-subtle); padding: 28px 20px 24px; z-index: 45; overflow-y: auto; }
+  .app-logo { display: flex; align-items: center; gap: 12px; font-size: 24px; font-weight: 800; }
+  .sidebar-label { margin: 30px 10px 10px; font-size: 12px; color: var(--text-faint); font-weight: 600; }
+  .course-switch { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; padding: 4px; border-radius: 12px; background: var(--bg-canvas); }
+  .course-switch a { padding: 8px 5px; border-radius: 8px; font-size: 12px; font-weight: 700; text-align: center; }
+  .course-switch span { display: block; font-size: 10px; font-weight: 500; }
+  .course-switch .selected { background: var(--study-brand-soft); color: var(--study-brand-ink); }
+  .sidebar-nav { display: flex; flex-direction: column; gap: 6px; }
+  .sidebar-nav a { display: flex; gap: 12px; align-items: center; padding: 12px 14px; border-radius: 12px; font-size: 15px; font-weight: 600; color: var(--text-muted); }
+  .sidebar-nav a.active { background: var(--study-brand-soft); color: var(--study-brand-ink); }
+  .sidebar-exam { margin-top: 26px; display: flex; align-items: center; gap: 12px; padding: 15px 12px; border: 1px solid var(--border-subtle); border-radius: 14px; color: var(--study-brand-ink); font-weight: 700; }
+  .sidebar-bottom { margin-top: auto; padding-top: 40px; }
+  .sidebar-bottom .install-button { width: 100%; }
+  .app-workspace { margin-left: 248px; }
+  .app-topbar { padding: 0 36px; }
+  .mobile-bottom-nav { display: none; }
+  .study-content { padding-bottom: 30px; }
+  .focus-mode .app-workspace { margin-left: 0; }
 }
 
 @keyframes dash-in {
@@ -122,29 +185,6 @@ body {
   }
 }
 
-/* ---------- CBT&A section ---------- */
-.cbta-root {
-  min-height: 100vh;
-  background: var(--color-paper);
-  color: var(--color-ink);
-  font-family: var(--cbta-sans), ui-sans-serif, system-ui, sans-serif;
-  -webkit-font-smoothing: antialiased;
-}
-.cbta-root ::selection {
-  background: var(--color-mark);
-  color: var(--color-ink);
-}
-.cbta-root :focus-visible {
-  outline: 3px solid color-mix(in srgb, var(--color-brand) 55%, transparent);
-  outline-offset: 2px;
-}
-.cbta-root [lang="bn"] {
-  font-family: var(--cbta-bangla), var(--cbta-sans), sans-serif;
-  line-height: 1.75;
-}
-.cbta-root .scroll-mt-anchor {
-  scroll-margin-top: 7.5rem;
-}
 /* Chunky, tactile buttons (pressed state moves down onto the shadow). */
 .cbta-btn {
   border-bottom-width: 4px;
@@ -176,3 +216,16 @@ body {
 .cbta-noscrollbar::-webkit-scrollbar {
   display: none;
 }
+
+@media (max-width: 389px) {
+  .app-topbar { padding-inline: 12px; gap: 5px; }
+  .mobile-brand-name { display: none; }
+  .mobile-course-switch { font-size: 11px; padding: 8px 6px; }
+  .study-panel { padding: 18px; }
+}
+
+@media (pointer: coarse) {
+  .study-content button, .study-content select { min-height: 44px; }
+}
+/* Maintain readable white labels in both themes. */
+.bg-brand.text-white { background-color: #4f46e5; }

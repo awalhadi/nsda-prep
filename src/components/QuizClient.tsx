@@ -193,7 +193,7 @@ export default function QuizClient({ moduleId, moduleTitle, allQuestions, count,
               {wrongQuestions.length > 0 && (
                 <Link
                   href={`/quiz/${moduleId}?count=${wrongQuestions.length}&timed=0&retry=1&r=${startedAt}`}
-                  className="rounded-lg bg-amber text-[#1a1200] font-semibold text-sm px-4 py-2 hover:brightness-110 transition inline-flex items-center gap-1.5"
+                  className="rounded-lg bg-brand text-white font-semibold text-sm px-4 py-2 hover:brightness-110 transition inline-flex items-center gap-1.5"
                 >
                   <RotateCcw size={14} /> Retry mistakes ({wrongQuestions.length})
                 </Link>
@@ -306,7 +306,7 @@ export default function QuizClient({ moduleId, moduleTitle, allQuestions, count,
             <button
               onClick={goNext}
               autoFocus
-              className="ml-auto inline-flex items-center gap-1.5 rounded-lg bg-teal text-[#052924] font-semibold text-sm px-5 py-2.5 hover:brightness-110 transition"
+              className="ml-auto inline-flex items-center gap-1.5 rounded-lg bg-brand text-white font-semibold text-sm px-5 py-2.5 hover:brightness-110 transition"
             >
               {idx + 1 >= total ? "See results" : "Next"} <ArrowRight size={14} />
             </button>

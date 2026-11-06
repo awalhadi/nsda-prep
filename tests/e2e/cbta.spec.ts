@@ -80,7 +80,7 @@ test("offline: after downloading, cards open and links work with no internet", a
   test.setTimeout(180_000);
   await page.goto("/cbta");
   await page.getByRole("button", { name: "Download for offline use" }).click();
-  await expect(page.getByText("Saved for offline")).toBeVisible({ timeout: 150_000 });
+  await expect(page.getByRole("status").filter({ hasText: "Saved for offline" })).toBeVisible({ timeout: 150_000 });
 
   await context.setOffline(true);
   await page.goto("/cbta/concept/rules-of-evidence");
@@ -95,7 +95,7 @@ test("offline: after downloading, cards open and links work with no internet", a
 for (const n of [1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12]) {
   test(`CBLM ${n}: topic list → search → topic → next topic → practice, no sideways scroll`, async ({ page }) => {
     await page.goto("/cbta");
-    await page.getByRole("link", { name: new RegExp(`^${n}\\b`) }).click();
+    await page.locator(`a[href="/cbta/cblm/${n}"]`).first().click();
     await expect(page).toHaveURL(new RegExp(`/cbta/cblm/${n}$`));
     const noSideScroll = () => page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1);
     expect(await noSideScroll()).toBe(true);

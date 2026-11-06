@@ -34,7 +34,7 @@ export default function SettingsClient() {
   return (
     <div className="mx-auto max-w-2xl px-4 sm:px-6 py-8 space-y-6">
       <div>
-        <p className="font-mono-tag text-xs text-teal mb-1">$ config --edit defaults</p>
+        <p className="font-mono-tag text-xs text-teal mb-1">STUDY PREFERENCES</p>
         <h1 className="font-display font-bold text-2xl">Settings</h1>
         <p className="text-text-muted text-sm mt-1">
           Defaults applied whenever you start a new quiz. You can still override these per attempt.
@@ -53,7 +53,7 @@ export default function SettingsClient() {
                 onClick={() => update({ secondsPerQuestion: s })}
                 className={`px-3 py-1.5 rounded-lg text-sm font-mono-tag border transition-colors ${
                   settings.secondsPerQuestion === s
-                    ? "bg-teal text-[#052924] border-teal font-semibold"
+                    ? "bg-brand text-white border-teal font-semibold"
                     : "border-border-subtle bg-surface-2 text-text-muted hover:border-teal/50"
                 }`}
               >
@@ -72,7 +72,7 @@ export default function SettingsClient() {
               onClick={() => update({ defaultTimed: true })}
               className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm border transition-colors ${
                 settings.defaultTimed
-                  ? "bg-amber text-[#1a1200] border-amber font-semibold"
+                  ? "bg-brand text-white border-amber font-semibold"
                   : "border-border-subtle bg-surface-2 text-text-muted hover:border-amber/50"
               }`}
             >
@@ -82,7 +82,7 @@ export default function SettingsClient() {
               onClick={() => update({ defaultTimed: false })}
               className={`px-3 py-1.5 rounded-lg text-sm border transition-colors ${
                 !settings.defaultTimed
-                  ? "bg-amber text-[#1a1200] border-amber font-semibold"
+                  ? "bg-brand text-white border-amber font-semibold"
                   : "border-border-subtle bg-surface-2 text-text-muted hover:border-amber/50"
               }`}
             >
@@ -102,7 +102,7 @@ export default function SettingsClient() {
                 onClick={() => update({ defaultCount: c })}
                 className={`px-3 py-1.5 rounded-lg text-sm font-mono-tag border transition-colors ${
                   settings.defaultCount === c
-                    ? "bg-teal text-[#052924] border-teal font-semibold"
+                    ? "bg-brand text-white border-teal font-semibold"
                     : "border-border-subtle bg-surface-2 text-text-muted hover:border-teal/50"
                 }`}
               >

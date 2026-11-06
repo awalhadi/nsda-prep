@@ -77,11 +77,11 @@ export default function MockClient({ cblms }: { cblms: { n: number; title: strin
           <legend className="px-1 text-[15px] font-bold">Which CBLMs?</legend>
           <div className="mt-2 grid gap-2 sm:grid-cols-2">
             <label className="flex min-h-11 cursor-pointer items-center gap-2.5 rounded-xl border border-line px-3 has-[:checked]:border-brand has-[:checked]:bg-brand-soft">
-              <input type="radio" name="scope" checked={scope === "all"} onChange={() => setScope("all")} className="accent-[#0e7c5a]" /> All CBLMs (full exam)
+              <input type="radio" name="scope" checked={scope === "all"} onChange={() => setScope("all")} className="accent-brand" /> All CBLMs (full exam)
             </label>
             {cblms.filter((c) => c.ready).map((c) => (
               <label key={c.n} className="flex min-h-11 cursor-pointer items-center gap-2.5 rounded-xl border border-line px-3 text-[14px] has-[:checked]:border-brand has-[:checked]:bg-brand-soft">
-                <input type="radio" name="scope" checked={scope === c.n} onChange={() => setScope(c.n)} className="accent-[#0e7c5a]" /> CBLM {c.n}: {c.title}
+                <input type="radio" name="scope" checked={scope === c.n} onChange={() => setScope(c.n)} className="accent-brand" /> CBLM {c.n}: {c.title}
               </label>
             ))}
           </div>
@@ -113,7 +113,7 @@ export default function MockClient({ cblms }: { cblms: { n: number; title: strin
                 <div className="mt-2 grid gap-2">
                   {q.options.map((o, oi) => (
                     <label key={oi} className="flex min-h-11 cursor-pointer items-center gap-3 rounded-xl border-2 border-line px-3 py-2 text-[15px] has-[:checked]:border-brand has-[:checked]:bg-brand-soft">
-                      <input type="radio" name={q.id} checked={answers.mcq[q.id] === oi} onChange={() => setAnswers((a) => ({ ...a, mcq: { ...a.mcq, [q.id]: oi } }))} className="accent-[#0e7c5a]" />
+                      <input type="radio" name={q.id} checked={answers.mcq[q.id] === oi} onChange={() => setAnswers((a) => ({ ...a, mcq: { ...a.mcq, [q.id]: oi } }))} className="accent-brand" />
                       <span className="font-bold text-ink-3">{letters[oi]})</span> {o}
                     </label>
                   ))}
@@ -202,7 +202,7 @@ export default function MockClient({ cblms }: { cblms: { n: number; title: strin
     <div className="space-y-6">
       <section className="rounded-2xl border border-line bg-card p-6 text-center">
         <p className="text-[13px] font-bold uppercase tracking-wider text-ink-3">Your score</p>
-        <p className={`mt-1 text-5xl font-extrabold ${pct >= 70 ? "text-ok" : pct >= 50 ? "text-[#9a5b00]" : "text-danger"}`}>{pct}%</p>
+        <p className={`mt-1 text-5xl font-extrabold ${pct >= 70 ? "text-ok" : pct >= 50 ? "text-hot" : "text-danger"}`}>{pct}%</p>
         <p lang="bn" className="mt-2 text-ink-2">{pct >= 70 ? "চমৎকার! এভাবে চালিয়ে যান।" : pct >= 50 ? "ভালো হয়েছে, দুর্বল topic-গুলো আরেকবার পড়ুন।" : "আরও প্র্যাকটিস দরকার। নিচের topic-গুলো দিয়ে শুরু করুন।"}</p>
         <dl className="mt-5 grid grid-cols-3 divide-x divide-line rounded-xl border border-line">
           {(["mcq", "matching", "short"] as const).map((k) => (

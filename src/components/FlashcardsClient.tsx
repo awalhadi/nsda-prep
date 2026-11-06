@@ -123,7 +123,7 @@ export default function FlashcardsClient({
               setRequeueDone(false);
               setDone(false);
             }}
-            className="inline-flex items-center gap-1.5 rounded-lg bg-teal text-[#052924] font-semibold text-sm px-4 py-2 hover:brightness-110 transition"
+            className="inline-flex items-center gap-1.5 rounded-lg bg-brand text-white font-semibold text-sm px-4 py-2 hover:brightness-110 transition"
           >
             <Shuffle size={14} /> Study again
           </button>

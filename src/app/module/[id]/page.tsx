@@ -74,7 +74,7 @@ export default function ModuleDetailPage({
                     onClick={() => setCount(c)}
                     className={`px-3 py-1.5 rounded-lg text-sm font-mono-tag border transition-colors ${
                       count === c
-                        ? "bg-teal text-[#052924] border-teal font-semibold"
+                        ? "bg-brand text-white border-teal font-semibold"
                         : "border-border-subtle bg-surface-2 text-text-muted hover:border-teal/50"
                     }`}
                   >
@@ -89,7 +89,7 @@ export default function ModuleDetailPage({
                 <button
                   onClick={() => setTimed(true)}
                   className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm border transition-colors ${
-                    timed ? "bg-amber text-[#1a1200] border-amber font-semibold" : "border-border-subtle bg-surface-2 text-text-muted hover:border-amber/50"
+                    timed ? "bg-brand text-white border-amber font-semibold" : "border-border-subtle bg-surface-2 text-text-muted hover:border-amber/50"
                   }`}
                 >
                   <Clock size={13} /> Timed ({secondsPerQ}s/Q)
@@ -97,7 +97,7 @@ export default function ModuleDetailPage({
                 <button
                   onClick={() => setTimed(false)}
                   className={`px-3 py-1.5 rounded-lg text-sm border transition-colors ${
-                    !timed ? "bg-amber text-[#1a1200] border-amber font-semibold" : "border-border-subtle bg-surface-2 text-text-muted hover:border-amber/50"
+                    !timed ? "bg-brand text-white border-amber font-semibold" : "border-border-subtle bg-surface-2 text-text-muted hover:border-amber/50"
                   }`}
                 >
                   Untimed
@@ -116,7 +116,7 @@ export default function ModuleDetailPage({
                       onClick={() => setSecondsPerQ(s)}
                       className={`px-3 py-1.5 rounded-lg text-sm font-mono-tag border transition-colors ${
                         secondsPerQ === s
-                          ? "bg-teal text-[#052924] border-teal font-semibold"
+                          ? "bg-brand text-white border-teal font-semibold"
                           : "border-border-subtle bg-surface-2 text-text-muted hover:border-teal/50"
                       }`}
                     >
@@ -128,7 +128,7 @@ export default function ModuleDetailPage({
             )}
             <Link
               href={`/quiz/${mod.id}?count=${count}&timed=${timed ? 1 : 0}&spq=${secondsPerQ}`}
-              className="inline-flex items-center gap-2 rounded-lg bg-teal text-[#052924] font-semibold text-sm px-5 py-2.5 hover:brightness-110 transition"
+              className="inline-flex items-center gap-2 rounded-lg bg-brand text-white font-semibold text-sm px-5 py-2.5 hover:brightness-110 transition"
             >
               <Play size={14} fill="currentColor" /> Start quiz
             </Link>
@@ -143,7 +143,7 @@ export default function ModuleDetailPage({
             </p>
             <Link
               href={`/flashcards/${mod.id}`}
-              className="inline-flex items-center gap-2 rounded-lg bg-teal text-[#052924] font-semibold text-sm px-5 py-2.5 hover:brightness-110 transition"
+              className="inline-flex items-center gap-2 rounded-lg bg-brand text-white font-semibold text-sm px-5 py-2.5 hover:brightness-110 transition"
             >
               <Play size={14} fill="currentColor" /> Start flashcards
             </Link>

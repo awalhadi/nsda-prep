@@ -45,8 +45,8 @@ export default function OfflineButton({ version }: { version: string }) {
   return (
     <div className="flex flex-wrap items-center gap-3 rounded-2xl border border-line bg-card p-4">
       <div className="min-w-0 flex-1">
-        <p className="font-bold">Study without internet</p>
-        <p lang="bn" className="text-[14px] text-ink-3">একবার ডাউনলোড করুন, তারপর ইন্টারনেট ছাড়াই সব কার্ড পড়ুন।</p>
+        <p className="font-bold">ইন্টারনেট ছাড়াও পড়ুন</p>
+        <p lang="bn" className="text-[14px] text-ink-3">দুই কোর্সের পড়া একবার ডাউনলোড করুন। জায়গা ও সময় লাগতে পারে; শেষে সফলভাবে সংরক্ষণের বার্তা দেখুন।</p>
         {state.kind === "busy" && <p role="status" className="mt-1 text-[13px] font-semibold text-brand">Downloading… {state.done} / {state.total}</p>}
         {state.kind === "error" && <p role="alert" className="mt-1 text-[13px] text-danger">Download failed. Please try again with internet.</p>}
       </div>

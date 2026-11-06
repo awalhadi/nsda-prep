@@ -148,7 +148,7 @@ function QaView({ b }: { b: Extract<GenGuideBlock, { kind: "qa" }> }) {
         )}
         {(b.tip || b.tip_bn) && (
           <p className="flex gap-2 rounded-lg bg-sand px-3 py-2 text-[14.5px] text-ink">
-            <Lightbulb size={16} className="mt-0.5 shrink-0 text-[#9a5b00]" aria-hidden />
+            <Lightbulb size={16} className="mt-0.5 shrink-0 text-hot" aria-hidden />
             <span><strong>Memory tip:</strong> {b.tip}{b.tip_bn && <span lang="bn" className="block text-ink-2">{b.tip_bn}</span>}</span>
           </p>
         )}
@@ -220,7 +220,7 @@ export function GuideBlockView({ b }: { b: GenGuideBlock }) {
                 <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-ink text-[12px] font-bold text-white">{b.ordered ? i + 1 : "✓"}</span>
                 <span className="min-w-0">
                   <span className="block">{it.text}</span>
-                  {b.items_bn?.[i] && <span lang="bn" className="mt-0.5 block text-[15px] text-[#7a4f00]">{b.items_bn[i]}</span>}
+                  {b.items_bn?.[i] && <span lang="bn" className="mt-0.5 block text-[15px] text-hot">{b.items_bn[i]}</span>}
                 </span>
               </li>
             ))}
@@ -247,7 +247,7 @@ export function GuideBlockView({ b }: { b: GenGuideBlock }) {
       const Icon = caution ? TriangleAlert : Lightbulb;
       return (
         <div className={`flex gap-3 rounded-xl p-3.5 ${caution ? "border border-danger-line bg-danger-soft" : "border border-sand-line bg-sand"}`}>
-          <Icon size={18} className={`mt-0.5 shrink-0 ${caution ? "text-danger" : "text-[#9a5b00]"}`} aria-hidden />
+          <Icon size={18} className={`mt-0.5 shrink-0 ${caution ? "text-danger" : "text-hot"}`} aria-hidden />
           <div className="text-[15px] text-ink">
             {b.text && <p className="font-semibold">{b.text}</p>}
             {b.claims?.map((c, i) => <p key={i}>{c.text}</p>)}

@@ -1,10 +1,12 @@
 // A topic page. Kept deliberately short and in one fixed order, so a learner reads it
-// top to bottom: what to write → Bangla → picture/list → example → cautions → test.
+// top to bottom: Bangla → what to write → picture/list → example → recall → questions.
 // Colour carries meaning only: green = what to write, sand = Bangla help, red = cautions.
 
 import type { ReactNode } from "react";
 import { AlertTriangle, Brain, Factory, GraduationCap, ListOrdered, MessageCircle, PenLine } from "lucide-react";
 import type { GenConcept } from "@/lib/cbta/types";
+import TopicShortQuestions from "./TopicShortQuestions";
+import RecallPractice from "./RecallPractice";
 import PracticeTabs from "./PracticeTabs";
 import SourcesFooter from "./SourcesFooter";
 import { GuideBlockView, VisualBlock } from "./guide/Blocks";
@@ -51,17 +53,11 @@ export default function ConceptCard({ c, place }: { c: GenConcept; place?: { ind
         <h1 className="mt-1 text-[28px] font-extrabold leading-tight tracking-tight sm:text-[34px]">{c.title}</h1>
       </header>
 
-      {/* What to write */}
-      <section className="rounded-2xl border-2 border-brand/30 bg-brand-soft p-5 sm:p-6">
-        <h2 className="mb-2 flex flex-wrap items-center gap-2 text-[13px] font-bold uppercase tracking-[0.08em] text-brand-ink">
-          <PenLine size={17} aria-hidden /> Write this in the exam <span lang="bn" className="normal-case tracking-normal opacity-80">· পরীক্ষায় লিখুন</span>
-        </h2>
-        <p className="text-[20px] font-bold leading-snug sm:text-[23px]">{c.oneLineAnswer.text}</p>
-      </section>
+      <p lang="bn" className="rounded-xl bg-paper px-4 py-3 text-[15px] text-ink-2">পড়ার ধাপ: বাংলায় বুঝি → উদাহরণ দেখি → মূল শব্দ মনে রাখি → না দেখে উত্তর বলি।</p>
 
       {/* Bangla */}
       <section className="rounded-2xl border border-sand-line bg-sand p-5 sm:p-6">
-        <h2 className="mb-2.5 flex items-center gap-2 text-[#8a5a00]">
+        <h2 className="mb-2.5 flex items-center gap-2 text-hot">
           <MessageCircle size={17} aria-hidden /> <span lang="bn" className="text-[16px] font-bold">বাংলায় বুঝি</span>
         </h2>
         <ul className="space-y-2">
@@ -74,6 +70,14 @@ export default function ConceptCard({ c, place }: { c: GenConcept; place?: { ind
             </span>
           ))}
         </p>
+      </section>
+
+      {/* What to write */}
+      <section className="rounded-2xl border-2 border-brand/30 bg-brand-soft p-5 sm:p-6">
+        <h2 className="mb-2 flex flex-wrap items-center gap-2 text-[13px] font-bold uppercase tracking-[0.08em] text-brand-ink">
+          <PenLine size={17} aria-hidden /> Write this in the exam <span lang="bn" className="normal-case tracking-normal opacity-80">· পরীক্ষায় লিখুন</span>
+        </h2>
+        <p className="text-[20px] font-bold leading-snug sm:text-[23px]">{c.oneLineAnswer.text}</p>
       </section>
 
       {c.visual && (
@@ -97,7 +101,7 @@ export default function ConceptCard({ c, place }: { c: GenConcept; place?: { ind
                   <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-ink text-[13px] font-bold text-white">{i + 1}</span>
                   <span className="min-w-0">
                     <span className="block"><strong>{head}</strong>{rest && <span className="text-ink-2"> · {rest}</span>}</span>
-                    {c.listAnswer!.itemsBn[i] && <span lang="bn" className="mt-0.5 block text-[15.5px] text-[#7a4f00]">{c.listAnswer!.itemsBn[i]}</span>}
+                    {c.listAnswer!.itemsBn[i] && <span lang="bn" className="mt-0.5 block text-[15.5px] text-hot">{c.listAnswer!.itemsBn[i]}</span>}
                   </span>
                 </li>
               );
@@ -150,6 +154,9 @@ export default function ConceptCard({ c, place }: { c: GenConcept; place?: { ind
           ))}
         </ul>
       </section>
+
+      <RecallPractice key={c.id} id={c.id} prompt={c.practice.short.prompt} answer={c.practice.short.modelAnswer} />
+      <TopicShortQuestions conceptId={c.id} />
 
       {/* Test yourself: closed until the learner asks for it */}
       <details className="group rounded-2xl border-2 border-brand border-b-4 bg-card">

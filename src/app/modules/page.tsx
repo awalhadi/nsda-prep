@@ -26,13 +26,13 @@ export default function ModulesPage() {
       <TopNav />
       <div className="mx-auto max-w-6xl px-4 sm:px-6 py-8 space-y-8">
         <div>
-          <p className="font-mono-tag text-xs text-teal mb-1">$ ls ./modules</p>
+          <p className="font-mono-tag text-xs text-teal mb-1">LEARNING LIBRARY</p>
           <h1 className="font-display font-bold text-2xl">All practice modules</h1>
           <p className="text-text-muted text-sm mt-1">
             Every question from your source sheets, organized by topic. {MODULES.reduce((s, m) => s + m.count, 0)} questions total.
           </p>
         </div>
-        <section>
+        <section id="practice">
           <h2 className="font-display font-semibold text-lg mb-3">MCQ practice sets</h2>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">
             {mcq.map((m) => (

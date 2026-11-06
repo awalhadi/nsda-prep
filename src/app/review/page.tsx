@@ -32,7 +32,7 @@ export default function ReviewPage() {
       <TopNav />
       <div className="mx-auto max-w-3xl px-4 sm:px-6 py-8 space-y-6">
         <div>
-          <p className="font-mono-tag text-xs text-teal mb-1">$ grep -r &quot;wrong&quot; ./attempts</p>
+          <p className="font-mono-tag text-xs text-teal mb-1">LEARN FROM YOUR MISTAKES</p>
           <h1 className="font-display font-bold text-2xl">Mistake review</h1>
           <p className="text-text-muted text-sm mt-1">
             Every question you&apos;ve missed, grouped by module. Cleared automatically once you answer it correctly again.
