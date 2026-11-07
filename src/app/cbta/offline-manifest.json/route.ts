@@ -14,5 +14,5 @@ export function GET() {
     ...CBLMS.flatMap((c) => c.groups.flatMap((g) => g.topics.filter((t) => !t.concept).map((t) => topicHref(c.n, t)))),
     ...CONCEPT_INDEX.map((c) => `/cbta/concept/${c.id}`),
   ];
-  return Response.json({ version: `${CONTENT_VERSION}-design-v2`, urls });
+  return Response.json({ version: `${CONTENT_VERSION}-design-v4`, urls });
 }
