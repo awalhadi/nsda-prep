@@ -2,10 +2,9 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { ArrowRight, BookOpen, Check, Clock3, Target, RotateCcw, ClipboardCheck, TrendingUp, ChevronRight, Download } from "lucide-react";
+import { ArrowRight, BookOpen, Check, Clock3, Target, RotateCcw, ClipboardCheck, TrendingUp, ChevronRight } from "lucide-react";
 import { emptyCbta, getCbta, type CbtaState } from "@/lib/cbta/progress";
 import { studySummary } from "@/lib/cbta/study-dashboard";
-import InstallApp from "@/components/app/InstallApp";
 
 type Concept = { id: string; title: string; score: number; cblms: number[]; bn: string };
 type Course = { n: number; title: string; bn: string; concepts: string[]; topics: number };
@@ -29,7 +28,7 @@ export default function StudyDashboard({ concepts, courses }: { concepts: Concep
   const maxActivity = Math.max(1, ...summary.days.map((d) => d.count));
   return <div className="space-y-7">
     <header className="flex flex-wrap items-start justify-between gap-3">
-      <div><p className="study-eyebrow">YOUR DAILY STUDY DESK</p><h1 lang="bn" className="mt-2 text-[30px] font-extrabold tracking-tight sm:text-[38px]">ছোট পদক্ষেপে, বড় প্রস্তুতি।</h1><p lang="bn" className="mt-1 text-ink-2">CBT&amp;A Level 4 · আজ কী পড়বেন, এখান থেকেই শুরু করুন।</p></div>
+      <div><p className="study-eyebrow">YOUR DAILY STUDY DESK</p><h1 lang="bn" className="mt-2 text-[30px] font-extrabold tracking-tight sm:text-[38px]">ছোট পদক্ষেপে, বড় প্রস্তুতি।</h1><p lang="bn" className="mt-1 text-ink-2">CBT&amp;A Level 4 · <Link href="/cbta/guide" className="inline-flex min-h-11 items-center font-bold text-brand underline underline-offset-4">কোন CBLM আগে পড়ব? →</Link></p></div>
       <span className="hidden items-center gap-1.5 rounded-full border border-line bg-card px-3 py-1.5 text-xs font-semibold text-ink-2 sm:inline-flex"><span className="h-1.5 w-1.5 rounded-full bg-ok" /> নিজের গতিতে শিখুন</span>
     </header>
     <div className="grid gap-4 md:grid-cols-[1.2fr_1fr]">
@@ -59,21 +58,20 @@ export default function StudyDashboard({ concepts, courses }: { concepts: Concep
       </div>
       <details className="mt-4"><summary lang="bn" className="min-h-11 cursor-pointer content-center text-sm font-semibold text-brand">এই সেশনের গুরুত্বপূর্ণ টপিক দেখুন ({bn(priority.length)}টি)</summary><ol className="mt-2 space-y-2">{priority.map((c) => <li key={c.id}><Link href={`/cbta/concept/${c.id}`} className="flex min-h-11 items-center gap-2 rounded-lg bg-paper px-3 py-2 text-sm"><BookOpen size={14} className="shrink-0 text-brand" /><span>{c.title}</span><ChevronRight size={14} className="ml-auto shrink-0" /></Link></li>)}</ol></details>
     </section>
-    <div className="grid gap-4 md:grid-cols-[1.2fr_1fr]">
+    <div className="grid gap-4">
       <section className="study-panel"><div className="flex items-center justify-between"><div><p className="study-eyebrow">YOUR CONSISTENCY</p><h2 lang="bn" className="mt-1 text-lg font-bold">গত ৭ দিনের অনুশীলন</h2></div><span lang="bn" className="text-sm font-bold text-brand">আজ {bn(summary.todayCount)}টি</span></div>
         <div className="mt-5 grid h-28 grid-cols-7 items-end gap-3" role="img" aria-label={ready ? summary.days.map((d) => `${d.date}: ${d.count}টি উত্তর`).join("; ") : "অনুশীলনের তথ্য লোড হচ্ছে"}>{summary.days.map((day) => <div key={day.date} className="flex h-full flex-col items-center justify-end gap-1"><span className="text-[10px] tabular-nums text-ink-3">{bn(day.count)}</span><div className="flex h-16 w-full max-w-9 items-end rounded-md bg-paper"><span className="block w-full rounded-md bg-brand/75" style={{ height: `${day.count / maxActivity * 100}%` }} /></div><span className="text-[10px] text-ink-3">{ready ? bn(Number(day.date.slice(-2))) : "—"}</span></div>)}</div>
         <p lang="bn" className="mt-4 text-xs text-ink-3">তারিখ অনুযায়ী দেওয়া উত্তরের সংখ্যা। শুধু পড়া বা “revise later” এখানে গণনা হয় না।</p>
       </section>
-      <section className="study-panel"><p className="study-eyebrow">YOUR POCKET CLASSROOM</p><h2 lang="bn" className="mt-2 text-xl font-bold">পড়ার সঙ্গী, ফোনেই।</h2><p lang="bn" className="mt-2 text-sm text-ink-2">Home screen থেকে এক ট্যাপে ফিরে আসুন। নিজের অগ্রগতি এই browser-এ সংরক্ষিত থাকে।</p><div className="mt-4"><InstallApp /></div><a href="#offline-study" lang="bn" className="mt-3 inline-flex min-h-11 items-center gap-2 text-sm font-semibold text-brand"><Download size={15} /> Offline পড়ার জন্য ডাউনলোড করুন</a></section>
     </div>
     <section id="cblms" className="scroll-mt-24" aria-labelledby="cblms-title">
-      <div className="mb-4 flex items-end justify-between gap-3"><div><p className="study-eyebrow">THE WHOLE PICTURE</p><h2 id="cblms-title" lang="bn" className="mt-1 text-2xl font-extrabold">আপনার CBLM মানচিত্র</h2></div><Link href="/cbta/guide" lang="bn" className="text-sm font-semibold text-brand">পড়ার নির্দেশিকা →</Link></div>
-      <p lang="bn" className="mb-4 text-sm text-ink-2">প্রতিটি বারে অনুশীলন করা টপিকের অংশ দেখুন। একটি CBLM বেছে বিস্তারিত পড়ুন।</p>
+      <div className="mb-4 flex items-end justify-between gap-3"><div><p className="study-eyebrow">THE WHOLE PICTURE</p><h2 id="cblms-title" lang="bn" className="mt-1 text-2xl font-extrabold">আপনার CBLM মানচিত্র</h2></div><Link href="/cbta/guide" lang="bn" className="text-sm font-semibold text-brand">পরীক্ষার পড়ার ক্রম →</Link></div>
+      <p lang="bn" className="mb-4 text-sm text-ink-2">প্রতিটি কার্ডে পূর্ণ পাঠের সংখ্যা আছে। বারটি শুধু অনুশীলনযোগ্য কার্ডের অগ্রগতি দেখায়।</p>
       <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-3">{courses.map((course) => {
         const practiced = course.concepts.filter((id) => state.attempts.some((a) => a.conceptId === id && a.kind !== "revise")).length;
         const due = course.concepts.filter((id) => summary.due.includes(id)).length;
         const p = course.concepts.length ? Math.round(practiced / course.concepts.length * 100) : 0;
-        return <Link key={course.n} href={`/cbta/cblm/${course.n}`} className="rounded-2xl border border-line bg-card p-5 transition-colors hover:border-brand"><div className="flex items-center justify-between"><span className="flex h-9 w-9 items-center justify-center rounded-xl bg-brand-soft text-sm font-extrabold text-brand-ink">{String(course.n).padStart(2, "0")}</span>{due > 0 ? <span lang="bn" className="rounded-full bg-hot-soft px-2 py-1 text-xs font-bold text-hot">{bn(due)}টি রিভিশন</span> : p === 100 && practiced > 0 ? <Check size={18} className="text-ok" /> : <ChevronRight size={17} className="text-ink-3" />}</div><h3 className="mt-3 text-[15px] font-bold leading-snug">{course.title}</h3>{course.bn && <p lang="bn" className="mt-1 text-sm text-ink-2">{course.bn}</p>}<div className="mt-4 progress-track" role="progressbar" aria-label={`${course.title}: অনুশীলন করা টপিক`} aria-valuenow={p} aria-valuemin={0} aria-valuemax={100}><span style={{ width: `${p}%` }} /></div><div lang="bn" className="mt-2 flex justify-between text-xs text-ink-3"><span>{bn(course.topics)}টি শেখার টপিক</span><span>{bn(practiced)}/{bn(course.concepts.length)} অনুশীলন</span></div></Link>;
+        return <Link key={course.n} href={`/cbta/cblm/${course.n}`} className="rounded-2xl border border-line bg-card p-5 transition-colors hover:border-brand"><div className="flex items-center justify-between"><span className="flex h-9 w-9 items-center justify-center rounded-xl bg-brand-soft text-sm font-extrabold text-brand-ink">{String(course.n).padStart(2, "0")}</span>{due > 0 ? <span lang="bn" className="rounded-full bg-hot-soft px-2 py-1 text-xs font-bold text-hot">{bn(due)}টি রিভিশন</span> : p === 100 && practiced > 0 ? <Check size={18} className="text-ok" /> : <ChevronRight size={17} className="text-ink-3" />}</div><h3 className="mt-3 text-[15px] font-bold leading-snug">{course.title}</h3>{course.bn && <p lang="bn" className="mt-1 text-sm text-ink-2">{course.bn}</p>}<div className="mt-4 progress-track" role="progressbar" aria-label={`${course.title}: অনুশীলন করা টপিক`} aria-valuenow={p} aria-valuemin={0} aria-valuemax={100}><span style={{ width: `${p}%` }} /></div><div lang="bn" className="mt-2 flex flex-wrap justify-between gap-2 text-xs text-ink-3"><span>{bn(course.topics)}টি পাঠ ও জব শিট</span><span>{bn(practiced)}/{bn(course.concepts.length)} কার্ড অনুশীলন</span></div></Link>;
       })}</div>
     </section>
   </div>;

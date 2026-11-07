@@ -101,6 +101,7 @@ for (const n of [1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12]) {
     expect(await noSideScroll()).toBe(true);
 
     // Search filters the topic list as you type.
+    await page.getByText(/পূর্ণ পাঠ ও জব শিট/).click();
     const topics = page.locator("main ul a");
     const all = await topics.count();
     expect(all).toBeGreaterThan(10);
@@ -139,4 +140,43 @@ test("a list says what it is and explains every point in Bangla", async ({ page 
   const n = await points.count();
   expect(n).toBeGreaterThan(2);
   for (let i = 0; i < n; i++) await expect(points.nth(i).locator("[lang=bn]")).toHaveCount(1);
+});
+
+test("study order separates module introductions, lessons and guide help", async ({ page }) => {
+  await page.goto("/cbta");
+  await page.getByRole("link", { name: /কোন CBLM আগে পড়ব/ }).click();
+  await expect(page.getByRole("heading", { name: "প্রশ্নে বেশি দেখা CBLM" })).toBeVisible();
+  await page.getByText(/CBLM 8 ·.*অভিন্ন কার্ড/).click();
+  await page.locator("details[open]").getByText(/CBLM 9 ·.*কার্ড অভিন্ন/).click();
+  await expect(page.locator("details[open] details[open] ul a").first()).toBeVisible();
+
+  await page.getByRole("link", { name: /CBLM 1 দিয়ে শুরু/ }).click();
+  await expect(page.getByText("১ · মডিউল পরিচিতি")).toBeVisible();
+  await expect(page.getByRole("heading", { name: "আগে এই 5টি টপিক পড়ুন" })).toBeVisible();
+  await expect(page.getByPlaceholder(/Search a topic/)).toBeHidden();
+  await page.getByText(/পূর্ণ পাঠ ও জব শিট/).click();
+  await expect(page.getByPlaceholder(/Search a topic/)).toBeVisible();
+  await expect(page.getByRole("link", { name: "পড়ার গাইড ব্যবহারের সহায়তা" })).toBeVisible();
+  await expect(page.locator("main ul a[href$='/how-to-use-this-guide']")).toHaveCount(0);
+});
+
+test("all CBLM listings count the same lessons and job sheets as their module pages", async ({ page }) => {
+  await page.goto("/cbta");
+  const dashboardLabels = await page.locator('main a[href^="/cbta/cblm/"]')
+    .getByText(/^[০-৯]+টি পাঠ ও জব শিট$/).allTextContents();
+
+  await page.goto("/cbta/courses");
+  const cards = page.locator('main a[href^="/cbta/cblm/"]');
+  await expect(cards).toHaveCount(12);
+  const labels = await cards.getByText(/^[০-৯]+টি পাঠ ও জব শিট$/).allTextContents();
+  expect(dashboardLabels).toEqual(labels);
+
+  for (const [index, label] of labels.entries()) {
+    await page.goto(`/cbta/cblm/${index + 1}`);
+    const fullList = page.locator("main details").filter({ has: page.locator("summary").filter({ hasText: /পূর্ণ পাঠ ও জব শিট/ }) });
+    const count = await fullList.locator("ul li a").count();
+    expect(count).toBeGreaterThan(0);
+    expect(label).toBe(`${count.toLocaleString("bn-BD")}টি পাঠ ও জব শিট`);
+    await expect(fullList.locator("summary")).toContainText(`(${count.toLocaleString("bn-BD")}টি)`);
+  }
 });
