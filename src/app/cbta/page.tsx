@@ -13,13 +13,17 @@ export default function CbtaHome() {
   const concepts = CONCEPT_INDEX.map((c) => ({ id: c.id, title: c.title, score: c.score, cblms: c.cblms, bn: guides.flatMap((g) => g.guide?.sections.flatMap((s) => s.topics) ?? []).find((t) => t.concept === c.id)?.title_bn ?? "" }));
   const courses = CBLMS.map((c) => ({ n: c.n, title: c.title, bn: guides.find((g) => g.n === c.n)?.guide?.title_bn ?? "", concepts: c.conceptIds, topics: lessonCount(lessonGroups(c)) }));
   return <main className="mx-auto max-w-6xl space-y-7 px-4 pb-8 pt-6 sm:px-7 sm:pt-8 lg:px-9">
+    <nav aria-label="পড়ার অগ্রাধিকার" className="flex flex-wrap gap-2">
+      <Link href="/cbta/guide" className="study-secondary">Important</Link>
+      <Link href="/cbta/must-know" className="study-primary">Must Know</Link>
+    </nav>
     <StudyDashboard concepts={concepts} courses={courses} />
     <section className="study-panel"><h2 lang="bn" className="mb-3 text-xl font-bold">নির্দিষ্ট কিছু খুঁজছেন?</h2><SearchClient index={CONCEPT_INDEX} autoFocus={false} /></section>
     <Link href="/cbta/questions" className="study-panel flex items-center gap-4 hover:border-brand"><span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-brand-soft text-brand"><ClipboardCheck size={23} /></span><span className="flex-1"><span lang="bn" className="block text-lg font-bold">৪২৮টি প্রশ্ন, টপিকের পাশে</span><span lang="bn" className="mt-1 block text-sm text-ink-2">সহজ উত্তর, বাংলা নোট ও উদাহরণ দিয়ে প্রস্তুতি যাচাই করুন।</span></span><ArrowRight size={20} className="shrink-0 text-brand" /></Link>
     <section id="offline-study" className="study-panel scroll-mt-24 space-y-4">
       <h2 lang="bn" className="text-xl font-bold">অ্যাপ ব্যবহারের সহায়তা</h2>
       <InstallApp />
-      <OfflineButton version={`${CONTENT_VERSION}-design-v4`} />
+      <OfflineButton version={`${CONTENT_VERSION}-design-v5`} />
     </section>
   </main>;
 }

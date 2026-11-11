@@ -24,6 +24,7 @@
 /docs/*
 !/docs/plan/
 
+temp_auto_push.bat
 # content pipeline caches
 /content/cbta/.cache/
 /scripts/cblm/.venv/
@@ -39,7 +40,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
-.env*
 
 # vercel
 .vercel
@@ -51,3 +51,6 @@ next-env.d.ts
 # playwright
 /test-results/
 /playwright-report/
+.gitignore
+branch_structure.json
+config.bat
