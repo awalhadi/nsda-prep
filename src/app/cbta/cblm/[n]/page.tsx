@@ -99,6 +99,7 @@ export default async function CblmPage({ params }: { params: Promise<{ n: string
               );
             })}
           </ol>
+          {cblm.n !== 4 && <Link href={`/cbta/must-know#cblm-${cblm.n}`} className="mr-4 mt-2 inline-flex min-h-11 items-center text-sm font-semibold text-brand">Must Know</Link>}
           <Link href="/cbta/guide" className="mt-2 inline-flex min-h-11 items-center text-sm font-semibold text-brand">সব CBLM-এর অগ্রাধিকার ও মিল দেখুন →</Link>
         </section>
       )}
