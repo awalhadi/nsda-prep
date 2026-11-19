@@ -509,7 +509,7 @@
   "checks": [
     {
       "path": "list_answer.items[1]",
-      "note": "p.39 text extraction drops the word 'viruses' (layout text shows '2. Check computer for viruses'). Item kept as printed in the PDF; quote support is partial."
+      "note": "CBLM 6 PDF p.39, Equipment Maintenance Schedule, activity 2: the printed row reads 'Check computer for viruses' (verified in the PDF layout). The indexed page omits 'viruses', so automatic quote support remains partial."
     }
   ]
 }

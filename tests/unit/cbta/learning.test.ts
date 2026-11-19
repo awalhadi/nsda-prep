@@ -13,15 +13,16 @@ describe("Leitner boxes", () => {
     expect(review(undefined, false, today)).toEqual({ box: 1, due: "2026-11-03", last: today });
   });
   it("moves 1 → 3 days → 7 days → mastered", () => {
-    const b2 = review({ box: 1, due: today, last: today }, true, today);
+    const b2 = review({ box: 1, due: today, last: "2026-11-01" }, true, today);
     expect(b2).toEqual({ box: 2, due: "2026-11-05", last: today });
-    const b3 = review(b2!, true, today);
+    expect(review(b2!, true, today)).toEqual(b2);
+    const b3 = review(b2!, true, b2!.due);
     expect(b3?.box).toBe(3);
-    expect(b3?.due).toBe("2026-11-09");
-    expect(review(b3!, true, today)).toBeNull();
+    expect(b3?.due).toBe("2026-11-12");
+    expect(review(b3!, true, b3!.due)).toBeNull();
   });
-  it("does not add a concept answered right first time", () => {
-    expect(review(undefined, true, today)).toBeNull();
+  it("schedules a first correct answer for delayed recall", () => {
+    expect(review(undefined, true, today)?.due).toBe("2026-11-03");
   });
   it("uses local calendar days across month ends", () => {
     expect(addDays("2026-11-30", 1)).toBe("2026-12-01");
@@ -66,6 +67,15 @@ describe("mock paper builder", () => {
 });
 
 describe("progress store migration", () => {
+  it("schedules previously correct topics and reopens mastered topics with pending revision", () => {
+    const state = migrateCbta({
+      attempts: [{ conceptId: "old", correct: true, kind: "short", at: new Date(2026, 10, 2, 12).toISOString() }],
+      mastered: { missed: "2026-10-31", retained: "2026-10-31" },
+      leitner: { missed: { box: 1, last: "2026-11-02", due: "2026-11-03" } },
+    });
+    expect(state.leitner.old.due).toBe("2026-11-03");
+    expect(state.mastered).toEqual({ retained: "2026-10-31" });
+  });
   it("repairs malformed data instead of throwing", () => {
     const s = migrateCbta({ attempts: [{ conceptId: "x", correct: true, at: "t" }, { bad: 1 }], leitner: { a: { box: 9, due: "x" }, b: { box: 2, due: "2026-11-05", last: "x" } }, read: { a: "d", b: 3 } });
     expect(s.attempts).toHaveLength(1);

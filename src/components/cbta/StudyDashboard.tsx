@@ -6,13 +6,18 @@ import { ArrowRight, BookOpen, Check, Clock3, Target, RotateCcw, ClipboardCheck,
 import { emptyCbta, getCbta, type CbtaState } from "@/lib/cbta/progress";
 import { studySummary } from "@/lib/cbta/study-dashboard";
 
-type Concept = { id: string; title: string; score: number; cblms: number[]; bn: string };
+import StudySession, { type SessionTopic } from "./StudySession";
+import { foundation, type StudyPath } from "@/lib/cbta/foundation";
+
+type Concept = SessionTopic & { required: boolean; id: string; title: string; score: number; cblms: number[]; bn: string };
 type Course = { n: number; title: string; bn: string; concepts: string[]; topics: number };
 const bn = (n: number) => n.toLocaleString("bn-BD");
 
 export default function StudyDashboard({ concepts, courses }: { concepts: Concept[]; courses: Course[] }) {
   const [state, setState] = useState<CbtaState>(emptyCbta);
   const [ready, setReady] = useState(false);
+  const [path, setPath] = useState<StudyPath>("foundation");
+  const [session, setSession] = useState<{ topics: Concept[]; due: string[] } | null>(null);
   const [budget, setBudget] = useState(20);
   const [asOf, setAsOf] = useState(() => new Date(2000, 0, 7, 12));
   useEffect(() => {
@@ -22,9 +27,23 @@ export default function StudyDashboard({ concepts, courses }: { concepts: Concep
     return () => { window.removeEventListener("cbta-progress", load); window.removeEventListener("storage", load); };
   }, []);
   const summary = studySummary(state, concepts, asOf);
-  const next = concepts.find((c) => c.id === summary.next);
+  const latest = new Map(state.attempts.filter((a) => a.kind !== "revise").map((a) => [a.conceptId, a.correct]));
+  const ranked = [...concepts].sort((a, b) => b.score - a.score || a.id.localeCompare(b.id));
+  const fresh = ranked.filter((c) => !latest.has(c.id) && !state.leitner[c.id] && !state.mastered[c.id]);
+  const foundations = foundation.map((f) => fresh.find((c) => c.id === f.id)).filter((c): c is Concept => !!c);
+  const weak = ranked.filter((c) => latest.get(c.id) === false);
+  const due = summary.due.flatMap((id) => concepts.find((c) => c.id === id) ?? []);
+  const ordered = [...due, ...(path === "weak" ? weak : []), ...(path === "foundation" ? foundations : []), ...(path === "exam" ? fresh.filter((topic) => topic.required) : []), ...fresh];
+  const priority = Array.from(new Map(ordered.map((c) => [c.id, c])).values()).slice(0, budget / 5);
+  const next = priority[0];
   const percent = summary.total ? Math.round(summary.practiced / summary.total * 100) : 0;
-  const priority = [...concepts].sort((a, b) => b.score - a.score || a.id.localeCompare(b.id)).slice(0, budget === 10 ? 2 : budget === 20 ? 4 : 6);
+  if (session) return <StudySession topics={session.topics} due={session.due} path={path} onClose={() => setSession(null)} />;
+  function start() {
+    if (priority.length) {
+      setSession({ topics: priority, due: summary.due });
+      window.scrollTo(0, 0);
+    }
+  }
   const maxActivity = Math.max(1, ...summary.days.map((d) => d.count));
   return <div className="space-y-7">
     <header className="flex flex-wrap items-start justify-between gap-3">
@@ -32,7 +51,7 @@ export default function StudyDashboard({ concepts, courses }: { concepts: Concep
       <span className="hidden items-center gap-1.5 rounded-full border border-line bg-card px-3 py-1.5 text-xs font-semibold text-ink-2 sm:inline-flex"><span className="h-1.5 w-1.5 rounded-full bg-ok" /> নিজের গতিতে শিখুন</span>
     </header>
     <div className="grid gap-4 md:grid-cols-[1.2fr_1fr]">
-      <section className="study-panel relative overflow-hidden" aria-labelledby="progress-title">
+      <section className="study-panel relative order-2 overflow-hidden md:order-1" aria-labelledby="progress-title">
         <div className="flex items-center justify-between"><p className="study-eyebrow">LEARNING PROGRESS</p><TrendingUp size={18} className="text-brand" /></div>
         <div className="mt-4 flex items-center gap-5 sm:gap-7">
           <div className="relative flex h-28 w-28 shrink-0 items-center justify-center sm:h-32 sm:w-32">
@@ -45,16 +64,23 @@ export default function StudyDashboard({ concepts, courses }: { concepts: Concep
           {[{ n: bn(summary.read), label: "খুলে পড়েছেন" }, { n: bn(summary.mastered), label: "রিভিশনে আয়ত্ত" }, { n: summary.accuracy === null ? "—" : `${bn(summary.accuracy)}%`, label: "উত্তর সঠিক" }].map((item) => <div key={item.label} className="text-center"><strong className="text-xl font-bold tabular-nums">{ready ? item.n : "—"}</strong><p lang="bn" className="mt-1 text-xs text-ink-3">{item.label}</p></div>)}
         </div>
       </section>
-      <section className="study-panel flex flex-col justify-between border-brand/25 bg-brand-soft" aria-labelledby="next-title">
+      <section className="study-panel order-1 flex flex-col justify-between md:order-2 border-brand/25 bg-brand-soft" aria-labelledby="next-title">
         <div><div className="flex items-center gap-2 text-brand-ink"><Target size={18} /><span lang="bn" className="text-sm font-bold">এখন আপনার পরের কাজ</span></div><h2 id="next-title" lang="bn" className="mt-4 text-2xl font-extrabold">{summary.due.length ? `${bn(summary.due.length)}টি টপিক মনে করে দেখুন` : "একটি টপিক বুঝে শিখুন"}</h2><p className="mt-2 font-semibold text-brand-ink">{next?.bn || next?.title || "CBLM থেকে শুরু করুন"}</p><p lang="bn" className="mt-2 hidden text-sm text-ink-2 sm:block">{summary.due.length ? "আগের ভুল ঠিক করলে নতুন পড়াও মনে রাখা সহজ হবে।" : "বাংলায় বুঝুন → উদাহরণ দেখুন → না দেখে উত্তর বলুন।"}</p></div>
-        <Link href={summary.due.length ? "/cbta/revise" : next ? `/cbta/concept/${next.id}` : "#cblms"} className="study-primary mt-6 w-full"><span lang="bn">{summary.due.length ? "রিভিশন শুরু করি" : "পড়া শুরু করি"}</span><ArrowRight size={18} /></Link>
+        <label className="mt-3 text-sm">আমার প্রস্তুতি
+          <select className="mt-1 block w-full rounded-xl bg-card p-2" value={path} onChange={(e) => setPath(e.target.value as StudyPath)}>
+            <option value="foundation">আমি নতুন · ভিত্তি থেকে শিখব</option>
+            <option value="weak">আগে পড়েছি · দুর্বল বিষয় যাচাই করব</option>
+            <option value="exam">সময় কম · গুরুত্বপূর্ণ প্রশ্ন পড়ব</option>
+          </select>
+        </label>
+        <button disabled={!ready || !next} onClick={start} className="study-primary mt-3 w-full">{next ? "পড়া শুরু করি" : "পরবর্তী রিভিশনের অপেক্ষায়"} <ArrowRight size={18} /></button>
       </section>
     </div>
     <section className="study-panel" aria-labelledby="plan-title">
       <div className="flex flex-wrap items-center justify-between gap-3"><div><p className="study-eyebrow">A LITTLE EVERY DAY</p><h2 id="plan-title" lang="bn" className="mt-1 text-xl font-bold">আজ কতটুকু সময় আছে?</h2></div><div className="flex rounded-xl bg-paper p-1" role="group" aria-label="পড়ার সময় নির্বাচন">{[10, 20, 30].map((n) => <button key={n} type="button" aria-pressed={budget === n} onClick={() => setBudget(n)} className={`min-h-11 rounded-lg px-4 text-sm font-bold ${budget === n ? "bg-brand text-white" : "text-ink-2"}`}><span lang="bn">{bn(n)} মিনিট</span></button>)}</div></div>
       <p lang="bn" className="mt-2 text-sm text-ink-3">সময় আনুমানিক। বুঝতে বেশি সময় লাগলে ধীরে পড়ুন।</p>
       <div className="mt-5 grid gap-3 sm:grid-cols-3">
-        {[{ icon: RotateCcw, label: "আগের পড়া মনে করি", detail: summary.due.length ? `${bn(summary.due.length)}টি টপিক রিভিশনের সময় হয়েছে` : "রিভিশন তালিকা দেখে নিন", href: "/cbta/revise", time: budget === 10 ? 2 : budget === 20 ? 4 : 5 }, { icon: BookOpen, label: "জরুরি টপিক বুঝি", detail: `Evidence score অনুযায়ী ${bn(priority.length)}টি টপিক`, href: priority[0] ? `/cbta/concept/${priority[0].id}` : "#cblms", time: budget === 10 ? 5 : budget === 20 ? 10 : 15 }, { icon: ClipboardCheck, label: "নিজেকে যাচাই করি", detail: "প্রশ্ন পড়ি, উত্তর না দেখে বলি", href: "/cbta/questions", time: budget === 10 ? 3 : budget === 20 ? 6 : 10 }].map((task, i) => <Link key={task.label} href={task.href} className="group rounded-2xl border border-line p-4 hover:border-brand"><div className="flex items-center justify-between"><task.icon size={20} className="text-brand" /><span className="text-xs font-semibold text-ink-3">0{i + 1}</span></div><h3 lang="bn" className="mt-4 font-bold">{task.label}</h3><p lang="bn" className="mt-1 text-sm text-ink-2">{task.detail}</p><span lang="bn" className="mt-4 flex items-center gap-1 text-xs font-semibold text-brand"><Clock3 size={13} /> {bn(task.time)} মিনিট <ChevronRight size={14} className="ml-auto" /></span></Link>)}
+        {[{ icon: RotateCcw, label: "আগের পড়া মনে করি", detail: summary.due.length ? `${bn(summary.due.length)}টি টপিক রিভিশনের সময় হয়েছে` : "রিভিশন তালিকা দেখে নিন", href: "/cbta/revise", time: budget === 10 ? 2 : budget === 20 ? 4 : 5 }, { icon: BookOpen, label: "জরুরি টপিক বুঝি", detail: `আপনার পথ অনুযায়ী ${bn(priority.length)}টি টপিক`, href: priority[0] ? `/cbta/concept/${priority[0].id}` : "#cblms", time: budget === 10 ? 5 : budget === 20 ? 10 : 15 }, { icon: ClipboardCheck, label: "নিজেকে যাচাই করি", detail: "প্রশ্ন পড়ি, উত্তর না দেখে বলি", href: "/cbta/questions", time: budget === 10 ? 3 : budget === 20 ? 6 : 10 }].map((task, i) => <Link key={task.label} href={task.href} className="group rounded-2xl border border-line p-4 hover:border-brand"><div className="flex items-center justify-between"><task.icon size={20} className="text-brand" /><span className="text-xs font-semibold text-ink-3">0{i + 1}</span></div><h3 lang="bn" className="mt-4 font-bold">{task.label}</h3><p lang="bn" className="mt-1 text-sm text-ink-2">{task.detail}</p><span lang="bn" className="mt-4 flex items-center gap-1 text-xs font-semibold text-brand"><Clock3 size={13} /> {bn(task.time)} মিনিট <ChevronRight size={14} className="ml-auto" /></span></Link>)}
       </div>
       <details className="mt-4"><summary lang="bn" className="min-h-11 cursor-pointer content-center text-sm font-semibold text-brand">এই সেশনের গুরুত্বপূর্ণ টপিক দেখুন ({bn(priority.length)}টি)</summary><ol className="mt-2 space-y-2">{priority.map((c) => <li key={c.id}><Link href={`/cbta/concept/${c.id}`} className="flex min-h-11 items-center gap-2 rounded-lg bg-paper px-3 py-2 text-sm"><BookOpen size={14} className="shrink-0 text-brand" /><span>{c.title}</span><ChevronRight size={14} className="ml-auto shrink-0" /></Link></li>)}</ol></details>
     </section>

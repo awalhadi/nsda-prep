@@ -21,6 +21,7 @@ export interface GenClaim {
 }
 
 export interface GenRealQuestion {
+  paperClass?: "official" | "formative" | "unit" | null;
   id: string;
   kind: "selfcheck" | "paper";
   label: string;

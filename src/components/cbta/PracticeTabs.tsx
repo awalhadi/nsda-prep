@@ -80,12 +80,12 @@ function Short({ short, conceptId }: { short: GenConcept["practice"]["short"]; c
         <div className="mt-4 space-y-4">
           <div className="whitespace-pre-line rounded-xl border-l-4 border-brand bg-brand-soft p-4 text-[16px] leading-relaxed">{short.modelAnswer}</div>
           <div>
-            <p className="mb-2 text-[14px] font-bold text-ink-2">Tick the key points you wrote:</p>
+            <p className="mb-2 text-[14px] font-bold text-ink-2">নিজে মিলিয়ে দেখুন। আপনার উত্তরে কোন মূল কথাগুলো ছিল?</p>
             <ul className="space-y-2">
               {short.keyPoints.map((k, i) => (
                 <li key={i}>
                   <label className="flex min-h-11 cursor-pointer items-start gap-3 rounded-xl border border-line bg-card px-3 py-2.5 text-[15px] has-[:checked]:border-ok/50 has-[:checked]:bg-ok-soft">
-                    <input type="checkbox" className="mt-1 h-4 w-4 accent-[#12805c]" checked={ticked.has(i)}
+                    <input type="checkbox" disabled={saved} className="mt-1 h-4 w-4 accent-[#12805c]" checked={ticked.has(i)}
                       onChange={() => setTicked((s) => { const n = new Set(s); if (n.has(i)) n.delete(i); else n.add(i); return n; })} />
                     {k.text}
                   </label>
@@ -94,13 +94,13 @@ function Short({ short, conceptId }: { short: GenConcept["practice"]["short"]; c
             </ul>
             <p className="mt-2 text-[14px] font-semibold text-ink-2">{ticked.size} of {short.keyPoints.length} key points</p>
             {!saved ? (
-              <button type="button" onClick={() => { setSaved(true); recordPractice(conceptId, "short", ticked.size / short.keyPoints.length >= 0.6); }}
+              <button type="button" onClick={() => { setSaved(true); recordPractice(conceptId, "short", ticked.size === short.keyPoints.length); }}
                 className="cbta-btn mt-3 inline-flex min-h-11 items-center rounded-xl border-2 border-line border-b-line-strong bg-card px-4 text-[14px] font-bold hover:bg-paper">
                 Save my result
               </button>
             ) : (
               <p role="status" className="mt-3 text-[14px] font-semibold text-ok">
-                {ticked.size / short.keyPoints.length >= 0.6 ? "Saved. Good answer!" : "Saved. This topic will come back for revision tomorrow."}
+                {ticked.size === short.keyPoints.length ? "নিজের যাচাই অনুযায়ী সব মূল কথা বলেছেন।" : "Saved. This topic will come back for revision tomorrow."}
               </p>
             )}
           </div>

@@ -14,7 +14,7 @@ It contains **every question from your five source files** (120 short Q&A, HTML5
 - **Installable PWA**: use the app install button where supported, or Safari → Share → Add to Home Screen. Requires HTTPS or localhost. Manifest includes standalone mode, maskable icons and study shortcuts.
 - **Offline download**: use the CBT&A dashboard download button and wait for its success status. It saves study pages for both courses, static assets and bundled Bengali fonts. Custom Web Design quiz configurations are cached separately when visited; an uncached custom configuration needs a connection.
 - Progress lives in the browser's `localStorage`; it is not synced between devices. Clearing browser data also clears progress.
-- The learner-supplied short-question collection has 428 source questions, 395 topic links, and 56 independently simplified answers with Bangla explanations and examples. Other linked questions use existing topic study notes. The collection is not treated as verified official exam-frequency evidence.
+- The learner-supplied short-question collection has 428 source questions, 395 topic links, and 64 independently simplified answers with Bangla explanations and examples. Other linked questions use existing topic study notes. The collection is not treated as verified official exam-frequency evidence.
 
 ## Running it
 

@@ -15,7 +15,7 @@ test("question collection supports Bangla search, source answers and filters", a
   await expect(page.getByText("কোনো প্রশ্ন মেলেনি। অন্য শব্দ লিখুন বা filter বদলান।")).toBeVisible();
   await page.getByRole("searchbox").fill("");
   await page.getByLabel("কোন প্রশ্ন দেখব?").selectOption("simple");
-  await expect(page.getByRole("status")).toContainText("56টি প্রশ্ন");
+  await expect(page.getByRole("status")).toContainText("64টি প্রশ্ন");
   await page.getByRole("button", { name: "আরও ২০টি প্রশ্ন দেখুন" }).click();
   await expect(page.getByRole("article")).toHaveCount(40);
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
@@ -31,4 +31,17 @@ test("topic has related PDF questions and an independent recall exercise", async
   await expect(page.getByText(/নম্বর দেওয়া হচ্ছে না/)).not.toBeVisible();
   await page.getByText("1. 4 (four) key components of an effective session review?", { exact: true }).click();
   await expect(page.getByText("সেলাই ক্লাস শেষে শিক্ষার্থীকে ধাপ বলতে, একটি সেলাই করতে এবং ভুল ঠিক করতে বলুন।", { exact: false })).toBeVisible();
+});
+
+test("a marked question survives reload and leaves mistakes after correction", async ({ page }) => {
+  await page.goto("/cbta/questions");
+  const first = page.getByRole("article").first();
+  await first.getByText("আগে নিজে বলুন, তারপর উত্তর দেখুন").click();
+  await first.getByRole("button", { name: "আবার পড়ব" }).click();
+  await page.reload();
+  await page.getByLabel("কোন প্রশ্ন দেখব?").selectOption("mistakes");
+  await expect(page.getByRole("article")).toHaveCount(1);
+  await first.getByText("আগে নিজে বলুন, তারপর উত্তর দেখুন").click();
+  await first.getByRole("button", { name: "বলতে পেরেছি" }).click();
+  await expect(page.getByRole("article")).toHaveCount(0);
 });

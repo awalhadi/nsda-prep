@@ -9,6 +9,7 @@ import { isDue, localDay, review, type LeitnerEntry } from "./leitner";
 export type PracticeKind = "mcq" | "short" | "matching" | "viva" | "mock" | "revise";
 
 export interface CbtaAttempt {
+  questionId?: number;
   conceptId: string;
   kind: PracticeKind;
   correct: boolean;
@@ -52,6 +53,16 @@ export function migrateCbta(raw: unknown): CbtaState {
   for (const key of ["read", "mastered"] as const) if (isObj(raw[key]))
     for (const [k, v] of Object.entries(raw[key] as object)) if (typeof v === "string") out[key][k] = v;
   if (Array.isArray(raw.mocks)) out.mocks = raw.mocks.filter((m): m is MockResult => isObj(m) && typeof m.at === "string").slice(-MAX_MOCKS);
+  // Old sessions recorded first-time correct answers without a recall date.
+  for (let i = out.attempts.length - 1; i >= 0; i--) {
+    const attempt = out.attempts[i];
+    if (out.leitner[attempt.conceptId] || out.mastered[attempt.conceptId]) continue;
+    const date = new Date(attempt.at);
+    if (!Number.isFinite(date.getTime())) continue;
+    const entry = review(undefined, attempt.correct, localDay(date));
+    if (entry) out.leitner[attempt.conceptId] = entry;
+  }
+  for (const id of Object.keys(out.leitner)) delete out.mastered[id];
   return out;
 }
 
@@ -72,17 +83,18 @@ export function updateCbta(fn: (s: CbtaState) => CbtaState): CbtaState {
 }
 
 /** Record one practice answer and move the concept through the Leitner boxes. */
-export function recordPractice(conceptId: string, kind: PracticeKind, correct: boolean, now = new Date()): CbtaState {
+export function recordPractice(conceptId: string, kind: PracticeKind, correct: boolean, now = new Date(), questionId?: number): CbtaState {
   const today = localDay(now);
   return updateCbta((s) => {
     const next = review(s.leitner[conceptId], correct, today);
     const leitner = { ...s.leitner };
     const mastered = { ...s.mastered };
-    if (next) leitner[conceptId] = next;
+    if (!correct) delete mastered[conceptId];
+    if (next && !mastered[conceptId]) leitner[conceptId] = next;
     else if (s.leitner[conceptId]) { delete leitner[conceptId]; mastered[conceptId] = today; }
     return {
       ...s, leitner, mastered,
-      attempts: [...s.attempts, { conceptId, kind, correct, at: now.toISOString() }].slice(-MAX_ATTEMPTS),
+      attempts: [...s.attempts, { conceptId, kind, correct, ...(questionId !== undefined ? { questionId } : {}), at: now.toISOString() }].slice(-MAX_ATTEMPTS),
     };
   });
 }

@@ -19,6 +19,7 @@ export default function GuidePage() {
         <p className="mt-2 text-ink-2">প্রশ্নের প্রমাণ আর একাধিক মডিউলে কাজে লাগে এমন টপিক দেখে পড়ার ক্রম বেছে নিন।</p>
       </header>
 
+    <Link href="/cbta/formative" className="study-secondary">Formative প্রশ্ন, সহজ উত্তর ও টপিকের গুরুত্ব →</Link>
       <section className="study-panel border-brand/25">
         <div className="flex items-center gap-2 text-brand-ink"><BookOpen size={20} aria-hidden /><h2 className="text-xl font-bold">সময় কম? এখান থেকে শুরু করুন</h2></div>
         <p className="mt-2 text-ink-2">প্রশ্নের নমুনা ধরে শুরু করতে CBLM {first.n} পড়ুন। মূল্যায়নের ধারাবাহিকতা শিখতে ১১-তে পরিকল্পনা বুঝুন, তারপর ১২-তে মূল্যায়ন নেওয়া শিখুন। এই দুই মডিউলের {assessmentPlan.total}টি আলাদা কার্ডের মধ্যে {assessmentPlan.outside}টি অন্য CBLM-এও তালিকাভুক্ত।</p>

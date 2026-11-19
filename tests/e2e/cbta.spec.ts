@@ -4,7 +4,7 @@ test("practice: a wrong MCQ answer puts the topic into revision, due the next da
   await page.clock.setFixedTime(new Date(2026, 10, 2, 10, 0));
   await page.goto("/cbta/concept/hierarchy-of-controls");
   await expect(page.getByRole("heading", { level: 1, name: "Hierarchy of Controls" })).toBeVisible();
-  await expect(page.getByText("Write this in the exam")).toBeVisible();
+  await expect(page.getByText("Sample answer")).toBeVisible();
 
   await page.getByText("Test yourself").click();
   await page.getByRole("button", { name: /Personal Protective Equipment \(PPE\)/ }).click();
@@ -115,7 +115,7 @@ for (const n of [1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12]) {
 
     // Open the first card topic, then move on with "Next topic".
     await page.locator("main ul a[href^='/cbta/concept/']").first().click();
-    await expect(page.getByText("Write this in the exam")).toBeVisible();
+    await expect(page.getByText("Sample answer")).toBeVisible();
     await expect(page.getByText(/Topic \d+ of \d+/)).toBeVisible();
     expect(await noSideScroll()).toBe(true);
     const title = await page.getByRole("heading", { level: 1 }).textContent();

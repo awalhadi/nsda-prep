@@ -72,10 +72,15 @@ export default function ConceptCard({ c, place }: { c: GenConcept; place?: { ind
         </p>
       </section>
 
+      <Box Icon={Factory} title="Example" titleBn="উদাহরণ">
+        <p>{c.example.en}</p>
+        {c.example.bn && <p lang="bn" className="mt-2 text-[15.5px] text-ink-2">{c.example.bn}</p>}
+      </Box>
+
       {/* What to write */}
       <section className="rounded-2xl border-2 border-brand/30 bg-brand-soft p-5 sm:p-6">
         <h2 className="mb-2 flex flex-wrap items-center gap-2 text-[13px] font-bold uppercase tracking-[0.08em] text-brand-ink">
-          <PenLine size={17} aria-hidden /> Write this in the exam <span lang="bn" className="normal-case tracking-normal opacity-80">· পরীক্ষায় লিখুন</span>
+          <PenLine size={17} aria-hidden /> Sample answer <span lang="bn" className="normal-case tracking-normal opacity-80">· নমুনা উত্তর</span>
         </h2>
         <p className="text-[20px] font-bold leading-snug sm:text-[23px]">{c.oneLineAnswer.text}</p>
       </section>
@@ -127,16 +132,14 @@ export default function ConceptCard({ c, place }: { c: GenConcept; place?: { ind
         </Box>
       )}
 
-      <Box Icon={Factory} title="Example" titleBn="উদাহরণ">
-        <p>{c.example.en}</p>
-        {c.example.bn && <p lang="bn" className="mt-2 text-[15.5px] text-ink-2">{c.example.bn}</p>}
-      </Box>
 
+
+      <RecallPractice key={c.id} id={c.id} prompt={c.practice.short.prompt} answer={c.practice.short.modelAnswer} />
       {c.extra.length > 0 && (
-        <section className="space-y-5 rounded-2xl border border-line bg-card p-5 sm:p-6">
-          <h2 className="text-[13px] font-bold uppercase tracking-[0.08em] text-ink-3">More from the CBLM <span lang="bn" className="normal-case tracking-normal">· আরও বিস্তারিত</span></h2>
+        <details className="space-y-5 rounded-2xl border border-line bg-card p-5 sm:p-6">
+          <summary className="cursor-pointer text-[13px] font-bold uppercase tracking-[0.08em] text-ink-3">More from the CBLM <span lang="bn" className="normal-case tracking-normal">· আরও বিস্তারিত</span></summary>
           {c.extra.map((b, i) => <GuideBlockView key={i} b={b} />)}
-        </section>
+        </details>
       )}
 
       {/* Cautions */}
@@ -155,7 +158,7 @@ export default function ConceptCard({ c, place }: { c: GenConcept; place?: { ind
         </ul>
       </section>
 
-      <RecallPractice key={c.id} id={c.id} prompt={c.practice.short.prompt} answer={c.practice.short.modelAnswer} />
+
       <TopicShortQuestions conceptId={c.id} />
 
       {/* Test yourself: closed until the learner asks for it */}
@@ -168,10 +171,11 @@ export default function ConceptCard({ c, place }: { c: GenConcept; place?: { ind
           <PracticeTabs practice={c.practice} conceptId={c.id} />
           {c.realQuestions.length > 0 && (
             <details className="mt-5 rounded-xl border border-line">
-              <summary className="flex min-h-11 cursor-pointer list-none items-center px-4 text-[14px] font-bold">Asked before in exams ({c.realQuestions.length})</summary>
+              <summary className="flex min-h-11 cursor-pointer list-none items-center px-4 text-[14px] font-bold">উৎসভিত্তিক প্রশ্ন ({c.realQuestions.length})</summary>
               <ul className="divide-y divide-line border-t border-line">
                 {c.realQuestions.map((q) => (
                   <li key={q.id} className="px-4 py-3">
+                    <small>{q.kind === "selfcheck" ? "CBLM self-check" : ({ official: "সংরক্ষিত পরীক্ষার প্রশ্ন", formative: "Formative assessment", unit: "Unit প্রশ্নসেট" }[q.paperClass ?? "unit"])} · {q.label}</small>
                     <p className="font-semibold">{q.question}</p>
                     {q.options && (
                       <ol className="mt-1 list-[upper-alpha] pl-6 text-[15px] text-ink-2">

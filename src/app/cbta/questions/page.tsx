@@ -22,6 +22,7 @@ export default function ShortQuestionsPage() {
       <h1 lang="bn" className="mt-2 text-3xl font-extrabold">বুঝে পড়ি, মনে রাখি</h1>
       <p lang="bn" className="mt-3 text-lg text-ink-2">একই বিষয়ের প্রশ্ন টপিকের সঙ্গে পড়ুন। বাংলা দিয়ে বুঝুন, প্রয়োজনীয় English শব্দ শিখুন, তারপর না দেখে বলুন।</p>
     </header>
+    <Link href="/cbta/formative" className="study-secondary">Formative প্রশ্ন, সহজ উত্তর ও টপিকের গুরুত্ব →</Link>
     <section className="rounded-2xl border border-sand-line bg-sand p-5">
       <h2 lang="bn" className="font-bold">এই সংগ্রহে কী আছে?</h2>
       <p lang="bn" className="mt-2 leading-relaxed">আপনার PDF-এর {SHORT_QUESTIONS.length}টি প্রশ্ন ও মূল উত্তর। {linked}টি প্রশ্ন সংশ্লিষ্ট টপিকের সঙ্গে যুক্ত; {simplified}টিতে আলাদা করে সহজ উত্তর ও উদাহরণ লেখা হয়েছে। বাকি যুক্ত প্রশ্নগুলোতে টপিকের বাংলা নোট পাবেন।</p>

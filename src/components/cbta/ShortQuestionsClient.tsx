@@ -1,9 +1,11 @@
 "use client";
 
 import Link from "next/link";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import type { ShortQuestion } from "@/lib/cbta/short-questions";
 import { norm } from "@/lib/cbta/norm";
+import { getCbta, recordPractice } from "@/lib/cbta/progress";
+import { foundation } from "@/lib/cbta/foundation";
 import ShortQuestionAnswer from "./ShortQuestionAnswer";
 
 type TopicHelp = { title: string; cblm: number; bn: string[]; keywords: { en: string; bn: string }[]; example: string; memory: string | null };
@@ -14,17 +16,34 @@ export default function ShortQuestionsClient({ questions, topics, cblms }: {
   const [cblm, setCblm] = useState("all");
   const [mode, setMode] = useState("all");
   const [limit, setLimit] = useState(20);
+  const [results, setResults] = useState<Map<number, boolean>>(new Map());
+  useEffect(() => {
+    const load = () => {
+      const latest = new Map<number, boolean>();
+      for (const a of getCbta().attempts) if (a.questionId !== undefined) latest.set(a.questionId, a.correct);
+      setResults(latest);
+    };
+    load();
+    window.addEventListener("cbta-progress", load);
+    window.addEventListener("storage", load);
+    return () => {
+      window.removeEventListener("cbta-progress", load);
+      window.removeEventListener("storage", load);
+    };
+  }, []);
   const filtered = useMemo(() => {
     const terms = norm(query).split(" ").filter(Boolean);
     return questions.filter((q) => {
       const t = q.conceptId ? topics[q.conceptId] : null;
       if (cblm === "other" ? t : cblm !== "all" && t?.cblm !== Number(cblm)) return false;
+      if (mode === "mistakes" && results.get(q.id) !== false) return false;
+      if (mode === "foundation" && !foundation.some((f) => f.id === q.conceptId)) return false;
       if (mode === "simple" && !q.study) return false;
       if (mode === "review" && !q.reviewNote) return false;
       const text = norm([String(q.id), q.question, q.study?.bn ?? "", t?.title ?? "", ...(t?.bn ?? []), ...(t?.keywords.flatMap((k) => [k.en, k.bn]) ?? [])].join(" "));
       return terms.every((term) => text.includes(term));
     });
-  }, [questions, topics, query, cblm, mode]);
+  }, [questions, topics, query, cblm, mode, results]);
   function reset() { setLimit(20); }
   return (
     <section className="space-y-4">
@@ -42,6 +61,8 @@ export default function ShortQuestionsClient({ questions, topics, cblms }: {
           <label lang="bn" className="text-sm font-semibold">কোন প্রশ্ন দেখব?
             <select value={mode} onChange={(e) => { setMode(e.target.value); reset(); }} className="mt-1 min-h-12 w-full rounded-xl border border-line bg-paper px-2 text-base">
               <option value="all">সব প্রশ্ন</option>
+              <option value="mistakes">আমার ভুল প্রশ্ন</option>
+              <option value="foundation">ভিত্তির ছয় পাঠের প্রশ্ন</option>
               <option value="simple">আলাদা সহজ উত্তর ও উদাহরণসহ</option>
               <option value="review">সংশোধন / যাচাইয়ের নোট আছে</option>
             </select>
@@ -60,6 +81,14 @@ export default function ShortQuestionsClient({ questions, topics, cblms }: {
             <summary lang="bn" className="min-h-12 cursor-pointer content-center font-bold">আগে নিজে বলুন, তারপর উত্তর দেখুন</summary>
             <div className="mt-3 space-y-4">
               <ShortQuestionAnswer q={q} />
+              {q.conceptId && <div className="flex flex-wrap items-center gap-2">
+                <span>নিজের উত্তর মিলিয়ে রাখুন</span>
+                {[true, false].map((correct) => <button key={String(correct)} className="study-secondary"
+                  aria-pressed={results.get(q.id) === correct}
+                  onClick={() => recordPractice(q.conceptId!, "short", correct, new Date(), q.id)}>
+                  {correct ? "বলতে পেরেছি" : "আবার পড়ব"}{results.get(q.id) === correct ? " ✓" : ""}
+                </button>)}
+              </div>}
               {t && !q.study && <div className="rounded-xl border border-sand-line bg-sand p-4">
                 <h3 lang="bn" className="font-bold">টপিকের সহজ নোট</h3>
                 <p lang="bn" className="mt-1 text-sm text-ink-2">এই নোট বিষয়টি বুঝতে সাহায্য করবে। প্রশ্নে চাওয়া নির্দিষ্ট সংখ্যা বা ধাপের জন্য মূল উত্তরও মিলিয়ে পড়ুন।</p>

@@ -27,8 +27,8 @@ export function addDays(day: string, n: number): string {
  * Returns `null` when the concept is mastered (leaves revision).
  */
 export function review(entry: LeitnerEntry | undefined, correct: boolean, today: string): LeitnerEntry | null {
-  if (!correct) return { box: 1, due: addDays(today, INTERVAL_DAYS[1]), last: today };
-  if (!entry) return null; // right first time: nothing to revise
+  if (!correct || !entry) return { box: 1, due: addDays(today, INTERVAL_DAYS[1]), last: today };
+  if (!isDue(entry, today) || entry.last === today) return entry;
   if (entry.box === 3) return null;
   const box = (entry.box + 1) as Box;
   return { box, due: addDays(today, INTERVAL_DAYS[box]), last: today };
