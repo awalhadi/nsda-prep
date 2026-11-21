@@ -33,7 +33,7 @@ export default function CbtaHome() {
       <Link href="/cbta/must-know" className="study-primary">Must Know · আবশ্যিক কাজ</Link>
     </nav>
     <StudyDashboard concepts={concepts} courses={courses} />
-    <section className="study-panel"><h2 lang="bn" className="mb-3 text-xl font-bold">নির্দিষ্ট কিছু খুঁজছেন?</h2><SearchClient index={CONCEPT_INDEX} autoFocus={false} /></section>
+    <section className="study-panel"><h2 lang="bn" className="mb-3 text-xl font-bold">নির্দিষ্ট কিছু খুঁজছেন?</h2><SearchClient index={CONCEPT_INDEX} /></section>
     <Link href="/cbta/questions" className="study-panel flex items-center gap-4 hover:border-brand"><span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-brand-soft text-brand"><ClipboardCheck size={23} /></span><span className="flex-1"><span lang="bn" className="block text-lg font-bold">৪২৮টি প্রশ্ন, টপিকের পাশে</span><span lang="bn" className="mt-1 block text-sm text-ink-2">সহজ উত্তর, বাংলা নোট ও উদাহরণ দিয়ে প্রস্তুতি যাচাই করুন।</span></span><ArrowRight size={20} className="shrink-0 text-brand" /></Link>
     <ProgressBackup />
     <section id="offline-study" className="study-panel scroll-mt-24 space-y-4">

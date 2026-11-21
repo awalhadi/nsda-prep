@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import AppShell from "@/components/app/AppShell";
+import { THEME_COLOR } from "@/lib/theme";
 
 export const metadata: Metadata = {
   title: { default: "প্রস্তুতি · NSDA Study", template: "%s · প্রস্তুতি" },
@@ -12,7 +13,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#4f46e5",
+  themeColor: THEME_COLOR,
   width: "device-width",
   initialScale: 1,
   viewportFit: "cover",

@@ -1,0 +1,28 @@
+UI/UX Studio
+=======
+
+UI/UX Studio combines, rewrites and extends material from the following projects. Where text or
+rules were adapted, the original licence terms apply to that material.
+
+- frontend-design (anthropics/skills), Apache License 2.0.
+  Adapted: the design-studio stance, grounding in the subject, the AI-look clusters, the
+  two-pass plan-and-review process, restraint and self-critique, and writing guidance.
+  Modified and reorganised (references 13, 14, 15, 12).
+
+- ui-ux-pro-max (nextlevelbuilder/ui-ux-pro-max-skill), MIT License.
+  Adapted: the priority order, the rule quick-reference, design dials, the Master and page
+  override pattern, the pre-delivery checklist and pro rules, and motion and stack guidance
+  distilled from its data files (references 04, 10, 11, 17, 19, 20). The style, palette and
+  font databases were not included.
+
+- web-design-guidelines (vercel-labs/agent-skills), rules from vercel-labs/web-interface-guidelines
+  at commit 434b7f91364665f2f733b310ec54809bf8f37937.
+  Included with light edits as reference 18, with the audit output format.
+
+- humanizer-zh (op7418/humanizer-zh), MIT License, itself based on blader/humanizer and
+  hardikpandya/stop-slop.
+  Adapted: the editing constraints and pattern categories, rewritten for UI copy in any
+  language (reference 13, part B).
+
+- product-ui-ux and sutro-design (the author's own skills).
+  Basis of the method, templates, contrast script and the project overlay pattern.

@@ -85,7 +85,7 @@ function Short({ short, conceptId }: { short: GenConcept["practice"]["short"]; c
               {short.keyPoints.map((k, i) => (
                 <li key={i}>
                   <label className="flex min-h-11 cursor-pointer items-start gap-3 rounded-xl border border-line bg-card px-3 py-2.5 text-[15px] has-[:checked]:border-ok/50 has-[:checked]:bg-ok-soft">
-                    <input type="checkbox" disabled={saved} className="mt-1 h-4 w-4 accent-[#12805c]" checked={ticked.has(i)}
+                    <input type="checkbox" disabled={saved} className="mt-1 h-4 w-4 accent-ok" checked={ticked.has(i)}
                       onChange={() => setTicked((s) => { const n = new Set(s); if (n.has(i)) n.delete(i); else n.add(i); return n; })} />
                     {k.text}
                   </label>

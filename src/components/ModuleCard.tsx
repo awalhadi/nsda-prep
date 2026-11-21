@@ -26,7 +26,7 @@ export default function ModuleCard({
   return (
     <Link
       href={`/module/${mod.id}`}
-      className="group relative flex flex-col justify-between rounded-xl border border-border-subtle bg-surface p-4 hover:border-teal/60 hover:bg-surface-2 transition-all"
+      className="group relative flex flex-col justify-between rounded-xl border border-border-subtle bg-surface p-4 hover:border-teal/60 hover:bg-surface-2 transition-colors"
     >
       <div className="flex items-start justify-between">
         <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-surface-2 border border-border-subtle text-teal group-hover:scale-105 transition-transform">
@@ -43,7 +43,7 @@ export default function ModuleCard({
       <div className="mt-3 flex items-center gap-2">
         <div className="h-1.5 flex-1 rounded-full bg-surface-3 overflow-hidden">
           <div
-            className="h-full rounded-full transition-all duration-700"
+            className="h-full rounded-full transition-opacity duration-300"
             style={{
               width: accuracy === null ? "0%" : `${accuracy}%`,
               background: ringColor,

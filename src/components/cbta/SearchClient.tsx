@@ -6,7 +6,7 @@ import { norm } from "@/lib/cbta/norm";
 import type { GenIndexEntry } from "@/lib/cbta/types";
 import ConceptTile from "./ConceptTile";
 
-export default function SearchClient({ index, autoFocus = true }: { index: GenIndexEntry[]; autoFocus?: boolean }) {
+export default function SearchClient({ index }: { index: GenIndexEntry[] }) {
   const [q, setQ] = useState("");
   const docs = useMemo(() => index.map((c) => ({
     c,
@@ -39,9 +39,9 @@ export default function SearchClient({ index, autoFocus = true }: { index: GenIn
       <label className="relative block">
         <span className="sr-only">Search a topic</span>
         <Search size={20} className="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 text-ink-3" aria-hidden />
-        <input autoFocus={autoFocus} type="search" value={q} onChange={(e) => setQ(e.target.value)}
+        <input type="search" value={q} onChange={(e) => setQ(e.target.value)}
           placeholder="Search a topic: evidence, hazard, প্রমাণ…"
-          className="min-h-14 w-full rounded-2xl border-2 border-line bg-card pl-12 pr-4 text-[17px] text-ink placeholder:text-ink-3 focus:border-brand focus:outline-none" />
+          className="min-h-14 w-full rounded-2xl border-2 border-line bg-card pl-12 pr-4 text-[17px] text-ink placeholder:text-ink-3 focus:border-brand focus:outline-none focus-visible:ring-2 focus-visible:ring-brand focus-visible:ring-offset-2" />
       </label>
       {q && <p className="mt-2 text-[13px] text-ink-3" role="status">{results.length ? `${results.length} topic${results.length === 1 ? "" : "s"}` : "No topic found. Try another word."}</p>}
       <ul className="mt-4 space-y-2.5">

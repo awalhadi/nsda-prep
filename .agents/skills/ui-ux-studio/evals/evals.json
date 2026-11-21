@@ -1,0 +1,59 @@
+{
+  "skill_name": "ui-ux-studio",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "We're building a personal budgeting app in React Native (Expo). Design the onboarding: 3 screens max, it should feel calm and trustworthy, and I want nice animations between steps.",
+      "expected_output": "Discovery assumptions, a direction plan with named colours, type, dials and a motion signature, genericity test result, screen specs with one primary action and all states, a motion spec using the motion tokens with Reanimated code and a reduced-motion branch, and the review gate with not-checked lines marked.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Our SaaS landing page has a gradient hero, a big '10x faster' stat, three rounded feature cards with icons, and fade-up on every section. My boss says it looks AI-generated. Critique it and propose something better. We sell scheduling software for veterinary clinics.",
+      "expected_output": "Proposal-Problem-Change critique naming specific tells (SaaS card kit, big-number hero, fade-up everywhere, unsourced claim), a new direction grounded in veterinary clinic vernacular, one bold move, one orchestrated motion moment, copy rewritten without hype, short-form gate.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Set up design tokens for a Flutter fitness app with light and dark mode. Brand colour is #22C55E. Check contrast.",
+      "expected_output": "tokens.json in the template shape with semantic names, light and dark values, pairs and a motion block; contrast.mjs run with ratios reported; the vivid green kept for fills with a darker text shade; Flutter ThemeExtension guidance from 17.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "Review the UI code in src/components for accessibility and best-practice problems.",
+      "expected_output": "ui-lint.mjs run first, then findings in terse file:line format grouped by file per reference 18, plus a line on what needs a browser to check.",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "Add page transitions and micro-interactions to our Next.js app router site. Keep it tasteful.",
+      "expected_output": "Motion plan with jobs per animation, View Transitions with fallback or Motion layout animations, press feedback, tokens as CSS variables, reduced motion handled globally, performance notes, motion section of the gate.",
+      "files": []
+    },
+    {
+      "id": 6,
+      "prompt": "Rewrite these strings so they don't sound like a robot wrote them: 'Oops! Something went wrong.', 'Unlock seamless collaboration', 'Get started', 'Your request has been submitted successfully!'",
+      "expected_output": "Rewrites that name the action and the state, no invented facts or numbers, errors stating what happened, what is safe and what to do, a note where a real detail is needed from the user.",
+      "files": []
+    },
+    {
+      "id": 7,
+      "prompt": "Design the checkout payment step for a food delivery app on iOS (SwiftUI).",
+      "expected_output": "High-stakes flow rules from 07: calm, no motion beyond feedback, explicit price, failure states saying whether money moved; SwiftUI idioms from 17; screen spec with states and acceptance criteria; gate.",
+      "files": []
+    },
+    {
+      "id": 8,
+      "prompt": "Make a design skill for this repository so every agent follows our design system.",
+      "expected_output": "A project overlay created from the template at .claude/skills/<product>-design/SKILL.md with sources of truth, enforced rules, motion signature, traps and open questions, plus a direction record started from the template.",
+      "files": []
+    },
+    {
+      "id": 9,
+      "prompt": "Our Arabic news app needs a new article screen design for Android with Jetpack Compose.",
+      "expected_output": "RTL rules from 09 (mirroring, logical layout, motion direction, bidi isolation), type choice covering Arabic, Compose idioms, screen spec with states and the gate.",
+      "files": []
+    }
+  ]
+}

@@ -147,7 +147,7 @@ export default function FlashcardsClient({
         </span>
       </div>
       <div className="h-1.5 rounded-full bg-surface-3 overflow-hidden mb-6">
-        <div className="h-full bg-teal transition-all duration-300" style={{ width: `${progressPct}%` }} />
+        <div className="h-full bg-teal transition-opacity duration-300" style={{ width: `${progressPct}%` }} />
       </div>
 
       <button

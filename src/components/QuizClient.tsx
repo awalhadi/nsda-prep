@@ -256,14 +256,14 @@ export default function QuizClient({ moduleId, moduleTitle, allQuestions, count,
         <span className="flex items-center gap-3">
           <span className="text-teal">{correctCount} correct</span>
           {timed && (
-            <span className={`flex items-center gap-1 ${timeUrgent ? "text-rose animate-pulse" : ""}`}>
+            <span className={`flex items-center gap-1 ${timeUrgent ? "text-rose animate-pulse motion-reduce:animate-none" : ""}`}>
               <TimerIcon size={12} /> {timeLeft}s
             </span>
           )}
         </span>
       </div>
       <div className="h-1.5 rounded-full bg-surface-3 overflow-hidden mb-6">
-        <div className="h-full bg-teal transition-all duration-300" style={{ width: `${progressPct}%` }} />
+        <div className="h-full bg-teal transition-opacity duration-300" style={{ width: `${progressPct}%` }} />
       </div>
 
       <div className="rounded-2xl border border-border-subtle bg-surface p-5 sm:p-7">
@@ -285,7 +285,7 @@ export default function QuizClient({ moduleId, moduleTitle, allQuestions, count,
                 key={i}
                 disabled={locked}
                 onClick={() => commitAnswer(i)}
-                className={`w-full text-left rounded-xl border px-4 py-3 flex items-center gap-3 transition-all text-sm ${stateClasses} ${locked ? "cursor-default" : "cursor-pointer active:scale-[0.99]"}`}
+                className={`w-full text-left rounded-xl border px-4 py-3 min-h-[48px] flex items-center gap-3 transition-colors text-sm ${stateClasses} ${locked ? "cursor-default" : "cursor-pointer active:scale-[0.99]"}`}
               >
                 <span className="font-mono-tag text-[11px] w-5 h-5 flex items-center justify-center rounded-md border border-border-subtle shrink-0">
                   {i + 1}
@@ -305,7 +305,6 @@ export default function QuizClient({ moduleId, moduleTitle, allQuestions, count,
           {locked && (
             <button
               onClick={goNext}
-              autoFocus
               className="ml-auto inline-flex items-center gap-1.5 rounded-lg bg-brand text-white font-semibold text-sm px-5 py-2.5 hover:brightness-110 transition"
             >
               {idx + 1 >= total ? "See results" : "Next"} <ArrowRight size={14} />

@@ -152,7 +152,7 @@ export default function MockClient({ cblms }: { cblms: { n: number; title: strin
             {paper.short.map((q, qi) => (
               <li key={q.id}>
                 <p className="font-bold">{qi + 1}. {q.prompt}</p>
-                <textarea rows={3} aria-label={`Your answer to question ${qi + 1}`} className="mt-2 w-full rounded-xl border-2 border-line bg-card p-3 text-[15px] focus:border-brand focus:outline-none" />
+                <textarea rows={3} aria-label={`Your answer to question ${qi + 1}`} className="mt-2 w-full rounded-xl border-2 border-line bg-card p-3 text-[15px] focus:border-brand focus:outline-none focus-visible:ring-2 focus-visible:ring-brand focus-visible:ring-offset-2" />
               </li>
             ))}
           </ol>

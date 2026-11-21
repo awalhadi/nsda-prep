@@ -20,7 +20,7 @@ export function StatusBadge({ status }: { status: CardStatus }) {
 
 export const PRIORITY = {
   3: { label: "Must read", bn: "অবশ্যই পড়ুন", chip: "bg-hot-soft text-hot", text: "text-hot", rail: "bg-hot" },
-  2: { label: "Important", bn: "গুরুত্বপূর্ণ", chip: "bg-sand text-hot", text: "text-hot", rail: "bg-[#e0a43a]" },
+  2: { label: "Important", bn: "গুরুত্বপূর্ণ", chip: "bg-sand text-hot", text: "text-hot", rail: "bg-amber" },
   1: { label: "Good to know", bn: "জেনে রাখুন", chip: "bg-brand-soft text-brand-ink", text: "text-brand", rail: "bg-brand/60" },
 } as const;
 

@@ -1,0 +1,120 @@
+[
+ {
+  "query": "my react dashboard looks so generic and boring, every card is the same rounded box with a shadow. can you redesign the layout and colours so it looks like a real product a designer made?",
+  "should_trigger": true,
+  "skills_used": [
+   "ui-ux-studio"
+  ]
+ },
+ {
+  "query": "Add smooth page transitions and some micro-interactions to our Next.js app router site, nothing over the top",
+  "should_trigger": true,
+  "skills_used": [
+   "ui-ux-studio"
+  ]
+ },
+ {
+  "query": "set up light and dark theme tokens for our flutter app, brand colour is #22C55E, and make sure the text contrast passes WCAG",
+  "should_trigger": true,
+  "skills_used": [
+   "ui-ux-studio"
+  ]
+ },
+ {
+  "query": "design the onboarding flow for a budgeting app in react native, 3 screens, it needs to feel trustworthy",
+  "should_trigger": true,
+  "skills_used": [
+   "ui-ux-studio"
+  ]
+ },
+ {
+  "query": "can you review the components in src/ui for accessibility and UX problems? focus rings, labels, that kind of thing",
+  "should_trigger": true,
+  "skills_used": [
+   "ui-ux-studio"
+  ]
+ },
+ {
+  "query": "the bottom sheet in our SwiftUI app feels janky when you drag it down, how should the dismiss animation work?",
+  "should_trigger": true,
+  "skills_used": [
+   "ui-ux-studio"
+  ]
+ },
+ {
+  "query": "landing page for a vet clinic scheduling SaaS, make the hero section memorable, not the usual gradient + big stat",
+  "should_trigger": true,
+  "skills_used": [
+   "product-ui-ux"
+  ]
+ },
+ {
+  "query": "our error messages say 'Oops! Something went wrong' everywhere. rewrite the app's error and empty state copy so it sounds human",
+  "should_trigger": true,
+  "skills_used": []
+ },
+ {
+  "query": "we're adding Arabic support to our Compose news app, what needs to change in the article screen layout?",
+  "should_trigger": true,
+  "skills_used": [
+   "ui-ux-studio"
+  ]
+ },
+ {
+  "query": "pick a font pairing and type scale for an editorial long-read site, and tell me line heights",
+  "should_trigger": true,
+  "skills_used": [
+   "ui-ux-studio"
+  ]
+ },
+ {
+  "query": "write a jest unit test for the formatCurrency util in src/lib/money.ts",
+  "should_trigger": false,
+  "skills_used": []
+ },
+ {
+  "query": "our postgres query for the orders dashboard takes 4 seconds, can you add the right index?",
+  "should_trigger": false,
+  "skills_used": []
+ },
+ {
+  "query": "make a bar chart in matplotlib of monthly revenue from sales.csv and save it as png",
+  "should_trigger": false,
+  "skills_used": []
+ },
+ {
+  "query": "set up github actions to run eslint and deploy the next.js app to vercel on push to main",
+  "should_trigger": false,
+  "skills_used": []
+ },
+ {
+  "query": "convert this Figma-exported SVG logo to a PNG at 512x512",
+  "should_trigger": false,
+  "skills_used": []
+ },
+ {
+  "query": "write a blog post about the history of the Bauhaus design school for our company newsletter",
+  "should_trigger": false,
+  "skills_used": []
+ },
+ {
+  "query": "the login API returns 500 when the email has a plus sign, find the bug in auth/handler.go",
+  "should_trigger": false,
+  "skills_used": []
+ },
+ {
+  "query": "create a 10-slide pitch deck pptx for our seed round",
+  "should_trigger": false,
+  "skills_used": []
+ },
+ {
+  "query": "rename the React component UserCard to ProfileCard across the codebase",
+  "should_trigger": false,
+  "skills_used": []
+ },
+ {
+  "query": "explain how CSS grid auto-fill differs from auto-fit, with a quick example",
+  "should_trigger": false,
+  "skills_used": []
+ }
+]

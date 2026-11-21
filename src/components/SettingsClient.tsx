@@ -26,7 +26,7 @@ export default function SettingsClient() {
   if (!ready) {
     return (
       <div className="mx-auto max-w-2xl px-4 sm:px-6 py-8">
-        <div className="h-40 rounded-xl border border-border-subtle bg-surface animate-pulse" />
+        <div className="h-40 rounded-xl border border-border-subtle bg-surface animate-pulse motion-reduce:animate-none" />
       </div>
     );
   }

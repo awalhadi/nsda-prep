@@ -19,7 +19,7 @@ export default function ReviseClient({ index }: { index: GenIndexEntry[] }) {
     window.addEventListener("storage", load);
     return () => { window.removeEventListener("cbta-progress", load); window.removeEventListener("storage", load); };
   }, []);
-  if (!state) return <div className="h-40 animate-pulse rounded-2xl bg-card" />;
+  if (!state) return <div className="h-40 animate-pulse motion-reduce:animate-none rounded-2xl bg-card" />;
 
   const byId = new Map(index.map((c) => [c.id, c]));
   const due = dueConcepts(state).map((id) => byId.get(id)).filter((c): c is GenIndexEntry => !!c);

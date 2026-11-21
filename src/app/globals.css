@@ -121,13 +121,13 @@ html { scroll-behavior: smooth; scroll-padding-top: 90px; }
 .app-shell { min-height: 100dvh; }
 .app-workspace { min-width: 0; }
 .study-content { min-width: 0; padding-bottom: calc(90px + env(safe-area-inset-bottom)); }
-.app-topbar { height: 76px; position: sticky; top: 0; z-index: 40; display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 0 20px; border-bottom: 1px solid var(--border-subtle); background: var(--bg-canvas); }
+.app-topbar { height: 58px; position: sticky; top: 0; z-index: 40; display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 0 16px; border-bottom: 1px solid var(--border-subtle); background: var(--bg-canvas); }
 .brand-mark { display: inline-flex; width: 44px; height: 44px; align-items: center; justify-content: center; border-radius: 14px; color: white; background: #4f46e5; flex-shrink: 0; }
 .brand-mark.small { width: 34px; height: 34px; border-radius: 11px; }
 .app-sidebar { display: none; }
 .icon-button { min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; border-radius: 12px; color: var(--text-muted); }
 .icon-button:hover { background: var(--bg-surface-2); color: var(--text-primary); }
-.mobile-course-switch { font-size: 12px; font-weight: 700; border: 1px solid var(--border-subtle); border-radius: 10px; padding: 8px; }
+.mobile-course-switch { font-size: 12px; font-weight: 700; border: 1px solid var(--border-subtle); border-radius: 10px; padding: 4px; }
 .mobile-bottom-nav { position: fixed; z-index: 50; bottom: 0; left: 0; right: 0; display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); padding: 8px 8px calc(8px + env(safe-area-inset-bottom)); border-top: 1px solid var(--border-subtle); background: var(--bg-surface); }
 .mobile-bottom-nav a { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; min-height: 52px; border-radius: 12px; color: var(--text-faint); font-size: 12px; font-weight: 600; }
 .mobile-bottom-nav a.active { background: var(--study-brand-soft); color: var(--study-brand-ink); }
@@ -144,7 +144,7 @@ html { scroll-behavior: smooth; scroll-padding-top: 90px; }
 .study-secondary { min-height: 46px; display: inline-flex; align-items: center; justify-content: center; gap: 8px; padding: 10px 16px; border: 1px solid var(--border-subtle); border-radius: 12px; font-weight: 600; background: var(--bg-surface); }
 .study-secondary:hover { border-color: var(--study-brand); }
 .progress-track { height: 7px; overflow: hidden; border-radius: 10px; background: var(--bg-surface-3); }
-.progress-track > span { display: block; height: 100%; border-radius: inherit; background: var(--study-brand); transition: width .4s; }
+.progress-track > span { display: block; height: 100%; border-radius: inherit; background: var(--study-brand); }
 .focus-mode .app-topbar { height: 60px; }
 .focus-mode .study-content { padding-bottom: env(safe-area-inset-bottom); }
 @media (min-width: 1024px) {
@@ -188,11 +188,10 @@ html { scroll-behavior: smooth; scroll-padding-top: 90px; }
 /* Chunky, tactile buttons (pressed state moves down onto the shadow). */
 .cbta-btn {
   border-bottom-width: 4px;
-  transition: transform 0.08s ease, border-bottom-width 0.08s ease;
+  transition: transform 0.08s ease;
 }
 .cbta-btn:not(:disabled):active {
   transform: translateY(2px);
-  border-bottom-width: 2px;
 }
 .cbta-flip {
   perspective: 1200px;

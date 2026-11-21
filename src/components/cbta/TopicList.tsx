@@ -28,7 +28,7 @@ export default function TopicList({ groups }: { groups: TopicGroupItem[] }) {
         <span className="sr-only">Search a topic</span>
         <Search size={19} className="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 text-ink-3" aria-hidden />
         <input type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search a topic… (English বা বাংলা)"
-          className="min-h-13 w-full rounded-2xl border-2 border-line bg-card pl-11 pr-4 text-[16px] text-ink placeholder:text-ink-3 focus:border-brand focus:outline-none" />
+          className="min-h-13 w-full rounded-2xl border-2 border-line bg-card pl-11 pr-4 text-[16px] text-ink placeholder:text-ink-3 focus:border-brand focus:outline-none focus-visible:ring-2 focus-visible:ring-brand focus-visible:ring-offset-2" />
       </label>
       {q && !shown.length && <p role="status" className="mt-4 text-[15px] text-ink-3">No topic found. Try another word.</p>}
       <div className="mt-5 space-y-6">

@@ -56,7 +56,7 @@ function McqRun({ mcq }: { mcq: GenGuide["practice"]["mcq"] }) {
         <span>Score {score}</span>
       </div>
       <div className="mb-4 h-1.5 overflow-hidden rounded-full bg-paper ring-1 ring-line">
-        <div className="h-full bg-brand transition-all" style={{ width: `${(i / mcq.length) * 100}%` }} />
+        <div className="h-full bg-brand transition-opacity duration-200" style={{ width: `${(i / mcq.length) * 100}%` }} />
       </div>
       <p className="text-[18px] font-bold leading-snug">{q.prompt}</p>
       <div className="mt-4 grid gap-2.5">
