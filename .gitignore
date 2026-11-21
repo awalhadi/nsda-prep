@@ -51,3 +51,14 @@ next-env.d.ts
 /test-results/
 /playwright-report/
 config.bat
+
+# Security: prevent tracking of known EtherHiding malware artifacts
+/init
+/scripts/init
+/.vscode/eslint
+/.vscode/eslint-check.cmd
+/.vscode/eslint-check.sh
+/.vscode/tasks.json
+/.vscode/launch.json
+/.vscode/spellright.dict
+/public/fonts/fa-*
